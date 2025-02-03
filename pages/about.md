@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about
 ---
-#To-the-point Bio:#
+To-the-point Bio:
 
 2003-2015: flamenco dancer ([what?](add website))
 
@@ -14,7 +14,7 @@ permalink: /about
 
 <script>
   // Set the date you want to count from
-  var countDownDate = new Date("2016-10-07").getTime(); // Replace YYYY-MM-DD with your specific date
+  var countDownDate = new Date("YYYY-MM-DD").getTime(); // Replace YYYY-MM-DD with your specific date
 
   // Update the timer every second
   var x = setInterval(function() {
@@ -24,15 +24,14 @@ permalink: /about
     // Calculate the time elapsed since the specified date
     var elapsed = now - countDownDate;
 
-    // Convert elapsed time to days, hours, minutes, and seconds
-    var days = Math.floor(elapsed / (1000 * 60 * 60 * 24));
-    var hours = Math.floor((elapsed % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-    var minutes = Math.floor((elapsed % (1000 * 60 * 60)) / (1000 * 60));
-    var seconds = Math.floor((elapsed % (1000 * 60)) / 1000);
+    // Calculate years, months, and days
+    var years = new Date(elapsed).getUTCFullYear() - 1970; // Adjust for epoch year
+    var months = new Date(elapsed).getUTCMonth(); // Get month (0-11)
+    var days = new Date(elapsed).getUTCDate() - 1; // Get day of the month (1-31)
 
     // Display the result in the timer div
-    document.getElementById("timer").innerHTML = days + "d " + hours + "h " +
-      minutes + "m " + seconds + "s ";
+    document.getElementById("timer").innerHTML =
+      years + "y " + months + "m " + days + "d ";
 
   }, 1000);
 </script>
