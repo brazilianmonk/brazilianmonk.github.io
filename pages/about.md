@@ -5,11 +5,11 @@ permalink: /about
 ---
 ## To-the-point Bio:
 
-2003-2015: flamenco dancer ([what?](https://www.google.com/search?q=Stefano+Domit+Flamenco))
+**2003-2015**: flamenco dancer ([what?](https://www.google.com/search?q=Stefano+Domit+Flamenco))
 
-2015-2022: meditation (MM) ([here](https://www.paaukforestmonastery.org/))
+**2015-2022**: meditation (MM) ([here](https://www.paaukforestmonastery.org/))
 
-2016-present: Theravāda Buddhist monk for
+**2016-present**: Theravāda Buddhist monk for
 <div id="timer"></div>
 
 <script>
@@ -36,4 +36,4 @@ permalink: /about
   }, 1000);
 </script>
 
-2022-present: student at [Intl. Inst. of Theravāda](https://www.theravado.com/) (SL)
+**2022-present**: student at [Intl. Inst. of Theravāda](https://www.theravado.com/) (SL)
