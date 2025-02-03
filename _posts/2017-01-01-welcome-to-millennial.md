@@ -4,7 +4,7 @@ title: "About (WIP)"
 author: "Ariya"
 categories: documentation
 tags: [documentation,sample]
-image: 
+image: (assets/img/me.jpg)
 ---
 
 ## WIP
