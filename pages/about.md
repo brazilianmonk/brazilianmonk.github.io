@@ -3,11 +3,14 @@ layout: page
 title: About
 permalink: /about
 ---
-#To-the-point Bio:
+#To-the-point Bio:#
+
 2003-2015: flamenco dancer ([what?](add website))
+
 2015-2022: meditation (MM) ([here](https://www.paaukforestmonastery.org/) 
+
 2016-present: Theravāda Buddhist monk
-      <div id="timer"></div>
+<div id="timer"></div>
 
 <script>
   // Set the date you want to count from
@@ -33,4 +36,5 @@ permalink: /about
 
   }, 1000);
 </script>
+
 2022-present: student at [Intl. Inst. of Theravāda](https://www.theravado.com/) (SL)
