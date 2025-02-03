@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Interesting Facts
+title: my Dhamma notes
 category: facts
 permalink: /facts
 ---
