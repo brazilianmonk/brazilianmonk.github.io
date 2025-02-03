@@ -1,6 +1,6 @@
 ---
 layout: category
-title: my Dhamma notes
+title: my notes
 category: facts
-permalink: /facts
+permalink: /my-notes
 ---
