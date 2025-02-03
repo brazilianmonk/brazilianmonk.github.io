@@ -5,12 +5,11 @@ permalink: /about
 ---
 To-the-point Bio:
 
-2003-2015: flamenco dancer ([what?](add website))
+2003-2015: flamenco dancer ([what?](https://www.google.com/search?q=Stefano+Domit+Flamenco))
 
 2015-2022: meditation (MM) ([here](https://www.paaukforestmonastery.org/) 
 
-2016-present: Theravāda Buddhist monk
-<div id="timer"></div>
+2016-present: Theravāda Buddhist monk (<div id="timer"></div>)
 
 <script>
   // Set the date you want to count from
