@@ -16,10 +16,9 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'twitter', link:    'https://twitter.com/paululele'}
-- {icon: 'facebook', link:   'https://www.facebook.com/paululele'}
-- {icon: 'instagram', link:  'https://instagram.com/paululele'}
-- {icon: 'envelope', link:   'mailto:hello@paulle.ca'}
+- {icon: 'twitter', link:    'https://x.com/AnB_Bz'}
+- {icon: 'facebook', link:   'https://www.facebook.com/anb.sdc'}
+- {icon: 'instagram', link:  'https://instagram.com/anb_sdc'}
 - {icon: 'rss-square', link: 'feed.xml'}
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
 
@@ -28,8 +27,8 @@ pagination:
   next_page: 'Newer'
   previous_page: 'Older'
 
-sharing_button_prompt: 'Feel free to share!'
+sharing_button_prompt: 'share'
 
-related_posts: 'You may also enjoy...'
+related_posts: 'related posts'
 
-post_date_prefix: 'Written on'
+post_date_prefix: 'written on'
