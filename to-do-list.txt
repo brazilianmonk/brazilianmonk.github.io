@@ -2,3 +2,4 @@ to do list for the website:
   - make privacy page available through some link (maybe footnote)
   - add youtube link
   - improve the home video
+  - add google analytics tag to all pages (tag in index)
