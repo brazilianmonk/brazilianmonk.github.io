@@ -11,7 +11,6 @@ permalink: /about
 
 **2016-present**: Theravāda Buddhist monk for
 <div id="timer"></div>
-
 <script>
   // Set the date you want to count from
   var countDownDate = new Date("2016-10-07").getTime(); // Replace YYYY-MM-DD with your specific date
@@ -21,17 +20,16 @@ permalink: /about
     // Get the current date and time
     var now = new Date().getTime();
 
-    // Calculate the time elapsed since the specified date
+  // Calculate the time elapsed since the specified date
     var elapsed = now - countDownDate;
 
-    // Calculate years, months, and days
+  // Calculate years, months, and days
     var years = new Date(elapsed).getUTCFullYear() - 1970; // Adjust for epoch year
     var months = new Date(elapsed).getUTCMonth(); // Get month (0-11)
     var days = new Date(elapsed).getUTCDate() - 1; // Get day of the month (1-31)
 
-    // Display the result in the timer div
+  // Display the result in the timer div
     document.getElementById("timer").innerHTML =
       years + "y " + months + "m " + days + "d ";
-
-
-**2022-present**: student at [Intl. Inst. of Theravāda](https://www.theravado.com/) (SL)
+                      
+  **2022-present**: student at [Intl. Inst. of Theravāda](https://www.theravado.com/) (SL)
