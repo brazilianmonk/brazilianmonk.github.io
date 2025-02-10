@@ -14,7 +14,7 @@ permalink: /about
 
 <script>
   // Set the date you want to count from
-  var countDownDate = new Date("2016-10-07").getTime(); // Replace YYYY-MM-DD with your specific date
+  var countDownDate = new Date("2019-06-16").getTime(); // Replace YYYY-MM-DD with your specific date
 
   // Update the timer every second
   var x = setInterval(function() {
