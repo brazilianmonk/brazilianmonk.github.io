@@ -7,6 +7,7 @@ disqus:
 google-ID: 'G-48EBF94R81'
 
 menu:
+- {name: 'Monk Calculators',  url: 'monk-calculators'}
 - {name: 'Interesting Facts',  url: 'facts'}
 - {name: 'Learning Resources', url: 'resources'}
 - {name: 'Sample Posts',       url: 'sample-posts'}
