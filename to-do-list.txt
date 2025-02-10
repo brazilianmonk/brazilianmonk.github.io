@@ -3,3 +3,5 @@ to do list for the website:
   - add youtube link
   - improve the home video
   - add google analytics tag to all pages (tag in index) (check if it necessary after adding the google ID [already added])
+  - fix the my ordination period calculator in about
+  - fix the ordination time counter in monk calculators
