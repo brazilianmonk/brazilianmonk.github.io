@@ -17,4 +17,4 @@ permalink: /monk-calculators/
 
 <p id="result"></p>
 
-<script src="/assets/js/ordination-calculator.js"></script>
+<script src="/assets/js/ordination-date-calculator.js"></script>
