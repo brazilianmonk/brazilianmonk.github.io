@@ -3,18 +3,36 @@ layout: default
 title: Monk Calculators
 permalink: /monk-calculators/
 ---
+<div class="container">
+    <h1>Upasampadā Date Calculator</h1>
+    <form id="calculatorForm">
+        <div class="form-group">
+            <label for="birthDate">Date of Birth:</label>
+            <input type="date" id="birthDate" required>
+        </div>
 
-<h1>Monk Ordination Calculator</h1>
-<p>Enter your birth date and optionally adjust the days in the womb (default is 180 days).</p>
+        <div class="form-group">
+            <label>Gestation Period:</label>
+            <div class="radio-group">
+                <input type="radio" id="daysOption" name="gestationType" value="days" checked>
+                <label for="daysOption">Enter days in mother's womb</label>
+            </div>
+            <div id="daysInput" class="input-section" style="display: block;">
+                <input type="number" id="daysInWomb" placeholder="Enter number of days (default 180 days)" value="180" min="0" max="360">
+            </div>
 
-<label for="birthdate">Birth Date:</label>
-<input type="date" id="birthdate">
+            <div class="radio-group">
+                <input type="radio" id="dateOption" name="gestationType" value="date">
+                <label for="dateOption">Enter date of conception</label>
+            </div>
+            <div id="dateInput" class="input-section">
+                <input type="date" id="conceptionDate">
+            </div>
+        </div>
 
-<label for="wombDays">Days in Womb:</label>
-<input type="number" id="wombDays" placeholder="Days in womb (default 180)">
+        <button type="submit">Calculate Ordination Date</button>
+    </form>
 
-<button onclick="calculateOrdinationDate()">Calculate</button>
-
-<p id="result"></p>
-
-<script src="/assets/js/ordination-date-calculator-dn.html"></script>
+    <div id="result"></div>
+</div>
+<script src="/assets/js/calculator.js"></script>
