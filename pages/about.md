@@ -34,8 +34,10 @@ permalink: /about
       years + "y " + months + "m " + days + "d ";
 
 
+**2022-present**: student at [Intl. Inst. of Theravāda](https://www.theravado.com/) (SL)
 
-    Testing ordination time calculator:
+
+ Testing ordination time calculator:
 
     <!DOCTYPE html>
 <html lang="en">
@@ -85,4 +87,3 @@ permalink: /about
   }, 1000);
 </script>
 
-**2022-present**: student at [Intl. Inst. of Theravāda](https://www.theravado.com/) (SL)
