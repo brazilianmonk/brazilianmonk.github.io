@@ -171,11 +171,7 @@ permalink: /monk-calculators/
 
 
 
-
-
-     Testing ordination time calculator:
-
-    <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -184,7 +180,7 @@ permalink: /monk-calculators/
 </head>
 <body>
     <h1>Ordination Duration Counter</h1>
-    <label for="ordinationDate">Enter your ordination date (YYYY/MM/DD):</label>
+    <label for="ordinationDate">Enter your ordination date (YYYY-MM-DD):</label>
     <input type="date" id="ordinationDate">
     <button onclick="calculateDuration()">Calculate Duration</button>
     
@@ -195,31 +191,29 @@ permalink: /monk-calculators/
             const ordinationDate = new Date(document.getElementById("ordinationDate").value);
             const today = new Date();
             
-            const years = today.getFullYear() - ordinationDate.getFullYear();
-            const months = today.getMonth() - ordinationDate.getMonth();
-            const days = today.getDate() - ordinationDate.getDate();
+            // Calculate the difference in years, months, and days
+            let years = today.getFullYear() - ordinationDate.getFullYear();
+            let months = today.getMonth() - ordinationDate.getMonth();
+            let days = today.getDate() - ordinationDate.getDate();
 
-            let totalYears = years;
-            let totalMonths = months;
-            let totalDays = days;
-
-            if (totalDays < 0) {
-                totalMonths--;
-                totalDays += new Date(today.getFullYear(), today.getMonth(), 0).getDate();
+            // Adjust for negative days
+            if (days < 0) {
+                months--;
+                days += new Date(today.getFullYear(), today.getMonth(), 0).getDate(); // Get last day of previous month
             }
 
-            if (totalMonths < 0) {
-                totalYears--;
-                totalMonths += 12;
+            // Adjust for negative months
+            if (months < 0) {
+                years--;
+                months += 12;
             }
 
+            // Display the result
             document.getElementById("result").innerText = 
-                `You have been ordained for ${totalYears} years, ${totalMonths} months, and ${totalDays} days.`;
+                `You have been ordained for ${years} years, ${months} months, and ${days} days.`;
         }
     </script>
 </body>
 </html>
 
-  }, 1000);
-</script>
 
