@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 600px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            background-color: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .author {
+            text-align: center;
+            color: #7f8c8d;
+            margin-bottom: 30px;
+            font-style: italic;
+        }
+        .form-group {
+            margin-bottom: 20px;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+            color: #34495e;
+        }
+        input[type="date"], input[type="number"] {
+            width: 100%;
+            padding: 8px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            margin-bottom: 10px;
+        }
+        .radio-group {
+            margin: 10px 0;
+        }
+        .input-section {
+            margin-left: 20px;
+            display: none;
+        }
+        button {
+            background-color: #3498db;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            width: 100%;
+        }
+        button:hover {
+            background-color: #2980b9;
+        }
+        #result {
+            margin-top: 20px;
+            padding: 15px;
+            border-radius: 4px;
+            display: none;
+        }
+        .success {
+            background-color: #e8f6f3;
+            border: 1px solid #2ecc71;
+            color: #27ae60;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Upasampadā Date Calculator</h1>
+        <div class="author">by International Institute of Theravada</div>
+        <form id="calculatorForm">
+            <div class="form-group">
+                <label for="birthDate">Date of Birth:</label>
+                <input type="date" id="birthDate" required>
+            </div>
+
+            <div class="form-group">
+                <label>Gestation Period:</label>
+                <div class="radio-group">
+                    <input type="radio" id="daysOption" name="gestationType" value="days" checked>
+                    <label for="daysOption">Enter days in mother's womb</label>
+                </div>
+                <div id="daysInput" class="input-section" style="display: block;">
+                    <input type="number" id="daysInWomb" placeholder="Enter number of days" min="0" max="300">
+                </div>
+
+                <div class="radio-group">
+                    <input type="radio" id="dateOption" name="gestationType" value="date">
+                    <label for="dateOption">Enter date of conception</label>
+                </div>
+                <div id="dateInput" class="input-section">
+                    <input type="date" id="conceptionDate">
+                </div>
+            </div>
+
+            <button type="submit">Calculate Ordination Date</button>
+        </form>
+
+        <div id="result"></div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const form = document.getElementById('calculatorForm');
+            const daysOption = document.getElementById('daysOption');
+            const dateOption = document.getElementById('dateOption');
+            const daysInput = document.getElementById('daysInput');
+            const dateInput = document.getElementById('dateInput');
+            const resultDiv = document.getElementById('result');
+
+            // Toggle input sections based on radio selection
+            daysOption.addEventListener('change', function() {
+                daysInput.style.display = 'block';
+                dateInput.style.display = 'none';
+            });
+
+            dateOption.addEventListener('change', function() {
+                daysInput.style.display = 'none';
+                dateInput.style.display = 'block';
+            });
+
+            form.addEventListener('submit', function(e) {
+                e.preventDefault();
+
+                const birthDate = new Date(document.getElementById('birthDate').value);
+                let daysInWomb = 0;
+
+                if (daysOption.checked) {
+                    daysInWomb = parseInt(document.getElementById('daysInWomb').value) || 0;
+                } else {
+                    const conceptionDate = new Date(document.getElementById('conceptionDate').value);
+                    daysInWomb = Math.floor((birthDate - conceptionDate) / (1000 * 60 * 60 * 24));
+                }
+
+                // Calculate ordination date: birth date + (7200 - days in womb)
+                const daysToAdd = 7200 - daysInWomb;
+                const ordinationDate = new Date(birthDate);
+                ordinationDate.setDate(ordinationDate.getDate() + daysToAdd);
+
+                // Format the date for display
+                const formattedDate = ordinationDate.toLocaleDateString('en-US', {
+                    weekday: 'long',
+                    year: 'numeric',
+                    month: 'long',
+                    day: 'numeric'
+                });
+
+                resultDiv.innerHTML = `<strong>Ordination Date:</strong> ${formattedDate}`;
+                resultDiv.style.display = 'block';
+                resultDiv.className = 'success';
+            });
+        });
+    </script>
+</body>
+</html>
