@@ -4,14 +4,14 @@ title: Monk Calculators
 permalink: /monk-calculators/
 ---
     <style>
-        body {
+        calbody {
             font-family: Arial, sans-serif;
             max-width: 600px;
             margin: 20px auto;
             padding: 20px;
             background-color: #f5f5f5;
         }
-        .container {
+        .container-cal {
             background-color: white;
             padding: 30px;
             border-radius: 10px;
@@ -76,7 +76,7 @@ permalink: /monk-calculators/
     </style>
 </head>
 <body>
-    <div class="container">
+    <div class="container-cal">
         <h1>Upasampadā Date Calculator</h1>
         <form id="calculatorForm">
             <div class="form-group">
@@ -171,20 +171,12 @@ permalink: /monk-calculators/
 
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ordination Duration Counter</title>
-</head>
-<body>
     <h1>Ordination Duration Counter</h1>
     <label for="ordinationDate">Enter your ordination date (YYYY-MM-DD):</label>
     <input type="date" id="ordinationDate">
     <button onclick="calculateDuration()">Calculate Duration</button>
     
-    <h2 id="result"></h2>
+    <h2 id="result2"></h2>
 
     <script>
         function calculateDuration() {
@@ -209,11 +201,7 @@ permalink: /monk-calculators/
             }
 
             // Display the result
-            document.getElementById("result").innerText = 
+            document.getElementById("result2").innerText = 
                 `You have been ordained for ${years} years, ${months} months, and ${days} days.`;
         }
     </script>
-</body>
-</html>
-
-
