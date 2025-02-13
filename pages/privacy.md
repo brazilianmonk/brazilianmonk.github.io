@@ -1,3 +1,8 @@
+---
+title: Privacy Policy
+permalink: /privacy/
+---
+
 # Privacy Policy
 This website uses Google Analytics to collect anonymous visitor data, such as which pages are visited and how users interact with the site. This information helps improve the website's content and user experience.
 
