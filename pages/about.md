@@ -25,4 +25,11 @@ permalink: /about
     // Calculate years, months, and days
     var years = Math.floor(elapsed / (1000 * 60 * 60 * 24 * 365.25));
     var months = Math.floor((elapsed % (1000 * 60 * 60 * 24 * 365.25)) / (1000 * 60 * 60 * 24 * 30.4375));
-    var days = Math.floor((elapsed % (1000 * 60 * 60 * 24 * 30
+    var days = Math.floor((elapsed % (1000 * 60 * 60 * 24 * 30.4375)) / (1000 * 60 * 60 * 24));
+
+    // Display the result in the timer div
+    document.getElementById("timer").innerHTML = years + "y " + months + "m " + days + "d ";
+  }, 1000);
+</script>
+
+**2022-present**: student at [Intl. Inst. of Theravāda](https://www.theravado.com/) (SL)
