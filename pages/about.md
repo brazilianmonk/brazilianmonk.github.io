@@ -10,8 +10,7 @@ permalink: /about
 
 **2015-2022**: meditation (Myanmar) ([here](https://www.paaukforestmonastery.org/))
 
-**2016-present**: Theravāda Buddhist monk for  
-<div id="timer"></div>
+**2016-present**: Theravāda Buddhist monk for <span id="timer"></span>
 
 <script>
   // Set the date you want to count from
