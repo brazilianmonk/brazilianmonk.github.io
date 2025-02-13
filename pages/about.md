@@ -32,4 +32,4 @@ permalink: /about
   }, 1000);
 </script>
 
-**2022-present**: student at [Intl. Inst. of Theravāda](https://www.theravado.com/) (SL)
+**2022-present**: student and English teacher at [Intl. Inst. of Theravāda](https://www.theravado.com/) (SL)
