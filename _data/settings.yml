@@ -17,6 +17,7 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
+- {icon: 'youtube', link: 'http://www.youtube.com/@anb_sdc'}
 - {icon: 'twitter', link:    'https://x.com/AnB_Bz'}
 - {icon: 'facebook', link:   'https://www.facebook.com/anb.sdc'}
 - {icon: 'instagram', link:  'https://instagram.com/anb_sdc'}
