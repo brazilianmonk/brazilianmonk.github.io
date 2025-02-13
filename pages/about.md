@@ -11,7 +11,7 @@ permalink: /about
 **2015-2022**: meditation (Myanmar) ([here](https://www.paaukforestmonastery.org/))
 
 **2016-present**: Theravāda Buddhist monk for <span id="timer"></span>
-[Calculate your ordination time **here**](/monk-calculators.html)
+
 <script>
   // Set the date you want to count from
   var countDownDate = new Date("2016-10-07").getTime(); // Ordination date
@@ -30,5 +30,5 @@ permalink: /about
     document.getElementById("timer").innerHTML = years + "y " + months + "m " + days + "d ";
   }, 1000);
 </script>
-
+[Calculate your ordination time **here**](/monk-calculators.html)
 **2022-present**: student and English teacher at [Intl. Inst. of Theravāda](https://www.theravado.com/) (Sri Lanka)
