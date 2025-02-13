@@ -6,9 +6,9 @@ permalink: /about
 
 ## To-the-point Bio:
 
-**2003-2015**: flamenco dancer ([what?](https://www.google.com/search?q=Stefano+Domit+Flamenco))
+**2003-2015**: flamenco dancer (Spain, Brazil, others) ([what?](https://www.google.com/search?q=Stefano+Domit+Flamenco))
 
-**2015-2022**: meditation (MM) ([here](https://www.paaukforestmonastery.org/))
+**2015-2022**: meditation (Myanmar) ([here](https://www.paaukforestmonastery.org/))
 
 **2016-present**: Theravāda Buddhist monk for  
 <div id="timer"></div>
