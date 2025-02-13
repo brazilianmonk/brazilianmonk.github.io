@@ -1,7 +1,3 @@
 to do list for the website:
   -check google analytics  
   - improve the home video
-  - fix the my ordination period calculator in about
-  - fix the ordination time counter in monk calculators
-  - fix google analytics
-  - fix privacy link
