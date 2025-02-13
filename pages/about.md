@@ -30,5 +30,6 @@ permalink: /about
     document.getElementById("timer").innerHTML = years + "y " + months + "m " + days + "d ";
   }, 1000);
 </script>
-[Calculate your ordination time **here**](/monk-calculators.html)
+[Calculate yours](/monk-calculators.html)
+
 **2022-present**: student and English teacher at [Intl. Inst. of Theravāda](https://www.theravado.com/) (Sri Lanka)
