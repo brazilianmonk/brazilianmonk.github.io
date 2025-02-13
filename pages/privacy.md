@@ -16,7 +16,7 @@ General location (city-level, no precise address).
 
 Personal data like names, emails, or exact locations.
 Sensitive information.
-## How can you opt out?##
+## How can you opt out?
 You can disable Google Analytics tracking by using a browser extension like [Google’s Opt-Out Add-on](https://tools.google.com/dlpage/gaoptout) or adjusting your browser settings.
 
 For more details, see [Google's Privacy Policy](https://policies.google.com/privacy)
