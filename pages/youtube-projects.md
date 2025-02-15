@@ -4,8 +4,6 @@ title: YouTube Projects
 permalink: /youtube-projects
 ---
 
-## YouTube Projects
-
 The things we do -- lectures, talks, writings, etc. -- are quite difficult to do (!), so I began sharing them online to cause a greater impact, keep track of what I do, and make the most of things. 
 
 Below, you will find my current YT channel and plans for future projects.
