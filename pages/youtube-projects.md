@@ -17,7 +17,7 @@ This is where I currently host all my YouTube content including:
 - **Recitations**: Recitations of Dhamma texts with my flamenco-inspired style. 
 
 #### Visit the channel:
-<a href="https://youtube.com/playlist?list=PLXMGw7BI8gLVn_DKTX82nQ2Q0uWdUJpLT&feature=shared" target="_blank" class="btn">📺 Watch My Latest Playlist</a>
+<a href="https://youtube.com/playlist?list=PLXMGw7BI8gLVn_DKTX82nQ2Q0uWdUJpLT&feature=shared" target="_blank" class="btn">📺 A Playlist</a>
 <a href="https://youtube.com/@anb_sdc?feature=shared" target="_blank" class="btn">🔗 Visit My Channel</a>
 
 ---
