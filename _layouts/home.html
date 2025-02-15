@@ -2,24 +2,60 @@
 layout: default
 title: Home
 ---
-   <video width="640" height="360" autoplay muted playsinline onended="this.pause();" >
-  <source src="{{ '/assets/videos/home-video.mp4' | relative_url }}" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+<style>
+    .image-links {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 20px; /* Space between images */
+        max-width: 600px; /* Adjust based on your design */
+        margin: auto;
+    }
+
+    .image-links a img {
+        width: 100%; /* Makes images responsive */
+        max-width: 400px; /* Limits max size */
+        border-radius: 10px; /* Optional rounded corners */
+        transition: transform 0.3s ease-in-out;
+    }
+
+    .image-links a img:hover {
+        transform: scale(1.05); /* Slight zoom on hover */
+    }
+</style>
+
+<div class="image-links">
+    <a href="{{ site.baseurl }}/monk-calculator">
+        <img src="{{ site.baseurl }}/assets/images/calculator-image.jpg" alt="Monk Calculator">
+    </a>
+    <a href="{{ site.baseurl }}/teachings">
+        <img src="{{ site.baseurl }}/assets/images/teachings-image.jpg" alt="Teachings">
+    </a>
+    <a href="{{ site.baseurl }}/contact">
+        <img src="{{ site.baseurl }}/assets/images/contact-image.jpg" alt="Contact">
+    </a>
+</div>
+
+<!-- Video Section (Uncomment when needed) -->
+<!-- <video width="640" height="360" autoplay muted playsinline onended="this.pause();">
+    <source src="{{ site.baseurl }}/assets/videos/home-video.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video> -->
 
 {% for post in paginator.posts %}
   {% include featured-post.html %}
 {% endfor %}
 
-<!-- Pagination links -->
+<!-- Pagination Links -->
 <div class="pagination">
   {% if paginator.next_page %}
-    <a class="pagination-button pagination-active next" href="{{ site.github.url }}{{ paginator.next_page_path }}">{{ site.data.settings.pagination.previous_page }}</a>
+    <a class="pagination-button pagination-active next" href="{{ paginator.next_page_path }}">{{ site.data.settings.pagination.previous_page }}</a>
   {% else %}
     <span class="pagination-button">{{ site.data.settings.pagination.previous_page }}</span>
   {% endif %}
   {% if paginator.previous_page %}
-    <a class="pagination-button pagination-active" href="{{ site.baseurl }}{{ paginator.previous_page_path }}">{{ site.data.settings.pagination.next_page }}</a>
+    <a class="pagination-button pagination-active" href="{{ paginator.previous_page_path }}">{{ site.data.settings.pagination.next_page }}</a>
   {% else %}
     <span class="pagination-button">{{ site.data.settings.pagination.next_page }}</span>
   {% endif %}
