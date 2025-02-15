@@ -12,8 +12,8 @@ Below, you will find my current YT channel and plans for future projects.
 
 This is, right now, where I keep all the YouTube content I make. The main playlists are English Clasees, Abhidhamma lectures, and Recitations. 
 
-<a href="[[Insert link to a video or playlist](https://youtube.com/playlist?list=PLXMGw7BI8gLVn_DKTX82nQ2Q0uWdUJpLT&feature=shared)]" target="_blank">📺 Watch my latest video or playlist</a>
-<a href="[[Insert channel link](https://youtube.com/@anb_sdc?feature=shared)]" target="_blank">🔗 Visit the channel</a>
+<a href="https://youtube.com/playlist?list=PLXMGw7BI8gLVn_DKTX82nQ2Q0uWdUJpLT&feature=shared" target="_blank">📺 Watch my latest video or playlist</a>
+<a href="https://youtube.com/@anb_sdc?feature=shared" target="_blank">🔗 Visit the channel</a>
 
 ### Future Projects
 I have plans to expand my YouTube presence with new projects:
@@ -23,5 +23,3 @@ I have plans to expand my YouTube presence with new projects:
 ---
 
 Would you like to see specific topics covered on my channel? Feel free to reach out!
-
-
