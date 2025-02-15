@@ -2,7 +2,7 @@
 layout: category
 title: YouTube Projects
 category: Projects
-permalink: /youtube-projects
+permalink: /youtube-projects/
 ---
 
 ## YouTube Projects
