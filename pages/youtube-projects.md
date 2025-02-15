@@ -26,8 +26,6 @@ This is where I currently host all my YouTube content. The channel features a va
 
 ### Future Projects
 
-I’m excited to expand my YouTube presence with new projects, including:
-
 - **Buddhist Recitations / Chanting**: Explore playlists like [this one](https://youtube.com/playlist?list=PLXMGw7BI8gLWOvfpN_v_B9NaC6iJ5Zok8&feature=shared).
 - **Dhamma in Multiple Languages**: Dedicated channels for Dhamma teachings in **Spanish** and **Portuguese**.
 
