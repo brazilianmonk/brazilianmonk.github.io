@@ -8,10 +8,9 @@ The things we do -- lectures, talks, writings, etc. -- are quite difficult to do
 
 Below, you will find my current YT channel and plans for future projects.
 
-### Current Channel
-#### [Ariyañāṇa Bhikkhu (Stefano Domit Cervo)]
+### [Ariyañāṇa Bhikkhu (Stefano Domit Cervo)]
 
-This is right now where I keep all the YouTube content I make. The main playlists are English Clasees, Abhidhamma lectures, and Recitations. 
+This is, right now, where I keep all the YouTube content I make. The main playlists are English Clasees, Abhidhamma lectures, and Recitations. 
 
 ```html
 <a href="[[Insert link to a video or playlist](https://youtube.com/playlist?list=PLXMGw7BI8gLVn_DKTX82nQ2Q0uWdUJpLT&feature=shared)]" target="_blank">📺 Watch my latest video or playlist</a>
