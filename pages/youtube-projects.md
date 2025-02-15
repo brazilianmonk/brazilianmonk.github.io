@@ -23,7 +23,7 @@ This is right now where I keep all the YouTube content I make. The main playlist
 ### Future Projects
 I have plans to expand my YouTube presence with new projects:
 - Buddhist Recitations / Chanting such as [this one](https://youtube.com/playlist?list=PLXMGw7BI8gLWOvfpN_v_B9NaC6iJ5Zok8&feature=shared)
-- A Channel for Dhamma in Spanish.
+- A channel for Dhamma in Spanish.
 - A channel for Dhamma in Portuguese.
 ---
 Would you like to see specific topics covered on my channel? Feel free to reach out!
