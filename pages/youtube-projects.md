@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: page
 title: YouTube Projects
 category: Projects
 permalink: /youtube-projects
