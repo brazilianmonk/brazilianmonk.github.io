@@ -1,4 +1,8 @@
 to do list for the website:
   - improve the home video
   - make second calculator the same width as the first
-    
+  - maybe add youtube projects page to the menu
+  - add more projects to the main page 
+    - add summaries notes remnotes
+  - add link to remnote account
+  - add a search box
