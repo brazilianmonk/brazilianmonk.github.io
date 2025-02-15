@@ -13,8 +13,8 @@ The things we do -- lectures, talks, writings, etc. -- are quite challenging! To
 This is where I currently host all my YouTube content including:
 
 - **English Language for Monks**: My English Language lessons given in IIT (SL).
-- **Abhidhamma Lectures**: Abhidhamma lessons I gave covering the first 5 chapter of the Abhidhammatthasaṅgaga
-- **Recitations**: Reccitations of Dhamma texts with my flamenco-inspired style. 
+- **Abhidhamma Lectures**: Abhidhamma lessons I gave covering the first 5 chapters of the Abhidhammatthasaṅgaga
+- **Recitations**: Recitations of Dhamma texts with my flamenco-inspired style. 
 
 #### Visit the channel:
 <a href="https://youtube.com/playlist?list=PLXMGw7BI8gLVn_DKTX82nQ2Q0uWdUJpLT&feature=shared" target="_blank" class="btn">📺 Watch My Latest Playlist</a>
