@@ -4,22 +4,53 @@ title: YouTube Projects
 permalink: /youtube-projects
 ---
 
-The things we do -- lectures, talks, writings, etc. -- are quite difficult to do (!), so I began sharing them online to cause a greater impact, keep track of what I do, and make the most of things. 
+## Sharing Knowledge Through YouTube
 
-Below, you will find my current YT channel and plans for future projects.
-
-### [Ariyañāṇa Bhikkhu (Stefano Domit Cervo)]
-
-This is, right now, where I keep all the YouTube content I make. The main playlists are English Clasees, Abhidhamma lectures, and Recitations. 
-
-<a href="https://youtube.com/playlist?list=PLXMGw7BI8gLVn_DKTX82nQ2Q0uWdUJpLT&feature=shared" target="_blank">📺 Watch my latest video or playlist</a>
-<a href="https://youtube.com/@anb_sdc?feature=shared" target="_blank">🔗 Visit the channel</a>
-
-### Future Projects
-I have plans to expand my YouTube presence with new projects:
-- Buddhist Recitations / Chanting such as [this one](https://youtube.com/playlist?list=PLXMGw7BI8gLWOvfpN_v_B9NaC6iJ5Zok8&feature=shared)
-- A channel for Dhamma in Spanish and another in Portuguese.
+Creating lectures, talks, and writings is a challenging yet rewarding endeavor. To amplify their impact, keep track of my work, and make the most of these efforts, I’ve started sharing them on YouTube. Below, you’ll find my current YouTube channel and plans for future projects.
 
 ---
 
-Would you like to see specific topics covered on my channel? Feel free to reach out!
+### Current YouTube Channel: **Ariyañāṇa Bhikkhu (Stefano Domit Cervo)**
+
+This is where I currently host all my YouTube content. The channel features a variety of playlists, including:
+
+- **English Classes**: Learn Dhamma in English.
+- **Abhidhamma Lectures**: Deep dives into Buddhist philosophy.
+- **Recitations**: Chantings and recitations of sacred texts.
+
+#### Explore My Content:
+<a href="https://youtube.com/playlist?list=PLXMGw7BI8gLVn_DKTX82nQ2Q0uWdUJpLT&feature=shared" target="_blank" class="btn">📺 Watch My Latest Playlist</a>
+<a href="https://youtube.com/@anb_sdc?feature=shared" target="_blank" class="btn">🔗 Visit My Channel</a>
+
+---
+
+### Future Projects
+
+- **Buddhist Recitations / Chanting**: Explore playlists like [this one](https://youtube.com/playlist?list=PLXMGw7BI8gLWOvfpN_v_B9NaC6iJ5Zok8&feature=shared).
+- **Dhamma in Multiple Languages**: Dedicated channels for Dhamma teachings in **Spanish** and **Portuguese**.
+
+---
+
+### Your Input Matters!
+
+Would you like to see specific topics covered on my channel? Do you have suggestions for future projects? I’d love to hear from you!
+
+<a href="mailto:your-email@example.com" class="btn">✉️ Reach Out to Me</a>
+
+---
+
+<style>
+  .btn {
+    display: inline-block;
+    margin: 5px;
+    padding: 10px 15px;
+    background-color: #007BFF;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  .btn:hover {
+    background-color: #0056b3;
+  }
+</style>
