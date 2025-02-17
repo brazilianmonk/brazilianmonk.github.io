@@ -1,4 +1,4 @@
-# Change 'comments' to true for Disqus comments
+ok# Change 'comments' to true for Disqus comments
 disqus:
   comments: false
   disqus_shortname: 'millennial-3'
@@ -7,6 +7,7 @@ disqus:
 google-ID: 'G-48EBF94R81'
 
 menu:
+
 - {name: 'Monk Calculators',  url: 'monk-calculators'}
 - {name: 'Summaries',  url: 'summaries'}
 - {name: 'Learning Resources', url: 'resources'}
