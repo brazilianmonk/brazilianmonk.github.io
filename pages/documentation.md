@@ -7,7 +7,12 @@ permalink: /summaries
 These are Dhamma summaries I make. They are based on the content taught in [IIT](https://www.theravado.com/). You can also see this content on my RemNote account [here](https://www.remnote.com/profile/brazilianmonk).
 
 ## Pāḷi Lanuguage
-#### 1st year
+
+#### 1st year: Book "Pāḷi Pāṭha Sikkhā"
+
+##### 1st Semester
+
+###### Chapter 1-10 [RemNote Article](https://www.remnote.com/a/Chapter-1-Pai-paha-sikkha-Bhante-Vijitananda/63d13028e8e74a05c741ba69)
 #### 2nd year
 #### 3rd year
 
