@@ -6,3 +6,10 @@ to do list for the website:
     - add summaries notes remnotes
   - add link to remnote account
   - add a search box
+- check summaries page on menu
+- edit summaries page
+      - add notes from 1st year
+      -add notes from 2nd year
+      - add notes from 3rd year
+      - add videos of the summaries
+add summaries page link to home with an image
