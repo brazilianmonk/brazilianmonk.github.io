@@ -13,3 +13,5 @@ to do list for the website:
       - add notes from 3rd year
       - add videos of the summaries
 add summaries page link to home with an image
+- add a subscribe to rss feed newsletter
+
