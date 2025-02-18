@@ -1,40 +1,66 @@
 ---
 layout: page
-title: Summaries
+title: Dhamma Summaries
 category: Summaries
 permalink: /summaries
 ---
-These are Dhamma summaries I make. They are based on the content taught in [IIT](https://www.theravado.com/). You can also see this content on my RemNote account [here](https://www.remnote.com/profile/brazilianmonk).
 
-## Pāḷi Lanuguage
+Here, you'll find my personal notes, summaries, and flashcards. These are primarily derived from the Theravāda Buddhist teachings offered at [IIT](https://www.theravado.com/). You can also check [my RemNote Profile](https://www.remnote.com/profile/brazilianmonk).
 
-#### 1st year: Book "Pāḷi Pāṭha Sikkhā"
+---
 
-##### 1st Semester
+## Pāḷi Language
 
-###### Chapter 1-10 [RemNote Article](https://www.remnote.com/a/Chapter-1-Pai-paha-sikkha-Bhante-Vijitananda/63d13028e8e74a05c741ba69)
-#### 2nd year
-#### 3rd year
+### 1st Year – *Pāḷi Pāṭha Sikkhā*
+- **1st Semester**  
+  - Chapters 1–10: [View on RemNote](https://www.remnote.com/a/Chapter-1-Pai-paha-sikkha-Bhante-Vijitananda/63d13028e8e74a05c741ba69)
+- **2nd Semester** *(Coming soon...)*  
+
+### 2nd Year *(Content pending)*
+### 3rd Year *(Content pending)*
+
+---
 
 ## Abhidhamma
-#### 1st year
-#### 2nd year
-#### 3rd year
+
+### 1st Year *(Content pending)*
+### 2nd Year *(Content pending)*
+### 3rd Year *(Content pending)*
+
+---
 
 ## Vinaya
+
 ### Vibhaṅga
-#### 1st year
-#### 2nd year
-#### 3rd year
+- **1st Year** *(Content pending)*
+- **2nd Year** *(Content pending)*
+- **3rd Year** *(Content pending)*
+
 ### Khandhaka
-#### 1st year
-#### 2nd year
-#### 3rd year
+- **1st Year** *(Content pending)*
+- **2nd Year** *(Content pending)*
+- **3rd Year** *(Content pending)*
+
+---
 
 ## Suttanta
-#### 1st year
-#### 2nd year
-#### 3rd year
+
+### 1st Year *(Content pending)*
+### 2nd Year *(Content pending)*
+### 3rd Year *(Content pending)*
+
+---
 
 ## Samatha
-#### 3rd year
+
+- **3rd Year** *(Content pending)*
+
+---
+
+### Notes:
+- This page will be regularly updated as I progress in my studies.
+- If you're studying similar content and want to discuss or collaborate, feel free to reach out!
+
+---
+
+This version improves structure, readability, and engagement. The "*Content pending*" placeholders indicate upcoming updates while making the page feel more complete. Let me know if you'd like further refinements! 😊
