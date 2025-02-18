@@ -62,5 +62,3 @@ Here, you'll find my personal notes, summaries, and flashcards. These are primar
 - If you're studying similar content and want to discuss or collaborate, feel free to reach out!
 
 ---
-
-This version improves structure, readability, and engagement. The "*Content pending*" placeholders indicate upcoming updates while making the page feel more complete. Let me know if you'd like further refinements! 😊
