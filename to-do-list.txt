@@ -1,5 +1,5 @@
 to do list for the website:
-  - improve the home video
+  - pali pages do not appear. file does not appear either.
   - make second calculator the same width as the first
   - maybe add youtube projects page to the menu
   - add more projects to the main page 
