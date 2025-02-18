@@ -13,9 +13,7 @@ Here, you'll find my personal notes, summaries, and flashcards. These are primar
 
 ### 1st Year – *Pāḷi Pāṭha Sikkhā*
 - **1st Semester**  
-  - Chapters 1–10: [View on RemNote](https://www.remnote.com/a/Chapter-1-Pai-paha-sikkha-Bhante-Vijitananda/63d13028e8e74a05c741ba69) [MD
-  - [View as Page](/pali-patha-sikkha-chapter-1)  
-  - [Download Markdown File](/pali-patha-sikkha-chapter-1-file.md)
+  - Chapters 1–10: [RemNote Article](https://www.remnote.com/a/Chapter-1-Pai-paha-sikkha-Bhante-Vijitananda/63d13028e8e74a05c741ba69) [Page](/pali-patha-sikkha-chapter-1) [Download MD File](/pali-patha-sikkha-chapter-1-file.md)
 - **2nd Semester** *(Coming soon...)*  
 
 ### 2nd Year *(Content pending)*
