@@ -1,4 +1,4 @@
-to do list for the website:
+okto do list for the website:
   - pali pages do not appear. file does not appear either.
   - make second calculator the same width as the first
   - maybe add youtube projects page to the menu
@@ -14,4 +14,4 @@ to do list for the website:
       - add videos of the summaries
 add summaries page link to home with an image
 - add a subscribe to rss feed newsletter
-
+- exercise and health principles for meditation and a healthy life
