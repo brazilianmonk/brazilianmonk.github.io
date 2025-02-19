@@ -1,4 +1,4 @@
-okto do list for the website:
+I'mokto do list for the website:
   - pali pages do not appear. file does not appear either.
   - make second calculator the same width as the first
   - maybe add youtube projects page to the menu
@@ -15,3 +15,9 @@ okto do list for the website:
 add summaries page link to home with an image
 - add a subscribe to rss feed newsletter
 - exercise and health principles for meditation and a healthy life
+- calculator for robe size
+- moon calendar with uposathas
+- old sun calendar used in B time
+- B calendar used in Mm Thailand and SL
+- monk skill tree (conditions for nm, other bahussutas, samatha vipassana)
+- charts abhidhamma
