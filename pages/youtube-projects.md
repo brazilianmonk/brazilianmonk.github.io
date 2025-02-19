@@ -4,7 +4,7 @@ title: YouTube Projects
 permalink: /youtube-projects
 ---
 
-The things we do -- lectures, talks, writings, etc. -- are quite challenging! To amplify their impact, keep track of my work, and make the most of these efforts, I’ve started sharing them on YouTube. Below, you’ll find my current YouTube channel and plans for future projects.
+To make the most of the effort that goes into the talks, lectures, etc. I’ve started sharing the things I do on YouTube. Below, you’ll find my current YouTube channel and plans for future projects.
 
 ---
 
@@ -13,8 +13,8 @@ The things we do -- lectures, talks, writings, etc. -- are quite challenging! To
 This is where I currently host all my YouTube content including:
 
 - **English Language for Monks**: My English Language lessons given in IIT (SL).
-- **Abhidhamma Lectures**: Abhidhamma lessons I gave covering the first 5 chapters of the Abhidhammatthasaṅgaga
-- **Recitations**: Recitations of Dhamma texts with my flamenco-inspired style. 
+- **Abhidhamma Lectures**: Abhidhamma lessons I gave covering the first 5 chapters of the Abhidhammatthasaṅgaha
+- **Recitations**: Recitations of Dhamma texts.
 
 #### Visit the channel:
 <a href="https://youtube.com/playlist?list=PLXMGw7BI8gLVn_DKTX82nQ2Q0uWdUJpLT&feature=shared" target="_blank" class="btn">📺 A Playlist</a>
