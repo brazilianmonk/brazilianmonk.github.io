@@ -1,3 +1,9 @@
+---
+layout: page
+title: Pali
+permalink: /pali
+---
+
 - **Lesson 1 - Alphabet**  
     - Pāḷi means the {{dhamma taught by the Buddha}} and {{the language used for teaching (māgadhī)}} - language spoken in the Kingdom of {{Magadha}} (even though most modern philologers disagree with the tradition)
     - Vowels↔sara
