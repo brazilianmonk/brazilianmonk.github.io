@@ -1,87 +1,95 @@
-/* General header styling */
+PRESENT HEADER.SCSS
 .site-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 10px 20px;
-  background-color: #f8f8f8; /* Change to your preferred color */
-  border-bottom: 1px solid #e7e7e7; /* Optional: adds a subtle border */
+  min-height: 56px;
+  width: $container-width;
+  position: fixed;
+  background-color: white;
+  box-shadow: 0 5px 6px -6px #bbb;
+  z-index: 100;
 }
-
-/* Site title styling */
+@media (max-width: $container-width) {
+  .site-header {
+    min-height: 56px;
+    width: 95vw;
+    position: fixed;
+    background-color: white;
+    box-shadow: 0 5px 6px -6px #bbb;
+    z-index: 100;
+  }
+}
+.site-header a {
+  text-decoration: none;
+}
 .site-title {
-  margin: 0;
-  font-size: 24px; /* Adjust as needed */
+  font-size: 26px;
+  font-weight: 400;
+  line-height: 56px;
+  margin-bottom: 0;
+  margin-top: 0;
+  padding-left: 10px;
+  float: left;
 }
-
-.site-title a {
-  text-decoration: none;
-  color: #333; /* Change to your preferred color */
-}
-
-/* Menu list styling */
 .menu-list {
-  display: flex;
-  gap: 20px; /* Space between menu items */
-  align-items: center;
+  line-height: $header-thickness;
+  float: right;
 }
-
 .menu-link {
-  text-decoration: none;
-  color: #333; /* Change to your preferred color */
-  font-size: 16px; /* Adjust as needed */
+  padding: 5px 10px;
 }
 
-.menu-link:hover {
-  color: #007bff; /* Change to your preferred hover color */
-}
+/*
+  Responsiveness with a dropdown menu
+*/
 
-/* Dropdown menu styling */
-.dropdown {
-  position: relative;
-  display: none; /* Hide by default, show on smaller screens */
+@media (min-width: $container-width) {
+  .dropbtn {
+    display: none;
+  }
+  .dropdown-content {
+    display: none;
+  }
 }
-
-.dropbtn {
-  background: none;
-  border: none;
-  cursor: pointer;
-  font-size: 24px; /* Adjust as needed */
-  color: #333; /* Change to your preferred color */
-}
-
-.dropdown-content {
-  display: none;
-  position: absolute;
-  right: 0; /* Align dropdown to the right */
-  background-color: #f9f9f9;
-  min-width: 160px;
-  box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
-  z-index: 1;
-}
-
-.dropdown-content a {
-  color: #333; /* Change to your preferred color */
-  padding: 12px 16px;
-  text-decoration: none;
-  display: block;
-}
-
-.dropdown-content a:hover {
-  background-color: #f1f1f1; /* Change to your preferred hover color */
-}
-
-.dropdown:hover .dropdown-content {
-  display: block;
-}
-
-/* Responsive design: Hide menu-list and show dropdown on smaller screens */
-@media (max-width: 768px) {
+@media (max-width: $container-width) {
   .menu-list {
     display: none;
   }
-
+  .site-title {
+    padding-right: 0.25rem;
+  }
+  .dropbtn {
+    background-color: white;
+    color: black;
+    padding: 16px;
+    margin-top: 4px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+  }
   .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
     display: block;
+  }
+  .dropdown-content a:hover {
+    background-color: #f1f1f1
+  }
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  .dropdown:hover .dropbtn {
+    background-color: #f1f1f1;
   }
 }
