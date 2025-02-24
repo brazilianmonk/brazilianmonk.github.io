@@ -1,0 +1,460 @@
+---
+layout: page
+title: Pāḷi Pāṭha Sikkhā - Chapter 1 - Lessons 1-10
+permalink: /summaries/pps-ch1-1-10
+---
+- **Lesson 1 - Alphabet**
+    - Pāḷi means the {{dhamma taught by the Buddha}} and {{the language used for teaching (māgadhī)}} - language spoken in the Kingdom of {{Magadha}} (even though most modern philologers disagree with the tradition)
+    - Vowels↔sara
+    - Number  of vowels→8 (according to grammarian Kaccāyana. Grammarian Moggallāna thinks there are 10 vowels with the short diphthongs e o)
+    - Consonants↔vyañjana
+    - Number  of consonants→33
+    - Total  number of letters→41 (Kaccāyana), 43 (Moggallāna)
+    - Diphthong→combination of two adjacent vowel sounds within the same syllable. ("no"). Also called gliding vowel.
+    - 6  groups of consonants according to where the sound is produced>>>
+        - Gutturals
+        - Palatals
+        - Linguals
+        - Dentals
+        - Labials
+        - Non-group
+    - Aspirations/aspirated consonants→Mahāpāṇa
+    - Exercise lesson 1:
+        - 1) Pāḷi language is both the language used by the buddha to teach the Dhamma and the Dhamma itself. The language is called Māgadhī as it was spoken in the Kingdom of Magadha according to traditional account.
+        - 2) 
+            - Sara (vowels)
+                - a, ā, i, ī, u, ū, e, o
+            - Vyañjana (consonants)
+                - k, kh, g, gh, ṅ
+                - c, ch, j, jh, ñ
+                - ṭ, ṭh, ḍ, ḍh, ṇ
+                - t, th, d, dh, n
+                - p, ph, b, bh, m
+                - y, r, l, v, s, h, ḷ, ṁ (niggahīta)
+- **Lesson 2 - Agent & Action** 
+    - Agent/subject that performs the action↔kattu (kattā)
+    - An act done by the agent, action, verb↔kiriyā
+    - Singular↔ekavacana
+    - Plural↔bahuvacana
+    - **Vocab**: #[[^^^pāḷi^^^ vocab (1st year)   ]] 
+        - Sīha (m.)↔lion
+        - Purisa (m.)↔man
+        - Manussa (m.)↔human being
+        - Dārako (m)↔child
+        - Tiṭṭhati↔stands
+        - Gāyati↔sings
+        - Naccati↔dances
+        - Sayati↔lies down, sleeps
+        - gacchati↔goes
+    - **Vocab**: #[[^^^pāḷi^^^ vocab (1st year)   ]] 
+        - Deva (m.)↔deity
+        - Sakko (m.)―Sakka, the King of Devas
+        - Yakkha (m.)↔demon
+        - Lobha (m.)―Greed
+        - Canda (m.)↔moon
+        - Thera (m.)―elder
+        - Māra (m.)―Māra, the Evil One
+        - Nāga (m.)↔serpent, snake, elephant, dragon
+        - Vānara (m.)↔monkey
+        - Upāsaka (m.)―lay male devotee
+        - Sūriyo (m.)↔sun
+        - Sakuṇa (m.)↔bird
+        - Rukkha (m.)―tree
+        - Andhakāra (m.)↔darkness
+        - āgacchati―comes
+        - hasati↔laughs
+        - udeti↔rises 
+        - dissati↔seems, is seen
+        - sajjhāyati↔recites
+        - nadati↔(an animal) makes a soundpPatatifalls
+        - oloketi↔looks, observes
+        - dhāvati↔runs
+        - khādati↔eats by taking bites
+        - sayati↔lies down, sleeps
+        - nisīdati↔sits
+        - kīḷati↔plays
+        - uppajjati↔is born, arises
+        - vadati / vadeti↔says (s.w. v)
+        - bhavati↔is, becomes, happens 
+- **Lesson 3 - Noun stems and case-endings** 
+    - Noun stem (morpheme without a case ending)↔liṅga
+        - Morpheme (not pāḷi grammar)→a meaningful morphological unit of a language that cannot be further divided (e.g.  __in__ ,  __come__ ,  __-ing__ , forming  __incoming__  ). A morphological element considered in respect of its functional relations in a linguistic system.
+    - 7 Case-endings/nominal endings (^^{{**nāma vibhatti**}}^^) (suffixes added to a stem)>>>
+        - Paṭhamā vibhatti (nominative case)
+        - Dutiyā vibhatti (accusative case)
+        - Tatiyā vibhatti (instrumental case)
+        - Catutthā vibhatti (dative case)
+        - Pañcamā vibhatti (ablative case)
+        - Chaṭṭhī vibhatti (genitive case)
+        - Sattamī vibhatti (locative case)
+    - Mentioned agent (mentioned by the verb)↔utta kattu
+    - Utta↔something that has been said
+    - **Vocab**: #[[^^^pāḷi^^^ vocab (1st year)   ]] 
+        - Kumāra (m.)↔child, prince
+        - Gaja (m.)↔elephant (s.w. g)
+        - Kappa (m.)↔aeon, age, world cycle
+        - Vivāda (m.)↔quarrel, dispute, argument
+        - Rava (m.)↔sound, roar, cry
+        - pattharati↔spreads
+        - Vūpasamati↔calms down
+        - Rodati↔cries
+        - Vāyati↔blows (wind)
+        - Vinassati↔gets destroyed (s.w. v)
+        - Bāla (m.)↔fool, young one
+        - Tiracchāna (m.)↔animal
+        - Kāyo (m.)↔body
+        - Kassaka (m.)↔farmer
+        - Samudda (m.)↔ocean (s.w. s)
+        - Saṁsaya (m.)↔doubt
+        - Gahaṭṭha (m.)↔householder
+        - Cora (m.)↔thief
+        - Maccha (m.)↔fish
+        - Goṇa (m.)↔ox
+        - Paṇḍita (m.)↔wise person
+        - Kāka (m.)↔crow
+        - Sugandha (m.)↔pleasant smell, fragrance 
+        - Jano (m.)↔people
+        - Sappa (m.)↔serpent, snake (s.w. s)
+        - Kukkuṭa (m.)↔cock, rooster 
+        - Āhiṇḍati↔walks (s.w. ā)
+        - Vilumpati↔robs, plunders
+        - Nirujjhati↔passes away, disappears (s.w. n)
+        - Sannipatati↔gathers
+        - Tappati↔worries, regrets, is tormented
+- **Lesson 4 - Object** 
+    - That which is made or done by the action as well as the goal of motion is called (object)↔kamma  (Buddho  __dhammaṁ__  deseti - dhammaṁ is the kamma of the verb deseti). Kamma (object) is written in the accusative case.
+    - **Vocab**: #[[^^^pāḷi^^^ vocab (1st year)   ]] 
+        - Vihāra (m.)↔monastery
+        - Sissa (m.)↔student
+        - Veda (m.)↔vedas, bramanic texts
+        - Purohita (m.)↔adviser of the king
+        - Kāya (m.)↔body
+        - Bhūpāla (m.)↔king
+        - Gahaṭṭha (m.)↔householder (s.w. g)
+        - Khīṇāsava (m.)↔one free from cankers, an arahat
+        - Upajjhāya (m.)↔preceptor
+        - Pāṇa (m.)↔life, living being
+        - Samaṇuddesa (m.)↔novice
+        - Accaya (m.)↔fault
+        - Odāna (m.)↔rice (s.w. o)
+        - Brāhmaṇa (m.)↔brahmin
+        - Āloka (m.)↔light
+        - Patta (m.)↔bowl 
+        - Pavisati↔enters
+        - Gaṇhāti↔takes, catches
+        - Bhuñjati↔eats
+        - Passati↔sees
+        - Hanati↔kills 
+        - Jigucchati↔detests, feels disgust for
+        - Chindati↔cuts
+        - Ḍaṁsati↔bites, stings
+        - Ovadati←admonishes
+        - Dhovati↔washes 
+        - Ālapati↔addresses
+        - nāseti↔destroys (s.w. n)
+        - Ajjhayati↔studies, (sometimes) recites
+        - Vandati↔pays respect (s.w. v)
+        - Anusāsati↔advises, admonishes
+        - Bandhati↔ties
+        - Pajahati↔abandons, dispels (s.w/ p) 
+        - Nigūhati↔conceals, hides
+- **Lesson 5 - Instrument** 
+    - That which assists the agent in executing a certain act is called the instrument↔karaṇa
+    - Instrumental case (Tatiyā vibhatti) declension of purisa―purisena / purisehi, purisebhi 
+    - **Vocab**: #[[^^^pāḷi^^^ vocab (1st year)   ]] 
+        - Putta (m.)―son (s.w. p)
+        - Byaggha (m.)↔tiger
+        - Ācariya (m.)―teacher
+        - Ākāsa (m.)↔space, sky
+        - Taruṇa (m.)↔young person (s.w/ t) 
+        - Tāpasa (m)↔ascetic 
+        - puggala (m.)↔person
+        - Taca (m.)↔skin
+        - Sakaṭa (m.)↔cart
+        - Asura (m.)←asura, a type of peta and a type of deva
+        - Saddhamma (m.)―true doctrine
+        - Saṅgha (m.)―community
+        - Pāpaṁ (nt.)↔evil
+        - Sīlaṁ (nt.)↔virtue
+        - Sukhaṁ (nt.)↔pleasure, happiness
+        - Hattha (m.)↔hand
+        - Danta (m.)↔tooth
+        - Ratha (m.)↔chariot
+        - Mano (m.)↔mind
+        - Rāgo (m.)↔lust
+        - Cāgo (m.)↔giving up, offering
+        - Sela (m.)↔mountain, large rock
+        - Miga (m.)↔deer
+        - Devaloka (m.)―deva world, deva realm
+        - Jatiḷa (m.)↔matted hair ascetic
+        - Dasabala (m.)―The One with the Ten Powers
+        - Satta (m.)↔living being
+        - Puññaṁ (nt.)↔merit
+        - Dukkhaṁ (nt.)↔suffering
+        - Cittaṁ (nt.)―mind, consciousness (s.w. c)
+        - Pāda (m.)↔leg, foot
+        - Kaṇṭha (m.)↔throat
+        - ayyako (m.)↔grand-father
+        - Kāla (m.)↔time
+        - Dosa (m.)―Aversion, anger
+        - Nātha (m.)↔the buddha, protector
+        - Duggato (m.)↔poor man
+        - Khagga (m.)↔sword 
+        - Kantāra (m.)↔wilderness, desert, wasteland; lit. difficult to cross
+        - Likhati↔writes, scrapes, shaves off, planes, carves, lit. scratches, draws, paints, inscribes
+        - Pūrati↔fills with smth
+        - Bajjhati↔binds, ties up
+        - Pabbajati↔renounces, becomes a recluse
+        - Labhati↔gets, obtains
+        - Anukampati↔takes pity on, has compassion for 
+        - Vaṇṇayati↔praises
+        - Bhaṇati↔says, expounds (s.w. b)
+        - Pakkamati↔departs from
+        - Jānāti↔knows
+        - Tussati↔becomes happy (s.w. t)
+        - deseti↔(dat.) expounds (used with dative case, not the usual accusative)\ 
+        - Kilissati↔is dirtied, is stained, defiles
+        - Tarati↔crosses 
+- **Lesson 6 - Gender and Addressing** 
+    - Ultimate gender↔atthaliṅga
+    - Grammatical gender↔saddaliṅga
+    - 3 atthaliṅga>>>
+        - purisa (male)
+        - itthi (female)
+        - napuṁsaka (eunuch)
+    - 6 saddaliṅga>>>
+        - purisaliṅgika
+        - itthiliṅgika
+        - napuṁsakaliṅgika
+        - diliṅgika (two genders such as geha ⇒ geho / gehaṁ)
+        - tiliṅgika (three genders such as uttama ⇒ uttamo / uttamaṁ / uttamā
+        - aliṅgika
+    - According to some grammarians the grammatical gender of a noun is decided on {{certain characteristics of the sound that is produced while uttering that particular noun}}. It does not necessarily corresponds to the ultimate gender of the thing it refers to.  
+    - ālapana→addressing, the act of addressing, a sub-category of the nominative case-ending, the word used for addressing. Mostly stands as the second word of a sentence.
+        - ālapana ekavacana―bho purisa, bho purisā
+        - ālapana bahuvacana―bhonto purisā
+    - **vocab:**  #[[^^^pāḷi^^^ vocab (1st year)   ]] 
+        - Mātugāma (m.)↔lady
+        - Kaññā (f.)↔virgin, yound girl 
+        - Bhariyā (f.)↔wife (s.w. bh)
+        - Ammā (f.)↔mother (s.w. a)
+        - Vedanā (f.)→feeling
+        - Gāthā (f.)↔verse
+        - Pupphaṁ (nt.)↔flower
+        - Kammaṁ (nt.)↔action, deed, work
+        - Udakaṁ (nt.)↔water
+        - Kattaṁ (nt.)↔wife (s.w. k) 
+        - Vehāso (m)↔sky (s.w. v)
+        - Latā (f.)↔creeper
+        - Vitakka (m.)―thought, initial application
+        - Chanda (m.)↔zeal, desire
+        - Saccaṁ (nt.)↔truth
+        - Magga (m.)―path
+        - Moha (m.)―delusion, ignorance
+        - Yama (m.)―king of the hells
+        - Kinnaro (m)↔bird with a human head
+        - Valāhako (m)↔cloud (s.w. v) (mem aid: vehāso v. pūrito)
+        - Sadda (m.)←sound (s.w s)
+        - Kāraṇaṁ  (nt.)↔reason, cause (s.w. k)
+        - Sineho (m.)↔love (s.w. s)
+        - Pāsāda (m.)↔palace
+        - Ādicca (m.)↔the sun (s.w. ā) 
+        - Kaṇṇo (m)↔ear (s.w. k)
+        - Ussāho (m)↔effort (s.w. u)
+        - Naccaṁ (nt.)↔dancing, acting
+        - Loka (m.)―world 
+        - Ghaṭī (f)↔water pot
+        - Māluta (m)↔wind (s.w. m)
+        - Samaya (m.)↔period of time, session, occasion
+        - Dhāreti↔holds, bears
+        - Yācati↔begs
+        - Harati↔carries, takes away
+        - Roceti↔likes
+        - Obhāseti↔shines
+        - Coreti↔steals
+        - Pacati↔cooks
+        - Āharati↔brings
+        - Kiṇāti↔buys, purchases
+        - Pūjeti↔offers
+        - Vikkiṇāti↔sells
+        - Karoti←makes, does
+        - Gaṇhāti↔takes, catches 
+- **Lesson 7 - Dative & Ablative** 
+    - That which receives what is being given, the indirect object, the dative of the action is called↔sampadāna
+    - Catutthī vibhatti (purisa)―purisassa / purisānaṁ
+    - the ending -āya can only be used in special cases
+    - vocab: #[[^^^pāḷi^^^ vocab (1st year)   ]] 
+        - Potaka (m.)↔offspring, young animal
+        - Bhatta (nt.)↔rice (s.w. bh)
+        - Mātula (m.)↔uncle
+        - Pabbata (m.)↔mauntain
+        - Cīvaraṁ (nt.)―robe
+        - Maṁsa (nt.)↔meat
+        - Suta (m.)↔son (s.w. s)
+        - Māṇava (m.)↔young man
+        - Deti = dadāti↔gives 
+    - 7.2 Ablative
+        - Place from where someone or something departs or separates from is called ablative→apādāna
+        - Ablative case (Pañcamī vibhatti) (purisa)―purisasmā, purisamhā, purisā / purisehi, purisebhi
+    - vocab: #[[^^^pāḷi^^^ vocab (1st year)   ]] 
+        - Garuḷa (m.)↔mythical bird, harpy 
+        - Ācera (m)↔teacher (short version)
+        - Vataṁ (nt.)↔religious practice, ritual observance, vow
+        - Vara (m.)↔wish (s.w. v)
+        - Apeti↔goes away
+        - Nikkhamati↔departs (s.w. n)
+        - Uggaṇhāti↔learns, studies
+        - Apagacchati↔separates, goes away
+        - Palāyati↔runs away, flees 
+- **Lesson 8 - Genitive and Location** 
+    - What indicates the possessor is called **genitive**↔sambandha
+        - sambandha (m.)↔connection, join, tie, (grammar) relationship, construction  
+        - The sambandha (genitive) is expressed by the→chaṭṭhī vibhatti
+        - sāmī sambandha↔**Owner relationship** such as between a farmer who possesses an ox (the ox of the farmer runs)
+        - sāmī (m.)↔owner, master, husband, lord, ruler, sir
+        - Chaṭṭhī vibhatti (purisa)―purisassa / purisānaṁ
+    - The place where an action takes place is the location, in pāḷi called↔okāsa, avakāsa or ādhāra
+        - The okāsa is expressed by the locative case―Sattamī vibhatti
+        - Sattamī vibhatti (purisa)―purise, purisasmiṁ, purisamhi / purisesu
+    - What is the main component of a sentence?→the verb 
+    - Vocab: #[[^^^pāḷi^^^ vocab (1st year)   ]] 
+        - Nassati↔gets destroyed (s.w. n)
+        - Daḍḍhati↔gets burnt
+        - Anussarati↔reflects on
+        - Guṇa (m.)↔quality; virtue; characteristic
+        - Samaṇa (m.)↔recluse
+        - Hattha (m.)↔hand
+        - Carati / cārikaṁ carati↔wanders
+        - Mañca (m.)↔bed
+        - Janapada (m.)↔district
+        - Acchati↔sits (s.w. a)
+    - Vocab: #[[^^^pāḷi^^^ vocab (1st year)   ]] 
+        - Geha (m.)↔house 
+        - Nhānatittha (nt.)↔bathing place
+        - Mahānasa (nt.)↔kitchen
+        - Toraṇaṃ (nt.)↔arched entrance, gate, portal
+        - Assama (m.)↔hermitage, ashram
+        - sāgaro (m.)↔sea, ocean (s.w. s, not samudda)
+        - Sopāna (m.)↔staircase
+        - Dvāra (nt.)↔door, entrance
+        - Āvāsa (m.)↔dwelling place
+        - Santika (nt.)↔vicinity
+        - Jantāgharaṁ (nt.)↔sauna
+        - Mātu (f.)↔mother (s.w. m)
+        - Pāpuṇāti↔arrives at, attains (s.w. p)
+        - Pariyāpuṇāti = uggaṇhāti↔studies, learns
+        - Vivarati↔opens 
+        - Yāti↔goes, proceeds, travels, (army) marches against, pursues
+- **Lesson 9 - Purisa** 
+    - declension of ^^**purisa **^^(purisādigaṇa)>>>
+        - **nom. **puris^^**o**^^ / puris^^**ā**^^ 
+        - **voc.** (bho) purisa, " / (bhonto) "
+        - **acc**. puris^^**aṁ**^^ / puris^^**e**^^ 
+        - **ins.** puris^^**ena**^^ / puris^^**ehi**^^, puris^^**ebhi**^^ 
+        - **dat.**/**gen.** puris^^**assa**^^ / puris^^**ānaṁ**^^ 
+        - **abl.** purisa^^**smā**^^, purisa^^**mhā**^^, puris^^**ā**^^ / purisehi, purisebhi
+        - **loc. **purisa^^**smiṁ**^^, purisa^^**mhi**^^, puris^^**e**^^ / puris^^**esu**^^ 
+    - Declension (English definition)→the inflection of nouns and pronouns and adjectives
+    - Declination (English definition)→a condition inferior to an earlier condition; a gradual falling off from a better state; a downward slope or bend; a polite refusal of an invitation.
+    - what does the nominative case express?→the meaning of the noun stem (liṅgattha)
+    - sampadānaṁ (nt.)↔handing down, handing over, passing on (scriptures), (gram.) dative case, supplying, making ready
+    - apādānaṁ (nt.)↔(gram) separating; ablation (ablative); taking away
+    - Purisādi gaṇa: masculine gender nouns ending in "a"
+    - In traditional grammar there are no stems ending in consonants. Modern scholars use consonant ending stems (satthār, guṇavant, gacchant...)
+    - Vocab: #[[^^^pāḷi^^^ vocab (1st year)   ]] 
+        - Sura (m.)↔deity (s.w. s)
+        - Nara (m.)↔man, human
+        - Uraga (m.)↔serpent (s.w. u)
+        - Gandhabba (m.)↔heavenly musician, a type of deva
+        - Pisāca (m.)↔goblin, evil spirit
+        - Peta (m.)―hungry ghost
+        - Mātaṅga (m.)↔tusker, elephant (s.w. m)
+        - Jaṅgama (m.)↔one who moves from place to place
+        - Turaṅga (m.)↔horse (s.w. t)
+        - Varāha (m.)↔pig, boar
+        - Kacchapa (m.)↔turtle
+        - Accha (m.)↔bear
+        - Taraccha (m.)↔hyena
+        - Assa (m.)↔horse (s.w. a)
+    - Vocab: #[[^^^pāḷi^^^ vocab (1st year)   ]] 
+        - sunakha (m.)↔dog 
+        - āyudha (nt.)↔weapon
+        - sākhā (f.)↔branch
+- **Lesson 10 - Verbs** 
+    - 4 parts of speech / groups of words (pada)>>>
+        - **nāmapada**: morphemes / stems to which case-endings / nominal suffixes are added; they are declined in liṅga (genders), vibhatti (cases) and vacana (number) and perform the functions of subjects, nouns, adjectives, certain actions and so on  
+        - **ākhyātapada** (Verbs): morphemes together with verbal terminations/suffixes. Verbs are formed by adding verbal suffixes to {{roots}} 
+        - **avyaya / abyaya**>>>
+            - **nipātapada** (Indeclinable particles)
+            - **upasaggapada** (Prefixes)
+        - ^^**mem aid**^^: nānu
+    - avyaya / abyaya↔does not change 
+    - Roots are→a collection of letters that represent an action. Roots cannot be used in a sentence without having added verbal suffixes. 
+    - Roots
+        - /pac↔cooks
+        - /khād↔eats
+        - /yā↔goes
+        - /gam↔goes
+        - /paṭh↔reads 
+    - there are {{8}} types of **verbal** tenses
+    - vattamāna vibhatti↔present tense
+    - 3 types of grammatical persons and their vattamāna vibhatti terminations>>>
+        - Paṭhama purisa (third person): ti / nti
+        - Majjhima purisa (second person): si / tha
+        - Uttama purisa (first person): mi / ma
+    - Vocab: #[[^^^pāḷi^^^ vocab (1st year)   ]] 
+        - Paṭhati↔reads
+        - Pada (nt.)↔word (as in nāmap.), part of a word, suffix, foot, path, track, way, (poetry) line, phrase, sentence, saying, place, position, reason, cause, part, component, footprint
+        - Pivati↔drinks, imbibes
+        - Māreti↔kills (s.w/ m)
+        - Daṇḍa (m.)↔stick, truncheon, nightstick, club, walking stick, staff, violence, punishment, fine, (nt.) Jain word for kamma
+        - Makkaṭa (m.)↔monkey, ape 
+    - The vowel that stands before the terminations{{ "mi" and "ma"}} in vattamāna vibhatti is lengthened
+    - 10.2. Indeclinable particles and prefixes
+        - Indeclinable particles (nipātapada) are words that {{are declined but do not undergo any changes}}.
+        - ^^^ __how to say: __ ^^^^^^ __**from**__ ^^^^^^ __ under the bed?  __ ^^^ #^^^**q**^^^🙋🏼‍♂
+        - Vocab: #[[^^^pāḷi^^^ vocab (1st year)   ]] 
+            - Evaṁ (nipāta)↔thus, in this manner
+            - Heṭṭhā (nipāta)↔under (Sunakho mañcassa h. niddāyati)
+            - Niddāyati↔sleeps (s.w. n)
+            - Ajja (nipāta)↔today
+            - Puna (nipāta)↔again
+            - Chāyā (f.)↔shade, shadow, reflection, reflected image
+            - na (nip.)―no, not, nor, neither 
+            - āma (nip.)↔yes, certainly 
+            - have (nip.)↔truly; really; indeed; surely (s.w. h)
+            - yato (ind.)↔from where; from which; wherever
+            - ca (nip.)↔and 
+            - eva (nip.)↔only, just, even, exclusively 
+            - vā (nip.)↔or 
+            - he (nip.)↔hey!, oh! 
+            - ambho (nip.)↔hey! yo! look here! 
+            - sayaṁ (nip.)↔by one's own, oneself, one's own  (s.w/ s)
+            - saddhiṁ (nip.)→together with, with 
+            - iti (nip.)↔thus, like this, this is, and so (s.w. i)
+            - pāto (nip.)↔early, in the morning 
+            - suve (nip.)↔tomorrow 
+            - yāva (nip.)↔as long as, as far as, so much so,  (s.w. y)
+            - tāva (nip.)↔that much, that far, to that extent, until,  
+            - tattha (nip.)↔there
+            - kho (nip.)↔indeed, surely, certainly, truly (s.w. k)
+            - alaṁ (nip.)↔suitable, proper, enough 
+            - api (nip.)↔just, only, even, even then, if 
+            - upari (nip.)↔above, overhead, on top 
+        - Prefixes also do not undergo any changes in declension. In most cases they are added to the beginning of a root or a noun to change their meaning. There are {{**20**}} **upasagga **(prefixes) in pāḷi>>>
+            - pa, parā, ni, nī, u, du, 
+            - saṁ, vi, ava, anu,
+            - pari, adhi, abhi, pati, su, ā
+            - ati, api, apa, upa
+        - **vocab:**  #[[^^^pāḷi^^^ vocab (1st year)   ]] 
+            - Upa (upasagga)↔indicates closeness, vicinity
+            - Upagacchati↔approaches close
+            - Upanagara↔close to the city
+            - Nagara (nt.)↔town, city, citadel, fortress, stronghold, fortification
+            - Pajānāti↔knows, knows clearly, understands, distinguishes 
+            - Parājayo (m.)↔defeat, loss 
+            - Nimmalaṁ (adj.)↔spotless, stainless, shining 
+            - Dussīla (adj., nt.)↔(adj.) unprincipled, immoral, of bad behaviour; (nt.) unprincipled behaviour, unethical behaviour 
+            - Saṁsāra (m., nt.)↔wandering on, transmigration, stream of existence, lit. flowing together, cyclic existence
+            - kamati↔goes by, travels by, flies by 
+            - Declension↔padamālā 
