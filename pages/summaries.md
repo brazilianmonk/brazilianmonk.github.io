@@ -12,7 +12,7 @@ Here, you'll find my Dhamma notes, summaries, and flashcards. These are primaril
 
 ### 1st Year – *Pāḷi Pāṭha Sikkhā* by Bh. Vijitānanda
 - **1st Semester**  
-  - Chapters 1–10: [RemNote Article](https://www.remnote.com/a/Chapter-1-Pai-paha-sikkha-Bhante-Vijitananda/63d13028e8e74a05c741ba69)  [Page2](pali-patha-sikkha-1.md)
+  - Chapters 1–10: [RemNote Article](https://www.remnote.com/a/Chapter-1-Pai-paha-sikkha-Bhante-Vijitananda/63d13028e8e74a05c741ba69)  [Page2](pages/pali/pali-patha-sikkha-1.md)
 - **2nd Semester** *(Content pending)*  
 
 ### 2nd Year *(Content pending)*
