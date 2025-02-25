@@ -1,5 +1,5 @@
 to do list for the website:
-  
+  - consider the name monk life
   - maybe add youtube projects page to the menu
   - add more projects to the main page 
     - add summaries notes remnotes
