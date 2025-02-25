@@ -1,6 +1,5 @@
-I'mokto do list for the website:
-  - pali pages do not appear. file does not appear either.
-  - make second calculator the same width as the first
+to do list for the website:
+  
   - maybe add youtube projects page to the menu
   - add more projects to the main page 
     - add summaries notes remnotes
