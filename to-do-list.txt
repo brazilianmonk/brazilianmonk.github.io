@@ -20,3 +20,4 @@ add summaries page link to home with an image
 - B calendar used in Mm Thailand and SL
 - monk skill tree (conditions for nm, other bahussutas, samatha vipassana)
 - charts abhidhamma
+calculator that estimates the character and says the suitable objects
