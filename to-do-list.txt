@@ -5,8 +5,7 @@ to do list for the website:
   - add more projects to the main page 
     - add summaries notes remnotes
   - add link to remnote account
-  - add a search box
-- check summaries page on menu
+  - add a search box, especially to the notes section
 - edit summaries page
       - add notes from 1st year
       -add notes from 2nd year
@@ -21,4 +20,4 @@ add summaries page link to home with an image
 - B calendar used in Mm Thailand and SL
 - monk skill tree (conditions for nm, other bahussutas, samatha vipassana)
 - charts abhidhamma
-calculator that estimates the character and says the suitable objects
+calculator that estimates the character and says the suitable objects acc to vsdmg
