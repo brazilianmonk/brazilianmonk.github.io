@@ -1,4 +1,5 @@
 to do list for the website:
+- add monkish english link and edit the old.link
   - consider the name monk life
   - maybe add youtube projects page to the menu
   - add more projects to the main page 
