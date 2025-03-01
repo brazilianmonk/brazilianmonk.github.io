@@ -20,8 +20,8 @@
         }
         .toggle-container {
             display: flex;
-            justify-content: space-between;
-            align-items: center;
+            align-items: center; /* Vertically center toggle and text */
+            gap: 10px; /* Space between toggle and text */
             margin-bottom: 20px;
         }
         .switch {
@@ -63,10 +63,35 @@
         input:checked + .slider:before {
             transform: translateX(20px);
         }
+        .toggle-label {
+            font-size: 1rem;
+            color: #495057; /* Sober gray color */
+            font-weight: 500;
+        }
         .gemini-trans {
             display: none;
             color: gray;
             margin-top: 5px;
+        }
+         /* Back to Top Button Styles */
+        .back-to-top {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            display: none; /* Hidden by default */
+            z-index: 1000;
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            background-color: #343a40;
+            color: white;
+            border: none;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+            cursor: pointer;
+            transition: background-color 0.3s ease, opacity 0.3s ease;
+        }
+        .back-to-top:hover {
+            background-color: #007bff;
         }
     </style>
      <!-- Bootstrap CSS -->
@@ -106,26 +131,6 @@
         .toc-list a:hover {
             color: #007bff;
         }
-        /* Back to Top Button Styles */
-        .back-to-top {
-            position: fixed;
-            bottom: 20px;
-            right: 20px;
-            display: none; /* Hidden by default */
-            z-index: 1000;
-            width: 50px;
-            height: 50px;
-            border-radius: 50%;
-            background-color: #343a40;
-            color: white;
-            border: none;
-            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
-            cursor: pointer;
-            transition: background-color 0.3s ease, opacity 0.3s ease;
-        }
-        .back-to-top:hover {
-            background-color: #007bff;
-        }
     </style>
 </head>
 <body>
@@ -137,6 +142,7 @@
                 <input type="checkbox" id="toggleTranslation" checked>
                 <span class="slider"></span>
             </label>
+            <span class="toggle-label">Toggle Translation</span>
         </div>
         
             <div class="chunk">
