@@ -8,6 +8,7 @@ google-ID: 'G-48EBF94R81'
 
 menu:
 
+- {name: 'Translations',  url: 'translations'}
 - {name: 'Monk Calculators',  url: 'monk-calculators'}
 - {name: 'Summaries',  url: 'summaries'}
 - {name: 'Learning Resources', url: 'resources'}
