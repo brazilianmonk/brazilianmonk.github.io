@@ -20,8 +20,8 @@
         }
         .toggle-container {
             display: flex;
-            justify-content: space-between;
-            align-items: center;
+            align-items: center; /* Vertically center toggle and text */
+            gap: 10px; /* Space between toggle and text */
             margin-bottom: 20px;
         }
         .switch {
@@ -62,6 +62,11 @@
         }
         input:checked + .slider:before {
             transform: translateX(20px);
+        }
+        .toggle-label {
+            font-size: 1rem;
+            color: #495057; /* Sober gray color */
+            font-weight: 500;
         }
         .gemini-trans {
             display: none;
@@ -137,6 +142,7 @@
                 <input type="checkbox" id="toggleTranslation" checked>
                 <span class="slider"></span>
             </label>
+            <span class="toggle-label">Toggle Translation</span>
         </div>
         
             <div class="chunk">
