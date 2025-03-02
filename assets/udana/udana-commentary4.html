@@ -20,9 +20,11 @@
         }
         .toggle-container {
             display: flex;
+            justify-content: space-between; /* Changed to push items to opposite ends */
             align-items: center; /* Vertically center toggle and text */
-            gap: 10px; /* Space between toggle and text */
-            margin-bottom: 20px;
+            padding: 0; /* Adds minimal vertical padding */
+            margin-bottom: 5px;
+            gap: 5px; /* Space between toggle and text */
         }
         .switch {
             position: relative;
@@ -67,7 +69,18 @@
             font-size: 1rem;
             color: #495057; /* Sober gray color */
             font-weight: 500;
+            margin-left: 10px; /* Added spacing between toggle and text */
         }
+        .back-link {
+            font-size: 1rem;
+            color: #495057;
+            text-decoration: none;
+            font-weight: 500;
+            transition: color 0.3s ease;
+        }
+        .back-link:hover {
+            color: #007bff; /* Bootstrap blue on hover */
+        }       
         .gemini-trans {
             display: none;
             color: gray;
@@ -138,12 +151,18 @@
     <button class="back-to-top" title="Back to Top">↑</button>
     <div class="container">
         <div class="toggle-container">
-            <label class="switch">
-                <input type="checkbox" id="toggleTranslation" checked>
-                <span class="slider"></span>
-            </label>
+            <!-- Back to Translations Link on the Left -->
+            <a href="translations.html" class="back-link">Back to Translations</a>
+            <!-- Toggle and Label on the Right -->
+            <div style="display: flex; align-items: center;">
+                <label class="switch">
+                    <input type="checkbox" id="toggleTranslation" checked>
+                    <span class="slider"></span>
+                </label>
             <span class="toggle-label">Toggle Translation</span>
+            </div>
         </div>
+    </div>  
         
             <div class="chunk">
         <div>
@@ -152,11 +171,11 @@
         </div>
         <div>
             <div><strong><h1 id="khuddakanikaye">Khuddakanikāye</h1></strong></div>
-            <div class="gemini-trans"><h1 id="khuddaka-nikaya">Khuddaka Nikāya</h1></div>
+            <!-- <div class="gemini-trans"><h1 id="khuddaka-nikaya">Khuddaka Nikāya</h1></div> -->
         </div>
         <div>
             <div><strong><h2 id="udana-atthakatha">Udāna-aṭṭhakathā</h2></strong></div>
-            <div class="gemini-trans"><h2 id="udana-atthakatha">Udāna-aṭṭhakathā</h2></div>
+            <!-- <div class="gemini-trans"><h2 id="udana-atthakatha">Udāna-aṭṭhakathā</h2></div> -->
         </div>
         <div class="toc-container">
         <h2 class="toc-title">Table of Contents</h2>
