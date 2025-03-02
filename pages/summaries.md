@@ -4,7 +4,7 @@ title: Dhamma Summaries
 permalink: /summaries
 ---
 
-Here, you'll find my Dhamma notes, summaries, and flashcards. These are primarily derived from the Theravāda Buddhist teachings offered at [IIT](https://www.theravado.com/). You can also check [my RemNote Profile](https://www.remnote.com/profile/brazilianmonk).
+Here, you'll find my Dhamma notes, summaries, and flashcards. These are primarily derived from the Theravāda Buddhist teachings offered at [IIT](https://www.theravado.com/). You can also check [my RemNote Profile](https://www.remnote.com/profile/brazilianmonk). Anything.
 
 ---
 
