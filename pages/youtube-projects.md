@@ -8,15 +8,18 @@ To make the most of the effort that goes into the talks, lectures, etc. I’ve s
 
 ---
 
-### Current YouTube Channel: **Ariyañāṇa Bhikkhu (Stefano Domit Cervo)**
+### [Brazilian Monk](https://youtube.com/@brazilian-monk?feature=shared)
 
-This is where I currently host all my YouTube content including:
+This is a personal channel dedicated to Dhamma content such as Abhidhamma lessons, talks (including some in Spanish), monk life related topics, etc. 
 
-- **English Language for Monks**: My English Language lessons given in IIT (SL).
 - **Abhidhamma Lectures**: Abhidhamma lessons I gave covering the first 5 chapters of the Abhidhammatthasaṅgaha
 - **Recitations**: Recitations of Dhamma texts.
 
-#### Visit the channel:
+---
+### [Monkish English](https://youtube.com/@monkish-english?feature=shared)
+
+This is a channel specifically for English Language content based on the lessons I give in IIT. 
+
 <a href="https://youtube.com/playlist?list=PLXMGw7BI8gLVn_DKTX82nQ2Q0uWdUJpLT&feature=shared" target="_blank" class="btn">📺 A Playlist</a>
 <a href="https://youtube.com/@anb_sdc?feature=shared" target="_blank" class="btn">🔗 Visit the Channel</a>
 
