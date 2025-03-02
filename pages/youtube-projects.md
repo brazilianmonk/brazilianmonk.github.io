@@ -1,4 +1,4 @@
----
+I'm---
 layout: page
 title: YouTube Projects
 permalink: /youtube-projects
@@ -28,7 +28,7 @@ This is a channel specifically for English Language content based on the lessons
 
 ### Future Projects
 
-- **Buddhist Recitations / Chanting**: like [this one](https://youtube.com/playlist?list=PLXMGw7BI8gLWOvfpN_v_B9NaC6iJ5Zok8&feature=shared).
+- **Buddhist Recitations / Chanting**: like [this one](https://youtu.be/A-GhOqtl3zY?feature=shared).
 - **Dhamma in Multiple Languages**: Dedicated channels for Dhamma teachings in **Spanish** and **Portuguese**.
 
 ---
