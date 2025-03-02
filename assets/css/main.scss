@@ -7,7 +7,7 @@ $code-font-family: "Source Code Pro", monospace;
 
 $brand-color: black;
 
-$container-width: 1100px;
+$container-width: 800px;
 $tablet-width: 600px;
 $phone-width: 480px;
 
@@ -62,5 +62,8 @@ button:hover {
     background: #0056b3;
 }
 
+.social-links {
+    display: inline;
+}
 
 @import "-sections-dir";
