@@ -25,7 +25,6 @@ $pinterest-color: #bd081c;
 $medium-color: #00AB6C;
 $codepen-color: black;
 $rss-color: #ff6600;
-
 form {
     max-width: 500px;
     margin: 20px auto;
@@ -63,106 +62,5 @@ button:hover {
     background: #0056b3;
 }
 
-/* Header Styles */
-.site-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 15px 20px;
-  height: $header-thickness; /* Using your variable */
-  background-color: #f8f9fa;
-  font-family: $base-font-family; /* Using your font */
-}
-
-.site-title {
-  margin: 0;
-}
-
-.site-title a {
-  text-decoration: none;
-  color: $brand-color; /* Using your brand color */
-  font-size: 1.5rem;
-}
-
-.social-links {
-  display: flex;
-  gap: 15px;
-  justify-content: center;
-  flex-grow: 1;
-}
-
-.social-link {
-  color: $github-color; /* Default color, adjust as needed */
-  font-size: 1.2rem;
-  text-decoration: none;
-  transition: color $icon-transition-time; /* Using your transition time */
-
-  &:hover {
-    color: $twitter-color; /* Example hover color, adjust per platform */
-  }
-}
-
-.menu-list {
-  display: flex;
-  gap: 20px;
-}
-
-.menu-link {
-  text-decoration: none;
-  color: $brand-color;
-  font-weight: 500;
-
-  &:hover {
-    color: $linkedin-color; /* Example hover color */
-  }
-}
-
-.dropdown {
-  display: none;
-}
-
-.dropbtn {
-  background: none;
-  border: none;
-  font-size: 1.5rem;
-  cursor: pointer;
-  color: $brand-color;
-}
-
-.dropdown-content {
-  display: none;
-  position: absolute;
-  right: 0;
-  background-color: #fff;
-  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
-  min-width: 160px;
-
-  a {
-    display: block;
-    padding: 10px 15px;
-    color: $brand-color;
-    text-decoration: none;
-
-    &:hover {
-      background-color: #f1f1f1;
-    }
-  }
-}
-
-.dropdown:hover .dropdown-content {
-  display: block;
-}
-
-@media (max-width: $tablet-width) {
-  .menu-list {
-    display: none;
-  }
-  .dropdown {
-    display: block;
-  }
-  .social-links {
-    gap: 10px;
-  }
-}
 
 @import "-sections-dir";
