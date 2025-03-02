@@ -11,15 +11,15 @@ menu:
 - {name: 'Translations',  url: 'translations'}
 - {name: 'Monk Calculators',  url: 'monk-calculators'}
 - {name: 'Summaries',  url: 'summaries'}
-- {name: 'Learning Resources', url: 'resources'}
-- {name: 'Sample Posts',       url: 'sample-posts'}
-- {name: 'Documentation',      url: 'documentation'}
+#- {name: 'Learning Resources', url: 'resources'}
+#- {name: 'Sample Posts',       url: 'sample-posts'}
+#- {name: 'Documentation',      url: 'documentation'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'square-youtube', link: 'http://www.youtube.com/@brazilian-monk'}
+- {icon: 'youtube', link: 'http://www.youtube.com/@brazilian-monk'}
 - {icon: 'youtube', link: 'http://www.youtube.com/@monkish-english'}
 - {icon: 'twitter', link:    'https://x.com/AnB_Bz'}
 - {icon: 'facebook', link:   'https://www.facebook.com/anb.sdc'}
