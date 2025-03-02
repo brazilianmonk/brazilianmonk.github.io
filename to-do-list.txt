@@ -19,6 +19,10 @@ add summaries page link to home with an image
 - old sun calendar used in B time
 - B calendar used in Mm Thailand and SL
 - monk skill tree (conditions for nm, other bahussutas, samatha vipassana)
+- fix social media links
+- add link with image to the translations page
+- app with intro to abhidhamma based on the learn html app
+- change other social.media name to brazilian monk
 
 
 
