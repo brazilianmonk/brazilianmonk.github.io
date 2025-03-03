@@ -6,6 +6,7 @@ https://www.khanacademy.org/computing/computer-programming
 https://www.khanacademy.org/computing/computer-science
 
 - check for an easier way to add my notes to the website
+	- https://github.com/MaggieAppleton/digital-gardeners?tab=readme-ov-file
 	- maybe a lot together but with collapssable sections
 		creating a collapsible section with html in the md file; or use js for dynamic loading storing notes in separate files and js leads them when needed; using Jekyll collections putting notes in a folder
 	- maybe some online garden 
