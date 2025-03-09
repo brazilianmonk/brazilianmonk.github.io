@@ -8,6 +8,8 @@ There are still many Tipiṭaka books that are not translated into English (and 
 
 **Note:** There might be mistakes (and there probably are), so do not overrely on these translations or use them as citations and always confirm the information with knowledgeable monks.
 
+Each book is on a single webpage for now, so it may take a while to load. 
+
 This was possible with the expertise of V. (Vietnam) Dhammañāṇa. Sādhu!
 
 ### [Udāna Commentary English Translation](assets/udana/udana-commentary1.html)
