@@ -3,6 +3,9 @@ layout: page
 title: About
 permalink: /about
 ---
+
+# About the Author
+
 ![image](/assets/img/round-me-214.jpg)
 
 **2003-2015**: flamenco dancer (Spain, Brazil, others) ([what?](https://www.google.com/search?q=Stefano+Domit+Flamenco))
