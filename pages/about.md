@@ -3,6 +3,9 @@ layout: page
 title: About
 permalink: /about
 ---
+![image](/assets/img/round-me-214.jpg)
+
+<a src="/assets/img/round-me.jpg">
 
 **2003-2015**: flamenco dancer (Spain, Brazil, others) ([what?](https://www.google.com/search?q=Stefano+Domit+Flamenco))
 
@@ -28,6 +31,6 @@ permalink: /about
     document.getElementById("timer").innerHTML = years + "y " + months + "m " + days + "d ";
   }, 1000);
 </script>
-[Calculate yours](/monk-calculators.html)
+[Calculate yours](/monk-calculators)
 
 **2022-present**: student and English teacher at [Intl. Inst. of Theravāda](https://www.theravado.com/) (Sri Lanka)

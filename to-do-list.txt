@@ -1,11 +1,12 @@
 to do list for the website:
+- fix calculate yours link
 - update social media accounts with Brazilian monk, and website
 - check why in the page monk calculators the image of Brazilian monk does not appear
 - check
     https://www.freecodecamp.org/
     https://www.codecademy.com/
-https://www.khanacademy.org/computing/computer-programming
-https://www.khanacademy.org/computing/computer-science
+    https://www.khanacademy.org/computing/computer-programming
+    https://www.khanacademy.org/computing/computer-science
 
 - check for an easier way to add my notes to the website
 	- https://github.com/MaggieAppleton/digital-gardeners?tab=readme-ov-file
