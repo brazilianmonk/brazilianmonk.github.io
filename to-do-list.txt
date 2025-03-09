@@ -1,4 +1,5 @@
 to do list for the website:
+- add bodhi cursor
 - update social media accounts with Brazilian monk, and website
 - check why in the page monk calculators the image of Brazilian monk does not appear
 - check
