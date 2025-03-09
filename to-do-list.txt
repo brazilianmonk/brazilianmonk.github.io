@@ -1,4 +1,6 @@
 to do list for the website:
+- update social media accounts with Brazilian monk, and website
+- check why in the page monk calculators the image of Brazilian monk does not appear
 - check
     https://www.freecodecamp.org/
     https://www.codecademy.com/
