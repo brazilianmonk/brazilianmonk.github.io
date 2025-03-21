@@ -59,3 +59,9 @@ Here, you'll find my Dhamma notes, summaries, and flashcards. These are primaril
 ## Samatha
 
 - **3rd Year** *(Content pending)*
+
+---
+
+## English Language
+
+#### [Practice Irregular Verbs](/assets/irregular_verbs.html)
