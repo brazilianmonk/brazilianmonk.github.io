@@ -1,6 +1,7 @@
 <!-- index.html -->
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <title>Irregular Verbs Quiz</title>
@@ -23,8 +24,8 @@
         }
     </style>
 </head>
+
 <body>
-    <a href="/summaries"> Back to Summaries </a>
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-8 col-lg-6 quiz-container">
@@ -43,45 +44,67 @@
                     </div>
                     <div id="feedback" class="mt-3"></div>
                     <div id="progress" class="mt-3 text-muted"></div>
+                    <div id="buttonGroup" class="d-flex gap-2 mt-3 gap-3">
+                        <button onclick="resetProgress()" class="btn btn-danger">Reset</button>
+                        <button onclick="shuffleRemainingWords()" class="btn btn-info">Shuffle Remaining Words</button>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
-
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="/assets/verbs.js"></script>
+    <script src="verbs.js"></script>
     <script>
-    let currentIndex = 0; // Will be overridden by localStorage if available
-    let wrongWords = [];
-    let verbList = [...irregularVerbs];
+    let currentIndex = 0;
+    let verbList = [...irregularVerbs]; // Initial list, will be overridden by localStorage if available
     let showingFeedback = false;
 
-    // Load the saved index from localStorage when the page loads
+    // Load progress from localStorage
     function loadProgress() {
         const savedIndex = localStorage.getItem('quizCurrentIndex');
+        const savedList = localStorage.getItem('quizVerbList');
         if (savedIndex !== null) {
             currentIndex = parseInt(savedIndex, 10);
         }
+        if (savedList !== null) {
+            verbList = JSON.parse(savedList);
+        }
     }
 
-    // Save the current index to localStorage
+    // Save progress to localStorage
     function saveProgress() {
         localStorage.setItem('quizCurrentIndex', currentIndex);
+        localStorage.setItem('quizVerbList', JSON.stringify(verbList));
+    }
+
+    // Reset progress
+    function resetProgress() {
+        currentIndex = 0;
+        verbList = [...irregularVerbs]; // Reset to original list
+        localStorage.removeItem('quizCurrentIndex');
+        localStorage.removeItem('quizVerbList');
+        displayWord();
+    }
+
+    // Shuffle remaining words (from currentIndex onward)
+    function shuffleRemainingWords() {
+        const remainingWords = verbList.slice(currentIndex);
+        for (let i = remainingWords.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [remainingWords[i], remainingWords[j]] = [remainingWords[j], remainingWords[i]];
+        }
+        verbList = verbList.slice(0, currentIndex).concat(remainingWords);
+        saveProgress();
+        displayWord();
     }
 
     function displayWord() {
         if (currentIndex >= verbList.length) {
-            if (wrongWords.length > 0) {
-                verbList = [...wrongWords];
-                wrongWords = [];
-                currentIndex = 0;
-            } else {
-                document.getElementById('quiz').innerHTML = '<h2 class="text-success text-center">Congratulations! You completed the quiz!</h2>';
-                localStorage.removeItem('quizCurrentIndex'); // Clear storage when quiz is complete
-                return;
-            }
+            document.getElementById('quiz').innerHTML = '<h2 class="text-success text-center">Congratulations! You completed the quiz!</h2>';
+            localStorage.removeItem('quizCurrentIndex'); // Clear index when quiz is complete
+            return;
         }
-        
+
         showingFeedback = false;
         const verb = verbList[currentIndex];
         document.getElementById('currentWord').textContent = `Base form: ${verb.base}`;
@@ -111,12 +134,14 @@
             showingFeedback = true;
             let feedback = '<div class="alert alert-danger"><strong>Wrong!</strong> Correct answers:<br>';
             feedback += `Past: ${verb.past.join(' or ')}<br>`;
-            feedback += verb.pastParticiple.length > 0 ? 
-                `Past Participle: ${verb.pastParticiple.join(' or ')}</div>` : 
+            feedback += verb.pastParticiple.length > 0 ?
+                `Past Participle: ${verb.pastParticiple.join(' or ')}</div>` :
                 'Past Participle: (none)</div>';
             document.getElementById('feedback').innerHTML = feedback;
             document.getElementById('nextButton').style.display = 'inline-block';
-            wrongWords.push(verb);
+            // Move wrong word to the end of the list
+            verbList.push(verbList.splice(currentIndex, 1)[0]);
+            saveProgress(); // Save updated list
         }
     }
 
@@ -139,6 +164,7 @@
             }
         }
     });
-</script>
+    </script>
 </body>
+
 </html>
