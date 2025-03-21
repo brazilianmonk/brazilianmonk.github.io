@@ -3,6 +3,7 @@ layout: page
 title: Dhamma Summaries
 permalink: /summaries
 ---
+# Dhamma
 
 Here, you'll find my Dhamma notes, summaries, and flashcards. These are primarily derived from the Theravāda Buddhist teachings offered at [IIT](https://www.theravado.com/). You can also check [my RemNote Profile](https://www.remnote.com/profile/brazilianmonk).
 ![image](../../assets/img/summaries-img.jpg)
@@ -62,6 +63,6 @@ Here, you'll find my Dhamma notes, summaries, and flashcards. These are primaril
 
 ---
 
-## English Language
+# English Language
 
-#### [Practice Irregular Verbs](/assets/irregular_verbs.html)
+## [Practice Irregular Verbs](/assets/irregular_verbs.html)
