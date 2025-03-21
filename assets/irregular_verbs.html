@@ -30,6 +30,13 @@
         <div class="row justify-content-center">
             <div class="col-md-8 col-lg-6 quiz-container">
                 <h1 class="text-center mb-4">Irregular Verbs Quiz</h1>
+                <div class="d-flex justify-content-between mb-3">
+                    <button onclick="toggleVerbList()" class="btn btn-success" id="toggleListButton">Show List</button>
+                    <div>
+                        <button onclick="resetProgress()" class="btn btn-danger">Reset</button>
+                        <button onclick="shuffleRemainingWords()" class="btn btn-info ms-2">Shuffle Remaining</button>
+                    </div>
+                </div>
                 <div id="quiz">
                     <h3 id="currentWord" class="mb-3"></h3>
                     <div class="mb-3">
@@ -44,11 +51,8 @@
                     </div>
                     <div id="feedback" class="mt-3"></div>
                     <div id="progress" class="mt-3 text-muted"></div>
-                    <div id="buttonGroup" class="d-flex gap-2 mt-3 gap-3">
-                        <button onclick="resetProgress()" class="btn btn-danger">Reset</button>
-                        <button onclick="shuffleRemainingWords()" class="btn btn-info">Shuffle Remaining Words</button>
-                    </div>
                 </div>
+                <div id="verbListContainer" class="mt-4" style="display: none;"></div>
             </div>
         </div>
     </div>
@@ -56,8 +60,9 @@
     <script src="/assets/verbs.js"></script>
     <script>
     let currentIndex = 0;
-    let verbList = [...irregularVerbs]; // Initial list, will be overridden by localStorage if available
+    let verbList = [...irregularVerbs];
     let showingFeedback = false;
+    let isListVisible = false;
 
     // Load progress from localStorage
     function loadProgress() {
@@ -80,13 +85,16 @@
     // Reset progress
     function resetProgress() {
         currentIndex = 0;
-        verbList = [...irregularVerbs]; // Reset to original list
+        verbList = [...irregularVerbs];
         localStorage.removeItem('quizCurrentIndex');
         localStorage.removeItem('quizVerbList');
+        document.getElementById('verbListContainer').style.display = 'none';
+        document.getElementById('toggleListButton').textContent = 'Show List';
+        isListVisible = false;
         displayWord();
     }
 
-    // Shuffle remaining words (from currentIndex onward)
+    // Shuffle remaining words
     function shuffleRemainingWords() {
         const remainingWords = verbList.slice(currentIndex);
         for (let i = remainingWords.length - 1; i > 0; i--) {
@@ -95,13 +103,37 @@
         }
         verbList = verbList.slice(0, currentIndex).concat(remainingWords);
         saveProgress();
+        document.getElementById('verbListContainer').style.display = 'none';
+        document.getElementById('toggleListButton').textContent = 'Show List';
+        isListVisible = false;
         displayWord();
+    }
+
+    // Toggle the verb list visibility
+    function toggleVerbList() {
+        const container = document.getElementById('verbListContainer');
+        const button = document.getElementById('toggleListButton');
+        if (!isListVisible) {
+            let html = '<h3>Irregular Verbs List</h3><table class="table table-striped"><thead><tr><th>Base</th><th>Past</th><th>Past Participle</th></tr></thead><tbody>';
+            irregularVerbs.sort((a, b) => a.base.localeCompare(b.base)).forEach(verb => {
+                html += `<tr><td>${verb.base}</td><td>${verb.past.join(' or ')}</td><td>${verb.pastParticiple.length > 0 ? verb.pastParticiple.join(' or ') : '(none)'}</td></tr>`;
+            });
+            html += '</tbody></table>';
+            container.innerHTML = html;
+            container.style.display = 'block';
+            button.textContent = 'Hide List';
+            isListVisible = true;
+        } else {
+            container.style.display = 'none';
+            button.textContent = 'Show List';
+            isListVisible = false;
+        }
     }
 
     function displayWord() {
         if (currentIndex >= verbList.length) {
             document.getElementById('quiz').innerHTML = '<h2 class="text-success text-center">Congratulations! You completed the quiz!</h2>';
-            localStorage.removeItem('quizCurrentIndex'); // Clear index when quiz is complete
+            localStorage.removeItem('quizCurrentIndex');
             return;
         }
 
@@ -114,7 +146,7 @@
         document.getElementById('progress').textContent = `Progress: ${currentIndex + 1}/${verbList.length}`;
         document.getElementById('nextButton').style.display = 'none';
         document.getElementById('pastInput').focus();
-        saveProgress(); // Save progress each time a new word is displayed
+        saveProgress();
     }
 
     function checkAnswer() {
@@ -128,20 +160,25 @@
         const isPPCorrect = verb.pastParticiple.length === 0 || verb.pastParticiple.includes(ppInput);
 
         if (isPastCorrect && isPPCorrect) {
-            document.getElementById('feedback').innerHTML = '<div class="alert alert-success">Correct!</div>';
+            let feedback = '<div class="alert alert-success fs-4"><strong>Correct!</strong> Full answer is:<br>';
+            feedback += `Past: <strong>${verb.past.join(' or ')}</strong><br>`;
+            feedback += verb.pastParticiple.length > 0 ?
+                `Past Participle: <strong>${verb.pastParticiple.join(' or ')}</strong></div>` :
+                'Past Participle: (none)</div>';
+            document.getElementById('feedback').innerHTML = feedback;
             setTimeout(nextWord, 1000);
+
         } else {
             showingFeedback = true;
-            let feedback = '<div class="alert alert-danger"><strong>Wrong!</strong> Correct answers:<br>';
+            let feedback = '<div class="alert alert-danger fs-4"><strong>Wrong!</strong> Correct answers:<br>';
             feedback += `Past: ${verb.past.join(' or ')}<br>`;
             feedback += verb.pastParticiple.length > 0 ?
                 `Past Participle: ${verb.pastParticiple.join(' or ')}</div>` :
                 'Past Participle: (none)</div>';
             document.getElementById('feedback').innerHTML = feedback;
             document.getElementById('nextButton').style.display = 'inline-block';
-            // Move wrong word to the end of the list
             verbList.push(verbList.splice(currentIndex, 1)[0]);
-            saveProgress(); // Save updated list
+            saveProgress();
         }
     }
 
@@ -151,7 +188,7 @@
     }
 
     // Start the quiz
-    loadProgress(); // Load saved progress before starting
+    loadProgress();
     displayWord();
 
     // Allow Enter key to submit or move to next
