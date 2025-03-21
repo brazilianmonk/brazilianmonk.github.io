@@ -16,6 +16,9 @@ Here, you'll find my Dhamma notes, summaries, and flashcards. These are primaril
   - Chapter 2: Lessons 1-13 [RemNote Article](https://www.remnote.com/a/Chapter-2-Pai-paha-sikkha-Bhante-Vijitananda/63d12c72e8e74a05c741b365) / [Page](/summaries/pali/pps-ch2-1-13) / [HTML](pali/pali-patha-sikkha-ch2-html.html)
 - **2nd Semester** *(Content pending)*  
 
+### Other subjects *(Content pending)*
+
+<!-- This is a comment
 #### 2nd Year *(Content pending)*
 - **1st Semester**
 - **2nd Semester** 
@@ -58,7 +61,7 @@ Here, you'll find my Dhamma notes, summaries, and flashcards. These are primaril
 ### Samatha
 
 - **3rd Year** *(Content pending)*
-
+-->
 ---
 
 ![image](../../assets/img/english-classes-img.jpg)
