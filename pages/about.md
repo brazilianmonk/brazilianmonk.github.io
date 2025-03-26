@@ -43,9 +43,8 @@ permalink: /about
 # the Site
 
 I began this website as an **experiment**. I'm not sure how useful it will be, but I think that, among other things, it might help me:
-- keep track of and further my and other's projects
+- keep track of and further my Dhamma projects and that of others
 - spread the Buddha Dhamma
-- have a bigger positive impact
-- help more people
+- have a bigger positive impact and help more people
 
 Let's see!
