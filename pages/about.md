@@ -4,7 +4,7 @@ title:
 permalink: /about
 ---
 
-# **Ariya**
+# Ariya
 
 ![image](/assets/img/round-me-214.jpg)
 

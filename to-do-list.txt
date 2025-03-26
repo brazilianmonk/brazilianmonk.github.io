@@ -1,4 +1,5 @@
 to do list for the website:
+- add archive.org links
 - add favicon and open graph image
 - add bodhi cursor
 - update social media accounts with Brazilian monk, and website
