@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-# the Author: Ariya (Ariyañāṇa)
+## the Author: Ariya (Ariyañāṇa)
 
 ![image](/assets/img/round-me-214.jpg)
 
@@ -38,7 +38,7 @@ permalink: /about
 
 ---
 
-# the Site
+## the Site
 
 I began this website as an **experiment**. I'm not sure how useful it will be, but I think that, among other things, it might help me:
 - keep track of and further my Dhamma projects and that of others
