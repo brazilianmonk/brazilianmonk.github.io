@@ -4,11 +4,13 @@ layout: page
 permalink: /about
 ---
 
-# Ariya
+# the Author: Ariya
+
+(Ariyañāṇa)
 
 ![image](/assets/img/round-me-214.jpg)
 
-**2003-2015**: flamenco dancer (Spain, Brazil, others) ([what?](https://www.google.com/search?q=Stefano+Domit+Flamenco))
+**2003-2015**: flamenco dancer (Spain, Brazil, USA, PRC, South Korea, Netherlands, Canada, and others) ([what?](https://www.google.com/search?q=Stefano+Domit+Flamenco))
 
 **2015-2022**: meditation (Myanmar) ([here](https://www.paaukforestmonastery.org/))
 
