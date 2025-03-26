@@ -4,8 +4,7 @@ title: About
 permalink: /about
 ---
 
-# the Author: Ariya
-
+# the Author: Ariya 
 (Ariyañāṇa)
 
 ![image](/assets/img/round-me-214.jpg)
