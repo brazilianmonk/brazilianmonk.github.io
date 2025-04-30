@@ -1,4 +1,12 @@
 to do list for the website:
+- trees of the tipitaka
+- make website for people to be able to donate to projects
+- project of youtube videos about dhamma with good explanations and visuals (example Johnny Harris'); it can make good dhamma available to English / Spanish / Portuguese speaking monks / laity
+- course on how to study: preparing for a course, attending classes, taking notes, using tech, making summaries, flashcards, etc.
+- kammatthana calculator
+- review of books
+- list of monasteries that follow vinaya
+- ordination eligibility calc. make it easier to go another year, maybe typing, or a way to more easily select other years.
 - add archive.org links
 - add favicon and open graph image
 - add bodhi cursor
