@@ -66,8 +66,10 @@ Here, you'll find my Dhamma notes, summaries, and flashcards. These are primaril
 
 ![image](../../assets/img/english-classes-img.jpg)
 
+---
+
 ## English Language
 
 ### [Click here to practice Irregular Verbs 📈](/assets/irregular_verbs.html)
 
-Future Project: Articles Driller (a, an, the, -)
+### [Click here to practice Articles](/assets/practice_articles.html)
