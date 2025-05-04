@@ -66,8 +66,6 @@ Here, you'll find my Dhamma notes, summaries, and flashcards. These are primaril
 
 ![image](../../assets/img/english-classes-img.jpg)
 
----
-
 ## English Language
 
 ### [Practice Irregular Verbs 📈](/assets/irregular_verbs.html)
