@@ -70,6 +70,10 @@ Here, you'll find my Dhamma notes, summaries, and flashcards. These are primaril
 
 ## English Language
 
-### [Click here to practice Irregular Verbs 📈](/assets/irregular_verbs.html)
+### [Practice Irregular Verbs 📈](/assets/irregular_verbs.html)
 
-### [Click here to practice Articles](/assets/practice_articles.html)
+### [Practice Articles](/assets/practice_articles.html)
+
+### [Practice Relative Pronouns](/assets/practice_relative_clauses.html)
+
+=> [Relative Clauses - PDF summary](/assets/relative_clauses_summary.pdf)

@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Relative Clause Practice Driller</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            max-width: 900px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #e9ecef;
+            color: #333;
+        }
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+        }
+        .question {
+            margin: 20px 0;
+            padding: 15px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 3px 6px rgba(0,0,0,0.1);
+        }
+        .sentence {
+            font-size: 18px;
+            margin-bottom: 15px;
+            display: inline-block;
+        }
+        .drop-zone {
+            display: inline-block;
+            width: 80px;
+            height: 30px;
+            border: 2px dashed #007bff;
+            border-radius: 5px;
+            text-align: center;
+            line-height: 30px;
+            vertical-align: middle;
+            cursor: pointer;
+        }
+        .pronoun-option {
+            display: inline-block;
+            padding: 5px 10px;
+            margin: 5px;
+            background-color: #007bff;
+            color: white;
+            border-radius: 5px;
+            cursor: move;
+            user-select: none;
+        }
+        .pronoun-option.dragging {
+            opacity: 0.5;
+        }
+        .feedback {
+            margin-top: 10px;
+            font-size: 16px;
+            font-weight: bold;
+        }
+        .correct { color: #28a745; }
+        .incorrect { color: #dc3545; }
+        #score {
+            text-align: center;
+            font-size: 20px;
+            margin: 20px 0;
+            color: #2c3e50;
+        }
+        button {
+            display: block;
+            margin: 20px auto;
+            padding: 12px 25px;
+            font-size: 16px;
+            background-color: #28a745;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        button:hover {
+            background-color: #218838;
+        }
+        @media (max-width: 600px) {
+            .sentence { font-size: 16px; }
+            .drop-zone { width: 60px; height: 25px; line-height: 25px; }
+            .pronoun-option { padding: 4px 8px; font-size: 14px; }
+        }
+    </style>
+</head>
+<body>
+    <h1>Drag-and-Drop Relative Clause Practice</h1>
+    <div class="disclaimer">
+    <p><strong>Disclaimer:</strong>This app accepts more than one correct answer per question, but in some cases, other relative pronouns may also be grammatically correct.</p>
+</div>
+    <div id="quiz">
+        <!-- Questions will be dynamically inserted here -->
+    </div>
+    <div id="score">Score: 0 / 0</div>
+    <button onclick="resetQuiz()">New Quiz</button>
+
+    <script>
+        const questionBank = [
+    // Original 100 questions (updated)
+    { sentence: "The man ___ lives next door is a doctor.", answers: ["who", "that"], explanation: "'Who' or 'that' can be used as the subject of a defining relative clause for a person." },
+    { sentence: "The book ___ I read was amazing.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause (zero is informal)." },
+    { sentence: "My dog, ___ is very playful, loves parks.", answers: ["which"], explanation: "'Which' is used for animals in a non-defining relative clause." },
+    { sentence: "The girl ___ bag is red is my friend.", answers: ["whose"], explanation: "'Whose' shows possession for a person in a defining relative clause." },
+    { sentence: "The person ___ I met yesterday was kind.", answers: ["whom", "that", "Ø"], explanation: "'Whom' (formal), 'that,' or zero pronoun (informal) can be used as the object of a defining relative clause for a person." },
+    { sentence: "The car ___ is parked outside is new.", answers: ["that", "which"], explanation: "'That' or 'which' can be used as the subject of a defining relative clause for a thing." },
+    { sentence: "My teacher, ___ is very strict, gives homework.", answers: ["who"], explanation: "'Who' is used for a person in a non-defining relative clause." },
+    { sentence: "The movie ___ we watched was thrilling.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "The company ___ logo is blue is hiring.", answers: ["whose"], explanation: "'Whose' shows possession for a thing (e.g., company) in a defining relative clause." },
+    { sentence: "The cat ___ I adopted is fluffy.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used as the object of a defining relative clause for an animal." },
+    { sentence: "My friend, ___ lives in Paris, sent a postcard.", answers: ["who"], explanation: "'Who' is used as the subject in a non-defining relative clause." },
+    { sentence: "The house ___ we bought needs repairs.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "The student ___ essay won is here.", answers: ["whose"], explanation: "'Whose' shows possession for a person in a defining relative clause." },
+    { sentence: "The team ___ I joined is talented.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used as the object of a defining relative clause." },
+    { sentence: "My brother, ___ I admire, is a chef.", answers: ["whom"], explanation: "'Whom' is used as the object in a non-defining relative clause (formal)." },
+    { sentence: "The tree ___ fell was old.", answers: ["that", "which"], explanation: "'That' or 'which' can be used as the subject of a defining relative clause for a thing." },
+    { sentence: "The woman, ___ is a lawyer, helped us.", answers: ["who"], explanation: "'Who' is used for a person in a non-defining relative clause." },
+    { sentence: "The phone ___ I lost was expensive.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "The dog ___ owner is away is barking.", answers: ["whose"], explanation: "'Whose' shows possession for an animal in a defining relative clause." },
+    { sentence: "The professor ___ we consulted was helpful.", answers: ["whom", "that", "Ø"], explanation: "'Whom' (formal), 'that,' or zero pronoun (informal) can be used as the object of a defining relative clause." },
+    { sentence: "The city ___ I visited was beautiful.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "My car, ___ is red, is fast.", answers: ["which"], explanation: "'Which' is used for things in a non-defining relative clause." },
+    { sentence: "The boy ___ bike is broken is sad.", answers: ["whose"], explanation: "'Whose' shows possession for a person in a defining relative clause." },
+    { sentence: "The song ___ we heard was catchy.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "The restaurant ___ serves Italian food is popular.", answers: ["that", "which"], explanation: "'That' or 'which' can be used as the subject of a defining relative clause for a thing." },
+    { sentence: "My cousin, ___ is a pilot, travels often.", answers: ["who"], explanation: "'Who' is used for a person in a non-defining relative clause." },
+    { sentence: "The laptop ___ I use is old.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "The school ___ principal is retiring is nearby.", answers: ["whose"], explanation: "'Whose' shows possession for a thing (e.g., school) in a defining relative clause." },
+    { sentence: "The friend ___ I called was busy.", answers: ["whom", "that", "Ø"], explanation: "'Whom' (formal), 'that,' or zero pronoun (informal) can be used as the object of a defining relative clause." },
+    { sentence: "The painting ___ hangs in the museum is famous.", answers: ["that", "which"], explanation: "'That' or 'which' can be used as the subject of a defining relative clause for a thing." },
+    { sentence: "My boss, ___ is very kind, gave me a raise.", answers: ["who"], explanation: "'Who' is used for a person in a non-defining relative clause." },
+    { sentence: "The game ___ we played was fun.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "The horse ___ rider fell is fast.", answers: ["whose"], explanation: "'Whose' shows possession for an animal in a defining relative clause." },
+    { sentence: "The author ___ I admire wrote a new book.", answers: ["whom", "that", "Ø"], explanation: "'Whom' (formal), 'that,' or zero pronoun (informal) can be used as the object of a defining relative clause." },
+    { sentence: "The park ___ we visited was crowded.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "My house, ___ is old, needs painting.", answers: ["which"], explanation: "'Which' is used for things in a non-defining relative clause." },
+    { sentence: "The child ___ toy broke is crying.", answers: ["whose"], explanation: "'Whose' shows possession for a person in a defining relative clause." },
+    { sentence: "The show ___ we attended was amazing.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "The building ___ is under construction is tall.", answers: ["that", "which"], explanation: "'That' or 'which' can be used as the subject of a defining relative clause for a thing." },
+    { sentence: "My sister, ___ is a doctor, works late.", answers: ["who"], explanation: "'Who' is used for a person in a non-defining relative clause." },
+    { sentence: "The article ___ I read was informative.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "The team ___ coach is strict won the match.", answers: ["whose"], explanation: "'Whose' shows possession for a thing (e.g., team) in a defining relative clause." },
+    { sentence: "The neighbor ___ I helped was grateful.", answers: ["whom", "that", "Ø"], explanation: "'Whom' (formal), 'that,' or zero pronoun (informal) can be used as the object of a defining relative clause." },
+    { sentence: "The bridge ___ connects the cities is new.", answers: ["that", "which"], explanation: "'That' or 'which' can be used as the subject of a defining relative clause for a thing." },
+    { sentence: "My colleague, ___ is retiring, threw a party.", answers: ["who"], explanation: "'Who' is used for a person in a non-defining relative clause." },
+    { sentence: "The gift ___ I received was thoughtful.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "The bird ___ nest is in the tree is singing.", answers: ["whose"], explanation: "'Whose' shows possession for an animal in a defining relative clause." },
+    { sentence: "The scientist ___ we interviewed was brilliant.", answers: ["whom", "that", "Ø"], explanation: "'Whom' (formal), 'that,' or zero pronoun (informal) can be used as the object of a defining relative clause." },
+    { sentence: "The museum ___ we toured was fascinating.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "My bike, ___ is blue, is my favorite.", answers: ["which"], explanation: "'Which' is used for things in a non-defining relative clause." },
+    { sentence: "The player ___ score was highest won.", answers: ["whose"], explanation: "'Whose' shows possession for a person in a defining relative clause." },
+    { sentence: "The story ___ we read was moving.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "The shop ___ sells books is closing.", answers: ["that", "which"], explanation: "'That' or 'which' can be used as the subject of a defining relative clause for a thing." },
+    { sentence: "My uncle, ___ is a farmer, grows apples.", answers: ["who"], explanation: "'Who' is used for a person in a non-defining relative clause." },
+    { sentence: "The letter ___ I wrote was long.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "The club ___ members are active is growing.", answers: ["whose"], explanation: "'Whose' shows possession for a thing (e.g., club) in a defining relative clause." },
+    { sentence: "The stranger ___ I spoke to was friendly.", answers: ["whom", "that", "Ø"], explanation: "'Whom' (formal), 'that,' or zero pronoun (informal) can be used as the object of a defining relative clause." },
+    { sentence: "The road ___ leads to the village is narrow.", answers: ["that", "which"], explanation: "'That' or 'which' can be used as the subject of a defining relative clause for a thing." },
+    { sentence: "My aunt, ___ is a nurse, helped me.", answers: ["who"], explanation: "'Who' is used for a person in a non-defining relative clause." },
+    { sentence: "The project ___ we completed was successful.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "The elephant ___ trainer is skilled is performing.", answers: ["whose"], explanation: "'Whose' shows possession for an animal in a defining relative clause." },
+    { sentence: "The manager ___ we met was professional.", answers: ["whom", "that", "Ø"], explanation: "'Whom' (formal), 'that,' or zero pronoun (informal) can be used as the object of a defining relative clause." },
+    { sentence: "The beach ___ we visited was clean.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "My phone, ___ is new, has a great camera.", answers: ["which"], explanation: "'Which' is used for things in a non-defining relative clause." },
+    { sentence: "The athlete ___ record was broken is training.", answers: ["whose"], explanation: "'Whose' shows possession for a person in a defining relative clause." },
+    { sentence: "The poem ___ we recited was beautiful.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "The factory ___ produces cars is modern.", answers: ["that", "which"], explanation: "'That' or 'which' can be used as the subject of a defining relative clause for a thing." },
+    { sentence: "My neighbor, ___ is a writer, published a book.", answers: ["who"], explanation: "'Who' is used for a person in a non-defining relative clause." },
+    { sentence: "The email ___ I sent was urgent.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "The organization ___ mission is clear is respected.", answers: ["whose"], explanation: "'Whose' shows possession for a thing (e.g., organization)." },
+    { sentence: "The client ___ I contacted was pleased.", answers: ["whom", "that", "Ø"], explanation: "'Whom' (formal), 'that,' or zero pronoun (informal) can be used as the object of a defining relative clause." },
+    { sentence: "The mountain ___ we climbed was steep.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "My tablet, ___ is lightweight, is convenient.", answers: ["which"], explanation: "'Which' is used for things in a non-defining relative clause." },
+    { sentence: "The artist ___ work is displayed is famous.", answers: ["whose"], explanation: "'Whose' shows possession for a person in a defining relative clause." },
+    { sentence: "The speech ___ we heard was inspiring.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "The store ___ sells electronics is open.", answers: ["that", "which"], explanation: "'That' or 'which' can be used as the subject of a defining relative clause for a thing." },
+    { sentence: "My grandfather, ___ is retired, loves gardening.", answers: ["who"], explanation: "'Who' is used for a person in a non-defining relative clause." },
+    { sentence: "The report ___ I submitted was detailed.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "The team ___ captain is young is winning.", answers: ["whose"], explanation: "'Whose' shows possession for a thing (e.g., team) in a defining relative clause." },
+    { sentence: "The guest ___ I invited arrived early.", answers: ["whom", "that", "Ø"], explanation: "'Whom' (formal), 'that,' or zero pronoun (informal) can be used as the object of a defining relative clause." },
+    { sentence: "The lake ___ we swam in was cold.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "My watch, ___ is expensive, is accurate.", answers: ["which"], explanation: "'Which' is used for things in a non-defining relative clause." },
+    { sentence: "The musician ___ album is new is touring.", answers: ["whose"], explanation: "'Whose' shows possession for a person in a defining relative clause." },
+    { sentence: "The lesson ___ we learned was valuable.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "The hotel ___ offers spa services is luxurious.", answers: ["that", "which"], explanation: "'That' or 'which' can be used as the subject of a defining relative clause for a thing." },
+    { sentence: "My friend, ___ is an engineer, built a robot.", answers: ["who"], explanation: "'Who' is used for a person in a non-defining relative clause." },
+    { sentence: "The picture ___ I painted was colorful.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "The charity ___ funds help children is growing.", answers: ["whose"], explanation: "'Whose' shows possession for a thing (e.g., charity)." },
+    { sentence: "The colleague ___ I collaborated with was creative.", answers: ["whom", "that", "Ø"], explanation: "'Whom' (formal), 'that,' or zero pronoun (informal) can be used as the object of a defining relative clause." },
+    { sentence: "The forest ___ we explored was dense.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "My laptop, ___ is portable, is reliable.", answers: ["which"], explanation: "'Which' is used for things in a non-defining relative clause." },
+    { sentence: "The writer ___ novel is a bestseller is young.", answers: ["whose"], explanation: "'Whose' shows possession for a person in a defining relative clause." },
+    { sentence: "The idea ___ we discussed was innovative.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    
+    // New 150 questions (updated)
+    { sentence: "The teacher ___ explains clearly is popular.", answers: ["who", "that"], explanation: "'Who' or 'that' can be used as the subject of a defining relative clause for a person." },
+    { sentence: "The chair ___ I sat on was broken.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "My cat, ___ loves to sleep, is lazy.", answers: ["which"], explanation: "'Which' is used for animals in a non-defining relative clause." },
+    { sentence: "The boy ___ dog ran away is worried.", answers: ["whose"], explanation: "'Whose' shows possession for a person in a defining relative clause." },
+    { sentence: "The manager ___ we spoke to was polite.", answers: ["whom", "that", "Ø"], explanation: "'Whom' (formal), 'that,' or zero pronoun (informal) can be used as the object of a defining relative clause." },
+    { sentence: "The machine ___ is broken needs repair.", answers: ["that", "which"], explanation: "'That' or 'which' can be used as the subject of a defining relative clause for a thing." },
+    { sentence: "My friend, ___ owns a bakery, makes great cakes.", answers: ["who"], explanation: "'Who' is used for a person in a non-defining relative clause." },
+    { sentence: "The novel ___ I borrowed was long.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "The school ___ playground is large is new.", answers: ["whose"], explanation: "'Whose' shows possession for a thing (e.g., school)." },
+    { sentence: "The puppy ___ I saw was adorable.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used as the object of a defining relative clause for an animal." },
+    { sentence: "My cousin, ___ studies abroad, called me.", answers: ["who"], explanation: "'Who' is used as the subject in a non-defining relative clause." },
+    { sentence: "The apartment ___ we rented is cozy.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "The artist ___ paintings are famous is visiting.", answers: ["whose"], explanation: "'Whose' shows possession for a person in a defining relative clause." },
+    { sentence: "The club ___ I joined is fun.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "My sister, ___ I trust, gave advice.", answers: ["whom"], explanation: "'Whom' is used as the object in a non-defining relative clause (formal)." },
+    { sentence: "The table ___ is wobbly needs fixing.", answers: ["that", "which"], explanation: "'That' or 'which' can be used as the subject of a defining relative clause for a thing." },
+    { sentence: "The doctor, ___ is experienced, treated me.", answers: ["who"], explanation: "'Who' is used for a person in a non-defining relative clause." },
+    { sentence: "The bag ___ I bought was cheap.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "The lion ___ trainer is brave is roaring.", answers: ["whose"], explanation: "'Whose' shows possession for an animal in a defining relative clause." },
+    { sentence: "The lawyer ___ we hired was skilled.", answers: ["whom", "that", "Ø"], explanation: "'Whom' (formal), 'that,' or zero pronoun (informal) can be used as the object of a defining relative clause." },
+    { sentence: "The village ___ I grew up in was small.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "My camera, ___ is compact, takes great photos.", answers: ["which"], explanation: "'Which' is used for things in a non-defining relative clause." },
+    { sentence: "The student ___ project impressed us is here.", answers: ["whose"], explanation: "'Whose' shows possession for a person in a defining relative clause." },
+    { sentence: "The music ___ we listened to was relaxing.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "The café ___ serves coffee is busy.", answers: ["that", "which"], explanation: "'That' or 'which' can be used as the subject of a defining relative clause for a thing." },
+    { sentence: "My brother, ___ is a musician, performs often.", answers: ["who"], explanation: "'Who' is used for a person in a non-defining relative clause." },
+    { sentence: "The document ___ I signed was important.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "The company ___ products are eco-friendly is growing.", answers: ["whose"], explanation: "'Whose' shows possession for a thing (e.g., company)." },
+    { sentence: "The friend ___ I visited was happy.", answers: ["whom", "that", "Ø"], explanation: "'Whom' (formal), 'that,' or zero pronoun (informal) can be used as the object of a defining relative clause." },
+    { sentence: "The path ___ leads to the forest is scenic.", answers: ["that", "which"], explanation: "'That' or 'which' can be used as the subject of a defining relative clause for a thing." },
+    { sentence: "My teacher, ___ is retiring, was kind.", answers: ["who"], explanation: "'Who' is used for a person in a non-defining relative clause." },
+    { sentence: "The gift ___ I gave was appreciated.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "The parrot ___ owner travels is colorful.", answers: ["whose"], explanation: "'Whose' shows possession for an animal in a defining relative clause." },
+    { sentence: "The colleague ___ we worked with was efficient.", answers: ["whom", "that", "Ø"], explanation: "'Whom' (formal), 'that,' or zero pronoun (informal) can be used as the object of a defining relative clause." },
+    { sentence: "The river ___ we crossed was deep.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "My scooter, ___ is electric, is fun.", answers: ["which"], explanation: "'Which' is used for things in a non-defining relative clause." },
+    { sentence: "The player ___ goal won the game is celebrated.", answers: ["whose"], explanation: "'Whose' shows possession for a person in a defining relative clause." },
+    { sentence: "The lecture ___ we attended was boring.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "The bakery ___ makes bread is local.", answers: ["that", "which"], explanation: "'That' or 'which' can be used as the subject of a defining relative clause for a thing." },
+    { sentence: "My aunt, ___ is a chef, cooks well.", answers: ["who"], explanation: "'Who' is used for a person in a non-defining relative clause." },
+    { sentence: "The note ___ I wrote was short.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "The group ___ leader is dynamic is successful.", answers: ["whose"], explanation: "'Whose' shows possession for a thing (e.g., group)." },
+    { sentence: "The stranger ___ I met was interesting.", answers: ["whom", "that", "Ø"], explanation: "'Whom' (formal), 'that,' or zero pronoun (informal) can be used as the object of a defining relative clause." },
+    { sentence: "The trail ___ we hiked was long.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "My chair, ___ is ergonomic, is comfortable.", answers: ["which"], explanation: "'Which' is used for things in a non-defining relative clause." },
+    { sentence: "The author ___ book sold out is signing copies.", answers: ["whose"], explanation: "'Whose' shows possession for a person in a defining relative clause." },
+    { sentence: "The play ___ we saw was funny.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "The gym ___ offers classes is crowded.", answers: ["that", "which"], explanation: "'That' or 'which' can be used as the subject of a defining relative clause for a thing." },
+    { sentence: "My cousin, ___ is a lawyer, advised me.", answers: ["who"], explanation: "'Who' is used for a person in a non-defining relative clause." },
+    { sentence: "The email ___ I received was spam.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "The firm ___ clients are global is expanding.", answers: ["whose"], explanation: "'Whose' shows possession for a thing (e.g., firm)." },
+    { sentence: "The guest ___ I hosted was charming.", answers: ["whom", "that", "Ø"], explanation: "'Whom' (formal), 'that,' or zero pronoun (informal) can be used as the object of a defining relative clause." },
+    { sentence: "The hill ___ we climbed was tiring.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "My printer, ___ is wireless, is fast.", answers: ["which"], explanation: "'Which' is used for things in a non-defining relative clause." },
+    { sentence: "The scientist ___ research is groundbreaking is here.", answers: ["whose"], explanation: "'Whose' shows possession for a person in a defining relative clause." },
+    { sentence: "The video ___ we watched was viral.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "The park ___ has a playground is fun.", answers: ["that", "which"], explanation: "'That' or 'which' can be used as the subject of a defining relative clause for a thing." },
+    { sentence: "My uncle, ___ is a painter, showed his art.", answers: ["who"], explanation: "'Who' is used for a person in a non-defining relative clause." },
+    { sentence: "The text ___ I sent was clear.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "The band ___ music is popular is touring.", answers: ["whose"], explanation: "'Whose' shows possession for a thing (e.g., band)." },
+    { sentence: "The client ___ I emailed replied quickly.", answers: ["whom", "that", "Ø"], explanation: "'Whom' (formal), 'that,' or zero pronoun (informal) can be used as the object of a defining relative clause." },
+    { sentence: "The cave ___ we explored was dark.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "My desk, ___ is wooden, is sturdy.", answers: ["which"], explanation: "'Which' is used for things in a non-defining relative clause." },
+    { sentence: "The actor ___ performance was great is famous.", answers: ["whose"], explanation: "'Whose' shows possession for a person in a defining relative clause." },
+    { sentence: "The article ___ we discussed was long.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "The library ___ has rare books is old.", answers: ["that", "which"], explanation: "'That' or 'which' can be used as the subject of a defining relative clause for a thing." },
+    { sentence: "My sister, ___ is a dancer, performs gracefully.", answers: ["who"], explanation: "'Who' is used for a person in a non-defining relative clause." },
+    { sentence: "The message ___ I left was brief.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "The institute ___ research is advanced is renowned.", answers: ["whose"], explanation: "'Whose' shows possession for a thing (e.g., institute)." },
+    { sentence: "The neighbor ___ I borrowed from was kind.", answers: ["whom", "that", "Ø"], explanation: "'Whom' (formal), 'that,' or zero pronoun (informal) can be used as the object of a defining relative clause." },
+    { sentence: "The valley ___ we toured was green.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "My lamp, ___ is bright, is useful.", answers: ["which"], explanation: "'Which' is used for things in a non-defining relative clause." },
+    { sentence: "The poet ___ verses are deep is celebrated.", answers: ["whose"], explanation: "'Whose' shows possession for a person in a defining relative clause." },
+    { sentence: "The game ___ we played was exciting.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "The market ___ sells fresh produce is busy.", answers: ["that", "which"], explanation: "'That' or 'which' can be used as the subject of a defining relative clause for a thing." },
+    { sentence: "My friend, ___ is a photographer, took my picture.", answers: ["who"], explanation: "'Who' is used for a person in a non-defining relative clause." },
+    { sentence: "The card ___ I made was creative.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "The agency ___ campaigns are effective is hired.", answers: ["whose"], explanation: "'Whose' shows possession for a thing (e.g., agency)." },
+    { sentence: "The colleague ___ I trained was quick.", answers: ["whom", "that", "Ø"], explanation: "'Whom' (formal), 'that,' or zero pronoun (informal) can be used as the object of a defining relative clause." },
+    { sentence: "The island ___ we visited was tropical.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "My TV, ___ is smart, streams movies.", answers: ["which"], explanation: "'Which' is used for things in a non-defining relative clause." },
+    { sentence: "The designer ___ clothes are trendy is popular.", answers: ["whose"], explanation: "'Whose' shows possession for a person in a defining relative clause." },
+    { sentence: "The podcast ___ we listened to was funny.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "The office ___ has new computers is modern.", answers: ["that", "which"], explanation: "'That' or 'which' can be used as the subject of a defining relative clause for a thing." },
+    { sentence: "My brother, ___ is a teacher, loves his job.", answers: ["who"], explanation: "'Who' is used for a person in a non-defining relative clause." },
+    { sentence: "The form ___ I filled out was complex.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "The foundation ___ projects help communities is active.", answers: ["whose"], explanation: "'Whose' shows possession for a thing (e.g., foundation)." },
+    { sentence: "The partner ___ I worked with was reliable.", answers: ["whom", "that", "Ø"], explanation: "'Whom' (formal), 'that,' or zero pronoun (informal) can be used as the object of a defining relative clause." },
+    { sentence: "The canyon ___ we saw was vast.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "My sofa, ___ is cozy, is my favorite.", answers: ["which"], explanation: "'Which' is used for things in a non-defining relative clause." },
+    { sentence: "The chef ___ dishes are famous is on TV.", answers: ["whose"], explanation: "'Whose' shows possession for a person in a defining relative clause." },
+    { sentence: "The debate ___ we watched was heated.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "The clinic ___ offers free care is crowded.", answers: ["that", "which"], explanation: "'That' or 'which' can be used as the subject of a defining relative clause for a thing." },
+    { sentence: "My cousin, ___ is a vet, loves animals.", answers: ["who"], explanation: "'Who' is used for a person in a non-defining relative clause." },
+    { sentence: "The ticket ___ I bought was expensive.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "The gallery ___ exhibits are stunning is open.", answers: ["whose"], explanation: "'Whose' shows possession for a thing (e.g., gallery)." },
+    { sentence: "The friend ___ I texted was busy.", answers: ["whom", "that", "Ø"], explanation: "'Whom' (formal), 'that,' or zero pronoun (informal) can be used as the object of a defining relative clause." },
+    { sentence: "The desert ___ we crossed was hot.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "My headphones, ___ are wireless, are great.", answers: ["which"], explanation: "'Which' is used for things in a non-defining relative clause." },
+    { sentence: "The singer ___ voice is unique is performing.", answers: ["whose"], explanation: "'Whose' shows possession for a person in a defining relative clause." },
+    { sentence: "The show ___ we recorded was live.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "The restaurant ___ serves sushi is new.", answers: ["that", "which"], explanation: "'That' or 'which' can be used as the subject of a defining relative clause for a thing." },
+    { sentence: "My aunt, ___ is a scientist, won an award.", answers: ["who"], explanation: "'Who' is used for a person in a non-defining relative clause." },
+    { sentence: "The file ___ I downloaded was large.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "The museum ___ artifacts are ancient is famous.", answers: ["whose"], explanation: "'Whose' shows possession for a thing (e.g., museum)." },
+    { sentence: "The teammate ___ I trained with was strong.", answers: ["whom", "that", "Ø"], explanation: "'Whom' (formal), 'that,' or zero pronoun (informal) can be used as the object of a defining relative clause." },
+    { sentence: "The meadow ___ we walked through was beautiful.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "My bike, ___ is lightweight, is fast.", answers: ["which"], explanation: "'Which' is used for things in a non-defining relative clause." },
+    { sentence: "The director ___ film won awards is here.", answers: ["whose"], explanation: "'Whose' shows possession for a person in a defining relative clause." },
+    { sentence: "The ad ___ we saw was creative.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "The shop ___ sells flowers is colorful.", answers: ["that", "which"], explanation: "'That' or 'which' can be used as the subject of a defining relative clause for a thing." },
+    { sentence: "My friend, ___ is a poet, writes beautifully.", answers: ["who"], explanation: "'Who' is used for a person in a non-defining relative clause." },
+    { sentence: "The list ___ I made was long.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "The startup ___ idea is innovative is funded.", answers: ["whose"], explanation: "'Whose' shows possession for a thing (e.g., startup)." },
+    { sentence: "The mentor ___ I learned from was wise.", answers: ["whom", "that", "Ø"], explanation: "'Whom' (formal), 'that,' or zero pronoun (informal) can be used as the object of a defining relative clause." },
+    { sentence: "The town ___ we stayed in was quaint.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "My clock, ___ is antique, is valuable.", answers: ["which"], explanation: "'Which' is used for things in a non-defining relative clause." },
+    { sentence: "The athlete ___ speed is unmatched is competing.", answers: ["whose"], explanation: "'Whose' shows possession for a person in a defining relative clause." },
+    { sentence: "The book ___ we studied was complex.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "The studio ___ records music is high-tech.", answers: ["that", "which"], explanation: "'That' or 'which' can be used as the subject of a defining relative clause for a thing." },
+    { sentence: "My sister, ___ is an artist, paints murals.", answers: ["who"], explanation: "'Who' is used for a person in a non-defining relative clause." },
+    { sentence: "The recipe ___ I followed was easy.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "The association ___ members are active is thriving.", answers: ["whose"], explanation: "'Whose' shows possession for a thing (e.g., association)." },
+    { sentence: "The friend ___ I confided in was supportive.", answers: ["whom", "that", "Ø"], explanation: "'Whom' (formal), 'that,' or zero pronoun (informal) can be used as the object of a defining relative clause." },
+    { sentence: "The lake ___ we fished in was calm.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    { sentence: "My jacket, ___ is warm, is my favorite.", answers: ["which"], explanation: "'Which' is used for things in a non-defining relative clause." },
+    { sentence: "The teacher ___ lessons are engaging is loved.", answers: ["whose"], explanation: "'Whose' shows possession for a person in a defining relative clause." },
+    { sentence: "The film ___ we reviewed was short.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." }
+];
+
+        let score = 0;
+        let total = 20; // Number of questions per quiz
+        let currentQuestions = [];
+        const options = ["who", "which", "that", "whose", "whom", "Ø"];
+
+        function getRandomQuestions() {
+            const shuffled = questionBank.sort(() => 0.5 - Math.random());
+            return shuffled.slice(0, total);
+        }
+
+        function loadQuiz() {
+            currentQuestions = getRandomQuestions();
+            const quizDiv = document.getElementById('quiz');
+            quizDiv.innerHTML = '';
+            currentQuestions.forEach((q, index) => {
+                const questionDiv = document.createElement('div');
+                questionDiv.className = 'question';
+                questionDiv.innerHTML = `
+                    <div class="sentence">${q.sentence.replace('___', '<span class="drop-zone" id="drop' + index + '"></span>')}</div>
+                    <div class="options">
+                        ${options.map(opt => `<span class="pronoun-option" draggable="true">${opt}</span>`).join('')}
+                    </div>
+                    <div class="feedback" id="feedback${index}"></div>
+                `;
+                quizDiv.appendChild(questionDiv);
+            });
+            addDragAndDropListeners();
+            updateScore();
+        }
+
+        function addDragAndDropListeners() {
+            document.querySelectorAll('.pronoun-option').forEach(option => {
+                option.addEventListener('dragstart', (e) => {
+                    e.dataTransfer.setData('text', e.target.textContent);
+                    e.target.classList.add('dragging');
+                });
+                option.addEventListener('dragend', (e) => {
+                    e.target.classList.remove('dragging');
+                });
+            });
+
+            document.querySelectorAll('.drop-zone').forEach(zone => {
+                zone.addEventListener('dragover', (e) => {
+                    e.preventDefault();
+                });
+                zone.addEventListener('drop', (e) => {
+                    e.preventDefault();
+                    const pronoun = e.dataTransfer.getData('text');
+                    const index = zone.id.replace('drop', '');
+                    zone.textContent = pronoun;
+                    checkAnswer(index, pronoun);
+                });
+            });
+        }
+
+        function checkAnswer(index, pronoun) {
+    const feedback = document.getElementById(`feedback${index}`);
+    const correctAnswers = currentQuestions[index].answers;
+    if (correctAnswers.includes(pronoun)) {
+        feedback.className = 'feedback correct';
+        feedback.innerHTML = `Correct! ${currentQuestions[index].explanation}`;
+        if (!feedback.dataset.answered) {
+            score++;
+            feedback.dataset.answered = true;
+        }
+    } else {
+        feedback.className = 'feedback incorrect';
+        feedback.innerHTML = `Incorrect. ${currentQuestions[index].explanation}`;
+        if (feedback.dataset.answered) {
+            score--;
+            feedback.dataset.answered = false;
+        }
+    }
+    updateScore();
+}
+
+        function updateScore() {
+            document.getElementById('score').innerHTML = `Score: ${score} / ${total}`;
+        }
+
+        function resetQuiz() {
+            score = 0;
+            currentQuestions.forEach((q, index) => {
+                const feedback = document.getElementById(`feedback${index}`);
+                if (feedback) feedback.dataset.answered = false;
+            });
+            loadQuiz();
+        }
+
+        // Load quiz on page load
+        loadQuiz();
+    </script>
+</body>
+</html>
