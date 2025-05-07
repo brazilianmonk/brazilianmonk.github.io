@@ -13,6 +13,7 @@ permalink: /about
 
 **2016-present**: Theravāda Buddhist monk for <span id="timer"></span> [(Calculate yours)](/monk-calculators)
 
+<!-- ordination timer -->
 <script>
   // Set the date you want to count from
   var countDownDate = new Date("2016-10-07").getTime(); // Ordination date
@@ -35,23 +36,51 @@ permalink: /about
 
 **2022-present**: student and English teacher at [Intl. Inst. of Theravāda](https://www.theravado.com/) (Sri Lanka)
 
-### Full Bio:
 
- Bhante **Ariyañāṇa**, born Stefano Domit Cervo in Brazil, is a former [flamenco](https://en.wikipedia.org/wiki/Flamenco) dancer who captivated global audiences with his performances until 2015, when he embarked on a transformative quest as a [Theravāda](https://en.wikipedia.org/wiki/Theravada) Buddhist monk. 
+<!-- Full Bio Link -->
+<a href="#" id="bioLink" onclick="toggleBio(event)">📚Click here for Full Bio📚</a>
 
-#### Artist Years
+<!-- Full Bio Content -->
+<div id="fullBio">
+    <p>Bhante Ariyañāṇa, born Stefano Domit Cervo in Brazil, is a former <a href="https://en.wikipedia.org/wiki/Flamenco">flamenco</a> dancer who captivated global audiences with his performances until 2015, when he embarked on a transformative quest as a <a href="https://en.wikipedia.org/wiki/Theravada">Theravāda</a> Buddhist monk.</p>
+    
+  <h3>Artist Years</h3>
+    <p>Inspired by his <a href="https://www.instagram.com/giseleclaudianedomit?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">mother</a>, a flamenco dancer herself, he, at the age of 11, followed in her footsteps, initially playing percussion and then dancing, teaching, and choreographing. Later, at the age of 17, he moved to Spain, the homeland of Flamenco, where he achieved significant acclaim including first place at the <a href="https://youtu.be/UjTlp9rKxSQ?feature=shared">Festival Flamenco de Almería (2013)</a> and the <a href="https://www.eter.com/actualidad/noticia.php?id=17429">"Premio Extraordinario de Danza de la Comunidad de Madrid" (2015)</a>. As a choreographer and soloist, he participated in <a href="https://heartbeatofhome.com/">Heartbeat of Home</a>, a production of the creators of the global phenomenon Riverdance.</p>
+    
+  <p>In collaboration with top-notch flamenco artists, he performed in venues ranging from traditional tablaos such as <a href="https://tablaolascarboneras.com/">"Las Carboneras"</a> in Madrid to iconic concert halls such as Amsterdam's <a href="https://www.concertgebouw.nl/en/">Royal Concertgebouw</a> alongside <a href="https://en.wikipedia.org/wiki/Mar%C3%ADa_Juncal">Maria Juncal</a> and <a href="https://www.alfonsolosaonline.com">Alfonso Losa</a>. His short but dynamic career took him across the Americas, Europe, and Asia, with critics praising him as a dancer with "stately carriage" and "rapid-fire heelwork," combining "incredible rapidity and precision" in "passion filled, fiery flamenco numbers" that were "truly captivating" and "incredibly moving and powerful." In the words of the iconic dancer <a href="https://en.wikipedia.org/wiki/Antonio_Canales">Antonio Canales</a>: "He (Stefano) uses everything he has learned, thought, worked on, and felt to shatter it into a thousand pieces of emotion, making the viewer's heart skip a beat…"</p>
+    
+  <h3>Monkhood</h3>
+    <p>In spite of the ever-growing artistic success, in 2015, seeking deeper meaning and inner peace, he embarked on a transformative inner journey. A retreat with <a href="https://www.dhammadipa.cz/en/">Thomas Dhammadīpa</a> in India introduced him to Theravāda teachings, leading him to the <a href="https://paaukforestmonastery.org">Pa Auk tradition</a> in Myanmar. There, he spent approximately seven years, first as a layperson, and then as a monastic as Ariyañāṇa, under the guidance of <a href="https://en.wikipedia.org/wiki/Bhaddanta_%C4%80ci%E1%B9%87a">Pa Auk Sayadaw</a>, his preceptor, and other teachers such as <a href="https://www.youtube.com/@DT-UKMRBVS">V. Kumārābhivaṁsa</a>.</p>
+    
+  <p>Continuing his spiritual path, in 2022, Bhante Ariyañāṇa joined the <a href="https://theravado.com">Nissayamuttaka course</a> at the <a href="https://theravado.com">International Institute of Theravāda</a> in Sri Lanka where he now deepens his traditional Theravāda Buddhist studies and leads the English Language studies for monastics.</p>
+  <!-- PDF Download Links -->
+    <p><b>Download the Bio</b>(includes longer and shorter versions):</p>
+        <p><a href="/assets/docs/brazilianmonk_bio_english.pdf" download>in English ⏬</a> |
+        <a href="/assets/docs/brazilianmonk_bio_espanol.pdf" download>en Español (soon) ⏬</a> |
+        <a href="/assets/docs/brazilianmonk_bio_portugues.pdf" download>em Portugues (soon) ⏬</a>
+    </p>
+</div>
 
- Inspired by his [mother](https://www.instagram.com/giseleclaudianedomit?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==), a flamenco dancer herself, he, at the age of 11, followed in her footsteps, initially playing percussion and then dancing, teaching, and choreographing. Later, at the age of 17, he moved to Spain, the homeland of Flamenco, where he achieved significant acclaim including first place at the [**Festival Flamenco de Almería (2013)**](https://youtu.be/UjTlp9rKxSQ?feature=shared) and the [**“Premio Extraordinario de Danza de la
- Comunidad de Madrid” (2015)**](https://www.eter.com/actualidad/noticia.php?id=17429). As a choreographer and soloist, he participated in [**Heartbeat of Home**](https://heartbeatofhome.com/), a production of the creators of the global phenomenon Riverdance. 
+<style>
+    #fullBio {
+        display: none; /* Hides full bio initially */
+    }
+</style>
 
- In collaboration with top-notch flamenco artists, he performed in venues ranging from traditional tablaos such as [**"Las Carboneras"**](https://tablaolascarboneras.com/) in Madrid to iconic concert halls such as Amsterdam's [**Royal Concertgebouw**](https://www.concertgebouw.nl/en/) besides [**Maria Juncal**](https://en.wikipedia.org/wiki/Mar%C3%ADa_Juncal) and [**Alfonso Losa**](https://www.alfonsolosaonline.com). His short but dynamic career took him across the Americas, Europe, and Asia, with critics praising him as a dancer with “stately carriage” and “rapid-fire heelwork,” combining “incredible rapidity and precision” in “passion filled, fiery flamenco numbers” that were “truly captivating” and “incredibly moving and powerful". In the words of the iconic dancer [**Antonio Canales**](https://en.wikipedia.org/wiki/Antonio_Canales_(flamenco)): "He (Stefano) uses everything he has learned, thought, worked on, and felt to shatter it into a thousand pieces of emotion, making the viewer's heart skip a beat…".
-
-#### Monkhood
-
-In spite of the ever growing artistic success, in 2015, seeking deeper meaning and inner peace, he embarked on a transformative inner journey. A retreat with [**Thomas Dhammadīpa**](https://www.dhammadipa.cz/en/) in India introduced him to Theravāda teachings, leading him to the [**Pa Auk tradition**](https://paaukforestmonastery.org) in Myanmar. There, he spent approximately seven years, first as a layperson, and then as a monastic as Ariyañāṇa, under the guidance of [**Pa Auk Sayadaw**](https://en.wikipedia.org/wiki/Bhaddanta_%C4%80ci%E1%B9%87%E1%B9%87a), his preceptor, and other teachers such as [**V. Kumārābhivaṁsa**](https://www.youtube.com/@DT-UKMRBVS). 
-
-Continuing his spiritual path, in 2022, Bhante Ariyañāṇa joined the **Nissayamuttaka** course in the [**International Institute of Theravāda**](https://theravado.com) in Sri Lanka where he now deepens his traditional Theravāda Buddhist studies and leads the English Language studies for monastics.
-
+<script>
+    function toggleBio(event) {
+        event.preventDefault(); // Prevents the default link behavior (scrolling to top)
+        var bio = document.getElementById("fullBio");
+        var link = document.getElementById("bioLink");
+        if (bio.style.display === "none" || bio.style.display === "") {
+            bio.style.display = "block";
+            link.textContent = "📚Click here to hide Full Bio📚";
+        } else {
+            bio.style.display = "none";
+            link.textContent = "📚Click here for Full Bio📚";
+        }
+    }
+</script>
 ---
 
 ## About the Site
