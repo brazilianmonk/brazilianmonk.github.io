@@ -1,4 +1,5 @@
 to do list for the website:
+- add FAQ section
 - simple website with my flamenco career 
 - app for learning abhidhamma
 - email list
