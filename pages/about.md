@@ -54,10 +54,10 @@ permalink: /about
     
   <p>Continuing his spiritual path, in 2022, Bhante Ariyañāṇa joined the <a href="https://theravado.com">Nissayamuttaka course</a> at the <a href="https://theravado.com">International Institute of Theravāda</a> in Sri Lanka where he now deepens his traditional Theravāda Buddhist studies and leads the English Language studies for monastics.</p>
   <!-- PDF Download Links -->
-    <p><b>Download the Bio</b>(includes longer and shorter versions):</p>
+    <p><b>Download the Bio</b> (includes longer and shorter versions):</p>
         <p><a href="/assets/docs/brazilianmonk_bio_english.pdf" download>in English ⏬</a> |
         <a href="/assets/docs/brazilianmonk_bio_espanol.pdf" download>en Español (soon) ⏬</a> |
-        <a href="/assets/docs/brazilianmonk_bio_portugues.pdf" download>em Portugues (soon) ⏬</a>
+        <a href="/assets/docs/brazilianmonk_bio_portugues.pdf" download>em Português (soon) ⏬</a>
     </p>
 </div>
 
