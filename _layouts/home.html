@@ -29,12 +29,9 @@ title: Home
     }
 </style>
 <br>
-<div class="centered-text">📍Welcome! This site is under (slow) 🚧 construction 🚧, but feel free to check around.📍</div>
+<div class="centered-text">Welcome!</div>
 <br>
 <div class="image-links">
-    <a href="{{ site.baseurl }}/translations">
-        <img src="{{ site.baseurl }}/assets/img/translations-img.jpg" alt="Translations">
-    </a>
     <a href="{{ site.baseurl }}/summaries">
         <img src="{{ site.baseurl }}/assets/img/summaries-img.jpg" alt="Summaries">
     </a>
@@ -45,13 +42,6 @@ title: Home
         <img src="{{ site.baseurl }}/assets/img/youtube-home-img.jpg" alt="YouTube Projects">
     </a>
 </div>
-<iframe src="https://www.juicer.io/api/feeds/brazilian-monk/iframe" frameborder="0" width="700" height="1000" style="display:block;margin:0 auto;"></iframe>
-
-<!-- Video Section (Uncomment when needed) -->
-<!-- <video width="640" height="360" autoplay muted playsinline onended="this.pause();">
-    <source src="{{ site.baseurl }}/assets/videos/home-video.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video> -->
 
 {% for post in paginator.posts %}
   {% include featured-post.html %}

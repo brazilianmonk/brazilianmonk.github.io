@@ -1,3 +1,10 @@
+important files:
+- assets/: has all the images, files, etc.
+- data/setting.yml: header menus, footer links
+- layouts/home.html: content of the home page
+- pages/: content of each page
+
+
 to do list for the website:
 - add FAQ section
 - simple website with my flamenco career 
