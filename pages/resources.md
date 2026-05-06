@@ -9,7 +9,7 @@ Links to reliable Dhamma resources and monasteries.
 
 ## [📝 Summaries, notes, essays, etc.](/summaries)
 
-Here I keep my own summaries, notes, essays, programs, etc. 
+Here I keep my own summaries, notes, essays, programs, etc. It also includes some material for English learners.
 
 ## [🧮 Monk Calculators](/monk-calculators)
 

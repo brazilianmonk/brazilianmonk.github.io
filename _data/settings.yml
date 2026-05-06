@@ -28,8 +28,8 @@ pagination:
   next_page: 'Newer'
   previous_page: 'Older'
 
-sharing_button_prompt: 'share'
+sharing_button_prompt: 'Share'
 
-related_posts: 'related posts'
+related_posts: 'Related Posts'
 
 post_date_prefix: 'written on'

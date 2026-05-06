@@ -41,7 +41,7 @@ permalink: /about
 
 
 <!-- Full Bio Link -->
-<a href="#" id="bioLink" onclick="toggleBio(event)">📚Click here for Full Bio📚</a>
+<a href="#" id="bioLink" onclick="toggleBio(event)">📚**Click here for Full Bio**</a>
 
 <!-- Full Bio Content -->
 <div id="fullBio">
@@ -85,7 +85,7 @@ permalink: /about
     }
 </script>
 
-[📆 **Calendar** 📆](/calendar): click here to check upcoming events
+[📆 **Calendar**](/calendar): upcoming events
 
 ---
 
@@ -93,7 +93,5 @@ permalink: /about
 
 I began this website as an **experiment**. I'm not sure how useful it will be, but I think that, among other things, it might help me:
 - keep track of and further my Dhamma projects and that of others
-- spread the Buddha Dhamma
-- have a bigger positive impact and help more people
-
-Let's see!
+- propagate the Buddha Dhamma
+- have a bigger positive impact on the sāsana and help more people
