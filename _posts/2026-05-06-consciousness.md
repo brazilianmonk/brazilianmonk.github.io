@@ -3,7 +3,7 @@ layout: post
 title: Consciousness -- Citta
 author: Brazil Ariyañāṇa Bhikkhu
 categories: abhidhamma
-tags: [abhidhamma]
+tags: [abhidhamma, consciousness, citta]
 image: citta-simile.png
 ---
 
