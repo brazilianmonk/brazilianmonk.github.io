@@ -7,9 +7,9 @@ permalink: /resources
 
 Links to reliable Dhamma resources and monasteries.
 
-## [📝 Dhamma Summaries](/summaries)
+## [📝 Summaries, notes, essays, etc.](/summaries)
 
-My own summary notes on Dhamma topics.
+Here I keep my own summaries, notes, essays, programs, etc. 
 
 ## [🧮 Monk Calculators](/monk-calculators)
 
