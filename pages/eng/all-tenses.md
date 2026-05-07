@@ -1,12 +1,10 @@
 ---
 layout: page
 title: All Tenses
-permalink: /summaries/all-tenses
+permalink: /summaries/eng/all-tenses
 ---
 
 # Structure of all tenses in both active and passive voices
-
-
 ## Present
 
 

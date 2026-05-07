@@ -32,14 +32,14 @@ Esse site tem bastante material traduzido ao Português. Trabalho feito principa
 
 ## 🏛️ Monasteries
 
-![image](/assets/img/iit.png)
+![image](/assets/img/iit.jpg)
 
 ### [**International Institute of Theravāda**](https://www.theravado.com/)
 The IIT is located in Sri Lanka. It is a monastery focused on the study of Theravāda Buddhism (pariyatti). The level is quite rigorous (as per 2026) and includes all traditional topics of study such as Pāḷi, Abhidhamma, Suttanta, Vinaya, etc. with regular classes and exams. Additionally, this institute offers academic recognition. There are 2 courses: the Nissayamuttaka Course and the Parisupaṭṭhāpaka Course. The Nissayamuttaka totals 6 years and covers all requirements for a monk to be independent, and more. It is recognized as an BA. The Parisupaṭṭhāpaka lasts for 2 years, prepares you to be a teacher, and is recognized as an MA. 
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
-![image](/assets/img/paauk.png)
+![image](/assets/img/paauk.jpg)
 
 ### [**Pa Auk Meditation Center**](https://paauksociety.org/)
 This is the Pa Auk moanstery in Maymyo, Myanmar, where I ordained and spent about 7 years. It is a meditation center but also has an attached pariyatti center (for traditional studies). There are other Pa Auk centers, several in Myanmar, such as in Mawlamyine (the very first), and in a few other countries. 

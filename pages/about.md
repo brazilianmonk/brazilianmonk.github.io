@@ -3,16 +3,16 @@ layout: page
 permalink: /about
 ---
 
-## About the Author: Ariyañāṇa
+## About the Author: Ariyañāṇa (Stefano Domit Cervo)
 
-![image](/assets/img/round-me-214.jpg)
+<img src="/assets/img/round-me-214.jpg" alt="description" style="width: 40%; border-radius: 8px;">
 
 **2003-2015**: Flamenco dancer (Spain, Brazil, USA, PRC, South Korea, Netherlands, Canada, and others). Highlights:
 - 1st Prize in "Festival Flamenco de Almeria".
 - 1st Prize in "Premio Extraordinario de la Danza de la Comunidad de Madrid".
 - Choreographer and soloist in "Hearbeat of Home" from the producers of Riverdance.
 
-**2015-2022**: meditation (Myanmar) ([here](https://www.paaukforestmonastery.org/)).
+**2015-2022**: meditation (Myanmar) ([here](https://www.paauksociety.org/)).
 
 **2016-present**: Theravāda Buddhist monk for <span id="timer"></span> [(Calculate yours)](/monk-calculators)
 

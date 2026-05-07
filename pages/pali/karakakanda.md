@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kārakakaṇḍa
-permalink: /summaries/pali/karakakanda
+permalink: /pali/karakakanda
 ---
 
 Teacher: Bhante Vijitānanda (IIT)
