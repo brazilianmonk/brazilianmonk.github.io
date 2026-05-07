@@ -1,0 +1,1715 @@
+---
+layout: page
+title: All Tenses
+permalink: all-tenses
+---
+
+# Structure of all tenses in both active and passive voices
+## Present
+
+
+### Simple
+
+-   Active Voice
+
+    -   "to be" as main verb
+        -   Affirmative: I am a monk.
+        -   Negative: I am not a monk.
+        -   Interrogative: Am I a monk?
+        -   Negative: Am I not a monk?
+    -   **other verbs as main verb**
+        -   A: I read a book.
+        -   N: I don't read a book.
+        -   Q: Do I read a book?
+        -   N: Don't I read a book?
+
+-   Passive Voice
+
+    -   "to be" as main verb
+        -   A: N/A (cannot be passivized)
+        -   N: N/A
+        -   I: N/A
+        -   N: N/A
+    -   **other verbs as main verb**
+        -   A: A book is read.
+        -   N: A book is not read.
+        -   I: Is a book read?
+        -   N: Is a book not read?
+
+
+### Continous
+
+-   Active Voice
+
+    -   "to be" as main verb: N/A (stative verb)
+    -   **other verbs as main verb**
+        -   A: I am walking.
+        -   N: I am not walking.
+        -   Q: Am I walking?
+        -   N: Am I not walking?
+
+-   Passive Voice
+
+    -   "to be" as main verb
+        -   A: N/A (cannot be passivized)
+        -   N: N/A
+        -   I: N/A
+        -   N: N/A
+    -   **other verbs as main verb**
+        -   A: A book is being read.
+        -   N: A book is not being read.
+        -   I: Is a book being read?
+        -   N: Is a book not being read?
+
+
+### Perfect
+
+-   Active Voice
+
+    -   "to be" as main verb
+        -   A: I have been there.
+        -   N: I haven't been there.
+        -   Q: Have I been there?
+        -   N: Haven't I been there?
+    -   **other verbs as main verb**
+        -   A: I have eaten an apple.
+        -   N: I haven't eaten an apple.
+        -   Q: Have I eaten an apple?
+        -   N: Haven't I eaten an apple?
+
+-   Passive Voice
+
+    -   "to be" as main verb
+        -   A: N/A (cannot be passivized)
+        -   N: N/A
+        -   I: N/A
+        -   N: N/A
+    -   **other verbs as main verb**
+        -   A: An apple has been eaten.
+        -   N: An apple has not been eaten.
+        -   I: Has an apple been eaten?
+        -   N: Has an apple not been eaten?
+
+
+### Perfect Continous
+
+-   Active Voice
+
+    -   "to be" as main verb: N/A (stative verb in continuous)
+    -   **other verbs**
+        -   A: I have been staying here.
+        -   N: I haven't been staying here.
+        -   Q: Have I been staying here?
+        -   N: Haven't I been staying here?
+
+-   Passive Voice
+
+    -   "to be" as main verb
+        -   A: N/A (cannot be passivized)
+        -   N: N/A
+        -   I: N/A
+        -   N: N/A
+    -   **other verbs as main verb**
+        -   A: A book has been being read. (Rarely used)
+        -   N: A book has not been being read.
+        -   I: Has a book been being read?
+        -   N: Has a book not been being read?
+
+
+## Past
+
+
+### Simple
+
+-   Active Voice
+
+    -   "to be" as main verb
+        -   Affirmative: I was a monk.
+        -   Negative: I was not a monk.
+        -   Interrogative: Was I a monk?
+        -   Negative: Was I not a monk?
+    -   **other verbs as main verb**
+        -   A: I read a book.
+        -   N: I didn't read a book.
+        -   I: Did I read a book?
+        -   N: Didn't I read a book?
+
+-   Passive Voice
+
+    -   "to be" as main verb
+        -   A: N/A (cannot be passivized)
+        -   N: N/A
+        -   I: N/A
+        -   N: N/A
+    -   **other verbs as main verb**
+        -   A: A book was read.
+        -   N: A book was not read.
+        -   I: Was a book read?
+        -   N: Was a book not read?
+
+
+### Continous
+
+-   Active Voice
+
+    -   "to be" as main verb: N/A (stative verb)
+    -   **other verbs as main verb**
+        -   A: I was walking.
+        -   N: I was not walking.
+        -   Q: Was I walking?
+        -   N: Was I not walking?
+
+-   Passive Voice
+
+    -   "to be" as main verb
+        -   A: N/A (cannot be passivized)
+        -   N: N/A
+        -   I: N/A
+        -   N: N/A
+    -   **other verbs as main verb**
+        -   A: A book was being read.
+        -   N: A book was not being read.
+        -   I: Was a book being read?
+        -   N: Was a book not being read?
+
+
+### Perfect
+
+-   Active Voice
+
+    -   "to be" as main verb
+        -   A: I had been there.
+        -   N: I hadn't been there.
+        -   Q: Had I been there?
+        -   N: Hadn't I been there?
+    -   **other verbs as main verb**
+        -   A: I had eaten an apple.
+        -   N: I hadn't eaten an apple.
+        -   Q: Had I eaten an apple?
+        -   N: Hadn't I eaten an apple?
+
+-   Passive Voice
+
+    -   "to be" as main verb
+        -   A: N/A (cannot be passivized)
+        -   N: N/A
+        -   I: N/A
+        -   N: N/A
+    -   **other verbs as main verb**
+        -   A: An apple had been eaten.
+        -   N: An apple had not been eaten.
+        -   I: Had an apple been eaten?
+        -   N: Had an apple not been eaten?
+
+
+### Perfect Continous
+
+-   Active Voice
+
+    -   "to be" as main verb: N/A (stative verb in continuous)
+    -   **other verbs**
+        -   A: I had been staying here.
+        -   N: I hadn't been staying here.
+        -   Q: Had I been staying here?
+        -   N: Hadn't I been staying here?
+
+-   Passive Voice
+
+    -   "to be" as main verb
+        -   A: N/A (cannot be passivized)
+        -   N: N/A
+        -   I: N/A
+        -   N: N/A
+    -   **other verbs as main verb**
+        -   A: A book had been being read. (Rarely used)
+        -   N: A book had not been being read.
+        -   I: Had a book been being read?
+        -   N: Had a book not been being read?
+
+
+## Future
+
+
+### Simple
+
+-   Active Voice
+
+    -   "to be" as main verb
+        -   Affirmative: I will be a monk.
+        -   Negative: I will not be a monk.
+        -   Interrogative: Will I be a monk?
+        -   Negative: Will I not be a monk?
+    -   **other verbs as main verb**
+        -   A: I will read a book.
+        -   N: I will not read a book.
+        -   I: Will I read a book?
+        -   N: Will I not read a book?
+
+-   Passive Voice
+
+    -   "to be" as main verb
+        -   A: N/A (cannot be passivized)
+        -   N: N/A
+        -   I: N/A
+        -   N: N/A
+    -   **other verbs as main verb**
+        -   A: A book will be read.
+        -   N: A book will not be read.
+        -   I: Will a book be read?
+        -   N: Will a book not be read?
+
+
+### Continous
+
+-   Active Voice
+
+    -   "to be" as main verb: N/A (stative verb)
+    -   **other verbs as main verb**
+        -   A: I will be walking.
+        -   N: I will not be walking.
+        -   Q: Will I be walking?
+        -   N: Will I not be walking?
+
+-   Passive Voice
+
+    -   "to be" as main verb
+        -   A: N/A (cannot be passivized)
+        -   N: N/A
+        -   I: N/A
+        -   N: N/A
+    -   **other verbs as main verb**
+        -   A: A book will be being read. (Rarely used)
+        -   N: A book will not be being read.
+        -   I: Will a book be being read?
+        -   N: Will a book not be being read?
+
+
+### Perfect
+
+-   Active Voice
+
+    -   "to be" as main verb
+        -   A: I will have been there.
+        -   N: I will not have been there.
+        -   Q: Will I have been there?
+        -   N: Will I not have been there?
+    -   **other verbs as main verb**
+        -   A: I will have eaten an apple.
+        -   N: I will not have eaten an apple.
+        -   Q: Will I have eaten an apple?
+        -   N: Will I not have eaten an apple?
+
+-   Passive Voice
+
+    -   "to be" as main verb
+        -   A: N/A (cannot be passivized)
+        -   N: N/A
+        -   I: N/A
+        -   N: N/A
+    -   **other verbs as main verb**
+        -   A: An apple will have been eaten.
+        -   N: An apple will not have been eaten.
+        -   I: Will an apple have been eaten?
+        -   N: Will an apple not have been eaten?
+
+
+### Perfect Continous
+
+-   Active Voice
+
+    -   "to be" as main verb: N/A (stative verb in continuous)
+    -   **other verbs**
+        -   A: I will have been staying here.
+        -   N: I will not have been staying here.
+        -   Q: Will I have been staying here?
+        -   N: Will I not have been staying here?
+
+-   Passive Voice
+
+    -   "to be" as main verb
+        -   A: N/A (cannot be passivized)
+        -   N: N/A
+        -   I: N/A
+        -   N: N/A
+    -   **other verbs as main verb**
+        -   A: A book will have been being read. (Rarely used)
+        -   N: A book will not have been being read.
+        -   I: Will a book have been being read?
+        -   N: Will a book not have been being read?
+
+
+## Table 1
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Tense</th>
+<th scope="col" class="org-left">Voice</th>
+<th scope="col" class="org-left">Verb Type</th>
+<th scope="col" class="org-left">Affirmative</th>
+<th scope="col" class="org-left">Negative</th>
+<th scope="col" class="org-left">Interrogative</th>
+<th scope="col" class="org-left">Neg. Interrogative</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Present Simple</td>
+<td class="org-left">Active</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">I am a monk.</td>
+<td class="org-left">I am not a monk.</td>
+<td class="org-left">Am I a monk?</td>
+<td class="org-left">Am I not a monk?</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Other verbs</td>
+<td class="org-left">I read a book.</td>
+<td class="org-left">I don't read a book.</td>
+<td class="org-left">Do I read a book?</td>
+<td class="org-left">Don't I read a book?</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Passive</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">N/A</td>
+<td class="org-left">N/A</td>
+<td class="org-left">N/A</td>
+<td class="org-left">N/A</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Other verbs</td>
+<td class="org-left">A book is read.</td>
+<td class="org-left">A book is not read.</td>
+<td class="org-left">Is a book read?</td>
+<td class="org-left">Is a book not read?</td>
+</tr>
+
+<tr>
+<td class="org-left">Present Continuous</td>
+<td class="org-left">Active</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">N/A (stative verb)</td>
+<td class="org-left">N/A</td>
+<td class="org-left">N/A</td>
+<td class="org-left">N/A</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Other verbs</td>
+<td class="org-left">I am walking.</td>
+<td class="org-left">I am not walking.</td>
+<td class="org-left">Am I walking?</td>
+<td class="org-left">Am I not walking?</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Passive</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">N/A</td>
+<td class="org-left">N/A</td>
+<td class="org-left">N/A</td>
+<td class="org-left">N/A</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Other verbs</td>
+<td class="org-left">A book is being read.</td>
+<td class="org-left">A book is not being read.</td>
+<td class="org-left">Is a book being read?</td>
+<td class="org-left">Is a book not being read?</td>
+</tr>
+
+<tr>
+<td class="org-left">Present Perfect</td>
+<td class="org-left">Active</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">I have been there.</td>
+<td class="org-left">I haven't been there.</td>
+<td class="org-left">Have I been there?</td>
+<td class="org-left">Haven't I been there?</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Other verbs</td>
+<td class="org-left">I have eaten an apple.</td>
+<td class="org-left">I haven't eaten an apple.</td>
+<td class="org-left">Have I eaten an apple?</td>
+<td class="org-left">Haven't I eaten an apple?</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Passive</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">N/A</td>
+<td class="org-left">N/A</td>
+<td class="org-left">N/A</td>
+<td class="org-left">N/A</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Other verbs</td>
+<td class="org-left">An apple has been eaten.</td>
+<td class="org-left">An apple has not been eaten.</td>
+<td class="org-left">Has an apple been eaten?</td>
+<td class="org-left">Has an apple not been eaten?</td>
+</tr>
+
+<tr>
+<td class="org-left">Present Perfect Cont.</td>
+<td class="org-left">Active</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">N/A (stative verb)</td>
+<td class="org-left">N/A</td>
+<td class="org-left">N/A</td>
+<td class="org-left">N/A</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Other verbs</td>
+<td class="org-left">I have been staying here.</td>
+<td class="org-left">I haven't been staying here.</td>
+<td class="org-left">Have I been staying here?</td>
+<td class="org-left">Haven't I been staying here?</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Passive</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">N/A</td>
+<td class="org-left">N/A</td>
+<td class="org-left">N/A</td>
+<td class="org-left">N/A</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Other verbs</td>
+<td class="org-left">A book has been being read. (Rare)</td>
+<td class="org-left">A book has not been being read.</td>
+<td class="org-left">Has a book been being read?</td>
+<td class="org-left">Has a book not been being read?</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">Past Simple</td>
+<td class="org-left">Active</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">I was a monk.</td>
+<td class="org-left">I was not a monk.</td>
+<td class="org-left">Was I a monk?</td>
+<td class="org-left">Was I not a monk?</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Other verbs</td>
+<td class="org-left">I read a book.</td>
+<td class="org-left">I didn't read a book.</td>
+<td class="org-left">Did I read a book?</td>
+<td class="org-left">Didn't I read a book?</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Passive</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">N/A</td>
+<td class="org-left">N/A</td>
+<td class="org-left">N/A</td>
+<td class="org-left">N/A</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Other verbs</td>
+<td class="org-left">A book was read.</td>
+<td class="org-left">A book was not read.</td>
+<td class="org-left">Was a book read?</td>
+<td class="org-left">Was a book not read?</td>
+</tr>
+
+<tr>
+<td class="org-left">Past Continuous</td>
+<td class="org-left">Active</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">N/A (stative verb)</td>
+<td class="org-left">N/A</td>
+<td class="org-left">N/A</td>
+<td class="org-left">N/A</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Other verbs</td>
+<td class="org-left">I was walking.</td>
+<td class="org-left">I was not walking.</td>
+<td class="org-left">Was I walking?</td>
+<td class="org-left">Was I not walking?</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Passive</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">N/A</td>
+<td class="org-left">N/A</td>
+<td class="org-left">N/A</td>
+<td class="org-left">N/A</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Other verbs</td>
+<td class="org-left">A book was being read.</td>
+<td class="org-left">A book was not being read.</td>
+<td class="org-left">Was a book being read?</td>
+<td class="org-left">Was a book not being read?</td>
+</tr>
+
+<tr>
+<td class="org-left">Past Perfect</td>
+<td class="org-left">Active</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">I had been there.</td>
+<td class="org-left">I hadn't been there.</td>
+<td class="org-left">Had I been there?</td>
+<td class="org-left">Hadn't I been there?</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Other verbs</td>
+<td class="org-left">I had eaten an apple.</td>
+<td class="org-left">I hadn't eaten an apple.</td>
+<td class="org-left">Had I eaten an apple?</td>
+<td class="org-left">Hadn't I eaten an apple?</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Passive</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">N/A</td>
+<td class="org-left">N/A</td>
+<td class="org-left">N/A</td>
+<td class="org-left">N/A</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Other verbs</td>
+<td class="org-left">An apple had been eaten.</td>
+<td class="org-left">An apple had not been eaten.</td>
+<td class="org-left">Had an apple been eaten?</td>
+<td class="org-left">Had an apple not been eaten?</td>
+</tr>
+
+<tr>
+<td class="org-left">Past Perfect Cont.</td>
+<td class="org-left">Active</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">N/A (stative verb)</td>
+<td class="org-left">N/A</td>
+<td class="org-left">N/A</td>
+<td class="org-left">N/A</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Other verbs</td>
+<td class="org-left">I had been staying here.</td>
+<td class="org-left">I hadn't been staying here.</td>
+<td class="org-left">Had I been staying here?</td>
+<td class="org-left">Hadn't I been staying here?</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Passive</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">N/A</td>
+<td class="org-left">N/A</td>
+<td class="org-left">N/A</td>
+<td class="org-left">N/A</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Other verbs</td>
+<td class="org-left">A book had been being read. (Rare)</td>
+<td class="org-left">A book had not been being read.</td>
+<td class="org-left">Had a book been being read?</td>
+<td class="org-left">Had a book not been being read?</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">Future Simple</td>
+<td class="org-left">Active</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">I will be a monk.</td>
+<td class="org-left">I will not be a monk.</td>
+<td class="org-left">Will I be a monk?</td>
+<td class="org-left">Will I not be a monk?</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Other verbs</td>
+<td class="org-left">I will read a book.</td>
+<td class="org-left">I will not read a book.</td>
+<td class="org-left">Will I read a book?</td>
+<td class="org-left">Will I not read a book?</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Passive</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">N/A</td>
+<td class="org-left">N/A</td>
+<td class="org-left">N/A</td>
+<td class="org-left">N/A</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Other verbs</td>
+<td class="org-left">A book will be read.</td>
+<td class="org-left">A book will not be read.</td>
+<td class="org-left">Will a book be read?</td>
+<td class="org-left">Will a book not be read?</td>
+</tr>
+
+<tr>
+<td class="org-left">Future Continuous</td>
+<td class="org-left">Active</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">N/A (stative verb)</td>
+<td class="org-left">N/A</td>
+<td class="org-left">N/A</td>
+<td class="org-left">N/A</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Other verbs</td>
+<td class="org-left">I will be walking.</td>
+<td class="org-left">I will not be walking.</td>
+<td class="org-left">Will I be walking?</td>
+<td class="org-left">Will I not be walking?</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Passive</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">N/A</td>
+<td class="org-left">N/A</td>
+<td class="org-left">N/A</td>
+<td class="org-left">N/A</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Other verbs</td>
+<td class="org-left">A book will be being read. (Rare)</td>
+<td class="org-left">A book will not be being read.</td>
+<td class="org-left">Will a book be being read?</td>
+<td class="org-left">Will a book not be being read?</td>
+</tr>
+
+<tr>
+<td class="org-left">Future Perfect</td>
+<td class="org-left">Active</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">I will have been there.</td>
+<td class="org-left">I will not have been there.</td>
+<td class="org-left">Will I have been there?</td>
+<td class="org-left">Will I not have been there?</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Other verbs</td>
+<td class="org-left">I will have eaten an apple.</td>
+<td class="org-left">I will not have eaten an apple.</td>
+<td class="org-left">Will I have eaten an apple?</td>
+<td class="org-left">Will I not have eaten an apple?</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Passive</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">N/A</td>
+<td class="org-left">N/A</td>
+<td class="org-left">N/A</td>
+<td class="org-left">N/A</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Other verbs</td>
+<td class="org-left">An apple will have been eaten.</td>
+<td class="org-left">An apple will not have been eaten.</td>
+<td class="org-left">Will an apple have been eaten?</td>
+<td class="org-left">Will an apple not have been eaten?</td>
+</tr>
+
+<tr>
+<td class="org-left">Future Perfect Cont.</td>
+<td class="org-left">Active</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">N/A (stative verb)</td>
+<td class="org-left">N/A</td>
+<td class="org-left">N/A</td>
+<td class="org-left">N/A</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Other verbs</td>
+<td class="org-left">I will have been staying here.</td>
+<td class="org-left">I will not have been staying here.</td>
+<td class="org-left">Will I have been staying here?</td>
+<td class="org-left">Will I not have been staying here?</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Passive</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">N/A</td>
+<td class="org-left">N/A</td>
+<td class="org-left">N/A</td>
+<td class="org-left">N/A</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Other verbs</td>
+<td class="org-left">A book will have been being read. (Rare)</td>
+<td class="org-left">A book will not have been being read.</td>
+<td class="org-left">Will a book have been being read?</td>
+<td class="org-left">Will a book not have been being read?</td>
+</tr>
+</tbody>
+</table>
+
+
+## Table 2 &#x2013; N/As
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Tense</th>
+<th scope="col" class="org-left">Voice</th>
+<th scope="col" class="org-left">Verb Type</th>
+<th scope="col" class="org-left">Reason for N/A</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Present Simple</td>
+<td class="org-left">Passive</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">Cannot be passivized</td>
+</tr>
+
+<tr>
+<td class="org-left">Present Continuous</td>
+<td class="org-left">Active</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">Stative verb, generally not used in continuous</td>
+</tr>
+
+<tr>
+<td class="org-left">Present Continuous</td>
+<td class="org-left">Passive</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">Cannot be passivized</td>
+</tr>
+
+<tr>
+<td class="org-left">Present Perfect</td>
+<td class="org-left">Passive</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">Cannot be passivized</td>
+</tr>
+
+<tr>
+<td class="org-left">Present Perfect Continuous</td>
+<td class="org-left">Active</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">Stative verb, generally not used in continuous</td>
+</tr>
+
+<tr>
+<td class="org-left">Present Perfect Continuous</td>
+<td class="org-left">Passive</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">Cannot be passivized</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">Past Simple</td>
+<td class="org-left">Passive</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">Cannot be passivized</td>
+</tr>
+
+<tr>
+<td class="org-left">Past Continuous</td>
+<td class="org-left">Active</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">Stative verb, generally not used in continuous</td>
+</tr>
+
+<tr>
+<td class="org-left">Past Continuous</td>
+<td class="org-left">Passive</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">Cannot be passivized</td>
+</tr>
+
+<tr>
+<td class="org-left">Past Perfect</td>
+<td class="org-left">Passive</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">Cannot be passivized</td>
+</tr>
+
+<tr>
+<td class="org-left">Past Perfect Continuous</td>
+<td class="org-left">Active</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">Stative verb, generally not used in continuous</td>
+</tr>
+
+<tr>
+<td class="org-left">Past Perfect Continuous</td>
+<td class="org-left">Passive</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">Cannot be passivized</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">Future Simple</td>
+<td class="org-left">Passive</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">Cannot be passivized</td>
+</tr>
+
+<tr>
+<td class="org-left">Future Continuous</td>
+<td class="org-left">Active</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">Stative verb, generally not used in continuous</td>
+</tr>
+
+<tr>
+<td class="org-left">Future Continuous</td>
+<td class="org-left">Passive</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">Cannot be passivized</td>
+</tr>
+
+<tr>
+<td class="org-left">Future Perfect</td>
+<td class="org-left">Passive</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">Cannot be passivized</td>
+</tr>
+
+<tr>
+<td class="org-left">Future Perfect Continuous</td>
+<td class="org-left">Active</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">Stative verb, generally not used in continuous</td>
+</tr>
+
+<tr>
+<td class="org-left">Future Perfect Continuous</td>
+<td class="org-left">Passive</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">Cannot be passivized</td>
+</tr>
+</tbody>
+</table>
+
+The N/A cases arise from two main principles:
+
+1.  ****"To be" as a main verb cannot be passivized:**** When "to be" acts as the main verb (e.g., "I **am** a monk"), it is a linking verb that describes a state or identity. Passive voice requires a transitive verb with a direct object that can become the new subject. Since linking verbs like "to be" do not take direct objects, they cannot form passive constructions.
+
+2.  ****"To be" is generally a stative verb:**** As a stative verb, "to be" describes a state rather than an action. Stative verbs are typically not used in continuous (progressive) tenses because these tenses describe ongoing actions.
+
+
+## Exercise
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Tense</th>
+<th scope="col" class="org-left">Voice</th>
+<th scope="col" class="org-left">Verb Type</th>
+<th scope="col" class="org-left">Affirmative</th>
+<th scope="col" class="org-left">Negative</th>
+<th scope="col" class="org-left">Interrogative</th>
+<th scope="col" class="org-left">Neg. Interrogative</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..</td>
+<td class="org-left">&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..</td>
+<td class="org-left">&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..</td>
+<td class="org-left">&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..</td>
+</tr>
+
+<tr>
+<td class="org-left">Present Simple</td>
+<td class="org-left">Active</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Other verbs</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Passive</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Other verbs</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Present Continuous</td>
+<td class="org-left">Active</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Other verbs</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Passive</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Other verbs</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Present Perfect</td>
+<td class="org-left">Active</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Other verbs</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Passive</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Other verbs</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Present Perfect Cont.</td>
+<td class="org-left">Active</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Other verbs</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Passive</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Other verbs</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">Past Simple</td>
+<td class="org-left">Active</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Other verbs</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Passive</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Other verbs</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Past Continuous</td>
+<td class="org-left">Active</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Other verbs</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Passive</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Other verbs</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Past Perfect</td>
+<td class="org-left">Active</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Other verbs</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Passive</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Other verbs</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Past Perfect Cont.</td>
+<td class="org-left">Active</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Other verbs</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Passive</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Other verbs</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">Future Simple</td>
+<td class="org-left">Active</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Other verbs</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Passive</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Other verbs</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Future Continuous</td>
+<td class="org-left">Active</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Other verbs</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Passive</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Other verbs</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Future Perfect</td>
+<td class="org-left">Active</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Other verbs</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Passive</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Other verbs</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Future Perfect Cont.</td>
+<td class="org-left">Active</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Other verbs</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Passive</td>
+<td class="org-left">"to be"</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Other verbs</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  // Add styles for collapsible TOC
+  const style = document.createElement("style");
+  style.textContent = `
+    .table-of-contents {
+      background: #f5f5f0;
+      padding: 1rem 1.5rem;
+      border-radius: 8px;
+      margin-bottom: 2rem;
+      border-left: 4px solid #8B4513;
+    }
+    .table-of-contents h2 {
+      margin-top: 0;
+      font-size: 1.3rem;
+    }
+    .table-of-contents ul {
+      margin-bottom: 0;
+      padding-left: 1.2rem;
+    }
+    .table-of-contents li {
+      margin: 0.3rem 0;
+      list-style-type: none;
+    }
+    .table-of-contents a {
+      text-decoration: none;
+      color: #2c5e2e;
+    }
+    .table-of-contents a:hover {
+      text-decoration: underline;
+    }
+    /* Collapsible section styles */
+    .toc-h2-item {
+      margin-top: 0.5rem;
+    }
+    .toc-h2-link {
+      cursor: pointer;
+      display: inline-block;
+    }
+    .toc-toggle {
+      cursor: pointer;
+      display: inline-block;
+      width: 20px;
+      font-size: 0.9rem;
+      font-weight: bold;
+      color: #8B4513;
+      user-select: none;
+      margin-right: 6px;
+      text-align: center;
+    }
+    .toc-toggle:hover {
+      color: #2c5e2e;
+    }
+    .toc-h3-list {
+      margin-left: 26px;
+      padding-left: 0;
+      transition: all 0.2s ease;
+    }
+    .toc-h3-list.collapsed {
+      display: none;
+    }
+  `;
+  document.head.appendChild(style);
+  
+  // Generate TOC
+  const headings = document.querySelectorAll("h2, h3");
+  if (headings.length === 0) return;
+  
+  const toc = document.createElement("div");
+  toc.className = "table-of-contents";
+  toc.innerHTML = "<h2>📖</h2><ul></ul>";
+  const tocList = toc.querySelector("ul");
+  
+  let currentH2Item = null;
+  let currentH3List = null;
+  
+  headings.forEach(heading => {
+    if (heading.closest(".table-of-contents")) return;
+    
+    if (!heading.id) {
+      heading.id = heading.textContent
+        .toLowerCase()
+        .replace(/[🇧🇷🇪🇸🇬🇧]/g, "")
+        .replace(/[^\w\s-]/g, "")
+        .replace(/\s+/g, "-");
+    }
+    
+    if (heading.tagName === "H2") {
+      // Create container for this H2 section
+      const li = document.createElement("li");
+      li.className = "toc-h2-item";
+      
+      // Add toggle arrow
+      const toggle = document.createElement("span");
+      toggle.className = "toc-toggle";
+	toggle.textContent = "▶";  // Collapsed by default
+      toggle.setAttribute("aria-label", "Collapse section");
+      
+      // Add the H2 link
+      const a = document.createElement("a");
+      a.href = `#${heading.id}`;
+      a.textContent = heading.textContent;
+      a.className = "toc-h2-link";
+      
+      // Container for H3 items (to be filled later)
+      const h3Container = document.createElement("ul");
+      h3Container.className = "toc-h3-list";
+	h3Container.classList.add("collapsed");
+      
+	// Assemble
+      li.appendChild(toggle);
+      li.appendChild(a);
+      li.appendChild(h3Container);
+      tocList.appendChild(li);
+      
+      // Store references
+      currentH2Item = li;
+      currentH3List = h3Container;
+      
+      // Add click toggle functionality
+      const toggleSection = () => {
+        const isCollapsed = h3Container.classList.contains("collapsed");
+        if (isCollapsed) {
+          h3Container.classList.remove("collapsed");
+          toggle.textContent = "▼";
+          toggle.setAttribute("aria-label", "Collapse section");
+        } else {
+          h3Container.classList.add("collapsed");
+          toggle.textContent = "▶";
+          toggle.setAttribute("aria-label", "Expand section");
+        }
+      };
+      
+      toggle.addEventListener("click", function(e) {
+        e.preventDefault();
+        e.stopPropagation();
+        toggleSection();
+      });
+      
+      a.addEventListener("click", function(e) {
+        // Allow normal anchor behavior, but also toggle if desired?
+        // Comment out the next line if you want clicking the link to ALSO toggle
+        // e.preventDefault(); 
+        // Uncomment below to toggle when clicking the link text too
+        // toggleSection();
+        // Then scroll to heading
+        // document.getElementById(heading.id).scrollIntoView({ behavior: "smooth" });
+      });
+      
+    } else if (heading.tagName === "H3" && currentH3List) {
+      // Add H3 item under current H2
+      const li = document.createElement("li");
+      const a = document.createElement("a");
+      a.href = `#${heading.id}`;
+      a.textContent = heading.textContent;
+      li.appendChild(a);
+      currentH3List.appendChild(li);
+    }
+  });
+  
+  // Insert TOC at the beginning of the page
+  const firstHeading = document.querySelector("h1, h2");
+  if (firstHeading) {
+    firstHeading.parentNode.insertBefore(toc, firstHeading);
+  } else {
+    document.body.insertBefore(toc, document.body.firstChild);
+  }
+});
+</script>

@@ -1,0 +1,775 @@
+---
+layout: page
+title: Pāḷi Pāṭha Sikkhā
+permalink: /summaries/pali/pps-ch2-1-13
+---
+by Bhante Vijitānanda (IIT)
+
+Summary by Brazilian Monk
+
+# Chapter 2
+
+## Lessons 1-13
+
+- **Lesson 1 - Cittādigaṇa** 
+    - All nouns in cittādigaṇa are of {{neuter}} gender
+    - declension of ^^**citta**^^ (cittādigaṇa)>>>
+        - citta^^**ṁ**^^ / cittā, citt^^**āni**^^
+(bho) citta, cittā / (^^**bhavantāni**^^) "
+cittaṁ / citte, cittāni
+...(as purisa)
+    - **Vocab**: #[[^^^pāḷi^^^ vocab (1st year)   ]] 
+        - Cittaṁ (nt.)↔mind, consciousness
+        - Udakaṁ (nt.)↔water 
+        - Kulaṁ (nt.)↔family
+        - Kusalaṁ (nt.)↔wholesome deed
+        - Akusalaṁ (nt)↔unwholesome deed
+        - Puññaṁ (nt.)↔merit
+        - Pāpaṁ (nt.)↔demerit
+        - Kalattaṁ (nt.)↔wife (s.w. k)
+        - Sukhaṁ (nt.)↔pleasure
+        - Dukkhaṁ (nt.)↔suffering, pain
+        - Kammaṁ (nt.)↔karma, deed, action 
+        - Uppādeti↔produces, generates, gives rise to
+        - Nirayo (m.)↔hell
+        - peseti↔sends, sends out, employs, sends for, drives, drives out
+        - sāmiko (m.) [sāmī + ka]↔owner, husband, master, lord
+        - paṭicca (ind.)↔depending on, because of
+        - upasaṅkamati↔approaches, goes to (s.w. u)
+        - siṅgālo (m.)↔fox, jackal
+        - Biḷāro (m.)↔cat
+        - nakuḷo (m.)↔mongoose
+        - kalandako (m.)↔squirrel
+        - kulāvakaṁ (nt.)↔nest
+        - te (pronoun)↔they
+        - paccavekkhati↔reflects
+        - ca (ind.)↔and
+        - pana (ind.)↔but, no meaning
+        - saha / saddhiṁ↔together with 
+        - paṭicca (ind.)↔depending on, because of
+        - atha (ind.)↔then
+        - tattha (ind.)↔there
+        - kadāci (ind.)↔sometimes, ever
+        - kasmā (ind.)↔why? for what reason?
+        - idha (ind.)↔here
+        - puna (ind.)↔again
+        - abhiṇhaṁ (ind.)↔frequently, regularly 
+        - upagacchati↔approaches
+    - 4 ways of saying "birds and squirrels">>>
+        - sakuṇā ca kalandakā ca
+        - sakuṇā ceva kalandakā ca (ca + eva - eva has no meaning here)
+        - sakuṇā kalandakā ca
+        - sakuṇā ca kalandakā (in verses)
+    - How to say "he reflects on the dhamma"?→so dhamma**ṁ** paccavekkhati. (accusative, not locative)
+    - How to say "he gives the bhikkhu a blow"→so bhikkhu**ssa** (dative) pahāraṁ dadāti" 
+- **Lesson 2 - Past Tense Verbs**  
+    - 8 types of verbal vibhatti>>>
+        - Vattamāna vibhatti (present simple, present continuous, present emphatic)
+        - Pañcamī (Imperative)
+        - Sattamī (Optative)
+        - Ajjatanī (past simple - more common)
+        - Bhavissantī (future tense)
+        - Kālātipatti
+        - Hiyattanī (past tense - less common)
+        - Parokkhā
+    - In the case of ^^nouns^^ the suffixes added to the ^^**stems **^^are referred to as {{case endings}} and in the case of ^^verbs^^^^  ^^the suffixes added to the ^^**roots**^^ are referred to as {{verbal terminations.}} 
+    - A verbal base is the (English definition) {{morpheme constructed by adding a conjugational sign to a root}}.
+    - The vibhatti used to indicate an action that has occurred but not directly witnesses by the speaker is {{parokkhā vibhatti}} 
+    - To augment is to {{insert an extra letter }}and the pāḷi term for it is {{āgama.}} 
+        - Majjhima purisa, bahuvacana, ajjatanī of the root paṭh (reads)→paṭh**i**ttha (augmented **i**)
+    - "a" is **not** added to the beginning of **verbs** in the sense of {{negation ("not")}}.
+    - The ending of the root **gam** often changes into {{cch.}} 
+    - Ajjatanī vibhatti (terminations)>>>
+        - ī, i, / uṁ, iṁsu
+o, (i) / ttha 
+iṁ / mhā, mha
+    - in ajjatanī vibhatti when the verbal termination ends with a {{consonant}} and the first letter of the verbal termination is also a consonant, the vowel {{"i"}} is augmented in between
+    - Ajjatanī vibhatti declension of (gam)>>>
+        - agacchī, gacchī, agacchi, gacchi / agacchuṁ, gacchuṁ, aggach**i**ṁsu, gacch**i**ṁsu
+        - agaccho, gaccho, agacchi, gacchi / agacch**i**ttha, gacch**i**ttha
+
+        - agacchiṁ, gacchiṁ / agacchimhā, gacchimhā, agacchimha, gacchimha
+    - Roots:
+        - R: bhuj↔eats
+        - R: mar↔dies (s.w. m)
+    - **Vocab:** #[[^^^pāḷi^^^ vocab (1st year)   ]] 
+        - tiṇaṁ (nt.)↔grass
+        - khīraṁ (nt.)↔milk
+        - bhājanaṁ (nt.)↔vessel 
+        - bako (m.)↔crane, heron
+        - apagacchati↔goes away
+        - gopālo (m.)↔cowheard
+        - paṭhavī (f.)↔earth, hardness
+        - māretvā (ind.)↔having killed
+        - kammaṁ (nt.)↔deed, action
+        - byañjanaṁ (nt.)↔curry; sauce; (comm) side-dish
+        - hiyyo (ind.)↔yesterday
+        - tadā (ind.)↔then; at that time (s.w. t)
+        - mitto (m., nt.)↔friend
+        - anubhavati √bhū↔experiences; undergoes; suffers
+        - kadā (nip.)↔when? 
+        - sabbadā (nip.)↔always, at all times 
+        - devasikaṁ (nip.)↔occurring daily
+        - samīpa (adj.)↔(in space or time) near; close; proximate to
+        - āruhati↔climbs, ascends
+        - saro (m.)↔lake (s.w. s)
+        - sadā (ind.)↔always; ever; all the time
+        - vacanaṁ (nt.)↔word, utterance, talk, statement (n.)
+        - santikaṁ (nt.)↔vicinity (of), presence (of), near (to) 
+        - kudācanaṃ (ind.)↔at any time (s.w. k)
+    - ^^*****^^declension of the noun ^^**kamma (nt.) **^^(cittādigaṇa)>>>
+        - kammaṁ / kammā, kammāni
+        - (bho) kamma, kammā / (bhavantāni) "
+
+        - kammaṁ / kamme, kammāni
+
+        - kamm^^**unā**^^, kamm^^**a**^^nā,** **kammena / kammehi, kammebhi
+
+        - kamm^^**uno**^^,^^** **^^kammassa / kammānaṁ
+
+        - kamm^^**unā**^^^^**, **^^kammasmā, kammamhā, kammā / kammehi, kammebhi
+
+        - kamm^^**ani**^^^^**, **^^kammasmiṁ, kammamhi, kamme** **/ kammesu 
+        - ^^**mem aid**^^: citta + unā, anā, uno, unā, ani
+- **Lesson 3 - Adjectives**  
+    - Words that modify nouns are called {{nāmavisesana}} in Pāḷi. They are the adjectives.
+    - Words that are modified by adjectives are called {{‘visesya’}} – substantive (that which is modified).
+    - In most cases the visesana and the visesya agree in {{gender, case and number.}} 
+    - **Vocab**: #[[^^^pāḷi^^^ vocab (1st year)   ]] 
+        - kāḷa (adj.)↔dark 
+        - megho (m.)↔cloud (s.w. m)
+        - dīgha (adj.)↔long, tall, deep
+        - sappo (m.)↔serpent
+        - gambhīro (adj.)↔deep 
+        - attho (m.)↔meaning
+        - ārammaṇaṁ (nt.)↔object
+        - paccayo (m.)↔(+dat) cause (for); reason (for); supporting condition (for); requirement (for)
+        - hoti √hū↔(+nom) is; 2: pr. (+dat) exists (for); 3: pr. stays; remains
+        - dīpo (m.)↔lamp, light, island 
+        - tamas (m.)↔darkness, gloom (s.w. t)
+        - ananta (adj.) [na + anta]↔infinite; endless; boundless; without limit
+        - anto (m.)↔end, limit, conclusion
+        - guṇo (m.)↔quality, virtue, characteristic
+        - kiso (adj.)↔thin
+        - pakāseti↔pr. (+acc) ascribes; tells about; makes known, explains; illustrates; illuminates; reveals; teaches; shines; radiates
+        - Indriyaṁ (nt.)↔sense; mental faculty; power; lit. belonging to Inda
+        - saṃvarati (pp. saṁvuta) (√var)↔pr. (+acc) restrains; controls
+        - kusīta (adj.) (√sad)↔lazy; slack; inactive; apathetic (s.w. k)
+        - seta (adj)↔white; (m.) white color 
+        - pūjayati (√pūj)↔worships, honours 
+        - paripuṇṇa √pūr↔1: pp. completed; perfected; fulfilled; accomplished
+        - parisuddha (adj.) √sudh↔clean; pure; bright; perfect 
+        - brahmacariyaṁ (nt., f.)↔noble life, spiritual path; spiritual practice; holy life; celibacy
+        - pasahati √sah↔1: pr. (+acc) overcomes; overpowers; conquers
+        - hīna (adj.) √hā―low; inferior; deficient
+        - okirati √kir↔pr. (+acc) sprinkles; scatters down (onto), pours into
+        - sakala √kal (adj.)↔whole; entire; every part of
+        - khayo √khī (m.)↔(+gen) wearing away (of); exhaustion (of); erosion (of); depletion (of); slow destruction (of)
+        - bhāvo (m.) √bhū↔state; condition; characteristic; nature
+        - saṅkhāro (m.)√kar↔intention; volitional formation,  **conditioned thing**; state
+        - thūla √thūl (adj.)↔massive; large, gross; coarse
+        - nīca (adj.)↔low; poor; inferior; humble (s.w. n)
+        - āsanaṃ (nt.)↔seat, chair
+        - ucca (adj.)↔high, tall, noble, distinguished, eminent 
+        - tiṇha (adj.) √tij↔(of a blade) sharp
+        - pahāro (m.) √har↔punch; blow; strike; stroke (noun)
+        - paharati  √har↔(+acc or +dat) strikes; beats; gives a blow (to)
+        - veraṃ (nt.) √vīr↔hatred; ill-will; animosity; hostility (s.w. v)
+        - sammati √sam↔is calmed; is cooled; is appeased (s.w. s)
+        - sanantana (adj.)↔eternal; perpetual; everlasting; ancient (s.w. s)
+        - cheka (adj.)↔genuine; real, clever; skillful; sharp
+        - byākaraṇaṁ (nt.)↔1:  answering; replying; 2: stating; declaring; announcing; 3: (gram) grammatical treatise; lit. making distinct; 4: (gram) prose
+        - plural form of eso―ete 
+        - iti (nip.)↔thus (s.w. i)
+        - eso→this
+        - nisinna―one who sat 
+        - okirati↔sprinkles, scatters down into, pours down 
+        - tuccha (vis.)↔empty
+        - siñcati √sic↔waters; pours; sprinkles; scatters ;(of water) pours out; bails out; empties 
+    - Lesson 3 - Exercises
+        -  __by (Brazil) Ariyañāṇa Bhikkhu
+__ 
+
+        - Exercises pg. 10 (already submitted)
+            -  __by (Brazil) Ariyañāṇa Bhikkhu
+__  
+            - 1)
+                - **Modifier (visesana)**
+                    - The adjective or word that acts as a qualifier to a noun modifying it is called visesana such as:
+                        -  __Rasso pāṇo sadā paṇṇe bhuñji.__  
+                            - Rasso (visesana pada) modifies the noun pāṇo giving more information about it and agreeing in gender, case and number (purisaliṅga, paṭhamā vibhatti, ekavacana).
+                        -  __Bālā dārakā uṇhaṁ aggiṁ upagacchiṁsu.__  
+                            - Bālā (visesana pada) modifies the noun dārakā also agreeing in gender, case and number (purisaliṅga, paṭhamā vibhatti, bahuvacana) and uṇhaṁ does the same to the object aggiṁ (purisaliṅga, dutiyāvibhatti, ekavacana)
+                - **Modified (visesya)**
+                    - The noun that is modified by the adjective is in turn named visesya (modified) and is that which the adjective qualifies giving it more qualities. Example:
+                        -  __Sīghā meghā vehāse caliṁsu.__ 
+                            - In this case the noun meghā (visesya) is modified by sīghā specifying what type of clouds.
+                        -  __Migo vane santaṁ sambuddhaṁ olokī.__ 
+                            - In this sentence santaṁ qualifies the noun sambuddhaṁ which is acting as object.
+- **Lesson 4 - Kaññādigaṇa ** 
+    - What is the gender of the nouns in kaññādigaṇa?→itthiliṅga
+    - What kāranta are the nouns in kaññādigaṇa?→ākāranta 
+    - declension of ^^**kaññā **^^(kaññādigaṇa)>>>
+        - kaññā / kaññā, kaññ^^**āyo**^^ 
+        - (^^**bhoti**^^) kaññ^^**e**^^ / (^^**bhotiyo**^^) kaññā, kaññāyo
+        - kaññāṁ / kaññā, kaññāyo
+        - kaññāya / kaññāhi, kaññābhi
+        - kaññāya / kaññānaṁ
+        - kaññāya / kaññāhi, kaññabhi
+        - kaññāya, ^^**kaññāyaṁ **^^/ kaññāsu
+        - **note**: 
+            - the words **parisā** and **sabhā** have an additional locative form as **parisati**, **parisatiṁ**, **sabhati**, **sabhatiṁ**
+            - the words ammā, annā, ambā have as vocative **amma**, **ammā **instead of amme (X) 
+    - Vocative singular of ammā and annā (exception in the kaññādigaṇa)→(bhoti) amma, ammā and (bhoti) anna, annā.
+    - Vocab: #[[^^^pāḷi^^^ vocab (1st year)   ]] 
+        - kaññā (f.)↔young girl, virgin 
+        - saddhā (f.)↔faith 
+        - mettā (f.) - loving-kindness 
+        - gaṅgā (f.)↔river Ganges 
+        - pucchā (f.)↔question
+        - vācā (f.)↔word (s.w. v)
+        - gāthā (f.)↔verse, stanza 
+        - ammā / annā (f.)↔mother
+        - paññā (f.)↔wisdom (s.w. p)
+        - sikkhā (f.)↔training 
+        - bhikkhā (f.)↔meal (f.)
+        - taṇhā (f.)―craving
+        - parisā (f.)↔retinue, group, assembly
+        - sabhā (f.)↔assembly (s.w. s)
+        - bhāvanā (f.)→meditation
+        - upaparikkhati (√ikkh)↔investigates (s w. u)
+        - ikkhati↔looks at (s.w. i)
+        - ativattati↔overcomes, surpasses (s.w. a)
+        - paripūreti↔completes
+        - pariyodapeti √dā↔pr. (+acc & +abl) cleanses (from); refines (from); purifies (from); lit. causes to be pure
+        - ākāranta (ā+kāra+anta)↔term used to refer to nouns ending in ā 
+        - akāranta↔term used to refer to nouns ending in a
+        - pasaṃsati (√saṃs)↔pr. (+acc) praises; approves (of); commends
+        - saṁvuta↔restrained  (usually with some locative preceding it such as indriyesu s.)
+- **Lesson 5 - Gerund** 
+    - The Pāḷi rendering of gerund is ‘{{pubbakāla kiriyā’}} 
+    - "So gehaṁ pavisitvā mañce asayi". Of these two verbs which one is the main one?→Both are equally important but the main emphasis is on the final verb "asayi".
+    - What is the definition of a gerund? (In English)→The word that expresses an action which had occurred prior to the final action.
+    - How are pubbakālakiriyā (gerunds) constructed?→They are constructed by adding the suffix ‘tvā’ or ‘tvāna’ to the end of roots or verbal bases. 
+    - In which of the 4 groups of nouns are gerund considered to be?→Gerunds are considered as indeclinable particles.
+    - Less common suffixes used for gerunds→the suffixes -tuna (khādituna, labhituna) and -ya (nikkhamma, āgamma).
+        - **-ya** (only some cases)
+            - How is the gerund āgamma and nikkhamma formed? >>>
+                - Root gam: +ya (āgamya) ⇒ āgamma
+                - Root kam: +ya (nikkhamiya) ⇒ nikkhamya ⇒ nikkhamma
+    - When a gerund suffix is added to a root the vowel {{‘i’}} may be augmented (āgama) before it.
+    - The gerund can also express {{**samānakāla **}}{{(an action occuring simultaneously with the main verb)}} apart from the **pubbakāla **sometimes 
+    - **Vocab**: #[[^^^pāḷi^^^ vocab (1st year)   ]] 
+        - saggo (m.)↔heaven 
+        - nava (adj.)↔new 
+        - antaravāsako (m.)↔inner robe, lower robe 
+        - kasati↔ploughs 
+        - vīmaṃsati↔investigates (s.w. v)
+        - paṇḍukambalaṁ (nt. )↔name of the sakka’s throne. 
+        - uposathadivaso (m. )→sabbath day 
+        - disvā (ind.)↔having seen 
+        - dhammadhara (adj.)↔one who holds the Dhamma 
+        - atha kho↔then, afterward 
+        - aññatara (pn.)↔a certain 
+        - devatā (f.)↔deity, god 
+        - sañcaritvā (ind. )↔having wandered 
+        - bhayānaka (adj.)↔dreadful, dangerous, terrifying 
+        - rakkhaso (m. )↔demon, goblin, ogre, spirit guardian 
+        - nigamo (m. )↔town, market town 
+        - pariyesati↔searches 
+        - yujjhati↔fights 
+        - parājita (pp.)↔one who lost (defeated by others) 
+        - hutvā↔having been, having existed, having become 
+        - āgantvā / āgamma↔having come
+        - gamitvā, gacchitvā, gantvā, gacchiya↔having gone
+        - karitvā, karitvāna, katvā↔having done 
+        - labhitvā, labhitvāna↔having obtained 
+        - passitvā, passitvāna↔having seen (s.w. p)
+        - vaditvā, vatvā↔having said 
+        - datvā (from deti),  daditvā (from dadāti), dadiya↔having given 
+        - nikkhamitvā, nikkhamma↔having departed 
+        - devatā (f.)↔deva (f. noun)
+        - vāsavo (m.)↔epithet of Sakka; lit. of the Vasu’s
+        - matthako (m.)↔top; head; crown, top; summit; peak
+        - vanitā (f.)↔woman, female (s.w. v)
+        - aniccatā↔1: fem. (+gen or +loc) fact of impermanence (of); state of instability (of); unreliability (of); 2: fem. (+gen or +loc) (abhidhamma) momentariness
+        - nibbindati √vid↔1: pr. (+loc) is dis-enchanted (with); is disinterested (in); is disillusioned (by); loses interest (in); is dispassionate (towards)
+        - nivāseti √vas↔1: pr. (+acc) wears; puts on; dresses oneself, gets clothed or dressed
+        - uṇha (adj.) √us↔hot, (nt.) heat
+        - vīhi (m.)↔rice paddy (Oryza sativa) 
+        - vapati √vap↔sows, plants 
+        - koṭṭeti↔pr. pounds, smashes, beats
+        - jāyā (f.)↔wife (s.w. j) 
+        - bhayānaka (adj.) √bhī↔terrifying; alarming
+- **Lesson 6 - Imperative mood** 
+    - Pañcamī vibhatti (Imperative mood) is normally used to indicate what?→an order or a wish.
+    - ^^**pañcamī vibhatti**^^ verbal terminations:>>>
+        - -**tu** / -**antu**
+        - (a)-**hi** / -**tha** 
+        - (ā)-**mi** / (ā)-**ma** 
+    - How to say "may he **not** see" and "do not go" in imperative mood? >>>
+        - "so **mā** passatu.
+**mā** gacchāhi."
+    - Vocab: #[[^^^pāḷi^^^ vocab (1st year)   ]] 
+        - jātavedo (m. )↔fire (s.w. j)
+        - obhāseti↔causes to illuminate, causes to shine 
+        - chaḍḍita (pp.)↔thrown away (s.w. ch)
+        - kacavaro (m. )↔rubbish 
+        - dahati↔burns 
+        - adhigacchati↔attains (s.w. a)
+        - antako (m. )↔māro (s.w. a) 
+        - padīpo (m. )↔lamp
+        - sacchikaroti↔realizes, attains (s.w. s)
+        - ghana (adj.)↔thick, compact
+        - pajjunno (m.)↔cloud (s.w. p) 
+        - gajjati↔roars, thunders 
+        - vinodeti / vinodati↔dispels, removes (s.w. v)
+        - puṇṇamā (f. )↔full moon day 
+        - vassati↔it rains 
+        - ādicco (m. )↔sun (s.w. ā) 
+        - disā (f. )↔direction 
+        - sabba (pn.)↔all 
+        - odāta (adj.) – something that is white
+        - parājeti↔defeats
+        - mahanta (adj.)↔big, great 
+        - paccūso (m.)↔before dawn; early morning
+        - vinodeti / vinodati √nud↔(+acc) dispels; drives out; removes (s.w. v)
+        - ghana (adj.)↔solid; dense; compact
+        - jāleti↔kindles, lights, causes to burn
+        - vipassanā (f.)―insight meditation 
+- **Lesson 7 - Guṇavādigaṇa**  
+    - How are nouns like guṇavant constructed? {{adding the suffix -vant / -mant to the noun stem}} 
+    - The suffix -vantu / -mantu indicate {{the possessor of something}}.
+    - These nouns from guṇavādigaṇa can be declined in which genders?→all three genders
+    - There is another suffix -mantu which has a similar meaning to that of -vantu. They are also in guṇavādigaṇa and are declined similarly.
+    - Nouns belonging to this group can be used as stand-alone nouns and also as modifiers (adjectives) of other nouns.
+    - In traditional grammar the suffix is -vantu but since u does not appear in any declension, modern scholars use -vant.
+    - After akāranta and ākāranta nouns the suffix added is {{-vantu}}, and after nouns ending in other vowels the suffix added is {{-mantu}}.
+    - Extra suffix that is used apart from -vantu and -mantu: {{imantu (candimā, puttimā)}} 
+    - When a letter is removed it is called (in English) {{elision (to elide)}} 
+    - Nouns stems can end in 8 letters: {{a, ā, i, ī, u, ū, o, ṁ}} 
+    - ^^*****^^declension of ^^**guṇavantu m. **^^(guṇavādigaṇa)>>>
+        - guṇav^^**ā**^^**, **guṇavanto / guṇavant^^^**o**^^^, guṇavant^^^**ā**^^^ 
+        - (bho) guṇav^^**aṁ**^^, guṇava, guṇavā / (bhonto) "
+        - guṇav^^**aṁ**^^, guṇavantaṁ / guṇavante
+        - guṇav^^**atā**^^, guṇavantena / guṇavantehi, guṇavantebhi
+        - guṇav^^**ato**^^, guṇav^^**assa**^^, guṇavantassa / guṇava^^**taṁ**^^, guṇavantānaṁ
+        - guṇav^^**atā**^^**, **guṇavantasmā, guṇavantamhā**, **guṇavantā / guṇavantehi, guṇavantebhi
+        - guṇav^^**ati**^^**, **guṇavantasmiṁ, guṇavantamhi, guṇavante / guṇavantesu
+        - ^^**mem aid**^^:
+            - -vant + purisa
+            - -v + purisa
+            - nom. vā / vanto
+            - acc. -vaṁ / -vanto
+            - dat. vato, vassa / vataṁ
+            - ins. vatā
+            - loc. vati
+            - **simplified**:
+                - (-vant + purisa)
+                - guṇav^^**ā**^^ / guṇavant^^^**o**^^^ 
+                - (bho) guṇav^^**aṁ**^^, guṇava, guṇavā / (bhonto) "
+                - guṇav^^**aṁ**^^ / "
+                - guṇav^^**atā**^^ / "
+                - guṇav^^**ato**^^, guṇav^^**assa**^^ / guṇava^^**taṁ**^^ 
+                - guṇav^^**atā**^^ / "
+                - guṇav^^**ati**^^** ** / "
+    - ^^^**vocab:**^^^^^^ ^^^  #[[^^^**pāḷi**^^^ vocab (2nd year)]] 
+        - ettāvā↔that which has this amount   
+        - yāvā↔that which has which amount
+    - ^^*****^^declension of ^^**guṇavantu nt. **^^(guṇavādigaṇa)>>>
+        - **nom.** guṇav^^**aṁ**^^ / guṇavantā, guṇavantāni,^^** **^^guṇavant^^**i**^^ 
+        - **acc. **guṇavaṁ, guṇavantaṁ / guṇavante, guṇavantāni,^^** **^^guṇavant^^**i**^^
+        - (....the rest as m.)
+        - ^^**mem aid**^^: 
+            - **nom. & acc.** guṇavaṁ / guṇavanti
+    - declension of ^^**guṇavantu f. **^^(guṇavādigaṇa)>>>
+        - guṇavant^^**ī**^^ (the same as itthī)
+    - According to Rūpasiddhi, only **himavantu **has two forms as himavā, himavanto in nominative singular. Other stems in this group only have one form in nominative singular as guṇavā, sīlavā, dhanavā etc.   
+    - According to Rūpasiddhi, only the stems **satimantu **and **bandhumantu **have satimaṃ, bandhumaṃ in accusative singular and satimassa, bandhumassa in  dative/gentivie singular. Other stems do not have such forms.   
+    - The suffix used in guṇavā, sīlavā, and himavā is vantu. In satimā and bandhumā,  the suffix is mantu. In bhuttavā, it is tavantu. In ettāvā, it is tāvantu. In yāvā, it is āvantu and in candimā, it is imantu.   
+    - vocab: #[[^^^pāḷi^^^ vocab (1st year)   ]] 
+        - gaṇavā (m.)↔one with a following
+        - sutavā (m.)↔learned
+        - gaṇo (m.)↔group, retinue (s.w. g)
+        - paññavā (m.)←wise (one who has wisdom)
+        - piṇḍāya↔for alms
+        - piṇḍo (m.)↔alms
+        - bhagavā (m.)↔one who has merit
+        - kulavā (m.)↔one who has a family
+        - himavā (m.)↔Himalayas, place where there is snow
+        - balavā (m.)↔one who has strength
+        - phalavā (m.)―one who has fruits
+        - yasavā (m.)↔famous (one who has fame)
+        - sīlavā (m.)↔virtuous
+        - dhanavā (m.)↔wealthy (one who has wealth) (s.w. d)
+        - satimā (m.)↔mindful (one who has mindfulness)
+        - cakkhumā (m.)―one who has eyes
+        - dhitimā (m.)↔one who has effort / courage
+        - candimā (m.)↔one who has the moon (the deity who lives on the moon)
+        - hirimā (m.)↔one who has moral shame
+        - puttimā (m.)↔one who has sons
+        - sallapati↔converses, talks to
+        - andho (m.)↔blind person, lit. dark 
+- **Lesson 8 - Future tense** 
+    - The future tense is called in pāḷi→bhavissantī vibhatti
+    - verbal terminations of **bhavissantī **vibhatti:>>>
+        - ssati, ssanti
+ssasi, ssatha
+ssāmi, ssāma
+    - In bhavissantī vibhatti the vowel "{{i}}" is augmented (āgama) between the {{root and the verbal termination}} 
+    - bhavissantī vibhatti declension of gam>>>
+        - gacchissati /  gacchissanti
+gacchissasi / gacchissatha
+gacchissāmi / gacchissāma
+        - gamissati / gamissanti
+gamissasi / gamissatha
+gamissāmi / gamissāma
+    - **Vocab**: #[[^^^pāḷi^^^ vocab (1st year)   ]] 
+        - janādhipo, bhūpālo (m.)↔king (s.w. j) 
+        - sapatto (m.)↔enemy (s.w. s)
+        - mahāmatto (m.)↔prime minister 
+        - khattiyo (m.)↔warrior (s.w. k)
+        - mahaggha (adj.)↔very costly 
+        - dvārapālako (m.)↔gate keeper 
+        - sahāyo (m.)↔friend (s.w. s)
+        - lekhako (m.)↔writer 
+        - upapajjati↔is reborn in 
+        - tibba (adj.)↔sharp, piercing, acute 
+        - daṇḍo (m.)↔punishment, stick 
+        - āṇā (f.)↔order, decree 
+        - pābhataṁ (nt.)↔present, gift 
+        - vītikkamati↔transgresses
+- **Lesson 9 - Missaka kiriyā and gacchantādigaṇa** 
+    - Actions that are done simultaneously with the main action of a sentence are called {{missaka-kiriyā}} 
+    - In Pāḷi, missaka-kiriyās are constructed by {{adding the suffixes ‘anta’ and ‘māna’ to roots or verbal bases}} 
+    - In which genders can Missakakiriyās be declined? {{in all three genders}} 
+    - Words ending in **-māna** when declined in masculine gender are declined similar to the noun {{purisa}}. When they refer to a feminine noun they are declined as the noun {{kaññā}}. When they refer to a neuter noun they are declined like the noun {{citta}}. Words ending with the suffix **-anta** have a different declension but similar to guṇavādigaṇa with one exception in the nominative singular case.
+    - ^^*****^^declension of ^^**gacchanta m. **^^(gacchantādigaṇa)>>>
+        - **nom. **^^**gacchaṃ**^^, gacchanto / gacchantā, gacchanto
+        - (the rest as guṇavantu)
+        - ^^**mem aid**^^: 
+            - apart from **gacchaṁ**, the rest is the same as guṇavantu
+        - **note**: 
+            - arahanta and mahanta both have **arahā** and **mahā** as nominative singular
+            - santa has **sabbhi **as ins./abl. plural as well 
+    - ^^*****^^declension of ^^**gacchanta nt. **^^(gacchantādigaṇa)↓>>>
+        - **nom. **gacchaṃ, ^^**gacchantaṁ**^^ / gacchantā, gacchantāni, gacchant^^**i**^^ 
+        - **acc.** gacchaṁ, gacchantaṁ / gacchante, gacchantāni, gacchanti
+        - (the rest as m.)
+        - ^^**mem aid**^^: nom. gacchantaṁ
+    - declension of ^^**karonta m. **^^(gacchantādigaṇa)>>>
+        - **nom.** kar^^**a**^^ṁ, karonto / karontā, karonto
+        - **voc.** (bho) ^^**karonta**^^, ^^**karontā**^^ / karontā, karonto
+        - **acc. **karontaṁ / karonte 
+        - **dat.** karoto, karontassa / karotaṁ, karontānaṁ
+        - ^^**mem aid**^^: 
+            - like gacchanta but with 'o' and long forms
+            - voc., acc., longer forms
+            - dat. no short form as gacchassa
+    - ![](https://remnote-user-data.s3.amazonaws.com/xcBZN2VXFW6K_eXzG2VkmdTIavSkk9BdOTSXfM9RbSLr3O7orELJmvvSePkzQRuKaHznOPmlXfQra-QKx0c7-KUPKXs9Ejt0YszsmjqZPrcbAJcqz7qmc656dh6VtD89.png)
+    - 3 main functions of **missakakiriyā**:>>>
+        - as missakakiriyā
+        - as stand-alone nouns
+        - as adjectives
+    - **vocab**: #[[^^^pāḷi^^^ vocab (1st year)   ]] 
+        - pariyatti (f.)↔the scriptures 
+        - paṭipatti (f.)↔the practice 
+        - pūreti↔fills, fulfills
+        - thāmavā↔one who has strength; strong 
+        - yodho (m.)↔soldier 
+        - cetiyaṁ (nt.)↔pagoda 
+        - saṅgāmo (m.)↔battle 
+        - dhamma+desanā+kālo (m.)―the time of preaching Dhamma 
+        - olambati↔hangs down 
+        - vigatamiddha (adj.)↔one who is not sleepy/drowsy 
+        - Api /pi (nip.)↔and (s.w. a/p)
+        - yāvatā (nip.)↔as far as (s.w. y)
+        - tāvatā (nip.)↔so long (s.w. t)
+        - hutvā √hū↔(+nom) having been; having become
+        - pasaṃsā (f.) √saṃs↔(+instr) praise (by); approval (of); commendation (of)
+        - annaṁ (nt.)↔food; lit. eaten (s.w. a)
+        - pānaṁ (nt.)↔drink, beverage 
+        - atītaṁ (nt.)↔past 
+        - anāgato (m.)↔future 
+        - nisinnaṁ (nt.)↔(nt.) sitting, (pp.) seated 
+        - sayāna (prp.) √sī↔lying down (s.w. s)
+        - pūrayiṁ (pūreti ⇒ pūresiṁ ⇒ pūrayiṁ)↔I fulfilled  
+        - mahaṃ↔one who is honouring, that which is big/great
+        - saṃ↔that which is existing, a good person   
+            - In instrumental and ablative plural of santa, there is an additional form sabbhi.  Therefore, the declension should be santehi, santebhi, **sabbhi**.    
+    - "{{a}}" may be augmented between the root and the suffix -māna (pac + māna ⇒ {{pacamāna}})
+    - e may change to {{aya}}: (deseti ⇒ {{desayati}})
+    - missakakiriyās are under which of the 4 main divisions of words?→nāmapada (nouns)
+    - Other parts of the sentence, not only the verb, can also have objects, instruments and so on (guṇavā buddhaṁ namassanto tiṭṭhati - buddhaṁ is the object of namassanto)
+- **Lesson 10 - Infinitive and pronouns** 
+    - tumanta→(tuṁ + anta) infinitive
+    - In Pāḷi, infinitives are called tumanta and are made by {{adding the suffix ‘tuṃ’ to roots or verbal bases.}} Infinitives are that form of the verbs which {{merely name the action}} such as 'to go', 'to do' and so on.
+    - In most of the cases, when the infinitive suffix is added to the root, the vowel ‘{{i}}’ is augmented between the root and the vowel
+    - Why are pronouns called sabbanāma?→because most of them can be declined in any gender (tiliṅgika)
+    - Morphemes that can refer to nouns of all genders are called {{sabbanāma (pronouns)}} in Pāḷi
+    - There are {{twenty-seven}} sabbanāmas in Pāḷi. Some of them are sabba, katara, katama, ubhaya, itara, añña and amha. They are all categorized under the nominal group of sabbanāmagaṇa. It is one of the thirteen nominal groups.
+    - ^^^**11/13 nāmagaṇas**^^^ (nominal groups)>>>
+        - purisādigaṇa (m., akāranta)
+        - cittādigaṇa (nt., akāranta)
+        - kaññādigaṇa (f., ākāranta)
+        - manādigaṇa (mix gender, akaranta)
+        - pumādigaṇa (m., akāranta)
+        - rājādigaṇa (m., akāranta)
+        - satthādigaṇa (m., ukāranta)
+        - guṇavantādigaṇa (m., nt., ukāranta)
+        - gacchantādigaṇa (m., ukāranta)
+        - rattādigaṇa (mixed gender, ikāranta)
+            - nadādigaṇa (īkāranta)
+            - gahapatādigaṇa (inīkāranta)
+        - sabbanāmagaṇa
+        - ^^^**mem aid**^^^: man, mind, woman, mind, man, king, teacher, guṇa, antu, night, river, householder, sabbanāma
+    - declension of the pronoun '^^**amha**^^' (sabbanāmagaṇa) (aliṅgika)>>>
+        - **nom.** ahaṃ / mayaṃ, amhe, ^^**no**^^ 
+        - **acc. **maṃ, mamaṃ / amhe, amhākaṃ, ^^**no**^^ 
+        - **ins. **mayā, me / amhehi, amhebhi, no
+        - **dat./gen. **mama, mamaṁ, mayhaṃ, me, ^^**amhaṃ**^^ / amhaṃ, amhākaṃ, ^^**asmākaṃ**^^, no
+        - **abl. **mayā / amhehi, amhebhi
+        - **loc. **mayi / amhesu
+        - **note**: **vo, no, te, me** in the declensions of tumha and amha are never used in the beginning of a sentence - they are used at least after one term
+    - Most of the declensions of sabbanāma do not have the {{vocative}} case
+    - Vocab:  #[[^^^pāḷi^^^ vocab (1st year)   ]] 
+        - sīhāsanaṁ (nt.)↔throne 
+        - turago (m.)↔horse (s.w. t, not turaṅga) 
+        - khaggo (m.)↔sword 
+        - kasā (f.)↔whip 
+        - vāraṇo (m.)↔elephant (s.w. v) 
+        - vaḷavā (f.)↔mare 
+        - hatthāroho (m.)↔elephant rider, mahout
+        - sandano (m.)↔chariot (s.w. s)
+        - dāruṇa (adj) √dar↔brutal; savage; vicious; cruel
+        - mānuso (m.)↔human being (s.w. m, not manussa) 
+    - declension of the pronoun '^^**tumha**^^' (sabbanāmagaṇa) (aliṅgika)>>>
+        - **nom**. tvaṃ, ^^**tuvaṃ **^^/ tumhe, ^^**vo**^^ 
+        - **acc**. taṃ, tavaṃ, ^^**tvaṃ**^^, ^^**tuvaṃ**^^ / tumhe, tumhākaṃ, vo
+        - **ins**. tayā, ^^**tvayā**^^, te / tumhehi, -bhi, vo
+        - **dat**./**gen.** tava,^^** **^^tuyhaṃ, te, ^^**tumhaṃ**^^ / tumhaṃ, tumhākaṃ, vo
+        - **abl**. tayā, tvayā / tumhehi, -bhi
+        - **loc**. tayi, ^^**tvayi **^^/ tumhesu
+        - **note**: **vo, no, te, me** in the declensions of tumha and amha are never used in the beginning of a sentence - they are used at least after one term
+    - **me**, **te**, **no**,** **and** vo** should not be at {{the beginning of a sentence, not even at the beginning of a line of a verse}} 
+- **Lesson 11 - Optative mood** 
+    - Permission (**anumati**) and assumption (**parikappa**) are expressed through the {{sattamī vibhatti}} verbs in Pāḷi. This mood is translated as {{optative.}} 
+    - Anumati↔permission
+    - parikappa↔assumption 
+    - **Sattamī vibhatti** >>>
+        - eyya, eyyuṃ, 
+        - eyy**ā**si, eyy**ā**tha, 
+        - eyyāmi, eyyāma
+    - gam – sattamī vibhatti 
+        - gaccheyya / gaccheyyuṃ 
+        - gaccheyyāsi / gaccheyyātha 
+        - gaccheyyāmi / gaccheyyāma
+    - {{Sattamī vibhatti}} is used to express supposition, doubt, possibility, mild command, request, invitation, courteous question and also a prayer. These verbs may be translated into English by using the auxiliary verbs {{‘may, might, should’ or ‘would}}.
+    - declension of '^^**rāja**^^' (m.) (rājādigaṇa)>>>
+        - **nom. **rāj^^**ā**^^ / rāj^^**āno**^^ 
+        - **voc. **(bho) rāja, rājā / (bhonto) rājāno 
+        - **acc. **rājaṃ, rāj^^**ānaṃ**^^ / rājāno 
+        - **ins.** ra^^**ññā**^^, rāj^^**i**^^nā, rājena / rājehi, rājebhi, rāj^^**ū**^^hi, rāj^^**ū**^^bhi
+        - **dat./gen. **raññ^^**o**^^, rāj^^**ino**^^ / ^^**raññaṃ**^^**, **rājānaṃ, rāj^^**ū**^^naṃ
+        - **abl. **raññ**ā **(, rājasmā, rājamhā) / rājehi, rājebhi, rājūhi, rājūbhi
+        - **loc. **raññe, rāj^^**ini**^^ / rājesu, rāj**ū**su
+        - **note**: rājasmā, rājamhā are only found in Niruttidīpanī)
+    - **Vocab****:** #[[^^^pāḷi^^^ vocab (1st year)   ]] 
+        - devasikaṃ (adv.)↔daily 
+        - addhā (nip.)↔certainly, for sure 
+        - ce (never begins a sentence), sace, yadi (nip.)↔if
+        - santappita (vis.)↔satisfied (s.w/ s)
+        - pariyesati↔searches 
+        - samattha (vis.)↔capable 
+        - ito paṭṭhāya↔from now onwards, from here 
+        - sahattho (m.)↔one’s own hand 
+        - jīvikā (f.)↔livelihood
+        - kappeti↔does, leads (one’s life), prepares 
+        - yattha (nip.)↔where
+        - tattha (nip.)↔there 
+        - paṭhamavayo (m.)↔prime age (first 1/3 of one’s whole life) 
+        - **arahā **(extra form), arahaṁ, arahanto (m., gacchantādigaṇa)↔Arahant
+        - attā / ātuma (m., rājādigaṇa)↔self
+        - brahmā (m., rājādigaṇa)←Brahma
+        - sakhā (m., rājādigaṇa)↔friend (s.w. s, rājādigaṇa)
+        - akari / akāsi↔he made 
+        - sippaṁ (nt.)↔skill; art; craft; branch of knowledge
+        - mahājano (m.)↔people; public; populace; lit. great people
+        - icchati↔wishes, wants, desires 
+        - vāsī (vis.) √vas↔(+loc) resident (of); living (in); (+loc) wearing; clothed (in)
+        - patthanaṁ / ā (nt., f.)↔wish; aspiration; prayer (s.w. p)
+        - manāpa (vis.)↔pleasant; likeable; attractive; agreeable; lit. obtained by mind
+        - nicca (vis.)↔permanent; lasting; continuous; ordered; stable; reliable; regular; immutable
+        - ve (nip.)↔indeed; truly; really (s.w. v)
+        - kāmaṃ (nip.) √kam↔1 indeed; surely; of course; certainly; lit. according to desire; 2 gladly; happily; willingly; freely; according to one’s wishes; according to inclination; (different from kāma adj. wishing to; wanting to; would be delighted to; (+loc) enjoying; fond (of); who likes; who loves; or kāma masc. (+loc) sense desire (of); sensual pleasure (of); masc. (objects of) pleasure; sensual pleasure; sexual pleasure)
+- **Lesson 12 - Rattādigaṇa**  
+    - **rattādigaṇa **includes nouns of which genders and kārantas (with example word)?>>>
+        - masculine 
+            - ā (sā)
+            - i (aggi)
+            - ī (daṇḍī)
+            - u (bhikkhu)
+            - ū (sayambhū)
+            - o (go)
+            - **note**: all except 'a'
+        - neuter 
+            - i (aṭṭhi)
+            - ī (sukhakārī)
+            - u (cakkhu)
+            - ū (gotrabhū)
+        - feminine
+            - i (ratti)
+            - ī (itthī)
+            - u (yāgu)
+            - ū (vadhū)
+    - sā (m.)↔dog (s.w. s)
+    - ^^*****^^declension of ^^**ratti**^^ (f.) (rattādigaṇa)>>>
+        - ratti / rattī, ratt^^**iyo**^^, ra^^**tyo**^^ 
+        - (bhoti) " / (bhotiyo) "
+        - rattiṃ / "
+        - ratti^^**yā**^^, ra^^**tyā**^^ / rattīhi, rattībhi, ratt^^**i**^^hi, ratt^^**i**^^bhi 
+        - " / rattīnaṃ, ratt^^**i**^^naṃ
+        - ", ratti^^**yaṃ, **^^rat^^**yaṁ**^^, ^^ _**ratto**_ ^^ / rattīsu, rattisu 
+        - **note**: **ratto** is exclusive to ratti 
+    - declension of ^^**yāgu**^^ (f.) (rattādigaṇa)>>>
+        - yāgu / yāgū, yāguyo 
+        - (bhoti) " / (bhotiyo) "
+        - yāguṃ / "
+        - yāguyā / yāgūhi, yāgūbhi, yāguhi, yāgubhi  
+        - " / yāgūnaṃ, yāgunaṃ 
+        - ", yāguyaṃ / yāgūsu, yāgusu
+    - declension of ^^**vadhū**^^ (f.) (rattādigaṇa)>>>
+        - vadhū / vadhū, vadhuyo 
+        - (bhoti) vadhu / (bhotiyo) vadhū, vadhuyo 
+        - vadhuṃ / vadhū, vadhuyo 
+        - vadhuyā / vadhūhi, vadhūbhi 
+        - vadhuyā / vadhūnaṃ 
+        - vadhuyā, vadhuyaṃ / vadhūsu
+    - **Vocab:** #[[^^^pāḷi^^^ vocab (1st year)   ]] 
+        - pavisi / pāvisi (√vis ⇒ pa + avis ⇒ pāvis)↔he entered 
+        - jāṇu (m.)↔knee 
+        - viya (nip.)↔like, as 
+        - tanti (f.)―synonym for pāḷi canon
+        - tantinaya↔the method of the canon 
+        - ratti (f.)↔night
+        - bhamaro (m.)↔bee, bumblebee
+        - paleti↔flees, runs away 
+        - hāpeti↔destroys (s.w. h) 
+        - hāpayanta↔one who destroys 
+        - khanti (f.)↔patience 
+        - santi (f.)↔peace 
+        - tanti (f.)↔row, sacred text 
+        - iddhi (f.)↔psychic power 
+        - bhūmi (f.)↔earth, floor 
+        - pīti (f.)↔joy 
+        - koṭi (f.)↔the end, ten million 
+        - kitti (f.)↔fame 
+        - vuḍḍhi / vuddhi / vaddha (f.)↔growth 
+        - tuṭṭhi (f.)↔happiness, satisfaction (s.w. t)
+        - sati (f.)↔mindfulness 
+        - yāgu (f.)←gruel 
+        - kāsu (f.)↔pit 
+        - rajju (f.)↔rope 
+        - dhenu (f.)↔female animal (cow-animal) 
+        - daddu (f.)↔a kind of cutaneous eruption 
+        - dhātu (f.)↔element 
+        - kareṇu (f.)↔female elephant (s.w. k) 
+        - hatthinī (f.)↔female elephant (s.w. h) 
+        - vadhū (f.)↔lady, daughter-in-law 
+        - sarabū (f.)↔house lizard 
+        - jambū (f.)↔rose-apple tree
+        - atha kho↔then, afterwards 
+        - paṭhamaṃ yāmaṃ↔first watch of the night 
+        - manasākāsi↔contemplated 
+        - sāvatthi (f.)―city of Savatthi 
+        - kuṭumbiko (m.)↔man of property, landlord 
+        - nāma (nip.)↔called 
+        - aputtaka (vis.)↔one who has no children 
+        - mahābhoga (vis.)↔one who has a great wealth (s.w. m)
+        - ekadivasaṃ↔one day 
+        - nhānatitthaṃ (nt.)↔bathing place in a river or a lake 
+        - sampannasākha (vis.)↔a tree with well grown branches 
+        - āgacchanto↔while coming 
+        - antarāmagge↔on the way 
+        - vanappati (m.)↔a large tree (s.w. v)
+        - mahesakkhā devatā↔a deity of great power 
+        - sodhāpeti↔make someone to clean (s.w. s)
+        - kārāpeti↔make someone to do 
+        - pākāro (m.)↔wall 
+        - vālukā (f.)↔sand 
+        - okirāpeti↔make someone to scatter something 
+        - dhajo (m.)↔flag 
+        - ussāpeti↔raises
+        - añjalī (f.)↔lifting of the folded hands as a token of reverence 
+        - pakkamati↔goes away (s.w. p)
+        - patiṭṭhapeti↔sets on, places on (dakkhiṇajāṇumaṇḍalaṃ bhūmiyaṃ p.)
+        - paṭiggaṇhāti↔takes, accepts, receives 
+        - āha↔said (s.w. ā) 
+        - paṭṭhapeti↔establishes (a theme for meditation), posits, sets forth, puts forward, lays down 
+        - vipassati→sees deeply (into), understands with insight, has insight into 
+        - toseti↔makes happy, soothes, calms, comforts, consoles; pleases
+        - heṭṭhābhāgo (m.)↔lower part; lit. under portion
+        - kuṭumba↔wealth, property (s.w. k)
+        - arahattadhaja↔the banner of the worthy ones, (the robes) 
+        - alaṁkāra↔decoration
+        - alaṁkaroti↔decorates 
+        - yuvati (f.)↔young woman
+    - Atha kho bhagavā rattiyā **paṭhamaṃ yāmaṃ** paṭiccasamuppādaṃ manasākāsi.
+        - paṭhamaṁ yāmaṁ is in accusative but it means {{locative. Accusative is sometimes used instead of locative.}} 
+- **Lesson 13 - Nominal groups of nadī (nadādigaṇa) and gahapatānī (gahapatādi gaṇa)** 
+    - Nominal groups of **nadī** and **gahapatānī** contains only nouns of the {{feminine}} gender ending in ‘{{ī}}’. Their declensions are {{identical}}. They are recognized as two different nominal groups due to the {{difference of formation of nouns in these groups}}. Feminine nouns of the group nadādi are constructed by {{adding the suffix ‘ī’}}, whereas the suffix {{‘inī’}} is added to construct nouns pertaining to the nominal group gahapatādi.
+    - Long vowels are not shortened and short vowels may be lengthened.
+    - ^^*****^^declension of ^^**itthī**^^ (f.) (rattādigaṇa / nadādigaṇa)>>>
+        - **nom.** itthī / itthī, itthiyo  
+        - **voc.** (bhoti) itthi** **/ (bhotiyo) "
+        - **acc.** itthiṃ, ^^**itthiyaṃ**^^ / " 
+        - **ins**./**abl.** itthiyā / itthīhi, itthībhi 
+        - **dat**./**gen.** " / itthīnaṃ
+        - **loc. "**, itthiyaṃ / itthīsu
+        - ^^**mem aid**^^: as ratti but with **itthiyaṁ** as acc. and no short forms
+        - **note**:
+            - paṭhavī has the short forms **pathabyā** and **pathabyaṃ** where it applies
+            - nadī has the short forms **najjo**, **najjā**, **najjaṁ **where it applies 
+            - pokkharaṇī has **pokkharañño** in plural of paṭhamā, ālapana, and dutiyā, **pokkharaññā** in singular of tatiyā and **pokkharaññaṃ** in singular of sattamī   
+    - The declension of nouns pertaining to the group of gahapatānī is similar to that of nouns of the {{nadī}} group. 
+    - There are three suffixes used to construct feminine nouns: {{‘ā’, ‘ī’ and ‘inī’}}. 
+    - Vocab: #[[^^^pāḷi^^^ vocab (1st year)   ]] 
+        - nadī (f.)→river 
+        - itthī (f.)→lady 
+        - vāpī (f.)→lake 
+        - kumārī (f.)→young girl 
+        - taruṇī (f.)→young lady 
+        - brāhmaṇī (f.)→female brahmin 
+        - kinnarī (f.)↔female mermaid; mythical creature with the head of a horse and the body of a woman
+        - vānarī (f.)↔female monkey 
+        - kukkuṭī (f.)↔hen
+        - gahapatānī (f.)→mistress of a house 
+        - bhikkhunī (f.)―nun (female Buddhist nun) 
+        - pokkharaṇī (f.)→pond 
+        - yakkhinī (f.)→female demon
+        - guṇavantī / guṇav**atī** (f.) (guṇavantu + ī) (n can be dropped)↔the female who possesses qualities
+        - gacchantī / gacch**atī** (f.) (gacchantu + ī) (n can be dropped)↔the female who is going 
+        - manasikaroti↔contemplates 
+    - If a visesana itself has a visesana it should be in the {{instrumental}} case (Nātho paripuṇṇaṁ parisuddhaṁ brahmacariyaṁ pakāseti - if paripuṇṇaṁ were the visesana of parisuddhaṁ it would be {{paripuṇṇena}})
+    - so puriso upāsako bhavi (puriso is the {{pakati}} kattu ({{original}} subject) and upāsako is the {{vikati }}kattu ({{changed}} subject)
+    - Lesson 13 - Exercises
+        -  __by (Brasil) Ariyañāṇa Bhikkhu__  
+        - 2). Decline the following nouns: taruṇī and bhikkhuṇī
+            - taruṇī (nadādigaṇa)
+                - taruṇī / taruṇī, taruṇiyo
+                - bhoti taruṇi / bhotiyo taruṇī, taruṇiyo
+                - taruṇiṁ, **taruniyaṁ **/ taruṇī, taruṇiyo
+                - taruṇiyā / taruṇīhi, taruṇībhi
+                - taruṇiyā / taruṇīnaṁ
+                - taruṇiyā, taruṇiyaṁ / taruṇīsu
+            - bhikkhuṇī (gahapatādigaṇa)
+                - bhikkhuṇī / bhikkhuṇī, bhikkhuṇiyo
+                - bhoti bhikkhuṇi / bhotiyo bhikkhuṇī, bhikkhuṇiyo
+                - bhikkhuṇiṁ, bhikkhuṇiyaṁ / bhikkhuṇī, bhikkhuṇiyo
+                - bhikkhuṇiyā / bhikkhuṇīhi, bhikkhuṇībhi
+                - bhikkhuṇiyā / bhikkhuṇīnaṁ
+                - bhikkhuṇiyā, bhikkhuṇiyaṁ / bhikkhuṇīsu
+        - i. **Gerunds are**→Gerunds (pubbakālakiriyā) are the nipātapada which express an action done before the final action of a sentence. They are constructed by adding the suffix -tvā (in most cases) to the verbal root/base
+        - ii. **Missaka-kiriyā are**→**nāmapadas** formed by adding the suffix -**anta** / -**māna** to verbal bases / roots that can be declined in the three genders and can perform the three functions of **missakakiriyā** (expressing an action performed simultaneously with the main action), stand-alone **nouns** or **nāmavisesanas** (adjectives) 
+        - iii. **visesana and visesya are**→**nāmapadas** declined in the same liṅga (gender), vibhatti (case) and vacana (number) and that act as noun modifiers (visesana) and the nouns that are modified (visesya)
+        - iv. **Anumati and parikappa**→Anumati (permission) is one of the functions of the sattamī vibhatti of the ākhyātapadas. Parikappa is the other function which is to {{express assumptions.}} They are both constructed by adding the verbal terminations (such as eyya, eyyuṁ...) to verbal bases/roots. 
