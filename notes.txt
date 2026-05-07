@@ -4,59 +4,31 @@ important files:
 - layouts/home.html: content of the home page
 - pages/: content of each page
 
-
 to do list for the website:
+- add more posts
+- add section on teachers
+- "participate / projects / support" section with ways to support / donate / participate in projects
 - add FAQ section
 - simple website with my flamenco career 
-- app for learning abhidhamma
+- website for learning abhidhamma like khan academy 
 - email list
 - online email course
-- calendar on the website
-- trees of the tipitaka
-- make website for people to be able to donate to projects
-- project of youtube videos about dhamma with good explanations and visuals (example Johnny Harris'); it can make good dhamma available to English / Spanish / Portuguese speaking monks / laity
+- tipitaka visualized
 - course on how to study: preparing for a course, attending classes, taking notes, using tech, making summaries, flashcards, etc.
-- kammatthana calculator
-- review of books
-- list of monasteries that follow vinaya
-- ordination eligibility calc. make it easier to go another year, maybe typing, or a way to more easily select other years.
+- kammatthana "calculator"
+- links section: list of monasteries i know that follow vinaya
 - add archive.org links
-- add favicon and open graph image
 - add bodhi cursor
-- update social media accounts with Brazilian monk, and website
-- check why in the page monk calculators the image of Brazilian monk does not appear
-- check
-    https://www.freecodecamp.org/
-    https://www.codecademy.com/
-    https://www.khanacademy.org/computing/computer-programming
-    https://www.khanacademy.org/computing/computer-science
-
 - check for an easier way to add my notes to the website
-	- https://github.com/MaggieAppleton/digital-gardeners?tab=readme-ov-file
-	- maybe a lot together but with collapssable sections
-		creating a collapsible section with html in the md file; or use js for dynamic loading storing notes in separate files and js leads them when needed; using Jekyll collections putting notes in a folder
-	- maybe some online garden 
-- find the way to easily remove the [[]] and {{}} from the md files
-- consider the name: monk life, monk space
-- maybe add youtube projects page to the menu
-- add more projects to the main page
-    - add summaries notes remnotes
-- add link to remnote account
+- consider less personal name: monk life, monk space...
 - add a search box, especially to the notes section
-- edit summaries page
-      - add notes from 1st year
-      -add notes from 2nd year
-      - add notes from 3rd year
-      - add videos of the summaries
-- add summaries page link to home with an image
-- add a subscribe to rss feed newsletter
-- exercise and health principles for meditation and a healthy life
-- calculator for robe size
-- moon calendar with uposathas
-- old sun calendar used in B time
-- B calendar used in Mm Thailand and SL
+- add newsletter subscribe thing
+- other ideas
+  - exercise and health principles for meditation and a healthy life
+- Calculators
+  - moon calendar with uposathas
+  - calculator for robe size
 - monk skill tree (conditions for nm, other bahussutas, samatha vipassana)
-- fix social media links
 - add link with image to the translations page
 - app with intro to abhidhamma based on the learn html app
 - change other social.media name to brazilian monk
@@ -64,13 +36,13 @@ to do list for the website:
 ---
 
 page layout for a post
-name of the file should be liek: 2016-04-04-about-the-author.md
+name of the file should be like: YYYY-MM-DD-title.md
 ---
 layout: post
 title: "..."
 author: "author"
 categories: facts
-tags: [sample]
+tags: [sample] or [sample, sample, sample]
 image: 
 ---
 for this to be a post it should be .md
@@ -209,5 +181,3 @@ button to go up
     </script>
 </body>
 </html>
-- charts abhidhamma
-calculator that estimates the character and says the suitable objects acc to vsdmg

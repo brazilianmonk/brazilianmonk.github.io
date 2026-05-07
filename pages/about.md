@@ -5,7 +5,7 @@ permalink: /about
 
 ## About the Author: Ariyañāṇa (Stefano Domit Cervo)
 
-<img src="/assets/img/round-me-214.jpg" alt="description" style="width: 40%; border-radius: 8px;">
+<img src="/assets/img/round-me-214.jpg" alt="description" style="width: 40%;">
 
 **2003-2015**: Flamenco dancer (Spain, Brazil, USA, PRC, South Korea, Netherlands, Canada, and others). Highlights:
 - 1st Prize in "Festival Flamenco de Almeria".
