@@ -63,6 +63,7 @@ After a good amount of research, this is the grammar source I settled for. There
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
 <img src="/assets/img/busuu.jpg" alt="description" style="width: 50%; border-radius: 8px;">
+
 ### [**Busuu**](https://www.busuu.com/)
 This is a website / app that can help you learn the basics and get exposed to the language in general. As a sole tool, it is not enough, so I recommend it as a supplement for brainsoaking.
 
