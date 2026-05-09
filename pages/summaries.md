@@ -36,7 +36,10 @@ Here, you'll find my Dhamma notes and summaries. These are primarily derived, fo
 
 ### Abhidhamma
 
+- [Attha, hīnattha, paramattha](/summaries/abhidhamma/attha)
+- [Paramattha and Citta]()
 - [Kappas: 4 types](/summaries/abhidhamma/kappa)
+- 
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
@@ -105,7 +108,7 @@ This is a website / app that can help you learn the basics and get exposed to th
 - [**Gerund vs. Present Participle**](/summaries/eng/gerund-vs-present-participle)
 - [**Absolute Phrases**](/summaries/eng/absolute-phrases)
 - [**Serious Writing Mistakes**](/summaries/eng/serious-writing-mistakes)
-
+- [**Present Perfect Continous Passive**: not used](/summaries/eng/present-perfect-continuous-passive)
 
 --- 
 

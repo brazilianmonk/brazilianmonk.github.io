@@ -1,65 +1,63 @@
 ---
 layout: page
-permalink: /links
+permalink: /summaries/abhidhamma/cetasika
 ---
 
-# 🔗 Links
+## Cetasikas
+### Definition
+*Cetasibhavaṃ cetasikaṃ* — they are called cetasikas since they exist in consciousness.
 
-Here are some links to reliable resources for Theravāda Buddhism that I'm familiar with:
- 
-## 📜 Pāḷi Texts
-
-<img src="/assets/img/e-pitaka.png" alt="description" style="width: 70%;">
-
-### [**E-piṭaka**](https://epitaka.org/) (website)
-This is a new website with the entire Tipiṭaka, commentaries, and sub-commentaries translated by AI. The entre system was put together by Ven. Vietnam Dhammañāṇa. It uses the Myanmar Nissaya texts (detailed translations in Myanmar language), among other detailed explanations. It is not 100% reliable but quite good, especially the Pāḷi and commentary. It is great for someone who is learning Pāḷi or for research. 
+Renderings: mental factors, mentalities, immaterial dhammas, mental elements.
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
-<img src="/assets/img/tpr.png" alt="description" style="width: 50%;">
-
-### [**Tipiṭaka Pāḷi Reader**](https://americanmonk.org/tipitaka-pali-reader/) (app)
-This is an app made by Bhante USA Subhūti. It contains most Pāḷi texts, English translations, dictionaries, and the content of the e-piṭaka (above) as well. 
-
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
-
-<img src="/assets/img/aai.png" alt="description" style="width: 70%;">
-
-### [**Acesso ao Insight**](https://www.acessoaoinsight.net/index.htm) (website; Português)
-Esse site tem bastante material traduzido ao Português. Trabalho feito principalmente por [Michael Beisert](https://www.acessoaoinsight.net/arquivo_textos_theravada/beisert.php.html).
-
----
-
-## 🏛️ Monasteries
-
-### Myanmar
-
-<img src="/assets/img/paauk.jpg" alt="" style="width: 80%;">
-
-#### [**Pa Auk Meditation Center**](https://paauksociety.org/)
-This is the Pa Auk moanstery in Maymyo, Myanmar, where I ordained and spent about 7 years. It is a meditation center but also has an attached pariyatti center (for traditional studies). There are other Pa Auk centers, several in Myanmar, such as in Mawlamyine (the very first), and in a few other countries.
-
-### Sri Lanka
-
-<img src="/assets/img/iit.jpg" alt="" style="width: 60%;">
-
-#### [**International Institute of Theravāda**](https://www.theravado.com/) (Sri Lanka)
-The IIT is located in Sri Lanka. It is a monastery focused on the study of Theravāda Buddhism (pariyatti). The level is quite rigorous (as per 2026) and includes all traditional topics of study such as Pāḷi, Abhidhamma, Suttanta, Vinaya, etc. with regular classes and exams. Additionally, this institute offers academic recognition. There are 2 courses: the Nissayamuttaka Course and the Parisupaṭṭhāpaka Course. The Nissayamuttaka totals 6 years and covers all requirements for a monk to be independent, and more. It is recognized as an BA. The Parisupaṭṭhāpaka lasts for 2 years, prepares you to be a teacher, and is recognized as an MA. 
+### 4 Main Activities Done by Cetasikas
+- Bodily acts
+- Verbal acts
+- Mental acts
+- Cognizing objects
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
-<img src="/assets/img/nauyana.png" alt="" style="width: 100%;">
+### Sampayogalakkhaṇas of Cetasikas
+- **Ekuppāda**: they arise together with the associated citta
+- **Ekanirodha**: they vanish together with citta
+- **Ekālambana**: they take the same object as the associated citta
+- **Ekavatthuka**: they depend on the same material base as the associated citta
 
-#### [**Na Uyana Forest Monastery**](https://nauyana.org/) (Sri Lanka)
-This is a Theravāda Buddhist Forest Monastery in Sri Lanka. It's a large area that includes 3 sections with different environments (more to less secluded). There is also a nearby monastery for study.
+> *Ekuppāda nirodhā ca / ekālambaṇavatthukā / cetoyuttā dvipaññāsa / dhammā cetasikā matā*
 
-### Brasil
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
-#### [**Mosteiro Suddhavāri**](https://suddhavari.org/)
-Talvez o único monasterio Theravāda no Brasil atualmente. Liderado pelo Bhante Mudito. 
+### How Many Cetasikas in Total?
+52
+
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+
+### What is Cittuppāda?
+One citta together with its concomitant cetasikas are collectively called cittuppāda or nāmakalāpa.
+
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+
+### Nāma — Definition
+*Namatīti nāmaṃ* — they are called nāma since they bend towards an object.
+
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+
+### Minimum / Maximum Cetasikas in One Cittuppāda
+- Min: 7
+- Max: 36
+
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+
+### Minimum Number of Nāmas / Rūpas Occurring Together
+- 8 nāmas
+- 8 rūpas
 
 ---
 
+
+---
 <script>
 document.addEventListener("DOMContentLoaded", function() {
   // Add styles for collapsible TOC

@@ -15,10 +15,6 @@ Here I keep my own summaries, notes, essays, programs, etc. It also includes som
 
 Calculate the Ordination Eligibility Date and the Ordination Duration Counter.
 
-### [📽 YouTube Channel](/youtube-projects)
-
-Videos related to Dhamma.
-
 ### [️📆 Calendar](/calendar)
 
 Events going on.
