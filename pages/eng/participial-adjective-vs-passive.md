@@ -1,0 +1,85 @@
+---
+layout: page
+permalink: /summaries/eng/participial-adjective-vs-passive
+---
+
+### Participial Adjective vs. Passive Voice
+
+**Participial Adjective**: an adjective made from a past participle: I was **tired**.
+
+**Passive Voice**: the action is done to the subject: The window was broken by the ball.
+
+**Note**: Both use the verb to be and a past participle (tired, broken, etc.), but are not the same.
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Feature</th>
+<th scope="col" class="org-left">Participial Adjective</th>
+<th scope="col" class="org-left">Passive Construction</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left"><b>Grammatical Role*</b></td>
+<td class="org-left">Predicate adjective</td>
+<td class="org-left">Passive verb phrase</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Main Verb Type*</b></td>
+<td class="org-left">Linking verb (<b>be</b>)</td>
+<td class="org-left">Passive auxiliary be + V3</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Describes*</b></td>
+<td class="org-left">State or condition</td>
+<td class="org-left">Action done to the subject</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Agent possible?*</b></td>
+<td class="org-left">No (usually)</td>
+<td class="org-left">Yes (often with <b>by</b>-phrase)</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Replacement with seem / feel</b></td>
+<td class="org-left">Yes (<b>I felt tired</b>)</td>
+<td class="org-left">No unless poetic</td>
+</tr>
+</tbody>
+</table>
+
+Diagnostic Tests
+
+1.  **Substitution with “seem” or “feel”**
+    -   I was tired → I felt tired ✅
+    -   I was broken by grief → I felt broken by grief ❌ (awkward unless metaphorical)
+
+2.  **Agent Phrase Test**
+    -   I was tired by the long walk ❌ (ungrammatical)
+    -   I was broken by the fall ✅ (passive with agent)
+
+3.  **Question Form Test**
+    -   Why were you tired? → asks about a state
+    -   Why were you broken? → asks about an event or cause
+&#x2014;
+
+#### Philosophical or Literary Use
+
+Sometimes, the line blurs—especially in poetic or metaphorical language:
+
+-   **I was broken by grief** might feel stative, but grammatically it's passive.
+-   **I was exhausted** is clearly adjectival, even though **exhausted** is a participle.
+

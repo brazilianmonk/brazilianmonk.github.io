@@ -1,0 +1,174 @@
+---
+layout: page
+permalink: /summaries/eng/do-make
+---
+
+### Do, make, make do, do make!
+#### Usage Guide: Tricky Expressions with "Do" vs. "Make"
+
+
+##### Expressions with **"Do"**
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Expression</th>
+<th scope="col" class="org-left">Meaning</th>
+<th scope="col" class="org-left">Example Usage</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Do time</td>
+<td class="org-left">Serve a prison sentence</td>
+<td class="org-left">He did time for tax fraud.</td>
+</tr>
+
+<tr>
+<td class="org-left">Do the trick</td>
+<td class="org-left">Achieve the desired result</td>
+<td class="org-left">A little glue should do the trick.</td>
+</tr>
+
+<tr>
+<td class="org-left">Do away with</td>
+<td class="org-left">Eliminate or abolish</td>
+<td class="org-left">They did away with the old policy.</td>
+</tr>
+
+<tr>
+<td class="org-left">Do someone in</td>
+<td class="org-left">Exhaust or kill (slang)</td>
+<td class="org-left">That workout really did me in.</td>
+</tr>
+
+<tr>
+<td class="org-left">Do without</td>
+<td class="org-left">Manage despite lack of something</td>
+<td class="org-left">We’ll have to do without electricity.</td>
+</tr>
+
+<tr>
+<td class="org-left">Do a number on</td>
+<td class="org-left">Harm or damage</td>
+<td class="org-left">The sun really did a number on my skin.</td>
+</tr>
+</tbody>
+</table>
+
+-   do is also used for emphasis: I did make it on time!
+
+
+##### Expressions with **"Make"**
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Expression</th>
+<th scope="col" class="org-left">Meaning</th>
+<th scope="col" class="org-left">Example Usage</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Make do</td>
+<td class="org-left">Manage with limited resources</td>
+<td class="org-left">We didn’t have much, but we made do.</td>
+</tr>
+
+<tr>
+<td class="org-left">Make off with</td>
+<td class="org-left">Steal and escape</td>
+<td class="org-left">The thief made off with the jewels.</td>
+</tr>
+
+<tr>
+<td class="org-left">Make it</td>
+<td class="org-left">Succeed or survive</td>
+<td class="org-left">She made it through the surgery.</td>
+</tr>
+
+<tr>
+<td class="org-left">Make a scene</td>
+<td class="org-left">Cause a public disturbance</td>
+<td class="org-left">Please don’t make a scene.</td>
+</tr>
+
+<tr>
+<td class="org-left">Make up for</td>
+<td class="org-left">Compensate</td>
+<td class="org-left">He worked late to make up for lost time.</td>
+</tr>
+
+<tr>
+<td class="org-left">Make out</td>
+<td class="org-left">Understand or kiss (contextual)</td>
+<td class="org-left">I couldn’t make out what he said.</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">They were making out on a corner.</td>
+</tr>
+</tbody>
+</table>
+
+
+##### Common Confusions (Fixed Phrases)
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Correct Phrase</th>
+<th scope="col" class="org-left">Common Mistake</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Make a decision</td>
+<td class="org-left">❌ Do a decision</td>
+</tr>
+
+<tr>
+<td class="org-left">Do business</td>
+<td class="org-left">❌ Make business</td>
+</tr>
+
+<tr>
+<td class="org-left">Make a mistake</td>
+<td class="org-left">❌ Do a mistake</td>
+</tr>
+
+<tr>
+<td class="org-left">Do your best</td>
+<td class="org-left">❌ Make your best</td>
+</tr>
+</tbody>
+</table>
+

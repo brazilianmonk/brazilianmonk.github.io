@@ -3,6 +3,10 @@ important files:
 - data/setting.yml: header menus, footer links
 - layouts/home.html: content of the home page
 - pages/: content of each page
+- permalink: should be the URL, not the file path
+- adding image: ![image](/assets/img/file.jpg/png)
+- adding short horizontal line: 
+
 
 to do list for the website:
 - add more posts

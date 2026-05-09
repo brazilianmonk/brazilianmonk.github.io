@@ -1,48 +1,93 @@
 ---
 layout: page
-permalink: /links
+permalink: /summaries/eng/serious-writing-mistakes
 ---
 
-# 🔗 Links
+## Serious Writing Mistakes
+### 1. Incomplete Sentences
+The main clause is left incomplete.
 
-Here are some links to reliable resources for Theravāda Buddhism that I'm familiar with:
- 
-## 📜 Pāḷi Texts
-
-<img src="/assets/img/e-pitaka.png" alt="description" style="width: 50%;">
-
-### [**E-piṭaka**](https://epitaka.org/) (website)
-This is a new website with the entire Tipiṭaka, commentaries, and sub-commentaries translated by AI. The entre system was put together by Ven. Vietnam Dhammañāṇa. It uses the Myanmar Nissaya texts (detailed translations in Myanmar language), among other detailed explanations. It is not 100% reliable but quite good, especially the Pāḷi and commentary. It is great for someone who is learning Pāḷi or for research. 
-
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
-
-<img src="/assets/img/tpr.png" alt="description" style="width: 40%;">
-
-### [**Tipiṭaka Pāḷi Reader**](https://americanmonk.org/tipitaka-pali-reader/) (app)
-This is an app made by Bhante USA Subhūti. It contains most Pāḷi texts, English translations, dictionaries, and the content of the e-piṭaka (above) as well. 
-
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
-
-<img src="/assets/img/aai.png" alt="description" style="width: 50%;">
-
-### [**Acesso ao Insight**](https://www.acessoaoinsight.net/index.htm) (website; Português)
-Esse site tem bastante material traduzido ao Português. Trabalho feito principalmente por [Michael Beisert](https://www.acessoaoinsight.net/arquivo_textos_theravada/beisert.php.html).
+- **Wrong:** The man, whom I met yesterday.
+- **Correct:** The man, whom I met yesterday, is called Robert.
 
 ---
 
-## 🏛️ Monasteries
+### 2. Comma Splices
+Joining two independent clauses with only a comma.
 
-![image](/assets/img/iit.jpg)
+- **Wrong:** I am a monk, he is a worker.
+- **Correct:** I am a monk **and** he is a worker.
 
-### [**International Institute of Theravāda**](https://www.theravado.com/)
-The IIT is located in Sri Lanka. It is a monastery focused on the study of Theravāda Buddhism (pariyatti). The level is quite rigorous (as per 2026) and includes all traditional topics of study such as Pāḷi, Abhidhamma, Suttanta, Vinaya, etc. with regular classes and exams. Additionally, this institute offers academic recognition. There are 2 courses: the Nissayamuttaka Course and the Parisupaṭṭhāpaka Course. The Nissayamuttaka totals 6 years and covers all requirements for a monk to be independent, and more. It is recognized as an BA. The Parisupaṭṭhāpaka lasts for 2 years, prepares you to be a teacher, and is recognized as an MA. 
+---
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+### 3. Missing Verbs
 
-![image](/assets/img/paauk.jpg)
+- **Wrong:** He good. I happy.
+- **Correct:** He **is** good. I **am** happy.
 
-### [**Pa Auk Meditation Center**](https://paauksociety.org/)
-This is the Pa Auk moanstery in Maymyo, Myanmar, where I ordained and spent about 7 years. It is a meditation center but also has an attached pariyatti center (for traditional studies). There are other Pa Auk centers, several in Myanmar, such as in Mawlamyine (the very first), and in a few other countries. 
+---
+
+### 4. Subject-Verb Agreement
+The verb conjugation must agree with its subject.
+
+- **Wrong:** He do. (except subjunctive)
+- **Correct:** He does.
+
+---
+
+### 5. Singular-Plural Agreement
+
+- **Wrong:** I see many **dog** there.
+- **Correct:** I see many **dogs** there.
+
+---
+
+### 6. Pronoun-antecedent Agreement
+When it is not clear what the pronoun refers to.
+
+- **Wrong:** The man came and took it from her. (without mentioning what "it" refers to beforehand)
+- **Correct:** She had a book. The man came and took it from her. ("it" refers to the book)
+
+---
+
+### 7. Tense Consistency
+Changing the tense unnecessarily within the text.
+
+- **Wrong:** Once upon a time, a man ordained as a monk and **practices** meditation.
+- **Correct:** Once upon a time, a man ordained as a monk and **practiced** meditation.
+
+---
+
+### 8. Wrong Tense
+Using the wrong tense or aspect for the situation.
+
+- **Wrong:** I am needing this. (stative verbs are not used in the continuous form)
+- **Correct:** I need this.
+
+---
+
+### 9. Mixing Direct and Indirect Speech
+
+- **Wrong:** He said that "I will go there".
+- **Correct:**  
+  - He said, "I will go there."  
+  - He said: "I will go there."  
+  - He said that he would go there.
+
+---
+
+### 10. Double Subject
+
+- **Wrong:** John he did it.
+- **Correct:** John did it.
+
+---
+
+### 11. Lack of Capitalization
+Not capitalizing first letters, proper names, etc.
+
+- **Wrong:** his name is john and he is from laos.
+- **Correct:** His name is John and he is from Laos.
 
 ---
 

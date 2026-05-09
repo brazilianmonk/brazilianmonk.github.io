@@ -1,50 +1,85 @@
 ---
 layout: page
-permalink: /links
+permalink: /summaries/eng/absolute-phrases
 ---
 
-# 🔗 Links
+## What is an Absolute Phrase?
 
-Here are some links to reliable resources for Theravāda Buddhism that I'm familiar with:
- 
-## 📜 Pāḷi Texts
+An **absolute phrase** is a grammatical construction that modifies an entire clause (usually the main clause of a sentence), rather than a single word. It consists of a **noun** + a **participle** (plus any modifiers or objects).
 
-<img src="/assets/img/e-pitaka.png" alt="description" style="width: 50%;">
+It is called "absolute" because it stands *absolutely* free from the main clause—grammatically, not attached by a conjunction or a relative pronoun.
 
-### [**E-piṭaka**](https://epitaka.org/) (website)
-This is a new website with the entire Tipiṭaka, commentaries, and sub-commentaries translated by AI. The entre system was put together by Ven. Vietnam Dhammañāṇa. It uses the Myanmar Nissaya texts (detailed translations in Myanmar language), among other detailed explanations. It is not 100% reliable but quite good, especially the Pāḷi and commentary. It is great for someone who is learning Pāḷi or for research. 
+## Key Characteristics
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+| Feature      | Description                                                       |
+|--------------+-------------------------------------------------------------------|
+| Structure    | **Noun + Participle** (present/past) + optional modifiers         |
+| Connection   | Loosely tied to the main clause; often separated by commas        |
+| Modification | Modifies the whole **action** or **situation** of the main clause |
+| Omission     | Can often be removed without breaking the main clause's grammar   |
 
-<img src="/assets/img/tpr.png" alt="description" style="width: 40%;">
+## Example Breakdown
 
-### [**Tipiṭaka Pāḷi Reader**](https://americanmonk.org/tipitaka-pali-reader/) (app)
-This is an app made by Bhante USA Subhūti. It contains most Pāḷi texts, English translations, dictionaries, and the content of the e-piṭaka (above) as well. 
+> **He walked down the road, eyes scanning for threats.**
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+- **Main clause:** *He walked down the road*
+- **Absolute phrase:** *eyes scanning for threats*
+  - **Noun:** eyes  
+  - **Participle:** scanning  
+  - **Object of participle:** threats  
+  - **Prepositional phrase modifier:** for threats
 
-<img src="/assets/img/aai.png" alt="description" style="width: 50%;">
+The absolute phrase tells us the *circumstance* accompanying the walking: his eyes were scanning.
 
-### [**Acesso ao Insight**](https://www.acessoaoinsight.net/index.htm) (website; Português)
-Esse site tem bastante material traduzido ao Português. Trabalho feito principalmente por [Michael Beisert](https://www.acessoaoinsight.net/arquivo_textos_theravada/beisert.php.html).
+## Common Types & Examples
 
----
+### 1. Present Participle
+> *The sun **setting** behind the hills, the campers lit a fire.*  
+> (Noun: sun, Participle: setting)
 
-## 🏛️ Monasteries
+### 2. Past Participle
+> ***His work finished**, he closed his laptop.*  
+> (Noun: work, Participle: finished)
 
-![image](/assets/img/iit.jpg)
+### 3. With an Adjective or Prepositional Phrase
+> ***Heart** pounding with fear, she opened the door.*  
+> (Noun: Heart, Participle: pounding)
 
-### [**International Institute of Theravāda**](https://www.theravado.com/)
-The IIT is located in Sri Lanka. It is a monastery focused on the study of Theravāda Buddhism (pariyatti). The level is quite rigorous (as per 2026) and includes all traditional topics of study such as Pāḷi, Abhidhamma, Suttanta, Vinaya, etc. with regular classes and exams. Additionally, this institute offers academic recognition. There are 2 courses: the Nissayamuttaka Course and the Parisupaṭṭhāpaka Course. The Nissayamuttaka totals 6 years and covers all requirements for a monk to be independent, and more. It is recognized as an BA. The Parisupaṭṭhāpaka lasts for 2 years, prepares you to be a teacher, and is recognized as an MA. 
+> ***Legs** trembling, the runner collapsed at the finish line.*
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+## How to Identify an Absolute Phrase
 
-![image](/assets/img/paauk.jpg)
+1. Find a comma-separated group of words.
+2. Inside it, find a **noun** followed by a **participle** (-ing or -ed form).
+3. Check if it modifies the **whole independent clause** (not just the subject or object).
+4. Remove it; the remaining sentence should still be complete.
 
-### [**Pa Auk Meditation Center**](https://paauksociety.org/)
-This is the Pa Auk moanstery in Maymyo, Myanmar, where I ordained and spent about 7 years. It is a meditation center but also has an attached pariyatti center (for traditional studies). There are other Pa Auk centers, several in Myanmar, such as in Mawlamyine (the very first), and in a few other countries. 
+**Test the example:**  
+> *He walked down the road* ✔ (sentence still works without *eyes scanning for threats*)
 
----
+## Common Mistakes & Fixes
+
+| Mistake | Problem | Correction |
+|---------|---------|-------------|
+| *Eyes scanned for threats, he walked down the road.* | "Eyes scanned" is a finite verb — that's a full clause, not a phrase. | *Eyes **scanning** for threats, he walked down the road.* |
+| *He walked, his eyes scanned for threats.* | Comma splice or missing participle. | *He walked, **his eyes scanning for threats**.* |
+
+## Why Use Absolute Phrases?
+
+- **Add conciseness** (replace full clauses: *while his eyes scanned...* → *eyes scanning...*)
+- **Create atmosphere** or sensory detail
+- **Show simultaneous actions** or causes
+- **Vary sentence structure** for better flow
+
+## Quick Reference Card
+Structure: NOUN + PARTICIPLE (+ complements/modifiers)
+Role: Modifies entire main clause
+Punctuation: Usually set apart by commas (or em dashes)
+Key test: Remove it — main clause still makes sense.
+
+
+> **Tip:** If you see a phrase that seems to dangle but isn’t attached to the subject, and it has its own noun + verb-like word (participle), you’ve likely found an absolute phrase.
+
 
 <script>
 document.addEventListener("DOMContentLoaded", function() {

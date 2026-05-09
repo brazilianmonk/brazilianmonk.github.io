@@ -1,50 +1,135 @@
 ---
 layout: page
-permalink: /links
+permalink: /summaries/eng/gerund-vs-present-participle
 ---
 
-# 🔗 Links
+## Gerund vs Present Participle
 
-Here are some links to reliable resources for Theravāda Buddhism that I'm familiar with:
- 
-## 📜 Pāḷi Texts
 
-<img src="/assets/img/e-pitaka.png" alt="description" style="width: 50%;">
+### Gerunds
 
-### [**E-piṭaka**](https://epitaka.org/) (website)
-This is a new website with the entire Tipiṭaka, commentaries, and sub-commentaries translated by AI. The entre system was put together by Ven. Vietnam Dhammañāṇa. It uses the Myanmar Nissaya texts (detailed translations in Myanmar language), among other detailed explanations. It is not 100% reliable but quite good, especially the Pāḷi and commentary. It is great for someone who is learning Pāḷi or for research. 
+They **primarily** function as nouns, but they often carry traces of their verbal origin, which lets them behave in ways that blur the line between noun and verb.
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
-<img src="/assets/img/tpr.png" alt="description" style="width: 40%;">
+#### 🧠 Core Role: Gerunds as Nouns
 
-### [**Tipiṭaka Pāḷi Reader**](https://americanmonk.org/tipitaka-pali-reader/) (app)
-This is an app made by Bhante USA Subhūti. It contains most Pāḷi texts, English translations, dictionaries, and the content of the e-piṭaka (above) as well. 
+Gerunds are verb forms ending in **-ing** that act as nouns. For example:
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+-   **Meditating** calms the mind.
+-   **Reading** canonical texts is part of my daily practice.
 
-<img src="/assets/img/aai.png" alt="description" style="width: 50%;">
+In these cases, the gerund is the subject of the sentence—clearly a noun role.
 
-### [**Acesso ao Insight**](https://www.acessoaoinsight.net/index.htm) (website; Português)
-Esse site tem bastante material traduzido ao Português. Trabalho feito principalmente por [Michael Beisert](https://www.acessoaoinsight.net/arquivo_textos_theravada/beisert.php.html).
 
----
+#### 🧩 But They Retain Verbal Properties Too
 
-## 🏛️ Monasteries
+Even though gerunds are nouns, they can:
 
-![image](/assets/img/iit.jpg)
+-   **Take objects**:  
+    -   **Translating Pāli texts** requires precision.  
+        → “Translating” is a gerund, but it still “acts on” the object “Pāli texts.”
+-   **Be modified by adverbs**:  
+    -   **Carefully preparing the metadata** improves export quality.  
+        → “Carefully” modifies “preparing,” just like it would a verb.
+-   **Have passive or perfect forms**:  
+    -   **Having studied the Vinaya**, he felt more confident.  
+        → “Having studied” is a perfect gerund phrase.
 
-### [**International Institute of Theravāda**](https://www.theravado.com/)
-The IIT is located in Sri Lanka. It is a monastery focused on the study of Theravāda Buddhism (pariyatti). The level is quite rigorous (as per 2026) and includes all traditional topics of study such as Pāḷi, Abhidhamma, Suttanta, Vinaya, etc. with regular classes and exams. Additionally, this institute offers academic recognition. There are 2 courses: the Nissayamuttaka Course and the Parisupaṭṭhāpaka Course. The Nissayamuttaka totals 6 years and covers all requirements for a monk to be independent, and more. It is recognized as an BA. The Parisupaṭṭhāpaka lasts for 2 years, prepares you to be a teacher, and is recognized as an MA. 
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+#### 🧘♂️ Think of Gerunds as Hybrid Forms
 
-![image](/assets/img/paauk.jpg)
+They’re nouns with verbal DNA. That’s why they can:
 
-### [**Pa Auk Meditation Center**](https://paauksociety.org/)
-This is the Pa Auk moanstery in Maymyo, Myanmar, where I ordained and spent about 7 years. It is a meditation center but also has an attached pariyatti center (for traditional studies). There are other Pa Auk centers, several in Myanmar, such as in Mawlamyine (the very first), and in a few other countries. 
+-   Be the subject or object of a sentence (noun role)
+-   Still govern objects and be modified by adverbs (verb traits)
 
----
+So while gerunds **function** as nouns grammatically, they don’t shed all their verbal behavior. They’re like monks who’ve renounced worldly life but still remember how the world works.
+
+Would you like to explore how gerunds differ from participles next? Or maybe dive into how they behave in Pāli or Portuguese?
+
+
+### Present Participles
+
+On the other hand, present participles act as verbs in various tenses, as adjectives, or, can be used in present participle clause - as explained in this page above. For example:
+
+I am walking. [ Present continous tense]
+
+My friend is a walking disaster. [As an adjective]
+
+What is the name of the celebrity walking on the red carpet? [Reduced relative clause of "What is the 
+name of the celebrity *who is walking on the red carpet*?"]
+
+Walking down the street, I saw a white dog. [Used in present participle clause]
+
+
+### Perfect Gerund vs. Perfect Participle
+
+
+#### 🧠 Form:
+
+Both use: having + past participle (e.g., having eaten, having finished, having studied)
+
+
+#### 🧩 Function & Role
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Feature</th>
+<th scope="col" class="org-left">Perfect Gerund</th>
+<th scope="col" class="org-left">Perfect Participle</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left"><b><b>Part of Speech</b></b></td>
+<td class="org-left">Noun</td>
+<td class="org-left">Adjective or verb modifier</td>
+</tr>
+
+<tr>
+<td class="org-left"><b><b>Function</b></b></td>
+<td class="org-left">Refers to a completed action as a noun</td>
+<td class="org-left">Describes a completed action related to another verb</td>
+</tr>
+
+<tr>
+<td class="org-left"><b><b>Example</b></b></td>
+<td class="org-left"><b>He regrets <b>*having lied</b></b> to her.*</td>
+<td class="org-left"><b><b>Having lied</b></b>, he felt ashamed.</td>
+</tr>
+
+<tr>
+<td class="org-left"><b><b>Position</b></b></td>
+<td class="org-left">Acts as subject, object, or complement</td>
+<td class="org-left">Often introduces a clause or modifies a noun</td>
+</tr>
+
+<tr>
+<td class="org-left"><b><b>Focus</b></b></td>
+<td class="org-left">The action itself as a concept</td>
+<td class="org-left">The actor and their state after the action</td>
+</tr>
+</tbody>
+</table>
+
+
+#### 🧘 Why It Matters in Usage
+
+-   **Perfect Gerund** emphasizes the **fact** that something was done, and treats it as a thing or concept.
+    -   “She denied **having stolen** the book.” → The denial is about the act itself.
+
+-   **Perfect Participle** sets up **context** for another action.
+    -   “\*Having stolen\* the book, she ran away.” → The stealing happened before the running.
 
 <script>
 document.addEventListener("DOMContentLoaded", function() {

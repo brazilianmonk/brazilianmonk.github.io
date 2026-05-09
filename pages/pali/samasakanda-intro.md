@@ -1,0 +1,460 @@
+---
+layout: page
+permalink: /summaries/pali/samasakanda-intro
+---
+
+# Samāsakaṇḍa &#x2013; Introduction
+<a id="org721b26e"></a>
+## Introduction
+
+explains how two or more nouns are combined to form a single one
+
+
+<a id="org18267f0"></a>
+
+### samāsa &#x2013; definition and characteristic
+
+
+
+-   definition
+    -   **samassate’ti samāso**: it is called compound because it is contracted or  abbreviated &#x2013; samāso padasaṅkhepo
+        -   **samāsapada**: a compound word in which all words and meanings are contracted into one
+-   characteristic
+    -   **bhinnatthānaṃ ekatthībhāvo samāsa-lakkhaṇaṃ**: the characteristic of a compound is that two or more words having different meanings become united into a single meaning
+
+rañño puriso (the king’s man)
+
+-   expanded in terms of:
+    -   words: since they are different separated words
+    -   meaning: since 2 different meanings are conveyed by 2 separate words
+        -   rañño: king
+        -   puriso: male servant
+
+rājapuriso
+
+-   contracted in terms of:
+    -   words: since it is 1 word
+    -   meaning: since it conveys a single meaning
+        -   king's son
+
+
+
+
+<a id="org296fbd3"></a>
+
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+### 2 payojana (purposes) of samāsa
+
+
+
+-   **ekapadatta** (single-wordness): multiple words become a single word
+-   **ekavibhattitta** (single-case-ending-ness): multiple words take a single case ending
+
+
+
+
+<a id="org4df53fe"></a>
+
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+### samāsa-forming words
+
+
+
+-   generally: words that take nāmavibhattis
+    -   **nāmas**
+    -   **nipātas**
+    -   **upasaggas** (have "non apparent" case endings)
+    -   note:
+        -   ākhyātapadas (verbs): generally do not form compounds but may do so if
+            -   used ruḷhīnāma (conventional nouns)
+                -   aññāsikoṇḍañño
+                -   makkhaligosālo
+            -   followed by iti 
+                -   anaññātaññassāmītindriyaṃ
+        -   suffixes, roots, and stems do not have vibhatti and are not part of speech
+
+
+
+-   acc. to meaning
+
+    
+    
+    -   **yuttattha**: related / connected meaning &#x2013; such words can form samāsas
+    -   **ayuttattha**: unrelated / unconnected meaning &#x2013; such words cannot form samāsas &#x2013; 2 types
+        -   **aññamañña anapekkha**: words that do not depend on each other
+            -   bhaṭo rañño putto devadattassa (the servant of the king is the son of devadatta)
+                -   rañño and putto: aññamañña anapekkha &#x2013; not “the king’s son” but “Devadatta’s son”
+        -   **añña sāpekkha**: words that depend on another separate word
+            -   devadattassa kaṇhā dantā (the black teeth of Devadatta)
+                -   devadattassa kaṇhā: could form a compound but not here
+                -   devadatta: añña sāpekkha &#x2013; it depends on dantā
+    -   kcyn: nāmanam samāso yuttattho (nouns having a connected or mutually related meaning can form compounds)
+    
+    
+
+
+<a id="org21f48eb"></a>
+
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+### construction of a samāsa
+
+
+
+-   remove case endings
+-   compund the stems
+-   add case ending
+
+
+
+
+<a id="org36e8092"></a>
+
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+### 2 samasana
+
+
+
+-   **saddasamasana** (word-contraction): multiple sounds, forms, words are contracted into one
+-   **atthasamasana** (meaning-contraction): multiple meanings become contracted into one
+
+
+
+
+<a id="org3996099"></a>
+
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+### samāsa vs sandhi
+
+
+
+-   **similarities**
+    -   words are joined together
+    -   written together
+-   **differences**
+    -   **samāsa**
+        -   multiple words become one word
+        -   case endings are dropped (usually)
+        -   e.g.: lokanto
+    -   **sandhi**
+        -   words remain separate words
+        -   case endings remain
+        -   phonetic changes for smoothness of pronunciation
+        -   e.g.: lokassanto
+        -   note: sandhi can occur within samāsa
+
+
+
+
+<a id="orgc9c404b"></a>
+
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+### samāsa vs taddhita
+
+
+
+-   **similarities**
+    -   result in a single word
+-   **differences**
+    -   samāsa: word + word &#x2013; samāso padasaṅkhepo
+    -   taddhita: word + suffix &#x2013; padappaccayasaṁhitaṁ taddhitaṁ
+
+
+
+
+<a id="orgf676786"></a>
+
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+### samāsa types
+
+-   acc. to elision
+
+    
+    
+    -   **luttasamāsa** (elided-compound): case endings are elided; both sadda- and attha-samasana occur
+        -   rañño puriso -> rājapuriso
+    -   **aluttasamāsa** (non-elided-compound): case endings are not elided; atthasamasana occurs but saddasamasana is not evident
+        -   dassanena pahātabbā -> dassanenapahātabbā
+    
+    
+
+-   6 samāsas
+
+    
+    
+    -   **avyayībhāva**
+        -   nagarassa samīpaṃ -> upanagaraṃ (vicinity of the city)
+    -   **kammadhāraya** 
+        -   mahanto puriso -> mahāpuriso (a great man)
+    -   **digu** 
+        -   tayo lokā -> tilokaṃ (the three worlds)
+    -   **tappurisa** 
+        -   araññaṃ gato -> araññagato (one who has gone to the forest)
+    -   **bahubbīhi** 
+        -   āgatā samaṇā imanti -> āgatasamaṇo (saṅghārāmo) (the monastery at which monks have arrived)
+    -   **dvandva** 
+        -   sāriputto ca moggallāno ca -> sāriputtamoggallānā (sāriputta and moggallāna)
+    
+    mem aid: work (kamma) ⇒ 2 cows (digu) ⇒ cowboy (tappurisa) ⇒ 2 & 2 (dvanda) ⇒ many paddy (bahubbīhi) ⇒ unchanging (avyayībhāva) 
+    
+
+
+<a id="org30ff7b3"></a>
+
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+### viggahavākya
+
+
+
+-   **viggahavākya / nibbacana / vacanattha / abhidhānattha**: etymological definition sentence that explains the meaning of the derived word
+    -   **visesena attho gayhati etenāti viggaho** (visesena gayhati): it is called a viggaha because the meaning (of the derived word) is specifically understood through this sentence
+
+
+
+-   nipphannapada and viggahavākya
+
+    
+    
+    -   **nipphannapada**: derived word
+    
+    <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+    
+    
+    <colgroup>
+    <col  class="org-left" />
+    
+    <col  class="org-left" />
+    </colgroup>
+    <thead>
+    <tr>
+    <th scope="col" class="org-left">nipphannapada</th>
+    <th scope="col" class="org-left">viggahavākya</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+    <td class="org-left">upanagaraṃ</td>
+    <td class="org-left">nagarassa samīpaṃ</td>
+    </tr>
+    
+    <tr>
+    <td class="org-left">mahāpuriso</td>
+    <td class="org-left">mahanto puriso</td>
+    </tr>
+    
+    <tr>
+    <td class="org-left">tilokaṃ</td>
+    <td class="org-left">tayo lokā</td>
+    </tr>
+    
+    <tr>
+    <td class="org-left">araññagato</td>
+    <td class="org-left">araññaṃ gato</td>
+    </tr>
+    
+    <tr>
+    <td class="org-left">āgatasamaṇo</td>
+    <td class="org-left">āgatā samaṇā imanti</td>
+    </tr>
+    
+    <tr>
+    <td class="org-left">sāriputtamoggallānā</td>
+    <td class="org-left">sāriputto ca moggallāno ca</td>
+    </tr>
+    </tbody>
+    </table>
+    
+    
+
+-   3 viggahas
+
+    
+    
+    -   **samāsa viggaha**
+    -   **taddhita viggaha**
+    -   **kitaka viggaha**
+        (*:q: clarify*)
+    
+    
+
+-   2 purposes for viggahavākya
+
+    
+    
+    -   clarify the meaning of the compound
+    -   show the type of compound
+    
+    
+
+
+<a id="orgec4c404"></a>
+
+---
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  // Add styles for collapsible TOC
+  const style = document.createElement("style");
+  style.textContent = `
+    .table-of-contents {
+      background: #f5f5f0;
+      padding: 1rem 1.5rem;
+      border-radius: 8px;
+      margin-bottom: 2rem;
+      border-left: 4px solid #8B4513;
+    }
+    .table-of-contents h2 {
+      margin-top: 0;
+      font-size: 1.3rem;
+    }
+    .table-of-contents ul {
+      margin-bottom: 0;
+      padding-left: 1.2rem;
+    }
+    .table-of-contents li {
+      margin: 0.3rem 0;
+      list-style-type: none;
+    }
+    .table-of-contents a {
+      text-decoration: none;
+      color: #2c5e2e;
+    }
+    .table-of-contents a:hover {
+      text-decoration: underline;
+    }
+    /* Collapsible section styles */
+    .toc-h2-item {
+      margin-top: 0.5rem;
+    }
+    .toc-h2-link {
+      cursor: pointer;
+      display: inline-block;
+    }
+    .toc-toggle {
+      cursor: pointer;
+      display: inline-block;
+      width: 20px;
+      font-size: 0.9rem;
+      font-weight: bold;
+      color: #8B4513;
+      user-select: none;
+      margin-right: 6px;
+      text-align: center;
+    }
+    .toc-toggle:hover {
+      color: #2c5e2e;
+    }
+    .toc-h3-list {
+      margin-left: 26px;
+      padding-left: 0;
+      transition: all 0.2s ease;
+    }
+    .toc-h3-list.collapsed {
+      display: none;
+    }
+  `;
+  document.head.appendChild(style);
+  
+  // Generate TOC
+  const headings = document.querySelectorAll("h2, h3");
+  if (headings.length === 0) return;
+  
+  const toc = document.createElement("div");
+  toc.className = "table-of-contents";
+  toc.innerHTML = "<h2>📖</h2><ul></ul>";
+  const tocList = toc.querySelector("ul");
+  
+  let currentH2Item = null;
+  let currentH3List = null;
+  
+  headings.forEach(heading => {
+    if (heading.closest(".table-of-contents")) return;
+    
+    if (!heading.id) {
+      heading.id = heading.textContent
+        .toLowerCase()
+        .replace(/[🇧🇷🇪🇸🇬🇧]/g, "")
+        .replace(/[^\w\s-]/g, "")
+        .replace(/\s+/g, "-");
+    }
+    
+    if (heading.tagName === "H2") {
+      // Create container for this H2 section
+      const li = document.createElement("li");
+      li.className = "toc-h2-item";
+      
+      // Add toggle arrow
+      const toggle = document.createElement("span");
+      toggle.className = "toc-toggle";
+	toggle.textContent = "▶";  // Collapsed by default
+      toggle.setAttribute("aria-label", "Collapse section");
+      
+      // Add the H2 link
+      const a = document.createElement("a");
+      a.href = `#${heading.id}`;
+      a.textContent = heading.textContent;
+      a.className = "toc-h2-link";
+      
+      // Container for H3 items (to be filled later)
+      const h3Container = document.createElement("ul");
+      h3Container.className = "toc-h3-list";
+	h3Container.classList.add("collapsed");
+      
+	// Assemble
+      li.appendChild(toggle);
+      li.appendChild(a);
+      li.appendChild(h3Container);
+      tocList.appendChild(li);
+      
+      // Store references
+      currentH2Item = li;
+      currentH3List = h3Container;
+      
+      // Add click toggle functionality
+      const toggleSection = () => {
+        const isCollapsed = h3Container.classList.contains("collapsed");
+        if (isCollapsed) {
+          h3Container.classList.remove("collapsed");
+          toggle.textContent = "▼";
+          toggle.setAttribute("aria-label", "Collapse section");
+        } else {
+          h3Container.classList.add("collapsed");
+          toggle.textContent = "▶";
+          toggle.setAttribute("aria-label", "Expand section");
+        }
+      };
+      
+      toggle.addEventListener("click", function(e) {
+        e.preventDefault();
+        e.stopPropagation();
+        toggleSection();
+      });
+      
+      a.addEventListener("click", function(e) {
+        // Allow normal anchor behavior, but also toggle if desired?
+        // Comment out the next line if you want clicking the link to ALSO toggle
+        // e.preventDefault(); 
+        // Uncomment below to toggle when clicking the link text too
+        // toggleSection();
+        // Then scroll to heading
+        // document.getElementById(heading.id).scrollIntoView({ behavior: "smooth" });
+      });
+      
+    } else if (heading.tagName === "H3" && currentH3List) {
+      // Add H3 item under current H2
+      const li = document.createElement("li");
+      const a = document.createElement("a");
+      a.href = `#${heading.id}`;
+      a.textContent = heading.textContent;
+      li.appendChild(a);
+      currentH3List.appendChild(li);
+    }
+  });
+  
+  // Insert TOC at the beginning of the page
+  const firstHeading = document.querySelector("h1, h2");
+  if (firstHeading) {
+    firstHeading.parentNode.insertBefore(toc, firstHeading);
+  } else {
+    document.body.insertBefore(toc, document.body.firstChild);
+  }
+});
+</script>

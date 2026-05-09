@@ -8,8 +8,6 @@ permalink: /summaries
 
 Here, you'll find my Dhamma notes and summaries. These are primarily derived, for now, from the Theravāda Buddhist teachings offered at [IIT](https://www.theravado.com/). You can also check [my RemNote Profile](https://www.remnote.com/profile/brazilianmonk) or [my Academia Profile](https://independent.academia.edu/BrazilianMonkAriya%C3%B1%C4%81%E1%B9%87a).
 
-![image](../../assets/img/summaries-img.jpg)
-
 ### Pāḷi Language
 
 #### Pāḷi Pāṭha Sikkhā by Bh. Vijitānanda
@@ -20,13 +18,26 @@ Here, you'll find my Dhamma notes and summaries. These are primarily derived, fo
 #### [Saṅketarāsi](/summaries/pali/niruttidipani-sanketarasi)
 #### [Sandhividhāna](/summaries/pali/niruttidipani-sandhividhana)
 #### [Nāmakaṇḍa](/summaries/pali/namakanda)
-#### [Kārakakaṇḍa](/summaries/pali/karakakanda)
-
+#### Kārakakaṇḍa
+- [Introduction](/summaries/pali/karakakanda-intro)
+- [Meanings of Paṭhamāvibhatti](/summaries/pali/karakakanda-pathama)
+- [Meanings of Dutiyāvibhatti](/summaries/pali/karakakanda-dutiya)
+- [Meanings of Tatiyāvibhatti](/summaries/pali/karakakanda-tatiya)
+- [Meanings of Catutthīvibhatti](/summaries/pali/karakakanda-catutthi)
+- [Meanings of Pañcamīvibhatti](/summaries/pali/karakakanda-pancami)
+- [Meanings of Chaṭṭhīvibhatti](/summaries/pali/karakakanda-chatthi)
+- [Meanings of Sattamīvibhatti](/summaries/pali/karakakanda-sattami)
+- [Appendix](/summaries/pali/karakakanda-appendix)
+#### Samāsakaṇḍa
+- [Introduction](/summaries/pali/samasakanda-intro)
+- [Abyayībhāvasamāsa](/summaries/pali/samasakanda-abyayibhava)
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
 ### Abhidhamma
-(wip)
+
+- [Kappas: 4 types](/summaries/abhidhamma/kappa)
+
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
 ### Vinaya
@@ -62,7 +73,7 @@ After a good amount of research, this is the grammar source I settled for. There
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
-<img src="/assets/img/busuu.jpg" alt="description" style="width: 50%; border-radius: 8px;">
+<img src="/assets/img/busuu.jpg" alt="description" style="width: 30%; border-radius: 8px;">
 
 ### [**Busuu**](https://www.busuu.com/)
 This is a website / app that can help you learn the basics and get exposed to the language in general. As a sole tool, it is not enough, so I recommend it as a supplement for brainsoaking.
@@ -83,6 +94,18 @@ This is a website / app that can help you learn the basics and get exposed to th
 	
 - [**Relative Clauses - PDF summary in depth**](/assets/relative_clauses_summary.pdf)
 - [**Structure of All Tenses**](/summaries/eng/all-tenses)
+- [**How Come**](/summaries/eng/how-come)
+- [**Present Perfect Simple vs. Continuous**](/summaries/eng/present-perfect-simple-vs-continuous)
+- [**To + ing Cases**](/summaries/eng/to-ing-cases)
+- [**Lay down vs. Lie down**](/summaries/eng/lay-down-vs-lie-down)
+- [**Participial Adjective vs. Passive Voice**](/summaries/eng/participial-adjective-vs-passive)
+- [**Do, make, do make, make do**](/summaries/eng/do-make)
+- [**Participial Clauses**](/summaries/eng/participial-clauses)
+- [**Adjective Order**](/summaries/eng/adjective-order)
+- [**Gerund vs. Present Participle**](/summaries/eng/gerund-vs-present-participle)
+- [**Absolute Phrases**](/summaries/eng/absolute-phrases)
+- [**Serious Writing Mistakes**](/summaries/eng/serious-writing-mistakes)
+
 
 --- 
 
