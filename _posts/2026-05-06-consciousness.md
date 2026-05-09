@@ -39,6 +39,10 @@ Material (physical) phenomena are not capable of fulfilling these functions of c
 
 
 
+
+
+
+
 ## 🇪🇸 Español
 ### Conciencia
 La conciencia es aquello que cogniza. Es un fenómeno de naturaleza inmaterial, por lo tanto, no posee forma, color, etc., que son características materiales. La mente no es un fenómeno eterno o inmutable, sino impermanente y temporal. Cuando ocurre un momento de cognición, no dura más que un breve instante y es seguido por otro momento de cognición, sin intervalo entre ellos. Este segundo momento mental también dura solo un instante, cesa y es seguido por otro momento mental. Así, los momentos mentales ocurren uno tras otro en un flujo rapidísimo, creando lo que parece ser un flujo estable de conciencia.
