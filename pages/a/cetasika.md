@@ -3,7 +3,7 @@ layout: page
 permalink: /summaries/abhidhamma/cetasika
 ---
 
-## Cetasikas
+## Cetasika
 ### Definition
 *Cetasibhavaṃ cetasikaṃ* — they are called cetasikas since they exist in consciousness.
 
@@ -53,9 +53,6 @@ One citta together with its concomitant cetasikas are collectively called cittup
 ### Minimum Number of Nāmas / Rūpas Occurring Together
 - 8 nāmas
 - 8 rūpas
-
----
-
 
 ---
 <script>

@@ -4,55 +4,49 @@ permalink: /summaries/abhidhamma/attha
 ---
 
 # Attha
-## Chart: Hīnattha & Paramattha
-### Hīnattha
+## Attha Chart
+<pre style="font-family: monospace; line-height: 1.4;">
+Hīnattha (Paññatti, Paṇṇatti)
+├── Attha Paññatti
+└── Nāma Paññatti
 
-- **Attha Paññatti**: saṇṭhāna, samūha, disā, kāla, ākāsa, nimitta...
-- **Nāma Paññatti**: vijjamāna, avijjamāna, vijjamānena avijjamāna, avijjamānena vijjamāna, vijjamānena vijjamāna, avijjamānena avijjamāna
-
+Paramattha
+├── Saṅkhata Paramattha
+│   ├── Paramatthadhammā
+│   │   ├── Arūpa → Nāma
+│   │   │   ├── Citta
+│   │   │   │   ├── Citta
+│   │   │   │   ├── Cittuppāda
+│   │   │   │   ├── Cittakkhaṇa
+│   │   │   │   ├── Anucittakkhaṇa
+│   │   │   │   ├── Cittavīthi
+│   │   │   │   ├── Cittasantati
+│   │   │   │   └── Cittasantāna
+│   │   │   └── Cetasika
+│   │   └── Rūpa
+│   │       ├── Rūpa
+│   │       ├── Rūpakalāpa
+│   │       ├── Ruppana
+│   │       ├── Rūpasantati
+│   │       ├── Rūpasarīra
+│   │       └── Rūpasantāna
+│   ├── Sampayogalakkhaṇa (ekuppāda, ekanirodha, ekālambana, ekavatthuka)
+│   ├── Cittuppāda / Nāmakalāpa
+│   ├── Nibbāna
+│   ├── Paramatthajātikā
+│   ├── Anuppannadhammā
+│   └── Uppādino dhammā
+│
+└── Asaṅkhata Paramattha: Nibbāna
+    ├── Sammuti Nibbāna (not paramattha → hīnattha)
+    ├── Tadaṅga Nibbāna (as substitution of factors)
+    ├── Vikkhambana Nibbāna (as suppression)
+    ├── Samuccheda Nibbāna (as eradication)
+    ├── Nissaraṇa Nibbāna (as escape [magga])
+    ├── Paṭipassaddhi Nibbāna (as appeasement [phala])
+    └── Micchādiṭṭhi Nibbāna
+</pre>
 ---
-### Paramattha
-#### Saṅkhata Paramattha
-- Paramatthadhammā
-  - Arūpa
-	  - Nāma
-		  - Citta 
-			- Citta
-			- Cittuppāda
-			- Cittakkhaṇa
-			- Anucittakkhaṇa
-			- Cittavīthi
-			- Cittasantati
-			- Cittasantāna
-	 - Cetasika
-- Sampayogalakkhaṇa (ekuppāda, ekanirodha, ekālambana, ekavatthuka)
-- Cittuppāda / Nāmakalāpa
-  - Nibbāna
-- Rūpa
-  - Rūpa
-  - Rūpakalāpa
-  - Ruppana
-  - Rūpasantati
-  - Rūpasarīra
-  - Rūpasantāna
-
----
-
-- paramatthajātikā
-- anuppannadhammā
-- uppādino dhammā
-
-#### Asaṅkhata Paramattha: Nibbāna
-- (Sammuti Nibbāna (not paramattha))
-- Tadaṅga Nibbāna (as substitution of factors)
-- Vikkhambana Nibbāna (as suppression)
-- Samuccheda Nibbāna (as eradication)
-- Nissaraṇa Nibbāna (as escape [magga])
-- Paṭipassaddhi Nibbāna (as appeasement [phala])
-- Micchādiṭṭhi Nibbāna
-
----
-
 ## What is Attha?
 
 Realities; any objects that can be known by the mind (anything, including ultimate realities and concepts).
@@ -70,8 +64,11 @@ When an attha is known by the mind, it is felt as existing.
 
 ---
 
-## Hīnattha
 
+
+
+
+## Hīnattha
 ### What are Hīnatthas?
 
 - **Mind-made**: realities that are created by certain types of cittas
@@ -126,7 +123,6 @@ No, hīnatthas do not have kiccarasa.
 ---
 
 ## Paramattha
-
 ### What are Paramatthas?
 
 - **Objective**: realities that exist without depending on a subject

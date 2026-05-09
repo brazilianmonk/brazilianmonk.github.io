@@ -37,9 +37,12 @@ Here, you'll find my Dhamma notes and summaries. These are primarily derived, fo
 ### Abhidhamma
 
 - [Attha, hīnattha, paramattha](/summaries/abhidhamma/attha)
-- [Paramattha and Citta]()
-- [Kappas: 4 types](/summaries/abhidhamma/kappa)
-- 
+- Citta
+  - [Introduction](/summaries/abhidhamma/citta-intro)
+  - [Akusalacittas](/summaries/abhidhamma/citta-akusala)
+- Cetasikas
+  - [Introduction](/summaries/abhidhamma/cetasika)
+- [Kappas: 4 types](/summaries/abhidhamma/kappa) 
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
