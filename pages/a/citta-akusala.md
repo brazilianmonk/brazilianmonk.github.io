@@ -1,6 +1,5 @@
 ---
 layout: page
-title: 
 permalink: /summaries/abhidhamma/citta-akusala
 ---
 
