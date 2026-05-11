@@ -29,10 +29,9 @@
 <script src="https://cdn.jsdelivr.net/npm/simple-jekyll-search@1.10.0/dest/simple-jekyll-search.min.js"></script>
 
 <script>
-  // Using window.onload ensures the library is fully parsed by the browser
-  window.onload = function() {
-    // We force the path to be absolute to prevent GitHub Pages sub-folder errors
-    var searchPath = '{{ site.url }}{{ site.baseurl }}/search.json';
+  window.addEventListener('load', function() {
+    // This combines your new config settings to find the file perfectly
+    var searchPath = "{{ site.url }}{{ site.baseurl }}/search.json";
     
     var sjs = SimpleJekyllSearch({
       searchInput: document.getElementById('nav-search-input'),
@@ -44,7 +43,6 @@
       fuzzy: false
     });
 
-    // Helpful for debugging - check your browser console (F12) to see this
-    console.log("SimpleJekyllSearch initialized at: " + searchPath);
-  };
+    console.log("Search initialized at: " + searchPath);
+  });
 </script>
