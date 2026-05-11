@@ -11,8 +11,7 @@ permalink: /search.json
       "url"      : {{ item.url | relative_url | jsonify }},
       "date"     : "{{ item.date | date: '%B %d, %Y' }}",
       "content"  : {{ item.content | strip_html | strip_newlines | jsonify }}
-    }
-    {% unless forloop.last %},{% endunless %}
+    }{% if forloop.last %}{% else %},{% endif %}
     {% endif %}
   {% endfor %}
 ]
