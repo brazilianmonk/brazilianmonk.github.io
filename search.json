@@ -4,10 +4,10 @@ layout: none
 [
   {% assign all_content = site.posts | concat: site.pages %}
   {% for item in all_content %}
-    {% if item.title %}
+    {% if item.title and item.search != false %}
     {
-      "title"    : "{{ item.title | escape }}",
-      "url"      : "{{ item.url | relative_url }}",
+      "title"    : {{ item.title | jsonify }},
+      "url"      : {{ item.url | relative_url | jsonify }},
       "date"     : "{{ item.date | date: '%B %d, %Y' }}",
       "content"  : {{ item.content | strip_html | strip_newlines | jsonify }}
     }
