@@ -27,20 +27,24 @@
   </div>
 </header>
 
-<script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/simple-jekyll-search@1.10.0/dest/simple-jekyll-search.min.js"></script>
 
 <script>
-  // This ensures the script waits for the browser to finish loading the HTML
   document.addEventListener("DOMContentLoaded", function() {
-    var sjs = SimpleJekyllSearch({
+    // We use Jekyll to print the exact URL to the console to help you debug
+    var searchJsonPath = '{{ site.baseurl }}/search.json';
+    
+    SimpleJekyllSearch({
       searchInput: document.getElementById('nav-search-input'),
       resultsContainer: document.getElementById('results-container'),
-      // Using relative_url ensures GitHub Pages finds the file correctly
-      json: '{{ "/search.json" | relative_url }}',
-      searchResultTemplate: '<li><a href="{url}"><span class="res-t">{title}</span><span class="res-d">{date}</span></a></li>',
+      json: searchJsonPath,
+      // Simplified template to ensure no syntax errors break the render
+      searchResultTemplate: '<li><a href="{url}"><span class="res-t">{title}</span></a></li>',
       noResultsText: '<li class="no-res">No results found</li>',
       limit: 10,
       fuzzy: false
     });
+    
+    console.log("Search initialized with path: " + searchJsonPath);
   });
 </script>
