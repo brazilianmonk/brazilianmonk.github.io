@@ -99,7 +99,10 @@ My gratitude to my parents and Dhamma teachers:
 - Ven. Sayadaw Kovida
 - Ven. Watagoda Maggavihāri 
 - Ven. Vijitānanda
-- Ven. 
+- Ven. Devānanda
+- Ven. Siddhatthālaṅkāra
+- Ven. Laos Sumana
+- Ven. Obhāsa
 
 ---
 
