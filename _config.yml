@@ -1,4 +1,6 @@
 # Site Build Settings
+url: "https://brazilianmonk.github.io"
+baseurl: ""
 
 # jekyll-paginate configuration
 paginate:            5
