@@ -26,45 +26,50 @@
     </div>
   </div>
 </header>
-<script src="https://cdn.jsdelivr.net/npm/simple-jekyll-search@1.10.0/dest/simple-jekyll-search.min.js"></script>
 
 <script>
-  window.addEventListener('load', function() {
-    // Build search path
-    var searchPath = "{{ site.url }}{{ site.baseurl }}/search.json";
-    console.log("Search path:", searchPath);
+  // Simple search implementation
+  let searchData = [];
+
+  // Fetch and initialize search data
+  fetch('/search.json')
+    .then(response => response.json())
+    .then(data => {
+      searchData = data;
+      console.log("Search initialized with " + data.length + " items");
+    })
+    .catch(error => {
+      console.error("Error loading search data:", error);
+    });
+
+  // Search input event listener
+  const searchInput = document.getElementById('nav-search-input');
+  const resultsContainer = document.getElementById('results-container');
+
+  searchInput.addEventListener('input', function() {
+    const query = this.value.toLowerCase().trim();
     
-    // Check if search.json exists
-    fetch(searchPath)
-      .then(response => {
-        console.log("Fetch response status:", response.status);
-        if (!response.ok) {
-          throw new Error('search.json not found at ' + searchPath);
-        }
-        return response.json();
-      })
-      .then(data => {
-        console.log("Search data loaded. Items found:", data.length);
-        if (data.length === 0) {
-          console.warn("Warning: search.json is empty. No posts or pages found.");
-        }
-        
-        // Initialize search
-        var sjs = SimpleJekyllSearch({
-          searchInput: document.getElementById('nav-search-input'),
-          resultsContainer: document.getElementById('results-container'),
-          json: searchPath,
-          searchResultTemplate: '<li><a href="{url}"><span class="res-t">{title}</span><span class="res-d">{date}</span></a></li>',
-          noResultsText: '<li class="no-res" style="padding:10px; color: #999;">No results found</li>',
-          limit: 10,
-          fuzzy: false
-        });
-        
-        console.log("Search initialized successfully!");
-      })
-      .catch(error => {
-        console.error("Search initialization error:", error);
-        alert("Search failed to load. Check browser console for details.");
-      });
+    if (query.length === 0) {
+      resultsContainer.innerHTML = '';
+      return;
+    }
+
+    const results = searchData.filter(item => {
+      const title = item.title.toLowerCase();
+      const content = item.content.toLowerCase();
+      return title.includes(query) || content.includes(query);
+    });
+
+    // Display results
+    if (results.length === 0) {
+      resultsContainer.innerHTML = '<li class="no-res" style="padding:10px; color: #999;">No results found</li>';
+    } else {
+      resultsContainer.innerHTML = results
+        .slice(0, 10)
+        .map(result => {
+          return `<li><a href="${result.url}"><span class="res-t">${result.title}</span><span class="res-d">${result.date}</span></a></li>`;
+        })
+        .join('');
+    }
   });
 </script>
