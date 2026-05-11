@@ -2,14 +2,16 @@
 layout: none
 ---
 [
-  {% for post in site.posts %}
+  {% assign all_content = site.posts | concat: site.pages %}
+  {% for item in all_content %}
+    {% if item.title %}
     {
-      "title"    : "{{ post.title | escape }}",
-      "url"      : "{{ site.baseurl }}{{ post.url }}",
-      "category" : "{{ post.categories | join: ', ' }}",
-      "date"     : "{{ post.date }}",
-      "content"  : {{ post.content | strip_html | strip_newlines | jsonify }}
+      "title"    : "{{ item.title | escape }}",
+      "url"      : "{{ item.url | relative_url }}",
+      "date"     : "{{ item.date | date: '%B %d, %Y' }}",
+      "content"  : {{ item.content | strip_html | strip_newlines | jsonify }}
     }
     {% unless forloop.last %},{% endunless %}
+    {% endif %}
   {% endfor %}
 ]
