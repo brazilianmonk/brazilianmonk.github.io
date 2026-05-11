@@ -35,6 +35,15 @@
 
 .reading-time {
   display: inline-block;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+/* Stylized clock icon within the reading time */
+.reading-time i {
+  font-size: 0.85rem;
+  opacity: 0.8;
 }
 
 /* --- Article Typography --- */
