@@ -188,4 +188,9 @@
 .res-d:empty {
   display: none;
 }
+#results-container {
+  z-index: 9999 !important;
+  background-color: white !important;
+  display: block !important;
+}
 
