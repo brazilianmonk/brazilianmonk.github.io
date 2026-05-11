@@ -89,6 +89,20 @@ permalink: /about
 
 ---
 
+## My Teachers
+
+My gratitude to my parents and Dhamma teachers:
+
+- Ven. Pa Auk Sayadaw Aciṇṇa
+- Ven. Sayadaw Kumārābhivaṃsa
+- Ven. Sīladassana
+- Ven. Sayadaw Kovida
+- Ven. Watagoda Maggavihāri 
+- Ven. Vijitānanda
+- Ven. 
+
+---
+
 ## About the Site
 
 I began this website as an **experiment**. I'm not sure how useful it will be, but I think that, among other things, it might help me:
