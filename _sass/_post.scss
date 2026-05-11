@@ -1,16 +1,21 @@
+/* --- Base Post Container --- */
 .post-content {
   max-width: 800px;
   width: 90%;
   display: block;
   margin: 2rem auto;
-  padding: 0 1rem;
+  padding: 2rem; /* Increased padding for a cleaner look */
   background-color: #fff;
   border-radius: 12px;
   box-shadow: 0 1px 3px rgba(0,0,0,0.1);
 }
 
-.post-date {
-  display: inline-block;
+/* --- Consolidated Header Meta (Date & Reading Time) --- */
+.post-header-meta {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
   margin-bottom: 1.5rem;
   color: #9a9a9a;
   font-size: 0.9rem;
@@ -20,9 +25,33 @@
   border-bottom: 2px solid #eaecef;
 }
 
+/* Resetting styles for the included date component to align with meta row */
+.post-header-meta .post-date {
+  margin-bottom: 0;
+  border-bottom: none;
+  padding-bottom: 0;
+  display: inline-block;
+}
+
+.reading-time {
+  display: inline-block;
+}
+
+/* --- Article Typography --- */
+article {
+  line-height: 1.8; /* Improves readability of dense text */
+  font-size: 1.1rem;
+  color: #333;
+}
+
+article h2, article h3 {
+  margin-top: 2rem;
+  color: #111;
+}
+
 /* Featured Image - Fully Responsive */
 .featured-image {
-  margin: 1.5rem -1rem 2rem -1rem;
+  margin: 1.5rem -2rem 2rem -2rem; /* Pulls image to edges of container */
   overflow: hidden;
 }
 
@@ -33,11 +62,10 @@
   object-fit: cover;
   margin: 0 auto;
   display: block;
-  border-radius: 12px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.15);
 }
 
-/* Image galleries or multiple images */
+/* General images inside the post */
 .post-content img {
   max-width: 100%;
   height: auto;
@@ -47,7 +75,7 @@
   box-shadow: 0 2px 8px rgba(0,0,0,0.1);
 }
 
-/* Post Share Section */
+/* --- Post Share Section --- */
 .post-share {
   padding: 1.5rem 0 1rem;
   margin-top: 2rem;
@@ -62,20 +90,16 @@
   background-color: #f5f5f5;
   border-radius: 6px;
   transition: background-color 0.2s ease;
+  text-decoration: none;
+  color: #555;
 }
 
 .sharing-icons a:hover {
-  background-color: $brand-color;
-  
-  i, svg {
-    color: #fff;
-  }
+  background-color: #333; /* Replace with $brand-color if using Sass variable */
+  color: #fff;
 }
 
-/*
-  Related Posts
-*/
-
+/* --- Related Posts --- */
 .related {
   padding: 1.5rem 0 2rem;
   margin-top: 1rem;
@@ -87,25 +111,6 @@
   font-size: 1.4rem;
 }
 
-.related ul, .related ol, .related dl {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-}
-
-.related li {
-  margin-bottom: 1.5rem;
-  padding: 0.75rem;
-  background-color: #f9f9f9;
-  border-radius: 8px;
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
-}
-
-.related li:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-}
-
 .related-posts {
   padding: 0;
   list-style: none;
@@ -114,54 +119,52 @@
   gap: 1.5rem;
 }
 
+.related li {
+  margin-bottom: 0;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  overflow: hidden;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.related li:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
 .related-thumbnail {
   position: relative;
   width: 100%;
   height: 180px;
   overflow: hidden;
-  border-radius: 8px 8px 0 0;
-  margin-bottom: 0.75rem;
 }
 
 .related-thumbnail img {
-  position: absolute;
-  left: 50%;
-  top: 50%;
   width: 100%;
   height: 100%;
   object-fit: cover;
-  transform: translate(-50%, -50%);
   margin: 0;
 }
 
 .related-title {
   display: block;
-  padding: 0.5rem 0.75rem 0.75rem;
-  font-family: $base-font-family;
+  padding: 1rem;
   font-weight: 600;
   font-size: 1rem;
   color: #333;
+  text-decoration: none;
 }
 
-.related-title a {
-  color: inherit;
-}
-
-.related-title a:hover {
-  color: $brand-color;
-}
-
-/* Responsive Design for Posts */
+/* --- Responsive Design --- */
 @media (max-width: 768px) {
   .post-content {
     width: 95%;
     margin: 1rem auto;
-    padding: 0 0.75rem;
-    border-radius: 8px;
+    padding: 1rem;
   }
   
   .featured-image {
-    margin: 1rem -0.75rem 1.5rem -0.75rem;
+    margin: 1rem -1rem 1.5rem -1rem;
   }
   
   .featured-image img {
@@ -172,29 +175,15 @@
     grid-template-columns: 1fr;
     gap: 1rem;
   }
-  
-  .related-thumbnail {
-    height: 160px;
-  }
-  
-  .post-share {
-    padding: 1rem 0;
-  }
-  
-  .sharing-icons a {
-    padding: 0.4rem 0.6rem;
-    font-size: 0.9rem;
-  }
 }
 
 @media (max-width: 480px) {
   .post-content {
     width: 100%;
-    margin: 0 auto;
-    padding: 0 0.75rem;
+    margin: 0;
+    padding: 1rem 0.75rem;
     border-radius: 0;
     box-shadow: none;
-    background-color: #fff;
   }
   
   .featured-image {
@@ -204,18 +193,5 @@
   .featured-image img {
     max-height: 250px;
     border-radius: 0;
-  }
-  
-  .post-date {
-    font-size: 0.8rem;
-  }
-  
-  .related-thumbnail {
-    height: 140px;
-  }
-  
-  .sharing-icons a {
-    padding: 0.35rem 0.5rem;
-    margin: 0 0.15rem;
   }
 }
