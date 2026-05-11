@@ -26,25 +26,25 @@
     </div>
   </div>
 </header>
-
 <script src="https://cdn.jsdelivr.net/npm/simple-jekyll-search@1.10.0/dest/simple-jekyll-search.min.js"></script>
 
 <script>
-  document.addEventListener("DOMContentLoaded", function() {
-    // We use Jekyll to print the exact URL to the console to help you debug
-    var searchJsonPath = '{{ site.baseurl }}/search.json';
+  // Using window.onload ensures the library is fully parsed by the browser
+  window.onload = function() {
+    // We force the path to be absolute to prevent GitHub Pages sub-folder errors
+    var searchPath = '{{ site.url }}{{ site.baseurl }}/search.json';
     
-    SimpleJekyllSearch({
+    var sjs = SimpleJekyllSearch({
       searchInput: document.getElementById('nav-search-input'),
       resultsContainer: document.getElementById('results-container'),
-      json: searchJsonPath,
-      // Simplified template to ensure no syntax errors break the render
+      json: searchPath,
       searchResultTemplate: '<li><a href="{url}"><span class="res-t">{title}</span></a></li>',
-      noResultsText: '<li class="no-res">No results found</li>',
+      noResultsText: '<li class="no-res" style="padding:10px; color: #999;">No results found</li>',
       limit: 10,
       fuzzy: false
     });
-    
-    console.log("Search initialized with path: " + searchJsonPath);
-  });
+
+    // Helpful for debugging - check your browser console (F12) to see this
+    console.log("SimpleJekyllSearch initialized at: " + searchPath);
+  };
 </script>
