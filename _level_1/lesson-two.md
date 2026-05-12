@@ -33,8 +33,8 @@ content of lesson 2 of lvl 1
 function unlockLesson() {
   var pass = document.getElementById("lesson-pass").value.trim().toUpperCase();
   
-  // THE KEY: Change "DHAMMA1" to the code from the PREVIOUS lesson's quiz
-  if (pass === "DHAMMA1") {
+  // THE KEY: Change it to the code from the PREVIOUS lesson's quiz
+  if (pass === "CITTA") {
     document.getElementById("lesson-gate").style.display = "none";
     document.getElementById("lesson-content").style.display = "block";
     localStorage.setItem("unlocked_l1_s2", "true");
