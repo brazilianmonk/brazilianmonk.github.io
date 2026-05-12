@@ -2,6 +2,7 @@
 layout: lesson
 title: "The Four Noble Truths"
 order: 1
+level: 1
 ---
 
 # Welcome to Level 1
