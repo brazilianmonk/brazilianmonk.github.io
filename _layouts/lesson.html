@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<div class="course-container">
+  <header class="lesson-header">
+    <p><a href="/course/">← Back to Course Overview</a></p>
+    <h1>{{ page.title }}</h1>
+    <hr>
+  </header>
+
+  <article class="lesson-content">
+    {{ content }}
+  </article>
+
+  <footer class="lesson-footer">
+    <hr>
+    <div style="display: flex; justify-content: space-between;">
+      {% if page.order > 1 %}
+        <p>Previous lesson is back on the <a href="/course/">Overview</a></p>
+      {% endif %}
+      
+      <p><strong>Status:</strong> Level {{ page.level | default: "1" }}</p>
+    </div>
+  </footer>
+</div>
