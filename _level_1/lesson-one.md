@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: lesson
 title: "The Four Noble Truths"
 order: 1
 ---
