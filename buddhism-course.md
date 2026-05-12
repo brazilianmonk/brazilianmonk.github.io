@@ -9,9 +9,10 @@ This course is designed in three levels to guide you through the essentials of B
 
 ### Level 1: The Essentials
 <ul>
-  {% for lesson in site.level_1 %}
+  {% assign sorted_lessons = site.level_1 | sort: 'order' %}
+  {% for lesson in sorted_lessons %}
     <li>
-      <a href="{{ lesson.url }}">{{ lesson.title }}</a>
+      <a href="{{ lesson.url | relative_url }}">{{ lesson.title | default: "Untitled Lesson" }}</a>
     </li>
   {% endfor %}
 </ul>
