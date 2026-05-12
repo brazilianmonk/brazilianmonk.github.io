@@ -4,7 +4,6 @@ title: "The Eightfold Path"
 order: 2
 level: 1
 ---
-content of lesson 2 of lvl 1
 
 <!-- 1. The Password Gate -->
 <div id="lesson-gate" style="background: #f4f4f4; padding: 25px; border-radius: 10px; text-align: center; border: 2px dashed #ccc;">
@@ -20,6 +19,7 @@ content of lesson 2 of lvl 1
 
   ## Understanding the Path
   (This is where your actual lesson content goes...)
+content of lesson 2 of level 1
 
   <hr>
   
