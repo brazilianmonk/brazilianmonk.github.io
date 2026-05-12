@@ -25,7 +25,7 @@ content of lesson 2 of level 1
   
   ### Lesson 2 Quiz
   <!-- Embed your Google Form for THIS lesson here -->
-  <iframe src="YOUR_GOOGLE_FORM_LINK_FOR_LESSON_2" width="100%" height="500"></iframe>
+  
 
 </div>
 
@@ -37,14 +37,14 @@ function unlockLesson() {
   if (pass === "CITTA") {
     document.getElementById("lesson-gate").style.display = "none";
     document.getElementById("lesson-content").style.display = "block";
-    localStorage.setItem("unlocked_l1_s2", "true");
+    localStorage.setItem("unlocked_lvl1_l2", "true");
   } else {
     document.getElementById("err").style.display = "block";
   }
 }
 
 // Auto-unlock if they've done it before
-if (localStorage.getItem("unlocked_l1_s2") === "true") {
+if (localStorage.getItem("unlocked_lvl1_l2") === "true") {
   document.getElementById("lesson-gate").style.display = "none";
   document.getElementById("lesson-content").style.display = "block";
 }
