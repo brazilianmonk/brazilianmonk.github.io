@@ -2,16 +2,10 @@
 layout: null
 permalink: /search.json
 ---
-[
-  {% assign all_content = site.posts | concat: site.pages %}
-  {% for item in all_content %}
-    {% if item.title and item.search != false %}
-    {
+[{% assign all_content = site.posts | concat: site.pages %}{% for item in all_content %}{% if item.title and item.search != false %}{
       "title"    : {{ item.title | jsonify }},
       "url"      : {{ item.url | relative_url | jsonify }},
       "date"     : "{{ item.date | date: '%B %d, %Y' }}",
       "content"  : {{ item.content | strip_html | strip_newlines | jsonify }}
     }{% if forloop.last %}{% else %},{% endif %}
-    {% endif %}
-  {% endfor %}
-]
+{% endif %}{% endfor %}]
