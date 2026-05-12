@@ -28,37 +28,61 @@
 </header>
 
 <script>
-  // Simple search implementation
   let searchData = [];
+  let searchLoaded = false;
 
-  // Fetch and initialize search data
+  // Fetch search data
+  console.log("Starting search initialization...");
   fetch('/search.json')
-    .then(response => response.json())
+    .then(response => {
+      console.log("Fetch response status:", response.status);
+      if (!response.ok) throw new Error('Failed to load search.json');
+      return response.json();
+    })
     .then(data => {
       searchData = data;
-      console.log("Search initialized with " + data.length + " items");
+      searchLoaded = true;
+      console.log("✓ Search data loaded successfully!");
+      console.log("Total items:", searchData.length);
+      if (searchData.length > 0) {
+        console.log("Sample item:", searchData[0]);
+      }
     })
     .catch(error => {
-      console.error("Error loading search data:", error);
+      console.error("✗ Error loading search data:", error);
+      searchLoaded = false;
     });
 
-  // Search input event listener
+  // Search functionality
   const searchInput = document.getElementById('nav-search-input');
   const resultsContainer = document.getElementById('results-container');
 
   searchInput.addEventListener('input', function() {
     const query = this.value.toLowerCase().trim();
     
+    console.log("Search query:", query, "| Data loaded:", searchLoaded, "| Items available:", searchData.length);
+
+    // Clear results if query is empty
     if (query.length === 0) {
       resultsContainer.innerHTML = '';
       return;
     }
 
+    // Check if data is loaded
+    if (!searchLoaded || searchData.length === 0) {
+      resultsContainer.innerHTML = '<li class="no-res" style="padding:10px; color: #999;">Loading search data...</li>';
+      return;
+    }
+
+    // Perform search
     const results = searchData.filter(item => {
-      const title = item.title.toLowerCase();
-      const content = item.content.toLowerCase();
-      return title.includes(query) || content.includes(query);
+      const title = (item.title || '').toLowerCase();
+      const content = (item.content || '').toLowerCase();
+      const combined = title + ' ' + content;
+      return combined.includes(query);
     });
+
+    console.log("Results found:", results.length);
 
     // Display results
     if (results.length === 0) {
@@ -67,7 +91,10 @@
       resultsContainer.innerHTML = results
         .slice(0, 10)
         .map(result => {
-          return `<li><a href="${result.url}"><span class="res-t">${result.title}</span><span class="res-d">${result.date}</span></a></li>`;
+          const title = result.title || 'Untitled';
+          const url = result.url || '#';
+          const date = result.date || '';
+          return `<li><a href="${url}"><span class="res-t">${title}</span><span class="res-d">${date}</span></a></li>`;
         })
         .join('');
     }
