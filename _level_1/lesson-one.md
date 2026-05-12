@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Four Noble Truths"
+order: 1
 ---
 
 # Welcome to Level 1
