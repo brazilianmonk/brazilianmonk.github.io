@@ -25,3 +25,8 @@ google-ID: 'G-48EBF94R81'
 collections:
   level_1:
     output: true
+  level_2:
+    output: true
+  level_3:
+    output: true
+
