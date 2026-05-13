@@ -4,7 +4,7 @@ permalink: /resources
 ---
 
 
-### [📚 Online Course](/budddhism-course)
+### [📚 Online Course](/course)
 
 Online course: Introduction to Buddhism (under construction)
 
