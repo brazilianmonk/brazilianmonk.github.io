@@ -4,8 +4,8 @@ title: "Buddhism Intro Course"
 permalink: /course/
 ---
 
-## Welcome to the Path
-This course is designed in three levels to guide you through the essentials of Buddhist thought.
+## Online Course: Introduction to Buddhism 
+This course is designed in three levels to guide you through the essentials of Buddhism. 
 
 ### Level 1: The Essentials
 <ul>
