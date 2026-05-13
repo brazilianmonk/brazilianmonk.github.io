@@ -10,7 +10,7 @@ permalink: /about
 **2003-2015**: Flamenco dancer (Spain, Brazil, USA, PRC, South Korea, Netherlands, Canada, and others). Highlights:
 - 1st Prize in "Festival Flamenco de Almeria".
 - 1st Prize in "Premio Extraordinario de la Danza de la Comunidad de Madrid".
-- Choreographer and soloist in "Hearbeat of Home" from the producers of Riverdance.
+- Choreographer and soloist in ["Hearbeat of Home"](https://heartbeatofhome.com/) from the producers of Riverdance.
 
 **2015-2022**: meditation (Myanmar) ([here](https://www.paauksociety.org/)).
 
