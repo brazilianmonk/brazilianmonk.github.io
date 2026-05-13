@@ -5,7 +5,7 @@ permalink: /course/
 ---
 
 ## Online Course: Introduction to Buddhism 
-This course is designed in three levels to guide you through the essentials of Buddhism. 
+This course is designed to offer a thorough introduction to Buddhism in three depth-levels. Each lesson is followed by a short quiz, which, when overcome, gives you the key for the next lesson. 
 
 ### Level 1: The Essentials
 <ul>
@@ -17,7 +17,7 @@ This course is designed in three levels to guide you through the essentials of B
   {% endfor %}
 </ul>
 
-### Level 2: Coming Soon
+### Level 2
 <ul>
   {% assign sorted_lessons = site.level_2 | sort: 'order' %}
   {% for lesson in sorted_lessons %}
@@ -26,7 +26,8 @@ This course is designed in three levels to guide you through the essentials of B
     </li>
   {% endfor %}
 </ul>
-### Level 3: Coming Soon
+
+### Level 3
 <ul>
   {% assign sorted_lessons = site.level_3 | sort: 'order' %}
   {% for lesson in sorted_lessons %}
