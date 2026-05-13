@@ -3,6 +3,11 @@ layout: page
 permalink: /resources
 ---
 
+
+### [📚 Online Course](/budddhism-course)
+
+Online course: Introduction to Buddhism (under construction)
+
 ### [🔗 Links](/links)
 
 Links to reliable Dhamma resources and monasteries.
