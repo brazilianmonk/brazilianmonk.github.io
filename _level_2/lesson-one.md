@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: "The Four Noble Truths"
+title: "Lesson 1"
 order: 1
 level: 2
 ---
