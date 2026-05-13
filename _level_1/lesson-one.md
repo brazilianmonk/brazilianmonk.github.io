@@ -15,4 +15,4 @@ Lesson 1 content.
 
 ---
 [Course Dashboard](/course/) 
-[Lesson 2](/course/)
+[Lesson 2](/level-1/lesson-two)
