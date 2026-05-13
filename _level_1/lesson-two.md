@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: "The Eightfold Path"
+title: "Lesson 2"
 order: 2
 level: 1
 ---
@@ -17,8 +17,7 @@ level: 1
 <!-- 2. The Hidden Lesson Content -->
 <div id="lesson-content" style="display: none;">
 
-  ## Understanding the Path
-  (This is where your actual lesson content goes...)
+  ## Lesson 2
 content of lesson 2 of level 1
 
   <hr>
