@@ -1,9 +1,10 @@
 ---
 layout: page
+title: About
 permalink: /about
 ---
 
-## About the Author: Ariyañāṇa (Stefano Domit Cervo)
+## the Author: Ariyañāṇa (Stefano Domit Cervo)
 
 <img src="/assets/img/round-me-214.jpg" alt="description" style="width: 40%;">
 
@@ -93,16 +94,19 @@ permalink: /about
 
 My gratitude to my parents and Dhamma teachers:
 
-- Ven. Pa Auk Sayadaw Aciṇṇa
-- Ven. Sayadaw Kumārābhivaṃsa
-- Ven. Sīladassana
-- Ven. Sayadaw Kovida
-- Ven. Watagoda Maggavihāri 
-- Ven. Vijitānanda
-- Ven. Devānanda
-- Ven. Siddhatthālaṅkāra
-- Ven. Laos Sumana
-- Ven. Obhāsa
+### [Mr. Czech Thomas Dhammadīpa](https://www.dhammadipa.cz/)
+### Pa Auk Teachers
+#### Ven. Sayadaw Kovida Mahāthera
+#### [Ven. Pa Auk Sayadaw Aciṇṇa Mahāthera](https://en.wikipedia.org/wiki/Bhaddanta_%C4%80ci%E1%B9%87%E1%B9%87a)
+#### [Ven. Sayadaw Kumārābhivaṃsa Mahāthera](https://kumarabhivamsa.org/posts/biography/)
+### [Ven. Sīladassana Thera](https://lk.linkedin.com/in/ven-seeladassana-pj-jayasinghe-ba15573)
+### IIT Teachers
+#### Ven. Watagoda Maggavihāri Mahāthera
+#### Ven. Palmadulle Vijitānanda Thera: sāsanadhajadhammācariya, sakyasīhadhammācariya
+#### Ven. Werapitiye Devānanda Mahāthera
+#### Ven. Ududigana Siddhatthālaṅkāra Thera
+#### Ven. Laos Sumana
+#### Ven. Dodandūve Obhāsa 
 
 ---
 
