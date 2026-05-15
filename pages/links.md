@@ -49,14 +49,14 @@ This is the Pa Auk moanstery in Maymyo, Myanmar, where I ordained and spent abou
 
 <img src="/assets/img/iit.jpg" alt="" style="width: 60%;">
 
-#### [**International Institute of Theravāda**](https://www.theravado.com/) (Sri Lanka)
-The IIT is located in Sri Lanka. It is a monastery focused on the study of Theravāda Buddhism (pariyatti). The level is quite rigorous (as per 2026) and includes all traditional topics of study such as Pāḷi, Abhidhamma, Suttanta, Vinaya, etc. with regular classes and exams. Additionally, this institute offers academic recognition. There are 2 courses: the Nissayamuttaka Course and the Parisupaṭṭhāpaka Course. The Nissayamuttaka totals 6 years and covers all requirements for a monk to be independent, and more. It is recognized as an BA. The Parisupaṭṭhāpaka lasts for 2 years, prepares you to be a teacher, and is recognized as an MA. 
+#### [**International Institute of Theravāda**](https://www.theravado.com/)
+The IIT is a monastery focused on the study of Theravāda Buddhism (pariyatti). The level is quite rigorous (as per 2026) and includes all traditional topics of study such as Pāḷi, Abhidhamma, Suttanta, Vinaya, etc. with regular classes and exams. Lessons are given in either English medium or Sinhala medium. Additionally, this institute will offer (confirmation pending) academic recognition. There are 2 courses: the 6-year long Nissayamuttaka Course and the 2-year long Parisupaṭṭhāpaka Course. The Nissayamuttaka covers all requirements for a monk to be independent, and considerably more. It is in process of being recognized as a BA. The Parisupaṭṭhāpaka prepares you to be a teacher and is in process of being recognized as an MA. 
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
 <img src="/assets/img/nauyana.png" alt="" style="width: 100%;">
 
-#### [**Na Uyana Forest Monastery**](https://nauyana.org/) (Sri Lanka)
+#### [**Na Uyana Forest Monastery**](https://nauyana.org/)
 This is a Theravāda Buddhist Forest Monastery in Sri Lanka. It's a large area that includes 3 sections with different environments (more to less secluded). There is also a nearby monastery for study.
 
 ### Brasil
