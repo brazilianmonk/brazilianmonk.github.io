@@ -1,9 +1,8 @@
 ---
 layout: page
+title: 🔗 Links
 permalink: /links
 ---
-
-# 🔗 Links
 
 Here are some links to reliable resources for Theravāda Buddhism that I'm familiar with:
  
@@ -20,6 +19,11 @@ This is a new website with the entire Tipiṭaka, commentaries, and sub-commenta
 
 ### [**Tipiṭaka Pāḷi Reader**](https://americanmonk.org/tipitaka-pali-reader/) (app)
 This is an app made by Bhante USA Subhūti. It contains most Pāḷi texts, English translations, dictionaries, and the content of the e-piṭaka (above) as well. 
+
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+
+### [**Open Tipiṭaka**](https://opentipitaka.org/?lang=es) (app, website; multiple languages)
+This is a translation project led by Ven. PRC Sumana that includes the content of the tipiṭaka in several languages translated by AI. 
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
