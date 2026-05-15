@@ -23,7 +23,7 @@ This is an app made by Bhante USA Subhūti. It contains most Pāḷi texts, Engl
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
 ### [**Open Tipiṭaka**](https://opentipitaka.org/?lang=es) (app, website; multiple languages)
-This is a translation project led by Ven. PRC Sumana that includes the content of the tipiṭaka in several languages translated by AI. 
+This is a translation project led by [Ven. PRC Sumana](https://www.facebook.com/uppala.putta) that includes the content of the tipiṭaka in several languages translated by AI. 
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
