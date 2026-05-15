@@ -9,6 +9,7 @@ important files:
 
 
 to do list for the website:
+- add course content
 - add image to open tipitaka and suddhavari
 - "participate / projects / support" section with ways to support / donate / participate in projects
 - newsletter: set up
