@@ -43,6 +43,8 @@ Esse site tem bastante material traduzido ao Português. Trabalho feito principa
 #### [**Pa Auk Meditation Center**](https://paauksociety.org/)
 This is the Pa Auk moanstery in Maymyo, Myanmar, where I ordained and spent about 7 years. It is a meditation center but also has an attached pariyatti center (for traditional studies). There are other Pa Auk centers, several in Myanmar, such as in Mawlamyine (the very first), and in a few other countries.
 
+[List of Pa Auk Branches](https://www.paaukthailand.org/en/paaukbranches/?hl=en-US)
+
 ### Sri Lanka
 
 <img src="/assets/img/iit.jpg" alt="" style="width: 60%;">
