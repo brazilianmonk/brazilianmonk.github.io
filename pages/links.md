@@ -42,6 +42,9 @@ An extensive repository of Buddhist literature. Curated and maintained by Bhante
 ### [**Acesso ao Insight**](https://www.acessoaoinsight.net/index.htm) (website; Português)
 Esse site tem bastante material traduzido ao Português. Trabalho feito principalmente por [Michael Beisert](https://www.acessoaoinsight.net/arquivo_textos_theravada/beisert.php.html).
 
+
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+
 ### [**Casa De Dharma**](https://casadedharmaorg.org/)
 Theravada Buddhist meditation and study center based in São Paulo, Brazil.
 
