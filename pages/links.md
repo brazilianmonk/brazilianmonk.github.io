@@ -27,6 +27,12 @@ This is a translation project led by [Ven. PRC Sumana](https://www.facebook.com/
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
+### [**Digital Pāḷi Reader**](https://www.digitalpalireader.online/_dprhtml/index.html)
+Study tool designed by Bhante Yuttadhammo for reading, searching, and analyzing the Pāḷi Canon. It includes the Digital Pāḷi Dictionary, a staple for Pāḷi learners. 
+
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+
+
 ### [**Ancient Buddhist Texts**](https://ancient-buddhist-texts.net/index.htm)
 An extensive repository of Buddhist literature. Curated and maintained by Bhante Ānandajoti.
 
