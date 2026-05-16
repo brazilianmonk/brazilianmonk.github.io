@@ -29,6 +29,9 @@ This is a translation project led by [Ven. PRC Sumana](https://www.facebook.com/
 
 <img src="/assets/img/aai.png" alt="description" style="width: 70%;">
 
+### [**Ancient Buddhist Texts**](https://ancient-buddhist-texts.net/index.htm)
+An extensive repository of Buddhist literature. Curated and maintained by Bhante Ānandajoti.
+
 ### [**Acesso ao Insight**](https://www.acessoaoinsight.net/index.htm) (website; Português)
 Esse site tem bastante material traduzido ao Português. Trabalho feito principalmente por [Michael Beisert](https://www.acessoaoinsight.net/arquivo_textos_theravada/beisert.php.html).
 
