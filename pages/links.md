@@ -32,7 +32,7 @@ This is a translation project led by [Ven. PRC Sumana](https://www.facebook.com/
 ### [**Acesso ao Insight**](https://www.acessoaoinsight.net/index.htm) (website; Português)
 Esse site tem bastante material traduzido ao Português. Trabalho feito principalmente por [Michael Beisert](https://www.acessoaoinsight.net/arquivo_textos_theravada/beisert.php.html).
 
----
+------
 
 ## 🏛️ Monasteries
 
@@ -64,7 +64,11 @@ This is a Theravāda Buddhist Forest Monastery in Sri Lanka. It's a large area t
 #### [**Mosteiro Suddhavāri**](https://suddhavari.org/)
 Talvez o único monasterio Theravāda no Brasil atualmente. Liderado pelo Bhante Mudito. 
 
----
+------
+
+## Modern Research
+
+### [**Harvard Meditation Research**](https://meditation.mgh.harvard.edu/)
 
 <script>
 document.addEventListener("DOMContentLoaded", function() {
