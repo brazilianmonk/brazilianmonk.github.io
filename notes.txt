@@ -9,6 +9,7 @@ important files:
 
 
 to do list for the website:
+- add short description to the home page identifying buddhism be ause monk could be many types
 - add course content
 - add image to open tipitaka and suddhavari
 - "participate / projects / support" section with ways to support / donate / participate in projects
