@@ -1,9 +1,9 @@
 ---
 layout: page
+title: Attha, Hīnattha, and Paramattha
 permalink: /summaries/abhidhamma/attha
 ---
 
-# Attha
 ## Attha Chart
 <pre style="font-family: monospace; line-height: 1.4;">
 Hīnattha (Paññatti, Paṇṇatti)
@@ -38,22 +38,20 @@ Paramattha
 │   └── Uppādino dhammā
 │
 └── Asaṅkhata Paramattha: Nibbāna
-    ├── Sammuti Nibbāna (not paramattha → hīnattha)
-    ├── Tadaṅga Nibbāna (as substitution of factors)
-    ├── Vikkhambana Nibbāna (as suppression)
-    ├── Samuccheda Nibbāna (as eradication)
-    ├── Nissaraṇa Nibbāna (as escape [magga])
-    ├── Paṭipassaddhi Nibbāna (as appeasement [phala])
+    ├── Sammuti Nibbāna (hīnattha)
+    ├── Tadaṅga Nibbāna
+    ├── Vikkhambana Nibbāna
+    ├── Samuccheda Nibbāna
+    ├── Nissaraṇa Nibbāna
+    ├── Paṭipassaddhi Nibbāna
     └── Micchādiṭṭhi Nibbāna
 </pre>
+
 ---
+
 ## What is Attha?
 
-Realities; any objects that can be known by the mind (anything, including ultimate realities and concepts).
-
-**Question:** How do we know the mind can know everything?
-
-When an attha is known by the mind, it is felt as existing.
+Any object that can be known by the mind (anything, including ultimate realities and concepts).
 
 ---
 
@@ -63,10 +61,6 @@ When an attha is known by the mind, it is felt as existing.
 2.  **Suta Vasena**: when hearing / reading words / signs
 
 ---
-
-
-
-
 
 ## Hīnattha
 ### What are Hīnatthas?
