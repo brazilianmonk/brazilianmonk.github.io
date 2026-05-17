@@ -43,6 +43,7 @@ Lifespan relative to each realm.
 
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+
 ### 3 antarakappas (sattavināsa)
 
 -   **satthantarakappa** (the interstice of weapons; our present antarakappa)
