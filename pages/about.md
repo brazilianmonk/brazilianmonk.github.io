@@ -4,14 +4,11 @@ title: About
 permalink: /about
 ---
 
-## the Author: Ariyañāṇa (Stefano Domit Cervo)
+## the Author: Bhikkhu Ariyañāṇa
 
 <img src="/assets/img/round-me-214.jpg" alt="description" style="width: 40%;">
 
-**2003-2015**: Flamenco dancer (Spain, Brazil, USA, PRC, South Korea, Netherlands, Canada, and others). Highlights:
-- 1st Prize in "Festival Flamenco de Almeria".
-- 1st Prize in ["Premio Extraordinario de la Danza de la Comunidad de Madrid"](https://www.eter.com/actualidad/noticia.php?id=17429).
-- Choreographer and soloist in ["Hearbeat of Home"](https://heartbeatofhome.com/) from the producers of Riverdance.
+**2003-2015**: Flamenco dancer (Spain, Brazil, USA, PRC, South Korea, Netherlands, Canada, and others).
 
 **2015-2022**: meditation (Myanmar) ([here](https://www.paauksociety.org/)).
 
@@ -46,7 +43,7 @@ permalink: /about
 
 <!-- Full Bio Content -->
 <div id="fullBio">
-    <p>Bhante Ariyañāṇa, born Stefano Domit Cervo in Brazil, is a former <a href="https://en.wikipedia.org/wiki/Flamenco">flamenco</a> dancer who captivated global audiences with his performances until 2015, when he embarked on a transformative quest as a <a href="https://en.wikipedia.org/wiki/Theravada">Theravāda</a> Buddhist monk.</p>
+    <p>Bhikkhu Ariyañāṇa, born Stefano Domit Cervo in Brazil, is a former <a href="https://en.wikipedia.org/wiki/Flamenco">flamenco</a> dancer who captivated global audiences with his performances until 2015, when he embarked on a transformative quest as a <a href="https://en.wikipedia.org/wiki/Theravada">Theravāda</a> Buddhist monk.</p>
     
   <h3>Artist Years</h3>
     <p>Inspired by his <a href="https://www.instagram.com/giseleclaudianedomit?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">mother</a>, a flamenco dancer herself, he, at the age of 11, followed in her footsteps, initially playing percussion and then dancing, teaching, and choreographing. Later, at the age of 17, he moved to Spain, the homeland of Flamenco, where he achieved significant acclaim including first place at the <a href="https://youtu.be/UjTlp9rKxSQ?feature=shared">Festival Flamenco de Almería (2013)</a> and the <a href="https://www.eter.com/actualidad/noticia.php?id=17429">"Premio Extraordinario de Danza de la Comunidad de Madrid" (2015)</a>. As a choreographer and soloist, he participated in <a href="https://heartbeatofhome.com/">Heartbeat of Home</a>, a production of the creators of the global phenomenon Riverdance.</p>
