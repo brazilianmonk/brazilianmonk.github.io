@@ -8,11 +8,13 @@ permalink: /about
 
 <img src="/assets/img/round-me-214.jpg" alt="description" style="width: 40%;">
 
-**2003-2015**: Flamenco dancer (Spain, Brazil, USA, PRC, South Korea, Netherlands, Canada, and others).
+**1991**: born in Brazil as Stefano Domit Cervo. 
+
+**2003-2015**: Flamenco dancer and choreographer (Spain, Brazil, USA, PRC, South Korea, Netherlands, Canada, and others).
 
 **2015-2022**: meditation (Myanmar) ([here](https://www.paauksociety.org/)).
 
-**2016-present**: Theravāda Buddhist monk for <span id="timer"></span> [(Calculate yours)](/monk-calculators)
+**2016-present**: Theravāda Buddhist monk under the mentorship of Ven. Pa Auk Sayadaw Āciṇṇa. Ordination period: <span id="timer"></span> [(Calculate yours)](/monk-calculators)
 
 <!-- ordination timer -->
 <script>
@@ -35,7 +37,7 @@ permalink: /about
 </script>
 
 
-**2022-present**: student and English teacher at [Intl. Inst. of Theravāda](https://www.theravado.com/) (Sri Lanka) and public speaker on Dhamma and meditation.
+**2022-present**: student and English teacher at [Intl. Inst. of Theravāda](https://www.theravado.com/) (Sri Lanka) and public speaker on Buddha Dhamma and meditation.
 
 
 <!-- Full Bio Link -->
