@@ -111,7 +111,7 @@ My gratitude to my **parents** and Dhamma teachers:
 
 ## About the Site
 
-I began this website as an **experiment**. I'm not sure how useful it will be, but I think that, among other things, it might help me:
+I began this website as an **experiment** in 2025, mainly intending to make available my Dhamma summaries and notes. I hope that, among other things, it might help me:
 - keep track of and further my Dhamma projects and that of others
 - propagate the Buddha Dhamma
-- have a bigger positive impact on the sāsana and help more people
+- have a bigger positive impact on the sāsana and help more people realize the Dhamma
