@@ -109,7 +109,7 @@ My gratitude to my **parents** and Dhamma teachers:
 
 ---
 
-## About the Site
+## the Website
 
 I began this website as an **experiment** in 2025, mainly intending to make available my Dhamma summaries and notes. I hope that, among other things, it might help me:
 - keep track of and further my Dhamma projects and that of others
