@@ -1,12 +1,12 @@
 ---
 layout: page
+title: Kappas
 permalink: /summaries/abhidhamma/kappa
 ---
 
-# Kappas
 Aeon, age, epoch, long period of time
 
-## 4 kappas
+## 4 main kappas
 
 -   **āyukappa**: lifespan of beings in each realm
 -   **antara- / cūḷa / manvantara- kappa**: period it takes for the human lifespan to vary from asaṅkheyya to 10 years and back
@@ -17,7 +17,7 @@ Aeon, age, epoch, long period of time
 
 ## Āyukappa
 
-lifespan time relative to each realm
+Lifespan relative to each realm.
 
 -   human lifespan fluctuates between asaṅkheyya and 10 years during an antarakappa
 -   lifespan at the Buddha's time: 100 years
@@ -27,19 +27,17 @@ lifespan time relative to each realm
 
 ### lifespan of Buddhas
 
--   4/5th of the lifespan of the period in which they appear
--   Gotama Buddha could have lived 5/5th or even 6/5th if he wished so
+-   normally, 4/5th of the lifespan of the period in which they appear, but they can extend it to 5/5th or even 6/5th if they are requested.
     -   so ākaṅkhamāno, ānanda, tathāgato kappaṃ vā tiṭṭheyya kappāvasesaṃ vā
 -   notes:
     -   saṅghabhedakamma leads to niraya for a kappa, while uniting the saṅgha leads to sagga for a kappa: here, āyukappa of those destinations
-        -   (*:q: isn't that just the normal lifespan?*)
-
 
 ---
 ## Antara- / Cūḷa- / Manvantara-kappa
+
 ### reason for being called manvantara
 
--   called manvantarakappas due to there being a king named Manu at the beginning of each antarakappa
+-   due to there being a king named Manu at the beginning of each antarakappa
     -   prmdpn: antarakappo nāma ekassa vivaṭṭhaṭṭhāyi-asaṅkheyyassa abbhantare manussānaṃ āyukappassa hāyana-vaḍḍhana-vasena dissamānantarā catusaṭṭhippabhedā cūḷakappā vuccanti
     -   Prd.: … ye loke manvantara-kappā’ti vuccanti. Ekamekena manunāmakena mahāsammatarājena upalakkhitā antarakappā’ti vuttaṃ hoti
 
