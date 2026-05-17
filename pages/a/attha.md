@@ -227,8 +227,9 @@ Knowing a reality with its specific and general characteristics.
 
 ## Realities, Collective Realities, and Concepts
 
-- A **group of realities taken as one thing** is a **concept**.
-- A **group of realities not taken as one thing** (but as a group) is **collective realities (not a concept)**.
+- A **group of realities taken as one thing** is a concept: person, tree, house, etc.
+- A **group of realities taken as a group** is collective realities (paramattha): rūpakkhandha, a group of nāmas as "nāma", cittuppāda, etc.
+- Note: in some cases, "hair", etc. can be a concept (if taken as one) or collective realities (if taken as a group of rūpas). 
 
 ---
 
