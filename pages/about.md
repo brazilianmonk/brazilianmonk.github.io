@@ -91,21 +91,21 @@ permalink: /about
 
 ## My Teachers
 
-My gratitude to my parents and Dhamma teachers:
+My gratitude to my **parents** and Dhamma teachers:
 
-### [Mr. Czech Thomas Dhammadīpa](https://www.dhammadipa.cz/)
+- [Mr. Czech Thomas Dhammadīpa](https://www.dhammadipa.cz/)
 ### Pa Auk Teachers
-#### Ven. Sayadaw Kovida Mahāthera
-#### [Ven. Pa Auk Sayadaw Aciṇṇa Mahāthera](https://en.wikipedia.org/wiki/Bhaddanta_%C4%80ci%E1%B9%87%E1%B9%87a)
-#### [Ven. Sayadaw Kumārābhivaṃsa Mahāthera](https://kumarabhivamsa.org/posts/biography/)
-### [Ven. Sīladassana Thera](https://lk.linkedin.com/in/ven-seeladassana-pj-jayasinghe-ba15573)
+- Ven. Sayadaw Salem Kovida Mahāthera
+- [Ven. Pa Auk Sayadaw Aciṇṇa Mahāthera](https://en.wikipedia.org/wiki/Bhaddanta_%C4%80ci%E1%B9%87%E1%B9%87a)
+- [Ven. Sayadaw Kumārābhivaṃsa Mahāthera](https://kumarabhivamsa.org/posts/biography/)
+- [Ven. Sīladassana Thera](https://lk.linkedin.com/in/ven-seeladassana-pj-jayasinghe-ba15573)
 ### IIT Teachers
-#### Ven. Watagoda Maggavihāri Mahāthera
-#### Ven. Palmadulle Vijitānanda Thera: sāsanadhajadhammācariya, sakyasīhadhammācariya
-#### Ven. Werapitiye Devānanda Mahāthera
-#### Ven. Ududigana Siddhatthālaṅkāra Thera
-#### Ven. Laos Sumana
-#### Ven. Dodandūve Obhāsa 
+- Ven. Watagoda Maggavihāri Mahāthera
+- Ven. Palmadulle Vijitānanda Thera: sāsanadhajadhammācariya, sakyasīhadhammācariya
+- Ven. Werapitiye Devānanda Mahāthera
+- Ven. Ududigana Siddhatthālaṅkāra Thera
+- Ven. Laos Sumana
+- Ven. Dodandūve Obhāsa 
 
 ---
 
