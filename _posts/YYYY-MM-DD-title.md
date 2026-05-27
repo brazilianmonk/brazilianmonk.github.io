@@ -1,15 +1,15 @@
 ---
 layout: post
 title: Essential Principles of Generosity and Merit
-author: Brazil Ariyañāṇa Bhikkhu
+author: Brazil Ariyañāṇa Bhikkhu and Nepal Atthadassi Bhikkhu
 categories: 
 tags: 
-image: 
+image: Screenshot_2026-05-27-19-59-40-453_com.ecosia.android-edit.jpg
 ---
 
 ## 🇬🇧 English
 
-I want to share with you some essential principles regarding the act of giving (**_dāna_**) and how you can ensure your actions produce the highest possible merit (**_puñña_**). When we perform **_kamma_**, the most important factor is our **_cetanā_** (intention).
+Here are some essential principles regarding the act of giving (**_dāna_**) and how you can ensure your actions produce the highest possible merit (**_puñña_**). When we perform **_kamma_**, the most important factor is our **_cetanā_** (intention). In fact, cetanā *is* the kamma.
 
 To truly understand the weight of your actions, you must look at your mind in three stages: 
 * **_Pubba-cetanā_:** Your intention before the act.
@@ -36,7 +36,7 @@ Ultimately, use these merits to support your **_vipassanā_** (insight) practice
 
 # Principios Esenciales de la Generosidad y el Mérito
 
-Quiero compartir con ustedes algunos principios esenciales con respecto al acto de dar (**_dāna_**) y cómo pueden asegurarse de que sus acciones produzcan el mayor mérito (**_puñña_**) posible. Cuando realizamos un **_kamma_**, el factor más importante es nuestra **_cetanā_** (intención).
+Aquí son algunos principios esenciales con respecto al acto de dar (**_dāna_**) y cómo pueden asegurarse de que sus acciones produzcan el mayor mérito (**_puñña_**) posible. Cuando realizamos un **_kamma_**, el factor más importante es nuestra **_cetanā_** (intención). En verdad, cetanā *es* el kamma.
 
 Para comprender verdaderamente el peso de sus acciones, deben observar su mente en tres etapas: 
 * **_Pubba-cetanā_:** Su intención antes del acto.
