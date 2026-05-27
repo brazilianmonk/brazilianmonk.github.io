@@ -63,7 +63,7 @@ En última instancia, utilicen estos méritos para respaldar su práctica de **_
 
 # Princípios Essenciais da Generosidade e do Mérito
 
-Quero compartilhar com vocês alguns princípios essenciais a respeito do ato de doar (**_dāna_**) e como vocês podem garantir que suas ações produzam o maior mérito (**_puñña_**) possível. Quando realizamos um **_kamma_**, o fator mais importante é a nossa **_cetanā_** (intenção).
+Aqui são alguns princípios essenciais a respeito do ato de doar (**_dāna_**) e como vocês podem garantir que suas ações produzam o maior mérito (**_puñña_**) possível. Quando realizamos um **_kamma_**, o fator mais importante é a nossa **_cetanā_** (intenção). O fato é que cetanā *é* o kamma.
 
 Para compreender verdadeiramente o peso de suas ações, vocês devem observar a sua mente em três estágios: 
 * **_Pubba-cetanā_:** A sua intenção antes do ato.
