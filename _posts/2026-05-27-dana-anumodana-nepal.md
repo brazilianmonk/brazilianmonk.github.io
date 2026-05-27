@@ -13,12 +13,12 @@ Here are some essential principles regarding the act of giving (**_dāna_**) and
 
 To truly understand the weight of your actions, you must look at your mind in three stages: 
 * **_Pubba-cetanā_:** Your intention before the act.
-* **_Muñca-cetanā_:** Your intention during the act.
+* **_Muñcana-cetanā_:** Your intention during the act.
 * **_Apara-cetanā_:** Your intention afterward. 
 
-When these are complete and of high quality, they form a **_kammapatha_**—a path of action strong enough to produce a favorable rebirth (**_paṭisandhi_**). 
+When these cetanās, especially the first two, are complete, they form a **_kammapatha_**—a path of action strong enough to produce a favorable rebirth (**_paṭisandhi_**). 
 
-My goal for you is to perform actions that are **_ti-hetuka_** (triple-rooted). This means your giving should be accompanied by **_ñāṇa_** (knowledge of cause and effect) and **_somanassa_** (joy). If you lack knowledge, or if you feel remorse after giving—thinking, *"I should have given less"* or *"Was that gift good enough?"*—you weaken the merit. Remorse acts as a defilement that can downgrade a superior merit to a weaker, **_dvi-hetuka_** (double-rooted) result.
+But not any kammapatha can produce a **_ti-hetuka_** (triple-rooted) paṭisamdhi. This means your giving should be accompanied by **_ñāṇa_** (knowledge of cause and effect) and **_somanassa_** (joy). If you lack knowledge, or if you feel remorse after giving—thinking, *"I should have given less"* or *"Was that gift good enough?"*—you weaken the merit. Remorse acts as a defilement that can downgrade a superior merit to a weaker, **_dvi-hetuka_** (double-rooted) result.
 
 There are four factors I want you to consider to strengthen your practice:
 
