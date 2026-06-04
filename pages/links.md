@@ -1,9 +1,8 @@
 ---
 layout: page
+title: 🔗 Links
 permalink: /links
 ---
-
-# 🔗 Links
 
 Here are some links to reliable resources for Theravāda Buddhism that I'm familiar with:
  
@@ -23,12 +22,33 @@ This is an app made by Bhante USA Subhūti. It contains most Pāḷi texts, Engl
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
+### [**Open Tipiṭaka**](https://opentipitaka.org/?lang=es) (app, website; multiple languages)
+This is a translation project led by [Ven. PRC Sumana](https://www.facebook.com/uppala.putta) that includes the content of the tipiṭaka in several languages translated by AI. 
+
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+
+### [**Digital Pāḷi Reader**](https://www.digitalpalireader.online/_dprhtml/index.html)
+Study tool designed by Bhante Yuttadhammo for reading, searching, and analyzing the Pāḷi Canon. It includes the Digital Pāḷi Dictionary, a staple for Pāḷi learners. 
+
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+
+### [**Ancient Buddhist Texts**](https://ancient-buddhist-texts.net/index.htm)
+An extensive repository of Buddhist literature. Curated and maintained by Bhante Ānandajoti.
+
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+
 <img src="/assets/img/aai.png" alt="description" style="width: 70%;">
 
 ### [**Acesso ao Insight**](https://www.acessoaoinsight.net/index.htm) (website; Português)
 Esse site tem bastante material traduzido ao Português. Trabalho feito principalmente por [Michael Beisert](https://www.acessoaoinsight.net/arquivo_textos_theravada/beisert.php.html).
 
----
+
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+
+### [**Casa De Dharma**](https://casadedharmaorg.org/)
+Theravada Buddhist meditation and study center based in São Paulo, Brazil.
+
+------
 
 ## 🏛️ Monasteries
 
@@ -39,18 +59,20 @@ Esse site tem bastante material traduzido ao Português. Trabalho feito principa
 #### [**Pa Auk Meditation Center**](https://paauksociety.org/)
 This is the Pa Auk moanstery in Maymyo, Myanmar, where I ordained and spent about 7 years. It is a meditation center but also has an attached pariyatti center (for traditional studies). There are other Pa Auk centers, several in Myanmar, such as in Mawlamyine (the very first), and in a few other countries.
 
+[List of Pa Auk Branches](https://www.paaukthailand.org/en/paaukbranches/?hl=en-US)
+
 ### Sri Lanka
 
 <img src="/assets/img/iit.jpg" alt="" style="width: 60%;">
 
-#### [**International Institute of Theravāda**](https://www.theravado.com/) (Sri Lanka)
-The IIT is located in Sri Lanka. It is a monastery focused on the study of Theravāda Buddhism (pariyatti). The level is quite rigorous (as per 2026) and includes all traditional topics of study such as Pāḷi, Abhidhamma, Suttanta, Vinaya, etc. with regular classes and exams. Additionally, this institute offers academic recognition. There are 2 courses: the Nissayamuttaka Course and the Parisupaṭṭhāpaka Course. The Nissayamuttaka totals 6 years and covers all requirements for a monk to be independent, and more. It is recognized as an BA. The Parisupaṭṭhāpaka lasts for 2 years, prepares you to be a teacher, and is recognized as an MA. 
+#### [**International Institute of Theravāda**](https://www.theravado.com/)
+The IIT is a monastery focused on the study of Theravāda Buddhism (pariyatti). The level is quite rigorous (as per 2026) and includes all traditional topics of study such as Pāḷi, Abhidhamma, Suttanta, Vinaya, etc. with regular classes and exams. Lessons are given in either English medium or Sinhala medium. Additionally, this institute will offer (confirmation pending) academic recognition. There are 2 courses: the 6-year long Nissayamuttaka Course and the 2-year long Parisupaṭṭhāpaka Course. The Nissayamuttaka covers all requirements for a monk to be independent, and considerably more. It is in process of being recognized as a BA. The Parisupaṭṭhāpaka prepares you to be a teacher and is in process of being recognized as an MA. 
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
 <img src="/assets/img/nauyana.png" alt="" style="width: 100%;">
 
-#### [**Na Uyana Forest Monastery**](https://nauyana.org/) (Sri Lanka)
+#### [**Na Uyana Forest Monastery**](https://nauyana.org/)
 This is a Theravāda Buddhist Forest Monastery in Sri Lanka. It's a large area that includes 3 sections with different environments (more to less secluded). There is also a nearby monastery for study.
 
 ### Brasil
@@ -58,7 +80,11 @@ This is a Theravāda Buddhist Forest Monastery in Sri Lanka. It's a large area t
 #### [**Mosteiro Suddhavāri**](https://suddhavari.org/)
 Talvez o único monasterio Theravāda no Brasil atualmente. Liderado pelo Bhante Mudito. 
 
----
+------
+
+## Modern Research
+
+### [**Harvard Meditation Research**](https://meditation.mgh.harvard.edu/)
 
 <script>
 document.addEventListener("DOMContentLoaded", function() {

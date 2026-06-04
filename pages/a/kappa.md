@@ -1,12 +1,12 @@
 ---
 layout: page
+title: Kappas
 permalink: /summaries/abhidhamma/kappa
 ---
 
-# Kappas
 Aeon, age, epoch, long period of time
 
-## 4 kappas
+## 4 main kappas
 
 -   **āyukappa**: lifespan of beings in each realm
 -   **antara- / cūḷa / manvantara- kappa**: period it takes for the human lifespan to vary from asaṅkheyya to 10 years and back
@@ -17,7 +17,7 @@ Aeon, age, epoch, long period of time
 
 ## Āyukappa
 
-lifespan time relative to each realm
+Lifespan relative to each realm.
 
 -   human lifespan fluctuates between asaṅkheyya and 10 years during an antarakappa
 -   lifespan at the Buddha's time: 100 years
@@ -27,24 +27,23 @@ lifespan time relative to each realm
 
 ### lifespan of Buddhas
 
--   4/5th of the lifespan of the period in which they appear
--   Gotama Buddha could have lived 5/5th or even 6/5th if he wished so
+-   normally, 4/5th of the lifespan of the period in which they appear, but they can extend it to 5/5th or even 6/5th if they are requested.
     -   so ākaṅkhamāno, ānanda, tathāgato kappaṃ vā tiṭṭheyya kappāvasesaṃ vā
 -   notes:
     -   saṅghabhedakamma leads to niraya for a kappa, while uniting the saṅgha leads to sagga for a kappa: here, āyukappa of those destinations
-        -   (*:q: isn't that just the normal lifespan?*)
-
 
 ---
 ## Antara- / Cūḷa- / Manvantara-kappa
+
 ### reason for being called manvantara
 
--   called manvantarakappas due to there being a king named Manu at the beginning of each antarakappa
+-   due to there being a king named Manu at the beginning of each antarakappa
     -   prmdpn: antarakappo nāma ekassa vivaṭṭhaṭṭhāyi-asaṅkheyyassa abbhantare manussānaṃ āyukappassa hāyana-vaḍḍhana-vasena dissamānantarā catusaṭṭhippabhedā cūḷakappā vuccanti
     -   Prd.: … ye loke manvantara-kappā’ti vuccanti. Ekamekena manunāmakena mahāsammatarājena upalakkhitā antarakappā’ti vuttaṃ hoti
 
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+
 ### 3 antarakappas (sattavināsa)
 
 -   **satthantarakappa** (the interstice of weapons; our present antarakappa)
@@ -92,6 +91,7 @@ lifespan time relative to each realm
 
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+
 ### aggañña- and cakkavattisīhanāda- suttas
 
 they explain the beginning of the world and how it evolves
@@ -103,6 +103,7 @@ they explain the beginning of the world and how it evolves
 
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+
 ### period of appearance of Buddhas
 
 -   **Na hi buddhā vaḍḍhamāne āyumhi nibbattanti, hāyamāne pana nibbattanti**: Buddhas only appear during the declining period of the human lifespan
@@ -110,6 +111,7 @@ they explain the beginning of the world and how it evolves
 
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+
 ### ratio of drop in human lifespan
 
 -   every 100 years, 1 year drops
@@ -118,6 +120,7 @@ they explain the beginning of the world and how it evolves
 
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+
 ### when the next sattavināsa will occur
 
 at a ratio of 1 year drop every 100 years, it will happen 9.000 years after the Buddha (~6.400 from now)
@@ -141,6 +144,7 @@ at a ratio of 1 year drop every 100 years, it will happen 9.000 years after the 
 
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+
 ### length
 
 measured in antarakappas
@@ -153,6 +157,7 @@ measured in antarakappas
 
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+
 ### 2 mahāmeghas
 
 -   **vipattikara mahāmegha**: the great diluge that marks the beginning of the great destruction of the world and the saṁvaṭṭakappa
@@ -161,6 +166,7 @@ measured in antarakappas
 
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+
 ### 4 types
 
 -   **saṃvaṭṭakappa** (the aeon of dissolution, contraction)
@@ -297,6 +303,7 @@ measured in antarakappas
 
 
 ---
+
 ## Mahākappa
 
 period of time of 4 asaṅkheyyakappas that takes for an āṇakkhetta of cakkavāḷas dissolve and be regenerated 
@@ -310,6 +317,7 @@ period of time of 4 asaṅkheyyakappas that takes for an āṇakkhetta of cakkav
 
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+
 ### # of kappas in the past &#x2013; 2 similes
 
 -   **sāvakasutta**: 4 disciples recollecting 100 k mahākappas each every day (400 k kappas a day) for 100 years: they would die before finding a beginning
@@ -317,6 +325,7 @@ period of time of 4 asaṅkheyyakappas that takes for an āṇakkhetta of cakkav
 
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+
 ### 5 (+1) types acc. to # of Buddhas
 
 -   (extra) **suññakappa** (empty aeon): no Buddhas appear; most common
@@ -338,6 +347,7 @@ period of time of 4 asaṅkheyyakappas that takes for an āṇakkhetta of cakkav
 
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+
 ### chronicle of the 24 most recent Buddhas
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">

@@ -9,33 +9,21 @@ important files:
 
 
 to do list for the website:
-- add more posts
-- add section on teachers
+- add short description to the home page identifying buddhism be ause monk could be many types
+- add course content
+- add image to open tipitaka and suddhavari
 - "participate / projects / support" section with ways to support / donate / participate in projects
-- add FAQ section
-- simple website with my flamenco career 
-- website for learning abhidhamma like khan academy 
-- email list
-- online email course
+- newsletter: set up
 - tipitaka visualized
-- course on how to study: preparing for a course, attending classes, taking notes, using tech, making summaries, flashcards, etc.
 - kammatthana "calculator"
-- links section: list of monasteries i know that follow vinaya
-- add archive.org links
 - add bodhi cursor
-- check for an easier way to add my notes to the website
-- consider less personal name: monk life, monk space...
-- add a search box, especially to the notes section
-- add newsletter subscribe thing
+- fix search box
 - other ideas
   - exercise and health principles for meditation and a healthy life
 - Calculators
   - moon calendar with uposathas
   - calculator for robe size
 - monk skill tree (conditions for nm, other bahussutas, samatha vipassana)
-- add link with image to the translations page
-- app with intro to abhidhamma based on the learn html app
-- change other social.media name to brazilian monk
 
 ---
 

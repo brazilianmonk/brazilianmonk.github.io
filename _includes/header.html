@@ -1,17 +1,22 @@
 <header class="site-header">
-  <!-- Site Title (Left) -->
   <h3 class="site-title">
     <a href="{{ site.github.url }}/"> <img src="/assets/img/logo-img.jpg" width="250"></a>
   </h3>
 
-  <!-- Navigation Menu (Desktop, Right) -->
+  <div class="nav-search">
+    <div class="search-input-wrapper">
+      <i class="fa fa-search search-icon"></i>
+      <input type="text" id="nav-search-input" placeholder="Search...">
+    </div>
+    <ul id="results-container"></ul>
+  </div>
+
   <nav class="menu-list">
     {% for item in site.data.settings.menu %}
       <a href="{{ site.github.url }}/{{ item.url }}" class="menu-link">{{ item.name }}</a>
     {% endfor %}
   </nav>
 
-  <!-- Dropdown Menu (Mobile, Right) -->
   <div class="dropdown">
     <button class="dropbtn" aria-label="Menu"><i class="fa fa-bars" aria-hidden="true"></i></button>
     <div class="dropdown-content">
@@ -21,28 +26,77 @@
     </div>
   </div>
 </header>
-<!-- <header class="site-header">
-  <h3 class="site-title">
-    <a href="{{ site.github.url }}/">{{ site.title }}</a>
-  </h3>
-  <nav class="menu-list">
-    {% for item in site.data.settings.menu %}
-      <a href="{{ site.github.url }}/{{ item.url }}" class="menu-link">{{ item.name }}</a>
-    {% endfor %}
-    {% for item in site.data.settings.social %}
-      <a href="{{ item.link }}" class="menu-link" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
-    {% endfor %}
-  </nav>
-  <div class="dropdown">
-    <button class="dropbtn" aria-label="Menu"><i class="fa fa-bars" aria-hidden="true"></i></button>
-    <div class="dropdown-content">
-      {% for item in site.data.settings.menu %}
-        <a href="{{ site.github.url }}/{{ item.url }}" class="menu-link">{{ item.name }}</a>
-      {% endfor %}
-      {% for item in site.data.settings.social %}
-        <a href="{{ item.link }}" class="menu-link" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
-      {% endfor %}
-    </div>
-  </div>
-</header>
- -->
+
+<script>
+  let searchData = [];
+  let searchLoaded = false;
+
+  // Fetch search data
+  console.log("Starting search initialization...");
+  fetch('/search.json')
+    .then(response => {
+      console.log("Fetch response status:", response.status);
+      if (!response.ok) throw new Error('Failed to load search.json');
+      return response.json();
+    })
+    .then(data => {
+      searchData = data;
+      searchLoaded = true;
+      console.log("✓ Search data loaded successfully!");
+      console.log("Total items:", searchData.length);
+      if (searchData.length > 0) {
+        console.log("Sample item:", searchData[0]);
+      }
+    })
+    .catch(error => {
+      console.error("✗ Error loading search data:", error);
+      searchLoaded = false;
+    });
+
+  // Search functionality
+  const searchInput = document.getElementById('nav-search-input');
+  const resultsContainer = document.getElementById('results-container');
+
+  searchInput.addEventListener('input', function() {
+    const query = this.value.toLowerCase().trim();
+    
+    console.log("Search query:", query, "| Data loaded:", searchLoaded, "| Items available:", searchData.length);
+
+    // Clear results if query is empty
+    if (query.length === 0) {
+      resultsContainer.innerHTML = '';
+      return;
+    }
+
+    // Check if data is loaded
+    if (!searchLoaded || searchData.length === 0) {
+      resultsContainer.innerHTML = '<li class="no-res" style="padding:10px; color: #999;">Loading search data...</li>';
+      return;
+    }
+
+    // Perform search
+    const results = searchData.filter(item => {
+      const title = (item.title || '').toLowerCase();
+      const content = (item.content || '').toLowerCase();
+      const combined = title + ' ' + content;
+      return combined.includes(query);
+    });
+
+    console.log("Results found:", results.length);
+
+    // Display results
+    if (results.length === 0) {
+      resultsContainer.innerHTML = '<li class="no-res" style="padding:10px; color: #999;">No results found</li>';
+    } else {
+      resultsContainer.innerHTML = results
+        .slice(0, 10)
+        .map(result => {
+          const title = result.title || 'Untitled';
+          const url = result.url || '#';
+          const date = result.date || '';
+          return `<li><a href="${url}"><span class="res-t">${title}</span><span class="res-d">${date}</span></a></li>`;
+        })
+        .join('');
+    }
+  });
+</script>

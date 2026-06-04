@@ -1,20 +1,20 @@
 ---
 layout: page
+title: About
 permalink: /about
 ---
 
-## About the Author: Ariyañāṇa (Stefano Domit Cervo)
+## the Author: Bhikkhu Ariyañāṇa
 
 <img src="/assets/img/round-me-214.jpg" alt="description" style="width: 40%;">
 
-**2003-2015**: Flamenco dancer (Spain, Brazil, USA, PRC, South Korea, Netherlands, Canada, and others). Highlights:
-- 1st Prize in "Festival Flamenco de Almeria".
-- 1st Prize in "Premio Extraordinario de la Danza de la Comunidad de Madrid".
-- Choreographer and soloist in "Hearbeat of Home" from the producers of Riverdance.
+**1991**: born in Brazil as Stefano Domit Cervo. 
+
+**2003-2015**: Flamenco dancer and choreographer (Spain, Brazil, USA, PRC, South Korea, Netherlands, Canada, and others).
 
 **2015-2022**: meditation (Myanmar) ([here](https://www.paauksociety.org/)).
 
-**2016-present**: Theravāda Buddhist monk for <span id="timer"></span> [(Calculate yours)](/monk-calculators)
+**2016-present**: Theravāda Buddhist monk under the mentorship of Ven. Pa Auk Sayadaw Āciṇṇa. Ordination period: <span id="timer"></span> [(Calculate yours)](/monk-calculators)
 
 <!-- ordination timer -->
 <script>
@@ -37,7 +37,7 @@ permalink: /about
 </script>
 
 
-**2022-present**: student and English teacher at [Intl. Inst. of Theravāda](https://www.theravado.com/) (Sri Lanka) and public speaker on Dhamma and meditation.
+**2022-present**: student and English teacher at [Intl. Inst. of Theravāda](https://www.theravado.com/) (Sri Lanka) and public speaker on Buddha Dhamma and meditation.
 
 
 <!-- Full Bio Link -->
@@ -45,7 +45,7 @@ permalink: /about
 
 <!-- Full Bio Content -->
 <div id="fullBio">
-    <p>Bhante Ariyañāṇa, born Stefano Domit Cervo in Brazil, is a former <a href="https://en.wikipedia.org/wiki/Flamenco">flamenco</a> dancer who captivated global audiences with his performances until 2015, when he embarked on a transformative quest as a <a href="https://en.wikipedia.org/wiki/Theravada">Theravāda</a> Buddhist monk.</p>
+    <p>Bhikkhu Ariyañāṇa, born Stefano Domit Cervo in Brazil, is a former <a href="https://en.wikipedia.org/wiki/Flamenco">flamenco</a> dancer who captivated global audiences with his performances until 2015, when he embarked on a transformative quest as a <a href="https://en.wikipedia.org/wiki/Theravada">Theravāda</a> Buddhist monk.</p>
     
   <h3>Artist Years</h3>
     <p>Inspired by his <a href="https://www.instagram.com/giseleclaudianedomit?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">mother</a>, a flamenco dancer herself, he, at the age of 11, followed in her footsteps, initially playing percussion and then dancing, teaching, and choreographing. Later, at the age of 17, he moved to Spain, the homeland of Flamenco, where he achieved significant acclaim including first place at the <a href="https://youtu.be/UjTlp9rKxSQ?feature=shared">Festival Flamenco de Almería (2013)</a> and the <a href="https://www.eter.com/actualidad/noticia.php?id=17429">"Premio Extraordinario de Danza de la Comunidad de Madrid" (2015)</a>. As a choreographer and soloist, he participated in <a href="https://heartbeatofhome.com/">Heartbeat of Home</a>, a production of the creators of the global phenomenon Riverdance.</p>
@@ -89,9 +89,29 @@ permalink: /about
 
 ---
 
-## About the Site
+## My Teachers
 
-I began this website as an **experiment**. I'm not sure how useful it will be, but I think that, among other things, it might help me:
+My gratitude to my **parents** and Dhamma teachers:
+
+- [Mr. Czech Thomas Dhammadīpa](https://www.dhammadipa.cz/)
+### Pa Auk Teachers
+- Ven. Sayadaw Salem Kovida Mahāthera
+- [Ven. Pa Auk Sayadaw Aciṇṇa Mahāthera](https://en.wikipedia.org/wiki/Bhaddanta_%C4%80ci%E1%B9%87%E1%B9%87a)
+- [Ven. Sayadaw Kumārābhivaṃsa Mahāthera](https://kumarabhivamsa.org/posts/biography/)
+- [Ven. Sīladassana Thera](https://lk.linkedin.com/in/ven-seeladassana-pj-jayasinghe-ba15573)
+### IIT Teachers
+- Ven. Watagoda Maggavihāri Mahāthera
+- Ven. Palmadulle Vijitānanda Thera: sāsanadhajadhammācariya, sakyasīhadhammācariya
+- Ven. Werapitiye Devānanda Mahāthera
+- Ven. Ududigana Siddhatthālaṅkāra Thera
+- Ven. Laos Sumana
+- Ven. Dodandūve Obhāsa 
+
+---
+
+## the Website
+
+I began this website as an **experiment** in 2025, mainly intending to make available my Dhamma summaries and notes. I hope that, among other things, it might help me:
 - keep track of and further my Dhamma projects and that of others
 - propagate the Buddha Dhamma
-- have a bigger positive impact on the sāsana and help more people
+- have a bigger positive impact on the sāsana and help more people realize the Dhamma

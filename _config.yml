@@ -1,4 +1,6 @@
 # Site Build Settings
+url: "https://brazilianmonk.github.io"
+baseurl: ""
 
 # jekyll-paginate configuration
 paginate:            5
@@ -19,3 +21,15 @@ author:              "Ariyañāṇa"
 #  path: rss-feed.xml
 
 google-ID: 'G-48EBF94R81'
+
+collections:
+  level_1:
+    output: true
+    permalink: /level-1/:name/
+  level_2:
+    output: true
+    permalink: /level-2/:name/
+  level_3:
+    output: true
+    permalink: /level-3/:name/
+

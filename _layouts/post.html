@@ -6,23 +6,48 @@ layout: default
   <h1>
     {{ page.title }}
   </h1>
-  {% if site.hide_post_date != true %}
-    {% include post-date.html %}
-  {% endif %}
+
+  <!-- Meta Section: Date and Reading Time -->
+  <div class="post-header-meta">
+    {% if site.hide_post_date != true %}
+      {% include post-date.html %}
+    {% endif %}
+
+    <span class="reading-time" title="Estimated reading time per language">
+      {% comment %} 
+        We count total words and divide by 3 since content is in 3 languages. 
+        We use a slower 160 WPM for technical/philosophical text.
+      {% endcomment %}
+      {% assign total_words = content | number_of_words %}
+      {% assign lang_words = total_words | divided_by: 3 %}
+      
+      • 🕒
+      {% if lang_words < 160 %}
+        1 min read
+      {% else %}
+        {{ lang_words | divided_by: 160 | plus: 1 }} min read
+      {% endif %}
+    </span>
+  </div>
+
   {% if page.image %}
     <div class="featured-image">
-      <img src="{{ site.github.url }}/assets/img/{{ page.image }}">
+      <img src="{{ site.github.url }}/assets/img/{{ page.image }}" alt="{{ page.title }}">
     </div>
   {% endif %}
+
   <article>
     {{ content }}
   </article>
+
   {% if site.hide_post_share != true %}
     {% include post-share.html %}
   {% endif %}
+
   {% if site.hide_related_posts != true %}
     {% include related-posts.html %}
   {% endif %}
+
   {% if site.data.settings.disqus.comments %}
     {% include disqus.html %}
   {% endif %}
