@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Essential Principles of Generosity and Merit
-author: [Brazil Ariyañāṇa Bhikkhu, Nepal Atthadassi Bhikkhu]
+author: Brazil Ariyañāṇa Bhikkhu and Nepal Atthadassi Bhikkhu
 categories: giving, kamma
 tags: 
 image: dana-principles.jpg
@@ -20,7 +20,7 @@ To truly understand the weight of your actions, you must look at your mind in th
 
 When these cetanās, especially the first two, are complete, they form a **_kammapatha_**—a complete action, strong enough to produce a favorable rebirth (**_paṭisandhi_**). 
 
-But not any action can produce a rebirth consciousness accompanied by wisdom--a requirement for being able to develop meditation. This means your giving should be accompanied by **_ñāṇa_** (knowledge of cause and effect). If you lack such knowledge, or your giving is not done willingly, or it your mind is defiled during the action such as by feeling remorse after giving—thinking, *"I should have given less"* or *"Was that gift good enough?"*—you weaken the merit and thereby its result. Remorse, and other defilements, downgrade a superior merit to a weaker, thereby leading to a **_dvi-hetuka_** (double-rooted) result (without knowledge). 
+But not any action can produce a rebirth consciousness accompanied by wisdom--a requirement for being able to develop meditation. This means your giving should be accompanied by **_ñāṇa_** (knowledge of cause and effect). If you lack such knowledge, or your giving is not done willingly, or it your mind is defiled during the action such as by feeling remorse after giving—thinking, *"I should have given less"* or *"Was that gift good enough?"*—you weaken the merit and thereby its result. Remorse, and other defilements, downgrade a superior merit to a weaker, thereby leading to a **_dvi-hetuka_** (double-rooted) result (without the third root: knowledge). 
 
 There are four factors I want you to consider to strengthen your meritorious deeds:
 
@@ -49,7 +49,7 @@ Para comprender verdaderamente el peso de sus acciones, debe mirar su mente en t
 
 Cuando estas cetan s, especialmente las dos primeras, están completas, forman un **_kammapatha_**, una acción completa, lo suficientemente fuerte como para producir un renacimiento favorable (**_paṭisandhi_**).
 
-Pero no cualquier acción puede producir una conciencia de renacimiento acompañada de sabiduría, un requisito para poder desarrollar la meditación. Esto significa que su acto de dar debe ir acompañado de **_ñāṇa_** (conocimiento de causa y efecto). Si carece de dicho conocimiento, o su acto de dar no se realiza de buena gana, o su mente se contamina durante la acción, como por ejemplo al sentir remordimiento después de dar pensando: "Debería haber dado menos" o "¿Fue ese regalo lo suficientemente bueno?", usted debilita el mérito y, por lo tanto, su resultado. El remordimiento y otras contaminaciones degradan un mérito superior a uno más débil, lo que lleva a un resultado **_dvi-hetuka_** (de doble raíz) (sin la tercera raiz: el conocimiento).
+Pero no cualquier acción puede producir una conciencia de renacimiento acompañada de sabiduría, un requisito para poder desarrollar la meditación. Esto significa que su acto de dar debe ir acompañado de **_ñāṇa_** (conocimiento de causa y efecto). Si carece de dicho conocimiento, o su acto de dar no se realiza de buena gana, o su mente se contamina durante la acción, como por ejemplo al sentir remordimiento después de dar pensando: *"Debería haber dado menos"* o *"¿Fue ese regalo lo suficientemente bueno?"*, usted debilita el mérito y, por lo tanto, su resultado. El remordimiento y otras contaminaciones degradan un mérito superior a uno más débil, lo que lleva a un resultado **_dvi-hetuka_** (de doble raíz) (sin la tercera raiz: el conocimiento).
 
 Hay cuatro factores que quiero que considere para fortalecer sus acciones meritorias:
 
@@ -79,7 +79,7 @@ Para compreender verdadeiramente o peso de suas ações, você deve olhar para s
 
 Quando essas cetan s, especialmente as duas primeiras, estão completas, elas formam um **_kammapatha_**, uma ação completa, forte o suficiente para produzir um renascimento favorável (**_paṭisandhi_**).
 
-Mas nem toda ação pode produzir uma consciência de renascimento acompanhada de sabedoria — um requisito para ser capaz de desenvolver a meditação. Isso significa que sua doação deve ser acompanhada de **_ñāṇa_** (conhecimento de causa e efeito). Se você não tem tal conhecimento, ou sua doação não é feita de boa vontade, ou sua mente está corrompida durante a ação, como por exemplo, sentir remorso depois de dar pensando: "Eu deveria ter dado menos" ou "Esse presente foi bom o suficiente?", você enfraquece o mérito e, consequentemente, seu resultado. O remorso, e outras impurezas, rebaixam um mérito superior para um mais fraco, levando assim a um resultado **_dvi-hetuka_** (de dupla raiz) (sem conhecimento).
+Mas nem toda ação pode produzir uma consciência de renascimento acompanhada de sabedoria — um requisito para ser capaz de desenvolver a meditação. Isso significa que sua doação deve ser acompanhada de **_ñāṇa_** (conhecimento de causa e efeito). Se você não tem tal conhecimento, ou sua doação não é feita de boa vontade, ou sua mente está corrompida durante a ação, como por exemplo, sentir remorso depois de dar pensando: *"Eu deveria ter dado menos"* ou *"Esse presente foi bom o suficiente?"*, você enfraquece o mérito e, consequentemente, seu resultado. O remorso, e outras impurezas, rebaixam um mérito superior para um mais fraco, levando assim a um resultado **_dvi-hetuka_** (de dupla raiz) (sem a terceira raiz: o conhecimento).
 
 Existem quatro fatores que quero que você considere para fortalecer seus atos meritórios:
 
