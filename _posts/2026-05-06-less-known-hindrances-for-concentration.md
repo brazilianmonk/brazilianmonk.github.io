@@ -2,8 +2,8 @@
 layout: post
 title: Less Known Hindrances for Concentration
 author: Brazil Ariyañāṇa Bhikkhu
-categories: meditation
-tags: [meditation, abhidhamma, concentration]
+categories: Meditation
+tags: [Meditation (bhāvanā), Concentration (samādhi), Hindrances (nīvaraṇas), Ingratitude (akataññutā akataveditā, Absorption (jhāna)]
 image: nivarana.jpg
 ---
 

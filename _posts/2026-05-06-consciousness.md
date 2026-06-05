@@ -2,8 +2,8 @@
 layout: post
 title: Consciousness -- Citta
 author: Brazil Ariyañāṇa Bhikkhu
-categories: abhidhamma
-tags: [abhidhamma, consciousness, citta]
+categories: Abhidhamma
+tags: [Consciousness (citta), Mental Factors (cetasikas), Object (ārammaṇa)]
 image: citta-simile.png
 ---
 
@@ -36,12 +36,6 @@ Material (physical) phenomena are not capable of fulfilling these functions of c
 
 
 ---
-
-
-
-
-
-
 
 ## 🇪🇸 Español
 ### Conciencia

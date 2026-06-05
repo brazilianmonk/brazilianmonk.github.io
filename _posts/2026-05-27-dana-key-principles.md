@@ -2,8 +2,8 @@
 layout: post
 title: Essential Principles of Generosity and Merit
 author: Brazil Ariyañāṇa Bhikkhu and Nepal Atthadassi Bhikkhu
-categories: giving, kamma
-tags: 
+categories: Giving
+tags: [Giving (dāna), Volition (cetanā, kamma), Rebirth-linking Consciousness (paṭisandhi), Benevolence (mettā)]
 image: dana-principles.jpg
 ---
 
