@@ -3,13 +3,13 @@
     <a href="{{ site.github.url }}/"> <img src="/assets/img/logo-img.jpg" width="250"></a>
   </h3>
 
-  <div class="nav-search">
+  <form class="nav-search" action="https://www.google.com/search" method="get" target="_blank" id="google-search-form">
+    <input type="hidden" name="q" id="google-search-query">
     <div class="search-input-wrapper">
-      <i class="fa fa-search search-icon"></i>
-      <input type="text" id="nav-search-input" placeholder="Search...">
+      <i class="fa fa-search search-icon" style="cursor: pointer;" onclick="document.getElementById('google-search-form').requestSubmit();"></i>
+      <input type="text" id="nav-search-input" placeholder="Search..." required>
     </div>
-    <ul id="results-container"></ul>
-  </div>
+  </form>
 
   <nav class="menu-list">
     {% for item in site.data.settings.menu %}
@@ -28,75 +28,16 @@
 </header>
 
 <script>
-  let searchData = [];
-  let searchLoaded = false;
-
-  // Fetch search data
-  console.log("Starting search initialization...");
-  fetch('/search.json')
-    .then(response => {
-      console.log("Fetch response status:", response.status);
-      if (!response.ok) throw new Error('Failed to load search.json');
-      return response.json();
-    })
-    .then(data => {
-      searchData = data;
-      searchLoaded = true;
-      console.log("✓ Search data loaded successfully!");
-      console.log("Total items:", searchData.length);
-      if (searchData.length > 0) {
-        console.log("Sample item:", searchData[0]);
-      }
-    })
-    .catch(error => {
-      console.error("✗ Error loading search data:", error);
-      searchLoaded = false;
-    });
-
-  // Search functionality
-  const searchInput = document.getElementById('nav-search-input');
-  const resultsContainer = document.getElementById('results-container');
-
-  searchInput.addEventListener('input', function() {
-    const query = this.value.toLowerCase().trim();
+  document.getElementById('google-search-form').addEventListener('submit', function(e) {
+    const searchInput = document.getElementById('nav-search-input');
+    const googleQuery = document.getElementById('google-search-query');
+    const userQuery = searchInput.value.trim();
     
-    console.log("Search query:", query, "| Data loaded:", searchLoaded, "| Items available:", searchData.length);
-
-    // Clear results if query is empty
-    if (query.length === 0) {
-      resultsContainer.innerHTML = '';
-      return;
-    }
-
-    // Check if data is loaded
-    if (!searchLoaded || searchData.length === 0) {
-      resultsContainer.innerHTML = '<li class="no-res" style="padding:10px; color: #999;">Loading search data...</li>';
-      return;
-    }
-
-    // Perform search
-    const results = searchData.filter(item => {
-      const title = (item.title || '').toLowerCase();
-      const content = (item.content || '').toLowerCase();
-      const combined = title + ' ' + content;
-      return combined.includes(query);
-    });
-
-    console.log("Results found:", results.length);
-
-    // Display results
-    if (results.length === 0) {
-      resultsContainer.innerHTML = '<li class="no-res" style="padding:10px; color: #999;">No results found</li>';
+    if (userQuery) {
+      const siteDomain = "{{ site.url | replace: 'https://', '' | replace: 'http://', '' | replace: '/', '' }}";
+      googleQuery.value = `site:${siteDomain} ${userQuery}`;
     } else {
-      resultsContainer.innerHTML = results
-        .slice(0, 10)
-        .map(result => {
-          const title = result.title || 'Untitled';
-          const url = result.url || '#';
-          const date = result.date || '';
-          return `<li><a href="${url}"><span class="res-t">${title}</span><span class="res-d">${date}</span></a></li>`;
-        })
-        .join('');
+      e.preventDefault();
     }
   });
 </script>

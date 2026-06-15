@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Article Practice Drag-and-Drop App</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            max-width: 900px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #e9ecef;
+            color: #333;
+        }
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+        }
+        .question {
+            margin: 20px 0;
+            padding: 15px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 3px 6px rgba(0,0,0,0.1);
+        }
+        .sentence {
+            font-size: 18px;
+            margin-bottom: 15px;
+            display: inline-block;
+        }
+        .drop-zone {
+            display: inline-block;
+            width: 60px;
+            height: 30px;
+            border: 2px dashed #007bff;
+            border-radius: 5px;
+            text-align: center;
+            line-height: 30px;
+            vertical-align: middle;
+            cursor: pointer;
+        }
+        .article-option {
+            display: inline-block;
+            padding: 5px 10px;
+            margin: 5px;
+            background-color: #007bff;
+            color: white;
+            border-radius: 5px;
+            cursor: move;
+            user-select: none;
+        }
+        .article-option.dragging {
+            opacity: 0.5;
+        }
+        .feedback {
+            margin-top: 10px;
+            font-size: 16px;
+            font-weight: bold;
+        }
+        .correct { color: #28a745; }
+        .incorrect { color: #dc3545; }
+        #score {
+            text-align: center;
+            font-size: 20px;
+            margin: 20px 0;
+            color: #2c3e50;
+        }
+        button {
+            display: block;
+            margin: 20px auto;
+            padding: 12px 25px;
+            font-size: 16px;
+            background-color: #28a745;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        button:hover {
+            background-color: #218838;
+        }
+        @media (max-width: 600px) {
+            .sentence { font-size: 16px; }
+            .drop-zone { width: 50px; height: 25px; line-height: 25px; }
+            .article-option { padding: 4px 8px; font-size: 14px; }
+        }
+    </style>
+</head>
+<body>
+    <h1>Drag-and-Drop Article Practice</h1>
+    <div id="quiz">
+        <!-- Questions will be dynamically inserted here -->
+    </div>
+    <div id="score">Score: 0 / 0</div>
+    <button onclick="resetQuiz()">New Quiz</button>
+
+    <script>
+        const questionBank = [
+            { sentence: "I bought ___ new phone.", answer: "a", explanation: "'A' is used before a singular, countable noun with a consonant sound." },
+            { sentence: "She saw ___ eagle in the sky.", answer: "an", explanation: "'An' is used before a singular, countable noun with a vowel sound." },
+            { sentence: "___ sun sets in the west.", answer: "the", explanation: "'The' is used for specific, unique nouns like 'the sun'." },
+            { sentence: "I need ___ sugar for the recipe.", answer: "Ø", explanation: "Zero article is used with uncountable nouns in a general sense." },
+            { sentence: "He is ___ honest person.", answer: "an", explanation: "'An' is used before a singular noun with a vowel sound (e.g., 'honest' pronounced /ˈɒnɪst/)." },
+            { sentence: "___ Mount Fuji is beautiful.", answer: "Ø", explanation: "Zero article is used with proper nouns like mountains." },
+            { sentence: "She plays ___ guitar well.", answer: "the", explanation: "'The' is used with musical instruments when playing them." },
+            { sentence: "I have ___ dog.", answer: "a", explanation: "'A' is used before a singular, countable noun, non-specific." },
+            { sentence: "___ dogs are friendly.", answer: "Ø", explanation: "Zero article is used with plural nouns in a general sense." },
+            { sentence: "This is ___ book I recommended.", answer: "the", explanation: "'The' is used for a specific noun mentioned earlier." },
+            { sentence: "He wants to be ___ astronaut.", answer: "an", explanation: "'An' is used before a singular noun with a vowel sound, non-specific." },
+            { sentence: "___ United States has 50 states.", answer: "the", explanation: "'The' is used with plural country names." },
+            { sentence: "I drink ___ tea every morning.", answer: "Ø", explanation: "Zero article is used with uncountable nouns in a general sense." },
+            { sentence: "___ Taj Mahal is in India.", answer: "the", explanation: "'The' is used with specific landmarks." },
+            { sentence: "She has ___ cat and ___ dog.", answer: "a", explanation: "'A' is used for each singular, countable noun, non-specific." },
+            { sentence: "___ love is universal.", answer: "Ø", explanation: "Zero article is used with abstract nouns in a general sense." },
+            { sentence: "I need ___ umbrella today.", answer: "an", explanation: "'An' is used for a singular, countable noun with a vowel sound." },
+            { sentence: "___ rich help ___ poor.", answer: "the", explanation: "'The' is used for specific groups treated as a whole." },
+            { sentence: "He goes to ___ school daily.", answer: "Ø", explanation: "Zero article is used for institutions in a general sense." },
+            { sentence: "This is ___ best day ever.", answer: "the", explanation: "'The' is used with superlatives." },
+            { sentence: "I saw ___ lion at the zoo.", answer: "a", explanation: "'A' is used before a singular, countable noun, non-specific." },
+            { sentence: "She ate ___ ice cream.", answer: "an", explanation: "'An' is used before a singular, countable noun with a vowel sound." },
+            { sentence: "___ Pacific Ocean is vast.", answer: "the", explanation: "'The' is used with specific geographical features." },
+            { sentence: "I enjoy ___ hiking.", answer: "Ø", explanation: "Zero article is used with activities in a general sense." },
+            { sentence: "He is ___ artist.", answer: "an", explanation: "'An' is used before a singular noun with a vowel sound." },
+            { sentence: "___ Alps are in Europe.", answer: "the", explanation: "'The' is used with mountain ranges." },
+            { sentence: "She plays ___ piano.", answer: "the", explanation: "'The' is used with musical instruments." },
+            { sentence: "I need ___ information.", answer: "Ø", explanation: "Zero article is used with uncountable nouns." },
+            { sentence: "___ children love toys.", answer: "Ø", explanation: "Zero article is used with plural nouns in a general sense." },
+            { sentence: "This is ___ house I grew up in.", answer: "the", explanation: "'The' is used for a specific noun." },
+            { sentence: "She wants to visit ___ Asia.", answer: "Ø", explanation: "Zero article is used with continents." },
+            { sentence: "___ elderly need care.", answer: "the", explanation: "'The' is used for specific groups." },
+            { sentence: "I have ___ cold.", answer: "a", explanation: "'A' is used before a singular, countable noun." },
+            { sentence: "___ Amazon is a rainforest.", answer: "the", explanation: "'The' is used with specific regions." },
+            { sentence: "She goes to ___ bed early.", answer: "Ø", explanation: "Zero article is used for institutions in a general sense." },
+            { sentence: "This is ___ fastest car.", answer: "the", explanation: "'The' is used with superlatives." },
+            { sentence: "I bought ___ apple.", answer: "an", explanation: "'An' is used for a singular, countable noun with a vowel sound." },
+            { sentence: "___ wisdom comes with age.", answer: "Ø", explanation: "Zero article is used with abstract nouns." },
+            { sentence: "He lives in ___ Canada.", answer: "Ø", explanation: "Zero article is used with singular country names." },
+            { sentence: "I saw ___ owl last night.", answer: "an", explanation: "'An' is used for a singular, countable noun with a vowel sound." },
+            { sentence: "I want ___ new laptop.", answer: "a", explanation: "'A' is used before a singular, countable noun." },
+            { sentence: "She drank ___ juice.", answer: "Ø", explanation: "Zero article is used with uncountable nouns." },
+            { sentence: "___ Himalayas are majestic.", answer: "the", explanation: "'The' is used with mountain ranges." },
+            { sentence: "I love ___ reading.", answer: "Ø", explanation: "Zero article is used with activities." },
+            { sentence: "He is ___ uncle of mine.", answer: "an", explanation: "'An' is used before a singular noun with a vowel sound." },
+            { sentence: "___ Grand Canyon is stunning.", answer: "the", explanation: "'The' is used with specific landmarks." },
+            { sentence: "She plays ___ flute.", answer: "the", explanation: "'The' is used with musical instruments." },
+            { sentence: "I need ___ help.", answer: "Ø", explanation: "Zero article is used with uncountable nouns." },
+            { sentence: "___ birds sing beautifully.", answer: "Ø", explanation: "Zero article is used with plural nouns." },
+            { sentence: "This is ___ movie I love.", answer: "the", explanation: "'The' is used for a specific noun." },
+            { sentence: "He wants to explore ___ Africa.", answer: "Ø", explanation: "Zero article is used with continents." },
+            { sentence: "___ young are energetic.", answer: "the", explanation: "'The' is used for specific groups." },
+            { sentence: "I have ___ ticket.", answer: "a", explanation: "'A' is used before a singular, countable noun." },
+            { sentence: "___ Sahara is a desert.", answer: "the", explanation: "'The' is used with specific regions." },
+            { sentence: "She goes to ___ work daily.", answer: "Ø", explanation: "Zero article is used for institutions." },
+            { sentence: "This is ___ tallest building.", answer: "the", explanation: "'The' is used with superlatives." },
+            { sentence: "I bought ___ orange juice.", answer: "Ø", explanation: "Zero article is used with uncountable nouns." },
+            { sentence: "___ courage is admirable.", answer: "Ø", explanation: "Zero article is used with abstract nouns." },
+            { sentence: "He lives in ___ Japan.", answer: "Ø", explanation: "Zero article is used with singular country names." },
+            { sentence: "I saw ___ elephant.", answer: "an", explanation: "'An' is used for a singular, countable noun with a vowel sound." },
+            { sentence: "I want ___ new chair.", answer: "a", explanation: "'A' is used before a singular, countable noun." },
+            { sentence: "She drank ___ milk.", answer: "Ø", explanation: "Zero article is used with uncountable nouns." },
+            { sentence: "___ Rockies are in North America.", answer: "the", explanation: "'The' is used with mountain ranges." },
+            { sentence: "I enjoy ___ painting.", answer: "Ø", explanation: "Zero article is used with activities." },
+            { sentence: "He is ___ expert.", answer: "an", explanation: "'An' is used before a singular noun with a vowel sound." },
+            { sentence: "___ Statue of Liberty is in New York.", answer: "the", explanation: "'The' is used with specific landmarks." },
+            { sentence: "She plays ___ drums.", answer: "the", explanation: "'The' is used with musical instruments." },
+            { sentence: "I need ___ advice.", answer: "Ø", explanation: "Zero article is used with uncountable nouns." },
+            { sentence: "___ flowers bloom in spring.", answer: "Ø", explanation: "Zero article is used with plural nouns." },
+            { sentence: "This is ___ song I wrote.", answer: "the", explanation: "'The' is used for a specific noun." },
+            { sentence: "He wants to visit ___ Australia.", answer: "Ø", explanation: "Zero article is used with continents." },
+            { sentence: "___ sick need medicine.", answer: "the", explanation: "'The' is used for specific groups." },
+            { sentence: "I have ___ problem.", answer: "a", explanation: "'A' is used before a singular, countable noun." },
+            { sentence: "___ Gobi is a desert.", answer: "the", explanation: "'The' is used with specific regions." },
+            { sentence: "She goes to ___ prison to volunteer.", answer: "Ø", explanation: "Zero article is used for institutions." },
+            { sentence: "This is ___ smallest room.", answer: "the", explanation: "'The' is used with superlatives." },
+            { sentence: "I bought ___ egg.", answer: "an", explanation: "'An' is used for a singular, countable noun with a vowel sound." },
+            { sentence: "___ beauty is subjective.", answer: "Ø", explanation: "Zero article is used with abstract nouns." },
+            { sentence: "He lives in ___ Brazil.", answer: "Ø", explanation: "Zero article is used with singular country names." },
+            { sentence: "I saw ___ antelope.", answer: "an", explanation: "'An' is used for a singular, countable noun with a vowel sound." },
+            { sentence: "I want ___ new book.", answer: "a", explanation: "'A' is used before a singular, countable noun." },
+            { sentence: "She drank ___ water.", answer: "Ø", explanation: "Zero article is used with uncountable nouns." },
+            { sentence: "___ Andes are in South America.", answer: "the", explanation: "'The' is used with mountain ranges." },
+            { sentence: "I enjoy ___ swimming.", answer: "Ø", explanation: "Zero article is used with activities." },
+            { sentence: "He is ___ inventor.", answer: "an", explanation: "'An' is used before a singular noun with a vowel sound." },
+            { sentence: "___ Pyramids are in Egypt.", answer: "the", explanation: "'The' is used with specific landmarks." },
+            { sentence: "She plays ___ trumpet.", answer: "the", explanation: "'The' is used with musical instruments." },
+            { sentence: "I need ___ guidance.", answer: "Ø", explanation: "Zero article is used with uncountable nouns." },
+            { sentence: "___ trees grow tall.", answer: "Ø", explanation: "Zero article is used with plural nouns." },
+            { sentence: "This is ___ place I visited.", answer: "the", explanation: "'The' is used for a specific noun." },
+            { sentence: "He wants to explore ___ Antarctica.", answer: "Ø", explanation: "Zero article is used with continents." },
+            { sentence: "___ homeless need shelter.", answer: "the", explanation: "'The' is used for specific groups." },
+            { sentence: "I have ___ dream.", answer: "a", explanation: "'A' is used before a singular, countable noun." },
+            { sentence: "___ Arctic is cold.", answer: "the", explanation: "'The' is used with specific regions." },
+            { sentence: "She goes to ___ college.", answer: "Ø", explanation: "Zero article is used for institutions." },
+            { sentence: "This is ___ greatest show.", answer: "the", explanation: "'The' is used with superlatives." },
+            { sentence: "I need ___ chair for the room.", answer: "a", explanation: "'A' is used before a singular, countable noun with a consonant sound." },
+    { sentence: "He ate ___ avocado.", answer: "an", explanation: "'An' is used before a singular, countable noun with a vowel sound." },
+    { sentence: "___ Earth rotates daily.", answer: "the", explanation: "'The' is used for specific, unique nouns like 'the Earth'." },
+    { sentence: "She drinks ___ coffee daily.", answer: "Ø", explanation: "Zero article is used with uncountable nouns in a general sense." },
+    { sentence: "He is ___ architect.", answer: "an", explanation: "'An' is used before a singular noun with a vowel sound." },
+    { sentence: "___ Lake Baikal is deep.", answer: "Ø", explanation: "Zero article is used with proper nouns like lakes." },
+    { sentence: "She plays ___ cello.", answer: "the", explanation: "'The' is used with musical instruments." },
+    { sentence: "I saw ___ monkey at the zoo.", answer: "a", explanation: "'A' is used before a singular, countable noun, non-specific." },
+    { sentence: "___ elephants are large.", answer: "Ø", explanation: "Zero article is used with plural nouns in a general sense." },
+    { sentence: "This is ___ painting I admire.", answer: "the", explanation: "'The' is used for a specific noun mentioned earlier." },
+    { sentence: "She wants to be ___ engineer.", answer: "an", explanation: "'An' is used before a singular noun with a vowel sound." },
+    { sentence: "___ Philippines is an archipelago.", answer: "the", explanation: "'The' is used with plural country names." },
+    { sentence: "I need ___ rice for dinner.", answer: "Ø", explanation: "Zero article is used with uncountable nouns." },
+    { sentence: "___ Colosseum is in Rome.", answer: "the", explanation: "'The' is used with specific landmarks." },
+    { sentence: "He has ___ bird and ___ fish.", answer: "a", explanation: "'A' is used for each singular, countable noun." },
+    { sentence: "___ peace is essential.", answer: "Ø", explanation: "Zero article is used with abstract nouns." },
+    { sentence: "I forgot ___ invitation.", answer: "an", explanation: "'An' is used for a singular, countable noun with a vowel sound." },
+    { sentence: "___ wealthy support ___ needy.", answer: "the", explanation: "'The' is used for specific groups." },
+    { sentence: "She goes to ___ hospital to volunteer.", answer: "Ø", explanation: "Zero article is used for institutions." },
+    { sentence: "This is ___ worst day ever.", answer: "the", explanation: "'The' is used with superlatives." },
+    { sentence: "I bought ___ table.", answer: "a", explanation: "'A' is used before a singular, countable noun." },
+    { sentence: "He ate ___ apricot.", answer: "an", explanation: "'An' is used before a singular, countable noun with a vowel sound." },
+    { sentence: "___ Milky Way is our galaxy.", answer: "the", explanation: "'The' is used for specific, unique nouns." },
+    { sentence: "I like ___ chocolate.", answer: "Ø", explanation: "Zero article is used with uncountable nouns." },
+    { sentence: "She is ___ accountant.", answer: "an", explanation: "'An' is used before a singular noun with a vowel sound." },
+    { sentence: "___ Mount Kilimanjaro is in Tanzania.", answer: "Ø", explanation: "Zero article is used with proper nouns like mountains." },
+    { sentence: "He plays ___ saxophone.", answer: "the", explanation: "'The' is used with musical instruments." },
+    { sentence: "I need ___ pen.", answer: "a", explanation: "'A' is used before a singular, countable noun." },
+    { sentence: "___ horses run fast.", answer: "Ø", explanation: "Zero article is used with plural nouns in a general sense." },
+    { sentence: "This is ___ gift I received.", answer: "the", explanation: "'The' is used for a specific noun." },
+    { sentence: "He wants to be ___ actor.", answer: "an", explanation: "'An' is used before a singular noun with a vowel sound." },
+    { sentence: "___ Netherlands is in Europe.", answer: "the", explanation: "'The' is used with plural country names." },
+    { sentence: "I bought ___ bread.", answer: "Ø", explanation: "Zero article is used with uncountable nouns." },
+    { sentence: "___ Louvre is in Paris.", answer: "the", explanation: "'The' is used with specific landmarks." },
+    { sentence: "She has ___ rabbit and ___ hamster.", answer: "a", explanation: "'A' is used for each singular, countable noun." },
+    { sentence: "___ joy is contagious.", answer: "Ø", explanation: "Zero article is used with abstract nouns." },
+    { sentence: "I need ___ eraser.", answer: "an", explanation: "'An' is used for a singular, countable noun with a vowel sound." },
+    { sentence: "___ strong help ___ weak.", answer: "the", explanation: "'The' is used for specific groups." },
+    { sentence: "He goes to ___ court regularly.", answer: "Ø", explanation: "Zero article is used for institutions." },
+    { sentence: "This is ___ largest park.", answer: "the", explanation: "'The' is used with superlatives." },
+    { sentence: "I saw ___ bear in the forest.", answer: "a", explanation: "'A' is used before a singular, countable noun." },
+    { sentence: "She ate ___ olive.", answer: "an", explanation: "'An' is used before a singular, countable noun with a vowel sound." },
+    { sentence: "___ Atlantic Ocean is vast.", answer: "the", explanation: "'The' is used with specific geographical features." },
+    { sentence: "I enjoy ___ dancing.", answer: "Ø", explanation: "Zero article is used with activities." },
+    { sentence: "He is ___ author.", answer: "an", explanation: "'An' is used before a singular noun with a vowel sound." },
+    { sentence: "___ Great Wall is in China.", answer: "the", explanation: "'The' is used with specific landmarks." },
+    { sentence: "She plays ___ harp.", answer: "the", explanation: "'The' is used with musical instruments." },
+    { sentence: "I need ___ paper.", answer: "Ø", explanation: "Zero article is used with uncountable nouns." },
+    { sentence: "___ wolves hunt in packs.", answer: "Ø", explanation: "Zero article is used with plural nouns." },
+    { sentence: "This is ___ story I wrote.", answer: "the", explanation: "'The' is used for a specific noun." },
+    { sentence: "She wants to visit ___ South America.", answer: "Ø", explanation: "Zero article is used with continents." },
+    { sentence: "___ injured need care.", answer: "the", explanation: "'The' is used for specific groups." },
+    { sentence: "I have ___ question.", answer: "a", explanation: "'A' is used before a singular, countable noun." },
+    { sentence: "___ Everglades is a wetland.", answer: "the", explanation: "'The' is used with specific regions." },
+    { sentence: "She goes to ___ university.", answer: "Ø", explanation: "Zero article is used for institutions." },
+    { sentence: "This is ___ brightest star.", answer: "the", explanation: "'The' is used with superlatives." },
+    { sentence: "I bought ___ onion.", answer: "an", explanation: "'An' is used for a singular, countable noun with a vowel sound." },
+    { sentence: "___ honesty is valued.", answer: "Ø", explanation: "Zero article is used with abstract nouns." },
+    { sentence: "He lives in ___ India.", answer: "Ø", explanation: "Zero article is used with singular country names." },
+    { sentence: "I saw ___ iguana.", answer: "an", explanation: "'An' is used for a singular, countable noun with a vowel sound." },
+    { sentence: "I want ___ new jacket.", answer: "a", explanation: "'A' is used before a singular, countable noun." },
+    { sentence: "She drank ___ soda.", answer: "Ø", explanation: "Zero article is used with uncountable nouns." },
+    { sentence: "___ Pyrenees are in Europe.", answer: "the", explanation: "'The' is used with mountain ranges." },
+    { sentence: "I enjoy ___ writing.", answer: "Ø", explanation: "Zero article is used with activities." },
+    { sentence: "He is ___ officer.", answer: "an", explanation: "'An' is used before a singular noun with a vowel sound." },
+    { sentence: "___ Big Ben is in London.", answer: "Ø", explanation: "Zero article is used with proper nouns like landmarks in some contexts." },
+    { sentence: "She plays ___ clarinet.", answer: "the", explanation: "'The' is used with musical instruments." },
+    { sentence: "I need ___ support.", answer: "Ø", explanation: "Zero article is used with uncountable nouns." },
+    { sentence: "___ ants work together.", answer: "Ø", explanation: "Zero article is used with plural nouns." },
+    { sentence: "This is ___ place I love.", answer: "the", explanation: "'The' is used for a specific noun." },
+    { sentence: "He wants to explore ___ North America.", answer: "Ø", explanation: "Zero article is used with continents." },
+    { sentence: "___ unemployed need jobs.", answer: "the", explanation: "'The' is used for specific groups." },
+    { sentence: "I have ___ plan.", answer: "a", explanation: "'A' is used before a singular, countable noun." },
+    { sentence: "___ Great Barrier Reef is in Australia.", answer: "the", explanation: "'The' is used with specific regions." },
+    { sentence: "She goes to ___ market weekly.", answer: "Ø", explanation: "Zero article is used for institutions." },
+    { sentence: "This is ___ most exciting game.", answer: "the", explanation: "'The' is used with superlatives." },
+    { sentence: "I bought ___ eggplant.", answer: "an", explanation: "'An' is used for a singular, countable noun with a vowel sound." },
+    { sentence: "___ kindness is rare.", answer: "Ø", explanation: "Zero article is used with abstract nouns." },
+    { sentence: "He lives in ___ Mexico.", answer: "Ø", explanation: "Zero article is used with singular country names." },
+    { sentence: "I saw ___ ostrich.", answer: "an", explanation: "'An' is used for a singular, countable noun with a vowel sound." },
+    { sentence: "I want ___ new lamp.", answer: "a", explanation: "'A' is used before a singular, countable noun." },
+    { sentence: "She drank ___ tea.", answer: "Ø", explanation: "Zero article is used with uncountable nouns." },
+    { sentence: "___ Appalachians are in the USA.", answer: "the", explanation: "'The' is used with mountain ranges." },
+    { sentence: "I enjoy ___ singing.", answer: "Ø", explanation: "Zero article is used with activities." },
+    { sentence: "He is ___ analyst.", answer: "an", explanation: "'An' is used before a singular noun with a vowel sound." },
+    { sentence: "___ Machu Picchu is in Peru.", answer: "Ø", explanation: "Zero article is used with proper nouns like landmarks." },
+    { sentence: "She plays ___ oboe.", answer: "the", explanation: "'The' is used with musical instruments." },
+    { sentence: "I need ___ feedback.", answer: "Ø", explanation: "Zero article is used with uncountable nouns." },
+    { sentence: "___ bees make honey.", answer: "Ø", explanation: "Zero article is used with plural nouns." },
+    { sentence: "This is ___ city I visited.", answer: "the", explanation: "'The' is used for a specific noun." },
+    { sentence: "He wants to visit ___ Europe.", answer: "Ø", explanation: "Zero article is used with continents." },
+    { sentence: "___ elderly deserve respect.", answer: "the", explanation: "'The' is used for specific groups." },
+    { sentence: "I have ___ goal.", answer: "a", explanation: "'A' is used before a singular, countable noun." },
+    { sentence: "___ Kalahari is a desert.", answer: "the", explanation: "'The' is used with specific regions." },
+    { sentence: "She goes to ___ library often.", answer: "Ø", explanation: "Zero article is used for institutions." },
+    { sentence: "This is ___ best restaurant.", answer: "the", explanation: "'The' is used with superlatives." },
+    { sentence: "I bought ___ artichoke.", answer: "an", explanation: "'An' is used for a singular, countable noun with a vowel sound." },
+    { sentence: "___ patience is a virtue.", answer: "Ø", explanation: "Zero article is used with abstract nouns." },
+    { sentence: "He lives in ___ Thailand.", answer: "Ø", explanation: "Zero article is used with singular country names." },
+    { sentence: "I saw ___ elk in the park.", answer: "an", explanation: "'An' is used for a singular, countable noun with a vowel sound." }
+        ];
+
+        let score = 0;
+        let total = 20; // Number of questions per quiz
+        let currentQuestions = [];
+        const options = ["a", "an", "the", "Ø"];
+
+        function getRandomQuestions() {
+            const shuffled = questionBank.sort(() => 0.5 - Math.random());
+            return shuffled.slice(0, total);
+        }
+
+        function loadQuiz() {
+            currentQuestions = getRandomQuestions();
+            const quizDiv = document.getElementById('quiz');
+            quizDiv.innerHTML = '';
+            currentQuestions.forEach((q, index) => {
+                const questionDiv = document.createElement('div');
+                questionDiv.className = 'question';
+                questionDiv.innerHTML = `
+                    <div class="sentence">${q.sentence.replace('___', '<span class="drop-zone" id="drop' + index + '"></span>')}</div>
+                    <div class="options">
+                        ${options.map(opt => `<span class="article-option" draggable="true">${opt}</span>`).join('')}
+                    </div>
+                    <div class="feedback" id="feedback${index}"></div>
+                `;
+                quizDiv.appendChild(questionDiv);
+            });
+            addDragAndDropListeners();
+            updateScore();
+        }
+
+        function addDragAndDropListeners() {
+            document.querySelectorAll('.article-option').forEach(option => {
+                option.addEventListener('dragstart', (e) => {
+                    e.dataTransfer.setData('text', e.target.textContent);
+                    e.target.classList.add('dragging');
+                });
+                option.addEventListener('dragend', (e) => {
+                    e.target.classList.remove('dragging');
+                });
+            });
+
+            document.querySelectorAll('.drop-zone').forEach(zone => {
+                zone.addEventListener('dragover', (e) => {
+                    e.preventDefault();
+                });
+                zone.addEventListener('drop', (e) => {
+                    e.preventDefault();
+                    const article = e.dataTransfer.getData('text');
+                    const index = zone.id.replace('drop', '');
+                    zone.textContent = article;
+                    checkAnswer(index, article);
+                });
+            });
+        }
+
+        function checkAnswer(index, article) {
+            const feedback = document.getElementById(`feedback${index}`);
+            const correct = currentQuestions[index].answer;
+            if (article === correct) {
+                feedback.className = 'feedback correct';
+                feedback.innerHTML = `Correct! ${currentQuestions[index].explanation}`;
+                if (!feedback.dataset.answered) {
+                    score++;
+                    feedback.dataset.answered = true;
+                }
+            } else {
+                feedback.className = 'feedback incorrect';
+                feedback.innerHTML = `Incorrect. ${currentQuestions[index].explanation}`;
+                if (feedback.dataset.answered) {
+                    score--;
+                    feedback.dataset.answered = false;
+                }
+            }
+            updateScore();
+        }
+
+        function updateScore() {
+            document.getElementById('score').innerHTML = `Score: ${score} / ${total}`;
+        }
+
+        function resetQuiz() {
+            score = 0;
+            currentQuestions.forEach((q, index) => {
+                const feedback = document.getElementById(`feedback${index}`);
+                if (feedback) feedback.dataset.answered = false;
+            });
+            loadQuiz();
+        }
+
+        // Load quiz on page load
+        loadQuiz();
+    </script>
+</body>
+</html>

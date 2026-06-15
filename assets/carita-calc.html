@@ -1,0 +1,446 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <title>Carita Guide · Buddhist Temperament & Meditation Tool</title>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+        body {
+            background: #f6f3ed;
+            font-family: 'Segoe UI', 'Noto Sans', system-ui, -apple-system, 'Times New Roman', serif;
+            margin: 0;
+            padding: 2rem 1rem;
+            color: #2c2418;
+        }
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: #fffef7;
+            border-radius: 2rem;
+            box-shadow: 0 12px 30px rgba(0,0,0,0.08);
+            overflow: hidden;
+            border: 1px solid #e2d9cd;
+        }
+        .header {
+            background: #2b5e3b;
+            background: linear-gradient(135deg, #1f4d2e, #2b5e3b);
+            color: #fef2df;
+            padding: 1.8rem 2rem;
+            text-align: center;
+        }
+        .header h1 {
+            margin: 0 0 0.3rem;
+            font-weight: 500;
+            letter-spacing: -0.3px;
+            font-size: 1.9rem;
+        }
+        .header p {
+            font-style: italic;
+            margin: 0;
+            opacity: 0.9;
+            font-size: 0.95rem;
+        }
+        .content {
+            padding: 2rem 2rem 2rem;
+        }
+        .question-panel {
+            background: #fefaf0;
+            border-radius: 1.5rem;
+            padding: 1.5rem;
+            margin-bottom: 2rem;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.03);
+            border: 1px solid #e7dfd0;
+        }
+        .question {
+            font-weight: 600;
+            font-size: 1.25rem;
+            margin-bottom: 1.2rem;
+            color: #3a2a1f;
+            border-left: 5px solid #b68b40;
+            padding-left: 1rem;
+        }
+        .options {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.75rem;
+            margin-bottom: 1rem;
+        }
+        .option-btn {
+            background: #ffffff;
+            border: 1px solid #cfc5b2;
+            padding: 0.6rem 1.2rem;
+            border-radius: 60px;
+            font-size: 0.9rem;
+            font-weight: 500;
+            color: #4a3724;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            font-family: inherit;
+        }
+        .option-btn:hover {
+            background: #ede3d3;
+            border-color: #b68b40;
+        }
+        .option-btn.selected {
+            background: #2b5e3b;
+            border-color: #2b5e3b;
+            color: white;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+        }
+        .reset-area {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            margin-top: 1.2rem;
+            gap: 1rem;
+        }
+        button {
+            background: #e7ddd0;
+            border: none;
+            padding: 0.6rem 1.4rem;
+            border-radius: 40px;
+            font-weight: 500;
+            font-size: 0.9rem;
+            cursor: pointer;
+            transition: 0.2s;
+            font-family: inherit;
+        }
+        button.primary {
+            background: #b68b40;
+            color: white;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+        button.primary:hover {
+            background: #9c6f30;
+        }
+        .result-card {
+            background: #f2efe7;
+            border-radius: 1.5rem;
+            padding: 1.6rem;
+            margin-top: 1rem;
+            border-left: 8px solid #b68b40;
+        }
+        .carita-badge {
+            display: inline-block;
+            background: #2b5e3b;
+            color: #fef2df;
+            padding: 0.2rem 1rem;
+            border-radius: 30px;
+            font-size: 0.8rem;
+            font-weight: bold;
+            letter-spacing: 0.5px;
+            margin-bottom: 0.8rem;
+        }
+        .suggestion-list {
+            margin: 0.8rem 0 0 1.2rem;
+            line-height: 1.5;
+        }
+        .suggestion-list li {
+            margin: 0.5rem 0;
+        }
+        hr {
+            border: none;
+            border-top: 1px solid #ded5c4;
+            margin: 1.5rem 0;
+        }
+        .footnote {
+            font-size: 0.75rem;
+            text-align: center;
+            color: #8e7a64;
+            margin-top: 2rem;
+            border-top: 1px solid #e2d9cd;
+            padding-top: 1rem;
+        }
+        @media (max-width: 600px) {
+            .content {
+                padding: 1.5rem;
+            }
+            .question {
+                font-size: 1.1rem;
+            }
+            .option-btn {
+                padding: 0.5rem 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <div class="header">
+        <h1>🌿 Cariyāvaṇṇanā</h1>
+        <p>discover your temperament · choose a meditation suitable for your nature</p>
+    </div>
+    <div class="content">
+        <div class="question-panel" id="questionsPanel">
+            <!-- dynamic questions will be injected -->
+        </div>
+
+        <div id="resultArea" style="min-height: 200px;"></div>
+        <div class="footnote">
+            Based on the six temperaments (rāga, dosa, moha, saddhā, buddhi, vitakka) from classical commentaries.<br>
+            Suitability of kammaṭṭhāna follows the guidelines of Visuddhimagga & Cariyāvaṇṇanā.
+        </div>
+    </div>
+</div>
+
+<script>
+    // ---- questions derived from the text: iriyāpatha, kicca, bhojana, dassana, dhamma-pavatti ----
+    const QUESTIONS = [
+        { id: "walk", text: "Your usual walking pace & posture:", 
+          options: [
+              { text: "Graceful, slow, even steps, placing foot softly", points: { rāga: 3, saddhā: 2, vitakka: 0, dosa: 0, moha: 0, buddhi: 0 } },
+              { text: "Quick, firm, as if digging the ground, abrupt", points: { dosa: 3, buddhi: 1, rāga: 0, saddhā: 0, moha: 0, vitakka: 0 } },
+              { text: "Hesitant, bewildered, shuffling, uneven", points: { moha: 3, vitakka: 1, rāga: 0, dosa: 0, saddhā: 0, buddhi: 0 } },
+              { text: "Relaxed, mindful, natural but moderate", points: { buddhi: 2, saddhā: 1, rāga: 0, dosa: 0, moha: 0, vitakka: 0 } }
+          ] },
+        { id: "duties", text: "When cleaning or doing chores (sweeping, arranging robes):", 
+          options: [
+              { text: "Thorough, gentle, even, takes time", points: { rāga: 2, saddhā: 2, buddhi: 1, dosa: 0, moha: 0, vitakka: 0 } },
+              { text: "Forceful, fast, harsh, but gets it done", points: { dosa: 3, buddhi: 1, rāga: 0, saddhā: 0, moha: 0, vitakka: 0 } },
+              { text: "Careless, messy, distracted, leaves things uneven", points: { moha: 3, vitakka: 1, rāga: 0, dosa: 0, saddhā: 0, buddhi: 0 } },
+              { text: "Organised, clean, efficient, without rush", points: { buddhi: 3, saddhā: 1, vitakka: 0, dosa: 0, moha: 0, rāga: 0 } }
+          ] },
+        { id: "food", text: "Your preference & eating style:", 
+          options: [
+              { text: "Love sweet, rich foods; eat slowly, savor taste", points: { rāga: 3, saddhā: 1, vitakka: 0, dosa: 0, moha: 0, buddhi: 0 } },
+              { text: "Like coarse, sour, simple food; eat quickly, no fuss", points: { dosa: 3, buddhi: 1, rāga: 0, saddhā: 0, moha: 0, vitakka: 0 } },
+              { text: "No strong preference; eat absentmindedly, messy", points: { moha: 3, vitakka: 1, dosa: 0, rāga: 0, saddhā: 0, buddhi: 0 } },
+              { text: "Mindful, moderate, appreciate nourishment", points: { buddhi: 2, saddhā: 2, rāga: 0, dosa: 0, moha: 0, vitakka: 0 } }
+          ] },
+        { id: "seeing", text: "When you see a beautiful object (or person):", 
+          options: [
+              { text: "Gaze long, feel attached, reluctant to leave", points: { rāga: 3, saddhā: 1, vitakka: 0, dosa: 0, moha: 0, buddhi: 0 } },
+              { text: "Notice flaws quickly, critical, indifferent", points: { dosa: 3, buddhi: 2, rāga: 0, saddhā: 0, moha: 0, vitakka: 0 } },
+              { text: "Depends on what others say, easily swayed", points: { moha: 2, vitakka: 2, rāga: 0, dosa: 0, saddhā: 0, buddhi: 0 } },
+              { text: "See clearly without clinging, wise dispassion", points: { buddhi: 3, saddhā: 1, rāga: 0, dosa: 0, moha: 0, vitakka: 0 } }
+          ] },
+        { id: "thoughts", text: "Mental patterns & daily thinking:", 
+          options: [
+              { text: "Dreamy, planning pleasures, creative, passionate", points: { rāga: 2, vitakka: 2, saddhā: 1, dosa: 0, moha: 0, buddhi: 0 } },
+              { text: "Critical, sharp, fault-finding, strategic", points: { dosa: 2, buddhi: 2, rāga: 0, saddhā: 0, moha: 0, vitakka: 0 } },
+              { text: "Scattered, many discursive thoughts, restless, indecisive", points: { vitakka: 4, moha: 1, rāga: 0, dosa: 0, saddhā: 0, buddhi: 0 } },
+              { text: "Reflective, analytical, calm investigation", points: { buddhi: 3, saddhā: 1, rāga: 0, dosa: 0, moha: 0, vitakka: 0 } }
+          ] },
+        { id: "faith", text: "Attitude toward spiritual practice & noble ones:", 
+          options: [
+              { text: "Strong devotion, inspired easily, trusting, joyful", points: { saddhā: 4, rāga: 1, vitakka: 0, dosa: 0, moha: 0, buddhi: 0 } },
+              { text: "Cautious, needing reasons, analytical faith", points: { buddhi: 3, saddhā: 1, dosa: 0, rāga: 0, moha: 0, vitakka: 0 } },
+              { text: "Sceptical, hesitant, often doubting", points: { moha: 2, vitakka: 2, dosa: 1, rāga: 0, saddhā: 0, buddhi: 0 } },
+              { text: "Steady confidence, serene, but not fanatic", points: { saddhā: 2, buddhi: 2, rāga: 0, dosa: 0, moha: 0, vitakka: 0 } }
+          ] },
+        { id: "reaction", text: "When someone annoys or criticizes you:", 
+          options: [
+              { text: "Get angry quickly, retaliate, hold grudge", points: { dosa: 4, rāga: 0, saddhā: 0, moha: 0, vitakka: 0, buddhi: 0 } },
+              { text: "Become sulky, passive, or confused, not sure how to respond", points: { moha: 2, vitakka: 1, dosa: 1, rāga: 0, saddhā: 0, buddhi: 0 } },
+              { text: "Cling to being right, feel hurt, want appreciation", points: { rāga: 2, dosa: 1, saddhā: 0, moha: 0, vitakka: 0, buddhi: 0 } },
+              { text: "Stay calm, reflect on cause, respond wisely", points: { buddhi: 3, saddhā: 1, dosa: 0, rāga: 0, moha: 0, vitakka: 0 } }
+          ] }
+    ];
+
+    // ----- suitability mapping based on Cariyāvaṇṇanā & Visuddhimagga (chapter on kammaṭṭhāna) -----
+    const SUITABILITY = {
+        rāga: {
+            name: "Rāga-carita (Lustful / attached nature)",
+            summary: "Graceful, pleasure-seeking, attached to pleasant objects, soft & friendly.",
+            kammatthana: "Focus on asubha (repulsiveness of the body), 10 kinds of foulness, or impure kasiṇa (e.g., blue or discolored). Dwelling: rough, simple, dusty, solitary. Avoid beautiful objects. Use cemetery contemplations or mindfulness of body parts.",
+            practices: ["🚶 Reflection on 32 body parts (asubha)", "💀 Cemetery contemplations", "🧘‍♂️ Earth kasiṇa with unpolished colour", "🏚️ Stay in austere, non-luxurious lodgings", "🙏 Contemplate impermanence to balance attachment"]
+        },
+        dosa: {
+            name: "Dosa-carita (Hateful / irritable nature)",
+            summary: "Critical, quick, fault-finding, firm, straightforward.",
+            kammatthana: "Cultivate loving-kindness (mettā), also the four divine abodes (brahmavihāras). Use beautiful, pure kasiṇas (blue, yellow, red, white) to soothe mind. Stay in pleasant, clean, well-ventilated dwellings with good order.",
+            practices: ["💖 Mettā bhāvanā (Loving-kindness towards all beings)", "🌈 Bright kasiṇas (white, blue, golden)", "🌿 Beautiful & serene environment", "🕊️ Recollection of goodwill and forgiveness", "🌺 Brahmavihāras: compassion, appreciative joy, equanimity"]
+        },
+        moha: {
+            name: "Moha-carita (Deluded / confused nature)",
+            summary: "Bewildered, sluggish, indecisive, prone to doubt and distraction.",
+            kammatthana: "Ānāpānasati (mindfulness of breathing) – a single, simple object to anchor the mind. Also recollection of the Buddha, Dhamma, Sangha. Use large, clear kasiṇa (not tiny). Avoid complex meditation subjects.",
+            practices: ["🌬️ Mindfulness of breathing (ānāpānasati)", "🕯️ Recollection of the Buddha's virtues (Buddhānussati)", "📖 Studying Dhamma to dispel confusion", "🧘 Simple walking meditation in open space", "✨ Light kasiṇa (large mandala) to steady mind"]
+        },
+        saddhā: {
+            name: "Saddhā-carita (Faithful nature)",
+            summary: "Trusting, serene, generous, devotion to noble ones and the Triple Gem.",
+            kammatthana: "Recollection of the Buddha, Dhamma, Sangha, also recollection of moral virtue (sīla) and generosity (cāga). Devotional practices. Beautiful surroundings inspire faith.",
+            practices: ["🙏 Buddhānussati (recollection of the Buddha)", "📜 Dhammānussati (recollection of Dhamma)", "🧘‍♂️ Saṅghānussati", "🎁 Recollection of generosity (cāgānussati)", "🕊️ Devotional chanting, sīla cultivation"]
+        },
+        buddhi: {
+            name: "Buddhi-carita (Intellectual / wise nature)",
+            summary: "Analytical, sharp, investigative, inclining to wisdom and discernment.",
+            kammatthana: "Four great elements (dhātu-vavatthāna), dependent origination (paṭiccasamuppāda), review of emptiness, clear comprehension. Can work with any kasiṇa but excels in detailed analysis.",
+            practices: ["🌍 Element meditation (pathavī, āpo, tejo, vāyo)", "📿 Dependent origination contemplation", "🧠 Investigation of five aggregates", "✨ Kasiṇa with analytical noting", "📖 Abhidhamma style reflection"]
+        },
+        vitakka: {
+            name: "Vitakka-carita (Discursive / scattered nature)",
+            summary: "Restless mind, many thoughts, jumping between ideas, talkative.",
+            kammatthana: "Ānāpānasati (single point focus), kasiṇa with small limited object to contain the mind. Also counting breaths. Avoid large, expansive objects. Use quiet, dark, enclosed space to minimize distraction.",
+            practices: ["🧘‍♂️ Breath counting (ānāpāna with counting)", "🔴 Small kasiṇa disk (limited size)", "🙊 Minimizing talking, seclusion", "🌑 Dark, small meditation hut", "🧘‍♀️ One-pointed concentration exercises"]
+        }
+    };
+
+    // for mixed / highest score
+    let userScores = { rāga: 0, dosa: 0, moha: 0, saddhā: 0, buddhi: 0, vitakka: 0 };
+    let answersSelected = {};
+
+    // Helper to render questions
+    function renderQuestions() {
+        const panel = document.getElementById('questionsPanel');
+        if (!panel) return;
+        let html = '';
+        QUESTIONS.forEach((q, idx) => {
+            const selectedVal = answersSelected[q.id] || null;
+            html += `<div class="question-panel" style="margin-bottom: 1.8rem; background:#fff;">`;
+            html += `<div class="question">${idx+1}. ${q.text}</div>`;
+            html += `<div class="options" id="options-${q.id}">`;
+            q.options.forEach((opt, optIdx) => {
+                let isSelected = (answersSelected[q.id] === optIdx);
+                let selectedClass = isSelected ? 'selected' : '';
+                html += `<button class="option-btn ${selectedClass}" data-qid="${q.id}" data-optidx="${optIdx}">${opt.text}</button>`;
+            });
+            html += `</div></div>`;
+        });
+        panel.innerHTML = html;
+
+        // attach event listeners
+        document.querySelectorAll('.option-btn').forEach(btn => {
+            btn.addEventListener('click', (e) => {
+                const qid = btn.getAttribute('data-qid');
+                const optIdx = parseInt(btn.getAttribute('data-optidx'));
+                const question = QUESTIONS.find(q => q.id === qid);
+                if (!question) return;
+                // update selection storage
+                answersSelected[qid] = optIdx;
+                // update UI selection
+                const container = document.getElementById(`options-${qid}`);
+                if (container) {
+                    container.querySelectorAll('.option-btn').forEach(btnInner => {
+                        btnInner.classList.remove('selected');
+                    });
+                    btn.classList.add('selected');
+                }
+                // recompute scores
+                computeAndShowResults();
+            });
+        });
+    }
+
+    function computeScores() {
+        // reset scores
+        userScores = { rāga: 0, dosa: 0, moha: 0, saddhā: 0, buddhi: 0, vitakka: 0 };
+        for (let qid in answersSelected) {
+            const question = QUESTIONS.find(q => q.id === qid);
+            if (!question) continue;
+            const optIdx = answersSelected[qid];
+            if (optIdx !== undefined && question.options[optIdx]) {
+                const points = question.options[optIdx].points;
+                for (let key in points) {
+                    if (userScores.hasOwnProperty(key)) {
+                        userScores[key] += points[key];
+                    }
+                }
+            }
+        }
+        // add small weight for secondary affinities based on text: faith akin to rāga, buddhi akin to dosa, vitakka akin to moha
+        // but we already included via questions; keep raw
+        return userScores;
+    }
+
+    function getPrimaryTemperament(scores) {
+        let maxVal = -Infinity;
+        let primary = 'rāga';
+        for (let [key, val] of Object.entries(scores)) {
+            if (val > maxVal) {
+                maxVal = val;
+                primary = key;
+            }
+        }
+        // tie-breaking: if tie between rāga/saddhā -> both, but choose primary based on context (faith akin to rāga)
+        // we will just return highest and note secondary in display
+        return { primary, maxScore: maxVal, scores };
+    }
+
+    function getSuitabilityRecommendation(primary, scores) {
+        const primaryData = SUITABILITY[primary];
+        if (!primaryData) return SUITABILITY.rāga;
+        
+        let secondary = null;
+        let secondaryType = null;
+        // find second highest for nuance
+        let sorted = Object.entries(scores).sort((a,b) => b[1] - a[1]);
+        if (sorted.length > 1 && sorted[1][1] > 0) {
+            secondary = sorted[1][0];
+            if (secondary !== primary) secondaryType = secondary;
+        }
+        
+        // add special note: if faith and rāga both high, extra advice
+        let extraNote = "";
+        if ((primary === 'rāga' && scores.saddhā > scores.rāga*0.7) || (primary === 'saddhā' && scores.rāga > scores.saddhā*0.7)) {
+            extraNote = " Your nature shows affinity with both faith and graceful enjoyment — cultivating asubha alongside recollection of Buddha brings balance.";
+        } else if ((primary === 'dosa' && scores.buddhi > scores.dosa*0.7) || (primary === 'buddhi' && scores.dosa > scores.buddhi*0.7)) {
+            extraNote = " Wisdom and critical discernment are close. Mettā practice softens the sharp edge, while investigation (dhamma-vicaya) supports insight.";
+        } else if ((primary === 'moha' && scores.vitakka > scores.moha*0.7) || (primary === 'vitakka' && scores.moha > scores.vitakka*0.7)) {
+            extraNote = " Restless thinking and dullness alternate. Ānāpānasati is especially recommended to steady the scattered mind.";
+        }
+        
+        return {
+            ...primaryData,
+            secondaryHint: secondaryType ? `\nSecondary tendency: ${secondaryType.toUpperCase()}-carita.` : '',
+            extraNote: extraNote
+        };
+    }
+
+    function computeAndShowResults() {
+        const scores = computeScores();
+        const { primary, maxScore } = getPrimaryTemperament(scores);
+        if (maxScore === 0) {
+            // no answer yet
+            document.getElementById('resultArea').innerHTML = `<div class="result-card" style="opacity:0.7; text-align:center;">✨ Answer at least a few questions to see your temperament & meditation guidance ✨</div>`;
+            return;
+        }
+        const recommendation = getSuitabilityRecommendation(primary, scores);
+        const resultHtml = `
+            <div class="result-card">
+                <div class="carita-badge">🎯 Primary temperament · ${recommendation.name}</div>
+                <p style="font-size:1.05rem; margin-top:0;">${recommendation.summary}</p>
+                <p><strong>📖 Suitable Kammaṭṭhāna (meditation subject):</strong><br> ${recommendation.kammatthana}</p>
+                <p><strong>🧘 Recommended practices:</strong></p>
+                <ul class="suggestion-list">
+                    ${recommendation.practices.map(p => `<li>${p}</li>`).join('')}
+                </ul>
+                ${recommendation.secondaryHint ? `<p><em>${recommendation.secondaryHint}</em></p>` : ''}
+                ${recommendation.extraNote ? `<p><em>${recommendation.extraNote}</em></p>` : ''}
+                <hr>
+                <details>
+                    <summary style="cursor:pointer; font-size:0.85rem; color:#6b4e2e;">📜 About Cariyā classification</summary>
+                    <p style="font-size:0.85rem; margin-top:0.8rem;">Based on the six types: Rāga (lust), Dosa (hate), Moha (delusion), Saddhā (faith), Buddhi (intellect), Vitakka (discursive thinking). According to the Visuddhimagga and Cariyāvaṇṇanā, the right meditation subject reduces defilements and suits one's nature. Postures, duties, food habits, perception and mental events reveal the carita. This digital guide uses those principles.</p>
+                </details>
+                <div style="margin-top: 1rem; display: flex; justify-content: flex-end;">
+                    <button id="resetBtn" style="background:#dcd0bd;">⟳ Reset all answers</button>
+                </div>
+            </div>
+        `;
+        document.getElementById('resultArea').innerHTML = resultHtml;
+        const resetBtn = document.getElementById('resetBtn');
+        if (resetBtn) {
+            resetBtn.addEventListener('click', () => {
+                // reset answers
+                for (let key in answersSelected) {
+                    delete answersSelected[key];
+                }
+                userScores = { rāga: 0, dosa: 0, moha: 0, saddhā: 0, buddhi: 0, vitakka: 0 };
+                renderQuestions();
+                document.getElementById('resultArea').innerHTML = `<div class="result-card" style="opacity:0.7; text-align:center;">✨ Answers cleared. Take the test again to find your carita ✨</div>`;
+            });
+        }
+    }
+
+    // initial render and optional reset from fresh state
+    renderQuestions();
+    // show placeholder
+    document.getElementById('resultArea').innerHTML = `<div class="result-card" style="opacity:0.8; text-align:center;">🌱 Choose the options that best describe your habits. The tool will reveal your temperament and suitable meditation. 🌱</div>`;
+</script>
+</body>
+</html>

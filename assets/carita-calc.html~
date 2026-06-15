@@ -1,0 +1,916 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Theravāda Robe Calculator</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,600;1,400&family=Noto+Sans:wght@400;500;600&display=swap');
+
+  :root {
+    --saffron:       #c46a1e;
+    --saffron-deep:  #8b4513;
+    --saffron-light: #f5d49a;
+    --ochre:         #d4862a;
+    --robe-mid:      #e8a84a;
+    --cream:         #fdf6e8;
+    --cream-dark:    #f5e8cc;
+    --panel-bg:      #fffbf2;
+    --border-col:    #e0c99a;
+    --text-dark:     #2c1a08;
+    --text-mid:      #5a3e20;
+    --text-muted:    #8a6a40;
+    --active-btn:    #c46a1e;
+    --canvas-bg:     #fef3dc;
+    --khandha-main:  #f9e9cc;
+    --khandha-adha:  #f0d2a0;
+    --khandha-line:  #c4956a;
+    --border-fill:   #c49a5a;
+    --shadow:        0 8px 32px -8px rgba(140,80,0,0.18);
+  }
+
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: 'Noto Sans', system-ui, sans-serif;
+    background: #e8d5b0;
+    background-image:
+      repeating-linear-gradient(0deg, transparent, transparent 39px, rgba(180,130,60,0.07) 40px),
+      repeating-linear-gradient(90deg, transparent, transparent 39px, rgba(180,130,60,0.07) 40px);
+    min-height: 100vh;
+    padding: 1.5rem 1rem 3rem;
+    color: var(--text-dark);
+  }
+
+  .container {
+    max-width: 1440px;
+    margin: 0 auto;
+    background: var(--panel-bg);
+    border-radius: 1.5rem;
+    box-shadow: var(--shadow);
+    overflow: hidden;
+    border: 1px solid var(--border-col);
+  }
+
+  /* ── Header ── */
+  .header {
+    background: linear-gradient(135deg, var(--saffron-deep) 0%, var(--saffron) 60%, var(--ochre) 100%);
+    padding: 1.6rem 2.4rem;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    gap: 1.2rem;
+  }
+  .header-icon { font-size: 2.4rem; line-height: 1; flex-shrink: 0; }
+  .header-text h1 {
+    font-family: 'Noto Serif', Georgia, serif;
+    font-size: 1.55rem;
+    font-weight: 600;
+    letter-spacing: 0.01em;
+    line-height: 1.2;
+  }
+  .header-text p {
+    margin-top: 0.3rem;
+    font-size: 0.82rem;
+    opacity: 0.88;
+    letter-spacing: 0.03em;
+  }
+
+  /* ── Layout ── */
+  .main-grid {
+    display: grid;
+    grid-template-columns: 340px 1fr;
+    gap: 0;
+    min-height: 580px;
+  }
+  @media (max-width: 900px) {
+    .main-grid { grid-template-columns: 1fr; }
+  }
+
+  /* ── Controls panel ── */
+  .controls-panel {
+    background: var(--cream);
+    border-right: 1px solid var(--border-col);
+    padding: 1.6rem 1.4rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1.4rem;
+    overflow-y: auto;
+  }
+
+  .section-label {
+    font-size: 0.7rem;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--saffron);
+    margin-bottom: 0.55rem;
+  }
+
+  /* Sizing method tabs */
+  .method-tabs {
+    display: flex;
+    background: var(--cream-dark);
+    border-radius: 0.6rem;
+    padding: 0.2rem;
+    gap: 0.15rem;
+  }
+  .method-tab {
+    flex: 1;
+    background: transparent;
+    border: none;
+    border-radius: 0.45rem;
+    padding: 0.45rem 0.3rem;
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: var(--text-muted);
+    cursor: pointer;
+    transition: all 0.18s;
+    font-family: inherit;
+    line-height: 1.3;
+    text-align: center;
+  }
+  .method-tab.active {
+    background: var(--active-btn);
+    color: #fff;
+    box-shadow: 0 2px 8px rgba(196,106,30,0.35);
+  }
+
+  /* Method panels */
+  .method-panel { display: none; }
+  .method-panel.active { display: block; }
+
+  /* Input rows */
+  .input-row {
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+    margin-bottom: 0.8rem;
+  }
+  .input-row label {
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: var(--text-mid);
+  }
+  .input-with-unit {
+    display: flex;
+    gap: 0.4rem;
+    align-items: center;
+  }
+  .input-with-unit input {
+    flex: 1;
+    padding: 0.55rem 0.8rem;
+    border: 1.5px solid var(--border-col);
+    border-radius: 0.5rem;
+    font-size: 0.95rem;
+    background: #fff;
+    color: var(--text-dark);
+    font-family: 'Noto Sans', monospace;
+    transition: border-color 0.15s;
+  }
+  .input-with-unit input:focus {
+    outline: none;
+    border-color: var(--saffron);
+  }
+  .unit-label {
+    font-size: 0.78rem;
+    color: var(--text-muted);
+    min-width: 28px;
+    font-weight: 600;
+  }
+
+  /* Unit toggle */
+  .unit-toggle {
+    display: flex;
+    background: var(--cream-dark);
+    border-radius: 2rem;
+    padding: 0.15rem;
+    gap: 0.1rem;
+    width: fit-content;
+  }
+  .unit-btn {
+    background: transparent;
+    border: none;
+    padding: 0.3rem 0.8rem;
+    border-radius: 2rem;
+    cursor: pointer;
+    font-size: 0.78rem;
+    font-weight: 600;
+    color: var(--text-muted);
+    transition: all 0.15s;
+    font-family: inherit;
+  }
+  .unit-btn.active {
+    background: #fff;
+    color: var(--saffron);
+    box-shadow: 0 1px 4px rgba(0,0,0,0.12);
+  }
+
+  .hint {
+    font-size: 0.72rem;
+    color: var(--text-muted);
+    font-style: italic;
+    line-height: 1.45;
+  }
+
+  /* Pill buttons for khandhas / parts */
+  .pill-group {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-top: 0.2rem;
+  }
+  .pill-btn {
+    background: var(--cream-dark);
+    border: 1.5px solid transparent;
+    padding: 0.4rem 1.05rem;
+    font-size: 0.82rem;
+    font-weight: 600;
+    border-radius: 2rem;
+    cursor: pointer;
+    transition: all 0.15s;
+    font-family: 'Noto Sans', monospace;
+    color: var(--text-mid);
+  }
+  .pill-btn.active {
+    background: var(--active-btn);
+    color: #fff;
+    box-shadow: 0 2px 8px rgba(196,106,30,0.3);
+  }
+  .pill-btn:not(.active):hover { border-color: var(--saffron); color: var(--saffron); }
+
+  /* Result card */
+  .result-card {
+    background: linear-gradient(135deg, #fdf0d8 0%, #fae6c4 100%);
+    border: 1.5px solid var(--border-col);
+    border-radius: 1rem;
+    padding: 1rem 1.1rem;
+  }
+  .result-card h4 {
+    font-family: 'Noto Serif', serif;
+    font-size: 0.82rem;
+    color: var(--saffron-deep);
+    margin-bottom: 0.6rem;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+  }
+  .res-table { width: 100%; border-collapse: collapse; }
+  .res-table tr + tr td { padding-top: 0.3rem; }
+  .res-table td:first-child {
+    font-size: 0.77rem;
+    color: var(--text-mid);
+    padding-right: 0.4rem;
+    vertical-align: top;
+  }
+  .res-table td:last-child {
+    font-size: 0.82rem;
+    font-weight: 700;
+    color: var(--text-dark);
+    font-family: 'Noto Sans', monospace;
+    text-align: right;
+  }
+  .res-divider { border: none; border-top: 1px solid var(--border-col); margin: 0.5rem 0; }
+
+  /* ── Visual panel ── */
+  .visual-panel {
+    background: var(--panel-bg);
+    padding: 1.4rem 1.6rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.8rem;
+  }
+  .visual-panel h3 {
+    font-family: 'Noto Serif', serif;
+    font-size: 1rem;
+    color: var(--saffron-deep);
+    font-weight: 600;
+    align-self: flex-start;
+  }
+
+  canvas {
+    background: var(--canvas-bg);
+    border-radius: 0.8rem;
+    max-width: 100%;
+    height: auto;
+    box-shadow: 0 4px 20px rgba(140,80,0,0.13);
+    border: 1px solid var(--border-col);
+  }
+
+  .canvas-legend {
+    font-size: 0.72rem;
+    color: var(--text-muted);
+    text-align: center;
+    line-height: 1.6;
+    font-style: italic;
+  }
+
+  /* Divider in controls */
+  .ctrl-divider {
+    border: none;
+    border-top: 1px solid var(--border-col);
+    margin: 0;
+  }
+</style>
+</head>
+<body>
+<div class="container">
+
+  <!-- Header -->
+  <div class="header">
+    <div class="header-icon">☸</div>
+    <div class="header-text">
+      <h1>Theravāda Robe · Khandha & Maṇḍala Calculator</h1>
+      <p>Length (horizontal) · Width (vertical) · 5″ border all sides · Alternating aḍḍhamaṇḍala</p>
+    </div>
+  </div>
+
+  <div class="main-grid">
+
+    <!-- Controls -->
+    <div class="controls-panel">
+
+      <!-- Sizing method -->
+      <div>
+        <div class="section-label">Sizing method</div>
+        <div class="method-tabs">
+          <button class="method-tab active" data-method="height">By height</button>
+          <button class="method-tab" data-method="manual">Manual L × W</button>
+          <button class="method-tab" data-method="handspan">Handspan</button>
+          <button class="method-tab" data-method="hattha">Hattha</button>
+        </div>
+      </div>
+
+      <!-- Unit toggle (shared) -->
+      <div>
+        <div class="section-label">Display units</div>
+        <div class="unit-toggle">
+          <button class="unit-btn active" data-unit="cm">cm</button>
+          <button class="unit-btn" data-unit="in">inches</button>
+        </div>
+      </div>
+
+      <hr class="ctrl-divider">
+
+      <!-- Method: By height -->
+      <div class="method-panel active" id="panel-height">
+        <div class="section-label">Person's height</div>
+        <div class="input-row">
+          <label>Height</label>
+          <div class="input-with-unit">
+            <input type="number" id="inp-height" value="175" min="100" max="250" step="0.5">
+            <span class="unit-label" id="lbl-height-unit">cm</span>
+          </div>
+          <span class="hint">Robe length = height × 3<br>Robe width = height + 45 cm / +18 in</span>
+        </div>
+      </div>
+
+      <!-- Method: Manual -->
+      <div class="method-panel" id="panel-manual">
+        <div class="section-label">Enter robe dimensions directly</div>
+        <div class="input-row">
+          <label>Robe length (horizontal ↔)</label>
+          <div class="input-with-unit">
+            <input type="number" id="inp-manual-length" value="525" min="50" max="1000" step="0.5">
+            <span class="unit-label" id="lbl-manual-l-unit">cm</span>
+          </div>
+        </div>
+        <div class="input-row">
+          <label>Robe width (vertical ↕)</label>
+          <div class="input-with-unit">
+            <input type="number" id="inp-manual-width" value="220" min="50" max="600" step="0.5">
+            <span class="unit-label" id="lbl-manual-w-unit">cm</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Method: Handspan -->
+      <div class="method-panel" id="panel-handspan">
+        <div class="section-label">Sizing by handspan (vitasti)</div>
+        <div class="input-row">
+          <label>Handspan length (thumb tip → little finger tip, spread)</label>
+          <div class="input-with-unit">
+            <input type="number" id="inp-handspan" value="20" min="10" max="40" step="0.1">
+            <span class="unit-label" id="lbl-handspan-unit">cm</span>
+          </div>
+          <span class="hint">Traditional: robe length = 15 handspans, robe width = 9 handspans</span>
+        </div>
+        <div class="input-row">
+          <label>Handspans for length</label>
+          <div class="input-with-unit">
+            <input type="number" id="inp-hs-length-count" value="15" min="1" max="30" step="1">
+            <span class="unit-label">×</span>
+          </div>
+        </div>
+        <div class="input-row">
+          <label>Handspans for width</label>
+          <div class="input-with-unit">
+            <input type="number" id="inp-hs-width-count" value="9" min="1" max="20" step="1">
+            <span class="unit-label">×</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Method: Hattha -->
+      <div class="method-panel" id="panel-hattha">
+        <div class="section-label">Sizing by hattha (cubit)</div>
+        <div class="input-row">
+          <label>Hattha length (elbow to middle-finger tip)</label>
+          <div class="input-with-unit">
+            <input type="number" id="inp-hattha" value="45" min="30" max="65" step="0.1">
+            <span class="unit-label" id="lbl-hattha-unit">cm</span>
+          </div>
+          <span class="hint">Traditional 1 hattha ≈ 18 in / 45.7 cm. Measure your own forearm for precision.</span>
+        </div>
+        <div class="input-row">
+          <label>Hatthas for length</label>
+          <div class="input-with-unit">
+            <input type="number" id="inp-hh-length-count" value="5" min="1" max="20" step="1">
+            <span class="unit-label">×</span>
+          </div>
+        </div>
+        <div class="input-row">
+          <label>Hatthas for width</label>
+          <div class="input-with-unit">
+            <input type="number" id="inp-hh-width-count" value="3" min="1" max="12" step="1">
+            <span class="unit-label">×</span>
+          </div>
+        </div>
+      </div>
+
+      <hr class="ctrl-divider">
+
+      <!-- Khandhas + Parts -->
+      <div>
+        <div class="section-label">Number of khandhas (vertical strips)</div>
+        <div class="pill-group" id="khandha-btns">
+          <button class="pill-btn" data-k="5">5</button>
+          <button class="pill-btn" data-k="7">7</button>
+          <button class="pill-btn active" data-k="9">9</button>
+          <button class="pill-btn" data-k="11">11</button>
+        </div>
+      </div>
+
+      <div>
+        <div class="section-label">Parts per khandha (horizontal divisions)</div>
+        <div class="pill-group" id="parts-btns">
+          <button class="pill-btn" data-p="2">2 parts · 1/3 + 2/3</button>
+          <button class="pill-btn active" data-p="3">3 parts · 1/5 + 2/5 + 2/5</button>
+        </div>
+        <p class="hint" style="margin-top:0.45rem">◈ aḍḍhamaṇḍala (small part) alternates left/right per khandha, starting from the central one.</p>
+      </div>
+
+      <hr class="ctrl-divider">
+
+      <!-- Result card -->
+      <div class="result-card">
+        <h4>Computed Dimensions</h4>
+        <table class="res-table">
+          <tr><td>Robe length (horizontal ↔)</td><td id="r-total-length">—</td></tr>
+          <tr><td>Robe width (vertical ↕)</td><td id="r-total-width">—</td></tr>
+          <tr><td>Border (all 4 sides)</td><td id="r-border">5 in / 12.7 cm</td></tr>
+          <tr><td colspan="2"><hr class="res-divider"></td></tr>
+          <tr><td>Inner length</td><td id="r-inner-length">—</td></tr>
+          <tr><td>Inner width</td><td id="r-inner-width">—</td></tr>
+          <tr><td colspan="2"><hr class="res-divider"></td></tr>
+          <tr><td>Each khandha width (↔)</td><td id="r-k-width">—</td></tr>
+          <tr><td>Each khandha height (↕)</td><td id="r-k-height">—</td></tr>
+          <tr><td colspan="2"><hr class="res-divider"></td></tr>
+          <tr><td>aḍḍhamaṇḍala height</td><td id="r-adha">—</td></tr>
+          <tr><td>maṇḍala height (each)</td><td id="r-manda">—</td></tr>
+        </table>
+      </div>
+
+    </div><!-- /controls -->
+
+    <!-- Visual panel -->
+    <div class="visual-panel">
+      <h3>Robe Layout · Full border · Alternating aḍḍhamaṇḍala</h3>
+      <canvas id="robeCanvas" width="860" height="520"></canvas>
+      <p class="canvas-legend" id="canvasLegend">
+        Landscape robe: Length ↔ horizontal · Width ↕ vertical · Each khandha is a vertical strip.<br>
+        ◈ marks the aḍḍhamaṇḍala (small part). Central khandha starts with ◈ on the left.
+      </p>
+    </div>
+
+  </div><!-- /main-grid -->
+</div><!-- /container -->
+
+<script>
+(function () {
+  'use strict';
+
+  // ── Constants ──────────────────────────────────────────────────────────────
+  const BORDER_IN   = 5;
+  const CM_PER_IN   = 2.54;
+  const BORDER_CM   = BORDER_IN * CM_PER_IN;  // 12.7 cm
+
+  // ── State ──────────────────────────────────────────────────────────────────
+  let state = {
+    unit:        'cm',      // 'cm' | 'in'
+    method:      'height',  // 'height' | 'manual' | 'handspan' | 'hattha'
+    khandhas:    9,
+    parts:       3,
+    // per-method raw values (always in cm internally)
+    heightCm:    175,
+    manualLenCm: 525,
+    manualWdtCm: 220,
+    handspanCm:  20,
+    hsLenCount:  15,
+    hsWdtCount:  9,
+    hatthaCm:    45,
+    hhLenCount:  5,
+    hhWdtCount:  3,
+  };
+
+  // ── Helpers ────────────────────────────────────────────────────────────────
+  function toDisp(cm, dec = 1) {
+    if (state.unit === 'cm') return cm.toFixed(dec) + ' cm';
+    return (cm / CM_PER_IN).toFixed(dec) + ' in';
+  }
+  function fromDisp(val, isCm) { return isCm ? val : val * CM_PER_IN; }
+  function dispVal(cm) { return state.unit === 'cm' ? cm : cm / CM_PER_IN; }
+
+  // ── Compute robe length × width from method ────────────────────────────────
+  function getRobeDims() {
+    let lenCm, wdtCm;
+    switch (state.method) {
+      case 'height':
+        lenCm = state.heightCm * 3;
+        wdtCm = state.heightCm + (state.unit === 'cm' ? 45 : 45); // always 45 cm
+        wdtCm = state.heightCm + 45;
+        break;
+      case 'manual':
+        lenCm = state.manualLenCm;
+        wdtCm = state.manualWdtCm;
+        break;
+      case 'handspan':
+        lenCm = state.handspanCm * state.hsLenCount;
+        wdtCm = state.handspanCm * state.hsWdtCount;
+        break;
+      case 'hattha':
+        lenCm = state.hatthaCm * state.hhLenCount;
+        wdtCm = state.hatthaCm * state.hhWdtCount;
+        break;
+    }
+    return { lenCm, wdtCm };
+  }
+
+  // ── Geometry ────────────────────────────────────────────────────────────────
+  function getGeometry() {
+    const { lenCm, wdtCm } = getRobeDims();
+    const innerLen = lenCm - 2 * BORDER_CM;
+    const innerWdt = wdtCm - 2 * BORDER_CM;
+    if (innerLen <= 0 || innerWdt <= 0) return null;
+
+    const kW = innerLen / state.khandhas;   // horizontal width of each khandha
+    const kH = innerWdt;                    // vertical height of each khandha = full inner height
+
+    // Part ratios (horizontal divisions of each khandha's width)
+    const smallR = state.parts === 2 ? 1/3 : 1/5;
+    const bigR   = state.parts === 2 ? 2/3 : 2/5;
+
+    // Alternation: central khandha has ◈ on LEFT side
+    const cIdx = Math.floor(state.khandhas / 2);
+    const khandhasList = Array.from({ length: state.khandhas }, (_, i) => {
+      const dist = Math.abs(i - cIdx);
+      const smallOnLeft = (dist % 2 === 0);
+      const smallW = kW * smallR;
+      const bigW   = kW * bigR;
+
+      let partWidths, partRatios;
+      if (state.parts === 2) {
+        partWidths  = smallOnLeft ? [smallW, bigW]          : [bigW, smallW];
+        partRatios  = smallOnLeft ? [smallR, bigR]          : [bigR, smallR];
+      } else {
+        partWidths  = smallOnLeft ? [smallW, bigW, bigW]    : [bigW, bigW, smallW];
+        partRatios  = smallOnLeft ? [smallR, bigR, bigR]    : [bigR, bigR, smallR];
+      }
+
+      return { index: i, smallOnLeft, partWidths, partRatios, isCentral: i === cIdx };
+    });
+
+    return {
+      lenCm, wdtCm, borderCm: BORDER_CM,
+      innerLen, innerWdt, kW, kH, khandhasList,
+    };
+  }
+
+  // ── Update results panel ───────────────────────────────────────────────────
+  function updateResults(g) {
+    const smallR = state.parts === 2 ? 1/3 : 1/5;
+    const bigR   = state.parts === 2 ? 2/3 : 2/5;
+    document.getElementById('r-total-length').textContent = toDisp(g.lenCm);
+    document.getElementById('r-total-width').textContent  = toDisp(g.wdtCm);
+    document.getElementById('r-border').textContent       = `${BORDER_IN} in / ${BORDER_CM.toFixed(1)} cm`;
+    document.getElementById('r-inner-length').textContent = toDisp(g.innerLen);
+    document.getElementById('r-inner-width').textContent  = toDisp(g.innerWdt);
+    document.getElementById('r-k-width').textContent      = toDisp(g.kW);
+    document.getElementById('r-k-height').textContent     = toDisp(g.kH);
+    document.getElementById('r-adha').textContent         = toDisp(g.kW * smallR);
+    document.getElementById('r-manda').textContent        = toDisp(g.kW * bigR);
+  }
+
+  // ── Canvas drawing ─────────────────────────────────────────────────────────
+  function draw(g) {
+    const canvas = document.getElementById('robeCanvas');
+    const ctx    = canvas.getContext('2d');
+    const W = canvas.width  = 860;
+    const H = canvas.height = 520;
+    ctx.clearRect(0, 0, W, H);
+
+    const margin = 48;
+    const availW = W - margin * 2;
+    const availH = H - margin * 2;
+
+    // Uniform scale so robe fits canvas
+    const scale = Math.min(availW / g.lenCm, availH / g.wdtCm);
+    const dW = g.lenCm * scale;
+    const dH = g.wdtCm * scale;
+    const ox = margin + (availW - dW) / 2;  // robe top-left x
+    const oy = margin + (availH - dH) / 2;  // robe top-left y
+
+    function cx(cm) { return ox + cm * scale; }
+    function cy(cm) { return oy + cm * scale; }
+
+    // ── Robe base ──
+    ctx.fillStyle = '#f0d9b0';
+    ctx.fillRect(ox, oy, dW, dH);
+
+    // ── Borders ──
+    ctx.fillStyle = '#c4955a';
+    const b = g.borderCm * scale;
+    ctx.fillRect(ox,          oy,          dW, b);                    // top
+    ctx.fillRect(ox,          oy+dH-b,     dW, b);                    // bottom
+    ctx.fillRect(ox,          oy,          b,  dH);                   // left
+    ctx.fillRect(ox+dW-b,     oy,          b,  dH);                   // right
+
+    // ── Inner area reference ──
+    const ix = ox + b;   // inner left x
+    const iy = oy + b;   // inner top y
+    const iW = dW - 2*b;
+    const iH = dH - 2*b;
+    const kW  = g.kW * scale;
+    const kH  = g.kH * scale;
+
+    // ── Draw khandhas ──
+    for (let k = 0; k < state.khandhas; k++) {
+      const kx = ix + k * kW;
+
+      // Draw horizontal part divisions (each khandha is split into 2 or 3 horizontal bands)
+      let curX = kx;
+      for (let p = 0; p < g.khandhasList[k].partWidths.length; p++) {
+        const pw = g.khandhasList[k].partWidths[p] * scale;
+        const isSmall = (state.parts === 2)
+          ? ((g.khandhasList[k].smallOnLeft && p === 0) || (!g.khandhasList[k].smallOnLeft && p === g.khandhasList[k].partWidths.length - 1))
+          : ((g.khandhasList[k].smallOnLeft && p === 0) || (!g.khandhasList[k].smallOnLeft && p === g.khandhasList[k].partWidths.length - 1));
+
+        // Part fill
+        ctx.fillStyle = isSmall ? '#e8c98a' : '#f5e8c8';
+        ctx.fillRect(curX, iy, pw, kH);
+
+        // Part outline
+        ctx.strokeStyle = '#b8966a';
+        ctx.lineWidth = 0.8;
+        ctx.strokeRect(curX, iy, pw, kH);
+
+        // ◈ marker for aḍḍhamaṇḍala
+        if (isSmall) {
+          ctx.fillStyle = 'rgba(139,69,19,0.18)';
+          ctx.fillRect(curX, iy, pw, kH);
+        }
+
+        // Dimension label inside part
+        const fs = Math.max(8, Math.min(11, kH * 0.05));
+        ctx.font = `${fs}px 'Noto Sans', monospace`;
+        ctx.fillStyle = '#5a3010';
+        ctx.textAlign = 'center';
+        const labelCm = g.khandhasList[k].partWidths[p];
+        const label = (isSmall ? '◈ ' : '') + toDisp(labelCm, 1);
+        ctx.save();
+        ctx.translate(curX + pw / 2, iy + kH / 2);
+        ctx.rotate(-Math.PI / 2);
+        ctx.fillText(label, 0, 4);
+        ctx.restore();
+
+        curX += pw;
+      }
+
+      // Khandha vertical separator
+      ctx.strokeStyle = '#8b5020';
+      ctx.lineWidth = 1.5;
+      ctx.beginPath();
+      ctx.moveTo(kx, iy);
+      ctx.lineTo(kx, iy + kH);
+      ctx.stroke();
+
+      // Khandha number label (below inner area)
+      ctx.fillStyle = '#7a4020';
+      ctx.font = `bold ${Math.max(9,11)}px 'Noto Sans', monospace`;
+      ctx.textAlign = 'center';
+      ctx.fillText(`${k + 1}`, ix + k * kW + kW / 2, iy + kH + 14);
+
+      // ◈ / ☐ marker above
+      ctx.font = `9px sans-serif`;
+      ctx.fillStyle = '#a05a20';
+      ctx.fillText(g.khandhasList[k].smallOnLeft ? '◈←' : '→◈', ix + k * kW + kW / 2, iy - 6);
+    }
+
+    // Final khandha right edge
+    ctx.strokeStyle = '#8b5020';
+    ctx.lineWidth = 1.5;
+    ctx.beginPath();
+    ctx.moveTo(ix + iW, iy);
+    ctx.lineTo(ix + iW, iy + kH);
+    ctx.stroke();
+
+    // ── Outer border outline ──
+    ctx.strokeStyle = '#5a3010';
+    ctx.lineWidth = 2;
+    ctx.strokeRect(ox, oy, dW, dH);
+
+    // ── Dimension arrows & labels ──
+    ctx.fillStyle = '#5a3010';
+    ctx.font = `italic ${Math.max(10, 12)}px 'Noto Serif', serif`;
+    ctx.textAlign = 'center';
+
+    // Length arrow (below robe)
+    const arrowY = oy + dH + 28;
+    ctx.beginPath();
+    ctx.moveTo(ox, arrowY); ctx.lineTo(ox + dW, arrowY);
+    ctx.moveTo(ox + 6, arrowY - 4); ctx.lineTo(ox, arrowY); ctx.lineTo(ox + 6, arrowY + 4);
+    ctx.moveTo(ox + dW - 6, arrowY - 4); ctx.lineTo(ox + dW, arrowY); ctx.lineTo(ox + dW - 6, arrowY + 4);
+    ctx.strokeStyle = '#8b5020'; ctx.lineWidth = 1.5; ctx.stroke();
+    ctx.fillText(`Length: ${toDisp(g.lenCm)}`, ox + dW / 2, arrowY - 6);
+
+    // Width arrow (right of robe)
+    const arrowX = ox + dW + 32;
+    ctx.save();
+    ctx.translate(arrowX, oy + dH / 2);
+    ctx.rotate(Math.PI / 2);
+    ctx.beginPath();
+    ctx.moveTo(-dH / 2, 0); ctx.lineTo(dH / 2, 0);
+    ctx.moveTo(-dH / 2 + 6, -4); ctx.lineTo(-dH / 2, 0); ctx.lineTo(-dH / 2 + 6, 4);
+    ctx.moveTo(dH / 2 - 6, -4); ctx.lineTo(dH / 2, 0); ctx.lineTo(dH / 2 - 6, 4);
+    ctx.strokeStyle = '#8b5020'; ctx.lineWidth = 1.5; ctx.stroke();
+    ctx.fillText(`Width: ${toDisp(g.wdtCm)}`, 0, -8);
+    ctx.restore();
+
+    // Border label (top border)
+    ctx.fillStyle = '#fff8ee';
+    ctx.font = `bold ${Math.max(8,9)}px 'Noto Sans'`;
+    ctx.textAlign = 'center';
+    ctx.fillText('5" border', ox + dW / 2, oy + b / 2 + 4);
+    ctx.fillText('5" border', ox + dW / 2, oy + dH - b / 2 + 4);
+    ctx.save();
+    ctx.translate(ox + b / 2, oy + dH / 2);
+    ctx.rotate(-Math.PI / 2);
+    ctx.fillText('5" border', 0, 4);
+    ctx.restore();
+    ctx.save();
+    ctx.translate(ox + dW - b / 2, oy + dH / 2);
+    ctx.rotate(Math.PI / 2);
+    ctx.fillText('5" border', 0, 4);
+    ctx.restore();
+  }
+
+  // ── Update unit labels in inputs ───────────────────────────────────────────
+  function syncUnitLabels() {
+    const u = state.unit;
+    const lbl = u === 'cm' ? 'cm' : 'in';
+    ['lbl-height-unit','lbl-manual-l-unit','lbl-manual-w-unit',
+     'lbl-handspan-unit','lbl-hattha-unit'].forEach(id => {
+      const el = document.getElementById(id);
+      if (el) el.textContent = lbl;
+    });
+    // Sync displayed values of dimension inputs
+    setInputDisplayValues();
+  }
+
+  function setInputDisplayValues() {
+    const isCm = state.unit === 'cm';
+    const f = v => isCm ? +v.toFixed(1) : +(v / CM_PER_IN).toFixed(2);
+    document.getElementById('inp-height').value          = f(state.heightCm);
+    document.getElementById('inp-manual-length').value   = f(state.manualLenCm);
+    document.getElementById('inp-manual-width').value    = f(state.manualWdtCm);
+    document.getElementById('inp-handspan').value        = f(state.handspanCm);
+    document.getElementById('inp-hattha').value          = f(state.hatthaCm);
+  }
+
+  // ── Main update ────────────────────────────────────────────────────────────
+  function update() {
+    const g = getGeometry();
+    if (!g) return;
+    updateResults(g);
+    draw(g);
+  }
+
+  // ── Event wiring ───────────────────────────────────────────────────────────
+  function bindEvents() {
+    // Method tabs
+    document.querySelectorAll('.method-tab').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('.method-tab').forEach(b => b.classList.remove('active'));
+        document.querySelectorAll('.method-panel').forEach(p => p.classList.remove('active'));
+        btn.classList.add('active');
+        state.method = btn.dataset.method;
+        document.getElementById('panel-' + state.method).classList.add('active');
+        update();
+      });
+    });
+
+    // Unit toggle
+    document.querySelectorAll('.unit-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('.unit-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        state.unit = btn.dataset.unit;
+        syncUnitLabels();
+        update();
+      });
+    });
+
+    // Khandha pills
+    document.querySelectorAll('#khandha-btns .pill-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('#khandha-btns .pill-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        state.khandhas = parseInt(btn.dataset.k);
+        update();
+      });
+    });
+
+    // Parts pills
+    document.querySelectorAll('#parts-btns .pill-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('#parts-btns .pill-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        state.parts = parseInt(btn.dataset.p);
+        update();
+      });
+    });
+
+    // Height input
+    document.getElementById('inp-height').addEventListener('input', e => {
+      let val = parseFloat(e.target.value) || 175;
+      state.heightCm = state.unit === 'cm' ? val : val * CM_PER_IN;
+      update();
+    });
+
+    // Manual inputs
+    document.getElementById('inp-manual-length').addEventListener('input', e => {
+      let val = parseFloat(e.target.value) || 525;
+      state.manualLenCm = state.unit === 'cm' ? val : val * CM_PER_IN;
+      update();
+    });
+    document.getElementById('inp-manual-width').addEventListener('input', e => {
+      let val = parseFloat(e.target.value) || 220;
+      state.manualWdtCm = state.unit === 'cm' ? val : val * CM_PER_IN;
+      update();
+    });
+
+    // Handspan inputs
+    document.getElementById('inp-handspan').addEventListener('input', e => {
+      let val = parseFloat(e.target.value) || 20;
+      state.handspanCm = state.unit === 'cm' ? val : val * CM_PER_IN;
+      update();
+    });
+    document.getElementById('inp-hs-length-count').addEventListener('input', e => {
+      state.hsLenCount = parseInt(e.target.value) || 15;
+      update();
+    });
+    document.getElementById('inp-hs-width-count').addEventListener('input', e => {
+      state.hsWdtCount = parseInt(e.target.value) || 9;
+      update();
+    });
+
+    // Hattha inputs
+    document.getElementById('inp-hattha').addEventListener('input', e => {
+      let val = parseFloat(e.target.value) || 45;
+      state.hatthaCm = state.unit === 'cm' ? val : val * CM_PER_IN;
+      update();
+    });
+    document.getElementById('inp-hh-length-count').addEventListener('input', e => {
+      state.hhLenCount = parseInt(e.target.value) || 5;
+      update();
+    });
+    document.getElementById('inp-hh-width-count').addEventListener('input', e => {
+      state.hhWdtCount = parseInt(e.target.value) || 3;
+      update();
+    });
+
+    window.addEventListener('resize', update);
+  }
+
+  // ── Init ───────────────────────────────────────────────────────────────────
+  function init() {
+    bindEvents();
+    setInputDisplayValues();
+    update();
+  }
+
+  init();
+})();
+</script>
+</body>
+</html>
