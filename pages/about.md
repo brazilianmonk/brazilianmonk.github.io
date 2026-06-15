@@ -6,7 +6,7 @@ permalink: /about
 
 ## the Author: Bhikkhu Ariyañāṇa
 
-<img src="/assets/img/round-me-214.jpg" alt="description" style="width: 40%;">
+<img src="/assets/img/round-me-214.jpg" alt="description" class="no-effect" style="width: 40%;">
 
 **1991**: born in Brazil as Stefano Domit Cervo. 
 

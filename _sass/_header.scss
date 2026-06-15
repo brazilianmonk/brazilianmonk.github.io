@@ -1,6 +1,6 @@
 /* --- Site Header Main Container --- */
 .site-header {
-  min-height: 45px; /* Shrunk by ~20% */
+  min-height: $header-thickness;
   width: 100%; 
   position: fixed;
   top: 0;
@@ -20,56 +20,87 @@
 
 /* --- Logo / Title --- */
 .site-title {
-  font-size: 26px;
-  font-weight: 400;
-  line-height: 45px; /* Adjusted to match header height */
+  width: 200px;
   margin: 0;
   flex-shrink: 0; 
 }
 
-.site-title img {
-  vertical-align: middle;
+.site-title img.no-style {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 20px; 
   max-width: 200px; 
   height: auto;
+  border-radius: 0;
+  box-shadow: none;
+  margin: 0 !important;
+  display: block;
+  z-index: 105;
 }
 
 /* --- Navigation Search Bar (Middle) --- */
 .nav-search {
   position: relative;
   margin: 0 1.5rem;
-  flex-grow: 1;
-  max-width: 400px; 
+  max-width: 80px; 
+  transition: max-width 0.3s ease;
+  
+  /* Overrides for global form styles */
+  padding: 0 !important;
+  background: transparent !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+}
+
+.nav-search:focus-within {
+  max-width: 130px;
 }
 
 .search-input-wrapper {
   position: relative;
   display: flex;
   align-items: center;
+  height: 18px;
 }
 
 .search-icon {
   position: absolute;
-  left: 12px;
-  color: #9a9a9a;
-  font-size: 0.8rem;
+  left: 6px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #ccc;
+  font-size: 0.65rem;
   z-index: 2;
+  transition: color 0.3s ease;
+}
+
+.nav-search:focus-within .search-icon {
+  color: #999;
 }
 
 #nav-search-input {
   width: 100%;
-  padding: 6px 12px 6px 35px; /* Slightly slimmer padding */
-  border-radius: 20px;
-  border: 1px solid #eaecef;
-  background: #f9f9f9;
+  height: 18px;
+  line-height: 18px;
+  padding: 0 6px 0 20px;
+  border-radius: 0;
+  border: none;
+  background: transparent;
   outline: none;
-  font-size: 0.9rem;
+  font-size: 0.7rem;
   transition: all 0.3s ease;
 }
 
 #nav-search-input:focus {
-  background: #fff;
-  border-color: #AF6100; 
-  box-shadow: 0 0 0 3px rgba(175, 97, 0, 0.1);
+  background: transparent;
+  border-color: transparent; 
+  box-shadow: none;
+}
+
+#nav-search-input::placeholder {
+  color: #ccc;
+  font-size: 0.7rem;
 }
 
 /* --- Search Results Dropdown --- */
@@ -109,7 +140,7 @@
   display: flex;
   gap: 15px;
   flex-shrink: 0;
-  line-height: 45px; /* Adjusted to match header height */
+  line-height: $header-thickness;
 }
 
 .menu-link {
@@ -131,14 +162,17 @@
 
   .nav-search {
     margin: 0 0.5rem;
-    max-width: 180px; 
   }
 
   .menu-list {
     display: none; 
   }
 
-  .site-title img {
+  .site-title {
+    width: 120px;
+  }
+  .site-title img.no-style {
+    left: 10px;
     max-width: 120px; /* Scaled down for tighter mobile header */
   }
 

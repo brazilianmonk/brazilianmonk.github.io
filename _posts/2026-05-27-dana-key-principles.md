@@ -7,6 +7,7 @@ tags: [Giving (dāna), Volition (cetanā, kamma), Rebirth-linking Consciousness 
 image: dana-principles.jpg
 ---
 
+
 ## 🇬🇧 English
 
 **_Dāna_**, giving, is a meritorious deed that, if done properly, is able to produce good results in lives to come according to the law of kamma. Here are some key principles regarding the act of giving and how you can ensure it produces the highest possible merit (**_puñña_**). 
