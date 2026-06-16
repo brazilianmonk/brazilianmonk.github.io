@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Mettā (Benevolence): the Highest Saṁsāric Merit
+title: "Mettā (Benevolence): the Highest Saṁsāric Merit"
 author: Brazil Ariyañāṇa Bhikkhu
 categories: Meditation
-tags: [Benevolence (mettā), Merit (puñña)]
+tags: [Benevolence (mettā), Merit (puñña), Mental Factor (cetasika)]
 image: mettabhavana.png
 ---
 
 ## 🇬🇧 English
-
 ### **The State of a Friend**
 
 While *Mitta* is a friend, *Mettā* is the *state* of a friend, one who wishes the welfare of the other. Often translated as benevolence (volere bene: to wish well) or loving-kindness, *Mettā* is described as one of the "beautiful" mental factors (*Sobhanacetasika*).
@@ -17,7 +16,7 @@ In ultimate terms, it represent *Adosa-cetasika*, the mental factor of non-avers
 
 This mental state of wishing well can be intensified with the proper practice left by the Buddha, leading to deep states of concentration (*samādhi*), often refered to as *Mettācetovimutti* (liberation of the mind through benevolence). Here is a look at how you can develop this practice.
 
-#### Easy at First
+### Easy at First
 
 In the beginning, the practice usually starts by picking a **dear person** (*piya puggala*)—someone you already find it easy to wish happiness for and who meets the following criteria:
 
@@ -26,7 +25,7 @@ In the beginning, the practice usually starts by picking a **dear person** (*piy
 
 If you’re struggling to establish the mindset, start with yourself. Thinking *"May I be happy"* can help you find the right state before moving on to others. Visualize the person (not essential) or just hold them in your mind and establish the thought: *"May this person be happy"*. This may seem ordinary at first, but when developed with diligence, it can produce all three types of *samādhi* and the first three *jhānas*.
 
-#### **Breaking the Barriers**
+### **Breaking the Barriers**
 
 The heavy-lifting of *Mettābhāvanā* happens when you start **breaking the barriers** (*Sīmāsambheda*). This is the process of removing the mental walls we build between people we like and people we don’t. You move through four stages:
 1.  **The Dear Person:** Your initial easy subject.
@@ -36,13 +35,13 @@ The heavy-lifting of *Mettābhāvanā* happens when you start **breaking the bar
 
 The goal is to reach a level of concentration where your wish for the "enemy’s" happiness is just as stable and sincere as your wish for your best friend's.
 
-#### **Why Practice Mettā?**
+### **Why Practice Mettā?**
 Beyond just feeling better, *Mettā* actually has some *serious* benefits:
 *   **The "Mettā Effect":** Interestingly, your practice doesn't just change your own mind. It can actually help the person you are focusing on feel more comfortable and happy, depending on the power of your concentration.
 *   **Pleasant abiding here and now:** *Mettā* is a form of **Samatha** (serenity) meditation. It helps you overcome "hindrances" like hatred and worry, leading to deep states of absorption called *Jhānas*. Because *Mettā* thrives on pleasant feelings, it can take you through the first three *Jhānas*, not the fourth, which is based on neutral feeling. 
 *   **Highest Opadhika Puñña:** In terms of "merit" (*puñña*) that produces results in the round of rebirths (*saṁsāra*), *Mettā* is declared the highest, as it directly involves others (unlike other meditation subjects), serves as the foundation for other Immeasurable States like Compassion and Altruistic Joy, as well as base for other virtues such as giving. It also constitutes one of the ten *pāramīs*, the perfections practiced by the Buddha-to-be on his journey of self-mastery toward Buddhahood. 
 
-#### **The Path to Wisdom**
+### **The Path to Wisdom**
 While *Mettā* is a powerful tool for peace, to reach the ultimate goal of liberation (*Nibbāna*), one must eventually transition from *Samatha* to **Vipassanā** (insight meditation). 
 
 By using the calm, concentrated mind developed through *Mettā*, you can begin to see ultimate mental and material realities that comprise yourself and the world as well as their conditional relations as they really are—impermanent, suffering and "non-self". 
@@ -57,7 +56,7 @@ En términos últimos, representa *Adosa-cetasika*, el factor mental de la no-av
 
 Este estado mental de desear el bien puede intensificarse con la práctica adecuada dejada por el Buddha, llevando a estados profundos de concentración (*samādhi*), a menudo referidos como *Mettācetovimutti* (Liberación de la Mente Mediante la Benevolencia). Aquí tienes una mirada a cómo puedes desarrollar esta práctica.
 
-#### Fácil al Principio
+### Fácil al Principio
 
 Al principio, la práctica suele comenzar eligiendo a una **persona querida** (*piya puggala*)—alguien para quien ya te resulte fácil desearle felicidad y que cumpla los siguientes criterios:
 
@@ -66,7 +65,7 @@ Al principio, la práctica suele comenzar eligiendo a una **persona querida** (*
 
 Si te cuesta establecer la mentalidad adecuada, empieza contigo mismo. Pensar *"Que yo sea feliz"* puede ayudarte a encontrar el estado correcto antes de pasar a los demás. Visualiza a la persona (no es esencial) o simplemente mantenla en tu mente y establece el pensamiento: *"Que esta persona sea feliz"*. Esto puede parecer ordinario al principio, pero cuando se desarrolla con diligencia, puede producir los tres tipos de *samādhi* y los primeros tres *jhānas*.
 
-#### **Rompiendo las Barreras**
+### **Rompiendo las Barreras**
 
 El trabajo más intenso de *Mettābhāvanā* ocurre cuando empiezas a **romper las barreras** (*Sīmāsambheda*). Este es el proceso de eliminar los muros mentales que construimos entre las personas que nos agradan y las que no. Se avanza a través de cuatro etapas:
 
@@ -77,7 +76,7 @@ El trabajo más intenso de *Mettābhāvanā* ocurre cuando empiezas a **romper l
 
 El objetivo es alcanzar un nivel de concentración donde tu deseo de felicidad para el "enemigo" sea tan estable y sincero como tu deseo para tu mejor amigo.
 
-#### **¿Por qué Practicar Mettā?**
+### **¿Por qué Practicar Mettā?**
 
 Más allá de simplemente sentirse mejor, *Mettā* tiene beneficios *serios*:
 
@@ -85,7 +84,7 @@ Más allá de simplemente sentirse mejor, *Mettā* tiene beneficios *serios*:
 *   **Morada placentera aquí y ahora:** *Mettā* es una forma de meditación **Samatha** (serenidad). Ayuda a superar los "obstáculos" como el odio y la preocupación, llevando a estados profundos de absorción llamados *Jhānas*. Dado que *Mettā* prospera en sentimientos placenteros, puede llevarte a través de los primeros tres *Jhānas*, no al cuarto, que se basa en un sentimiento neutral.
 *   **El más alto Opadhika Puñña:** En términos de "mérito" (*puñña*) que produce resultados en la ronda de renacimientos (*saṁsāra*), *Mettā* es declarada la más alta, ya que involucra directamente a otros (a diferencia de otros temas de meditación), sirve como base para otros Estados Inmensurables como la Compasión y la Alegría Altruista, así como base para otras virtudes como la generosidad. También constituye una de las diez *pāramīs*, las perfecciones practicadas por el futuro Buddha en su viaje de autodominio hacia la Buddheidad.
 
-#### **El Camino hacia la Sabiduría**
+### **El Camino hacia la Sabiduría**
 
 Aunque *Mettā* es una herramienta poderosa para la paz, para alcanzar la meta última de la liberación (*Nibbāna*), uno debe eventualmente transitar de *Samatha* a **Vipassanā** (meditación de insight).
 
@@ -102,7 +101,7 @@ Em termos últimos, representa *Adosa-cetasika*, o fator mental da não-aversão
 
 Esse estado mental de desejar o bem pode ser intensificado com a prática adequada deixada pelo Buddha, levando a estados profundos de concentração (*samādhi*), frequentemente chamados de *Mettācetovimutti* (Libertação da Mente Através da Benevolência). Veja como você pode desenvolver essa prática.
 
-#### Fácil no Início
+### Fácil no Início
 
 No começo, a prática geralmente começa escolhendo uma **pessoa querida** (*piya puggala*) — alguém para quem você já ache fácil desejar felicidade e que atenda aos seguintes critérios:
 
@@ -111,7 +110,7 @@ No começo, a prática geralmente começa escolhendo uma **pessoa querida** (*pi
 
 Se você estiver com dificuldade para estabelecer a mentalidade, comece por você mesmo. Pensar *"Que eu seja feliz"* pode ajudá-lo a encontrar o estado certo antes de passar para os outros. Visualize a pessoa (não essencial) ou apenas a mantenha em sua mente e estabeleça o pensamento: *"Que esta pessoa seja feliz"*. Isso pode parecer comum no início, mas quando desenvolvido com diligência, pode produzir todos os três tipos de *samādhi* e os primeiros três *jhānas*.
 
-#### **Quebrando as Barreiras**
+### **Quebrando as Barreiras**
 
 O trabalho mais árduo do *Mettābhāvanā* acontece quando você começa a **quebrar as barreiras** (*Sīmāsambheda*). Este é o processo de remover os muros mentais que construímos entre pessoas de quem gostamos e pessoas de quem não gostamos. Você avança por quatro estágios:
 
@@ -122,7 +121,7 @@ O trabalho mais árduo do *Mettābhāvanā* acontece quando você começa a **qu
 
 O objetivo é alcançar um nível de concentração onde seu desejo de felicidade para o "inimigo" seja tão estável e sincero quanto seu desejo para o seu melhor amigo.
 
-#### **Por que Praticar Mettā?**
+### **Por que Praticar Mettā?**
 
 Além de apenas se sentir melhor, *Mettā* tem benefícios *sérios*:
 
@@ -130,7 +129,7 @@ Além de apenas se sentir melhor, *Mettā* tem benefícios *sérios*:
 *   **Permanência prazerosa aqui e agora:** *Mettā* é uma forma de meditação **Samatha** (serenidade). Ajuda você a superar os "obstáculos" como ódio e preocupação, levando a estados profundos de absorção chamados *Jhānas*. Como *Mettā* prospera em sentimentos prazerosos, pode levar você através dos primeiros três *Jhānas*, não ao quarto, que é baseado em sentimento neutro.
 *   **O Mais Alto Opadhika Puñña:** Em termos de "mérito" (*puñña*) que produz resultados na roda de renascimentos (*saṁsāra*), *Mettā* é declarada a mais alta, pois envolve diretamente outros (ao contrário de outros temas de meditação), serve como base para outros Estados Ilimitados como Compaixão e Alegria Altruísta, bem como base para outras virtudes como doação. Também constitui uma das dez *pāramīs*, as perfeições praticadas pelo futuro Buddha em sua jornada de autodomínio em direção à Buddheidade.
 
-#### **O Caminho para a Sabedoria**
+### **O Caminho para a Sabedoria**
 
 Embora *Mettā* seja uma ferramenta poderosa para a paz, para alcançar a meta final da libertação (*Nibbāna*), deve-se eventualmente transitar de *Samatha* para **Vipassanā** (meditação de insight).
 
@@ -138,174 +137,5 @@ Usando a mente calma e concentrada desenvolvida através de *Mettā*, você pode
 
 ---
 
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-  // Add styles for collapsible TOC
-  const style = document.createElement("style");
-  style.textContent = `
-    .table-of-contents {
-      background: #f5f5f0;
-      padding: 1rem 1.5rem;
-      border-radius: 8px;
-      margin-bottom: 2rem;
-      border-left: 4px solid #8B4513;
-    }
-    .table-of-contents h2 {
-      margin-top: 0;
-      font-size: 1.3rem;
-    }
-    .table-of-contents ul {
-      margin-bottom: 0;
-      padding-left: 1.2rem;
-    }
-    .table-of-contents li {
-      margin: 0.3rem 0;
-      list-style-type: none;
-    }
-    .table-of-contents a {
-      text-decoration: none;
-      color: #2c5e2e;
-    }
-    .table-of-contents a:hover {
-      text-decoration: underline;
-    }
-    /* Collapsible section styles */
-    .toc-h2-item {
-      margin-top: 0.5rem;
-    }
-    .toc-h2-link {
-      cursor: pointer;
-      display: inline-block;
-    }
-    .toc-toggle {
-      cursor: pointer;
-      display: inline-block;
-      width: 20px;
-      font-size: 0.9rem;
-      font-weight: bold;
-      color: #8B4513;
-      user-select: none;
-      margin-right: 6px;
-      text-align: center;
-    }
-    .toc-toggle:hover {
-      color: #2c5e2e;
-    }
-    .toc-h3-list {
-      margin-left: 26px;
-      padding-left: 0;
-      transition: all 0.2s ease;
-    }
-    .toc-h3-list.collapsed {
-      display: none;
-    }
-  `;
-  document.head.appendChild(style);
-  
-  // Generate TOC
-  const headings = document.querySelectorAll("h2, h3");
-  if (headings.length === 0) return;
-  
-  const toc = document.createElement("div");
-  toc.className = "table-of-contents";
-  toc.innerHTML = "<h2>📖</h2><ul></ul>";
-  const tocList = toc.querySelector("ul");
-  
-  let currentH2Item = null;
-  let currentH3List = null;
-  
-  headings.forEach(heading => {
-    if (heading.closest(".table-of-contents")) return;
-    
-    if (!heading.id) {
-      heading.id = heading.textContent
-        .toLowerCase()
-        .replace(/[🇧🇷🇪🇸🇬🇧]/g, "")
-        .replace(/[^\w\s-]/g, "")
-        .replace(/\s+/g, "-");
-    }
-    
-    if (heading.tagName === "H2") {
-      // Create container for this H2 section
-      const li = document.createElement("li");
-      li.className = "toc-h2-item";
-      
-      // Add toggle arrow
-      const toggle = document.createElement("span");
-      toggle.className = "toc-toggle";
-	toggle.textContent = "▶";  // Collapsed by default
-      toggle.setAttribute("aria-label", "Collapse section");
-      
-      // Add the H2 link
-      const a = document.createElement("a");
-      a.href = `#${heading.id}`;
-      a.textContent = heading.textContent;
-      a.className = "toc-h2-link";
-      
-      // Container for H3 items (to be filled later)
-      const h3Container = document.createElement("ul");
-      h3Container.className = "toc-h3-list";
-      h3Container.classList.add("collapsed");
-	  
-      // Assemble
-      li.appendChild(toggle);
-      li.appendChild(a);
-      li.appendChild(h3Container);
-      tocList.appendChild(li);
-      
-      // Store references
-      currentH2Item = li;
-      currentH3List = h3Container;
-      
-      // Add click toggle functionality
-      const toggleSection = () => {
-        const isCollapsed = h3Container.classList.contains("collapsed");
-        if (isCollapsed) {
-          h3Container.classList.remove("collapsed");
-          toggle.textContent = "▼";
-          toggle.setAttribute("aria-label", "Collapse section");
-        } else {
-          h3Container.classList.add("collapsed");
-          toggle.textContent = "▶";
-          toggle.setAttribute("aria-label", "Expand section");
-        }
-      };
-      
-      toggle.addEventListener("click", function(e) {
-        e.preventDefault();
-        e.stopPropagation();
-        toggleSection();
-      });
-      
-      a.addEventListener("click", function(e) {
-        // Allow normal anchor behavior, but also toggle if desired?
-        // Comment out the next line if you want clicking the link to ALSO toggle
-        // e.preventDefault(); 
-        // Uncomment below to toggle when clicking the link text too
-        // toggleSection();
-        // Then scroll to heading
-        // document.getElementById(heading.id).scrollIntoView({ behavior: "smooth" });
-      });
-      
-    } else if (heading.tagName === "H3" && currentH3List) {
-      // Add H3 item under current H2
-      const li = document.createElement("li");
-      const a = document.createElement("a");
-      a.href = `#${heading.id}`;
-      a.textContent = heading.textContent;
-      li.appendChild(a);
-      currentH3List.appendChild(li);
-    }
-  });
-  
-  // Insert TOC at the beginning of the page
-  const firstHeading = document.querySelector("h1, h2");
-  if (firstHeading) {
-    firstHeading.parentNode.insertBefore(toc, firstHeading);
-  } else {
-    document.body.insertBefore(toc, document.body.firstChild);
-  }
-});
-</script>
-	
+{% include toc.html %}
 

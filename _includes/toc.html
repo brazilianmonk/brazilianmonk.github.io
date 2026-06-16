@@ -1,0 +1,199 @@
+<style>
+  .toc-wrapper {
+    margin-bottom: 1.8rem;
+    font-size: 0.85rem;
+  }
+  .toc-toggle-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    background: none;
+    border: 1px solid #c8b99a;
+    border-radius: 6px;
+    padding: 0.3rem 0.75rem;
+    cursor: pointer;
+    color: #5a3e1b;
+    font-size: 0.8rem;
+    font-family: inherit;
+    letter-spacing: 0.03em;
+    transition: background 0.15s, color 0.15s;
+    user-select: none;
+  }
+  .toc-toggle-btn:hover {
+    background: #f0e8d8;
+    color: #3b2710;
+  }
+  .toc-toggle-btn .toc-btn-arrow {
+    display: inline-block;
+    font-size: 0.6rem;
+    transition: transform 0.2s ease;
+  }
+  .toc-toggle-btn.open .toc-btn-arrow {
+    transform: rotate(180deg);
+  }
+  .toc-body {
+    display: none;
+    background: #faf8f4;
+    border: 1px solid #e0d4be;
+    border-top: none;
+    border-radius: 0 0 6px 6px;
+    padding: 0.6rem 1rem 0.7rem 1rem;
+    margin-top: 0;
+  }
+  .toc-body.open {
+    display: block;
+  }
+  .toc-toggle-btn.open {
+    border-radius: 6px 6px 0 0;
+    background: #f0e8d8;
+    border-bottom-color: #e0d4be;
+  }
+  .toc-body ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  .toc-body > ul > li {
+    margin: 0.25rem 0;
+  }
+  .toc-body > ul > li > a {
+    color: #2c5e2e;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.82rem;
+  }
+  .toc-body > ul > li > a:hover {
+    text-decoration: underline;
+  }
+  .toc-h3-list {
+    margin: 0.15rem 0 0.1rem 0.9rem;
+    padding: 0;
+    display: none;
+  }
+  .toc-h3-list.open {
+    display: block;
+  }
+  .toc-h3-list li {
+    margin: 0.15rem 0;
+  }
+  .toc-h3-list a {
+    color: #555;
+    text-decoration: none;
+    font-size: 0.78rem;
+    font-weight: normal;
+  }
+  .toc-h3-list a:hover {
+    text-decoration: underline;
+    color: #2c5e2e;
+  }
+  .toc-section-toggle {
+    cursor: pointer;
+    color: #a07040;
+    font-size: 0.55rem;
+    margin-right: 0.3rem;
+    display: inline-block;
+    transition: transform 0.15s;
+    vertical-align: middle;
+  }
+  .toc-section-toggle.open {
+    transform: rotate(90deg);
+  }
+</style>
+
+<div class="toc-wrapper" id="toc-wrapper">
+  <button class="toc-toggle-btn" id="toc-main-btn" aria-expanded="false">
+    🔖 <span class="toc-btn-arrow">▼</span>
+  </button>
+  <div class="toc-body" id="toc-body">
+    <ul id="toc-list"></ul>
+  </div>
+</div>
+
+<script>
+(function() {
+  var article = document.querySelector("article");
+  if (!article) return;
+
+  var headings = article.querySelectorAll("h2, h3");
+  var wrapper = document.getElementById("toc-wrapper");
+  if (headings.length === 0) {
+    wrapper.style.display = "none";
+    return;
+  }
+
+  // Move the TOC widget to just before the article so it always appears at the top
+  article.parentNode.insertBefore(wrapper, article);
+
+  var tocList = document.getElementById("toc-list");
+  var mainBtn = document.getElementById("toc-main-btn");
+  var tocBody = document.getElementById("toc-body");
+
+  var currentH3List = null;
+  var idx = 0;
+
+  headings.forEach(function(heading) {
+    if (!heading.id) {
+      heading.id = "toc-" + idx + "-" + heading.textContent
+        .toLowerCase()
+        .replace(/[\u{1F1E6}-\u{1F1FF}]/gu, "")
+        .replace(/[^\w\s-]/g, "")
+        .trim()
+        .replace(/\s+/g, "-");
+    }
+    idx++;
+
+    if (heading.tagName === "H2") {
+      var li = document.createElement("li");
+
+      var arrow = document.createElement("span");
+      arrow.className = "toc-section-toggle";
+      arrow.textContent = "▶";
+      arrow.setAttribute("aria-hidden", "true");
+
+      var a = document.createElement("a");
+      a.href = "#" + heading.id;
+      a.textContent = heading.textContent;
+
+      var h3ul = document.createElement("ul");
+      h3ul.className = "toc-h3-list";
+
+      li.appendChild(arrow);
+      li.appendChild(a);
+      li.appendChild(h3ul);
+      tocList.appendChild(li);
+
+      currentH3List = h3ul;
+
+      arrow.addEventListener("click", function(e) {
+        e.preventDefault();
+        var isOpen = h3ul.classList.contains("open");
+        h3ul.classList.toggle("open", !isOpen);
+        arrow.classList.toggle("open", !isOpen);
+      });
+
+    } else if (heading.tagName === "H3" && currentH3List) {
+      var li3 = document.createElement("li");
+      var a3 = document.createElement("a");
+      a3.href = "#" + heading.id;
+      a3.textContent = heading.textContent;
+      li3.appendChild(a3);
+      currentH3List.appendChild(li3);
+    }
+  });
+
+  // Hide section toggles that have no H3 children
+  tocList.querySelectorAll(".toc-section-toggle").forEach(function(arrow) {
+    var ul = arrow.parentElement.querySelector(".toc-h3-list");
+    if (!ul || ul.children.length === 0) {
+      arrow.style.visibility = "hidden";
+    }
+  });
+
+  mainBtn.addEventListener("click", function() {
+    var isOpen = tocBody.classList.contains("open");
+    tocBody.classList.toggle("open", !isOpen);
+    mainBtn.classList.toggle("open", !isOpen);
+    mainBtn.setAttribute("aria-expanded", String(!isOpen));
+  });
+})();
+</script>
