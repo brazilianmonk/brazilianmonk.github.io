@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mettā (Benevolence): the Highest Saṁsāric Merit"
+title: "Benevolence: the Highest Saṁsāric Merit"
 author: Brazil Ariyañāṇa Bhikkhu
 categories: Meditation
 tags: [Benevolence (mettā), Merit (puñña), Mental Factor (cetasika)]
