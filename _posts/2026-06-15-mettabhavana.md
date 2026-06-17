@@ -21,7 +21,7 @@ This mental state of wishing well can be intensified with the proper practice le
 In the beginning, the practice usually starts by picking a **dear person** (*piya puggala*)—someone you already find it easy to wish happiness for and who meets the following criteria:
 
 *   **Living:** Choose someone currently alive.
-*   **Same sex:** Pick someone of the same sex to avoid complicated feelings like lust.
+*   **Sex:** Pick someone who does not arouse your lust.
 
 If you’re struggling to establish the mindset, start with yourself. Thinking *"May I be happy"* can help you find the right state before moving on to others. Visualize the person (not essential) or just hold them in your mind and establish the thought: *"May this person be happy"*. This may seem ordinary at first, but when developed with diligence, it can produce all three types of *samādhi* and the first three *jhānas*.
 
@@ -50,9 +50,9 @@ By using the calm, concentrated mind developed through *Mettā*, you can begin t
 ## 🇪🇸 Español
 ### **El Estado de un Amigo**
 
-Mientras que *Mitta* es un amigo, *Mettā* es el *estado* de un amigo, aquel que desea el bienestar del otro. A menudo traducida como benevolencia (volere bene: querer el bien) o amor-bondad, *Mettā* se describe como uno de los factores mentales "hermosos" (*Sobhanacetasika*).
+Mientras que *Mitta* es un amigo, *Mettā* es el *estado* de un amigo, aquel que desea el bienestar del otro. A menudo traducida como benevolencia (volere bene: querer el bien) o amor-benevolente, *Mettā* se describe como uno de los factores mentales "hermosos" (*Sobhanacetasika*).
 
-En términos últimos, representa *Adosa-cetasika*, el factor mental de la no-aversión. Si bien la no-aversión se manifiesta de diferentes maneras, como la paciencia, su versión *mettā* se centra específicamente en los seres vivos, deseando su bienestar. *Mettā* es un modo proactivo de no-aversión donde ves a los demás como afables y deseas su felicidad. Dado que se opone directamente a *Dosa* (aversión), *Mettā* debilita directamente estados negativos como la irritación, el odio, el enfado y similares.
+En términos últimos, representa *Adosa-cetasika*, el factor mental de la no-aversión. Si bien la no-aversión se manifiesta de diferentes maneras, como la paciencia, su versión-*mettā* se centra específicamente en los seres vivos, deseando su bienestar. *Mettā* es un modo proactivo de no-aversión donde ves a los demás como afables y deseas su felicidad. Dado que se opone directamente a *Dosa* (aversión), *Mettā* debilita directamente estados negativos como la irritación, el odio, el enfado y similares.
 
 Este estado mental de desear el bien puede intensificarse con la práctica adecuada dejada por el Buddha, llevando a estados profundos de concentración (*samādhi*), a menudo referidos como *Mettācetovimutti* (Liberación de la Mente Mediante la Benevolencia). Aquí tienes una mirada a cómo puedes desarrollar esta práctica.
 
@@ -61,7 +61,7 @@ Este estado mental de desear el bien puede intensificarse con la práctica adecu
 Al principio, la práctica suele comenzar eligiendo a una **persona querida** (*piya puggala*)—alguien para quien ya te resulte fácil desearle felicidad y que cumpla los siguientes criterios:
 
 *   **Viva:** Elige a alguien que esté vivo actualmente.
-*   **Mismo sexo:** Elige a alguien del mismo sexo para evitar sentimientos complicados como el deseo sexual.
+*   **Sexo:** Elige a alguien que no despierte tu deseo sexual. 
 
 Si te cuesta establecer la mentalidad adecuada, empieza contigo mismo. Pensar *"Que yo sea feliz"* puede ayudarte a encontrar el estado correcto antes de pasar a los demás. Visualiza a la persona (no es esencial) o simplemente mantenla en tu mente y establece el pensamiento: *"Que esta persona sea feliz"*. Esto puede parecer ordinario al principio, pero cuando se desarrolla con diligencia, puede producir los tres tipos de *samādhi* y los primeros tres *jhānas*.
 
@@ -95,7 +95,7 @@ Utilizando la mente tranquila y concentrada desarrollada a través de *Mettā*, 
 ## 🇧🇷 Português
 ### **O Estado de um Amigo**
 
-Enquanto *Mitta* é um amigo, *Mettā* é o *estado* de um amigo, aquele que deseja o bem-estar do outro. Frequentemente traduzida como benevolência (volere bene: querer o bem) ou amor-bondade, *Mettā* é descrita como um dos fatores mentais "belos" (*Sobhanacetasika*).
+Enquanto *Mitta* é um amigo, *Mettā* é o *estado* de um amigo, aquele que deseja o bem-estar do outro. Frequentemente traduzida como benevolência (volere bene: querer o bem) ou amor-benevolente, *Mettā* é descrita como um dos fatores mentais "belos" (*Sobhanacetasika*).
 
 Em termos últimos, representa *Adosa-cetasika*, o fator mental da não-aversão. Embora a não-aversão se manifeste de diferentes maneiras, como a paciência, sua versão *mettā* foca especificamente em seres vivos, desejando seu bem-estar. *Mettā* é um modo proativo de não-aversão onde você vê os outros como agradáveis e deseja sua felicidade. Como se opõe diretamente a *Dosa* (aversão), *Mettā* enfraquece diretamente estados negativos de irritação, ódio, aborrecimento e similares.
 
@@ -106,7 +106,7 @@ Esse estado mental de desejar o bem pode ser intensificado com a prática adequa
 No começo, a prática geralmente começa escolhendo uma **pessoa querida** (*piya puggala*) — alguém para quem você já ache fácil desejar felicidade e que atenda aos seguintes critérios:
 
 *   **Viva:** Escolha alguém que esteja vivo atualmente.
-*   **Mesmo sexo:** Escolha alguém do mesmo sexo para evitar sentimentos complicados como luxúria.
+*   **Sexo:** Escolha alguém que não desperte seu desejo sexual.
 
 Se você estiver com dificuldade para estabelecer a mentalidade, comece por você mesmo. Pensar *"Que eu seja feliz"* pode ajudá-lo a encontrar o estado certo antes de passar para os outros. Visualize a pessoa (não essencial) ou apenas a mantenha em sua mente e estabeleça o pensamento: *"Que esta pessoa seja feliz"*. Isso pode parecer comum no início, mas quando desenvolvido com diligência, pode produzir todos os três tipos de *samādhi* e os primeiros três *jhānas*.
 
