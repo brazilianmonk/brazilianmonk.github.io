@@ -97,7 +97,7 @@ Utilizando la mente tranquila y concentrada desarrollada a través de *Mettā*, 
 
 Enquanto *Mitta* é um amigo, *Mettā* é o *estado* de um amigo, aquele que deseja o bem-estar do outro. Frequentemente traduzida como benevolência (volere bene: querer o bem) ou amor-benevolente, *Mettā* é descrita como um dos fatores mentais "belos" (*Sobhanacetasika*).
 
-Em termos últimos, representa *Adosa-cetasika*, o fator mental da não-aversão. Embora a não-aversão se manifeste de diferentes maneiras, como a paciência, sua versão *mettā* foca especificamente em seres vivos, desejando seu bem-estar. *Mettā* é um modo proativo de não-aversão onde você vê os outros como agradáveis e deseja sua felicidade. Como se opõe diretamente a *Dosa* (aversão), *Mettā* enfraquece diretamente estados negativos de irritação, ódio, aborrecimento e similares.
+Em termos últimos, representa *Adosa-cetasika*, o fator mental da não-aversão. Embora a não-aversão se manifeste de diferentes maneiras, como a paciência, sua versão-*mettā* foca especificamente em seres vivos, desejando seu bem-estar. *Mettā* é um modo proativo de não-aversão onde você vê os outros como agradáveis e deseja sua felicidade. Como se opõe diretamente a *Dosa* (aversão), *Mettā* enfraquece diretamente estados negativos de irritação, ódio, aborrecimento e similares.
 
 Esse estado mental de desejar o bem pode ser intensificado com a prática adequada deixada pelo Buddha, levando a estados profundos de concentração (*samādhi*), frequentemente chamados de *Mettācetovimutti* (Libertação da Mente Através da Benevolência). Veja como você pode desenvolver essa prática.
 
