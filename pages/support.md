@@ -129,3 +129,6 @@ Para manter total prestação de contas, cada doação e gasto é registrado em 
 > **ES:** *Todos los fondos enviados a las cuentas detalladas arriba son donaciones voluntarias destinadas a un fondo de custodia monástica dedicado y no personal, utilizado estrictamente para la salud, viajes y manutención monástica del monje. La administradora de la cuenta no recibe ningún ingreso personal, salario ni beneficio económico de estos fondos.*
 >
 > **PT:** *Todos os fundos enviados para as contas listadas acima são doações voluntárias destinadas a um fundo de custódia monástica dedicado e não pessoal, utilizado estritamente para a saúde, viagens e manutenção monástica do monge. A gestora da conta não recebe nenhuma renda pessoal, salário ou benefício financeiro destes fundos.*
+
+---
+{% include toc.html %}
