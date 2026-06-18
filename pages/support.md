@@ -1,3 +1,9 @@
+---
+layout: page
+title: Support
+permalink: /support
+---
+
 # 🌐 Monastic Support Fund / Fondo de Apoyo Monástico / Fundo de Apoio Monástico
 
 ---
