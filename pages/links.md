@@ -51,7 +51,9 @@ Theravada Buddhist meditation and study center based in São Paulo, Brazil.
 
 ## 🏛️ Monasteries
 
-List of monasteries that either I or close friends know to follow the Vinaya.
+List of Theravāda monasteries that I or close friends know to meet the following requirements:
+- follow the Vinaya rules in full (monks do not accept money, have dinner, etc.)
+- accept the Pāḷi Tipiṭaka and it's traditional explanations (the entire body of the Buddha's teachings with it's original meaning)
 
 ### Myanmar
 
@@ -61,6 +63,14 @@ List of monasteries that either I or close friends know to follow the Vinaya.
 This is the Pa Auk moanstery in Maymyo, Myanmar, where I ordained and spent about 7 years. It is a meditation center but also has an attached pariyatti center (for traditional studies). There are other Pa Auk centers, several in Myanmar, such as in Mawlamyine (the very first), and in a few other countries.
 
 [List of Pa Auk Branches](https://www.paaukthailand.org/en/paaukbranches/?hl=en-US)
+
+#### **Vārānasi** (Mingaladon)
+
+#### **Mahāvihara** (Hlegu, Naypyitaw)
+
+#### **Thantawpein Tawya** (Naypyitaw)
+
+#### **Ainsen Yua Ma** (Yangon)
 
 ### Sri Lanka
 
@@ -74,16 +84,17 @@ The IIT is a monastery focused on the study of Theravāda Buddhism (pariyatti). 
 #### [**Na Uyana Forest Monastery**](https://nauyana.org/)
 <img src="/assets/img/nauyana.png" alt="" style="width: 100%;">
 
-This is a Theravāda Buddhist Forest Monastery in Sri Lanka. It's a large area that includes 3 sections with different environments (more to less secluded). There is also a nearby monastery for study.
+This is a Theravāda Buddhist Forest Monastery in Sri Lanka. It's a large area that includes 3 sections with different environments (more to less secluded). There is also a nearby monastery for study. I recommend Bhante Ariyadassana as guide.
 
 ### Thailand
 
-* [Wat Khao Sanam Chai](https://share.google/7hofJ3PmS3LQdSlna)
-* [Wat Pa Thep Chakraphan Wanaram](https://share.google/02ClWy5SQ8oQUCvO4)
-* [Wat Don Tad Hai](https://share.google/dIBcJj6JuMwG24oOv)
-* [Buddha-Metta Meditation Practice Center](https://share.google/C0znosxZvj8B6ft4K)
-* [Wat Pho Than Phra](https://share.google/q6IAJV0OKm0b0yVtY)
-* [Wat Phra That Nong Sam Muen](https://www.google.com/search?client=ms-android-motorola-rvo3&hs=Fkk&sca_esv=ec2bff8bd1e2ef21&cs=0&hl=en-US&output=search&kgmid=%2Fg%2F1thvvr8d&q=Wat%20Phra%20That%20Nong%20Sam%20Muen&shem=epsdc%2Crimspwouoe&shndl=30&source=sh%2Fx%2Floc%2Fact%2Fm1%2F4&kgs=d6dc95116ce1d112)
+#### [Wat Khao Sanam Chai](https://share.google/7hofJ3PmS3LQdSlna)
+#### [Wat Pa Thep Chakraphan Wanaram](https://share.google/02ClWy5SQ8oQUCvO4)
+#### [Wat Don Tad Hai](https://share.google/dIBcJj6JuMwG24oOv)
+#### [Buddha-Metta Meditation Practice Center](https://share.google/C0znosxZvj8B6ft4K)
+#### [Wat Pho Than Phra](https://share.google/q6IAJV0OKm0b0yVtY)
+#### [Wat Phra That Nong Sam Muen](https://www.google.com/search?client=ms-android-motorola-rvo3&hs=Fkk&sca_esv=ec2bff8bd1e2ef21&cs=0&hl=en-US&output=search&kgmid=%2Fg%2F1thvvr8d&q=Wat%20Phra%20That%20Nong%20Sam%20Muen&shem=epsdc%2Crimspwouoe&shndl=30&source=sh%2Fx%2Floc%2Fact%2Fm1%2F4&kgs=d6dc95116ce1d112)
+#### **Wat Pa Nanachat / Wat Pa Pong**
 
 ### Brasil
 
