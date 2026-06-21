@@ -6,10 +6,11 @@ categories: Abhidhamma
 tags: [Consciousness (citta), Mental Factors (cetasikas), Object (ārammaṇa)]
 image: citta-simile.png
 ---
+[![Watch the video](https://youtu.be/t8ftA7L0KK4?si=rjMNDfRhsKYvMJXv)
 
 ## 🇬🇧 English
 ### Consciousness
-Consciousness is that which cognizes. It is a phenomenon of immaterial nature; therefore, it does not possess form, color, etc., which are material characteristics. The mind is not an eternal or immutable phenomenon, but rather impermanent and temporary. When a moment of cognition occurs, it lasts no more than a brief moment and is followed by another moment of cognition, without an interval between them. This second mental moment also lasts only an instant, ceases, and is followed by another mental moment. Thus, mental moments occur one after the other in a very rapid flow, creating what appears to be a stable stream of consciousness.
+Consciousness is that which cognizes. It is a phenomenon of immaterial nature; therefore, it does not possess form, color, etc., which are material ^. The mind is not an eternal or immutable phenomenon, but rather impermanent and temporary. When a moment of cognition occurs, it lasts no more than a brief moment and is followed by another moment of cognition, without an interval between them. This second mental moment also lasts only an instant, ceases, and is followed by another mental moment. Thus, mental moments occur one after the other in a very rapid flow, creating what appears to be a stable stream of consciousness.
 ### Object
 There is no cognition without something to be cognized; therefore, the mind always has an object of cognition. When the mind cognizes an object, be it visual, auditory, olfactory, gustatory, tactile, or other mental objects, it cannot cognize other objects at the same time. For the process of cognition of various distinct objects to occur, several mental moments occur in rapid succession, cognizing different objects and, thus, creating a complex cognitive process.
 ### Mental Factors
