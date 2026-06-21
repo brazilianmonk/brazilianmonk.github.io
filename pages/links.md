@@ -8,10 +8,10 @@ Here are some links to reliable resources for Theravāda Buddhism that I'm famil
  
 ## 📜 Pāḷi Texts
 
-### [**E-piṭaka**](https://epitaka.org/) (website)
+### [**E-piṭaka**](https://epitaka.org/) (website; Pāḷi, Vietnamese, English)
 <img src="/assets/img/e-pitaka.png" alt="description" style="width: 70%;">
 
-This is a new website with the entire Tipiṭaka, commentaries, and sub-commentaries translated by AI. The entre system was put together by Ven. Vietnam Dhammañāṇa. It uses the Myanmar Nissaya texts (detailed translations in Myanmar language), among other detailed explanations. It is not 100% reliable but quite good, especially the Pāḷi and commentary. It is great for someone who is learning Pāḷi or for research. 
+This is a new website with the entire Tipiṭaka, commentaries, and sub-commentaries translated by AI. The entre system was put together by Ven. Vietnam Dhammañāṇa. It uses the Myanmar Nissaya texts (detailed translations in Myanmar language), among other detailed explanations. It is **not** 100% reliable but quite good, especially the mūla and commentary. It is great for someone who is learning Pāḷi or for research. 
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
@@ -23,12 +23,12 @@ This is an app made by Bhante USA Subhūti. It contains most Pāḷi texts, Engl
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
 ### [**Open Tipiṭaka**](https://opentipitaka.org/?lang=es) (app, website; multiple languages)
-This is a translation project led by [Ven. PRC Sumana](https://www.facebook.com/uppala.putta) that includes the content of the tipiṭaka in several languages translated by AI. 
+This is a translation project led by [Ven. PRC Sumana](https://www.facebook.com/uppala.putta) that includes the content of the Tipiṭaka in several languages translated by AI. Though **not** very reliable, it can be useful for research and learning Pāḷi.
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
 ### [**Digital Pāḷi Reader**](https://www.digitalpalireader.online/_dprhtml/index.html)
-Study tool designed by Bhante Yuttadhammo for reading, searching, and analyzing the Pāḷi Canon. It includes the Digital Pāḷi Dictionary, a staple for Pāḷi learners. 
+Study tool designed by Bhante Yuttadhammo for reading, searching within, and analyzing the Pāḷi Canon. It includes the Digital Pāḷi Dictionary, a staple for Pāḷi learners. 
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
@@ -40,19 +40,19 @@ An extensive repository of Buddhist literature. Curated and maintained by Bhante
 ### [**Acesso ao Insight**](https://www.acessoaoinsight.net/index.htm) (website; Português)
 <img src="/assets/img/aai.png" alt="description" style="width: 70%;">
 
-Esse site tem bastante material traduzido ao Português. Trabalho feito principalmente por [Michael Beisert](https://www.acessoaoinsight.net/arquivo_textos_theravada/beisert.php.html).
+Esse site tem bastante material traduzido ao Português. Trabalho liderado por [Michael Beisert](https://www.acessoaoinsight.net/arquivo_textos_theravada/beisert.php.html).
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
 ### [**Casa De Dharma**](https://casadedharmaorg.org/)
-Theravada Buddhist meditation and study center based in São Paulo, Brazil.
+Theravāda Buddhist meditation and study center (not a monastery) based in São Paulo, Brazil.
 
 ------
 
 ## 🏛️ Monasteries
 
 List of Theravāda monasteries that I or close friends know to meet the following requirements:
-- follow the Buddha's rules in full (monks do not accept money, have dinner, etc.)
+- monks follow the Buddha's rules in full (do not accept money, have dinner, etc.)
 - accept the entire Pāḷi Tipiṭaka and it's traditional explanations (the entire body of the Buddha's teachings with it's original meaning)
 
 ### 🇲🇲 Myanmar
@@ -87,7 +87,7 @@ This is the Pa Auk monastery in Maymyo, Myanmar, where I ordained and spent abou
 #### [**International Institute of Theravāda**](https://www.theravado.com/)
 <img src="/assets/img/iit.jpg" alt="" style="width: 60%;">
 
-The IIT is a monastery focused on the study of Theravāda Buddhism (pariyatti). The level is quite rigorous (as per 2026) and includes all traditional topics of study such as Pāḷi, Abhidhamma, Suttanta, Vinaya, etc. with regular classes and exams. Lessons are given in either English medium or Sinhala medium. Additionally, this institute will offer (confirmation pending) academic recognition. There are 2 courses: the 6-year long Nissayamuttaka Course and the 2-year long Parisupaṭṭhāpaka Course. The Nissayamuttaka covers all requirements for a monk to be independent, and considerably more. It is in process of being recognized as a BA. The Parisupaṭṭhāpaka prepares you to be a teacher and is in process of being recognized as an MA. 
+Monastery/Institute for study. The level is quite rigorous (as per 2026) and includes all traditional topics of study such as Pāḷi, Abhidhamma, Suttanta, Vinaya, etc. with regular classes and exams. Lessons are given in either English medium or Sinhala medium. Additionally, this institute will offer (confirmation pending) academic recognition. There are 2 courses: the 6-year long Nissayamuttaka Course and the 2-year long Parisupaṭṭhāpaka Course. The Nissayamuttaka covers all requirements for a monk to be independent, and considerably more. It is in the process of being recognized as a BA. The Parisupaṭṭhāpaka prepares you to be a teacher and is in process of being recognized as an MA.
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
