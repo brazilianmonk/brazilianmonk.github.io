@@ -98,7 +98,7 @@ This is a Theravāda Buddhist Forest Monastery in Sri Lanka. It's a large area t
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
-### Thailand
+### 🇹🇭 Thailand
 
 #### [Wat Khao Sanam Chai](https://share.google/7hofJ3PmS3LQdSlna)
 #### [Wat Pa Thep Chakraphan Wanaram](https://share.google/02ClWy5SQ8oQUCvO4)
