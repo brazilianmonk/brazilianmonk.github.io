@@ -122,8 +122,9 @@ Focus: study of Vinaya and Pāḷi, monastic training, and seclusion
 
 #### [Wat Khao Sanam Chai](https://web.facebook.com/watkhaosanamchai)
 
-- Abbot: Bhante Candako Mahāthero
+- Abbot: Bhante Chandako Mahāthero
 - Language: Thai
+
 Monastery separated into two areas: one for study (mainly abhidhamma, vinaya, and pāḷi) and another for meditation. There are Dhamma talks daily and on Uposatha days. Located at the top of a hill close to ocean. 
 
 #### [Wat Pa Thep Chakraphan Wanaram](https://web.facebook.com/profile.php?id=100064135148599&mibextid=ZbWKwL&_rdc=1&_rdr)
