@@ -12,6 +12,7 @@ Here are some links to reliable resources for Theravāda Buddhism that I'm famil
 <img src="/assets/img/e-pitaka.png" alt="description" style="width: 70%;">
 
 - Languages: Pāḷi, Vietnamese, English
+
 This is a new website with the entire Tipiṭaka, commentaries, and sub-commentaries translated by AI. The entre system was put together by Ven. Vietnam Dhammañāṇa. It uses the Myanmar Nissaya texts (detailed translations in Myanmar language), among other detailed explanations. It is **not** 100% reliable but quite good, especially the root texts (mūla) and first-level commentary (aṭṭhakathā). It is great for someone who is learning Pāḷi or for research. It has some unique features of linking words to other passages and showing the links to the terms explained in further commentaries.
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
