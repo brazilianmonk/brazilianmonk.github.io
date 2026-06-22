@@ -19,7 +19,7 @@ This is a new website with the entire Tipiṭaka, commentaries, and sub-commenta
 ### [**Tipiṭaka Pāḷi Reader**](https://americanmonk.org/tipitaka-pali-reader/) (app)
 <img src="/assets/img/tpr.png" alt="description" style="width: 50%;">
 
-This is an app made by Bhante USA Subhūti. It contains most Pāḷi texts, English translations, dictionaries, and the content of the e-piṭaka (above) as well. 
+This is an app made by Bhante USA Subhūti. It contains most Pāḷi texts, English translations, dictionaries, and the content of the e-piṭaka (above) as well with a modern UI.
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
