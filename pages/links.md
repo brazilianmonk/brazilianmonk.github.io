@@ -24,31 +24,39 @@ This is an app made by Bhante USA Subhūti. It contains most Pāḷi texts, Engl
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
 ### [**Open Tipiṭaka**](https://opentipitaka.org/?lang=es) (app, website)
+<img src="/assets/img/opentipitaka.png" alt="description" style="width: 50%;">
+
 - Languages: multiple, including Español
 This is a translation project led by [Ven. PRC Sumana](https://www.facebook.com/uppala.putta) that includes the content of the Tipiṭaka in several languages translated by AI. Though **not** very reliable, well structured AI translations can be useful for research and learning Pāḷi.
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
 ### [**Digital Pāḷi Reader**](https://www.digitalpalireader.online/_dprhtml/index.html) (website, app)
+<img src="/assets/img/dpr.png" alt="description" style="width: 50%;">
+
 Study tool designed by Bhante Yuttadhammo for reading, searching within, and analyzing the Pāḷi Canon. It includes the Digital Pāḷi Dictionary, a staple for Pāḷi learners. It can be downloaded locally.
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
 ### [**Ancient Buddhist Texts**](https://ancient-buddhist-texts.net/index.htm) (website)
+<img src="/assets/img/abt.png" alt="description" style="width: 50%;">
+
 An extensive repository of Buddhist literature. Curated and maintained by Bhante Ānandajoti.
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
 ### [**Acesso ao Insight**](https://www.acessoaoinsight.net/index.htm) (website)
 <img src="/assets/img/aai.png" alt="description" style="width: 70%;">
+
 - Language: Português
 Esse site liderado por [Michael Beisert](https://www.acessoaoinsight.net/arquivo_textos_theravada/beisert.php.html) tem bastante material traduzido ao Português. 
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
 ### [**Casa De Dharma**](https://casadedharmaorg.org/) (website, center)
+<img src="/assets/img/casadedharma.png" alt="description" style="width: 50%;">
 - Language: Português
-Theravāda Buddhist meditation and study center (not a monastery) based in São Paulo, Brazil.
+Centro de meditação e estudo Theravāda em São Paulo, Brasil.
 
 ------
 
@@ -69,11 +77,13 @@ This is the Pa Auk monastery in Maymyo, Myanmar, where I ordained and spent abou
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
-#### **Bārānasi** (Mingaladon): pariyatti center led by Bārānasi Sayadaw
+#### **Bārānasi** (Mingaladon)
+Pariyatti center led by Bārānasi Sayadaw
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
-#### **Mahāvihāra** (Hlegu, Naypyitaw): pariyatti center
+#### **Mahāvihāra** (Hlegu, Naypyitaw)
+Pariyatti center
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
