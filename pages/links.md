@@ -120,12 +120,36 @@ Chain of monasteries focused on Vinaya and Pāḷi studies, monastic training, a
 
 ### 🇹🇭 Thailand
 
-#### [Wat Khao Sanam Chai](https://share.google/7hofJ3PmS3LQdSlna)
-#### [Wat Pa Thep Chakraphan Wanaram](https://share.google/02ClWy5SQ8oQUCvO4)
-#### [Wat Don Tad Hai](https://share.google/dIBcJj6JuMwG24oOv)
+#### [Wat Khao Sanam Chai](https://web.facebook.com/watkhaosanamchai)
+
+- Abbot: Bhante Candako Mahāthero
+- Language: Thai
+Monastery separated into two areas: one for study (mainly abhidhamma, vinaya, and pāḷi) and another for meditation. There are Dhamma talks daily and on Uposatha days. Located at the top of a hill close to ocean. 
+
+#### [Wat Pa Thep Chakraphan Wanaram](https://web.facebook.com/profile.php?id=100064135148599&mibextid=ZbWKwL&_rdc=1&_rdr)
+- Language: Thai
+- Leaders: Ajahn Amon Chai Cāruvaṇṇo Mahāthero
+- Focus: memorization of the Bhikkhu Pātimokkha and the study of Vinaya
+- Location: Located on a Tamarind forest.
+
+#### [Wat Don Tad Hai](https://linktr.ee/watdontadhai?fbclid=IwY2xjawSmQZZleHRuA2FlbQIxMABicmlkETFqSTdnTUxVNDdxb2VPaVdPc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHjAwv_xFV1WumgZDWNFzQZFRcgNggMaj66tV2mY4gbRqRGAKSB3H8oCXwwqN_aem_zr71HUBscqRWCDy3ZJOqVA)
+- Language: Thai
+- Leaders: 
+- Focus: study of Pāḷi.
 #### [Buddha-Metta Meditation Practice Center](https://share.google/C0znosxZvj8B6ft4K)
-#### [Wat Pho Than Phra](https://share.google/q6IAJV0OKm0b0yVtY)
-#### [Wat Phra That Nong Sam Muen](https://www.google.com/search?client=ms-android-motorola-rvo3&hs=Fkk&sca_esv=ec2bff8bd1e2ef21&cs=0&hl=en-US&output=search&kgmid=%2Fg%2F1thvvr8d&q=Wat%20Phra%20That%20Nong%20Sam%20Muen&shem=epsdc%2Crimspwouoe&shndl=30&source=sh%2Fx%2Floc%2Fact%2Fm1%2F4&kgs=d6dc95116ce1d112)
+- Language: Thai
+- Leaders: Ajahn Bhurivaḍḍhako Mahāthero
+- Focus: meditation and Abhidhamma courses
+
+#### [Wat Pho Than Phra](https://share.google/g6vptXj98qZUzjRth)
+- Language: Thai
+- Leaders: Ajahn Su Phon Suciṇṇo Mahāthero
+- Focus: study of Abhidhamma 
+
+#### [Wat Phra That Nong Sam Muen](https://web.facebook.com/prathatsammuan/?_rdc=1&_rdr)
+- Language: Thai
+- Leaders: Ajahn Phan Kavisaro Mahāthero (Abbot), Ajahn Phlun Chai Dhammavaro Mahāthero (Vinaya), Ajahn Am Phon Ābhassaro Mahāthero (Pāḷi)
+- Focus: study of Abhidhamma, Vinaya, and Pāḷi
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
