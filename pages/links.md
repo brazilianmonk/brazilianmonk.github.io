@@ -115,10 +115,8 @@ This is mainly a meditation center with some optional classes, mainly in Sinhala
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
-#### Diddeniya Rangirikanda Aranya Senasanaya (Ranagirilena Forest Monastery)
-Dewagiriya, Diddeniya – Maiwela Road,
-Melsiripura 60544,
-Kurunegala District
+#### [**Diddeniya Rangirikanda Aranya Senasanaya** (Ranagirilena Forest Monastery)] (https://www.google.com/search?client=tablet-android-huawei-rev1&hs=he7p&sca_esv=71a377e1d78119b4&cs=0&output=search&kgmid=/g/11cm03kqsb&q=Ranagirilena+Aranya&shem=epsd1,ltac,rimspwouoe&shndl=30&source=sh/x/loc/act/m1/6&kgs=de9c31c82cf4c870&utm_source=epsd1,ltac,rimspwouoe,sh/x/loc/act/m1/6)
+Chain of monasteries focused on Vinaya and Pāḷi studies, monastic training, and seclusion. 
 
 ### 🇹🇭 Thailand
 
