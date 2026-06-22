@@ -28,6 +28,7 @@ This is an app made by Bhante USA Subhūti. It contains most Pāḷi texts, Engl
 <img src="/assets/img/opentipitaka.png" alt="description" style="width: 50%;">
 
 - Languages: multiple, including Español
+
 This is a translation project led by [Ven. PRC Sumana](https://www.facebook.com/uppala.putta) that includes the content of the Tipiṭaka in several languages translated by AI. Though **not** very reliable, well structured AI translations can be useful for research and learning Pāḷi.
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
@@ -50,6 +51,7 @@ An extensive repository of Buddhist literature. Curated and maintained by Bhante
 <img src="/assets/img/aai.png" alt="description" style="width: 70%;">
 
 - Language: Português
+
 Esse site liderado por [Michael Beisert](https://www.acessoaoinsight.net/arquivo_textos_theravada/beisert.php.html) tem bastante material traduzido ao Português. 
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
@@ -57,6 +59,7 @@ Esse site liderado por [Michael Beisert](https://www.acessoaoinsight.net/arquivo
 ### [**Casa De Dharma**](https://casadedharmaorg.org/) (website, center)
 <img src="/assets/img/casadedharma.png" alt="description" style="width: 50%;">
 - Language: Português
+
 Centro de meditação e estudo Theravāda em São Paulo, Brasil.
 
 ------
@@ -101,16 +104,21 @@ Pariyatti center
 #### [**International Institute of Theravāda**](https://www.theravado.com/)
 <img src="/assets/img/iit.jpg" alt="" style="width: 60%;">
 
-Monastery/Institute for study. The level is quite rigorous (as per 2026) and includes all traditional topics of study such as Pāḷi, Abhidhamma, Suttanta, Vinaya, etc. with regular classes and exams. Lessons are given in either English medium or Sinhala medium. Additionally, this institute will offer (confirmation pending) academic recognition. There are 2 courses: the 6-year long Nissayamuttaka Course and the 2-year long Parisupaṭṭhāpaka Course. The Nissayamuttaka covers all requirements for a monk to be independent, and considerably more. It is in the process of being recognized as a BA. The Parisupaṭṭhāpaka prepares you to be a teacher and is in process of being recognized as an MA.
+Monastery/Institute for study. The level is quite rigorous (as per 2026) and includes all traditional topics of study such as Pāḷi, Abhidhamma, Suttanta, Vinaya, etc. with 24 45-minute classes and 2 exams a week. Lessons are given in either English or Sinhala medium. The Institute is planned to also give academic recognition (BA and possibly MA). There are 2 courses: the 6-year long Nissayamuttaka Course (BA) and the 2-year long Parisupaṭṭhāpaka Course (MA). The first covers all requirements for a monk to be independent, and considerably more. The latter prepares monks further and allow them to teach. 
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
 #### [**Na Uyana Forest Monastery**](https://nauyana.org/)
 <img src="/assets/img/nauyana.png" alt="" style="width: 100%;">
 
-This is a Theravāda Buddhist Forest Monastery in Sri Lanka. It's a large area that includes 3 sections with different environments (more to less secluded). There is also a nearby monastery for study. I recommend Bhante Ariyadassana as guide.
+This is mainly a meditation center with some optional classes, mainly in Sinhala. It's a large area that includes 3 sections with different environments (more to less secluded). There is also a nearby monastery for study. I recommend Bhante Ariyadassana as guide.
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+
+#### Diddeniya Rangirikanda Aranya Senasanaya (Ranagirilena Forest Monastery)
+Dewagiriya, Diddeniya – Maiwela Road,
+Melsiripura 60544,
+Kurunegala District
 
 ### 🇹🇭 Thailand
 
