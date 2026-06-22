@@ -8,10 +8,11 @@ Here are some links to reliable resources for Theravāda Buddhism that I'm famil
  
 ## 📜 Pāḷi Texts
 
-### [**E-piṭaka**](https://epitaka.org/) (website; Pāḷi, Vietnamese, English)
+### [**E-piṭaka**](https://epitaka.org/) (website)
 <img src="/assets/img/e-pitaka.png" alt="description" style="width: 70%;">
 
-This is a new website with the entire Tipiṭaka, commentaries, and sub-commentaries translated by AI. The entre system was put together by Ven. Vietnam Dhammañāṇa. It uses the Myanmar Nissaya texts (detailed translations in Myanmar language), among other detailed explanations. It is **not** 100% reliable but quite good, especially the mūla and commentary. It is great for someone who is learning Pāḷi or for research. 
+- Languages: Pāḷi, Vietnamese, English
+This is a new website with the entire Tipiṭaka, commentaries, and sub-commentaries translated by AI. The entre system was put together by Ven. Vietnam Dhammañāṇa. It uses the Myanmar Nissaya texts (detailed translations in Myanmar language), among other detailed explanations. It is **not** 100% reliable but quite good, especially the root texts (mūla) and first-level commentary (aṭṭhakathā). It is great for someone who is learning Pāḷi or for research. It has some unique features of linking words to other passages and showing the links to the terms explained in further commentaries.
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
@@ -22,29 +23,31 @@ This is an app made by Bhante USA Subhūti. It contains most Pāḷi texts, Engl
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
-### [**Open Tipiṭaka**](https://opentipitaka.org/?lang=es) (app, website; multiple languages)
-This is a translation project led by [Ven. PRC Sumana](https://www.facebook.com/uppala.putta) that includes the content of the Tipiṭaka in several languages translated by AI. Though **not** very reliable, it can be useful for research and learning Pāḷi.
+### [**Open Tipiṭaka**](https://opentipitaka.org/?lang=es) (app, website)
+- Languages: multiple, including Español
+This is a translation project led by [Ven. PRC Sumana](https://www.facebook.com/uppala.putta) that includes the content of the Tipiṭaka in several languages translated by AI. Though **not** very reliable, well structured AI translations can be useful for research and learning Pāḷi.
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
-### [**Digital Pāḷi Reader**](https://www.digitalpalireader.online/_dprhtml/index.html)
-Study tool designed by Bhante Yuttadhammo for reading, searching within, and analyzing the Pāḷi Canon. It includes the Digital Pāḷi Dictionary, a staple for Pāḷi learners. 
+### [**Digital Pāḷi Reader**](https://www.digitalpalireader.online/_dprhtml/index.html) (website, app)
+Study tool designed by Bhante Yuttadhammo for reading, searching within, and analyzing the Pāḷi Canon. It includes the Digital Pāḷi Dictionary, a staple for Pāḷi learners. It can be downloaded locally.
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
-### [**Ancient Buddhist Texts**](https://ancient-buddhist-texts.net/index.htm)
+### [**Ancient Buddhist Texts**](https://ancient-buddhist-texts.net/index.htm) (website)
 An extensive repository of Buddhist literature. Curated and maintained by Bhante Ānandajoti.
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
-### [**Acesso ao Insight**](https://www.acessoaoinsight.net/index.htm) (website; Português)
+### [**Acesso ao Insight**](https://www.acessoaoinsight.net/index.htm) (website)
 <img src="/assets/img/aai.png" alt="description" style="width: 70%;">
-
-Esse site tem bastante material traduzido ao Português. Trabalho liderado por [Michael Beisert](https://www.acessoaoinsight.net/arquivo_textos_theravada/beisert.php.html).
+- Language: Português
+Esse site liderado por [Michael Beisert](https://www.acessoaoinsight.net/arquivo_textos_theravada/beisert.php.html) tem bastante material traduzido ao Português. 
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
-### [**Casa De Dharma**](https://casadedharmaorg.org/)
+### [**Casa De Dharma**](https://casadedharmaorg.org/) (website, center)
+- Language: Português
 Theravāda Buddhist meditation and study center (not a monastery) based in São Paulo, Brazil.
 
 ------
