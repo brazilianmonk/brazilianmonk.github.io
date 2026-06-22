@@ -9,6 +9,8 @@ important files:
 
 
 to do list for the website:
+- add buddhist sun app
+- add iit app
 - add sufdhavari image
 - add short description to the home page identifying buddhism be ause monk could be many types
 - add course content
