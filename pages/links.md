@@ -123,11 +123,6 @@ This is a Theravāda Buddhist Forest Monastery in Sri Lanka. It's a large area t
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
-### 🇧🇷 Brasil
-
-#### [**Mosteiro Suddhavāri**](https://suddhavari.org/)
-Talvez o único monasterio Theravāda no Brasil atualmente. Liderado pelo Bhante Mudito. 
-
 ------
 
 ## 🧠 Modern Research
