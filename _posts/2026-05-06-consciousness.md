@@ -7,10 +7,6 @@ tags: [Consciousness (citta), Mental Factors (cetasikas), Object (ārammaṇa)]
 image: citta-simile.png
 ---
 
-<div class="video-container">
-  <iframe src="https://youtu.be/t8ftA7L0KK4?si=rjMNDfRhsKYvMJXv" frameborder="0" allowfullscreen></iframe>
-</div>
-
 ## 🇬🇧 English
 ### Consciousness
 Consciousness is that which cognizes. It is a phenomenon of immaterial nature; therefore, it does not possess form, color, etc., which are material ^. The mind is not an eternal or immutable phenomenon, but rather impermanent and temporary. When a moment of cognition occurs, it lasts no more than a brief moment and is followed by another moment of cognition, without an interval between them. This second mental moment also lasts only an instant, ceases, and is followed by another mental moment. Thus, mental moments occur one after the other in a very rapid flow, creating what appears to be a stable stream of consciousness.
