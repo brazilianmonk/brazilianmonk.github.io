@@ -6,7 +6,10 @@ categories: Abhidhamma
 tags: [Consciousness (citta), Mental Factors (cetasikas), Object (ārammaṇa)]
 image: citta-simile.png
 ---
-![Watch the video](https://youtu.be/t8ftA7L0KK4?si=rjMNDfRhsKYvMJXv)
+
+<div class="video-container">
+  <iframe src="https://youtu.be/t8ftA7L0KK4?si=rjMNDfRhsKYvMJXv" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ## 🇬🇧 English
 ### Consciousness
