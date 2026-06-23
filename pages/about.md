@@ -95,15 +95,15 @@ My gratitude to my **parents** and Dhamma teachers:
 
 - [Mr. Czech Thomas Dhammadīpa](https://www.dhammadipa.cz/)
 ### Pa Auk Teachers
-- Ven. Sayadaw Salem Kovida Mahāthera
+- [Ven. Sayadaw Salem Kovida Mahāthera](https://www.facebook.com/share/1C23ULLFWC/)
 - [Ven. Pa Auk Sayadaw Aciṇṇa Mahāthera](https://en.wikipedia.org/wiki/Bhaddanta_%C4%80ci%E1%B9%87%E1%B9%87a)
 - [Ven. Sayadaw Kumārābhivaṃsa Mahāthera](https://kumarabhivamsa.org/posts/biography/)
 - [Ven. Sīladassana Thera](https://lk.linkedin.com/in/ven-seeladassana-pj-jayasinghe-ba15573)
-### IIT Teachers
+### [IIT Teachers](https://www.theravado.com/institute)
 - Ven. Watagoda Maggavihāri Mahāthera
-- Ven. Palmadulle Vijitānanda Thera: sāsanadhajadhammācariya, sakyasīhadhammācariya
+- Ven. Palmadulle Sāsanadhajadhammācariya Sakyasīhadhammācariya Vijitānanda Thera
 - Ven. Werapitiye Devānanda Mahāthera
-- Ven. Ududigana Siddhatthālaṅkāra Thera
+- Ven. Ududigana Vinayavidū Siddhatthālaṅkāra Thera
 - Ven. Laos Sumana
 - Ven. Dodandūve Obhāsa 
 
