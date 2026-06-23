@@ -56,6 +56,10 @@ Esse site liderado por [Michael Beisert](https://www.acessoaoinsight.net/arquivo
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
+### [**Sociedade Buddhista do Brasil**](https://sociedadebudistadobrasil.org/)
+
+Grupo de praticantes Theravāda no RJ. 
+
 ### [**Casa De Dharma**](https://casadedharmaorg.org/) (website, center)
 <img src="/assets/img/casadedharma.png" alt="description" style="width: 50%;">
 - Language: Português
