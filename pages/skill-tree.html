@@ -1,0 +1,1669 @@
+---
+layout: page
+title: Buddhist Skill Tree
+permalink: /skill-tree
+---
+
+<style>
+  :root {
+    --saffron: #d97706;
+    --saffron-hover: #b45309;
+    --saffron-light: #fef3c7;
+    --saffron-dark: #78350f;
+    --text-primary: #1f2937;
+    --text-secondary: #4b5563;
+    --text-muted: #9ca3af;
+    --bg-main: #ffffff;
+    --bg-card: #f9fafb;
+    --bg-hover: #f3f4f6;
+    --border-color: #e5e7eb;
+    --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+    --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    --radius-sm: 6px;
+    --radius-md: 12px;
+    --radius-lg: 16px;
+  }
+
+  /* Core layout wrappers */
+  .skill-tree-container {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    color: var(--text-primary);
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 1rem 0 3rem;
+  }
+
+  .intro-card {
+    background: var(--bg-card);
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-md);
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+    box-shadow: var(--shadow-sm);
+  }
+
+  .intro-card p {
+    margin-bottom: 0;
+    color: var(--text-secondary);
+    font-size: 1rem;
+    line-height: 1.6;
+  }
+
+  /* Progress Dashboard */
+  .dashboard-card {
+    background: linear-gradient(135deg, var(--saffron-light) 0%, #fffbeb 100%);
+    border: 1px solid #fde68a;
+    border-radius: var(--radius-md);
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+    box-shadow: var(--shadow-sm);
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 1.5rem;
+  }
+
+  .db-stat-circle {
+    position: relative;
+    width: 90px;
+    height: 90px;
+    background: white;
+    border-radius: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-shadow: var(--shadow-sm);
+    border: 3px solid var(--saffron);
+    flex-shrink: 0;
+  }
+
+  .db-stat-percent {
+    font-size: 1.6rem;
+    font-weight: 700;
+    color: var(--saffron-dark);
+    line-height: 1.1;
+  }
+
+  .db-stat-label {
+    font-size: 0.7rem;
+    color: var(--text-secondary);
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+  }
+
+  .db-progress-info {
+    flex-grow: 1;
+    min-width: 250px;
+  }
+
+  .db-progress-title {
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: var(--saffron-dark);
+    margin-bottom: 0.5rem;
+  }
+
+  .db-progress-bar-bg {
+    background: #f3f4f6;
+    height: 12px;
+    border-radius: 6px;
+    overflow: hidden;
+    margin-bottom: 0.5rem;
+    border: 1px solid var(--border-color);
+  }
+
+  .db-progress-bar-fill {
+    background: var(--saffron);
+    height: 100%;
+    width: 0%;
+    transition: width 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  .db-progress-text {
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+    font-weight: 500;
+  }
+
+  .dashboard-actions {
+    display: flex;
+    gap: 0.75rem;
+    width: 100%;
+    margin-top: 0.5rem;
+  }
+
+  @media (min-width: 640px) {
+    .dashboard-actions {
+      width: auto;
+      margin-top: 0;
+      flex-direction: column;
+    }
+  }
+
+  /* Buttons */
+  .btn-st {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.5rem 1rem;
+    font-size: 0.85rem;
+    font-weight: 600;
+    border-radius: var(--radius-sm);
+    cursor: pointer;
+    transition: all 0.2s ease;
+    border: 1px solid var(--border-color);
+    background: white;
+    color: var(--text-primary);
+    box-shadow: var(--shadow-sm);
+  }
+
+  .btn-st:hover {
+    background: var(--bg-hover);
+    color: var(--text-primary);
+    text-decoration: none;
+  }
+
+  .btn-st-primary {
+    background: var(--saffron);
+    color: white;
+    border-color: var(--saffron);
+  }
+
+  .btn-st-primary:hover {
+    background: var(--saffron-hover);
+    color: white;
+    border-color: var(--saffron-hover);
+  }
+
+  .btn-st-danger {
+    color: #dc2626;
+    border-color: #fca5a5;
+  }
+
+  .btn-st-danger:hover {
+    background: #fef2f2;
+    color: #b91c1c;
+    border-color: #f87171;
+  }
+
+  /* Control Panel */
+  .control-panel {
+    background: var(--bg-card);
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-md);
+    padding: 1.25rem;
+    margin-bottom: 2rem;
+    box-shadow: var(--shadow-sm);
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  @media (min-width: 768px) {
+    .control-panel {
+      flex-direction: row;
+      align-items: center;
+    }
+  }
+
+  .search-wrapper {
+    position: relative;
+    flex-grow: 1;
+  }
+
+  .search-input {
+    width: 100%;
+    padding: 0.6rem 1rem 0.6rem 2.25rem;
+    font-size: 0.9rem;
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-sm);
+    outline: none;
+    transition: border-color 0.2s;
+  }
+
+  .search-input:focus {
+    border-color: var(--saffron);
+    box-shadow: 0 0 0 3px rgba(217, 119, 6, 0.15);
+  }
+
+  .search-icon {
+    position: absolute;
+    left: 0.8rem;
+    top: 50%;
+    transform: translateY(-50%);
+    color: var(--text-muted);
+    pointer-events: none;
+  }
+
+  .filter-group {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    align-items: center;
+  }
+
+  .filter-select {
+    padding: 0.6rem 2rem 0.6rem 1rem;
+    font-size: 0.9rem;
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-sm);
+    background-color: white;
+    cursor: pointer;
+    outline: none;
+    appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='%236b7280'%3E%3Cpath stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M19 9l-7 7-7-7'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 0.75rem center;
+    background-size: 1rem;
+  }
+
+  .filter-select:focus {
+    border-color: var(--saffron);
+  }
+
+  /* Branch Styling */
+  .branch-card {
+    background: white;
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-lg);
+    margin-bottom: 2rem;
+    box-shadow: var(--shadow-sm);
+    overflow: hidden;
+  }
+
+  .branch-header {
+    background: var(--bg-card);
+    padding: 1.25rem 1.5rem;
+    border-bottom: 1px solid var(--border-color);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  .branch-title-area {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+  }
+
+  .branch-title {
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: var(--text-primary);
+    margin: 0;
+  }
+
+  .branch-progress-area {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    min-width: 200px;
+    flex-grow: 1;
+    justify-content: flex-end;
+  }
+
+  @media (max-width: 640px) {
+    .branch-progress-area {
+      justify-content: space-between;
+      width: 100%;
+    }
+  }
+
+  .branch-progress-bar-bg {
+    background: #e5e7eb;
+    height: 8px;
+    width: 120px;
+    border-radius: 4px;
+    overflow: hidden;
+  }
+
+  .branch-progress-bar-fill {
+    background: var(--saffron);
+    height: 100%;
+    width: 0%;
+    transition: width 0.3s ease;
+  }
+
+  .branch-progress-text {
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--text-secondary);
+    white-space: nowrap;
+  }
+
+  .branch-body {
+    padding: 1.5rem;
+  }
+
+  /* Tree Nodes */
+  .tree-node {
+    margin-left: 0.5rem;
+    border-left: 2px dashed var(--border-color);
+    padding-left: 1.25rem;
+    position: relative;
+    margin-bottom: 0.5rem;
+  }
+
+  .tree-node::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 14px;
+    width: 12px;
+    height: 2px;
+    background: var(--border-color);
+  }
+
+  .tree-node.root-node {
+    margin-left: 0;
+    border-left: none;
+    padding-left: 0;
+    margin-bottom: 1.5rem;
+  }
+
+  .tree-node.root-node::before {
+    display: none;
+  }
+
+  .node-header {
+    display: flex;
+    align-items: center;
+    padding: 0.4rem 0.6rem;
+    border-radius: var(--radius-sm);
+    transition: background 0.15s ease;
+    gap: 0.5rem;
+  }
+
+  .node-header:hover {
+    background: var(--bg-hover);
+  }
+
+  .node-toggle {
+    width: 20px;
+    height: 20px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    color: var(--text-secondary);
+    border-radius: 4px;
+    user-select: none;
+    font-size: 0.75rem;
+    transition: background-color 0.15s;
+  }
+
+  .node-toggle:hover {
+    background-color: var(--border-color);
+  }
+
+  .node-toggle.empty-toggle {
+    cursor: default;
+    opacity: 0;
+  }
+
+  /* Custom Checkbox */
+  .cb-container {
+    display: inline-flex;
+    align-items: center;
+    position: relative;
+    cursor: pointer;
+    user-select: none;
+    font-size: 0.95rem;
+    color: var(--text-primary);
+  }
+
+  .cb-container input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+    height: 0;
+    width: 0;
+  }
+
+  .checkmark {
+    height: 18px;
+    width: 18px;
+    background-color: #fff;
+    border: 2px solid #cbd5e1;
+    border-radius: 4px;
+    margin-right: 0.5rem;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.15s ease;
+    flex-shrink: 0;
+  }
+
+  .cb-container:hover input ~ .checkmark {
+    border-color: var(--saffron);
+  }
+
+  .cb-container input:checked ~ .checkmark {
+    background-color: var(--saffron);
+    border-color: var(--saffron);
+  }
+
+  .checkmark::after {
+    content: "";
+    display: none;
+    width: 4px;
+    height: 9px;
+    border: solid white;
+    border-width: 0 2px 2px 0;
+    transform: rotate(45deg);
+    margin-bottom: 2px;
+  }
+
+  .cb-container input:checked ~ .checkmark::after {
+    display: block;
+  }
+
+  /* Indeterminate state checkmark */
+  .cb-container input.indeterminate ~ .checkmark {
+    background-color: white;
+    border-color: var(--saffron);
+  }
+
+  .cb-container input.indeterminate ~ .checkmark::after {
+    display: block;
+    width: 8px;
+    height: 2px;
+    border: none;
+    background-color: var(--saffron);
+    transform: none;
+    margin-bottom: 0;
+  }
+
+  .node-title-group {
+    display: inline-flex;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+  }
+
+  .node-title {
+    font-weight: 500;
+  }
+
+  .node-title.is-leaf {
+    font-weight: 400;
+  }
+
+  .node-badge {
+    font-size: 0.75rem;
+    padding: 0.1rem 0.4rem;
+    border-radius: 10px;
+    background-color: var(--border-color);
+    color: var(--text-secondary);
+    font-weight: 600;
+  }
+
+  .node-badge.completed {
+    background-color: #d1fae5;
+    color: #065f46;
+  }
+
+  .node-desc {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    margin-left: 0.5rem;
+    font-weight: 400;
+  }
+
+  .node-children {
+    margin-top: 0.25rem;
+    transition: max-height 0.3s ease-out;
+  }
+
+  .node-children.collapsed {
+    display: none;
+  }
+
+  /* Modal Styles */
+  .st-modal {
+    display: none;
+    position: fixed;
+    z-index: 2000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.4);
+    align-items: center;
+    justify-content: center;
+  }
+
+  .st-modal-content {
+    background-color: white;
+    margin: auto;
+    padding: 1.5rem;
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-md);
+    width: 90%;
+    max-width: 500px;
+    box-shadow: var(--shadow-md);
+  }
+
+  .st-modal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+  }
+
+  .st-modal-title {
+    font-size: 1.15rem;
+    font-weight: 700;
+    margin: 0;
+  }
+
+  .st-modal-close {
+    font-size: 1.5rem;
+    font-weight: 700;
+    cursor: pointer;
+    color: var(--text-muted);
+  }
+
+  .st-modal-close:hover {
+    color: var(--text-primary);
+  }
+
+  .st-modal-textarea {
+    width: 100%;
+    height: 180px;
+    font-family: monospace;
+    font-size: 0.85rem;
+    padding: 0.75rem;
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-sm);
+    resize: none;
+    margin-bottom: 1rem;
+    outline: none;
+  }
+
+  .st-modal-textarea:focus {
+    border-color: var(--saffron);
+  }
+
+  /* Utility classes */
+  .hidden {
+    display: none !important;
+  }
+
+  .highlight-match {
+    background-color: #fef3c7;
+    border-radius: 2px;
+    padding: 0 2px;
+  }
+</style>
+
+<div class="skill-tree-container">
+  
+  <div class="intro-card">
+    <p>
+      Welcome to the <strong>Buddhist Skill Tree</strong>. This tool provides a structured checklist of skills and subjects within Theravāda Buddhist practice: Study (Pariyatti), Meditation (Bhāvanā), Monastic Skills, and Dhamma Propagation. Check off elements as you study, practice, or master them to visualize your development. Your progress is saved automatically in your browser's local storage.
+    </p>
+  </div>
+
+  <!-- Progress Dashboard -->
+  <div class="dashboard-card">
+    <div class="db-stat-circle" id="overall-circle">
+      <span class="db-stat-percent" id="overall-pct">0%</span>
+      <span class="db-stat-label">Complete</span>
+    </div>
+    
+    <div class="db-progress-info">
+      <h3 class="db-progress-title">Overall Development</h3>
+      <div class="db-progress-bar-bg">
+        <div class="db-progress-bar-fill" id="overall-fill"></div>
+      </div>
+      <div class="db-progress-text" id="overall-count">
+        0 of 0 skills mastered
+      </div>
+    </div>
+
+    <div class="dashboard-actions">
+      <button class="btn-st" onclick="openShareModal('export')">📤 Export Data</button>
+      <button class="btn-st" onclick="openShareModal('import')">📥 Import Data</button>
+      <button class="btn-st btn-st-danger" onclick="confirmReset()">🔄 Reset Progress</button>
+    </div>
+  </div>
+
+  <!-- Control Panel -->
+  <div class="control-panel">
+    <div class="search-wrapper">
+      <span class="search-icon">🔍</span>
+      <input type="text" id="skill-search" class="search-input" placeholder="Search skills, suttas, rules, or categories..." autocomplete="off">
+    </div>
+    <div class="filter-group">
+      <select id="filter-branch" class="filter-select">
+        <option value="all">All Branches</option>
+        <option value="meditation">Meditation (Bhāvanā)</option>
+        <option value="study">Study (Pariyatti)</option>
+        <option value="monastic">Monastic Skills</option>
+        <option value="teaching">Teaching / Propagation</option>
+      </select>
+      <select id="filter-status" class="filter-select">
+        <option value="all">All Statuses</option>
+        <option value="checked">Completed</option>
+        <option value="unchecked">Remaining</option>
+      </select>
+      <button class="btn-st" onclick="toggleAllNodes(true)">Expand All</button>
+      <button class="btn-st" onclick="toggleAllNodes(false)">Collapse All</button>
+    </div>
+  </div>
+
+  <!-- Skill Branches -->
+  <div id="branches-list">
+    <!-- Branches will be dynamically rendered here -->
+  </div>
+
+</div>
+
+<!-- Share Modal (Export/Import) -->
+<div class="st-modal" id="share-modal" onclick="closeShareModal(event)">
+  <div class="st-modal-content" onclick="event.stopPropagation()">
+    <div class="st-modal-header">
+      <h3 class="st-modal-title" id="modal-title">Export Progress Data</h3>
+      <span class="st-modal-close" onclick="closeShareModal()">&times;</span>
+    </div>
+    <div id="modal-desc" style="font-size:0.85rem; color:var(--text-secondary); margin-bottom:0.75rem;">
+      Copy this text to save your progress elsewhere, or paste your progress data below and click Import.
+    </div>
+    <textarea id="modal-textarea" class="st-modal-textarea" readonly></textarea>
+    <div style="display:flex; justify-content:flex-end; gap:0.5rem;">
+      <button class="btn-st" onclick="closeShareModal()">Cancel</button>
+      <button class="btn-st btn-st-primary" id="modal-action-btn" onclick="executeModalAction()">Copy Code</button>
+    </div>
+  </div>
+</div>
+
+<script>
+// --- Skill Tree Data Definition ---
+const skillData = [
+  {
+    id: "meditation",
+    name: "Meditation (Bhāvanā)",
+    description: "Serenity (samatha) and Insight (vipassanā) practices.",
+    children: [
+      {
+        id: "samatha",
+        name: "Serenity (Samatha)",
+        description: "Concentration (samādhi), meditation subjects, absorption, and supernormal knowledges.",
+        children: [
+          {
+            id: "kammatthana",
+            name: "40 Meditation Subjects (Kammaṭṭhāna)",
+            description: "The classic forty subjects of meditation (Visuddhimagga).",
+            children: [
+              {
+                id: "kasinas",
+                name: "10 Kasiṇas (Elements & Colors)",
+                children: [
+                  { id: "k-earth", name: "Earth Kasiṇa (Paṭhavī-kasiṇa)" },
+                  { id: "k-water", name: "Water Kasiṇa (Āpo-kasiṇa)" },
+                  { id: "k-fire", name: "Fire Kasiṇa (Tejo-kasiṇa)" },
+                  { id: "k-wind", name: "Wind Kasiṇa (Vāyo-kasiṇa)" },
+                  { id: "k-blue", name: "Blue Kasiṇa (Nīla-kasiṇa)" },
+                  { id: "k-yellow", name: "Yellow Kasiṇa (Pīta-kasiṇa)" },
+                  { id: "k-red", name: "Red Kasiṇa (Lohita-kasiṇa)" },
+                  { id: "k-white", name: "White Kasiṇa (Odāta-kasiṇa)" },
+                  { id: "k-light", name: "Light Kasiṇa (Āloka-kasiṇa)" },
+                  { id: "k-space", name: "Space Kasiṇa (Ākāsa-kasiṇa)" }
+                ]
+              },
+              {
+                id: "asubhas",
+                name: "10 Asubhas (Foulness of Carcasses)",
+                children: [
+                  { id: "a-bloated", name: "The Bloated Carcass (Uddhumātaka)" },
+                  { id: "a-livid", name: "The Livid Carcass (Vinīlaka)" },
+                  { id: "a-festering", name: "The Festering Carcass (Vipubbaka)" },
+                  { id: "a-cutup", name: "The Cut-up Carcass (Vicchiddaka)" },
+                  { id: "a-gnawed", name: "The Gnawed Carcass (Vikkhāyitaka)" },
+                  { id: "a-scattered", name: "The Scattered Carcass (Vikkhittaka)" },
+                  { id: "a-hacked", name: "The Hacked and Scattered (Hatavikkhittaka)" },
+                  { id: "a-bleeding", name: "The Bleeding Carcass (Lohitaka)" },
+                  { id: "a-worm", name: "The Worm-infested Carcass (Puḷuvaka)" },
+                  { id: "a-skeleton", name: "The Skeleton (Aṭṭhika)" }
+                ]
+              },
+              {
+                id: "anussatis",
+                name: "10 Recollections (Anussati)",
+                children: [
+                  { id: "an-buddha", name: "Recollection of the Buddha (Buddhānussati)" },
+                  { id: "an-dhamma", name: "Recollection of the Dhamma (Dhammānussati)" },
+                  { id: "an-sangha", name: "Recollection of the Saṅgha (Saṅghānussati)" },
+                  { id: "an-sila", name: "Recollection of Virtue (Sīlānussati)" },
+                  { id: "an-caga", name: "Recollection of Generosity (Cāgānussati)" },
+                  { id: "an-devata", name: "Recollection of Devas (Devatānussati)" },
+                  { id: "an-maranasati", name: "Mindfulness of Death (Maraṇasati)" },
+                  { id: "an-kayagata", name: "Mindfulness occupied with the Body (Kāyagatāsati)" },
+                  { id: "an-anapana", name: "Mindfulness of Breathing (Ānāpānasati)" },
+                  { id: "an-upasama", name: "Recollection of Peace (Upasamānussati)" }
+                ]
+              },
+              {
+                id: "brahmaviharas",
+                name: "4 Divine Abodes (Brahmavihāra)",
+                children: [
+                  { id: "bv-metta", name: "Loving-Kindness (Mettā)" },
+                  { id: "bv-karuna", name: "Compassion (Karuṇā)" },
+                  { id: "bv-mudita", name: "Appreciative Joy (Muditā)" },
+                  { id: "bv-upekkha", name: "Equanimity (Upekkhā)" }
+                ]
+              },
+              {
+                id: "aruppas",
+                name: "4 Immaterial Spheres (Āruppa)",
+                children: [
+                  { id: "ar-space", name: "Boundless Space (Ākāsānañcāyatana)" },
+                  { id: "ar-consciousness", name: "Boundless Consciousness (Viññāṇañcāyatana)" },
+                  { id: "ar-nothingness", name: "Nothingness (Ākiñcaññāyatana)" },
+                  { id: "ar-perception", name: "Neither-Perception-Nor-Non-Perception (N'evasaññānāsaññāyatana)" }
+                ]
+              },
+              {
+                id: "other-kammatthana",
+                name: "Nutriment & Elements Analysis",
+                children: [
+                  { id: "ok-ahare", name: "Repulsiveness in Nutriment (Āhāre paṭikūlasaññā)" },
+                  { id: "ok-catudhatu", name: "Analysis of the Four Elements (Catudhātuvavatthāna)" }
+                ]
+              }
+            ]
+          },
+          {
+            id: "samadhi-levels",
+            name: "Concentration Levels & Jhānas",
+            children: [
+              { id: "sl-upacara", name: "Access Concentration (Upacārasamādhi)" },
+              { id: "sl-jhana1", name: "First Jhāna (vitakka, vicāra, pīti, sukha, ekaggatā)" },
+              { id: "sl-jhana2", name: "Second Jhāna (pīti, sukha, ekaggatā)" },
+              { id: "sl-jhana3", name: "Third Jhāna (sukha, ekaggatā)" },
+              { id: "sl-jhana4", name: "Fourth Jhāna (upekkhā, ekaggatā)" }
+            ]
+          },
+          {
+            id: "abhinnas",
+            name: "5 Supernormal Knowledges (Abhiññā)",
+            children: [
+              { id: "ab-iddhividha", name: "Psychic Powers / Modes of Supernormal Power (Iddhividha)" },
+              { id: "ab-dibbasota", name: "Divine Ear / Clairaudience (Dibbasota)" },
+              { id: "ab-cetopariya", name: "Mind Reading / Penetration of Minds (Cetopariya-ñāṇa)" },
+              { id: "ab-pubbe", name: "Recollection of Past Lives (Pubbenivāsānussati)" },
+              { id: "ab-dibbacakkhu", name: "Divine Eye / Clairvoyance (Dibbacakkhu)" }
+            ]
+          }
+        ]
+      },
+      {
+        id: "vipassana",
+        name: "Insight (Vipassanā)",
+        description: "Developing wisdom by contemplating reality as it is.",
+        children: [
+          {
+            id: "discernment",
+            name: "Basic Discernment",
+            children: [
+              { id: "vd-nama-rupa", name: "Discerning Mentality and Materiality (Nāma-rūpa-pariccheda-ñāṇa)" }
+            ]
+          },
+          {
+            id: "khandhas",
+            name: "Practicing based on the 5 Aggregates (Khandha)",
+            children: [
+              { id: "kh-rupa", name: "Material Form aggregate (Rūpa)" },
+              { id: "kh-vedana", name: "Feeling aggregate (Vedanā)" },
+              { id: "kh-sanna", name: "Perception aggregate (Saññā)" },
+              { id: "kh-sankhara", name: "Mental Formations aggregate (Saṅkhāra)" },
+              { id: "kh-vinnana", name: "Consciousness aggregate (Viññāṇa)" }
+            ]
+          },
+          {
+            id: "ayatanas",
+            name: "Practicing based on the 12 Sense Bases (Āyatana)",
+            children: [
+              { id: "ay-internal", name: "6 Internal Bases (Eye, Ear, Nose, Tongue, Body, Mind)" },
+              { id: "ay-external", name: "6 External Bases (Form, Sound, Smell, Taste, Touch, Dhammas/Ideas)" }
+            ]
+          },
+          {
+            id: "dhatus",
+            name: "Practicing based on the 18 Elements (Dhātu)",
+            children: [
+              { id: "dh-senses", name: "6 Sense Organs (Eye, Ear, Nose, Tongue, Body, Mind elements)" },
+              { id: "dh-objects", name: "6 Sense Objects (Form, Sound, Smell, Taste, Touch, Idea elements)" },
+              { id: "dh-conscious", name: "6 Consciousnesses (Eye-con., Ear-con., Nose-con., Tongue-con., Body-con., Mind-con. elements)" }
+            ]
+          },
+          {
+            id: "saccas",
+            name: "Practicing based on the 4 Noble Truths (Sacca)",
+            children: [
+              { id: "sa-dukkha", name: "Truth of Suffering (Dukkha-sacca)" },
+              { id: "sa-samudaya", name: "Truth of the Origin of Suffering (Samudaya-sacca)" },
+              { id: "sa-nirodha", name: "Truth of the Cessation of Suffering (Nirodha-sacca)" },
+              { id: "sa-magga", name: "Truth of the Way Leading to Cessation (Magga-sacca)" }
+            ]
+          },
+          {
+            id: "characteristics",
+            name: "3 Characteristics of existence (Tilakkhaṇa)",
+            description: "Discerning each individual dhamma as impermanent, painful, and non-self.",
+            children: [
+              { id: "ch-anicca", name: "Contemplating as Impermanent (Anicca)" },
+              { id: "ch-dukkha", name: "Contemplating as Unsatisfactory (Dukkha)" },
+              { id: "ch-anatta", name: "Contemplating as Non-Self (Anattā)" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    id: "study",
+    name: "Study (Pariyatti)",
+    description: "Intellectual understanding of the Buddha's teachings and scriptures.",
+    children: [
+      {
+        id: "tipitaka",
+        name: "Books of the Tipiṭaka",
+        children: [
+          {
+            id: "vinaya-pitaka",
+            name: "Vinaya Piṭaka (Monastic Discipline)",
+            children: [
+              { id: "vp-patimokkha", name: "Pātimokkha (The fundamental code of 227 rules)" },
+              { id: "vp-suttavibhanga", name: "Suttavibhaṅga (Exposition of the rules)" },
+              { id: "vp-khandhaka", name: "Khandhaka (Mahāvagga & Cullavagga chapters)" },
+              { id: "vp-parivara", name: "Parivāra (Summary and analysis tables)" }
+            ]
+          },
+          {
+            id: "suttanta-pitaka",
+            name: "Suttanta Piṭaka (Discourses)",
+            children: [
+              { id: "sp-digha", name: "Dīgha Nikāya (34 Long Discourses)" },
+              { id: "sp-majjhima", name: "Majjhima Nikāya (152 Middle-Length Discourses)" },
+              { id: "sp-samyutta", name: "Saṃyutta Nikāya (Connected Discourses)" },
+              { id: "sp-anguttara", name: "Aṅguttara Nikāya (Numbered/Numerical Discourses)" },
+              { id: "sp-khuddaka", name: "Khuddaka Nikāya (Collection of 15-18 minor books)" }
+            ]
+          },
+          {
+            id: "abhidhamma-pitaka",
+            name: "Abhidhamma Piṭaka (Higher Philosophy)",
+            children: [
+              { id: "ap-dhammasangani", name: "Dhammasaṅgaṇī (Enumeration of Phenomena)" },
+              { id: "ap-vibhanga", name: "Vibhaṅga (Book of Analysis)" },
+              { id: "ap-dhatukatha", name: "Dhātukathā (Discussion of Elements)" },
+              { id: "ap-puggalapannatti", name: "Puggalapaññatti (Designation of Individuals)" },
+              { id: "ap-kathavatthu", name: "Kathāvatthu (Points of Controversy)" },
+              { id: "ap-yamaka", name: "Yamaka (Book of Pairs)" },
+              { id: "ap-patthana", name: "Paṭṭhāna (Book of Conditional Relations)" }
+            ]
+          }
+        ]
+      },
+      {
+        id: "memorizations",
+        name: "Important Memorizations",
+        children: [
+          { id: "mem-patimokkha", name: "Bhikkhu Pātimokkha (Entire Pāḷi text)" },
+          { id: "mem-dhamma-wheel", name: "Dhammacakkappavattana Sutta (Setting Roll the Dhamma Wheel)" },
+          { id: "mem-anatta-lakkhana", name: "Anattalakkhaṇa Sutta (The Discourse on Non-Self)" },
+          { id: "mem-aditta-pariyaya", name: "Ādittapariyāya Sutta (The Fire Sermon)" },
+          { id: "mem-karaniya-metta", name: "Karaṇīyamettā Sutta (Loving-Kindness Chant)" },
+          { id: "mem-mangala", name: "Maṅgala Sutta (Discourse on Blessings)" },
+          { id: "mem-ratana", name: "Ratana Sutta (Jewel Discourse)" },
+          { id: "mem-dhammapada", name: "Selected verses of the Dhammapada" },
+          { id: "mem-daily-chanting", name: "Morning & Evening Chanting in Pāḷi" }
+        ]
+      }
+    ]
+  },
+  {
+    id: "monastic",
+    name: "Monastic Skills (Vihāradhamma)",
+    description: "Practical monastic duties, discipline, crafts, and community service.",
+    children: [
+      {
+        id: "vinaya-deportment",
+        name: "Vinaya Rule Mastery & Deportment",
+        children: [
+          { id: "ms-sekhiya", name: "Sekhiya Rules (75 rules for proper conduct and deportment)" },
+          { id: "ms-pacittiya", name: "Pācittiya Rules (92 rules requiring confession)" },
+          { id: "ms-sanghadisesa", name: "Saṅghādisesa Rules (13 rules requiring Sangha assembly)" },
+          { id: "ms-parajika", name: "Pārājika Rules (4 rules of defeat causing expulsion)" }
+        ]
+      },
+      {
+        id: "crafts",
+        name: "Monastic Crafts",
+        children: [
+          { id: "ms-robe-sewing", name: "Robe Sewing (Cutting, marking & stitching a civara)" },
+          { id: "ms-robe-dyeing", name: "Robe Dyeing (Natural jackfruit wood or chemical dyes)" },
+          { id: "ms-bowl-firing", name: "Bowl Firing (Preparing, claying, and baking an iron alms-bowl)" },
+          { id: "ms-bowl-oiling", name: "Bowl Care & Oiling (Rust protection, proper maintenance)" }
+        ]
+      },
+      {
+        id: "ceremonies",
+        name: "Etiquette & Ceremonies",
+        children: [
+          { id: "ms-anumodana", name: "Anumodanā Chanting (Giving blessings/sharing merit after meals)" },
+          { id: "ms-uposatha-procedure", name: "Uposatha Procedures (Confession, Patimokkha recital organization)" },
+          { id: "ms-kassa-kamma", name: "Saṅghakamma Procedures (Formal ecclesiastical acts)" }
+        ]
+      },
+      {
+        id: "maintenance",
+        name: "Vihāra Maintenance",
+        children: [
+          { id: "ms-carpentry", name: "Carpentry & Shelter repairs" },
+          { id: "ms-plumbing", name: "Plumbing, Water filtration & Masonry" },
+          { id: "ms-gardening", name: "Forest Clearing, Path sweeps & Firebreak maintenance" },
+          { id: "ms-waste-mgmt", name: "Sanitation & Waste management" }
+        ]
+      },
+      {
+        id: "health",
+        name: "Healthcare & Caretaking",
+        children: [
+          { id: "ms-first-aid", name: "First Aid & CPR certification level" },
+          { id: "ms-traditional-medicine", name: "Herbal Remedies & Basic Monastic pharmacology" },
+          { id: "ms-monk-care", name: "Caretaking of Sick & Elderly Monks (Gelaññupatthāna)" }
+        ]
+      }
+    ]
+  },
+  {
+    id: "teaching",
+    name: "Teaching & Propagation (Dhammadūta)",
+    description: "Skills required for communicating, translating, and sharing the Dhamma.",
+    children: [
+      {
+        id: "languages",
+        name: "Languages",
+        children: [
+          { id: "tp-pali-grammar", name: "Pāḷi Grammar & Syntax study" },
+          { id: "tp-pali-translation", name: "Pāḷi Text Translation and reading" },
+          { id: "tp-english-dhamma", name: "English vocabulary for explaining Dhamma" },
+          { id: "tp-local-languages", name: "Local/Regional Dialect for teaching lay supporters" }
+        ]
+      },
+      {
+        id: "discourse",
+        name: "Dhamma Discourse",
+        children: [
+          { id: "tp-dhamma-talks", name: "Giving Formal Dhamma Talks (Desanā)" },
+          { id: "tp-q-and-a", name: "Answering Dhamma Questions (Q&A sessions)" },
+          { id: "tp-storytelling", name: "Jātaka & Dhammapada Storytelling" }
+        ]
+      },
+      {
+        id: "guidance",
+        name: "Spiritual Guidance",
+        children: [
+          { id: "tp-meditation-instruct", name: "Meditation Instruction (Samatha & Vipassanā)" },
+          { id: "tp-counselling", name: "Listening & Counselling (Spiritual friendship / Kalyāṇamitta)" },
+          { id: "tp-retreat-organizing", name: "Organizing & leading meditation retreats" }
+        ]
+      },
+      {
+        id: "media",
+        name: "Literary & Digital Media",
+        children: [
+          { id: "tp-writing", name: "Writing Articles, Essays, or Books" },
+          { id: "tp-translation", name: "Translating Discourses / commentaries to modern languages" },
+          { id: "tp-web-dev", name: "Web Development & Digital libraries (Dhamma archiving)" },
+          { id: "tp-audio-video", name: "Audio/Video Editing & Recording (Sermon uploads / podcasts)" }
+        ]
+      }
+    ]
+  }
+];
+
+// --- Application State ---
+let checkedSkills = {}; // Maps leaf ID -> boolean
+let collapsedNodes = {}; // Maps node ID -> boolean
+let currentModalAction = ''; // 'export' or 'import'
+
+// --- Initialize App ---
+document.addEventListener("DOMContentLoaded", function () {
+  loadState();
+  renderTree();
+  updateProgress();
+  setupSearch();
+  setupFilterHandlers();
+});
+
+// --- Local Storage Management ---
+const STORAGE_KEY_CHECKED = "buddhist_skill_tree_checked";
+const STORAGE_KEY_COLLAPSED = "buddhist_skill_tree_collapsed";
+
+function loadState() {
+  try {
+    const checked = localStorage.getItem(STORAGE_KEY_CHECKED);
+    if (checked) checkedSkills = JSON.parse(checked);
+    
+    const collapsed = localStorage.getItem(STORAGE_KEY_COLLAPSED);
+    if (collapsed) collapsedNodes = JSON.parse(collapsed);
+  } catch (e) {
+    console.error("Failed to load state from localStorage:", e);
+  }
+}
+
+function saveState() {
+  try {
+    localStorage.setItem(STORAGE_KEY_CHECKED, JSON.stringify(checkedSkills));
+    localStorage.setItem(STORAGE_KEY_COLLAPSED, JSON.stringify(collapsedNodes));
+  } catch (e) {
+    console.error("Failed to save state to localStorage:", e);
+  }
+}
+
+// --- DOM Rendering ---
+function renderTree() {
+  const container = document.getElementById("branches-list");
+  container.innerHTML = "";
+
+  skillData.forEach(branch => {
+    const card = document.createElement("div");
+    card.className = "branch-card";
+    card.id = `branch-card-${branch.id}`;
+    card.dataset.branch = branch.id;
+
+    // Header Area
+    const header = document.createElement("div");
+    header.className = "branch-header";
+    
+    const titleArea = document.createElement("div");
+    titleArea.className = "branch-title-area";
+    const title = document.createElement("h3");
+    title.className = "branch-title";
+    title.textContent = branch.name;
+    titleArea.appendChild(title);
+    
+    const progressArea = document.createElement("div");
+    progressArea.className = "branch-progress-area";
+    
+    const progressBarBg = document.createElement("div");
+    progressBarBg.className = "branch-progress-bar-bg";
+    const progressBarFill = document.createElement("div");
+    progressBarFill.className = "branch-progress-bar-fill";
+    progressBarFill.id = `bar-fill-${branch.id}`;
+    progressBarBg.appendChild(progressBarFill);
+
+    const progressText = document.createElement("span");
+    progressText.className = "branch-progress-text";
+    progressText.id = `progress-text-${branch.id}`;
+    progressText.textContent = "0/0 (0%)";
+
+    progressArea.appendChild(progressBarBg);
+    progressArea.appendChild(progressText);
+
+    header.appendChild(titleArea);
+    header.appendChild(progressArea);
+
+    // Body Area
+    const body = document.createElement("div");
+    body.className = "branch-body";
+
+    // Recursively render children under this branch
+    if (branch.children) {
+      branch.children.forEach(child => {
+        body.appendChild(createNodeDOM(child, true));
+      });
+    }
+
+    card.appendChild(header);
+    card.appendChild(body);
+    container.appendChild(card);
+  });
+  
+  // Set indeterminate states on checkboxes initially
+  updateIndeterminateStates();
+}
+
+function createNodeDOM(node, isRoot = false) {
+  const nodeEl = document.createElement("div");
+  nodeEl.className = "tree-node" + (isRoot ? " root-node" : "");
+  nodeEl.id = `node-${node.id}`;
+  nodeEl.dataset.nodeId = node.id;
+
+  const header = document.createElement("div");
+  header.className = "node-header";
+
+  // Toggle button (for folding/unfolding)
+  const toggle = document.createElement("span");
+  const hasChildren = node.children && node.children.length > 0;
+  if (hasChildren) {
+    toggle.className = "node-toggle";
+    const isCollapsed = collapsedNodes[node.id] === true;
+    toggle.textContent = isCollapsed ? "▶" : "▼";
+    toggle.onclick = (e) => {
+      e.stopPropagation();
+      toggleNodeCollapse(node.id);
+    };
+  } else {
+    toggle.className = "node-toggle empty-toggle";
+    toggle.textContent = "•";
+  }
+  header.appendChild(toggle);
+
+  // Checkbox Container
+  const cbContainer = document.createElement("label");
+  cbContainer.className = "cb-container";
+
+  const checkbox = document.createElement("input");
+  checkbox.type = "checkbox";
+  checkbox.id = `chk-${node.id}`;
+  checkbox.dataset.id = node.id;
+  
+  if (!hasChildren) {
+    // Leaf node check state
+    checkbox.checked = !!checkedSkills[node.id];
+    checkbox.onchange = () => {
+      checkedSkills[node.id] = checkbox.checked;
+      saveState();
+      updateProgress();
+      updateIndeterminateStates();
+      applySearchFilter(); // Re-apply filter if status filter is active
+    };
+  } else {
+    // Parent node checkbox toggles all descendants
+    checkbox.onchange = () => {
+      setDescendantsChecked(node, checkbox.checked);
+      saveState();
+      updateProgress();
+      updateIndeterminateStates();
+      applySearchFilter(); // Re-apply filter if status filter is active
+    };
+  }
+
+  const checkmark = document.createElement("span");
+  checkmark.className = "checkmark";
+
+  cbContainer.appendChild(checkbox);
+  cbContainer.appendChild(checkmark);
+
+  // Title & description group
+  const titleGroup = document.createElement("span");
+  titleGroup.className = "node-title-group";
+
+  const title = document.createElement("span");
+  title.className = "node-title" + (!hasChildren ? " is-leaf" : "");
+  title.textContent = node.name;
+  titleGroup.appendChild(title);
+
+  // Badge for category progress if it has children
+  if (hasChildren) {
+    const badge = document.createElement("span");
+    badge.className = "node-badge";
+    badge.id = `badge-${node.id}`;
+    badge.textContent = "0/0";
+    titleGroup.appendChild(badge);
+  }
+
+  if (node.description) {
+    const desc = document.createElement("span");
+    desc.className = "node-desc";
+    desc.textContent = node.description;
+    titleGroup.appendChild(desc);
+  }
+
+  cbContainer.appendChild(titleGroup);
+  header.appendChild(cbContainer);
+  nodeEl.appendChild(header);
+
+  // Render children containers
+  if (hasChildren) {
+    const childrenContainer = document.createElement("div");
+    childrenContainer.className = "node-children";
+    childrenContainer.id = `children-${node.id}`;
+    
+    if (collapsedNodes[node.id] === true) {
+      childrenContainer.classList.add("collapsed");
+    }
+
+    node.children.forEach(child => {
+      childrenContainer.appendChild(createNodeDOM(child));
+    });
+    nodeEl.appendChild(childrenContainer);
+  }
+
+  return nodeEl;
+}
+
+// --- Toggle Collapsible Nodes ---
+function toggleNodeCollapse(nodeId) {
+  const childrenContainer = document.getElementById(`children-${nodeId}`);
+  const toggleBtn = document.querySelector(`#node-${nodeId} > .node-header .node-toggle`);
+  
+  if (childrenContainer && toggleBtn) {
+    const isCollapsed = childrenContainer.classList.toggle("collapsed");
+    toggleBtn.textContent = isCollapsed ? "▶" : "▼";
+    collapsedNodes[nodeId] = isCollapsed;
+    saveState();
+  }
+}
+
+function toggleAllNodes(expand) {
+  const toggles = document.querySelectorAll(".node-toggle:not(.empty-toggle)");
+  const childContainers = document.querySelectorAll(".node-children");
+  
+  toggles.forEach(toggle => {
+    toggle.textContent = expand ? "▼" : "▶";
+  });
+  
+  childContainers.forEach(container => {
+    if (expand) {
+      container.classList.remove("collapsed");
+    } else {
+      container.classList.add("collapsed");
+    }
+  });
+
+  // Update collapsedNodes state
+  const nodes = document.querySelectorAll(".tree-node");
+  nodes.forEach(nodeEl => {
+    const nodeId = nodeEl.dataset.nodeId;
+    const hasChildren = !!document.getElementById(`children-${nodeId}`);
+    if (hasChildren) {
+      collapsedNodes[nodeId] = !expand;
+    }
+  });
+  saveState();
+}
+
+// --- Check/Uncheck Propagation ---
+function setDescendantsChecked(node, value) {
+  if (!node.children || node.children.length === 0) {
+    checkedSkills[node.id] = value;
+    const checkbox = document.getElementById(`chk-${node.id}`);
+    if (checkbox) checkbox.checked = value;
+    return;
+  }
+  
+  node.children.forEach(child => {
+    setDescendantsChecked(child, value);
+  });
+  
+  const checkbox = document.getElementById(`chk-${node.id}`);
+  if (checkbox) {
+    checkbox.checked = value;
+    checkbox.indeterminate = false;
+    checkbox.classList.remove("indeterminate");
+  }
+}
+
+// --- Progress Calculation ---
+function getLeafNodes(node) {
+  if (!node.children || node.children.length === 0) {
+    return [node];
+  }
+  let leaves = [];
+  node.children.forEach(child => {
+    leaves = leaves.concat(getLeafNodes(child));
+  });
+  return leaves;
+}
+
+function updateProgress() {
+  let totalLeafCount = 0;
+  let checkedLeafCount = 0;
+
+  skillData.forEach(branch => {
+    let branchTotal = 0;
+    let branchChecked = 0;
+
+    if (branch.children) {
+      branch.children.forEach(category => {
+        // Calculate category level progress
+        const categoryLeaves = getLeafNodes(category);
+        const categoryTotal = categoryLeaves.length;
+        const categoryChecked = categoryLeaves.filter(leaf => !!checkedSkills[leaf.id]).length;
+        
+        branchTotal += categoryTotal;
+        branchChecked += categoryChecked;
+
+        // Update Category Badge
+        const badge = document.getElementById(`badge-${category.id}`);
+        if (badge) {
+          badge.textContent = `${categoryChecked}/${categoryTotal}`;
+          if (categoryChecked === categoryTotal) {
+            badge.classList.add("completed");
+          } else {
+            badge.classList.remove("completed");
+          }
+        }
+        
+        // Handle lower sub-categories if any
+        category.children.forEach(sub => {
+          if (sub.children && sub.children.length > 0) {
+            const subLeaves = getLeafNodes(sub);
+            const subTotal = subLeaves.length;
+            const subChecked = subLeaves.filter(leaf => !!checkedSkills[leaf.id]).length;
+            const subBadge = document.getElementById(`badge-${sub.id}`);
+            if (subBadge) {
+              subBadge.textContent = `${subChecked}/${subTotal}`;
+              if (subChecked === subTotal) {
+                subBadge.classList.add("completed");
+              } else {
+                subBadge.classList.remove("completed");
+              }
+            }
+          }
+        });
+      });
+    }
+
+    totalLeafCount += branchTotal;
+    checkedLeafCount += branchChecked;
+
+    // Update Branch Progress UI
+    const pct = branchTotal > 0 ? Math.round((branchChecked / branchTotal) * 100) : 0;
+    const fill = document.getElementById(`bar-fill-${branch.id}`);
+    const text = document.getElementById(`progress-text-${branch.id}`);
+    
+    if (fill) fill.style.width = `${pct}%`;
+    if (text) text.textContent = `${branchChecked}/${branchTotal} (${pct}%)`;
+  });
+
+  // Update Overall Dashboard Progress UI
+  const overallPct = totalLeafCount > 0 ? Math.round((checkedLeafCount / totalLeafCount) * 100) : 0;
+  
+  const overallPctEl = document.getElementById("overall-pct");
+  const overallFillEl = document.getElementById("overall-fill");
+  const overallCountEl = document.getElementById("overall-count");
+  
+  if (overallPctEl) overallPctEl.textContent = `${overallPct}%`;
+  if (overallFillEl) overallFillEl.style.width = `${overallPct}%`;
+  if (overallCountEl) {
+    overallCountEl.textContent = `${checkedLeafCount} of ${totalLeafCount} skills mastered`;
+  }
+}
+
+// Helper to update visual checkbox states (checked, unchecked, indeterminate)
+function updateIndeterminateStates() {
+  function checkNodeState(node) {
+    if (!node.children || node.children.length === 0) {
+      return {
+        total: 1,
+        checked: checkedSkills[node.id] ? 1 : 0
+      };
+    }
+
+    let total = 0;
+    let checked = 0;
+
+    node.children.forEach(child => {
+      const state = checkNodeState(child);
+      total += state.total;
+      checked += state.checked;
+    });
+
+    const checkbox = document.getElementById(`chk-${node.id}`);
+    if (checkbox) {
+      if (checked === 0) {
+        checkbox.checked = false;
+        checkbox.indeterminate = false;
+        checkbox.classList.remove("indeterminate");
+      } else if (checked === total) {
+        checkbox.checked = true;
+        checkbox.indeterminate = false;
+        checkbox.classList.remove("indeterminate");
+      } else {
+        checkbox.checked = false;
+        checkbox.indeterminate = true;
+        checkbox.classList.add("indeterminate");
+      }
+    }
+
+    return { total, checked };
+  }
+
+  skillData.forEach(branch => {
+    if (branch.children) {
+      branch.children.forEach(category => {
+        checkNodeState(category);
+      });
+    }
+  });
+}
+
+// --- Search and Filtering Logic ---
+function setupSearch() {
+  const searchInput = document.getElementById("skill-search");
+  searchInput.addEventListener("input", applySearchFilter);
+}
+
+// Escapes special characters for regex matching
+function escapeRegExp(string) {
+  return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+
+function setupFilterHandlers() {
+  const branchSelect = document.getElementById("filter-branch");
+  const statusSelect = document.getElementById("filter-status");
+
+  branchSelect.addEventListener("change", applySearchFilter);
+  statusSelect.addEventListener("change", applySearchFilter);
+}
+
+function applySearchFilter() {
+  const query = document.getElementById("skill-search").value.trim().toLowerCase();
+  const branchFilter = document.getElementById("filter-branch").value;
+  const statusFilter = document.getElementById("filter-status").value;
+
+  const branchCards = document.querySelectorAll(".branch-card");
+
+  branchCards.forEach(card => {
+    const branchId = card.dataset.branch;
+    
+    // Check branch filter
+    if (branchFilter !== "all" && branchFilter !== branchId) {
+      card.classList.add("hidden");
+      return;
+    }
+    
+    let branchHasVisibleNode = false;
+
+    // Filter nodes recursively within this branch
+    const branchData = skillData.find(b => b.id === branchId);
+    if (branchData && branchData.children) {
+      branchData.children.forEach(category => {
+        const categoryVisible = filterNodeDOM(category, query, statusFilter);
+        if (categoryVisible) {
+          branchHasVisibleNode = true;
+        }
+      });
+    }
+
+    if (branchHasVisibleNode) {
+      card.classList.remove("hidden");
+    } else {
+      card.classList.add("hidden");
+    }
+  });
+}
+
+// Returns true if the node (or any of its descendants) is visible
+function filterNodeDOM(node, query, statusFilter) {
+  const nodeEl = document.getElementById(`node-${node.id}`);
+  const hasChildren = node.children && node.children.length > 0;
+  
+  // Clean highlights first
+  const titleEl = nodeEl.querySelector(".node-title");
+  titleEl.innerHTML = node.name; // Reset text
+
+  // 1. Check status filter
+  let matchesStatus = true;
+  if (statusFilter !== "all") {
+    if (hasChildren) {
+      // For parent, check if it contains any descendants that match the status filter
+      const leaves = getLeafNodes(node);
+      const checkedLeaves = leaves.filter(leaf => !!checkedSkills[leaf.id]);
+      if (statusFilter === "checked") {
+        matchesStatus = checkedLeaves.length > 0;
+      } else if (statusFilter === "unchecked") {
+        matchesStatus = checkedLeaves.length < leaves.length;
+      }
+    } else {
+      const isChecked = !!checkedSkills[node.id];
+      matchesStatus = (statusFilter === "checked" && isChecked) || (statusFilter === "unchecked" && !isChecked);
+    }
+  }
+
+  // 2. Check search query
+  let matchesQuery = false;
+  if (!query) {
+    matchesQuery = true;
+  } else {
+    const nameMatch = node.name.toLowerCase().includes(query);
+    const descMatch = node.description && node.description.toLowerCase().includes(query);
+    matchesQuery = nameMatch || descMatch;
+
+    if (nameMatch) {
+      // Highlight matching term in the title
+      const reg = new RegExp(`(${escapeRegExp(query)})`, "gi");
+      titleEl.innerHTML = node.name.replace(reg, `<span class="highlight-match">$1</span>`);
+    }
+  }
+
+  // 3. Process children
+  let anyChildVisible = false;
+  if (hasChildren) {
+    node.children.forEach(child => {
+      const childVisible = filterNodeDOM(child, query, statusFilter);
+      if (childVisible) {
+        anyChildVisible = true;
+      }
+    });
+
+    const childrenContainer = document.getElementById(`children-${node.id}`);
+    
+    // Auto-expand parents if there's an active query/filter matching their descendants
+    if (query || statusFilter !== "all") {
+      if (anyChildVisible) {
+        childrenContainer.classList.remove("collapsed");
+        const toggleBtn = document.querySelector(`#node-${node.id} > .node-header .node-toggle`);
+        if (toggleBtn) toggleBtn.textContent = "▼";
+      }
+    } else {
+      // Restore collapse state
+      const isCollapsed = collapsedNodes[node.id] === true;
+      childrenContainer.classList.toggle("collapsed", isCollapsed);
+      const toggleBtn = document.querySelector(`#node-${node.id} > .node-header .node-toggle`);
+      if (toggleBtn) toggleBtn.textContent = isCollapsed ? "▶" : "▼";
+    }
+  }
+
+  // Node is visible if:
+  // (a) It matches status and query directly (and is a leaf) OR
+  // (b) Any of its children is visible
+  const isVisible = (matchesStatus && matchesQuery) || anyChildVisible;
+
+  if (isVisible) {
+    nodeEl.classList.remove("hidden");
+  } else {
+    nodeEl.classList.add("hidden");
+  }
+
+  return isVisible;
+}
+</script>
+
+<script>
+// --- Action Buttons ---
+function confirmReset() {
+  if (confirm("Are you sure you want to reset all progress? This cannot be undone.")) {
+    checkedSkills = {};
+    saveState();
+    renderTree();
+    updateProgress();
+    document.getElementById("skill-search").value = "";
+    document.getElementById("filter-branch").value = "all";
+    document.getElementById("filter-status").value = "all";
+    applySearchFilter();
+  }
+}
+
+// --- Export / Import Modals ---
+function openShareModal(action) {
+  currentModalAction = action;
+  const modal = document.getElementById("share-modal");
+  const title = document.getElementById("modal-title");
+  const desc = document.getElementById("modal-desc");
+  const textarea = document.getElementById("modal-textarea");
+  const actionBtn = document.getElementById("modal-action-btn");
+
+  modal.style.display = "flex";
+
+  if (action === 'export') {
+    title.textContent = "Export Progress Data";
+    desc.textContent = "Copy the code below. You can paste it on another device to restore your progress.";
+    textarea.value = btoa(JSON.stringify(checkedSkills));
+    textarea.readOnly = true;
+    actionBtn.textContent = "Copy to Clipboard";
+    actionBtn.className = "btn-st btn-st-primary";
+  } else {
+    title.textContent = "Import Progress Data";
+    desc.textContent = "Paste your exported progress code below and click Import.";
+    textarea.value = "";
+    textarea.readOnly = false;
+    actionBtn.textContent = "Import Progress";
+    actionBtn.className = "btn-st btn-st-primary";
+  }
+}
+
+function closeShareModal(event) {
+  const modal = document.getElementById("share-modal");
+  modal.style.display = "none";
+}
+
+function executeModalAction() {
+  const textarea = document.getElementById("modal-textarea");
+  
+  if (currentModalAction === 'export') {
+    textarea.select();
+    try {
+      document.execCommand('copy');
+      alert("Progress code copied to clipboard!");
+    } catch (err) {
+      alert("Failed to copy code. Please select the text and copy manually.");
+    }
+    closeShareModal();
+  } else {
+    const code = textarea.value.trim();
+    if (!code) {
+      alert("Please paste a valid progress code.");
+      return;
+    }
+    try {
+      const jsonStr = atob(code);
+      const parsed = JSON.parse(jsonStr);
+      if (typeof parsed === 'object' && parsed !== null) {
+        checkedSkills = parsed;
+        saveState();
+        renderTree();
+        updateProgress();
+        alert("Progress imported successfully!");
+        closeShareModal();
+      } else {
+        throw new Error("Invalid format");
+      }
+    } catch (e) {
+      alert("Failed to import progress. Please verify that the pasted code is correct.");
+    }
+  }
+}
+</script>

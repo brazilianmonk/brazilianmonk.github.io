@@ -21,6 +21,10 @@ Here I keep my own summaries, notes, essays, programs, etc. It also includes som
 
 Calculate the Ordination Eligibility Date and the Ordination Duration Counter.
 
+## [🌳 Buddhist Skill Tree](/skill-tree)
+
+An interactive checklist to track and visualize progress in study, meditation, monastic training, and teaching.
+
 ## [️📆 Calendar](/calendar)
 
 Events going on.
