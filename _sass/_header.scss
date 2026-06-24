@@ -180,16 +180,22 @@
   .dropbtn {
     background: none;
     color: black;
-    padding: 6px 10px; /* Reduced vertical padding */
+    padding: 0 10px; /* Reduced vertical padding */
     font-size: 20px;
     border: none;
     cursor: pointer;
+    transform: translateY(-5px);
+  }
+
+  /* Hover color */
+  .dropbtn:hover {
+    color: #AF6100; /* your desired color */
+    background: none;
   }
 
   .dropdown {
     position: relative;
-    display: flex;
-    align-items: center;
+    display: inline-block;
   }
 
   .dropdown-content {
