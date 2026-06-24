@@ -105,6 +105,16 @@ Pariyatti center
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
+<!-- 
+1. Mahāvihāra - Hmawbi 
+2. ⁠Mahavihāra - Hlegu 
+3. ⁠Mahāvihāra - Nepidaw 
+4. ⁠Bārāņasi monastery 
+5. ⁠Yadana Pangon - Shewpyithar 
+6. ⁠Dhamma Vinaya Monastery - Thaton 
+7. ⁠Ee Chantha ya - Kayin 
+(From Myanmar) 
+-->
 ### 🇱🇰 Sri Lanka
 
 #### [**International Institute of Theravāda**](https://www.theravado.com/)
