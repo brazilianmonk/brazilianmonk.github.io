@@ -73,7 +73,7 @@ Centro de meditação e estudo Theravāda em São Paulo, Brasil.
 📊 **[View the interactive monastery table →](/monasteries)** — filter by country, language, and area of focus.
 
 List of Theravāda monasteries that I or close friends know to meet the following requirements:
-- monks follow the Buddha's rules in full (do not accept money, have dinner, etc.)
+- monks follow the Buddha's rules in full (do not accept money or have dinner, recite the pātimokkha, etc.)
 - accept the entire Pāḷi Tipiṭaka and it's traditional explanations (the entire body of the Buddha's teachings with it's original meaning)
 
 ### 🇲🇲 Myanmar
@@ -161,6 +161,18 @@ Monastery separated into two areas: one for study (mainly abhidhamma, vinaya, an
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
 ------
+
+### 🇱🇦 Laos
+#### [**Wat Pa Nakham**](https://web.facebook.com/p/%E0%BA%A7%E0%BA%B1%E0%BA%94%E0%BA%9B%E0%BB%88%E0%BA%B2%E0%BA%99%E0%BA%B2%E0%BA%82%E0%BA%B2%E0%BA%A1-%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B8%A1-100070671601057/?_rdc=1&_rdr)
+- Leader: Ajahn Sam Tejavaro
+- Languages: Lao, Thai
+- Focus: study (Pāḷi, Abhidhamma, and Vinaya)
+
+#### [**Wat Pa Nadi (Suvaṇṇapaṇḍita)**](https://maps.app.goo.gl/dbu1CCUk8C63TxqF6)
+- Leaders: Ajahn Udon
+- Languages: Lao, Thai
+- Focus: study Pāḷi, Abhidhamma, Vinaya
+- Note: Responsible for the translation of the Tipiṭaka into Lao language.
 
 ## 🧠 Modern Research
 
