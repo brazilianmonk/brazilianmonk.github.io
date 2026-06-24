@@ -9,6 +9,7 @@ important files:
 
 
 to do list for the website:
+- add yt videos related to comsciousness
 - add buddhist sun app
 - add iit app
 - add sufdhavari image
