@@ -188,7 +188,8 @@
 
   .dropdown {
     position: relative;
-    display: inline-block;
+    display: flex;
+    align-items: center;
   }
 
   .dropdown-content {
