@@ -66,6 +66,8 @@ Centro de meditação e estudo Theravāda em São Paulo, Brasil.
 
 ## 🏛️ Monasteries
 
+📊 **[View the interactive monastery table →](/monasteries)** — filter by country, language, and area of focus.
+
 List of Theravāda monasteries that I or close friends know to meet the following requirements:
 - monks follow the Buddha's rules in full (do not accept money, have dinner, etc.)
 - accept the entire Pāḷi Tipiṭaka and it's traditional explanations (the entire body of the Buddha's teachings with it's original meaning)

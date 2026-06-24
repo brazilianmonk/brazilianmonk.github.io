@@ -1,0 +1,518 @@
+---
+layout: page
+title: Monastery Directory
+permalink: /monasteries
+---
+
+<style>
+  /* ─── Reset & base ─── */
+  *, *::before, *::after { box-sizing: border-box; }
+
+  .mon-wrap {
+    font-family: 'Segoe UI', system-ui, sans-serif;
+    max-width: 960px;
+    margin: 0 auto;
+  }
+
+  .mon-intro {
+    font-size: 0.95rem;
+    color: #555;
+    margin-bottom: 1.6rem;
+    line-height: 1.6;
+  }
+
+  /* ─── Filter bar ─── */
+  .filter-bar {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    margin-bottom: 1.4rem;
+    align-items: flex-end;
+  }
+
+  .filter-group {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    flex: 1 1 160px;
+  }
+
+  .filter-group label {
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    color: #AD6100;
+  }
+
+  .filter-group select,
+  .filter-group input {
+    padding: 0.45rem 0.65rem;
+    border: 1px solid #d8c9b5;
+    border-radius: 6px;
+    font-size: 0.88rem;
+    background: #fdf8f2;
+    color: #2d2010;
+    outline: none;
+    transition: border-color 0.2s;
+    width: 100%;
+  }
+
+  .filter-group select:focus,
+  .filter-group input:focus {
+    border-color: #AD6100;
+    background: #fff;
+  }
+
+  .btn-reset {
+    padding: 0.46rem 1rem;
+    background: transparent;
+    border: 1px solid #AD6100;
+    border-radius: 6px;
+    color: #AD6100;
+    font-size: 0.83rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.18s, color 0.18s;
+    align-self: flex-end;
+    white-space: nowrap;
+  }
+
+  .btn-reset:hover {
+    background: #AD6100;
+    color: #fff;
+  }
+
+  /* ─── Result count ─── */
+  .result-count {
+    font-size: 0.8rem;
+    color: #888;
+    margin-bottom: 0.6rem;
+  }
+
+  /* ─── Table ─── */
+  .mon-table-wrap {
+    overflow-x: auto;
+    border-radius: 10px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.07);
+    border: 1px solid #e8ddd0;
+  }
+
+  table.mon-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.88rem;
+    background: #fff;
+  }
+
+  table.mon-table thead th {
+    background: #AD6100;
+    color: #fff;
+    text-align: left;
+    padding: 0.7rem 0.85rem;
+    font-weight: 700;
+    font-size: 0.8rem;
+    letter-spacing: 0.04em;
+    white-space: nowrap;
+    cursor: pointer;
+    user-select: none;
+    position: relative;
+  }
+
+  table.mon-table thead th:hover { background: #943f00; }
+
+  table.mon-table thead th .sort-icon {
+    display: inline-block;
+    margin-left: 4px;
+    opacity: 0.55;
+    font-size: 0.7rem;
+  }
+
+  table.mon-table thead th.sorted-asc .sort-icon::after  { content: '▲'; opacity: 1; }
+  table.mon-table thead th.sorted-desc .sort-icon::after { content: '▼'; opacity: 1; }
+  table.mon-table thead th:not(.sorted-asc):not(.sorted-desc) .sort-icon::after { content: '⇅'; }
+
+  table.mon-table tbody tr {
+    border-bottom: 1px solid #f0e8de;
+    transition: background 0.12s;
+  }
+
+  table.mon-table tbody tr:hover { background: #fdf5ec; }
+  table.mon-table tbody tr.hidden { display: none; }
+
+  table.mon-table td {
+    padding: 0.65rem 0.85rem;
+    vertical-align: top;
+    line-height: 1.45;
+  }
+
+  table.mon-table td:first-child { font-weight: 600; color: #2d1a00; }
+
+  /* tags */
+  .tag {
+    display: inline-block;
+    padding: 0.18rem 0.5rem;
+    border-radius: 4px;
+    font-size: 0.73rem;
+    font-weight: 600;
+    margin: 0.1rem 0.15rem 0.1rem 0;
+    white-space: nowrap;
+  }
+
+  .tag-focus  { background: #fff3e0; color: #b35a00; border: 1px solid #f5d9b0; }
+  .tag-lang   { background: #e8f5e9; color: #2e7d32; border: 1px solid #a5d6a7; }
+
+  /* country flag cell */
+  .country-cell { white-space: nowrap; }
+  .flag { font-size: 1.15rem; margin-right: 0.3rem; }
+
+  /* link */
+  a.mon-link {
+    color: #AD6100;
+    text-decoration: none;
+    font-weight: 600;
+    border-bottom: 1px dotted #AD6100;
+  }
+  a.mon-link:hover { color: #6d3500; border-bottom-style: solid; }
+
+  .no-link { color: #aaa; font-style: italic; font-size: 0.8rem; }
+
+  /* no results row */
+  #no-results {
+    display: none;
+    padding: 2rem;
+    text-align: center;
+    color: #aaa;
+    font-style: italic;
+  }
+
+  /* responsive */
+  @media (max-width: 600px) {
+    .filter-bar { flex-direction: column; }
+  }
+</style>
+
+<div class="mon-wrap">
+
+  <p class="mon-intro">
+    Theravāda monasteries known to meet two criteria: monks follow the Buddha's Vinaya rules in full (no money, no dinner, etc.) and accept the entire Pāḷi Tipiṭaka and its traditional explanations.<br>
+    Use the filters below to narrow the list by country, language, or area of focus. Click any column header to sort.
+  </p>
+
+  <!-- Filter bar -->
+  <div class="filter-bar">
+    <div class="filter-group">
+      <label for="f-country">Country</label>
+      <select id="f-country">
+        <option value="">All countries</option>
+        <option value="Myanmar">🇲🇲 Myanmar</option>
+        <option value="Sri Lanka">🇱🇰 Sri Lanka</option>
+        <option value="Thailand">🇹🇭 Thailand</option>
+      </select>
+    </div>
+
+    <div class="filter-group">
+      <label for="f-language">Language</label>
+      <select id="f-language">
+        <option value="">All languages</option>
+        <option value="English">English</option>
+        <option value="Sinhala">Sinhala</option>
+        <option value="Thai">Thai</option>
+        <option value="Burmese">Burmese</option>
+      </select>
+    </div>
+
+    <div class="filter-group">
+      <label for="f-focus">Focus</label>
+      <select id="f-focus">
+        <option value="">All focuses</option>
+        <option value="Meditation">Meditation</option>
+        <option value="Study">Study (general)</option>
+        <option value="Abhidhamma">Abhidhamma</option>
+        <option value="Vinaya">Vinaya</option>
+        <option value="Pāḷi">Pāḷi</option>
+        <option value="Seclusion">Seclusion</option>
+      </select>
+    </div>
+
+    <div class="filter-group">
+      <label for="f-search">Search</label>
+      <input type="text" id="f-search" placeholder="Type to search…">
+    </div>
+
+    <button class="btn-reset" id="btn-reset">✕ Reset</button>
+  </div>
+
+  <div class="result-count" id="result-count"></div>
+
+  <div class="mon-table-wrap">
+    <table class="mon-table" id="mon-table">
+      <thead>
+        <tr>
+          <th data-col="0">Monastery <span class="sort-icon"></span></th>
+          <th data-col="1">Country <span class="sort-icon"></span></th>
+          <th data-col="2">Language(s) <span class="sort-icon"></span></th>
+          <th data-col="3">Focus <span class="sort-icon"></span></th>
+          <th data-col="4">Notes</th>
+        </tr>
+      </thead>
+      <tbody>
+
+        <!-- ── Myanmar ── -->
+        <tr
+          data-country="Myanmar"
+          data-language=""
+          data-focus="Meditation Study">
+          <td><a class="mon-link" href="https://paauksociety.org/" target="_blank" rel="noopener">Pa Auk Meditation Center</a></td>
+          <td class="country-cell"><span class="flag">🇲🇲</span>Myanmar</td>
+          <td>—</td>
+          <td><span class="tag tag-focus">Meditation</span><span class="tag tag-focus">Study</span></td>
+          <td>Maymyo (Pyin Oo Lwin). Meditation center with attached Pariyatti study center. Several branch monasteries in Myanmar and abroad. <a class="mon-link" href="https://www.paaukthailand.org/en/paaukbranches/?hl=en-US" target="_blank" rel="noopener">Branch list</a>.</td>
+        </tr>
+
+        <tr
+          data-country="Myanmar"
+          data-language="Burmese"
+          data-focus="Study">
+          <td>Bārānasi Monastery</td>
+          <td class="country-cell"><span class="flag">🇲🇲</span>Myanmar</td>
+          <td><span class="tag tag-lang">Burmese</span></td>
+          <td><span class="tag tag-focus">Study</span></td>
+          <td>Mingaladon. Pariyatti center led by Bārānasi Sayadaw.</td>
+        </tr>
+
+        <tr
+          data-country="Myanmar"
+          data-language="Burmese"
+          data-focus="Study">
+          <td>Mahāvihāra</td>
+          <td class="country-cell"><span class="flag">🇲🇲</span>Myanmar</td>
+          <td><span class="tag tag-lang">Burmese</span></td>
+          <td><span class="tag tag-focus">Study</span></td>
+          <td>Hlegu &amp; Naypyitaw. Pariyatti center.</td>
+        </tr>
+
+        <tr
+          data-country="Myanmar"
+          data-language="Burmese"
+          data-focus="">
+          <td>Thantawpein Tawya</td>
+          <td class="country-cell"><span class="flag">🇲🇲</span>Myanmar</td>
+          <td><span class="tag tag-lang">Burmese</span></td>
+          <td>—</td>
+          <td>Naypyitaw.</td>
+        </tr>
+
+        <tr
+          data-country="Myanmar"
+          data-language="Burmese"
+          data-focus="">
+          <td>Ainsen Yua Ma</td>
+          <td class="country-cell"><span class="flag">🇲🇲</span>Myanmar</td>
+          <td><span class="tag tag-lang">Burmese</span></td>
+          <td>—</td>
+          <td>Yangon.</td>
+        </tr>
+
+        <!-- ── Sri Lanka ── -->
+        <tr
+          data-country="Sri Lanka"
+          data-language="English Sinhala"
+          data-focus="Study Pāḷi Abhidhamma Vinaya">
+          <td><a class="mon-link" href="https://www.theravado.com/" target="_blank" rel="noopener">International Institute of Theravāda</a></td>
+          <td class="country-cell"><span class="flag">🇱🇰</span>Sri Lanka</td>
+          <td><span class="tag tag-lang">English</span><span class="tag tag-lang">Sinhala</span></td>
+          <td><span class="tag tag-focus">Study</span><span class="tag tag-focus">Pāḷi</span><span class="tag tag-focus">Abhidhamma</span><span class="tag tag-focus">Vinaya</span></td>
+          <td>Rigorous monastic institute (24 classes + 2 exams/week). 6-year Nissayamuttaka Course (BA) and 2-year Parisupaṭṭhāpaka Course (MA). Covers Pāḷi, Abhidhamma, Suttanta, Vinaya.</td>
+        </tr>
+
+        <tr
+          data-country="Sri Lanka"
+          data-language="Sinhala"
+          data-focus="Meditation Study">
+          <td><a class="mon-link" href="https://nauyana.org/" target="_blank" rel="noopener">Na Uyana Forest Monastery</a></td>
+          <td class="country-cell"><span class="flag">🇱🇰</span>Sri Lanka</td>
+          <td><span class="tag tag-lang">Sinhala</span></td>
+          <td><span class="tag tag-focus">Meditation</span><span class="tag tag-focus">Study</span></td>
+          <td>Large forested area with three sections of varying seclusion. Optional classes mainly in Sinhala. Recommended guide: Bhante Ariyadassana.</td>
+        </tr>
+
+        <tr
+          data-country="Sri Lanka"
+          data-language="Sinhala"
+          data-focus="Study Vinaya Pāḷi Seclusion">
+          <td><a class="mon-link" href="https://www.google.com/search?kgmid=/g/11cm03kqsb&q=Ranagirilena+Aranya" target="_blank" rel="noopener">Ranagirilena Forest Monastery</a></td>
+          <td class="country-cell"><span class="flag">🇱🇰</span>Sri Lanka</td>
+          <td><span class="tag tag-lang">Sinhala</span></td>
+          <td><span class="tag tag-focus">Vinaya</span><span class="tag tag-focus">Pāḷi</span><span class="tag tag-focus">Study</span><span class="tag tag-focus">Seclusion</span></td>
+          <td>Diddeniya Rangirikanda Aranya Senasanaya. Focus on Vinaya and Pāḷi study, monastic training, and seclusion.</td>
+        </tr>
+
+        <!-- ── Thailand ── -->
+        <tr
+          data-country="Thailand"
+          data-language="Thai"
+          data-focus="Study Abhidhamma Vinaya Pāḷi Meditation">
+          <td><a class="mon-link" href="https://web.facebook.com/watkhaosanamchai" target="_blank" rel="noopener">Wat Khao Sanam Chai</a></td>
+          <td class="country-cell"><span class="flag">🇹🇭</span>Thailand</td>
+          <td><span class="tag tag-lang">Thai</span></td>
+          <td><span class="tag tag-focus">Abhidhamma</span><span class="tag tag-focus">Vinaya</span><span class="tag tag-focus">Pāḷi</span><span class="tag tag-focus">Meditation</span></td>
+          <td>Abbot: Bhante Chandako Mahāthero. Separate areas for study and meditation. Dhamma talks daily and on Uposatha days. Hilltop location near the ocean.</td>
+        </tr>
+
+        <tr
+          data-country="Thailand"
+          data-language="Thai"
+          data-focus="Study Vinaya Pāḷi">
+          <td><a class="mon-link" href="https://web.facebook.com/profile.php?id=100064135148599" target="_blank" rel="noopener">Wat Pa Thep Chakraphan Wanaram</a></td>
+          <td class="country-cell"><span class="flag">🇹🇭</span>Thailand</td>
+          <td><span class="tag tag-lang">Thai</span></td>
+          <td><span class="tag tag-focus">Vinaya</span><span class="tag tag-focus">Pāḷi</span><span class="tag tag-focus">Study</span></td>
+          <td>Ajahn Amon Chai Cāruvaṇṇo Mahāthero. Focus on memorization of the Bhikkhu Pātimokkha and Vinaya study. Located in a Tamarind forest.</td>
+        </tr>
+
+        <tr
+          data-country="Thailand"
+          data-language="Thai"
+          data-focus="Study Pāḷi">
+          <td><a class="mon-link" href="https://linktr.ee/watdontadhai" target="_blank" rel="noopener">Wat Don Tad Hai</a></td>
+          <td class="country-cell"><span class="flag">🇹🇭</span>Thailand</td>
+          <td><span class="tag tag-lang">Thai</span></td>
+          <td><span class="tag tag-focus">Pāḷi</span><span class="tag tag-focus">Study</span></td>
+          <td>Focus: study of Pāḷi.</td>
+        </tr>
+
+        <tr
+          data-country="Thailand"
+          data-language="Thai"
+          data-focus="Meditation Abhidhamma Study">
+          <td><a class="mon-link" href="https://share.google/C0znosxZvj8B6ft4K" target="_blank" rel="noopener">Buddha-Metta Meditation Practice Center</a></td>
+          <td class="country-cell"><span class="flag">🇹🇭</span>Thailand</td>
+          <td><span class="tag tag-lang">Thai</span></td>
+          <td><span class="tag tag-focus">Meditation</span><span class="tag tag-focus">Abhidhamma</span><span class="tag tag-focus">Study</span></td>
+          <td>Ajahn Bhurivaḍḍhako Mahāthero. Meditation and Abhidhamma courses.</td>
+        </tr>
+
+        <tr
+          data-country="Thailand"
+          data-language="Thai"
+          data-focus="Study Abhidhamma">
+          <td><a class="mon-link" href="https://share.google/g6vptXj98qZUzjRth" target="_blank" rel="noopener">Wat Pho Than Phra</a></td>
+          <td class="country-cell"><span class="flag">🇹🇭</span>Thailand</td>
+          <td><span class="tag tag-lang">Thai</span></td>
+          <td><span class="tag tag-focus">Abhidhamma</span><span class="tag tag-focus">Study</span></td>
+          <td>Ajahn Su Phon Suciṇṇo Mahāthero. Focus on Abhidhamma study.</td>
+        </tr>
+
+        <tr
+          data-country="Thailand"
+          data-language="Thai"
+          data-focus="Study Abhidhamma Vinaya Pāḷi">
+          <td><a class="mon-link" href="https://web.facebook.com/prathatsammuan/" target="_blank" rel="noopener">Wat Phra That Nong Sam Muen</a></td>
+          <td class="country-cell"><span class="flag">🇹🇭</span>Thailand</td>
+          <td><span class="tag tag-lang">Thai</span></td>
+          <td><span class="tag tag-focus">Abhidhamma</span><span class="tag tag-focus">Vinaya</span><span class="tag tag-focus">Pāḷi</span><span class="tag tag-focus">Study</span></td>
+          <td>Abbot: Ajahn Phan Kavisaro Mahāthero. Vinaya: Ajahn Phlun Chai Dhammavaro Mahāthero. Pāḷi: Ajahn Am Phon Ābhassaro Mahāthero.</td>
+        </tr>
+
+      </tbody>
+    </table>
+  </div>
+
+  <div id="no-results" style="padding:1.5rem;text-align:center;color:#aaa;font-style:italic;display:none;">
+    No monasteries match the selected filters.
+  </div>
+
+</div><!-- .mon-wrap -->
+
+<script>
+(function () {
+  const rows = Array.from(document.querySelectorAll('#mon-table tbody tr'));
+  const fCountry  = document.getElementById('f-country');
+  const fLanguage = document.getElementById('f-language');
+  const fFocus    = document.getElementById('f-focus');
+  const fSearch   = document.getElementById('f-search');
+  const btnReset  = document.getElementById('btn-reset');
+  const countEl   = document.getElementById('result-count');
+  const noResults = document.getElementById('no-results');
+
+  function applyFilters() {
+    const country  = fCountry.value.trim().toLowerCase();
+    const language = fLanguage.value.trim().toLowerCase();
+    const focus    = fFocus.value.trim().toLowerCase();
+    const search   = fSearch.value.trim().toLowerCase();
+
+    let visible = 0;
+
+    rows.forEach(function (row) {
+      const rCountry  = (row.dataset.country  || '').toLowerCase();
+      const rLanguage = (row.dataset.language || '').toLowerCase();
+      const rFocus    = (row.dataset.focus    || '').toLowerCase();
+      const rText     = row.textContent.toLowerCase();
+
+      const matchCountry  = !country  || rCountry === country;
+      const matchLanguage = !language || rLanguage.includes(language);
+      const matchFocus    = !focus    || rFocus.includes(focus);
+      const matchSearch   = !search   || rText.includes(search);
+
+      const show = matchCountry && matchLanguage && matchFocus && matchSearch;
+      row.classList.toggle('hidden', !show);
+      if (show) visible++;
+    });
+
+    const total = rows.length;
+    countEl.textContent = visible === total
+      ? 'Showing all ' + total + ' monasteries'
+      : 'Showing ' + visible + ' of ' + total + ' monasteries';
+
+    noResults.style.display = visible === 0 ? 'block' : 'none';
+  }
+
+  // Sorting
+  let sortCol = -1, sortAsc = true;
+  const ths = document.querySelectorAll('#mon-table thead th[data-col]');
+  const tbody = document.querySelector('#mon-table tbody');
+
+  ths.forEach(function (th) {
+    th.addEventListener('click', function () {
+      const col = parseInt(th.dataset.col, 10);
+      if (col === 4) return; // Notes column not sortable
+      if (sortCol === col) {
+        sortAsc = !sortAsc;
+      } else {
+        sortCol = col;
+        sortAsc = true;
+      }
+
+      ths.forEach(function (h) { h.classList.remove('sorted-asc', 'sorted-desc'); });
+      th.classList.add(sortAsc ? 'sorted-asc' : 'sorted-desc');
+
+      const sorted = [...rows].sort(function (a, b) {
+        const aText = a.cells[col] ? a.cells[col].textContent.trim() : '';
+        const bText = b.cells[col] ? b.cells[col].textContent.trim() : '';
+        return sortAsc
+          ? aText.localeCompare(bText, undefined, { sensitivity: 'base' })
+          : bText.localeCompare(aText, undefined, { sensitivity: 'base' });
+      });
+
+      sorted.forEach(function (row) { tbody.appendChild(row); });
+      applyFilters();
+    });
+  });
+
+  [fCountry, fLanguage, fFocus, fSearch].forEach(function (el) {
+    el.addEventListener('input', applyFilters);
+    el.addEventListener('change', applyFilters);
+  });
+
+  btnReset.addEventListener('click', function () {
+    fCountry.value  = '';
+    fLanguage.value = '';
+    fFocus.value    = '';
+    fSearch.value   = '';
+    applyFilters();
+  });
+
+  applyFilters();
+})();
+</script>
