@@ -134,6 +134,15 @@ This is mainly a meditation center with some optional classes, mainly in Sinhala
 #### [**Diddeniya Rangirikanda Aranya Senasanaya (Ranagirilena Forest Monastery)**](https://www.google.com/search?client=tablet-android-huawei-rev1&hs=he7p&sca_esv=71a377e1d78119b4&cs=0&output=search&kgmid=/g/11cm03kqsb&q=Ranagirilena+Aranya&shem=epsd1,ltac,rimspwouoe&shndl=30&source=sh/x/loc/act/m1/6&kgs=de9c31c82cf4c870&utm_source=epsd1,ltac,rimspwouoe,sh/x/loc/act/m1/6)
 Focus: study of Vinaya and Pāḷi, monastic training, and seclusion
 
+
+<!-- 
+Diyatalawa monestry - Diyatalawa, 
+Kahagolla , Diyathalawa aranya…
+Saddhatissa maha Viharaya: Katukeliyawa, Anuradhapura
+Chitta Vivekasramaya - (Ampitiya) Kandy,
+Nauyana Dharmayatanaya
+-->
+
 ### 🇹🇭 Thailand
 
 #### [Wat Khao Sanam Chai](https://web.facebook.com/watkhaosanamchai)

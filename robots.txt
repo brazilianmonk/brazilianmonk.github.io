@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://brazilianmonk.github.io/sitemap.xml
