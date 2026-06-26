@@ -143,7 +143,17 @@ Chitta Vivekasramaya - (Ampitiya) Kandy,
 Nauyana Dharmayatanaya
 Polgasduwa Island Hermitage
 sihanada 
-muttidaya
+muttidaya Muttidāya 解脱林
+
+meditation
+
+website：https://mp.weixin.qq.com/s/CMtiGGgVPBNoFRQEg9yDNw
+
+sri lanka
+1. Diyatalawa monestry - Diyatalawa, 
+2. Saddatissa maha Viharaya- Anuradhapura, 
+3. Chitta vivekasramaya - (Ampitiya) Kandy,
+There are also many monasteries that exist according to the Dhamma and Vinaya. I will inform you later.
 -->
 
 
