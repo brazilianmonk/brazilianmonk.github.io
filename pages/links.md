@@ -105,16 +105,22 @@ Pariyatti center
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
-<!-- 
-1. Mahāvihāra - Hmawbi 
-2. ⁠Mahavihāra - Hlegu 
-3. ⁠Mahāvihāra - Nepidaw 
-4. ⁠Bārāņasi monastery 
-5. ⁠Yadana Pangon - Shewpyithar 
-6. ⁠Dhamma Vinaya Monastery - Thaton 
-7. ⁠Ee Chantha ya - Kayin 
-(From Myanmar) 
--->
+#### [**Mahāvihāra** (Hmawbi)](http://www.mdumyanmar.org/)
+Pariyatti center and Dhamma-Vinaya University
+
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+
+#### **Yadana Pangon** (Shwepyithar)
+
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+
+#### **Dhamma Vinaya Monastery** (Thaton)
+
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+
+#### **Ee Chantha Ya** (Kayin)
+
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 ### 🇱🇰 Sri Lanka
 
 #### [**International Institute of Theravāda**](https://www.theravado.com/)
@@ -135,14 +141,28 @@ This is mainly a meditation center with some optional classes, mainly in Sinhala
 Focus: study of Vinaya and Pāḷi, monastic training, and seclusion
 
 
-<!-- 
-Diyatalawa monestry - Diyatalawa, 
-Kahagolla , Diyathalawa aranya…
-Saddhatissa maha Viharaya: Katukeliyawa, Anuradhapura
-Chitta Vivekasramaya - (Ampitiya) Kandy,
-Nauyana Dharmayatanaya
-Polgasduwa Island Hermitage
--->
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+
+#### **Kahagolla Aranya Senasanaya** (Diyatalawa)
+
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+
+#### **Saddhatissa Maha Viharaya** (Katukeliyawa, Anuradhapura)
+
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+
+#### **Chiththa Vivekashramaya** (Ampitiya, Kandy)
+
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+
+#### [**Na Uyana Dharmayatanaya**](https://nauyana.org/)
+Study center of Na Uyana Forest Monastery
+
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+
+#### [**Island Hermitage**](https://en.wikipedia.org/wiki/Island_Hermitage) (Polgasduwa)
+
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
 
 ### 🇹🇭 Thailand
