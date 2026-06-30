@@ -144,20 +144,23 @@ This is mainly a meditation center with some optional classes, mainly in Sinhala
 Focus: study of Vinaya and Pāḷi, monastic training, and seclusion
 
 
-<<<<<<< HEAD
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+
 
 #### **Saddhatissa Mahā Vihāraya** (Katukeliyawa, Anuradhapura)
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
-<!-- recommende by V. Ratanasāra -->
+
+
+<!-- recommended by V. Ratanasāra -->
+
 #### **Diyatalawa Viharaya** (Diyatalawa)
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 <!-- recommende by V. Ratanasāra -->
 #### **Chiththa Vivekashramaya** (Ampitiya, Kandy)
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
-<!-- recommende by V. Ratanasāra -->
+<!-- recommended by V. Ratanasāra -->
 #### [**Na Uyana Dharmayatanaya**](https://nauyana.org/)
 Study center of Na Uyana Forest Monastery.
 
