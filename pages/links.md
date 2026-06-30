@@ -216,10 +216,7 @@ Monastery separated into two areas: one for study (mainly abhidhamma, vinaya, an
 - Focus: study Pāḷi, Abhidhamma, Vinaya
 - Note: Responsible for the translation of the Tipiṭaka into Lao language.
 
-<-- !
-Here are the romanized names without the original script.
-Regarding their websites: Most local Buddhist monasteries (*Wats*) or meditation hermitages (*Asrom*) in Cambodia do not maintain official independent websites. Instead, their active online presence is almost exclusively hosted via **official Facebook Pages** or community-run Facebook groups where they share festival dates, construction updates, and daily alms schedules.
-To look them up online, searching the romanized name directly on Facebook or Google Maps will yield the best results.
+### 🇰🇭 Cambodia 
  1. Wat Nikrodhavan Kol Toteung
  2. Wat Sovann Botum (Hao Chambak Meas)
  3. Wat Visothimeak
@@ -297,7 +294,6 @@ To look them up online, searching the romanized name directly on Facebook or Goo
  75. Wat Muchalin
  76. Wat Phkay Pruk
  77. Wat Veluvan Koh Thom
--->
 
 
 ## 🧠 Modern Research
