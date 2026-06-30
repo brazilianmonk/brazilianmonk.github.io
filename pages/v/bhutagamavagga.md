@@ -4,7 +4,6 @@ title: "Bhūtagāmavagga"
 permalink: /summaries/vinaya/vibhanga/pacittiya/bhutagamavagga
 ---
 
-# Bhūtagāmavagga
 ## 11 - Bhūtagāmasikkhāpada 
 
 > **Bhūtagāmapātabyatāya, pācittiyaṃ.**  

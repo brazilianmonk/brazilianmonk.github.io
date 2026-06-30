@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Musāvādavaggo (The Chapter on False Speech)"
+title: "Musāvādavagga"
 permalink: /summaries/vinaya/vibhanga/pacittiya/musavadavagga
 ---
 
