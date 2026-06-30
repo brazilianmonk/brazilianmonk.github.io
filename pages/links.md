@@ -216,6 +216,90 @@ Monastery separated into two areas: one for study (mainly abhidhamma, vinaya, an
 - Focus: study Pāḷi, Abhidhamma, Vinaya
 - Note: Responsible for the translation of the Tipiṭaka into Lao language.
 
+<-- !
+Here are the romanized names without the original script.
+Regarding their websites: Most local Buddhist monasteries (*Wats*) or meditation hermitages (*Asrom*) in Cambodia do not maintain official independent websites. Instead, their active online presence is almost exclusively hosted via **official Facebook Pages** or community-run Facebook groups where they share festival dates, construction updates, and daily alms schedules.
+To look them up online, searching the romanized name directly on Facebook or Google Maps will yield the best results.
+ 1. Wat Nikrodhavan Kol Toteung
+ 2. Wat Sovann Botum (Hao Chambak Meas)
+ 3. Wat Visothimeak
+ 4. Wat Thommochak Putharam
+ 5. Reasmey Sophornaram (Hao Wat Sanlung)
+ 6. Wat Nikrodharam Chamcha
+ 7. Wat Popea Kraom
+ 8. Wat Kunthakut
+ 9. Wat Puthmondol Atharosa
+ 10. Wat Puthmondol Kep
+ 11. Wat Reasmey Samaki
+ 12. Wat Koh Sokram
+ 13. Sala Sakyaput Intercheat *(Sakyaputta International School)*
+ 14. Wat Veluvan Prei Russei
+ 15. Wat Ampavan Prei Svay
+ 16. Wat Sansam Kosal Kirikoroth
+ 17. Wat Kosing Salavan
+ 18. Wat Ou Domrei
+ 19. Wat Mohavihar Seitavan
+ 20. Wat Sla Ket
+ 21. Wat Sna Pi Muk
+ 22. Wat Kalyani Tuol Tnaot Chum
+ 23. Wat Svay Dongkom
+ 24. Wat Phnom Andaek
+ 25. Wat Phnom Krapeu
+ 26. Wat Muk Chnieng
+ 27. Wat Chan Ta Kream
+ 28. Wat Kirirom Chas
+ 29. Wat Ariyaphol (Phnom Neang Lem)
+ 30. Wat Tip Vimean
+ 31. Wat Phnom Ta Meak
+ 32. Wat Phnom Preah Put
+ 33. Wat Khantei (Moung Russei)
+ 34. Wat Mony Roth
+ 35. Wat Ou Chuob
+ 36. Wat Outor Varei (Koun Trei)
+ 37. Wat Trapeang Kong
+ 38. Wat Prei Banoy
+ 39. Wat Banteay Yomoreach
+ 40. Wat Sala Tnob
+ 41. Wat Ariyasomaphi (Koun Tnaot)
+ 42. Wat Ta Dok
+ 43. Wat Ampil
+ 44. Wat Prei Chaenh
+ 45. Wat Phnom Singha
+ 46. Wat Boeng Ta EV (Phnom Kulen)
+ 47. Wat Preah Put Ghosachar
+ 48. Wat Thommanatavan (Koh Thom)
+ 49. Wat Traai Leak Khena Nhean
+ 50. Wat L-ang Phnom Ta Kream
+ 51. Wat Thommanatavan (Asrom) Srok Boribor, Khet Kampong Chhnang
+ 52. Noi Wat Chambak Meanchey *(At Wat Chambak Meanchey)*
+ 53. Wat Bongkoal Kei, Kampong Chhnang
+ 54. Wat Phnom Ta Meak
+ 55. Wat Steung Domrei Chlong
+ 56. Wat Tuol Tnaot Chum
+ 57. Wat Kantuy Krapeu (Battambang)
+ 58. Wat Preah Theat Chas (Kampong Cham)
+ 59. Wat Bodhi Prochumchon (Kampong Cham)
+ 60. Wat Set Botum Hao Reasmey Chhouk Sor
+ 61. Wat Koh Khsach
+ 62. Wat Veal Sbov Mongkol
+ 63. Wat Sovann Mayura Hao Kngok Meas
+ 64. Wat Tuol Samaphi (Khet Prey Veng, Chit Neak Loeung)
+ 65. Wat Mony Rottanaram (Khet Prey Veng)
+ 66. Wat Prei Robong (Kampong Speu)
+ 67. Wat Tuol Samraong (Phnom Penh)
+ 68. Wat Thommavan
+ 69. Thommanatavan
+ 70. Wat Reasmey Chhouk Sor, Khet Pursat
+ 71. Wat Trai Sikharam
+ 72. Wat Ampavan Outyean Chamkar Svay (Kampong Speu)
+ 73. Wat Chambak Meanchey
+ 74. Wat Ariyameakkaram Dom Dek
+ 75. Wat Muchalin
+ 76. Wat Phkay Pruk
+ 77. Wat Veluvan Koh Thom
+-->
+
+
 ## 🧠 Modern Research
 
 ### [**Harvard / MGH Meditation Research Program**](https://meditation.mgh.harvard.edu/)
