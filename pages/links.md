@@ -70,18 +70,20 @@ Centro de meditação e estudo Theravāda em São Paulo, Brasil.
 
 ## 🏛️ Monasteries
 
-📊 **[View the interactive monastery table →](/monasteries)** — filter by country, language, and area of focus.
+📊 **[View the complete interactive monastery table →](/monasteries)** — filter by country, language, and area of focus.
 
 List of Theravāda monasteries that I or close friends know to meet the following requirements:
 - monks follow the Buddha's rules in full (do not accept money or have dinner, recite the pātimokkha, etc.)
 - accept the entire Pāḷi Tipiṭaka and it's traditional explanations (the entire body of the Buddha's teachings with it's original meaning)
+- teach / practice accordingly
+
+Below is a list of *highlights*. For the complete list, click the link above. 
 
 ### 🇲🇲 Myanmar
-
 #### [**Pa Auk Meditation Center**](https://paauksociety.org/)
 <img src="/assets/img/paauk.jpg" alt="" style="width: 80%;">
 
-This is the Pa Auk monastery in Maymyo, Myanmar, where I ordained and spent about 7 years. It is a meditation center but also has an attached pariyatti center (for traditional Dhamma studies). There are other Pa Auk centers, several in Myanmar, such as in Mawlamyine (the very first), and in a few other countries.
+This is the Pa Auk monastery in Maymyo, Myanmar, where I ordained and spent about 7 years. It is a meditation center but also has an attached pariyatti center (for traditional Dhamma studies). There are other Pa Auk centers, several in Myanmar, such as in Mawlamyine (the very first), and in a few other countries. Check the list below:
 
 [List of Pa Auk Branches](https://www.paaukthailand.org/en/paaukbranches/?hl=en-US)
 
@@ -91,20 +93,20 @@ This is the Pa Auk monastery in Maymyo, Myanmar, where I ordained and spent abou
 Pariyatti center led by Bārānasi Sayadaw
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
-
+<!-- recommended by V. Atthadassi -->
 #### **Mahāvihāra** (Hlegu, Naypyitaw)
 Pariyatti center
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
-
+<!-- recommended by V. Atthadassi, Siddhattha -->
 #### **Thantawpein Tawya** (Naypyitaw)
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
-
+<!-- recommended by V. Atthadassi -->
 #### **Ainsen Yua Ma** (Yangon)
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
-
+<!-- recommended by V. Atthadassi -->
 #### [**Mahāvihāra** (Hmawbi)](http://www.mdumyanmar.org/)
 Pariyatti center and Dhamma-Vinaya University
 
@@ -113,16 +115,17 @@ Pariyatti center and Dhamma-Vinaya University
 #### **Yadana Pangon** (Shwepyithar)
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
-
+<!-- recommended by V. Siddhattha -->
 #### **Dhamma Vinaya Monastery** (Thaton)
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
-
+<!-- recommended by V. Siddhattha -->
 #### **Ee Chantha Ya** (Kayin)
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
-### 🇱🇰 Sri Lanka
 
+<!-- recommended by V. Siddhattha -->
+### 🇱🇰 Sri Lanka
 #### [**International Institute of Theravāda**](https://www.theravado.com/)
 <img src="/assets/img/iit.jpg" alt="" style="width: 60%;">
 
@@ -144,29 +147,27 @@ Focus: study of Vinaya and Pāḷi, monastic training, and seclusion
 <<<<<<< HEAD
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
-#### **Kahagolla Aranya Senasanaya** (Diyatalawa)
+#### **Saddhatissa Mahā Vihāraya** (Katukeliyawa, Anuradhapura)
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
-
-#### **Saddhatissa Maha Viharaya** (Katukeliyawa, Anuradhapura)
-
+<!-- recommende by V. Ratanasāra -->
+#### **Diyatalawa Viharaya** (Diyatalawa)
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
-
+<!-- recommende by V. Ratanasāra -->
 #### **Chiththa Vivekashramaya** (Ampitiya, Kandy)
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
-
+<!-- recommende by V. Ratanasāra -->
 #### [**Na Uyana Dharmayatanaya**](https://nauyana.org/)
-Study center of Na Uyana Forest Monastery
+Study center of Na Uyana Forest Monastery.
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
-#### [**Island Hermitage**](https://en.wikipedia.org/wiki/Island_Hermitage) (Polgasduwa)
+#### [**Polgasduwa Island Hermitage**](https://en.wikipedia.org/wiki/Island_Hermitage) (Polgasduwa)
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
 ### 🇹🇭 Thailand
-
 #### [Wat Khao Sanam Chai](https://web.facebook.com/watkhaosanamchai)
 
 - Abbot: Bhante Chandako Mahāthero
