@@ -141,6 +141,7 @@ This is mainly a meditation center with some optional classes, mainly in Sinhala
 Focus: study of Vinaya and Pāḷi, monastic training, and seclusion
 
 
+<<<<<<< HEAD
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
 #### **Kahagolla Aranya Senasanaya** (Diyatalawa)
@@ -163,7 +164,6 @@ Study center of Na Uyana Forest Monastery
 #### [**Island Hermitage**](https://en.wikipedia.org/wiki/Island_Hermitage) (Polgasduwa)
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
-
 
 ### 🇹🇭 Thailand
 
