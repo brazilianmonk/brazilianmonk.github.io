@@ -1,10 +1,8 @@
-### **The Path to Mental Purification: From Shadows to Light**
-
-Many of you know me as a former flamenco dancer who lived and worked here in Madrid for seven years [1]. While my career was successful, I felt a deep void, a lack of a more meaningful happiness [1, 2]. This search led me to India and eventually to Myanmar and Sri Lanka, where I began to study the internal mechanics of the mind as taught in the Buddhist tradition [1, 3]. To understand how to cultivate a truly happy mind, we must first understand what obscures it.
+### The "Good" and the "Bad"
 
 #### **The Anatomy of the "Bad": The Three Levels of Impurities**
 
-In Buddhism, "good" and "bad" are not material things; they are **mental states** [4, 5]. The "bad" or unwholesome states are rooted in three factors: **Lobha** (greed/attachment), **Dosa** (aversion/anger), and **Moha** (ignorance/delusion) [4, 6, 7]. These are the "roots" that keep our mental suffering fixed and stable [6].
+In Buddhism, "good" and "bad" are not material things; they are **mental states**. The "bad" or unwholesome states are rooted in three factors: **Lobha** (greed/attachment), **Dosa** (aversion/anger), and **Moha** (ignorance/delusion). These are the mental factors that act as unwholesome roots that keep our mental suffering fixed and stable [6].
 
 These impurities, known as *kilesas*, do not always appear in the same way. They exist within us in three distinct levels of intensity:
 
