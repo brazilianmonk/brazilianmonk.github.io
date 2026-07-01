@@ -6,7 +6,7 @@ permalink: /contact
 
 If you wish to contact me, please send me an email with this form below, or a message through one of the social media links at the bottom.
 
-Events / Retreats
+**Events / Retreats**
 
 🇬🇧 For those interested in organizing an event or retreat, please note that travel expenses, including international, are greatly reduced and mostly, if not all, covered by the generosity of a donor.
 
