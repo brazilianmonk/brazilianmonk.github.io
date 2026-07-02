@@ -1,17 +1,13 @@
-# Comprehensive Guide to White Kasina (Odātakasiṇa) Meditation
-
-This document organizes the guidance provided by the Brazilian Monk Ariyañāṇa regarding the development, practice, and stages of White Kasina (*Odātakasiṇa*) meditation.
-
----
-
-## 1. Ethical and Philosophical Prerequisites
+# Comprehensive Guide to Kasiṇa Meditation
+## Purpose of this Practice
+## Ethical and Philosophical Prerequisites
 To achieve success in this practice, specific foundational requirements must be met to prevent unwholesome states and allow the mind to develop subtler, wholesome qualities:
 * **The Five Precepts:** The practitioner must follow at least the five precepts. Refraining from unwholesome actions is essential because those actions prevent the mind from developing more stable and subtler mental states [cite: 1].
 * **Kammassakatañāṇa (Understanding of Kamma):** The practitioner must believe that actions produce results in the future according to their inherent nature [cite: 2, 3]. This understanding forms the right view necessary to support deep meditation.
 
 ---
 
-## 2. Setup of the External Object (Parikamma)
+## Setup of the External Object (Parikamma)
 The physical setup of the external disk, known as the *parikamma*, serves as the initial basis for concentration [cite: 98]:
 * **Dimensions and Material:** The disk should ideally be white and about 30 cm in diameter (roughly equivalent to one span and four fingers) [cite: 7, 9]. It can be made digitally on a sufficiently large screen or TV (which is advantageous as it is free from physical imperfections), or physically using paper, cloth, or any other clean white material [cite: 8, 9].
 * **Sizing Adjustments:** While a 30 cm disk is standard, making it larger tends to be better [cite: 11]. If the disk is smaller, it can still be used as an object but must be positioned closer to the meditator [cite: 12, 14].
@@ -20,7 +16,7 @@ The physical setup of the external disk, known as the *parikamma*, serves as the
 
 ---
 
-## 3. The Practice Method and Visual Evolution
+## The Practice Method and Visual Evolution
 The core technique relies on transitioning from physical sight to mental recollection.
 
 ### Initial Practice Technique
@@ -45,7 +41,7 @@ The core technique relies on transitioning from physical sight to mental recolle
 
 ---
 
-## 4. Intensities of Concentration (Samādhi)
+## Intensities of Concentration (Samādhi)
 The Kasina practice progresses through three distinct intensities of concentration:
 1. **Parikamma Samādhi (Preliminary Concentration):** The level of concentration developed from the initial viewing of the external object and during the experience of the *uggaha nimitta*, lasting up until the *paṭibhāga nimitta* is first produced [cite: 105].
 2. **Upacāra Samādhi (Neighborhood/Access Concentration):** Attained precisely when the *paṭibhāganimitta* is produced [cite: 103]. Here, the *paṭibhāganimitta* becomes the primary object of concentration prior to entering full absorption [cite: 104, 105].
@@ -53,7 +49,7 @@ The Kasina practice progresses through three distinct intensities of concentrati
 
 ---
 
-## 5. Balancing Effort, Intention, and Posture
+## Balancing Effort, Intention, and Posture
 Deepening concentration requires an advanced understanding of effort, shifting from active manipulation to subtle allowance.
 
 ### The Dynamics of Effort
@@ -67,7 +63,7 @@ Deepening concentration requires an advanced understanding of effort, shifting f
 
 ---
 
-## 6. Navigating Obstacles, Emotions, and Expectations
+## Navigating Obstacles, Emotions, and Expectations
 * **Fluctuations in Joy (Pīti):** It is completely normal if rapture (*pīti*) is absent at times. Joy and internal experiences will fluctuate heavily throughout the development process [cite: 41].
 * **The Illusion of Defilements:** Facing severe difficulties or experiencing an unstable image does not mean your mind is uniquely filled with defilements; even an *arahat* practicing without prior worldly jhanas (*lokiyajhānas*) would experience these identical development steps and instabilities [cite: 32, 33].
 * **Anxiety and Self-Consciousness:** Properly executed meditation decreases anxiety [cite: 90]. However, as mindfulness, moral shame, and moral fear are enhanced, you become highly self-conscious and aware of your own faults, past missteps, and subtle distractions [cite: 92]. If wrongly attended to, this newfound sensitivity can feel like a loss of peace or cause temporary worry [cite: 92, 94]. Accept these insights, correct your conduct, and let the mind settle into deeper purity [cite: 95, 97].
