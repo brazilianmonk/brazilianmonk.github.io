@@ -298,7 +298,20 @@ Monastery separated into two areas: one for study (mainly abhidhamma, vinaya, an
  76. Wat Phkay Pruk
  77. Wat Veluvan Koh Thom
 
+<!-- 
+1) Dhamma Earth meditation center Malaysia 
+Bhante Mangala 
 
+2) Nandaka Vihāra meditation center Malaysia 
+
+Bhante Dhamma subo
+ 
+3) Vipassana dura meditation center 
+Cambodia 
+
+4) Dhammarakkhita Cetiya learning temple 
+Thailand
+-->
 ## 🧠 Modern Research
 
 ### [**Harvard / MGH Meditation Research Program**](https://meditation.mgh.harvard.edu/)
