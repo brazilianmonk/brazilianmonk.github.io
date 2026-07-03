@@ -342,5 +342,8 @@ A global leader in integrating Mindfulness-Based Cognitive Therapy (MBCT) into m
 ### [**Max Planck Institute for Human Cognitive and Brain Sciences**](https://www.cbs.mpg.de)
 Conducts large-scale longitudinal studies mapping the long-term physiological and structural brain impacts of mental training and meditation.
 
+### [**The Division of Perceptual Studies**](https://med.virginia.edu/perceptual-studies/)
+Scientific studies on past-lives and extraordinary human experiences and capacities. 
+
 ---
 {% include toc.html %}
