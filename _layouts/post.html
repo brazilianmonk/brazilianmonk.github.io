@@ -52,3 +52,7 @@ layout: default
     {% include disqus.html %}
   {% endif %}
 </div>
+
+{% if page.show_monk %}
+  {% include scrolling-monk.html %}
+{% endif %}
