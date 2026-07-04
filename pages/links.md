@@ -44,6 +44,8 @@ Study tool designed by Bhante Yuttadhammo for reading, searching within, and ana
 
 Un proyecto de traducción del Digital Pāḷi Dictionary (Bhante Sri Lanka Bodhirasa) al Español liderado por Bhante Rāhula del [Monasterio Paññabhūmi](https://dhamma-pb.org/).
 
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+
 ### [**Ancient Buddhist Texts**](https://ancient-buddhist-texts.net/index.htm) (website)
 <img src="/assets/img/abt.png" alt="description" style="width: 50%;">
 
@@ -63,6 +65,8 @@ Esse site liderado por [Michael Beisert](https://www.acessoaoinsight.net/arquivo
 ### [**Sociedade Buddhista do Brasil**](https://sociedadebudistadobrasil.org/)
 
 Grupo de praticantes Theravāda no RJ. 
+
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
 ### [**Casa De Dharma**](https://casadedharmaorg.org/) (website, center)
 <img src="/assets/img/casadedharma.png" alt="description" style="width: 50%;">
