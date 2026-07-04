@@ -40,6 +40,10 @@ Study tool designed by Bhante Yuttadhammo for reading, searching within, and ana
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
+### [Digital Pāḷi Dictionary en Español](https://dhamma-pb.org/dpd-espanol/)
+
+Un proyecto de traducción del Digital Pāḷi Dictionary (Bhante Sri Lanka Bodhirasa) al Español liderado por Bhante Rāhula del [Monasterio Paññabhūmi](https://dhamma-pb.org/).
+
 ### [**Ancient Buddhist Texts**](https://ancient-buddhist-texts.net/index.htm) (website)
 <img src="/assets/img/abt.png" alt="description" style="width: 50%;">
 
