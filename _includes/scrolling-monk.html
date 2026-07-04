@@ -5,12 +5,12 @@
 <style>
   #scroll-track {
     position: fixed;
-    bottom: 15px;
+    bottom: 15px; /* Adjust this to move him higher or lower */
     left: 0;
     width: 100%;
     height: 50px;
     z-index: 9999;
-    pointer-events: none; /* Let users click elements behind the track */
+    pointer-events: none; 
   }
 
   #monk {
@@ -19,49 +19,36 @@
     left: 0%;
     font-size: 40px;
     line-height: 1;
-    will-change: left; /* Optimizes browser rendering performance */
-  }
-
-  /* The walking/bobbing animation */
-  .walking {
-    animation: monkBob 0.6s infinite ease-in-out;
-  }
-
-  @keyframes monkBob {
-    0%, 100% { transform: translateY(0) scaleX(1); }
-    50% { transform: translateY(-10px) scaleX(0.95); } /* Bounces up and compresses slightly */
+    will-change: left;
+    /* Smooths out tiny scrolls; remove if you want instant tracking */
+    transition: left 0.1s ease-out; 
   }
 </style>
 
 <script>
   document.addEventListener("DOMContentLoaded", function () {
     const monk = document.getElementById('monk');
-    let isScrolling;
 
     window.addEventListener('scroll', () => {
       const scrollTop = window.scrollY;
       const docHeight = document.documentElement.scrollHeight - window.innerHeight;
       
-      // Safety check for short pages that don't scroll
       if (docHeight <= 0) return;
 
       const scrollPercent = scrollTop / docHeight;
       
-      // Keep a 5% margin so the emoji doesn't clip off the right edge
-      const maxMove = 95; 
-      const currentPosition = scrollPercent * maxMove;
+      // Get the exact width of the monk emoji dynamically (usually around 40px)
+      const monkWidth = monk.offsetWidth || 40; 
       
-      // Update position
-      monk.style.left = `${currentPosition}%`;
+      // Calculate total available walking space (Screen Width minus Monk Width)
+      const maxMovePixels = window.innerWidth - monkWidth;
       
-      // Add walking animation class
-      monk.classList.add('walking');
+      // Calculate his current position in pixels
+      const currentPositionPx = scrollPercent * maxMovePixels;
       
-      // Stop the animation shorty after scrolling ceases
-      window.clearTimeout(isScrolling);
-      isScrolling = setTimeout(() => {
-        monk.classList.remove('walking');
-      }, 150);
-    }, { passive: true }); // Passive listener improves scroll performance
+      // Move the monk precisely using pixels so he never overflows
+      monk.style.left = `${currentPositionPx}px`;
+      
+    }, { passive: true });
   });
 </script>
