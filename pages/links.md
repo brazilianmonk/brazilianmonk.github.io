@@ -134,7 +134,9 @@ Pariyatti center and Dhamma-Vinaya University
 #### **Dhamma Vinaya Monastery** (Thaton)
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+
 <!-- recommended by V. Siddhattha -->
+
 #### **Ee Chantha Ya** (Kayin)
 
 <!-- recommended by V. Siddhattha -->
