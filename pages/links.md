@@ -227,8 +227,6 @@ Monastery separated into two areas: one for study (mainly abhidhamma, vinaya, an
 - Leaders: Ajahn Phan Kavisaro Mahāthero (Abbot), Ajahn Phlun Chai Dhammavaro Mahāthero (Vinaya), Ajahn Am Phon Ābhassaro Mahāthero (Pāḷi)
 - Focus: study of Abhidhamma, Vinaya, and Pāḷi
 
----
-
 ### 🇱🇦 Laos
 #### [**Wat Pa Nakham**](https://web.facebook.com/p/%E0%BA%A7%E0%BA%B1%E0%BA%94%E0%BA%9B%E0%BB%88%E0%BA%B2%E0%BA%99%E0%BA%B2%E0%BA%82%E0%BA%B2%E0%BA%A1-%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B8%A1-100070671601057/?_rdc=1&_rdr)
 - Leader: Ajahn Sam Tejavaro
