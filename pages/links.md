@@ -80,10 +80,11 @@ Centro de meditação e estudo Theravāda em São Paulo, Brasil.
 
 📊 **[View the complete interactive monastery table →](/monasteries)** — filter by country, language, and area of focus.
 
-List of Theravāda monasteries that I or close friends know to meet the following requirements:
-- monks follow the Buddha's rules in full (do not accept money or have dinner, recite the pātimokkha, etc.)
-- accept the entire Pāḷi Tipiṭaka and it's traditional explanations (the entire body of the Buddha's teachings with it's original meaning)
-- teach / practice accordingly
+List of Theravāda monasteries that I or close friends know to meet the following criteria:
+
+- monks follow the Buddha's rules in full (e.g.: do not accept money or have dinner, recite the pātimokkha, etc.)
+- accept the entire Pāḷi Tipiṭaka and it's traditional explanations (the entire body of the Buddha's teachings with it's original meaning as per the saṅgāyanas)
+- teach / practice accordingly 
 
 Below is a list of *highlights*. For the complete list, click the link above. 
 
@@ -93,7 +94,7 @@ Below is a list of *highlights*. For the complete list, click the link above.
 
 This is the Pa Auk monastery in Maymyo, Myanmar, where I ordained and spent about 7 years. It is a meditation center but also has an attached pariyatti center (for traditional Dhamma studies). There are other Pa Auk centers, several in Myanmar, such as in Mawlamyine (the very first), and in a few other countries. Check the list below:
 
-[List of Pa Auk Branches](https://www.paaukthailand.org/en/paaukbranches/?hl=en-US)
+[**List of Pa Auk Branches** 🌐](https://www.paaukthailand.org/en/paaukbranches/?hl=en-US)
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
@@ -101,20 +102,25 @@ This is the Pa Auk monastery in Maymyo, Myanmar, where I ordained and spent abou
 Pariyatti center led by Bārānasi Sayadaw
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+
 <!-- recommended by V. Atthadassi -->
+
 #### **Mahāvihāra** (Hlegu, Naypyitaw)
 Pariyatti center
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 <!-- recommended by V. Atthadassi, Siddhattha -->
+
 #### **Thantawpein Tawya** (Naypyitaw)
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 <!-- recommended by V. Atthadassi -->
+
 #### **Ainsen Yua Ma** (Yangon)
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 <!-- recommended by V. Atthadassi -->
+
 #### [**Mahāvihāra** (Hmawbi)](http://www.mdumyanmar.org/)
 Pariyatti center and Dhamma-Vinaya University
 
@@ -124,15 +130,15 @@ Pariyatti center and Dhamma-Vinaya University
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 <!-- recommended by V. Siddhattha -->
+
 #### **Dhamma Vinaya Monastery** (Thaton)
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 <!-- recommended by V. Siddhattha -->
 #### **Ee Chantha Ya** (Kayin)
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
-
 <!-- recommended by V. Siddhattha -->
+
 ### 🇱🇰 Sri Lanka
 #### [**International Institute of Theravāda**](https://www.theravado.com/)
 <img src="/assets/img/iit.jpg" alt="" style="width: 60%;">
@@ -151,32 +157,29 @@ This is mainly a meditation center with some optional classes, mainly in Sinhala
 #### [**Diddeniya Rangirikanda Aranya Senasanaya (Ranagirilena Forest Monastery)**](https://www.google.com/search?client=tablet-android-huawei-rev1&hs=he7p&sca_esv=71a377e1d78119b4&cs=0&output=search&kgmid=/g/11cm03kqsb&q=Ranagirilena+Aranya&shem=epsd1,ltac,rimspwouoe&shndl=30&source=sh/x/loc/act/m1/6&kgs=de9c31c82cf4c870&utm_source=epsd1,ltac,rimspwouoe,sh/x/loc/act/m1/6)
 Focus: study of Vinaya and Pāḷi, monastic training, and seclusion
 
-
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
-
 
 #### **Saddhatissa Mahā Vihāraya** (Katukeliyawa, Anuradhapura)
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
-
 
 <!-- recommended by V. Ratanasāra -->
 
 #### **Diyatalawa Viharaya** (Diyatalawa)
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 <!-- recommende by V. Ratanasāra -->
+
 #### **Chiththa Vivekashramaya** (Ampitiya, Kandy)
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 <!-- recommended by V. Ratanasāra -->
+
 #### [**Na Uyana Dharmayatanaya**](https://nauyana.org/)
 Study center of Na Uyana Forest Monastery.
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
 #### [**Polgasduwa Island Hermitage**](https://en.wikipedia.org/wiki/Island_Hermitage) (Polgasduwa)
-
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
 ### 🇹🇭 Thailand
 #### [Wat Khao Sanam Chai](https://web.facebook.com/watkhaosanamchai)
@@ -186,40 +189,51 @@ Study center of Na Uyana Forest Monastery.
 
 Monastery separated into two areas: one for study (mainly abhidhamma, vinaya, and pāḷi) and another for meditation. There are Dhamma talks daily and on Uposatha days. Located at the top of a hill close to ocean. 
 
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+
 #### [Wat Pa Thep Chakraphan Wanaram](https://web.facebook.com/profile.php?id=100064135148599&mibextid=ZbWKwL&_rdc=1&_rdr)
 - Language: Thai
 - Leaders: Ajahn Amon Chai Cāruvaṇṇo Mahāthero
 - Focus: memorization of the Bhikkhu Pātimokkha and the study of Vinaya
 - Location: Located on a Tamarind forest.
 
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+
 #### [Wat Don Tad Hai](https://linktr.ee/watdontadhai?fbclid=IwY2xjawSmQZZleHRuA2FlbQIxMABicmlkETFqSTdnTUxVNDdxb2VPaVdPc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHjAwv_xFV1WumgZDWNFzQZFRcgNggMaj66tV2mY4gbRqRGAKSB3H8oCXwwqN_aem_zr71HUBscqRWCDy3ZJOqVA)
 - Language: Thai
 - Leaders: 
 - Focus: study of Pāḷi.
+
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+
 #### [Buddha-Metta Meditation Practice Center](https://share.google/C0znosxZvj8B6ft4K)
 - Language: Thai
 - Leaders: Ajahn Bhurivaḍḍhako Mahāthero
 - Focus: meditation and Abhidhamma courses
+
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
 #### [Wat Pho Than Phra](https://share.google/g6vptXj98qZUzjRth)
 - Language: Thai
 - Leaders: Ajahn Su Phon Suciṇṇo Mahāthero
 - Focus: study of Abhidhamma 
 
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+
 #### [Wat Phra That Nong Sam Muen](https://web.facebook.com/prathatsammuan/?_rdc=1&_rdr)
 - Language: Thai
 - Leaders: Ajahn Phan Kavisaro Mahāthero (Abbot), Ajahn Phlun Chai Dhammavaro Mahāthero (Vinaya), Ajahn Am Phon Ābhassaro Mahāthero (Pāḷi)
 - Focus: study of Abhidhamma, Vinaya, and Pāḷi
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
-
-------
+---
 
 ### 🇱🇦 Laos
 #### [**Wat Pa Nakham**](https://web.facebook.com/p/%E0%BA%A7%E0%BA%B1%E0%BA%94%E0%BA%9B%E0%BB%88%E0%BA%B2%E0%BA%99%E0%BA%B2%E0%BA%82%E0%BA%B2%E0%BA%A1-%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B8%A1-100070671601057/?_rdc=1&_rdr)
 - Leader: Ajahn Sam Tejavaro
 - Languages: Lao, Thai
 - Focus: study (Pāḷi, Abhidhamma, and Vinaya)
+
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
 #### [**Wat Pa Nadi (Suvaṇṇapaṇḍita)**](https://maps.app.goo.gl/dbu1CCUk8C63TxqF6)
 - Leaders: Ajahn Udon
@@ -228,6 +242,7 @@ Monastery separated into two areas: one for study (mainly abhidhamma, vinaya, an
 - Note: Responsible for the translation of the Tipiṭaka into Lao language.
 
 ### 🇰🇭 Cambodia 
+
  1. Wat Nikrodhavan Kol Toteung
  2. Wat Sovann Botum (Hao Chambak Meas)
  3. Wat Visothimeak
@@ -320,6 +335,7 @@ Cambodia
 4) Dhammarakkhita Cetiya learning temple 
 Thailand
 -->
+
 ## 🧠 Modern Research
 
 ### [**Harvard / MGH Meditation Research Program**](https://meditation.mgh.harvard.edu/)
@@ -349,6 +365,8 @@ A global leader in integrating Mindfulness-Based Cognitive Therapy (MBCT) into m
 
 ### [**Max Planck Institute for Human Cognitive and Brain Sciences**](https://www.cbs.mpg.de)
 Conducts large-scale longitudinal studies mapping the long-term physiological and structural brain impacts of mental training and meditation.
+
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
 ### [**The Division of Perceptual Studies**](https://med.virginia.edu/perceptual-studies/)
 Scientific studies on past-lives and extraordinary human experiences and capacities. 
