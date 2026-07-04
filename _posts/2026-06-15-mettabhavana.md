@@ -5,6 +5,7 @@ author: Brazil Ariyañāṇa Bhikkhu
 categories: Meditation
 tags: [Benevolence (mettā), Merit (puñña), Mental Factor (cetasika)]
 image: mettabhavana.png
+show_monk: true
 ---
 
 ## 🇬🇧 English
