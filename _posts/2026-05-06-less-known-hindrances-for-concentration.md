@@ -5,6 +5,7 @@ author: Brazil Ariyañāṇa Bhikkhu
 categories: Meditation
 tags: [Meditation (bhāvanā), Concentration (samādhi), Hindrances (nīvaraṇas), Ingratitude (akataññutā akataveditā, Absorption (jhāna)]
 image: nivarana.jpg
+show_monk: true
 ---
 
 ## 🇬🇧 English
