@@ -20,6 +20,8 @@ This is a new website with the entire Tipiṭaka, commentaries, and sub-commenta
 ### [**Tipiṭaka Pāḷi Reader**](https://americanmonk.org/tipitaka-pali-reader/) (app)
 <img src="/assets/img/tpr.png" alt="description" style="width: 50%;">
 
+- Languages: Pāḷi, English, multiple scripts
+
 This is an app made by Bhante USA Subhūti. It contains most Pāḷi texts, English translations, dictionaries, and the content of the e-piṭaka (above) as well with a modern UI.
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
@@ -27,7 +29,7 @@ This is an app made by Bhante USA Subhūti. It contains most Pāḷi texts, Engl
 ### [**Open Tipiṭaka**](https://opentipitaka.org/?lang=es) (app, website)
 <img src="/assets/img/opentipitaka.png" alt="description" style="width: 50%;">
 
-- Languages: multiple, including Español
+- Languages: multiple
 
 This is a translation project led by [Ven. PRC Sumana](https://www.facebook.com/uppala.putta) that includes the content of the Tipiṭaka in several languages translated by AI. Though **not** very reliable, well structured AI translations can be useful for research and learning Pāḷi.
 
@@ -36,11 +38,14 @@ This is a translation project led by [Ven. PRC Sumana](https://www.facebook.com/
 ### [**Digital Pāḷi Reader**](https://www.digitalpalireader.online/_dprhtml/index.html) (website, app)
 <img src="/assets/img/dpr.png" alt="description" style="width: 50%;">
 
+- Languages: Pāḷi, some English translations
+
 Study tool designed by Bhante Yuttadhammo for reading, searching within, and analyzing the Pāḷi Canon. It includes the Digital Pāḷi Dictionary, a staple for Pāḷi learners. It can be downloaded locally.
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
 ### [Digital Pāḷi Dictionary en Español](https://dhamma-pb.org/dpd-espanol/)
+<img src="/assets/img/dpd-esp.png" alt="description" style="width: 50%;">
 
 Un proyecto de traducción del Digital Pāḷi Dictionary (Bhante Sri Lanka Bodhirasa) al Español liderado por Bhante Rāhula del [Monasterio Paññabhūmi](https://dhamma-pb.org/).
 
@@ -70,6 +75,7 @@ Grupo de praticantes Theravāda no RJ.
 
 ### [**Casa De Dharma**](https://casadedharmaorg.org/) (website, center)
 <img src="/assets/img/casadedharma.png" alt="description" style="width: 50%;">
+
 - Language: Português
 
 Centro de meditação e estudo Theravāda em São Paulo, Brasil.
@@ -98,7 +104,7 @@ This is the Pa Auk monastery in Maymyo, Myanmar, where I ordained and spent abou
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
-#### **Bārānasi** (Mingaladon)
+#### **Bārāṇasi** (Mingaladon)
 Pariyatti center led by Bārānasi Sayadaw
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
@@ -111,35 +117,19 @@ Pariyatti center
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 <!-- recommended by V. Atthadassi, Siddhattha -->
 
-#### **Thantawpein Tawya** (Naypyitaw)
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
-<!-- recommended by V. Atthadassi -->
-
-#### **Ainsen Yua Ma** (Yangon)
-
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
-<!-- recommended by V. Atthadassi -->
-
-#### [**Mahāvihāra** (Hmawbi)](http://www.mdumyanmar.org/)
+<!-- 
+recommended by V. Atthadassi:
+Thantawpein Tawya (Naypyitaw)
+Ainsen Yua Ma (Yangon)
+Mahāvihāra (Hmawbi)](http://www.mdumyanmar.org/)
 Pariyatti center and Dhamma-Vinaya University
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
-
-#### **Yadana Pangon** (Shwepyithar)
-
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
-<!-- recommended by V. Siddhattha -->
-
-#### **Dhamma Vinaya Monastery** (Thaton)
-
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
-
-<!-- recommended by V. Siddhattha -->
-
-#### **Ee Chantha Ya** (Kayin)
-
-<!-- recommended by V. Siddhattha -->
+recommended by V. Siddhattha:
+Yadana Pangon (Shwepyithar)
+Dhamma Vinaya Monastery (Thaton)
+Ee Chantha Ya (Kayin)
+-->
 
 ### 🇱🇰 Sri Lanka
 #### [**International Institute of Theravāda**](https://www.theravado.com/)
@@ -182,6 +172,14 @@ Study center of Na Uyana Forest Monastery.
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
 #### [**Polgasduwa Island Hermitage**](https://en.wikipedia.org/wiki/Island_Hermitage) (Polgasduwa)
+
+
+<!-- 
+Sihanada International Meditation Community (https://lk.linkedin.com/company/sihanada)
+Borella, Colombo
+Founded and Headed by Ven. Borelle Seeladassana
+focus: personalized meditation
+-->
 
 ### 🇹🇭 Thailand
 #### [Wat Khao Sanam Chai](https://web.facebook.com/watkhaosanamchai)
