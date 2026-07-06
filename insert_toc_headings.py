@@ -20,6 +20,16 @@ How it avoids changing the page's look:
   - toc.html only reads heading.textContent and heading.id, so the wrapper
     is invisible on the page but fully discoverable by the TOC script.
 
+Also strips RemNote cloze wrappers:
+  - RemNote export leaves behind markers like {{123456789::some text}}.
+    Jekyll's templating engine (Liquid) treats {{ ... }} as a variable
+    tag, tries to evaluate it, finds nothing, and silently deletes it at
+    build time -- so "some text" vanishes on the live site even though it
+    looks fine when you open the raw .html/.md file directly in a browser.
+  - This script removes the {{digits::  and matching }} wrapper, leaving
+    just "some text" behind, so nothing gets eaten by Jekyll.
+  - Pass --keep-clozes to skip this step.
+
 Usage:
     python3 insert_toc_headings.py path/to/file.md
     # writes path/to/file.md in place, and backs up the original to
@@ -54,6 +64,7 @@ RESET_STYLE = (
 MARKER_ATTR = "data-toc-injected"
 
 FRONTMATTER_RE = re.compile(r"\A(---\s*\n.*?\n---\s*\n)", re.DOTALL)
+CLOZE_OPEN_RE = re.compile(r"\{\{\d+::")
 
 
 def split_frontmatter(text: str):
@@ -61,6 +72,15 @@ def split_frontmatter(text: str):
     if not m:
         return "", text
     return m.group(1), text[m.end():]
+
+
+def strip_remnote_clozes(text: str):
+    """Remove RemNote's {{digits::...}} cloze wrappers, keeping the text
+    inside. Returns (new_text, count_removed)."""
+    count = len(CLOZE_OPEN_RE.findall(text))
+    text = CLOZE_OPEN_RE.sub("", text)
+    text = text.replace("}}", "")
+    return text, count
 
 
 def wrap_leading_content(soup: BeautifulSoup, li, level: int):
@@ -193,9 +213,15 @@ def pick_files_console():
     return [candidates[i - 1] for i in indices if 1 <= i <= len(candidates)]
 
 
-def process_one_file(input_path: Path, output_path: Optional[Path], force: bool):
+def process_one_file(input_path: Path, output_path: Optional[Path], force: bool, strip_clozes: bool):
     text = input_path.read_text(encoding="utf-8")
     frontmatter, body_html = split_frontmatter(text)
+
+    if strip_clozes:
+        body_html, cloze_count = strip_remnote_clozes(body_html)
+        if cloze_count:
+            print(f"Stripped {cloze_count} RemNote cloze wrapper(s).", file=sys.stderr)
+
     new_body_html = process(body_html, force=force)
     new_text = frontmatter + new_body_html
 
@@ -218,6 +244,8 @@ def main():
                           "Only valid when a single input path is given on the command line.")
     ap.add_argument("--force", action="store_true",
                      help="Re-process a file even if it looks already-processed")
+    ap.add_argument("--keep-clozes", action="store_true",
+                     help="Don't strip RemNote {{digits::...}} cloze wrappers (they're stripped by default).")
     args = ap.parse_args()
 
     if args.input is not None:
@@ -236,7 +264,7 @@ def main():
             continue
         print(f"\nProcessing {path} ...", file=sys.stderr)
         try:
-            process_one_file(path, args.output if len(targets) == 1 else None, args.force)
+            process_one_file(path, args.output if len(targets) == 1 else None, args.force, not args.keep_clozes)
         except SystemExit as e:
             print(f"Skipped {path}: {e}", file=sys.stderr)
 

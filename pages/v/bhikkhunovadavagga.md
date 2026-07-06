@@ -30,7 +30,7 @@ If any bhikkhu who has not been authorised should exhort the bhikkhunīs, [this 
 </li>
 <li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>description</b></mark></h3>
 <ul>
-<li>the aṭṭhagarudhamma require bhīs to seek advice from the bh <b>every </b>{{33617694751953864::<b>pakkha</b>}}{{33617694751953864:: }} </li>
+<li>the aṭṭhagarudhamma require bhīs to seek advice from the bh <b>every </b><b>pakkha</b>  </li>
 <li><mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>8 qualifications</b></mark> for being <b>bhikkhunovāda</b>:
                             <ul>
 <li><b>sīlavanta</b>
@@ -153,30 +153,30 @@ If any bhikkhu who has not been authorised should exhort the bhikkhunīs, [this 
 </li>
 <li><mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>offenses</b></mark>
 <ul>
-<li>admonishing bhkīs with 8grdh <b>without authorization</b>: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{8925787914569188::<b>pc</b>}}</mark>
-admonishing with <b>another portion of dhamma</b> other than the aṭṭhagarudhamma: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{8925787914569188::<b>dkṭ (under atthangatasikkhāpada this is pc)</b>}}</mark> 
-admonishing with the 8grdh after the bhkīs say they are <b>not in unity</b>: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{8925787914569188::<b>dkṭ</b>}}</mark>
-teaching additional dhamma after the 8grdh <b>without concluding with "eso, bhaginiyo, ovādo"</b>: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{8925787914569188::<b>dkṭ</b>}}</mark> 
-advising an <b>ekato upasampanna</b> bhkī: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{8925787914569188::<b>dkṭ</b>}}</mark> </li>
-<li>if adhammakamma...: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{31681684012753397::<b>pc (18)</b>}}</mark>
-if dhammakamma...: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{31681684012753397::<b>dkṭ (17)</b>}}</mark>
-- except dhammakamma, dhammakammasaññī, samagga bhkī saṅgha, samaggasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{31681684012753397::<b>anāpatti</b>}}</mark>
+<li>admonishing bhkīs with 8grdh <b>without authorization</b>: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>pc</b></mark>
+admonishing with <b>another portion of dhamma</b> other than the aṭṭhagarudhamma: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>dkṭ (under atthangatasikkhāpada this is pc)</b></mark> 
+admonishing with the 8grdh after the bhkīs say they are <b>not in unity</b>: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>dkṭ</b></mark>
+teaching additional dhamma after the 8grdh <b>without concluding with "eso, bhaginiyo, ovādo"</b>: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>dkṭ</b></mark> 
+advising an <b>ekato upasampanna</b> bhkī: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>dkṭ</b></mark> </li>
+<li>if adhammakamma...: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>pc (18)</b></mark>
+if dhammakamma...: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>dkṭ (17)</b></mark>
+- except dhammakamma, dhammakammasaññī, samagga bhkī saṅgha, samaggasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>anāpatti</b></mark>
 
 examples:
-adhammakamma, adhammakammasaññī, vagga bhkī saṅgha, vaggasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{31681684012753397::<b>pc</b>}}</mark> 
-adhammakamma, dhammakammasaññī, vagga bhkī saṅgha, vaggasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{31681684012753397::<b>pc</b>}}</mark> 
-adhammakamma, dhammakammasaññī, samagga bhkī saṅgha, samaggasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{31681684012753397::<b>pc</b>}}</mark> 
-dhammakamma, adhammakammasaññī, vagga bhkī saṅgha, vaggasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{31681684012753397::<b>dkṭ</b>}}</mark> 
-dhammakamma, dhammakammasaññī, samagga bhkī saṅgha, vaggasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{31681684012753397::<b>dkṭ</b>}}</mark> 
-dhammakamma, dhammakammasaññī, samagga bhkī saṅgha, samaggasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{31681684012753397::<b>anāpatti</b>}}</mark> 
+adhammakamma, adhammakammasaññī, vagga bhkī saṅgha, vaggasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>pc</b></mark> 
+adhammakamma, dhammakammasaññī, vagga bhkī saṅgha, vaggasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>pc</b></mark> 
+adhammakamma, dhammakammasaññī, samagga bhkī saṅgha, samaggasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>pc</b></mark> 
+dhammakamma, adhammakammasaññī, vagga bhkī saṅgha, vaggasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>dkṭ</b></mark> 
+dhammakamma, dhammakammasaññī, samagga bhkī saṅgha, vaggasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>dkṭ</b></mark> 
+dhammakamma, dhammakammasaññī, samagga bhkī saṅgha, samaggasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>anāpatti</b></mark> 
 ...
 
-this is an <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{31681684012753397::<b>aṭṭhārasa</b>}}</mark>-pācittiya and <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{31681684012753397::<b>sattarasa</b>}}</mark>-dukkaṭa offence
+this is an <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>aṭṭhārasa</b></mark>-pācittiya and <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>sattarasa</b></mark>-dukkaṭa offence
 saññās involved are: 
 - <b>adhammakamma-/dhammakamma-saññā</b> (perception that the vinayakamma by which the sammuti was given to oneself was or was not righteously done)
 - <b>vagga-/samagga-saññā</b> (the perception that the Bhikkhunī Saṅgha is not or is in harmony)
 
-this is an (sa/acittaka?) <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{31681684012753397::<b>acittaka</b>}}</mark>, (no/saññāvimokkha?) <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{31681684012753397::<b>nosaññāvimokkha</b>}}</mark><b> </b>training rule
+this is an (sa/acittaka?) <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>acittaka</b></mark>, (no/saññāvimokkha?) <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>nosaññāvimokkha</b></mark><b> </b>training rule
                                     <ul>
 <li><img height="178.98553948832028" src="https://remnote-user-data.s3.amazonaws.com/G57jUsguY0wfhOr4L-hstwwlVxNe5AbCMuKjxDoPkqNdhRWHo9ByiWg4xavFDgFpfIm1E3mmiuF6MH-hCYgHT1G7noKsjVAUjhTButJ0XfLjuk37XjuUKc6YVA2XnV9s.jpeg" width="318"/><img height="177.11776727697324" src="https://remnote-user-data.s3.amazonaws.com/WkXxzIYmFvecRl_d3Nsws3mAjZyJ4DSrdMMOyBQJVhUq9Z2TBaqY4uJCb6ALiu_2Bw9yuEoXJsLzr8l3o1GMmilEo1_i6fKfE4AvnC4Tok8se46d8D4mtyzRriq6lBLd.jpeg" width="315.22008232160636"/></li>
 </ul>
@@ -260,24 +260,24 @@ Even if a bhikkhu who has been authorised should exhort the bhikkhunīs after th
 </li>
 <li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>offenses</b></mark></h3>
 <ul>
-<li>advising after sunset: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{6635117548992218::<b>pc</b>}}</mark>
-advising after sunset with aṭṭhagarudhamma: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{6635117548992218::<b>pc</b>}}</mark>
-advising after sunset with any other dhamma: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><u>{{6635117548992218::<b>pc! </b>}}</u></mark><mark remnotemark="true" style="background-color: yellow; color: inherit;">{{6635117548992218::<b>(under other rules this is a dkṭ)</b>}}</mark>
-advising ekatoupasampannās after sunset: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{6635117548992218::<b>dkṭ</b>}}</mark>
-teaching dhamma or the commentaries: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{6635117548992218::<b>anāpatti, since the offense is for admonishing </b>}}</mark> </li>
-<li>this is (sa/acittaka?) {{4955289014909754::<b>acittaka</b>}} (no/saññāvimokkha?) {{4955289014909754::<b>nosaññāvimokkha</b>}}{{4955289014909754:: }}rule</li>
+<li>advising after sunset: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>pc</b></mark>
+advising after sunset with aṭṭhagarudhamma: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>pc</b></mark>
+advising after sunset with any other dhamma: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><u><b>pc! </b></u></mark><mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>(under other rules this is a dkṭ)</b></mark>
+advising ekatoupasampannās after sunset: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>dkṭ</b></mark>
+teaching dhamma or the commentaries: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>anāpatti, since the offense is for admonishing </b></mark> </li>
+<li>this is (sa/acittaka?) <b>acittaka</b> (no/saññāvimokkha?) <b>nosaññāvimokkha</b> rule</li>
 <li>advising <b>after</b> sunset
-atthaṅgatasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{3214844393644052::<b>pc</b>}}</mark>
-vematiko: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{3214844393644052::<b>pc</b>}}</mark>
-anatthaṅgatasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{3214844393644052::<b>pc</b>}}</mark>{{3214844393644052:: }} 
+atthaṅgatasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>pc</b></mark>
+vematiko: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>pc</b></mark>
+anatthaṅgatasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>pc</b></mark>  
 
 advising <b>before</b> sunset:
-atthaṅgatasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{3214844393644052::<b>dkṭ</b>}}</mark>
-vematiko: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{3214844393644052::<b>dkṭ</b>}}</mark>
-anatthaṅgatasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{3214844393644052::<b>anāpatti</b>}}</mark>
+atthaṅgatasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>dkṭ</b></mark>
+vematiko: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>dkṭ</b></mark>
+anatthaṅgatasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>anāpatti</b></mark>
 
-{{3214844393644052::<b>tika</b>}}pācittiya
-{{3214844393644052::<b>duka</b>}} dukkaṭa </li>
+<b>tika</b>pācittiya
+<b>duka</b> dukkaṭa </li>
 </ul>
 </li>
 <li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>anāpatti</b></mark> (same as bhikkhunovādasikkhāpadaṁ)
@@ -320,23 +320,23 @@ If any bhikkhu, having approached the bhikkhunī-quarters, should exhort the bhi
 </li>
 <li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>offenses</b></mark></h3>
 <ul>
-<li>admonishing bhkīs with <b>8grdh</b> by visiting a bhikkhunupassaya: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{8618937871187886::<b>pc</b>}}</mark> 
-admonishing bhkīs with <b>other dhamma</b> by visiting a bhikkhunupassaya: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{8618937871187886::<b>dkṭ (under atthaṅgatasikkhāpada this is a pc)</b>}}</mark>
-admonishing an <b>ekato upasampannā</b> with 8grdh / other dhamma by visiting a bhikkhunupassaya: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{8618937871187886::<b>dkṭ</b>}}</mark>
-doing so if they are sick: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{8618937871187886::<b>anāpatti</b>}}</mark> 
+<li>admonishing bhkīs with <b>8grdh</b> by visiting a bhikkhunupassaya: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>pc</b></mark> 
+admonishing bhkīs with <b>other dhamma</b> by visiting a bhikkhunupassaya: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>dkṭ (under atthaṅgatasikkhāpada this is a pc)</b></mark>
+admonishing an <b>ekato upasampannā</b> with 8grdh / other dhamma by visiting a bhikkhunupassaya: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>dkṭ</b></mark>
+doing so if they are sick: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>anāpatti</b></mark> 
 
 admonishing bhkī:
-upasampannasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{8618937871187886::<b>pc</b>}}</mark>
-vematiko: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{8618937871187886::<b>pc</b>}}</mark>
-anupasampannasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{8618937871187886::<b>pc</b>}}</mark>
+upasampannasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>pc</b></mark>
+vematiko: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>pc</b></mark>
+anupasampannasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>pc</b></mark>
 
 admonishing a non-bhkī:
-upasampannasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{8618937871187886::<b>dkṭ</b>}}</mark>
-vematiko: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{8618937871187886::<b>dkṭ</b>}}</mark>
-anupasampannasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{8618937871187886::<b>anāpatti</b>}}</mark> 
+upasampannasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>dkṭ</b></mark>
+vematiko: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>dkṭ</b></mark>
+anupasampannasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>anāpatti</b></mark> 
 
-this is (sa/acittaka?) <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{8618937871187886::<b>acittaka</b>}}</mark><b> </b>(no/saññāvimokkha)<b> </b><mark remnotemark="true" style="background-color: yellow; color: inherit;">{{8618937871187886::<b>nosaññāvimokkha</b>}}</mark> rule 
-this is a <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{8618937871187886::<b>tika</b>}}</mark>-pācittiya and <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{8618937871187886::<b>duka</b>}}</mark>-dukkaṭa offence
+this is (sa/acittaka?) <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>acittaka</b></mark><b> </b>(no/saññāvimokkha)<b> </b><mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>nosaññāvimokkha</b></mark> rule 
+this is a <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>tika</b></mark>-pācittiya and <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>duka</b></mark>-dukkaṭa offence
 the perception being <b>upasampanna / anupasampanna saññā</b> (perception of the listener as fully ordained or not)  </li>
 </ul>
 </li>
@@ -390,11 +390,11 @@ Chabbaggiyas, out of envy of the theras who were receiving much gain due to admo
 <li>and for the sake of veneration (<b>pūjanahetu</b>)</li>
 </ul>
 </li>
-<li>criticizing a bhikkhunovādaka thera who admonishes the bhī without the expectation of four requisites: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{6784782717079743::<b>pc</b>}}</mark><b>
-</b>doing so to an unauthorized bhikkhu: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{6784782717079743::<b>dkṭ</b>}}</mark> 
-doing so to a sāmaṇera: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{6784782717079743::<b>dkṭ</b>}}</mark> 
-doing so to a bhk or smṇ that is actually admonishing out of āmisahetu: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{6784782717079743::<b>anāpatti</b>}}</mark>
-criticizing believing the bhk / smṇ to be actually āmisahetu: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{6784782717079743::<b>anāpatti</b>}}</mark> </li>
+<li>criticizing a bhikkhunovādaka thera who admonishes the bhī without the expectation of four requisites: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>pc</b></mark><b>
+</b>doing so to an unauthorized bhikkhu: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>dkṭ</b></mark> 
+doing so to a sāmaṇera: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>dkṭ</b></mark> 
+doing so to a bhk or smṇ that is actually admonishing out of āmisahetu: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>anāpatti</b></mark>
+criticizing believing the bhk / smṇ to be actually āmisahetu: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>anāpatti</b></mark> </li>
 <li>note:
                             <ul>
 <li>the criticism must be voiced to someone else
@@ -407,28 +407,28 @@ criticizing believing the bhk / smṇ to be actually āmisahetu: <mark remnotema
 <li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>nature</b></mark></h3>
 <ul>
 <li>criticizing a <b>sammata upasampanna bhikkhunovādaka</b> who admonishes the bhī without the expectation of four requisites (<b>na āmisahetu</b>):
-dhammakammasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{7699015313256836::<b>pc</b>}}</mark>
-vematiko: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{7699015313256836::<b>pc</b>}}</mark>
-adhammakammasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{7699015313256836::<b>pc</b>}}</mark>
+dhammakammasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>pc</b></mark>
+vematiko: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>pc</b></mark>
+adhammakammasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>pc</b></mark>
 
 criticizing an <b>asammata upasampanna</b>
-dhammakammasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{7699015313256836::<b>dkṭ</b>}}</mark>
-vematiko: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{7699015313256836::<b>dkṭ</b>}}</mark>
-adhammakammasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{7699015313256836::<b>dkṭ</b>}}</mark>
+dhammakammasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>dkṭ</b></mark>
+vematiko: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>dkṭ</b></mark>
+adhammakammasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>dkṭ</b></mark>
 
-this is a {{7699015313256836::<b>tika</b>}}-pācittiya and {{7699015313256836::<b>tika</b>}}-dukkaṭa offence
+this is a <b>tika</b>-pācittiya and <b>tika</b>-dukkaṭa offence
 the perception involved here is <b>dhammakamma / adhammakamma saññā</b> (perception that the vinayakamma via which 
 the bhikkhunovādaka sammuti was given was righteous or not) 
 
-this is (sa/acittaka?) {{7699015313256836::<b>sacittaka</b>}} (no/saññāvimokkha?) {{7699015313256836::<b>saññāvimokkha</b>}}{{7699015313256836:: }}offence {{7699015313256836::(here the sacittaka and saññāvimokkha natures do not refer to the dhammakammasaññā)}}
+this is (sa/acittaka?) <b>sacittaka</b> (no/saññāvimokkha?) <b>saññāvimokkha</b> offence (here the sacittaka and saññāvimokkha natures do not refer to the dhammakammasaññā)
 </li>
 <li>doing so to a <b>na āmisahetu </b>thera:
-na āmisahetusaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{7699015313256836::<b>pc</b>}}</mark>
-āmisahetusaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{7699015313256836::<b>anāpatti</b>}}</mark>
+na āmisahetusaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>pc</b></mark>
+āmisahetusaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>anāpatti</b></mark>
 
 doing so to an <b>āmisahetu </b>thera:
-na āmisahetusaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{7699015313256836::<b>dkṭ</b>}}</mark> 
-āmisahetusaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{7699015313256836::<b>anāpatti</b>}}</mark>
+na āmisahetusaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>dkṭ</b></mark> 
+āmisahetusaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>anāpatti</b></mark>
 </li>
 </ul>
 </li>
@@ -494,39 +494,39 @@ If any bhikkhu should sew a robe or should have a robe sewn for an unrelated bhi
 </li>
 <li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>offenses</b></mark></h3>
 <ul>
-<li>sewing (/c) a robe for an <b>aññātika </b>bhkī: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{4041384900784468::<b>pc every ārapatha</b>}}</mark> 
-marking the measurements on the cloth and cutting it, while being ready to sew a robe: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{4041384900784468::<b>dkṭ</b>}}</mark> 
+<li>sewing (/c) a robe for an <b>aññātika </b>bhkī: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>pc every ārapatha</b></mark> 
+marking the measurements on the cloth and cutting it, while being ready to sew a robe: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>dkṭ</b></mark> 
 
-ordering another once, "sew", and the entire process is done: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{4041384900784468::<b>1 pc for the orderer, multiple pc for the sewer according to the number of ārapathas</b>}}</mark> 
-ordering another once, “If there is anything to be done in regard to this robe, all of that will be your responsibility”: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{4041384900784468::<b>the orderer incurs pc for every ārapatha done by the ordered</b>}}</mark> 
-giving multiple orders: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{4041384900784468::<b>multiple pc</b>}}</mark>
-in any case the ordere<b>d</b> incurs: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{4041384900784468::<b>pc for every ārapatha</b>}}</mark>
+ordering another once, "sew", and the entire process is done: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>1 pc for the orderer, multiple pc for the sewer according to the number of ārapathas</b></mark> 
+ordering another once, “If there is anything to be done in regard to this robe, all of that will be your responsibility”: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>the orderer incurs pc for every ārapatha done by the ordered</b></mark> 
+giving multiple orders: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>multiple pc</b></mark>
+in any case the ordere<b>d</b> incurs: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>pc for every ārapatha</b></mark>
 </li>
-<li>sewing for an <b>ekato upasampannā aññātika</b> bhkī: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{4041384900784468::<b>dkṭ</b>}}</mark>
-sewing for a <b>ñātika </b>bhkī: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{4041384900784468::<b>anāpatti</b>}}</mark>
+<li>sewing for an <b>ekato upasampannā aññātika</b> bhkī: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>dkṭ</b></mark>
+sewing for a <b>ñātika </b>bhkī: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>anāpatti</b></mark>
 
-when a teacher is sewing for his ñātika bhkī, students join thinking of fulfilling duties: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{4041384900784468::<b>pc for the students for every ārapatha</b>}}</mark>
-teacher instructs students to sew for his ñātika bhkī: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{4041384900784468::<b>akappiya samādāna dkṭ for the teacher, and pc for the students</b>}}</mark>
-if the bhkī is ñātika of the students as well: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{4041384900784468::<b>anāpatti</b>}}</mark>
-if the bhkī is ñātika of the students but they don't know: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{4041384900784468::<b>akappiya samādāna dkṭ for the teacher and dkṭ for the student for sewing for a ñātika with aññātikasaññā</b>}}</mark> 
-if the teacher just says "sew a robe" without telling the student it is for a bhkī: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{4041384900784468::<b>anāpatti</b>}}</mark>
+when a teacher is sewing for his ñātika bhkī, students join thinking of fulfilling duties: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>pc for the students for every ārapatha</b></mark>
+teacher instructs students to sew for his ñātika bhkī: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>akappiya samādāna dkṭ for the teacher, and pc for the students</b></mark>
+if the bhkī is ñātika of the students as well: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>anāpatti</b></mark>
+if the bhkī is ñātika of the students but they don't know: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>akappiya samādāna dkṭ for the teacher and dkṭ for the student for sewing for a ñātika with aññātikasaññā</b></mark> 
+if the teacher just says "sew a robe" without telling the student it is for a bhkī: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>anāpatti</b></mark>
 <ul>
 <li><b>Vañcetvāti "tava ñātikāyā"ti avatvā "ekissā bhikkhuniyā"ti ettakameva vatvā. "ekissā bhikkhuniyā"ti sutvā te aññātikasaññino bhaveyyunti āha "akappiye niyojitattā"ti. "idaṃ te mātu cīvara"ntiādīni avatvāpi "idaṃ cīvaraṃ  sibbehī"ti suddhacittena sibbāpentassapi anāpatti. (Srd-ṭ. III. 40-50).</b> </li>
 </ul>
 </li>
 <li>sewing for <b>aññātika </b>bhkī:
-aññātakasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{4041384900784468::<b>pc</b>}}</mark>
-vematiko: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{4041384900784468::<b>pc</b>}}</mark>
-ñātakasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{4041384900784468::<b>pc</b>}}</mark>
+aññātakasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>pc</b></mark>
+vematiko: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>pc</b></mark>
+ñātakasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>pc</b></mark>
 
 sewing for <b>ñātaka </b>bhkī:
-aññātakasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{4041384900784468::<b>dkṭ</b>}}</mark>
-vematiko: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{4041384900784468::<b>dkṭ</b>}}</mark>
-ñātakasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{4041384900784468::<b>anāpatti</b>}}</mark>
+aññātakasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>dkṭ</b></mark>
+vematiko: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>dkṭ</b></mark>
+ñātakasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>anāpatti</b></mark>
 
-it is a <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{4041384900784468::<b>tika</b>}}</mark>-pācittiya and <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{4041384900784468::<b>duka</b>}}</mark>-dukkaṭa offense
+it is a <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>tika</b></mark>-pācittiya and <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>duka</b></mark>-dukkaṭa offense
 
-this is (sa/acittaka?) <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{4041384900784468::<b>acittaka</b>}}</mark>, (no/saññāvimokkha?) <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{4041384900784468::<b>nosaññāvimokkha</b>}}</mark><b> </b>offence </li>
+this is (sa/acittaka?) <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>acittaka</b></mark>, (no/saññāvimokkha?) <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>nosaññāvimokkha</b></mark><b> </b>offence </li>
 </ul>
 </li>
 <li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>anāpatti</b></mark></h3>
@@ -584,31 +584,31 @@ If any bhikkhu, having made an arrangement, should travel together with a bhikkh
 </li>
 <li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>offenses</b></mark></h3>
 <ul>
-<li>bhk arranges with a bhkī, they travel as planned: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{7051708556776217::<b>pc</b>}}</mark> 
-if they take a different gate or road (together): <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{7051708556776217::<b>pc</b>}}</mark> 
-if they go at another time (together): <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{7051708556776217::<b>anāpatti</b>}}</mark>
-how offenses are counted: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{7051708556776217::<b>pc for every village boundary passed / every village entered / where there are no villages, every 1/2 yojana passed</b>}}</mark> 
-if only the bhk plans: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{7051708556776217::<b>dkṭ</b>}}</mark>
-if only the bhkī plans: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{7051708556776217::<b>anāpatti</b>}}</mark>
-arranging with an ekato upasampannā / skhm / smṇī: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{7051708556776217::<b>pc under the saṁvidhānasikkhāpada - travelling with a woman</b>}}</mark>
+<li>bhk arranges with a bhkī, they travel as planned: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>pc</b></mark> 
+if they take a different gate or road (together): <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>pc</b></mark> 
+if they go at another time (together): <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>anāpatti</b></mark>
+how offenses are counted: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>pc for every village boundary passed / every village entered / where there are no villages, every 1/2 yojana passed</b></mark> 
+if only the bhk plans: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>dkṭ</b></mark>
+if only the bhkī plans: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>anāpatti</b></mark>
+arranging with an ekato upasampannā / skhm / smṇī: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>pc under the saṁvidhānasikkhāpada - travelling with a woman</b></mark>
 <ul>
 <li><mark remnotemark="true" style="background-color: transparent; color: purple;"><i>just arranging is a dkṭ?</i></mark><mark remnotemark="true" style="background-color: transparent; color: purple;"><i> </i></mark> #<mark remnotemark="true" style="background-color: transparent; color: purple;"><b>q</b></mark>🙋🏼‍♂</li>
 <li><i>arranging to go on a different road...?</i> </li>
 </ul>
 </li>
 <li>monk <b>arranged </b>a journey with a bhkī and travels with:
-saṁvidahitasaññī (perception that he arranged a journey with a bhkī): <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{09149788819688176::<b>pc</b>}}</mark> 
-vematiko: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{09149788819688176::<b>pc</b>}}</mark>
-asaṁvidahitasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{09149788819688176::<b>pc</b>}}</mark> 
+saṁvidahitasaññī (perception that he arranged a journey with a bhkī): <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>pc</b></mark> 
+vematiko: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>pc</b></mark>
+asaṁvidahitasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>pc</b></mark> 
 
 monk <b>did not arrange</b> a journey with a bhkī:
-saṁvidahitasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{09149788819688176::<b>dkṭ</b>}}</mark>
-vematiko: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{09149788819688176::<b>dkṭ</b>}}</mark>
-asaṁvidahitasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{09149788819688176::<b>anāpatti</b>}}</mark>
+saṁvidahitasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>dkṭ</b></mark>
+vematiko: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>dkṭ</b></mark>
+asaṁvidahitasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>anāpatti</b></mark>
 
-it is a <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{09149788819688176::<b>tika</b>}}</mark>-pācittiya and <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{09149788819688176::<b>duka</b>}}</mark>-dukkaṭa offence
+it is a <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>tika</b></mark>-pācittiya and <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>duka</b></mark>-dukkaṭa offence
 
-this is (sa/acittaka?) <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{09149788819688176::<b>acittaka</b>}}</mark><b> </b>(no/saññāvimokkha?) <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{09149788819688176::<b>nosaññāvimokkha</b>}}</mark>
+this is (sa/acittaka?) <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>acittaka</b></mark><b> </b>(no/saññāvimokkha?) <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>nosaññāvimokkha</b></mark>
 </li>
 </ul>
 </li>
@@ -658,10 +658,10 @@ If any bhikkhu, having made an arrangement, should embark [on a voyage] together
 </li>
 <li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>offenses</b></mark></h3>
 <ul>
-<li>how offenses are counted: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{31793092310923976::<b>pc every bank that borders a village / every village passed / when there are no villages or the vessel travels in the center of a river 16 yojanas in width, every 1/2 yojana </b>}}</mark> 
-arranging and travelling in a vessel with a bhkī to cross a river: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{31793092310923976::<b>anāpatti</b>}}</mark> 
-while crossing, if the vessel has to be maneuvered up-/down-stream: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{31793092310923976::<b>anāpatti</b>}}</mark> 
-arranging and travelling in a lake / sea: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{31793092310923976::<b>anāpatti</b>}}</mark>
+<li>how offenses are counted: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>pc every bank that borders a village / every village passed / when there are no villages or the vessel travels in the center of a river 16 yojanas in width, every 1/2 yojana </b></mark> 
+arranging and travelling in a vessel with a bhkī to cross a river: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>anāpatti</b></mark> 
+while crossing, if the vessel has to be maneuvered up-/down-stream: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>anāpatti</b></mark> 
+arranging and travelling in a lake / sea: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>anāpatti</b></mark>
 <ul>
 <li><b>Pāḷiyaṃ "uddhaṃgāminiṃ vā adhogāminiṃ vā"ti vacanato pana vāpisamuddādīsu kīḷāpurekkhāratāyapi  gacchantassa anāpatti. Tenāha "samudde pana yathāsukhaṃ gantuṃ vaṭṭatī"ti. (Kṅv-abh-ṭ. 377.).   </b> </li>
 </ul>
@@ -670,8 +670,8 @@ arranging and travelling in a lake / sea: <mark remnotemark="true" style="backgr
 </li>
 <li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>nature</b></mark></h3>
 <ul>
-<li>this is (sa/acittaka?) <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{5450696312834955::<b>acittaka</b>}}</mark> (no/saññāvimokkha?) <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{5450696312834955::<b>nosaññāvimokkha</b>}}</mark>{{5450696312834955:: }}offence
-this is a <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{5450696312834955::<b>tika</b>}}</mark>-pācittiya and <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{5450696312834955::<b>duka</b>}}</mark>-dukkaṭa offence
+<li>this is (sa/acittaka?) <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>acittaka</b></mark> (no/saññāvimokkha?) <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>nosaññāvimokkha</b></mark> offence
+this is a <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>tika</b></mark>-pācittiya and <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>duka</b></mark>-dukkaṭa offence
 the <b>saññā</b> involved being <b>saṃvidahita-/asaṁvidahita-saññā</b> (perception that he arranged a journey with a bhkī to travel in a vessel or not)</li>
 </ul>
 </li>
@@ -761,30 +761,30 @@ the <b>saññā</b> involved being <b>saṃvidahita-/asaṁvidahita-saññā</b>
 </li>
 <li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>offenses</b></mark></h3>
 <ul>
-<li>accepting bhikkhunīparipācita knowingly: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{6615864018233932::<b>dkṭ</b>}}</mark>
-consuming it: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{6615864018233932::<b>pc for every mouthful swallowed</b>}}</mark> 
-doing so unknowingly: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{6615864018233932::<b>anāpatti</b>}}</mark> 
+<li>accepting bhikkhunīparipācita knowingly: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>dkṭ</b></mark>
+consuming it: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>pc for every mouthful swallowed</b></mark> 
+doing so unknowingly: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>anāpatti</b></mark> 
 
-accepting and consuming gihisamārambha bhojana: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{6615864018233932::<b>anāpatti</b>}}</mark> 
-accepting and consuming a gihisamārambha bhojana in which a bhkī got involved later: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{6615864018233932::<b>anāpatti</b>}}</mark> 
-accepting and consuming a meal prepared by an ekato upasampannā bhkī: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{6615864018233932::<b>dkṭ</b>}}</mark>
+accepting and consuming gihisamārambha bhojana: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>anāpatti</b></mark> 
+accepting and consuming a gihisamārambha bhojana in which a bhkī got involved later: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>anāpatti</b></mark> 
+accepting and consuming a meal prepared by an ekato upasampannā bhkī: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>dkṭ</b></mark>
 <ul>
 <li><b>10 Yasmā ñātakappavāritehi bhikkhussa atthāya asamāraddhopi piṇḍapāto atthato samāraddhova hoti  yathāsukhaṃ harāpetabbato, tasmā "ñātakappavāritānaṃ vā santaka"nti vuttaṃ. (Kṅk-abh-ṭ. 378.).  </b> </li>
 </ul>
 </li>
 <li><b>paripācitabhojana</b>
-paripācitasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{7958862180932873::<b>pc</b>}}</mark>
-vematiko: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{7958862180932873::<b>dkṭ</b>}}</mark>
-aparipācitasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{7958862180932873::<b>anāpatti</b>}}</mark>
+paripācitasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>pc</b></mark>
+vematiko: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>dkṭ</b></mark>
+aparipācitasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>anāpatti</b></mark>
 <b>aparipācitabhojana</b>:
-paripācitasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{7958862180932873::<b>dkṭ</b>}}</mark>
-vematiko: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{7958862180932873::<b>dkṭ</b>}}</mark>
-aparipācitasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{7958862180932873::<b>anāpatti</b>}}</mark> 
+paripācitasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>dkṭ</b></mark>
+vematiko: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>dkṭ</b></mark>
+aparipācitasaññī: <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>anāpatti</b></mark> 
 
-it is an <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{7958862180932873::<b>ekaka</b>}}</mark>-pācittiya and <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{7958862180932873::<b>tika</b>}}</mark>-dukkaṭa offence
+it is an <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>ekaka</b></mark>-pācittiya and <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>tika</b></mark>-dukkaṭa offence
 the perception involved being <b>paripācita-/aparipācita-saññā</b> (the perception that the meal was organized by a bhikkhunī or not)
 
-this is (sa/acittaka?) <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{7958862180932873::<b>sacittaka</b>}}</mark><b> </b>(no/saññāvimokkha?) <mark remnotemark="true" style="background-color: yellow; color: inherit;">{{7958862180932873::<b>saññāvimokkha</b>}}</mark><b> </b>offence</li>
+this is (sa/acittaka?) <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>sacittaka</b></mark><b> </b>(no/saññāvimokkha?) <mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>saññāvimokkha</b></mark><b> </b>offence</li>
 </ul>
 </li>
 <li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>anāpatti</b></mark></h3>

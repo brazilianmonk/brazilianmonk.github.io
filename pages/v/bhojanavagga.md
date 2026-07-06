@@ -417,10 +417,10 @@ e.g: fried rice, baked rice, steamed rice, bread, pasta...are not odana, kummās
 </li>
 <li>bhojana or not?
                                                                             <ul>
-<li>heavily roasted: {{6551233409896273::bhojana}} 
+<li>heavily roasted: bhojana 
 slightly roasted:
-pounded ⇒ {{6551233409896273::bhojana}}
-not pounded ⇒ {{6551233409896273::not bhojana}} </li>
+pounded ⇒ bhojana
+not pounded ⇒ not bhojana </li>
 </ul>
 </li>
 <li><b>kharapāka</b>bhajjita↔heavily roasted #\[\[<mark remnotemark="true" style="background-color: transparent; color: red;"><b>pāḷi</b></mark> vocab (2nd year)]] </li>
@@ -475,8 +475,8 @@ not pounded ⇒ {{6551233409896273::not bhojana}} </li>
 </li>
 <li>what <b>type </b>of edibles are these products?
                                                                                     <ul>
-<li>vasātela, sappi, and navanīta are {{9506339343372912::<b>sattāhakālika</b>}}
-khīra, dadhi and takka are {{9506339343372912::<b>yāvakālika</b>}}
+<li>vasātela, sappi, and navanīta are <b>sattāhakālika</b>
+khīra, dadhi and takka are <b>yāvakālika</b>
 </li>
 </ul>
 </li>
@@ -511,8 +511,8 @@ khīra, dadhi and takka are {{9506339343372912::<b>yāvakālika</b>}}
 </li>
 <li><b>note</b>: 
                                                             <ul>
-<li><mark remnotemark="true" style="background-color: transparent; color: purple;"><i>yāgu with fish or meat ⇒ (bhojana or not?) </i></mark><mark remnotemark="true" style="background-color: transparent; color: purple;">{{9089992628063794::<i><b>bhojana</b></i>}}</mark><mark remnotemark="true" style="background-color: transparent; color: purple;"><i>
-yāgu with meat gravy / fish gravy, or the gravy by itself ⇒ (bhojana or not?) </i></mark><mark remnotemark="true" style="background-color: transparent; color: purple;">{{9089992628063794::<i><b>not bhojana</b></i>}}</mark><mark remnotemark="true" style="background-color: transparent; color: purple;"><i> </i></mark> #<mark remnotemark="true" style="background-color: transparent; color: purple;"><b>q</b></mark>🙋🏼‍♂
+<li><mark remnotemark="true" style="background-color: transparent; color: purple;"><i>yāgu with fish or meat ⇒ (bhojana or not?) </i></mark><mark remnotemark="true" style="background-color: transparent; color: purple;"><i><b>bhojana</b></i></mark><mark remnotemark="true" style="background-color: transparent; color: purple;"><i>
+yāgu with meat gravy / fish gravy, or the gravy by itself ⇒ (bhojana or not?) </i></mark><mark remnotemark="true" style="background-color: transparent; color: purple;"><i><b>not bhojana</b></i></mark><mark remnotemark="true" style="background-color: transparent; color: purple;"><i> </i></mark> #<mark remnotemark="true" style="background-color: transparent; color: purple;"><b>q</b></mark>🙋🏼‍♂
                                                                     <ul>
 <li><b>gravy</b>↔1. The juice or other liquid matter that drips from flesh in cooking, made into a dressing for the food when served up. 2. Liquid dressing for meat, fish, vegetables, etc.</li>
 <li><b>Sace pana pakkuthitesu udakādīsu pakkhipitvā pacitvā denti, yāgusaṅgahameva gacchati.  Yāgusaṅgahaṃ gatepi tasmiṃ vā aññasmiṃ vā yattha macchamaṃsaṃ pakkhipanti, sace  sāsapamattampi macchamaṃsakhaṇḍaṃ vā nhāru vā paññāyati, pavāraṇaṃ janeti.  Suddharasako pana rasakayāgu vā na janeti. (V-a. III. 90.).   </b> </li>
@@ -547,12 +547,12 @@ yāgu with meat gravy / fish gravy, or the gravy by itself ⇒ (bhojana or not?)
 </li>
 <li><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>khuddakaphala</b></mark>↔fruits included in the aṭṭhapāna and those in conformity with them, e.g: lime, oranges, tamarind...</li>
 <li><b>yāva or yāmakālika?</b>
-fruit itself ⇒ <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{47928201932350367::<b>yāvakālika</b>}}</mark>
-fruit extract ⇒ <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{47928201932350367::<b>yāvakālika</b>}}</mark>
-extract + ambient / cold water ⇒ <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{47928201932350367::<b>yāmakālika</b>}}</mark>
-essence obtained by sunning (exposing to sun in water) ⇒ <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{47928201932350367::<b>yāmakālika</b>}}</mark>
-extract extracted by boiling with fire ⇒ <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{47928201932350367::<b>yāvakālika</b>}}</mark>
-extract extracted by boiling with fire + ambient / cold water ⇒ <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{47928201932350367::<b>yāmakālika according to bhāsaṭīka</b>}}</mark> </li>
+fruit itself ⇒ <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>yāvakālika</b></mark>
+fruit extract ⇒ <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>yāvakālika</b></mark>
+extract + ambient / cold water ⇒ <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>yāmakālika</b></mark>
+essence obtained by sunning (exposing to sun in water) ⇒ <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>yāmakālika</b></mark>
+extract extracted by boiling with fire ⇒ <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>yāvakālika</b></mark>
+extract extracted by boiling with fire + ambient / cold water ⇒ <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>yāmakālika according to bhāsaṭīka</b></mark> </li>
 <li><b>3 types</b> of yāmakālika
                                             <ul>
 <li><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>phala</b></mark><b>rasa </b>(fruit juices): all juices of khuddakaphalas with ambient / cold water or extracted by sunning, except dhaññarasa
@@ -560,13 +560,13 @@ extract extracted by boiling with fire + ambient / cold water ⇒ <mark remnotem
 <ul>
 <li><b>yāva or yāma kālika?</b>
 - sānulomadhaññarasa
-      dhaññarasa with ambient / cold water ⇒ <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{6133791271094002::<b>yāvakālika</b>}}</mark>
-      dhaññarasa extracted by sunning ⇒ <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{6133791271094002::<b>yāvakālika</b>}}</mark>
-      dhaññarasa extracted by boiling ⇒ <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{6133791271094002::<b>yāvakālika</b>}}</mark>
-      washing water of dhañña ⇒ <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{6133791271094002::<b>yāvakālika</b>}}</mark>
-      mahāphalarasa ⇒ <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{6133791271094002::<b>yāvakālika</b>}}</mark>
-- khuddakaphalarasa ⇒ <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{6133791271094002::<b>yāmakālika</b>}}</mark> 
-yāvakālika juice mixed with water ⇒ <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{6133791271094002::<b>yāmakālika according to bhāsaṭīka</b>}}</mark>
+      dhaññarasa with ambient / cold water ⇒ <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>yāvakālika</b></mark>
+      dhaññarasa extracted by sunning ⇒ <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>yāvakālika</b></mark>
+      dhaññarasa extracted by boiling ⇒ <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>yāvakālika</b></mark>
+      washing water of dhañña ⇒ <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>yāvakālika</b></mark>
+      mahāphalarasa ⇒ <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>yāvakālika</b></mark>
+- khuddakaphalarasa ⇒ <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>yāmakālika</b></mark> 
+yāvakālika juice mixed with water ⇒ <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>yāmakālika according to bhāsaṭīka</b></mark>
 <ul>
 <li><mark remnotemark="true" style="background-color: transparent; color: purple;"><i>what is sānulomadhaññarasa?</i></mark><mark remnotemark="true" style="background-color: transparent; color: purple;"><i> </i></mark> #<mark remnotemark="true" style="background-color: transparent; color: purple;"><b>q</b></mark>🙋🏼‍♂</li>
 </ul>
@@ -574,7 +574,7 @@ yāvakālika juice mixed with water ⇒ <mark remnotemark="true" style="backgrou
 <li><b>notes</b>:
                                                             <ul>
 <li>extracting the juice and mixing it with hot water is not mentioned - it seems to be ok</li>
-<li>guḷa (sattāhakālika) + water ⇒ <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{6886464282331766::<b>yāvajīvika</b>}}</mark>
+<li>guḷa (sattāhakālika) + water ⇒ <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>yāvajīvika</b></mark>
 <b>anujānāmi bhikkhave gilānassa guḷaṁ agilānassa guḷodakaṁ
 </b>I allow, monks, guḷa for the sick and guḷodaka for the non-sick </li>
 </ul>
@@ -615,11 +615,11 @@ Myanmar: type of gourd / pumpkin</li>
 <li><b>madhukapuppharasa</b>↔the essence made of these Mahua flowers - sometimes used for making intoxicants
                                                             <ul>
 <li><b>allowed or not, and when?</b>
-extracted by boiling the flower with fire ⇒ <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{9746091131316938::<b>yāvakālika</b>}}</mark>
-extracted by sunning ⇒ <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{9746091131316938::<b>yāvakālika!</b>}}</mark>
+extracted by boiling the flower with fire ⇒ <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>yāvakālika</b></mark>
+extracted by sunning ⇒ <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>yāvakālika!</b></mark>
 (extract with ambient / cold water is not discussed but seems yāmakālika)
-madhukapuppharasa used for making intoxicants ⇒ <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{9746091131316938::<b>from the moment it is used for making intoxicants, it is not allowed at all</b>}}</mark>
-fresh / dry / roasted madhukapuppha and its phāṇita (molasses) ⇒<mark remnotemark="true" style="background-color: transparent; color: yellow;">{{9746091131316938::<b> before the pāna is used for making intoxicants, it is allowed during kāla, after, not allowed!</b>}}</mark>
+madhukapuppharasa used for making intoxicants ⇒ <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>from the moment it is used for making intoxicants, it is not allowed at all</b></mark>
+fresh / dry / roasted madhukapuppha and its phāṇita (molasses) ⇒<mark remnotemark="true" style="background-color: transparent; color: yellow;"><b> before the pāna is used for making intoxicants, it is allowed during kāla, after, not allowed!</b></mark>
 <b>summary: </b>always yāvakālika, and not allowed when used for intoxicants
 <b>note</b>: madhuka<b>phala</b>rasa is like other allowable juices #<b>tbc</b>🕵
                                                                     <ul>
@@ -662,18 +662,18 @@ fresh / dry / roasted madhukapuppha and its phāṇita (molasses) ⇒<mark remno
 </li>
 <li><b>yāva / yāma / sattāha kālika?</b> - 4 cases #\[\[<mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>vibhaṅga</b></mark> exam]] 
                                                                     <ul>
-<li><b>unstrained</b> sugar cane juice, received by an <b>anupa,</b> who then, <b>cooks</b> it into jaggery ⇒ <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{527082326889962::<b>yāvakālika</b>}}</mark>
+<li><b>unstrained</b> sugar cane juice, received by an <b>anupa,</b> who then, <b>cooks</b> it into jaggery ⇒ <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>yāvakālika</b></mark>
 <b>unstrained</b>, <b>upasampanna</b> during kāla, <b>strains</b> it and<b> cooks </b>it into jaggery ⇒ 
-<mark remnotemark="true" style="background-color: transparent; color: yellow;">{{527082326889962::<b>no sāmaṁpāka</b>}}</mark><mark remnotemark="true" style="background-color: transparent; color: yellow;">{{527082326889962:: - since the kasaṭa was removed before the cooking}}</mark><mark remnotemark="true" style="background-color: transparent; color: yellow;">{{527082326889962::<b>
+<mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>no sāmaṁpāka</b></mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"> - since the kasaṭa was removed before the cooking</mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>
 can only be consumed during kāla (srtdpn)
 note: like a sattāhakālika that can only be consumed during kāla (bhante's opinion)
-(extra note: vmtvndn suggests the kasaṭa becomes yāvajīvika while cooking\*)</b>}}</mark> 
-consuming it during the vikāla ⇒ <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{527082326889962::<b>seems to be a dkṭ, not a pc</b>}}</mark>
-if cooked without having strained it ⇒ <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{527082326889962::<b>sāmaṁpāka dkṭ</b>}}</mark> 
-it is not yāvakālika because ⇒ <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{527082326889962::<b>the kasaṭa was removed</b>}}</mark>
-can it be mixed with yāvakālika during kāla? ⇒ <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{527082326889962::<b>no, because it was cooked by an upa</b>}}</mark>
-<b>strained</b>, <b>anupa</b>, <b>cooks</b> it into jaggery ⇒ <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{527082326889962::<b>sattāhakālika (during kāla of the day it is accepted it can be mixed with food)</b>}}</mark>
-<b>strained</b>, <b>upa</b>, <b>cooks</b> it into jaggery ⇒ <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{527082326889962::<b>sattāhakālika (during kāla of the day it is accepted, it cannot be mixed with food because it was cooked by an upa - but it can be consumed by itself for āhārattha during kāla, and bhesajjattha for 7 days)</b>}}</mark>
+(extra note: vmtvndn suggests the kasaṭa becomes yāvajīvika while cooking\*)</b></mark> 
+consuming it during the vikāla ⇒ <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>seems to be a dkṭ, not a pc</b></mark>
+if cooked without having strained it ⇒ <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>sāmaṁpāka dkṭ</b></mark> 
+it is not yāvakālika because ⇒ <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>the kasaṭa was removed</b></mark>
+can it be mixed with yāvakālika during kāla? ⇒ <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>no, because it was cooked by an upa</b></mark>
+<b>strained</b>, <b>anupa</b>, <b>cooks</b> it into jaggery ⇒ <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>sattāhakālika (during kāla of the day it is accepted it can be mixed with food)</b></mark>
+<b>strained</b>, <b>upa</b>, <b>cooks</b> it into jaggery ⇒ <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>sattāhakālika (during kāla of the day it is accepted, it cannot be mixed with food because it was cooked by an upa - but it can be consumed by itself for āhārattha during kāla, and bhesajjattha for 7 days)</b></mark>
 <ul>
 <li>\*<b>Nirāmisameva vaṭṭati tattha paviṭṭhayāvakālikassa abbohārikattāti idaṃ guḷe kate tattha  vijjamānampi kasaṭaṃ pākena sukkhatāya yāvajīvikattaṃ bhajatīti vuttaṃ. Tassa  yāvakālikatte hi sāmaṃpākena purebhattepi anajjhoharaṇīyaṃ siyāti. (Vmv-ṭ. I. 353.).   </b> </li>
 </ul>
@@ -846,29 +846,29 @@ V. Srpt ate in a dānasālā, fell ill and had to stay there overnight; next day
 <li>only once</li>
 </ul>
 </li>
-<li>accepting āvasathapiṇḍa intending to consume it, <b>after having eaten once</b>: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{48785014186497255::<b>dkṭ</b>}}</mark> 
-consuming it: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{48785014186497255::<b>pc for every </b>}}</mark><mark remnotemark="true" style="background-color: transparent; color: yellow;">{{48785014186497255::<b>swallow</b>}}</mark>{{48785014186497255:: }} </li>
+<li>accepting āvasathapiṇḍa intending to consume it, <b>after having eaten once</b>: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>dkṭ</b></mark> 
+consuming it: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc for every </b></mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>swallow</b></mark>  </li>
 <li>how many times can it be consumed:
-from several dānasālās set up by a single family? <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{8685466650109293::only once in total}}</mark><mark remnotemark="true" style="background-color: transparent; color: yellow;">
-</mark>consuming more: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{8685466650109293::receiving dkṭ, swallowing pc}}</mark>
-consuming one day from one sāla, and the next day from another sālā: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{8685466650109293::āpatti}}</mark>
-from several dānasālās set up by multiple families (separately)? <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{8685466650109293::maximum one meal a day and only one from each dānasālā (kkvtrṇ-ṭ)}}</mark>
-eating twice the same day from different dānasālās set up by different families: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{8685466650109293::āpatti (kkvtrṇ-ṭ)}}</mark>
-after having eaten once from each dānasālās set up by multiple families, can a monk restart again from the 1st sālā? <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{8685466650109293::no}}</mark>
-what if several families get together and organize dānasālās in one location? <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{8685466650109293::only once can alms be consumed}}</mark>
-what if they do it in multiple locations? <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{8685466650109293::also once once}}</mark>
-summary: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{8685466650109293::It is not allowed to eat twice:
+from several dānasālās set up by a single family? <mark remnotemark="true" style="background-color: transparent; color: yellow;">only once in total</mark><mark remnotemark="true" style="background-color: transparent; color: yellow;">
+</mark>consuming more: <mark remnotemark="true" style="background-color: transparent; color: yellow;">receiving dkṭ, swallowing pc</mark>
+consuming one day from one sāla, and the next day from another sālā: <mark remnotemark="true" style="background-color: transparent; color: yellow;">āpatti</mark>
+from several dānasālās set up by multiple families (separately)? <mark remnotemark="true" style="background-color: transparent; color: yellow;">maximum one meal a day and only one from each dānasālā (kkvtrṇ-ṭ)</mark>
+eating twice the same day from different dānasālās set up by different families: <mark remnotemark="true" style="background-color: transparent; color: yellow;">āpatti (kkvtrṇ-ṭ)</mark>
+after having eaten once from each dānasālās set up by multiple families, can a monk restart again from the 1st sālā? <mark remnotemark="true" style="background-color: transparent; color: yellow;">no</mark>
+what if several families get together and organize dānasālās in one location? <mark remnotemark="true" style="background-color: transparent; color: yellow;">only once can alms be consumed</mark>
+what if they do it in multiple locations? <mark remnotemark="true" style="background-color: transparent; color: yellow;">also once once</mark>
+summary: <mark remnotemark="true" style="background-color: transparent; color: yellow;">It is not allowed to eat twice:
 from the same dānasāla
 or from the same donors
-or on the same day}}</mark>{{8685466650109293:: }}
+or on the same day</mark> 
 <ul>
 <li><b>“Nānākulehi pana nānāṭṭhānesu paññattaṃ, ekasmiṃ ṭhāne ekadivasaṃ bhuñjitvā dutiyadivase aññattha bhuñjituṃ vaṭṭati, paṭipāṭiṃ pana khepetvā puna ādito paṭṭhāya bhuñjituṃ na vaṭṭati”. </b> </li>
 </ul>
 </li>
-<li>what if is a dāna offered for a long period is temporarily interrupted and then resumed? <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{6711083706970942::<b>it does not change anything</b>}}</mark> 
-what if the dāna is interrupted, the idea of giving abandoned, and then a new dāna established? <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{6711083706970942::it resets the count‒one can again eat once from such sālā}}</mark>
-can food be consumed from dānasālās set for others apart from bhikkhus? <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{6711083706970942::not appropriate (vmtvndn)}}</mark>
-what about from those set by renunciants of other religions who are not please with monks, though they were set for everyone? <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{6711083706970942::not appropriate (vmtvndn)}}</mark> </li>
+<li>what if is a dāna offered for a long period is temporarily interrupted and then resumed? <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>it does not change anything</b></mark> 
+what if the dāna is interrupted, the idea of giving abandoned, and then a new dāna established? <mark remnotemark="true" style="background-color: transparent; color: yellow;">it resets the count‒one can again eat once from such sālā</mark>
+can food be consumed from dānasālās set for others apart from bhikkhus? <mark remnotemark="true" style="background-color: transparent; color: yellow;">not appropriate (vmtvndn)</mark>
+what about from those set by renunciants of other religions who are not please with monks, though they were set for everyone? <mark remnotemark="true" style="background-color: transparent; color: yellow;">not appropriate (vmtvndn)</mark> </li>
 </ul>
 </li>
 <li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anāpatti</b></mark><b> </b></h3>
@@ -885,17 +885,17 @@ what about from those set by renunciants of other religions who are not please w
 </li>
 <li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>intention</b></mark><b> and </b><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>perception</b></mark><b> </b></h3>
 <ul>
-<li>this is (acittaka / sacittaka?) {{7803986102167606::<b>acittaka</b>}}<b> </b>(nosaññāvimokkha / saññāvimokkha?) {{7803986102167606::<b>nosaññāvimokkha</b>}}<b> </b>offence</li>
-<li>it is a {{3127288288348873::<b>tika</b>}}-pācittiya and {{3127288288348873::<b>duka</b>}}-dukkaṭa offence and the perception involved is {{3127288288348873::<b>agilānasaññā </b>}}{{3127288288348873::and }}{{3127288288348873::<b>gilānasaññā</b>}}{{3127288288348873:: about the monk himself}} 
+<li>this is (acittaka / sacittaka?) <b>acittaka</b><b> </b>(nosaññāvimokkha / saññāvimokkha?) <b>nosaññāvimokkha</b><b> </b>offence</li>
+<li>it is a <b>tika</b>-pācittiya and <b>duka</b>-dukkaṭa offence and the perception involved is <b>agilānasaññā </b>and <b>gilānasaññā</b> about the monk himself 
                             <ul>
 <li><b>agilāno
-</b>agilānasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{9898447072312611::<b>pc</b>}}</mark>
-vematiko: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{9898447072312611::<b>pc</b>}}</mark>
-gilānassaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{9898447072312611::<b>pc</b>}}</mark>
+</b>agilānasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc</b></mark>
+vematiko: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc</b></mark>
+gilānassaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc</b></mark>
 <b>gilāno</b>
-agilānasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{9898447072312611::<b>dkṭ</b>}}</mark><b>
-</b>vematiko: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{9898447072312611::<b>dkṭ</b>}}</mark>
-gilānasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{9898447072312611::<b>anāpatti</b>}}</mark> </li>
+agilānasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>dkṭ</b></mark><b>
+</b>vematiko: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>dkṭ</b></mark>
+gilānasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anāpatti</b></mark> </li>
 </ul>
 </li>
 </ul>
@@ -1058,8 +1058,8 @@ many monks came to Rājagaha after vassa; people invited for alms; monks rejecte
 <li>the <b>consumption </b>of such alms</li>
 </ul>
 </li>
-<li>accepting gaṇabhojana: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{052415280480652804::<b>dkṭ</b>}}</mark> 
-consuming it: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{052415280480652804::<b>pc for every </b>}}</mark><mark remnotemark="true" style="background-color: transparent; color: yellow;">{{052415280480652804::<b>swallow</b>}}</mark> </li>
+<li>accepting gaṇabhojana: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>dkṭ</b></mark> 
+consuming it: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc for every </b></mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>swallow</b></mark> </li>
 <li><b>7 samaya </b>(suitable times) for accepting and consuming gaṇabhojana
                             <ul>
 <li><b>gilāna </b>samaya: unable to go for alms; at least cracked feet</li>
@@ -1110,8 +1110,8 @@ some teachers: does not include the repairing of an old robe</li>
 </li>
 <li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>intention</b></mark><b> and </b><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>perception</b></mark><b> </b></h3>
 <ul>
-<li>this is {{014784319064360174::<b>acittaka</b>}}, {{014784319064360174::<b>nosaññāvimokkha</b>}} offence</li>
-<li>this is a {{25589306596867667::<b>tika</b>}}-pācittiya, {{25589306596867667::<b>duka</b>}}-dukkaṭa offence, and the perceptions involved are {{25589306596867667::<b>gaṇabhojana saññā </b>}}{{25589306596867667::and }}{{25589306596867667::<b>nagaṇabhojanasaññā</b>}}{{25589306596867667:: }} </li>
+<li>this is <b>acittaka</b>, <b>nosaññāvimokkha</b> offence</li>
+<li>this is a <b>tika</b>-pācittiya, <b>duka</b>-dukkaṭa offence, and the perceptions involved are <b>gaṇabhojana saññā </b>and <b>nagaṇabhojanasaññā</b>  </li>
 </ul>
 </li>
 <li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>factors</b></mark><b> </b></h3>
@@ -1226,8 +1226,8 @@ The Buddha and V. Ānanda in a house; V. Ānanda rejected bhojana because of ano
 </li>
 </ul>
 </li>
-<li>accepting paramparabhojana: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{6037539526821081::<b>dkṭ</b>}}</mark> 
-consuming it: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{6037539526821081::<b>pc for every swallow</b>}}</mark></li>
+<li>accepting paramparabhojana: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>dkṭ</b></mark> 
+consuming it: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc for every swallow</b></mark></li>
 <li><b>1 allowable method</b> and <b>3 allowed samaya</b>
 <ul>
 <li><b>gilāna</b> samaya: one is unable eat as much as is adequate in one sitting</li>
@@ -1237,12 +1237,12 @@ consuming it: <mark remnotemark="true" style="background-color: transparent; col
 <li><b>consuming subsequent to vikappanā:</b> paramparabhojana can be consumed by transferring the invitation one has accepted to another bhikkhu‒it can be <b>sammukhā</b> or <b>parammukhā vikappanā</b> </li>
 </ul>
 </li>
-<li>multiple akappiya nimantanas; all served at once and mixed in the patta: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{9876123273312105::<b>anāpatti</b>}}</mark> 
-if they are not mixed: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{9876123273312105::at least one mouthful must be consumed first from the alms offered by the sponsor who invited first}}</mark>
-otherwise: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{9876123273312105::pc for every swallow}}</mark>
-if they were cooked together, such as by one family: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{9876123273312105::one need not consider the order
-}}</mark>
-if cooked separately: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{9876123273312105::at least one portion from the first invitation}}</mark>{{9876123273312105:: }} </li>
+<li>multiple akappiya nimantanas; all served at once and mixed in the patta: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anāpatti</b></mark> 
+if they are not mixed: <mark remnotemark="true" style="background-color: transparent; color: yellow;">at least one mouthful must be consumed first from the alms offered by the sponsor who invited first</mark>
+otherwise: <mark remnotemark="true" style="background-color: transparent; color: yellow;">pc for every swallow</mark>
+if they were cooked together, such as by one family: <mark remnotemark="true" style="background-color: transparent; color: yellow;">one need not consider the order
+</mark>
+if cooked separately: <mark remnotemark="true" style="background-color: transparent; color: yellow;">at least one portion from the first invitation</mark>  </li>
 <li><b>what should be done</b> if, after being invited, another donor comes to collect the patta? and what if another brings food?
                             <ul>
 <li>another wants to <b>collect the patta</b>
@@ -1260,9 +1260,9 @@ there is no paramparabhojana  </li>
 </li>
 </ul>
 </li>
-<li>after accepting a nimantana, consuming piṇḍapāta bhojana received before the nimantana: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{11714909044734334::<b>āpatti</b>}}</mark> 
-if the donor inquires the reason for the monk not to eat the piṇḍapāta food: {{11714909044734334::the monk should explain “It is because I have been invited by you.”}}
-if the devotee tells the monk to eat what he had obtained: {{11714909044734334::it is ok to do so}} </li>
+<li>after accepting a nimantana, consuming piṇḍapāta bhojana received before the nimantana: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>āpatti</b></mark> 
+if the donor inquires the reason for the monk not to eat the piṇḍapāta food: the monk should explain “It is because I have been invited by you.”
+if the devotee tells the monk to eat what he had obtained: it is ok to do so </li>
 </ul>
 </li>
 <li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anāpatti</b></mark></h3>
@@ -1293,8 +1293,8 @@ if the devotee tells the monk to eat what he had obtained: {{11714909044734334::
 </li>
 <li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>intention </b></mark>and<mark remnotemark="true" style="background-color: transparent; color: yellow;"><b> perception</b></mark></h3>
 <ul>
-<li>this is {{0673999033281727::<b>acittaka</b>}}, {{0673999033281727::<b>nosaññāvimokkha</b>}} offence</li>
-<li>this is a {{9406115563395925::<b>tika</b>}}-pācittiya, {{9406115563395925::<b>duka</b>}} -dukkaṭa offence, and the perceptions involved are {{9406115563395925::<b>parampara bhojana saññā </b>}}{{9406115563395925::and }}{{9406115563395925::<b>naparampara bhojana saññā</b>}}{{9406115563395925:: }} </li>
+<li>this is <b>acittaka</b>, <b>nosaññāvimokkha</b> offence</li>
+<li>this is a <b>tika</b>-pācittiya, <b>duka</b> -dukkaṭa offence, and the perceptions involved are <b>parampara bhojana saññā </b>and <b>naparampara bhojana saññā</b>  </li>
 </ul>
 </li>
 <li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>factors   </b></mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"> </mark></h3>
@@ -1428,20 +1428,20 @@ a monk approached a caravan for alms; he was given sattu; he informed another mo
 </li>
 <li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>āpatti</b></mark></h3>
 <ul>
-<li>not informing the next bhikkhus after receiving a bowlful of pūva / mantha: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{5900352348790425::<b>dkṭ</b>}}</mark> 
-if the next bhikkhu, having been informed, accepts more than the limit: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{5900352348790425::<b>dkṭ for every piece</b>}}</mark>
-if one accepts more than 3 bowlfuls all by oneself: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{5900352348790425::<b>pc for every pūva / mantha beyond the 3rd bowlful</b>}}</mark> 
+<li>not informing the next bhikkhus after receiving a bowlful of pūva / mantha: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>dkṭ</b></mark> 
+if the next bhikkhu, having been informed, accepts more than the limit: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>dkṭ for every piece</b></mark>
+if one accepts more than 3 bowlfuls all by oneself: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc for every pūva / mantha beyond the 3rd bowlful</b></mark> 
 accepting more, but in another container (not in the patta): 
-<mark remnotemark="true" style="background-color: transparent; color: yellow;">{{5900352348790425::<b>anāpatti</b>}}</mark>{{5900352348790425:: (according to some teachers' suggestion)}}{{5900352348790425::<b>
-</b>}}<mark remnotemark="true" style="background-color: transparent; color: yellow;">{{5900352348790425::<b>āpatti</b>}}</mark>{{5900352348790425::<b> </b>}}{{5900352348790425::(vjrbd-ṭ: 3 bowlfuls is just a measurement and is based on an ukkuṭṭhapatta)}} 
-accepting more from the surplus of the gift / provisions for journey: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{5900352348790425::<b>anāpatti</b>}}</mark>
-accepting more after the gift / journey was cancelled: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{5900352348790425::<b>anāpatti</b>}}</mark> 
-accepting from ñātaka pavārita: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{5900352348790425::<b>anāpatti</b>}}</mark> 
-accepting more for another from aññātaka appavārita: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{5900352348790425::<b>āpatti</b>}}</mark>
-accepting more for another from one's own ñātaka appavārita: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{5900352348790425::<b>anāpatti</b>}}</mark>
-accepting more for another from the other's ñātaka appavārita: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{5900352348790425::<b>anāpatti</b>}}</mark> 
-accepting more when the wealth of another was used: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{5900352348790425::<b>āpatti</b>}}</mark>
-accepting more when one's own wealth was used: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{5900352348790425::<b>anāpatti</b>}}</mark> </li>
+<mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anāpatti</b></mark> (according to some teachers' suggestion)<b>
+</b><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>āpatti</b></mark><b> </b>(vjrbd-ṭ: 3 bowlfuls is just a measurement and is based on an ukkuṭṭhapatta) 
+accepting more from the surplus of the gift / provisions for journey: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anāpatti</b></mark>
+accepting more after the gift / journey was cancelled: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anāpatti</b></mark> 
+accepting from ñātaka pavārita: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anāpatti</b></mark> 
+accepting more for another from aññātaka appavārita: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>āpatti</b></mark>
+accepting more for another from one's own ñātaka appavārita: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anāpatti</b></mark>
+accepting more for another from the other's ñātaka appavārita: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anāpatti</b></mark> 
+accepting more when the wealth of another was used: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>āpatti</b></mark>
+accepting more when one's own wealth was used: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anāpatti</b></mark> </li>
 </ul>
 </li>
 <li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anāpatti</b></mark></h3>
@@ -1458,17 +1458,17 @@ accepting more when one's own wealth was used: <mark remnotemark="true" style="b
 </li>
 <li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>intention</b></mark> \&amp; <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>perception</b></mark></h3>
 <ul>
-<li>this is {{10715866884096825::<b>acittaka</b>}} {{10715866884096825::<b>nosaññāvimokkha</b>}} offence</li>
-<li>this is a {{9686684675631358::<b>tika</b>}}-pācittiya and {{9686684675631358::<b>duka</b>}}-dukkaṭa offence
-the perceptions involved are {{9686684675631358::<b>atirekasaññā</b>}}{{9686684675631358:: (idea that one is accepting more than what was recommended) and }}{{9686684675631358::<b>ūṇakasaññā</b>}}{{9686684675631358:: (idea that one is accepting less than or the exact amount that was recommended)}} </li>
+<li>this is <b>acittaka</b> <b>nosaññāvimokkha</b> offence</li>
+<li>this is a <b>tika</b>-pācittiya and <b>duka</b>-dukkaṭa offence
+the perceptions involved are <b>atirekasaññā</b> (idea that one is accepting more than what was recommended) and <b>ūṇakasaññā</b> (idea that one is accepting less than or the exact amount that was recommended) </li>
 <li><b>one takes too much</b>
-atirekasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{42965270797942856::<b>pc</b>}}</mark>
-vematiko: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{42965270797942856::<b>pc</b>}}</mark>
-ūṇakasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{42965270797942856::<b>pc</b>}}</mark>
+atirekasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc</b></mark>
+vematiko: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc</b></mark>
+ūṇakasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc</b></mark>
 <b>one takes within the acceptable amount</b>
-atirekasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{42965270797942856::<b>dkṭ</b>}}</mark>
-vematiko: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{42965270797942856::<b>dkṭ</b>}}</mark>
-ūṇakasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{42965270797942856::<b>anāpatti</b>}}</mark> </li>
+atirekasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>dkṭ</b></mark>
+vematiko: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>dkṭ</b></mark>
+ūṇakasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anāpatti</b></mark> </li>
 </ul>
 </li>
 <li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>factors</b></mark></h3>
@@ -1579,14 +1579,14 @@ bhikkhus disposed of gilānātiritta because of the rule; Tathāgata allowed</li
 <li>refusal (yo pana bhikkhu bhuttāvī pavārito): the act of refusing one of the pañca bhojanas offered at his hatthapāsa after having started eating pañcabhojana</li>
 </ul>
 </li>
-<li>after having started eating, refusing a bhojana offered within hatthapāsa: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{7753919103851317::<b>one becomes pavārita, but there is no offense</b>}}</mark> 
-accepting food afterwards while still in the same iriyāpatha: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{7753919103851317::<b>anāpatti</b>}}</mark>
-consuming it: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{7753919103851317::<b>anāpatti</b>}}</mark>
-accepting food intending to consume it after having changed the iriyāpatha: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{7753919103851317::<b>dkṭ</b>}}</mark>
-consuming it: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{7753919103851317::<b>pc for every swallow</b>}}</mark>
+<li>after having started eating, refusing a bhojana offered within hatthapāsa: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>one becomes pavārita, but there is no offense</b></mark> 
+accepting food afterwards while still in the same iriyāpatha: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anāpatti</b></mark>
+consuming it: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anāpatti</b></mark>
+accepting food intending to consume it after having changed the iriyāpatha: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>dkṭ</b></mark>
+consuming it: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc for every swallow</b></mark>
 </li>
-<li>rejecting foods other than pañcabhojana: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{4528739349540334::<b>not pavāraṇā</b>}}</mark> 
-rejecting unallowable foods: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{4528739349540334::<b>not pavāraṇa</b>}}</mark> </li>
+<li>rejecting foods other than pañcabhojana: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>not pavāraṇā</b></mark> 
+rejecting unallowable foods: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>not pavāraṇa</b></mark> </li>
 </ul>
 </li>
 <li><b>food</b> that causes pavāraṇā
@@ -1624,7 +1624,7 @@ rejecting unallowable foods: <mark remnotemark="true" style="background-color: t
 <li><b>can</b>: atiritta yāvakālika, and yāmakālika, sattāhakālika and yāvajīvika for bhesajjattha (sati paccaye)</li>
 </ul>
 </li>
-<li>consuming yāmakālika, sattāhakālika or yāvajīvika for <b>āhārattha</b> after becoming pavārita: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{660670334069928::<b>dkṭ for each swallow</b>}}</mark> </li>
+<li>consuming yāmakālika, sattāhakālika or yāvajīvika for <b>āhārattha</b> after becoming pavārita: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>dkṭ for each swallow</b></mark> </li>
 <li><b>5 factors</b> of pavāraṇā‒<b>Pañcahi upāli ākārehi pavāraṇā paññāyati – </b>
 <ul>
 <li><b>asanaṃ paññāyati: </b>having swallowed even a tiny bit‒chewed or not‒of one of the pañcabhojana; from then onwards, one is called <b>bhuttāvī </b>(one who has eaten)</li>
@@ -1635,8 +1635,8 @@ rejecting unallowable foods: <mark remnotemark="true" style="background-color: t
 <li>no</li>
 </ul>
 </li>
-<li>one has food on the hand or bowl, but not in the mouth, and intends to go somewhere else to consume it, give it away, or dispose of it, and rejects bhojana: (pavārita or not?): <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{9886030540709323::<b>no</b>}}</mark> 
-another has food in the mouth, but not in the bowl or on the hands, intends not to swallow the food, but spit it out, and refuses bhojana: (pavārita or not?): <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{9886030540709323::no}}</mark> </li>
+<li>one has food on the hand or bowl, but not in the mouth, and intends to go somewhere else to consume it, give it away, or dispose of it, and rejects bhojana: (pavārita or not?): <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>no</b></mark> 
+another has food in the mouth, but not in the bowl or on the hands, intends not to swallow the food, but spit it out, and refuses bhojana: (pavārita or not?): <mark remnotemark="true" style="background-color: transparent; color: yellow;">no</mark> </li>
 </ul>
 </li>
 <li><b>hatthapāse ṭhito hoti:</b> the donor being within hatthapāsa (2 1/2 hattha)
@@ -1679,8 +1679,8 @@ sace bhikkhu </b><mark remnotemark="true" style="background-color: transparent; 
 </li>
 <li><b>apanāmana: </b>tilting the food towards the monk when it is located on the ground or some stand  
                                                             <ul>
-<li>donor A, with a patta on his hands, lap, stand, or ground, offers rice without any gesture to monk B who rejects it: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{3959299692831475::<b>no pavāraṇā</b>}}</mark> 
-the same, but the donor offers tilting the patta: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{3959299692831475::pavāraṇā}}</mark> </li>
+<li>donor A, with a patta on his hands, lap, stand, or ground, offers rice without any gesture to monk B who rejects it: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>no pavāraṇā</b></mark> 
+the same, but the donor offers tilting the patta: <mark remnotemark="true" style="background-color: transparent; color: yellow;">pavāraṇā</mark> </li>
 </ul>
 </li>
 <li><b>onamana: </b>when a donor is carrying food on his head, his act of lowering the food and slightly bending towards the recipient intending to offer it is onamana</li>
@@ -1691,8 +1691,8 @@ the same, but the donor offers tilting the patta: <mark remnotemark="true" style
 </li>
 <li><b>dūtena pesana kathā</b>
 <ul>
-<li>bk A sends food to bk B by bk C saying "take"; bk C stands silently in front of B who rejects: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{31997437656072814::<b>no pavāraṇā </b>}}</mark>{{31997437656072814::(because of A being far away, and C standing silently)}}<mark remnotemark="true" style="background-color: transparent; color: yellow;">{{31997437656072814::<b> </b>}}</mark> 
-if C says "take": <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{31997437656072814::pavāraṇā }}</mark>{{31997437656072814::(but some teachers and srtdpn say that it is only so if C does kāyābhihāra)}}
+<li>bk A sends food to bk B by bk C saying "take"; bk C stands silently in front of B who rejects: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>no pavāraṇā </b></mark>(because of A being far away, and C standing silently)<mark remnotemark="true" style="background-color: transparent; color: yellow;"><b> </b></mark> 
+if C says "take": <mark remnotemark="true" style="background-color: transparent; color: yellow;">pavāraṇā </mark>(but some teachers and srtdpn say that it is only so if C does kāyābhihāra)
                                                     <ul>
 <li><b>Therāsane nisinno thero dūre nisinnassa daharabhikkhussa pattaṃ pesetvā "ito odanaṃ  gaṇhāhī"ti vadati, gaṇhitvā pana gato tuṇhī tiṭṭhati, daharo "alaṃ mayha"nti paṭikkhipati, na  pavāreti. Kasmā? Therassa dūrabhāvato dūtassa ca anabhiharaṇatoti. Sace pana gahetvā  āgato bhikkhu "idaṃ bhattaṃ gaṇhā"ti vadati, taṃ paṭikkhipato pavāraṇā hoti. (V-a. III. 92.).  Hatthapāsato bahi ṭhitassa satipi dātukāmābhihāre paṭikkhipantassa dūrabhāveneva  pavāraṇāya abhāvato therassapi dūrabhāvamattaṃ gahetvā pavāraṇāya abhāvaṃ dassento  "therassa dūrabhāvato"ti āha, na pana therassa abhihārasabbhāvato. Sacepi gahetvā gato  hatthapāse ṭhito hoti, kiñci pana avatvā ādhārakaṭṭhāne ṭhitattā abhihāro nāma na hotīti  "dūtassa ca anabhiharaṇato"ti vuttaṃ. "gahetvā gatena ‘Bhattaṃ gaṇhathā’ti vutte abhihāro  nāma hotīti ‘Sace pana gahetvā āgato bhikkhu…pe… pavāraṇā hotī’ti vutta"nti tīsupi  gaṇṭhipadesu vuttaṃ. Keci pana "pattaṃ kiñci upanāmetvā ‘Imaṃ bhattaṃ gaṇhathā’ti  vuttanti gahetabba"nti vadanti, taṃ yuttaṃ viya dissati vācābhihārassa idha anadhippetattā.  (Srd-ṭ. III. 61.).   </b> </li>
 <li><mark remnotemark="true" style="background-color: transparent; color: purple;"><i>why does the thera being far away make a difference? </i></mark><mark remnotemark="true" style="background-color: transparent; color: purple;"><i> </i></mark> #<mark remnotemark="true" style="background-color: transparent; color: purple;"><b>q</b></mark>🙋🏼‍♂</li>
@@ -1702,13 +1702,13 @@ if C says "take": <mark remnotemark="true" style="background-color: transparent;
 </li>
 <li><b>parivesana kathā</b>
 <ul>
-<li>the donor holds a container of bhojana on one hand and offers it with a spoon on the other hand; he enters the hatthapāsa intending to offer (abhihāra or not?): <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{49372985962395344::<b>abhihāra</b>}}</mark> 
-the monk rejects: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{49372985962395344::<b>pavāraṇā</b>}}</mark>
-donor A holds the container while donor B just touches it; donor A enters hatthapāsa intending to offer and offers (abhihāra or not?): <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{49372985962395344::abhihāra }}</mark><mark remnotemark="true" style="background-color: transparent; color: yellow;">{{49372985962395344::(holder and offerer are the same)}}</mark>
-the monk rejects: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{49372985962395344::pavāraṇā}}</mark>
-donor B holds the container while donor A offers; entering the hatthapāsa intending to offer (abhinihāra or not?): <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{49372985962395344::no, }}</mark><mark remnotemark="true" style="background-color: transparent; color: yellow;">{{49372985962395344::only when kāyābhihāra is done‒e.g.: the bhojana is taken with the spoon and lifted (ukkhipana)}}</mark>
-the monk rejects: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{49372985962395344::not pavāraṇā}}</mark>
-while a donor offers to monk A, monk B, sitting nearby, covers his patta: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{49372985962395344::no pavāraṇā}}</mark><mark remnotemark="true" style="background-color: transparent; color: yellow;">{{49372985962395344::, since the offering was intended to monk A}}</mark>
+<li>the donor holds a container of bhojana on one hand and offers it with a spoon on the other hand; he enters the hatthapāsa intending to offer (abhihāra or not?): <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>abhihāra</b></mark> 
+the monk rejects: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pavāraṇā</b></mark>
+donor A holds the container while donor B just touches it; donor A enters hatthapāsa intending to offer and offers (abhihāra or not?): <mark remnotemark="true" style="background-color: transparent; color: yellow;">abhihāra </mark><mark remnotemark="true" style="background-color: transparent; color: yellow;">(holder and offerer are the same)</mark>
+the monk rejects: <mark remnotemark="true" style="background-color: transparent; color: yellow;">pavāraṇā</mark>
+donor B holds the container while donor A offers; entering the hatthapāsa intending to offer (abhinihāra or not?): <mark remnotemark="true" style="background-color: transparent; color: yellow;">no, </mark><mark remnotemark="true" style="background-color: transparent; color: yellow;">only when kāyābhihāra is done‒e.g.: the bhojana is taken with the spoon and lifted (ukkhipana)</mark>
+the monk rejects: <mark remnotemark="true" style="background-color: transparent; color: yellow;">not pavāraṇā</mark>
+while a donor offers to monk A, monk B, sitting nearby, covers his patta: <mark remnotemark="true" style="background-color: transparent; color: yellow;">no pavāraṇā</mark><mark remnotemark="true" style="background-color: transparent; color: yellow;">, since the offering was intended to monk A</mark>
 <ul>
 <li><b>Anantarassa bhikkhuno bhatte diyyamāne itaro pattaṃ hatthehi pidahati, pavāraṇā natthi. Kasmā? Aññassa abhihaṭe paṭikkhittattā. (V-a. III. 93.).   </b> </li>
 </ul>
@@ -1825,10 +1825,10 @@ practical ways of avoiding pavāraṇā‒
 </li>
 <li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>āpatti</b></mark></h3>
 <ul>
-<li>pavārita monk changes posture and accepts anatiritta food intending to eat it: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{02573555378621939::<b>dkṭ</b>}}</mark> 
-consuming it: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{02573555378621939::<b>pc for every </b>}}</mark><mark remnotemark="true" style="background-color: transparent; color: yellow;">{{02573555378621939::<b>swallow</b>}}</mark>
-if he accepts yāmakālika, sattāhakālika or yāvajīvika for āhārattha: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{02573555378621939::dkṭ}}</mark>
-consuming it: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{02573555378621939::dkṭ for every }}</mark><mark remnotemark="true" style="background-color: transparent; color: yellow;">{{02573555378621939::swallow}}</mark> </li>
+<li>pavārita monk changes posture and accepts anatiritta food intending to eat it: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>dkṭ</b></mark> 
+consuming it: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc for every </b></mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>swallow</b></mark>
+if he accepts yāmakālika, sattāhakālika or yāvajīvika for āhārattha: <mark remnotemark="true" style="background-color: transparent; color: yellow;">dkṭ</mark>
+consuming it: <mark remnotemark="true" style="background-color: transparent; color: yellow;">dkṭ for every </mark><mark remnotemark="true" style="background-color: transparent; color: yellow;">swallow</mark> </li>
 </ul>
 </li>
 <li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anāpatti</b></mark></h3>
@@ -1842,16 +1842,16 @@ consuming it: <mark remnotemark="true" style="background-color: transparent; col
 </li>
 <li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>intention</b></mark> and <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>perception</b></mark></h3>
 <ul>
-<li>this is {{524804480597473::<b>acittaka</b>}}, {{524804480597473::<b>nosaññāvimokkha</b>}} offence</li>
-<li>this is a {{8487705619939976::<b>tika</b>}}-pācittiya and {{8487705619939976::<b>duka</b>}}-dukkaṭa offence; saññās involved are {{8487705619939976::<b>anatiritta /</b>}}{{8487705619939976:: }}{{8487705619939976::<b>atiritta saññā</b>}} </li>
+<li>this is <b>acittaka</b>, <b>nosaññāvimokkha</b> offence</li>
+<li>this is a <b>tika</b>-pācittiya and <b>duka</b>-dukkaṭa offence; saññās involved are <b>anatiritta /</b> <b>atiritta saññā</b> </li>
 <li><b>pavārita consuming anatiritta</b>
-anatirittasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{6608515944930411::<b>pc</b>}}</mark>
-vematiko: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{6608515944930411::<b>pc</b>}}</mark>
-atirittasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{6608515944930411::<b>pc</b>}}</mark>
+anatirittasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc</b></mark>
+vematiko: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc</b></mark>
+atirittasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc</b></mark>
 <b>pavārita consuming atiritta</b>
-anatirittasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{6608515944930411::<b>dkṭ</b>}}</mark>
-vematiko: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{6608515944930411::<b>dkṭ</b>}}</mark>
-atirittasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{6608515944930411::<b>anāpatti</b>}}</mark> </li>
+anatirittasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>dkṭ</b></mark>
+vematiko: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>dkṭ</b></mark>
+atirittasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anāpatti</b></mark> </li>
 </ul>
 </li>
 <li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>factors</b></mark></h3>
@@ -1888,8 +1888,8 @@ atirittasaññī: <mark remnotemark="true" style="background-color: transparent;
 </li>
 <li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><b>extra notes:</b></h3>
 <ul>
-<li>after having done the vinayakamma once, if more food is offered in the same container: {{5674774064780455::<b>it should be redone; but it cannot be redone with the same monk since he refused the food</b>}} 
-if more food is offered in another container: {{5674774064780455::<b>it should be redone, it can be done with the same monk or another</b>}} </li>
+<li>after having done the vinayakamma once, if more food is offered in the same container: <b>it should be redone; but it cannot be redone with the same monk since he refused the food</b> 
+if more food is offered in another container: <b>it should be redone, it can be done with the same monk or another</b> </li>
 <li>can the monk who does the vinayakamma <b>later eat</b> that same food?
                             <ul>
 <li>no, because he has refused it (alametaṁ sabbaṁ)</li>
@@ -1995,11 +1995,11 @@ if more food is offered in another container: {{5674774064780455::<b>it should b
 <li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>description</b></mark></h3>
 <ul>
 <li><b>āsādanāpekkhatā</b>↔intention of accusing (here, of eating anatiritta yāvakālika food after pavāraṇā)</li>
-<li>serving a pavārita monk anatiritta yāvakālika with āsādanapekkhatā: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{5733439883518665::<b>dkṭ</b>}}</mark> 
-if the pavārita accepts it intending to eat it: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{5733439883518665::<b>dkṭ for the giver</b>}}</mark> 
-if the pavārita eats it: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{5733439883518665::<b>the giver incurrs a dkṭ for his every swallow, and a pc at the end </b>}}</mark> 
-offering yāma-, sattāha-kālikas or yāvajīvikas for āhārattha: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{5733439883518665::the same offenses but no pc at the end}}</mark>
-if the pavārita doesn't know it is anatiritta: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{5733439883518665::offenses for the giver all the same}}</mark> </li>
+<li>serving a pavārita monk anatiritta yāvakālika with āsādanapekkhatā: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>dkṭ</b></mark> 
+if the pavārita accepts it intending to eat it: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>dkṭ for the giver</b></mark> 
+if the pavārita eats it: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>the giver incurrs a dkṭ for his every swallow, and a pc at the end </b></mark> 
+offering yāma-, sattāha-kālikas or yāvajīvikas for āhārattha: <mark remnotemark="true" style="background-color: transparent; color: yellow;">the same offenses but no pc at the end</mark>
+if the pavārita doesn't know it is anatiritta: <mark remnotemark="true" style="background-color: transparent; color: yellow;">offenses for the giver all the same</mark> </li>
 </ul>
 </li>
 <li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anāpatti</b></mark></h3>
@@ -2017,17 +2017,17 @@ if the pavārita doesn't know it is anatiritta: <mark remnotemark="true" style="
 </li>
 <li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>intention</b></mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"> </mark>and<mark remnotemark="true" style="background-color: transparent; color: yellow;"><b> perception   </b></mark></h3>
 <ul>
-<li>this is {{4148758734056699::<b>sacittaka</b>}} {{4148758734056699::<b>saññāvimokkha</b>}} offence</li>
-<li>this is {{8508646421208765::<b>ekaka</b>}}-pācittiya and {{8508646421208765::<b>tika</b>}}-dukkaṭa offence; the perception involved is {{8508646421208765::<b>pavārita saññā</b>}}{{8508646421208765:: and }}{{8508646421208765::<b>appavārita saññā</b>}}{{8508646421208765:: }} </li>
+<li>this is <b>sacittaka</b> <b>saññāvimokkha</b> offence</li>
+<li>this is <b>ekaka</b>-pācittiya and <b>tika</b>-dukkaṭa offence; the perception involved is <b>pavārita saññā</b> and <b>appavārita saññā</b>  </li>
 <li>(should be confirmed)<b>
 offering to a pavārita monk</b>
-pavāritasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{14309912333000252::<b>pc</b>}}</mark>
-vematiko: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{14309912333000252::<b>dkṭ</b>}}</mark>
-appavāritasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{14309912333000252::<b>anāpatti</b>}}</mark>
+pavāritasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc</b></mark>
+vematiko: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>dkṭ</b></mark>
+appavāritasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anāpatti</b></mark>
 <b>offering to a non-pavārita monk</b>
-pavāritasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{14309912333000252::<b>dkṭ</b>}}</mark>
-vematiko: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{14309912333000252::<b>dkṭ</b>}}</mark>
-appavāritasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{14309912333000252::<b>anāpatti</b>}}</mark> </li>
+pavāritasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>dkṭ</b></mark>
+vematiko: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>dkṭ</b></mark>
+appavāritasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anāpatti</b></mark> </li>
 </ul>
 </li>
 <li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>factors </b></mark></h3>
@@ -2086,18 +2086,18 @@ If any bhikkhu, knowingly \[and] desiring to cause offence, should invite a  bhi
 <li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>description</b></mark></h3>
 <ul>
 <li>in the early days, no rule; Buddha advised them to eat one meals before noon (<b>ekabhattika</b>); background story happened;</li>
-<li>accepting food in the vikāla intending to consume it: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{7798285474984537::<b>dkṭ</b>}}</mark> 
-consuming it: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{7798285474984537::<b>pc for every swallow</b>}}</mark>
-accepting yāma-, sattāha-, and yāvajīvika for āhāratthāya: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{7798285474984537::dkṭ}}</mark>
-consuming it: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{7798285474984537::dkṭ for every swallow}}</mark>
-accepting yāvakālika in the vikāla thinking it is non-yāvakālika: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{7798285474984537::dkṭ}}</mark>
-consuming it: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{7798285474984537::pc for every swallow}}</mark>
+<li>accepting food in the vikāla intending to consume it: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>dkṭ</b></mark> 
+consuming it: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc for every swallow</b></mark>
+accepting yāma-, sattāha-, and yāvajīvika for āhāratthāya: <mark remnotemark="true" style="background-color: transparent; color: yellow;">dkṭ</mark>
+consuming it: <mark remnotemark="true" style="background-color: transparent; color: yellow;">dkṭ for every swallow</mark>
+accepting yāvakālika in the vikāla thinking it is non-yāvakālika: <mark remnotemark="true" style="background-color: transparent; color: yellow;">dkṭ</mark>
+consuming it: <mark remnotemark="true" style="background-color: transparent; color: yellow;">pc for every swallow</mark>
 </li>
-<li>bhattuggāra comes up but does not enter the mouth and one eats yāvakālika: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{146760165217396::<b>anāpatti</b>}}</mark> 
-it comes up and enters the mouth; one swallows: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{146760165217396::<b>pc for every swallow</b>}}</mark>
-food between the teeth; taste is present; one swallows it without being aware: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{146760165217396::pc}}</mark>
-being aware: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{146760165217396::pc}}</mark>
-if the particles are very small and there is no taste: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{146760165217396::abbhohārika, anāpatti}}</mark></li>
+<li>bhattuggāra comes up but does not enter the mouth and one eats yāvakālika: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anāpatti</b></mark> 
+it comes up and enters the mouth; one swallows: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc for every swallow</b></mark>
+food between the teeth; taste is present; one swallows it without being aware: <mark remnotemark="true" style="background-color: transparent; color: yellow;">pc</mark>
+being aware: <mark remnotemark="true" style="background-color: transparent; color: yellow;">pc</mark>
+if the particles are very small and there is no taste: <mark remnotemark="true" style="background-color: transparent; color: yellow;">abbhohārika, anāpatti</mark></li>
 <li>should one <b>wash </b>the mouth before noon?
                             <ul>
 <li>the mouth should be rinsed with water before noon; if water is not available, one should spit 2 or 3 times after hawking (<b>kakkhāretvā</b>) and then find water to rinse the mouth</li>
@@ -2125,17 +2125,17 @@ if the particles are very small and there is no taste: <mark remnotemark="true" 
 </li>
 <li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>intention</b></mark> and <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>perception</b></mark></h3>
 <ul>
-<li>this is <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{16882232416730258::<b>acittaka</b>}}</mark>, <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{16882232416730258::<b>nosaññāvimokkha</b>}}</mark> offence</li>
-<li>this is a <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{6353641158410319::<b>tika</b>}}</mark>-pācittiya and <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{6353641158410319::<b>duka</b>}}</mark> dukkaṭa offence
-perceptions involved are <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{6353641158410319::<b>vikāla saññā</b>}}</mark>{{6353641158410319:: and }}<mark remnotemark="true" style="background-color: transparent; color: yellow;">{{6353641158410319::<b>kāla saññā</b>}}</mark>{{6353641158410319:: }} </li>
+<li>this is <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>acittaka</b></mark>, <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>nosaññāvimokkha</b></mark> offence</li>
+<li>this is a <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>tika</b></mark>-pācittiya and <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>duka</b></mark> dukkaṭa offence
+perceptions involved are <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>vikāla saññā</b></mark> and <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>kāla saññā</b></mark>  </li>
 <li><b>vikāle</b>
-vikālasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{38993510573053025::<b>pc</b>}}</mark>
-vematiko: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{38993510573053025::<b>pc</b>}}</mark>
-kālasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{38993510573053025::<b>pc</b>}}</mark><b>
+vikālasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc</b></mark>
+vematiko: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc</b></mark>
+kālasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc</b></mark><b>
 kāle
-vikālasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{38993510573053025::dkṭ}}</mark>
-vematiko: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{38993510573053025::dkṭ}}</mark>
-kālasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{38993510573053025::anāpatti}}</mark> </li>
+vikālasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;">dkṭ</mark>
+vematiko: <mark remnotemark="true" style="background-color: transparent; color: yellow;">dkṭ</mark>
+kālasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;">anāpatti</mark> </li>
 </ul>
 </li>
 <li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><b>puggalodissa anuññāta</b></h3>
@@ -2155,11 +2155,11 @@ Na ca, bhikkhave, bahimukhadvāraṃ </b>(outside the mouth)<b> nīharitvā </b>
 </li>
 </ul>
 </li>
-<li>if Romanthakabhikkhu ruminates food that came up to his mouth: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{1797489157529113::<b>anāpatti
-</b>}}</mark>
-if he brings it out of his mouth and then swallows it again: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{1797489157529113::<b>pc</b>}}</mark> 
-if other bhikkhus ruminate: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{1797489157529113::āpatti}}</mark>
-swallowing the undigested food due to lack of control: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{1797489157529113::anāpatti}}</mark>
+<li>if Romanthakabhikkhu ruminates food that came up to his mouth: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anāpatti
+</b></mark>
+if he brings it out of his mouth and then swallows it again: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc</b></mark> 
+if other bhikkhus ruminate: <mark remnotemark="true" style="background-color: transparent; color: yellow;">āpatti</mark>
+swallowing the undigested food due to lack of control: <mark remnotemark="true" style="background-color: transparent; color: yellow;">anāpatti</mark>
 <ul>
 <li><b>Romanthakassāti ettha ṭhapetvā romanthakaṃ sesānaṃ āgataṃ uggāraṃ mukhe sandhāretvā gilantānaṃ āpatti. Sace pana asandhāritameva paragalaṃ gacchati, vaṭṭati. (V a. IV. 53.).   </b> </li>
 </ul>
@@ -2236,8 +2236,8 @@ consuming: <mark remnotemark="true" style="background-color: transparent; color:
 <li><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>sannidhikāraka</b></mark> / <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>sannidhikāra</b></mark>↔a yāvakālika or yāmakālika that was accepted and kept overnight
 “<b>Sannidhikārameva sannidhikārakaṃ</b>. <b>Paṭiggahetvā ekarattaṃ vītināmitassetaṃ adhivacanaṃ”</b>.
                             <ul>
-<li>collecting a sannidhikāraka item intending to consume it: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{8356032867337719::<b>dkṭ</b>}}</mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>
-</b></mark>consuming it:{{8356032867337719:: }}<mark remnotemark="true" style="background-color: transparent; color: yellow;">{{8356032867337719::<b>pācittiya for every swallow</b>}}</mark><b> </b>
+<li>collecting a sannidhikāraka item intending to consume it: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>dkṭ</b></mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>
+</b></mark>consuming it: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pācittiya for every swallow</b></mark><b> </b>
 <ul>
 <li>pcpāḷi: <b>Khādissāmi bhuñjissāmīti paṭiggaṇhāti </b>(collecting)<b> āpatti dukkaṭassa</b>
 <ul>
@@ -2278,9 +2278,9 @@ consuming: <mark remnotemark="true" style="background-color: transparent; color:
                                     <ul>
 <li><b>sāpekkha</b>dāna: giving it to an anupa with the expectation of getting it back‒it does not abandon the paṭiggahaṇa
                                             <ul>
-<li>yāva- or yāma-kālika is given away with sāpekkhadāna and is stored over night: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{46546982289729755::<b>sannidhi, because the paṭiggahaṇa was not removed</b>}}</mark> 
-receiving such item from an anupa the following day intending to eat it: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{46546982289729755::dkṭ}}</mark>
-consuming it: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{46546982289729755::pc for every swallow}}</mark> </li>
+<li>yāva- or yāma-kālika is given away with sāpekkhadāna and is stored over night: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>sannidhi, because the paṭiggahaṇa was not removed</b></mark> 
+receiving such item from an anupa the following day intending to eat it: <mark remnotemark="true" style="background-color: transparent; color: yellow;">dkṭ</mark>
+consuming it: <mark remnotemark="true" style="background-color: transparent; color: yellow;">pc for every swallow</mark> </li>
 <li>can arahats store food for future use?
                                                     <ul>
 <li>no, it is not possible; V. Bellaṭṭhasīsa gave it away, but expecting to consume it when needed</li>
@@ -2290,10 +2290,10 @@ consuming it: <mark remnotemark="true" style="background-color: transparent; col
 </li>
 <li><b>nirapekkha</b>dāna:<b> </b>giving it to an anupa without expectation of getting it back‒it does abandon the paṭiggahaṇa
                                             <ul>
-<li>receiving an edible that was sannidhi and given away with nirāpekkhadāna: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{7470049222540873::<b>anāpatti</b>}}</mark>
-consuming it: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{7470049222540873::<b>anāpatti</b>}}</mark> 
-giving nirāpekkhadāna knowing one might / will get it back: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{7470049222540873::no problem, it is still nirāpekkha}}</mark>
-if expectation arises after doing the dāna: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{7470049222540873::no problem, it is still nirāpekkha}}</mark></li>
+<li>receiving an edible that was sannidhi and given away with nirāpekkhadāna: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anāpatti</b></mark>
+consuming it: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anāpatti</b></mark> 
+giving nirāpekkhadāna knowing one might / will get it back: <mark remnotemark="true" style="background-color: transparent; color: yellow;">no problem, it is still nirāpekkha</mark>
+if expectation arises after doing the dāna: <mark remnotemark="true" style="background-color: transparent; color: yellow;">no problem, it is still nirāpekkha</mark></li>
 </ul>
 </li>
 </ul>
@@ -2307,7 +2307,7 @@ if expectation arises after doing the dāna: <mark remnotemark="true" style="bac
 <li>the mental giving up of the paṭiggahaṇa of the yāma- or yāva-kālika, intending not to consume it based on the present paṭiggahaṇa</li>
 </ul>
 </li>
-<li>doing anapekkhavissajjana, receiving the yāma- or yāva-kālika on a later occasion, and consuming it: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{23619551850130516::<b>anāpatti (srtdpn)</b>}}</mark>
+<li>doing anapekkhavissajjana, receiving the yāma- or yāva-kālika on a later occasion, and consuming it: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anāpatti (srtdpn)</b></mark>
 <ul>
 <li><b>Yaṃ paṭiggahetvā apariccattameva hi dutiyadivase na vaṭṭatīti ettha paṭiggahaṇe  anapekkhavissajjanena anupasampannassa nirapekkhadānena vā vijahitapaṭiggahaṇaṃ pariccattameva hotīti "apariccatta"nti iminā ubhayathāpi avijahitapaṭiggahaṇameva vuttaṃ.  Tasmā yaṃ parassa pariccajitvā adinnampi sace paṭiggahaṇe nirapekkhavissajjanena  vijahitapaṭiggahaṇaṃ hoti, tampi dutiyadivase vaṭṭatīti veditabbaṃ. (Srd-ṭ. III. 67.).</b> </li>
 </ul>
@@ -2326,7 +2326,7 @@ if expectation arises after doing the dāna: <mark remnotemark="true" style="bac
 </li>
 </ul>
 </li>
-<li>if food is left in the bowl, mixed with next day's food, and one consumes it: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{06537727766755208::<b>pc</b>}}</mark> </li>
+<li>if food is left in the bowl, mixed with next day's food, and one consumes it: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc</b></mark> </li>
 <li><mark remnotemark="true" style="background-color: transparent; color: purple;"><i>is giving the bowl to an anupa to wash considered anapekkhavissajjana or nirāpekkhadāna? </i></mark> #<mark remnotemark="true" style="background-color: transparent; color: purple;"><b>q</b></mark>🙋🏼‍♂</li>
 </ul>
 </li>
@@ -2358,9 +2358,9 @@ if expectation arises after doing the dāna: <mark remnotemark="true" style="bac
 </li>
 <li><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>antovuttha</b></mark>↔santaka appaṭiggahita yāma- or yāva-kālika that was stored overnight in a vāsāgāra of a bhikkhu(s), or of the saṅgha 
                                     <ul>
-<li>consuming <b>antovuttha: </b><mark remnotemark="true" style="background-color: transparent; color: yellow;">{{34772449574465747::<b>dkṭ for every swallow</b>}}</mark> 
-if santaka appaṭiggahita is stored overnight in an unallowable place: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{34772449574465747::antovuttha}}</mark>
-if the ownership is given to anupa and it is stored in an unallowable place: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{34772449574465747::not antovuttha}}</mark> </li>
+<li>consuming <b>antovuttha: </b><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>dkṭ for every swallow</b></mark> 
+if santaka appaṭiggahita is stored overnight in an unallowable place: <mark remnotemark="true" style="background-color: transparent; color: yellow;">antovuttha</mark>
+if the ownership is given to anupa and it is stored in an unallowable place: <mark remnotemark="true" style="background-color: transparent; color: yellow;">not antovuttha</mark> </li>
 </ul>
 </li>
 <li><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anivāsageha</b></mark>↔a building that was not built as a dwelling place; e.g.: uposathāgāra 
@@ -2383,8 +2383,8 @@ if the ownership is given to anupa and it is stored in an unallowable place: <ma
 </li>
 </ul>
 </li>
-<li>giving an <b>antovuttha </b>as a sāpekkhadāna, receiving it back and consuming it: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{8558829205695961::<b>it loses the antovuttha status and can be consumed</b>}}</mark> 
-giving a paṭiggahita yāva- or yāma-kālika on the following day (sannidhi) as a sāpekkhadāna, receiving it back and consuming it: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{8558829205695961::āpatti}}</mark>
+<li>giving an <b>antovuttha </b>as a sāpekkhadāna, receiving it back and consuming it: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>it loses the antovuttha status and can be consumed</b></mark> 
+giving a paṭiggahita yāva- or yāma-kālika on the following day (sannidhi) as a sāpekkhadāna, receiving it back and consuming it: <mark remnotemark="true" style="background-color: transparent; color: yellow;">āpatti</mark>
 <ul>
 <li><b>Anupasampannassa dātabbo</b> <b>assātiādinā akappiyakuṭiyaṃ vutthampi</b> (when kept in an akappiyakuti) <b>anupasampannassa dinne</b> (when given to an anupa) <b>kappiyaṃ hoti</b> (becomes allowable), <b>sāpekkhadānañcettha vaṭṭati</b> (can give with expectation), <b>paṭiggahaṇaṃ viya na hotīti dasseti</b> (it is not like paṭiggahaṇa). (Vmv-ṭ. II. 190.).    </li>
 <li><mark remnotemark="true" style="background-color: transparent; color: purple;"><i>which āpatti?</i></mark><mark remnotemark="true" style="background-color: transparent; color: purple;"><i> </i></mark> #<mark remnotemark="true" style="background-color: transparent; color: purple;"><b>q</b></mark>🙋🏼‍♂</li>
@@ -2461,7 +2461,7 @@ giving a paṭiggahita yāva- or yāma-kālika on the following day (sannidhi) a
 </li>
 <li>sannidhikāraka<mark remnotemark="true" style="background-color: transparent; color: yellow;"><b> in the bowl</b></mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"> </mark>
 <ul>
-<li>if remnants of the previous day's food are mixed with the following day's food and consumed: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{8635080327922433::<b>pc for every swallow</b>}}</mark>
+<li>if remnants of the previous day's food are mixed with the following day's food and consumed: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc for every swallow</b></mark>
 <ul>
 <li><b>why </b>is it an offense, if the food was pariccatta on the previous day?
                                             <ul>
@@ -2502,24 +2502,24 @@ giving a paṭiggahita yāva- or yāma-kālika on the following day (sannidhi) a
 <li><b>note: </b>in some monasteries, it is considered that because the spoon may be returned back to the pot after mixing, the entire pot is considered to be mixed</li>
 </ul>
 </li>
-<li>yāma-, sattāha-, yāvajīvika, and akālika mixed with yāvakālika: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{534711970533631::<b>yāvakālika</b>}}</mark> 
-sattāha, yāvajīvika, and akālika mixed with yāmakālika: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{534711970533631::yāmakālika}}</mark>
-yāvajīvika and akālika mixed with sattāhakālika: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{534711970533631::sattāhakālika}}</mark>
-akālika mixed with yāvajīvika: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{534711970533631::yāvajīvika}}</mark>
+<li>yāma-, sattāha-, yāvajīvika, and akālika mixed with yāvakālika: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>yāvakālika</b></mark> 
+sattāha, yāvajīvika, and akālika mixed with yāmakālika: <mark remnotemark="true" style="background-color: transparent; color: yellow;">yāmakālika</mark>
+yāvajīvika and akālika mixed with sattāhakālika: <mark remnotemark="true" style="background-color: transparent; color: yellow;">sattāhakālika</mark>
+akālika mixed with yāvajīvika: <mark remnotemark="true" style="background-color: transparent; color: yellow;">yāvajīvika</mark>
 </li>
-<li>yāvakālika fruit essence mixed with water: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{794286834369861::<b>yāmakālika</b>}}</mark>
-guḷa is allowed for: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{794286834369861::the sick}}</mark>
-guḷodaka is allowed for: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{794286834369861::anyone anytime for any reason (a yāvajīvika that can be consumed for any reason)}}</mark>
+<li>yāvakālika fruit essence mixed with water: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>yāmakālika</b></mark>
+guḷa is allowed for: <mark remnotemark="true" style="background-color: transparent; color: yellow;">the sick</mark>
+guḷodaka is allowed for: <mark remnotemark="true" style="background-color: transparent; color: yellow;">anyone anytime for any reason (a yāvajīvika that can be consumed for any reason)</mark>
 10 day-old yāvajīvika mixed with a 3 day-old sattāhakālika:
-nature: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{794286834369861::sattāhakālika }}</mark>
-for how long can it be consumed? <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{794286834369861::for 4 days (even though it is like a 10 day-old sattāhakālika)}}</mark>
+nature: <mark remnotemark="true" style="background-color: transparent; color: yellow;">sattāhakālika </mark>
+for how long can it be consumed? <mark remnotemark="true" style="background-color: transparent; color: yellow;">for 4 days (even though it is like a 10 day-old sattāhakālika)</mark>
 <ul>
 <li><b>"Yāvakālikaṃ samānaṃ garutarampi muddikājātirasaṃ attanā saṃsaṭṭhaṃ lahukaṃ  yāmakālikabhāvaṃ upanentaṃ udakaṃ lahutaraṃ sattāhakālikaṃ attanā saṃsaṭṭhaṃ  garutaraṃ yāmakālikabhāvaṃ upanetī"ti ettha kāraṇaṃ soyeva pucchitabbo, sabbattha  pāḷiyaṃ aṭṭhakathāyañca udakasambhedena garutarassapi lahubhāvopagamanaṃyeva  dassitaṃ. Pāḷiyampi hi "anujānāmi, bhikkhave, gilānassa guḷaṃ, agilānassa guḷodaka"nti  vadantena agilānena paribhuñjituṃ ayuttopi guḷo udakasambhinno agilānassapi vaṭṭatīti  anuññāto. (Srd-ṭ. II. 432-3.).</b> </li>
 </ul>
 </li>
-<li>ghee is put on rice during piṇḍapāta, one takes what is not mixed and uses it as sattāhakālika: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{534711970533631::<b>allowable</b>}}</mark> 
-a sattāhakālika accepted yesterday is mixed with a yāvakālika accepted today; of what nature it becomes? <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{534711970533631::yāvakālika that was accepted yesterday}}</mark>
-consuming it: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{534711970533631::pc for every swallow}}</mark> </li>
+<li>ghee is put on rice during piṇḍapāta, one takes what is not mixed and uses it as sattāhakālika: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>allowable</b></mark> 
+a sattāhakālika accepted yesterday is mixed with a yāvakālika accepted today; of what nature it becomes? <mark remnotemark="true" style="background-color: transparent; color: yellow;">yāvakālika that was accepted yesterday</mark>
+consuming it: <mark remnotemark="true" style="background-color: transparent; color: yellow;">pc for every swallow</mark> </li>
 <li>what are the only cases where the <b>kāla changes</b> when mixed with <b>water</b>
 <ul>
 <li>fruit essence and guḷa</li>
@@ -2527,16 +2527,16 @@ consuming it: <mark remnotemark="true" style="background-color: transparent; col
 </li>
 <li><b>offenses</b>
 <ul>
-<li>mixing today's yāvakālika with yāmakālika accepted also today during kāla and consuming it: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{15066242842427346::<b>anāpatti</b>}}</mark> 
-if with sattāhakālika: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{15066242842427346::<b>anāpatti</b>}}</mark>
-if with yāvajīvika: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{15066242842427346::<b>anāpatti</b>}}</mark>
-if with akālika: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{15066242842427346::<b>anāpatti</b>}}</mark>
-principle: {{15066242842427346::anything that was accepted during the kāla of the same day can be mixed with yāvakālika and consumed}} </li>
-<li>if yesterday's sattāha- or yāvajīvika is mixed with today's yāvakālika during kāla: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{34373355327935373::<b>sannidhi pc; the mixture is a yāvakālika received yesterday</b>}}</mark>{{34373355327935373:: }} </li>
-<li>mixing sattāha- or yāvajīvika with a <b>yāma</b>kālika received on the same day and consuming it before the dawn of the following day: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{12168865445806376::<b>anāpatti; the mixture is a yāmakālika</b>}}</mark> 
-if the sattāha- or yāvajīvika were received the previous day: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{12168865445806376::sannidhikāraka pācittiya for every swallow; the mixture is yāmakālika received on the previous day}}</mark> </li>
-<li>mixing an old <b>yāvajīvika</b> with a sattāha- received today and consuming it today: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{6771861630930138::<b>anāpatti; the mixture is like an old sattāhakālika, but is allowed</b>}}</mark> 
-consuming it the day after: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{6771861630930138::anāpatti,  it can be consumed for 7 days}}</mark> </li>
+<li>mixing today's yāvakālika with yāmakālika accepted also today during kāla and consuming it: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anāpatti</b></mark> 
+if with sattāhakālika: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anāpatti</b></mark>
+if with yāvajīvika: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anāpatti</b></mark>
+if with akālika: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anāpatti</b></mark>
+principle: anything that was accepted during the kāla of the same day can be mixed with yāvakālika and consumed </li>
+<li>if yesterday's sattāha- or yāvajīvika is mixed with today's yāvakālika during kāla: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>sannidhi pc; the mixture is a yāvakālika received yesterday</b></mark>  </li>
+<li>mixing sattāha- or yāvajīvika with a <b>yāma</b>kālika received on the same day and consuming it before the dawn of the following day: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anāpatti; the mixture is a yāmakālika</b></mark> 
+if the sattāha- or yāvajīvika were received the previous day: <mark remnotemark="true" style="background-color: transparent; color: yellow;">sannidhikāraka pācittiya for every swallow; the mixture is yāmakālika received on the previous day</mark> </li>
+<li>mixing an old <b>yāvajīvika</b> with a sattāha- received today and consuming it today: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anāpatti; the mixture is like an old sattāhakālika, but is allowed</b></mark> 
+consuming it the day after: <mark remnotemark="true" style="background-color: transparent; color: yellow;">anāpatti,  it can be consumed for 7 days</mark> </li>
 </ul>
 </li>
 </ul>
@@ -2553,17 +2553,17 @@ consuming it the day after: <mark remnotemark="true" style="background-color: tr
 </li>
 <li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>intention</b></mark><b> and </b><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>perception</b></mark></h3>
 <ul>
-<li>this is <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{5957317489120397::<b>acittaka</b>}}</mark>, <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{5957317489120397::<b>nosaññāvimokkha</b>}}</mark> offence; this is a <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{5957317489120397::<b>tika</b>}}</mark>-pācittiya and <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{5957317489120397::<b>duka</b>}}</mark> dukkaṭa offence;
+<li>this is <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>acittaka</b></mark>, <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>nosaññāvimokkha</b></mark> offence; this is a <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>tika</b></mark>-pācittiya and <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>duka</b></mark> dukkaṭa offence;
 perceptions involved are 
-<mark remnotemark="true" style="background-color: transparent; color: yellow;">{{5957317489120397::<b>sannidhikāraka saññā and asannidhikāraka saññā</b>}}</mark> </li>
+<mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>sannidhikāraka saññā and asannidhikāraka saññā</b></mark> </li>
 <li>consuming a <b>sannidhikāraka</b>
-sannidhikārakasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{5721152553312663::<b>pc</b>}}</mark>
-vematiko: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{5721152553312663::<b>pc</b>}}</mark>
-asannidhikārakasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{5721152553312663::<b>pc</b>}}</mark>
+sannidhikārakasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc</b></mark>
+vematiko: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc</b></mark>
+asannidhikārakasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc</b></mark>
 consuming an asannidhikāraka
-sannidhikārakasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{5721152553312663::dkṭ}}</mark>
-vematiko: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{5721152553312663::dkṭ}}</mark>
-asannidhikārakasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{5721152553312663::anāpatti}}</mark> </li>
+sannidhikārakasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;">dkṭ</mark>
+vematiko: <mark remnotemark="true" style="background-color: transparent; color: yellow;">dkṭ</mark>
+asannidhikārakasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;">anāpatti</mark> </li>
 </ul>
 </li>
 <li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>factors</b></mark><b> </b></h3>
@@ -2635,9 +2635,9 @@ ill monks felt the need for paṇītabhojana; allowance was given for the sick</
 <ul>
 <li><b>gilāna</b>: a monk who cannot remain well, who is unconfortable (aphāsu), without having paṇītabhojana</li>
 <li><b>agilāna: </b>a monk who can remain well, who is not unconfortable (aphāsu), without having paṇītabhojana</li>
-<li>agilāna asking for paṇītabhojana: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{03508476956441453::<b>dkṭ</b>}}</mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>
-</b></mark>accepting it:<mark remnotemark="true" style="background-color: transparent; color: yellow;"><b> </b></mark><mark remnotemark="true" style="background-color: transparent; color: yellow;">{{03508476956441453::<b>dkṭ</b>}}</mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>
-</b></mark>consuming it:<mark remnotemark="true" style="background-color: transparent; color: yellow;"><b> </b></mark><mark remnotemark="true" style="background-color: transparent; color: yellow;">{{03508476956441453::<b>pc for every swallow</b>}}</mark> </li>
+<li>agilāna asking for paṇītabhojana: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>dkṭ</b></mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>
+</b></mark>accepting it:<mark remnotemark="true" style="background-color: transparent; color: yellow;"><b> </b></mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>dkṭ</b></mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>
+</b></mark>consuming it:<mark remnotemark="true" style="background-color: transparent; color: yellow;"><b> </b></mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc for every swallow</b></mark> </li>
 </ul>
 </li>
 <li><b>4 manners of requesting</b> included in this rule<b> </b>(exam: English or Pāḷi) #\[\[<mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>vibhaṅga</b></mark> exam]]  #<mark remnotemark="true" style="background-color: transparent; color: green;"><b>edited</b></mark>
@@ -2661,14 +2661,14 @@ ill monks felt the need for paṇītabhojana; allowance was given for the sick</
 </li>
 <li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>āpatti</b></mark></h3>
 <ul>
-<li>asking for one paṇītabhojana, but receiving anything capable of producing that item (such as ingredients to make it, allowable requisites, or even a cow \[for producing milk, for example]) and then consuming it: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{8784101098163708::<b>pc for every swallow </b>}}</mark><mark remnotemark="true" style="background-color: transparent; color: yellow;">{{8784101098163708::(yena yena hi viññatti hoti, tasmiṃ vā tassa mūle vā laddhe, taṃ taṃ laddhameva hoti)}}</mark>  
-asking, receiving and consuming: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{8784101098163708::dkṭ, dkṭ, pc for every swallow}}</mark>
-asking for all 9 of them, mixing them and then consuming it: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{8784101098163708::9 pc for every swallow}}</mark>
-asking for paṇītabhojana from sources not mentioned in this rule (such as lion milk), receiving and consuming it: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{8784101098163708::dkṭ each}}</mark>
+<li>asking for one paṇītabhojana, but receiving anything capable of producing that item (such as ingredients to make it, allowable requisites, or even a cow \[for producing milk, for example]) and then consuming it: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc for every swallow </b></mark><mark remnotemark="true" style="background-color: transparent; color: yellow;">(yena yena hi viññatti hoti, tasmiṃ vā tassa mūle vā laddhe, taṃ taṃ laddhameva hoti)</mark>  
+asking, receiving and consuming: <mark remnotemark="true" style="background-color: transparent; color: yellow;">dkṭ, dkṭ, pc for every swallow</mark>
+asking for all 9 of them, mixing them and then consuming it: <mark remnotemark="true" style="background-color: transparent; color: yellow;">9 pc for every swallow</mark>
+asking for paṇītabhojana from sources not mentioned in this rule (such as lion milk), receiving and consuming it: <mark remnotemark="true" style="background-color: transparent; color: yellow;">dkṭ each</mark>
 </li>
-<li>agilāna asks for 5 medicines without grains from aññātika appavārita: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{8784101098163708::<b>should be dealt under mahānāmasikkhāpada (acelakavagga)</b>}}</mark>
-asking from a pavārita donor but exceeding the invitation: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{8784101098163708::offenses all the same}}</mark>
-asking for paṇītabhojanas but without grains: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{8784101098163708::should be dealt under the sūpodanaviññāttisekhiya}}</mark> </li>
+<li>agilāna asks for 5 medicines without grains from aññātika appavārita: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>should be dealt under mahānāmasikkhāpada (acelakavagga)</b></mark>
+asking from a pavārita donor but exceeding the invitation: <mark remnotemark="true" style="background-color: transparent; color: yellow;">offenses all the same</mark>
+asking for paṇītabhojanas but without grains: <mark remnotemark="true" style="background-color: transparent; color: yellow;">should be dealt under the sūpodanaviññāttisekhiya</mark> </li>
 </ul>
 </li>
 <li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>visaṅketa</b></mark></h3>
@@ -2700,17 +2700,17 @@ asking for paṇītabhojanas but without grains: <mark remnotemark="true" style=
 </li>
 <li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>intention</b></mark><b> and </b><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>perception</b></mark></h3>
 <ul>
-<li>this is an (acittaka / cittaka?) <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{8397666713962657::<b>acittaka</b>}}</mark>, (saññā / nosaññāvimokkha?) <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{8397666713962657::<b>nosaññāvimokkha</b>}}</mark> offence</li>
-<li>this is a <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{07658224026679084::<b>tika</b>}}</mark>-pācittiya and <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{07658224026679084::<b>duka</b>}}</mark>-dukkaṭa offence;
-the perceptions involved are <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{07658224026679084::<b>agilāna and agilāna saññā </b>}}</mark><mark remnotemark="true" style="background-color: transparent; color: yellow;">{{07658224026679084::(about oneself)}}</mark> </li>
+<li>this is an (acittaka / cittaka?) <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>acittaka</b></mark>, (saññā / nosaññāvimokkha?) <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>nosaññāvimokkha</b></mark> offence</li>
+<li>this is a <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>tika</b></mark>-pācittiya and <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>duka</b></mark>-dukkaṭa offence;
+the perceptions involved are <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>agilāna and agilāna saññā </b></mark><mark remnotemark="true" style="background-color: transparent; color: yellow;">(about oneself)</mark> </li>
 <li>agilāna asking for paṇītabhojana
-agilānasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{5117195239003172::<b>pc</b>}}</mark>
-vematiko: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{5117195239003172::<b>pc</b>}}</mark>
-gilānasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{5117195239003172::<b>pc</b>}}</mark>
+agilānasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc</b></mark>
+vematiko: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc</b></mark>
+gilānasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc</b></mark>
 gilāna asking for paṇītabhojana
-agilānasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{5117195239003172::dkṭ}}</mark>
-vematiko: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{5117195239003172::dkṭ}}</mark>
-gilānasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{5117195239003172::anāpatti}}</mark>
+agilānasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;">dkṭ</mark>
+vematiko: <mark remnotemark="true" style="background-color: transparent; color: yellow;">dkṭ</mark>
+gilānasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;">anāpatti</mark>
 </li>
 </ul>
 </li>
@@ -2763,25 +2763,25 @@ gilānasaññī: <mark remnotemark="true" style="background-color: transparent; 
 </li>
 <li><b>uggahita</b>↔unoffered edible collected by a monk
                                     <ul>
-<li>picking it up intending to eat it: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{7828890840479164::<b>dkṭ</b>}}</mark><b>
-</b>consuming it: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{7828890840479164::<b>pc every swallow</b>}}</mark> </li>
+<li>picking it up intending to eat it: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>dkṭ</b></mark><b>
+</b>consuming it: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc every swallow</b></mark> </li>
 <li>3 types
                                             <ul>
 <li><b>unoffered </b>and<b> knowingly collected</b>
 <ul>
-<li>giving it as a sāpekkhadāna and receiving it back: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{8529072219723046::<b>uggahita paṭiggahita dkṭ</b>}}</mark> 
-consuming it: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{8529072219723046::<b>dkṭ</b>}}</mark>
-giving it as a nirāpekkhadāna and receiving it back: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{8529072219723046::anāpatti}}</mark>
-consuming it: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{8529072219723046::anāpatti}}</mark> </li>
+<li>giving it as a sāpekkhadāna and receiving it back: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>uggahita paṭiggahita dkṭ</b></mark> 
+consuming it: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>dkṭ</b></mark>
+giving it as a nirāpekkhadāna and receiving it back: <mark remnotemark="true" style="background-color: transparent; color: yellow;">anāpatti</mark>
+consuming it: <mark remnotemark="true" style="background-color: transparent; color: yellow;">anāpatti</mark> </li>
 </ul>
 </li>
 <li><b>unoffered </b>and<b> collected thinking it is offered</b>
 <ul>
-<li>consuming it knowing it is unoffered: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{4652485649918128::<b>pc</b>}}</mark>
-consuming it in doubt: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{4652485649918128::<b>pc</b>}}</mark>
-consuming it thinking it is offered: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{4652485649918128::<b>pc</b>}}</mark>
-getting it reoffered through an anupa: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{4652485649918128::<b>anāpatti</b>}}</mark>
-consuming it: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{4652485649918128::<b>anāpatti</b>}}</mark>
+<li>consuming it knowing it is unoffered: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc</b></mark>
+consuming it in doubt: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc</b></mark>
+consuming it thinking it is offered: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc</b></mark>
+getting it reoffered through an anupa: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anāpatti</b></mark>
+consuming it: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anāpatti</b></mark>
 </li>
 <li>how to get it offered
                                                             <ul>
@@ -2799,16 +2799,16 @@ consuming it: <mark remnotemark="true" style="background-color: transparent; col
 </li>
 <li><b>unoffered </b>and<b> collected without knowing it is food</b>
 <ul>
-<li>getting it offered through an anupa: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{7110827046259629::<b>anāpatti</b>}}</mark>
-consuming it: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{7110827046259629::<b>anāpatti</b>}}</mark>
+<li>getting it offered through an anupa: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anāpatti</b></mark>
+consuming it: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anāpatti</b></mark>
 <ul>
 <li><b>Heṭṭhāmañce appaṭiggahitakaṃ telathālakaṃ hoti, taṃ ce sammajjanto sammuñjaniyā ghaṭṭeti, uggahitakaṃ na hoti. (V-a. III. 115.).   </b> </li>
 </ul>
 </li>
 <li><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>uggahaṇa</b></mark>↔the act of taking an unoffered edible</li>
-<li>picking up an item from a donor who did not make a gesture of offering (abhihāra): <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{8206102917587332::<b>uggahaṇa</b>}}</mark> 
-if multiple containers and the donor does abhihāra: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{8206102917587332::one should accept the entire thing by touching the bottom-most container}}</mark>
-if on a tray: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{8206102917587332::accept the entire thing by touching the tray }}</mark><mark remnotemark="true" style="background-color: transparent; color: yellow;">{{8206102917587332::(normally done on its lower part, but not essential)}}</mark><mark remnotemark="true" style="background-color: transparent; color: yellow;">{{8206102917587332:: and pick up the item with the other hand }}</mark><mark remnotemark="true" style="background-color: transparent; color: yellow;">{{8206102917587332::(not essential to maintain contact, but normally done)}}</mark>
+<li>picking up an item from a donor who did not make a gesture of offering (abhihāra): <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>uggahaṇa</b></mark> 
+if multiple containers and the donor does abhihāra: <mark remnotemark="true" style="background-color: transparent; color: yellow;">one should accept the entire thing by touching the bottom-most container</mark>
+if on a tray: <mark remnotemark="true" style="background-color: transparent; color: yellow;">accept the entire thing by touching the tray </mark><mark remnotemark="true" style="background-color: transparent; color: yellow;">(normally done on its lower part, but not essential)</mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"> and pick up the item with the other hand </mark><mark remnotemark="true" style="background-color: transparent; color: yellow;">(not essential to maintain contact, but normally done)</mark>
 <ul>
 <li><mark remnotemark="true" style="background-color: transparent; color: purple;"><i>what if the donor does not intend to offer the entire tray,  or the entire pile of containers? that factor will not be fulfilled. </i></mark><mark remnotemark="true" style="background-color: transparent; color: purple;"><i> </i></mark> #<mark remnotemark="true" style="background-color: transparent; color: purple;"><b>q</b></mark>🙋🏼‍♂</li>
 </ul>
@@ -2901,7 +2901,7 @@ if on a tray: <mark remnotemark="true" style="background-color: transparent; col
 <ul>
 <li>under 2nd Prjk: another's belonging</li>
 <li>under dantaponasikkhāpada: an edible that was not properly offered (equal to appaṭiggahita)</li>
-<li>collecting adinna edible intending to consume it: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{1605491303298443::<b>dkṭ</b>}}</mark> </li>
+<li>collecting adinna edible intending to consume it: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>dkṭ</b></mark> </li>
 </ul>
 </li>
 <li><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>dinna</b></mark>
@@ -2967,10 +2967,10 @@ if on a tray: <mark remnotemark="true" style="background-color: transparent; col
 </ul>
 </li>
 <li>ābhoga↔masc. ideation, thought, concern  #\[\[<mark remnotemark="true" style="background-color: transparent; color: red;"><b>pāḷi</b></mark> vocab (2nd year)]] </li>
-<li>accepting an edible for <b>kāyaparibhoga </b>or <b>bāhiraparibhoga;</b> what becomes its nature? <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{9252877629836997::<b>it remains appaṭiggahita</b>}}</mark> 
-can it be consumed? <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{9252877629836997::no, it must be reoffered for such purpose before consumption}}</mark>
-one intends to receive food, but is asleep when it is offered: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{9252877629836997::paṭiggahita}}</mark>
-one does not intend to receive food, and while asleep one is offered food: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{9252877629836997::appaṭiggahita}}</mark>
+<li>accepting an edible for <b>kāyaparibhoga </b>or <b>bāhiraparibhoga;</b> what becomes its nature? <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>it remains appaṭiggahita</b></mark> 
+can it be consumed? <mark remnotemark="true" style="background-color: transparent; color: yellow;">no, it must be reoffered for such purpose before consumption</mark>
+one intends to receive food, but is asleep when it is offered: <mark remnotemark="true" style="background-color: transparent; color: yellow;">paṭiggahita</mark>
+one does not intend to receive food, and while asleep one is offered food: <mark remnotemark="true" style="background-color: transparent; color: yellow;">appaṭiggahita</mark>
 <ul>
 <li><b>Bāhiraparibhogatthaṃ gahitaṃ paṭiggahitaṃ nāma na hotīti veditabbaṃ.</b> (Srd-ṭ. III. 72.).  </li>
 <li><b>Pattasammakkhanādiatthaṃ sāmaṃ gahetvā parihaṭatelādiṃ sace paribhuñjitukāmo hoti,  paṭiggahetvā paribhuñjantassa anāpatti. </b>(Srd-ṭ. III. 72.).</li>
@@ -2985,13 +2985,13 @@ one does not intend to receive food, and while asleep one is offered food: <mark
                                             <ul>
 <li><b>thāmamajjhimassa purisassa uccāraṇamattaṃ hoti: </b>food / its container must be something that can be lifted by a <b>thāma majjhima purisa</b> (person with ordinary strength)
                                                     <ul>
-<li>receiving a container that can only be lifted by a very strong person or by more than one person: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{5416413232268904::<b>appaṭiggahita</b>}}</mark> 
-receiving a container that can be lifted by a person with ordinary strength but offered by more than one person: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{5416413232268904::paṭiggahita}}</mark>
-if only a side of the container / item is lifted and placed on the upa's hands: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{5416413232268904::paṭiggahita}}</mark>
-if the item is rolled onto the upa's hands: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{5416413232268904::paṭiggahita}}</mark>
-while lying in bed, an edible is placed on the bed: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{5416413232268904::paṭiggahita, but not normally done}}</mark>
-accepting on a surface that is not fixed to the ground: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{5416413232268904::paṭiggahita}}</mark>
-accepting on a surface that is fixed to the ground: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{5416413232268904::appaṭiggahita}}</mark> </li>
+<li>receiving a container that can only be lifted by a very strong person or by more than one person: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>appaṭiggahita</b></mark> 
+receiving a container that can be lifted by a person with ordinary strength but offered by more than one person: <mark remnotemark="true" style="background-color: transparent; color: yellow;">paṭiggahita</mark>
+if only a side of the container / item is lifted and placed on the upa's hands: <mark remnotemark="true" style="background-color: transparent; color: yellow;">paṭiggahita</mark>
+if the item is rolled onto the upa's hands: <mark remnotemark="true" style="background-color: transparent; color: yellow;">paṭiggahita</mark>
+while lying in bed, an edible is placed on the bed: <mark remnotemark="true" style="background-color: transparent; color: yellow;">paṭiggahita, but not normally done</mark>
+accepting on a surface that is not fixed to the ground: <mark remnotemark="true" style="background-color: transparent; color: yellow;">paṭiggahita</mark>
+accepting on a surface that is fixed to the ground: <mark remnotemark="true" style="background-color: transparent; color: yellow;">appaṭiggahita</mark> </li>
 <li>when accepting on a surface (such as on a table), does it have to have the nature of being able to be lifted by a person of normal strength?
                                                             <ul>
 <li>no, this nature only applies to the object offered, not the surface onto which it is placed</li>
@@ -3008,8 +3008,8 @@ accepting on a surface that is fixed to the ground: <mark remnotemark="true" sty
                                             <ul>
 <li><b>hatthapāso paññāyati: </b>the anupa donor must be within hatthapāsa (2 1/2 hattha, according to paṭhamapavāraṇasikkhāpada‒except the offering arms)
                                                     <ul>
-<li>if the donor attempts to offer from a distance: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{5403884325083335::<b>it should be prevented
-}}</mark>if served while trying to prevent it, or from a distance (nissaggiya): <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{5403884325083335::it should be made offered and then consumed}}</mark>
+<li>if the donor attempts to offer from a distance: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>it should be prevented
+</mark>if served while trying to prevent it, or from a distance (nissaggiya): <mark remnotemark="true" style="background-color: transparent; color: yellow;">it should be made offered and then consumed</mark>
 <ul>
 <li><b>Sace hatthapāsaṃ atikkamma ṭhito dīghadaṇḍakena uḷuṅkena deti, āgantvā dehīti vattabbo. Vacanaṃ asutvā vā anādiyitvā vā patte ākiratiyeva, puna paṭiggahetabbaṃ. Dūre ṭhatvā bhattapiṇḍaṃ khipantepi eseva nayo. </b>(V-a. III. 111.).     </li>
 </ul>
@@ -3034,9 +3034,9 @@ accepting on a surface that is fixed to the ground: <mark remnotemark="true" sty
 </li>
 <li><b>yo koci anupasampanno kāyena vā kāyapaṭibaddhena vā nissaggiyena vā deti:</b>
 <ul>
-<li><b>kāya: </b>{{10382958732961622::any part of the donor’s body, even a toe}}
-<b>kāyapaṭibaddha:</b> {{10382958732961622::any item connected to the donor’s body, such as a spoon}}
-<b>nissaggiya:</b> {{10382958732961622::giving by releasing it from the kāya or kāyapaṭibaddha of the donor, even if it happens to fall while offering}} </li>
+<li><b>kāya: </b>any part of the donor’s body, even a toe
+<b>kāyapaṭibaddha:</b> any item connected to the donor’s body, such as a spoon
+<b>nissaggiya:</b> giving by releasing it from the kāya or kāyapaṭibaddha of the donor, even if it happens to fall while offering </li>
 </ul>
 </li>
 <li><b>taṃ bhikkhu kāyena vā kāyapaṭibaddhena vā paṭiggaṇhāti:</b>
@@ -3044,12 +3044,12 @@ accepting on a surface that is fixed to the ground: <mark remnotemark="true" sty
 <li><b>kāya:</b> any part of the monk’s body, even a toe; e.g.: accepting drops on the eyes or nostrils</li>
 <li><b>kāyapaṭibaddha:</b> any item connected to the body of the upa <u>that can hold</u> the food item offered
                                                             <ul>
-<li>dāyaka within hatthapāsa, food is offered into a patta on a table, and the upa accepts it by touching the table: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{09086400626389302::<b>paṭiggahaṇa</b>}}</mark> 
-donor offers food into baskets that are kept on the ground touching each other while a monk touches at least one of the baskets with his finger or even a needle: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{09086400626389302::paṭiggahita}}</mark>
-accepting with something that cannot hold the food item, such as very thin leaves like tamarind's on the ground: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{09086400626389302::appaṭiggahita}}</mark>
-accepting with a branch of very small leaves: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{09086400626389302::paṭiggahita}}</mark>
-accepting with larger leaves like lotus or banana leaves laid on a surface: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{09086400626389302::paṭiggahita}}</mark>
-accepting with a needle touching the patta, while food is placed into the patta: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{09086400626389302::paṭiggahita, because tough the needle cannot hold the edible, it is a kāyapaṭibaddha with the patta, which can hold it}}</mark>
+<li>dāyaka within hatthapāsa, food is offered into a patta on a table, and the upa accepts it by touching the table: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>paṭiggahaṇa</b></mark> 
+donor offers food into baskets that are kept on the ground touching each other while a monk touches at least one of the baskets with his finger or even a needle: <mark remnotemark="true" style="background-color: transparent; color: yellow;">paṭiggahita</mark>
+accepting with something that cannot hold the food item, such as very thin leaves like tamarind's on the ground: <mark remnotemark="true" style="background-color: transparent; color: yellow;">appaṭiggahita</mark>
+accepting with a branch of very small leaves: <mark remnotemark="true" style="background-color: transparent; color: yellow;">paṭiggahita</mark>
+accepting with larger leaves like lotus or banana leaves laid on a surface: <mark remnotemark="true" style="background-color: transparent; color: yellow;">paṭiggahita</mark>
+accepting with a needle touching the patta, while food is placed into the patta: <mark remnotemark="true" style="background-color: transparent; color: yellow;">paṭiggahita, because tough the needle cannot hold the edible, it is a kāyapaṭibaddha with the patta, which can hold it</mark>
 <ul>
 <li><mark remnotemark="true" style="background-color: transparent; color: purple;"><i>is there a limit to the number of connections of kāyapaṭibaddhas? </i></mark><mark remnotemark="true" style="background-color: transparent; color: purple;"><i> </i></mark> #<mark remnotemark="true" style="background-color: transparent; color: purple;"><b>q</b></mark>🙋🏼‍♂</li>
 <li><b>Bahū pattā mañce vā pīṭhe vā kaṭasārake vā doṇiyaṃ vā phalake vā ṭhapitā honti, yattha  ṭhitassa dāyako hatthapāse hoti, tattha ṭhatvā paṭiggahaṇasaññāya mañcādīni aṅguliyāpi  phusitvā ṭhitena vā nisinnena vā nipannena vā yaṃ tesu pattesu diyyati, taṃ sabbaṃ  paṭiggahitaṃ hoti. Sacepi paṭiggahessāmīti mañcādīni āruhitvā nisīdati, vaṭṭatiyeva. Sace  pana mañcādīni hatthena gahetvā mañce nisīdati, vattabbameva natthi. Pathaviyaṃ pana  sacepi kucchiyā kucchiṃ āhacca ṭhitā honti, yaṃ yaṃ aṅguliyā vā sūciyā vā phusitvā nisinno  hoti, tattha tattha diyyamānameva paṭiggahitaṃ hoti. (V-a. III. 110.).   </b> </li>
@@ -3059,11 +3059,11 @@ accepting with a needle touching the patta, while food is placed into the patta:
 </li>
 <li><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>tatrajātaka / tatthajātaka</b></mark>↔parts of vegetation connected to their original source of propagation and things that are immovable</li>
 <li><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>asaṁhārima</b></mark>↔something that is not possible to be moved by a thāmamajjhima purisa, such as a fixed wooden plank or rock</li>
-<li>accepting edibles on a <b>tatrajātaka: </b><mark remnotemark="true" style="background-color: transparent; color: yellow;">{{06130190689306736::<b>appaṭiggahita</b>}}</mark> 
-accepting edibles on an asaṁhārima: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{06130190689306736::appaṭiggahita}}</mark>
-accepting edibles on furniture that is bound to a pole or fixed on the ground: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{06130190689306736::appaṭiggahita}}</mark>
-accepting by touching the kāyapaṭibaddha with the feet: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{06130190689306736::paṭiggahita,  but there is an anādarapaṭiggahaṇa dkṭ}}</mark>
-consuming it: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{06130190689306736::anāpatti}}</mark>
+<li>accepting edibles on a <b>tatrajātaka: </b><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>appaṭiggahita</b></mark> 
+accepting edibles on an asaṁhārima: <mark remnotemark="true" style="background-color: transparent; color: yellow;">appaṭiggahita</mark>
+accepting edibles on furniture that is bound to a pole or fixed on the ground: <mark remnotemark="true" style="background-color: transparent; color: yellow;">appaṭiggahita</mark>
+accepting by touching the kāyapaṭibaddha with the feet: <mark remnotemark="true" style="background-color: transparent; color: yellow;">paṭiggahita,  but there is an anādarapaṭiggahaṇa dkṭ</mark>
+consuming it: <mark remnotemark="true" style="background-color: transparent; color: yellow;">anāpatti</mark>
 <ul>
 <li><b>Bahū pattā mañce vā pīṭhe vā kaṭasārake vā doṇiyaṃ vā phalake vā ṭhapitā honti, yattha  ṭhitassa dāyako hatthapāse hoti, tattha ṭhatvā paṭiggahaṇasaññāya mañcādīni aṅguliyāpi  phusitvā ṭhitena vā nisinnena vā nipannena vā yaṃ tesu pattesu diyyati, taṃ sabbaṃ  paṭiggahitaṃ hoti. Sacepi paṭiggahessāmīti mañcādīni āruhitvā nisīdati, vaṭṭatiyeva. Sace  pana mañcādīni hatthena gahetvā mañce nisīdati, vattabbameva natthi. pathaviyaṃ pana  sacepi kucchiyā kucchiṃ āhacca ṭhitā honti, yaṃ yaṃ aṅguliyā vā sūciyā vā phusitvā nisinno  hoti,  tattha  tattha  diyyamānameva  paṭiggahitaṃ  hoti.  "yattha  katthaci  mahākaṭasārahatthattharaṇādīsu ṭhapitapatte paṭiggahaṇaṃ na ruhatī"ti vuttaṃ, taṃ hatthapāsātikkamaṃ sandhāya vuttanti veditabbaṃ. Hatthapāse pana sati yattha katthaci  vaṭṭati aññatra tatthajātakā. tatthajātake pana paduminipaṇṇe vā kiṃsukapaṇṇādimhi vā na vaṭṭati. Na hi taṃ kāyapaṭibaddhasaṅkhyaṃ gacchati. Yathā ca tatthajātake, evaṃ khāṇuke  bandhitvā ṭhapitamañcādimhi asaṃhārime phalake vā pāsāṇe vā na ruhatiyeva, tepi hi  tatthajātakasaṅkhepupagā honti. Bhūmiyaṃ atthatesu sukhumesu tintiṇikādipaṇṇesupi paṭiggahaṇaṃ na ruhati, na hi tāni sandhāretuṃ samatthānīti. Mahantesu pana  paduminipaṇṇādīsu ruhati. (V-a. III. 110-1.).   </b> </li>
 </ul>
@@ -3102,13 +3102,13 @@ consuming it: <mark remnotemark="true" style="background-color: transparent; col
 <li>this is understood from the anupaññatti of this rule that allows unoffered dantapona inside the mouth</li>
 </ul>
 </li>
-<li>putting water or unoffered dantapona into the mouth: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{26575767227132774::<b>anāpatti</b>}}</mark> 
-swallowing it: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{26575767227132774::water: }}</mark><mark remnotemark="true" style="background-color: transparent; color: yellow;">{{26575767227132774::<b>anāpatti</b>}}</mark><mark remnotemark="true" style="background-color: transparent; color: yellow;">{{26575767227132774::; dantapona: }}</mark><mark remnotemark="true" style="background-color: transparent; color: yellow;">{{26575767227132774::<b>pc</b>}}</mark>
-swallowing the essence of the unoffered dantapona knowingly: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{26575767227132774::<b>pc</b>}}</mark> 
-doing so unknowingly: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{26575767227132774::<b>pc</b>}}</mark> 
-if it is offered: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{26575767227132774::<b>anāpatti</b>}}</mark> 
-putting any unoffered edible into the mouth: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{26575767227132774::<b>anāpatti</b>}}</mark>
-swallowing it: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{26575767227132774::<b>pc</b>}}</mark>
+<li>putting water or unoffered dantapona into the mouth: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anāpatti</b></mark> 
+swallowing it: <mark remnotemark="true" style="background-color: transparent; color: yellow;">water: </mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anāpatti</b></mark><mark remnotemark="true" style="background-color: transparent; color: yellow;">; dantapona: </mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc</b></mark>
+swallowing the essence of the unoffered dantapona knowingly: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc</b></mark> 
+doing so unknowingly: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc</b></mark> 
+if it is offered: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anāpatti</b></mark> 
+putting any unoffered edible into the mouth: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anāpatti</b></mark>
+swallowing it: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc</b></mark>
 <ul>
 <li><b>Udakadantapone kukkuccāyantīti ettha te bhikkhū "adinnaṃ mukhadvāraṃ āhāraṃ  āhareyyā"ti padassa sammā atthaṃ asallakkhetvā kukkuccāyisuṃ, bhagavā pana  yathāuppannassa vatthussa vasena pitā viya dārake te bhikkhū saññāpento anupaññattiṃ  ṭhapesi. (V-a. III. 108.).   </b> </li>
 <li><b>Yasmā pana te bhikkhū anāhārepi udake āhārasaññāya dantapone ca mukhadvāraṃ āhaṭaṃ  idanti saññāya kukkuccāyiṃsu, tasmā vuttaṃ "te bhikkhū adinnaṃ…pe… sammā atthaṃ  asallakkhetvā  kukkuccāyiṃsū"ti.  Udakañhi yathāsukhaṃ pātuṃ dantakaṭṭhañca  dantaponaparibhogena paribhuñjituṃ vaṭṭati, tassa pana rasaṃ gilituṃ na vaṭṭati. Sacepi  dantakaṭṭharaso ajānantassa anto pavisati, pācittiyameva. (Srd-ṭ. III. 70.).   </b> </li>
@@ -3121,9 +3121,9 @@ swallowing it: <mark remnotemark="true" style="background-color: transparent; co
 </li>
 <li><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>rajacuṇṇa</b></mark> / <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>raja</b></mark>
 <ul>
-<li>what should be done with a dusty / dirty bowl before going for piṇḍapāta: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{22723725442507248::<b>wash it; if no water, wipe it or get it reoffered by an anupa</b>}}</mark><b>
-</b>if dust falls during piṇḍapāta before one accepts food: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{22723725442507248::<b>reoffer the bowl before accepting food</b>}}</mark><b>
-</b>accepting food with a dusty bowl:<b> </b><mark remnotemark="true" style="background-color: transparent; color: yellow;">{{22723725442507248::<b>vinayadukkaṭa</b>}}</mark><b> </b>
+<li>what should be done with a dusty / dirty bowl before going for piṇḍapāta: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>wash it; if no water, wipe it or get it reoffered by an anupa</b></mark><b>
+</b>if dust falls during piṇḍapāta before one accepts food: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>reoffer the bowl before accepting food</b></mark><b>
+</b>accepting food with a dusty bowl:<b> </b><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>vinayadukkaṭa</b></mark><b> </b>
 <ul>
 <li>extra <b>note:</b>
 <ul>
@@ -3132,9 +3132,9 @@ swallowing it: <mark remnotemark="true" style="background-color: transparent; co
 </li>
 </ul>
 </li>
-<li>if dust falls into the patta that already contains food during piṇḍapāta:<b> </b><mark remnotemark="true" style="background-color: transparent; color: yellow;">{{22723725442507248::<b>get it reoffered before accepting more food,  otherwise vinayadukkaṭa</b>}}</mark><b>
-</b>if the devotee does not hear / ignores the request and offers more food without reoffering the bowl: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{22723725442507248::<b>anāpatti, but then it must be reoffered before accepting more food</b>}}</mark> 
-what should be done on a windy day (dust storm), when dust keeps falling into the patta: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{22723725442507248::with suddhacitta and ābhoga one should consider to give the food to an anupa, accept food, and give it to the anupa; if received back or out of trust in him (?), it is allowed to consume it}}</mark>
+<li>if dust falls into the patta that already contains food during piṇḍapāta:<b> </b><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>get it reoffered before accepting more food,  otherwise vinayadukkaṭa</b></mark><b>
+</b>if the devotee does not hear / ignores the request and offers more food without reoffering the bowl: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anāpatti, but then it must be reoffered before accepting more food</b></mark> 
+what should be done on a windy day (dust storm), when dust keeps falling into the patta: <mark remnotemark="true" style="background-color: transparent; color: yellow;">with suddhacitta and ābhoga one should consider to give the food to an anupa, accept food, and give it to the anupa; if received back or out of trust in him (?), it is allowed to consume it</mark>
 <ul>
 <li><mark remnotemark="true" style="background-color: transparent; color: purple;"><i>what does trusting the anupa mean? </i></mark><mark remnotemark="true" style="background-color: transparent; color: purple;"><i> </i></mark> #<mark remnotemark="true" style="background-color: transparent; color: purple;"><b>q</b></mark>🙋🏼‍♂</li>
 </ul>
@@ -3145,11 +3145,11 @@ what should be done on a windy day (dust storm), when dust keeps falling into th
 <li>comm: “<b>paṭiggahetvā detha”</b></li>
 </ul>
 </li>
-<li>how to give the patta into which dust has fallen to another upa? <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{2945757982576196::<b>inform the upa that the patta should be reoffered before consumption or accepting more food; he should do so</b>}}</mark> </li>
-<li>if the dust is only on the top layer of food (as in gravy): <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{9798347627314283::<b>it can be removed and the remanining consumed</b>}}</mark>
-if the dust gets deeper into the food: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{9798347627314283::get the bowl reoffered}}</mark>
-if there is no anupa: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{9798347627314283::without releasing the bowl, go to where there is an anupa and get it reoffered}}</mark>
-if dust falls into the patta from the vessel from which the food is being offered: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{9798347627314283::paṭiggahita}}</mark>
+<li>how to give the patta into which dust has fallen to another upa? <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>inform the upa that the patta should be reoffered before consumption or accepting more food; he should do so</b></mark> </li>
+<li>if the dust is only on the top layer of food (as in gravy): <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>it can be removed and the remanining consumed</b></mark>
+if the dust gets deeper into the food: <mark remnotemark="true" style="background-color: transparent; color: yellow;">get the bowl reoffered</mark>
+if there is no anupa: <mark remnotemark="true" style="background-color: transparent; color: yellow;">without releasing the bowl, go to where there is an anupa and get it reoffered</mark>
+if dust falls into the patta from the vessel from which the food is being offered: <mark remnotemark="true" style="background-color: transparent; color: yellow;">paṭiggahita</mark>
 <ul>
 <li><b>130 Sace pattatthavikato nīhariyamāne patte rajanacuṇṇāni honti, sati udake dhovitabbo, asati  rajanacuṇṇaṃ pucchitvā paṭiggahetvā vā piṇḍāya caritabbaṃ. Sace piṇḍāya carantassa  rajaṃ patati, paṭiggahetvā bhikkhā gaṇhitabbā. Appaṭiggahetvā gaṇhato vinayadukkaṭaṃ.  Taṃ pana puna paṭiggahetvā bhuñjato anāpatti. Sace pana "paṭiggahetvā dethā"ti vutte  vacanaṃ asutvā vā anādiyitvā vā bhikkhaṃ dentiyeva, vinayadukkaṭaṃ natthi, puna  paṭiggahetvā aññā bhikkhā gahetabbā.sace mahāvāto tato tato rajaṃ pāteti, na sakkā hoti  bhikkhaṃ gahetuṃ, "anupasampannassa dassāmī"ti suddhacittena ābhogaṃ katvā gaṇhituṃ  vaṭṭati. Evaṃ piṇḍāya caritvā vihāraṃ vā āsanasālaṃ vā gantvā taṃ anupasampannassa  datvā puna tena dinnaṃ vā tassa vissāsena vā paṭiggahetvā bhuñjituṃ vaṭṭati.sace  bhikkhācāre sarajaṃ pattaṃ bhikkhussa deti, so vattabbo – "imaṃ paṭiggahetvā bhikkhaṃ vā  gaṇheyyāsi, paribhuñjeyyāsi vā"ti tena tathā kātabbaṃ. Sace rajaṃ upari uppilavati,  kañjikaṃ pavāhetvā sesaṃ bhuñjitabbaṃ. Sace anto paviṭṭhaṃ hoti, paṭiggahetabbaṃ.  Anupasampanne asati hatthato amocentena, yattha anupasampanno atthi tattha  netvā112paṭiggahetabbaṃ. Sukkhabhatte patitarajaṃ apanetvā bhuñjituṃ vaṭṭati. Sace  atisukhumaṃ hoti, uparibhattena saddhiṃ apanetabbaṃ, paṭiggahetvā vā bhuñjitabbaṃ. (V a. III. 111-2.).   </b> </li>
 <li><b>Abhihaṭabhājanato patitarajampi vaṭṭati</b>. (Kṅk. 230.).  </li>
@@ -3160,11 +3160,11 @@ if dust falls into the patta from the vessel from which the food is being offere
 <li><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>rainwater</b></mark>
 <ul>
 <li>rain falls into the patta:
--having touched the dirty body / robes: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{8363794565634921::<b>must be offered</b>}}</mark><b>
-</b>-having touched the trees: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{8363794565634921::<b>must be offered</b>}}</mark>
--having rained for 7 days and trees are clean: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{8363794565634921::<b>need not be offered</b>}}</mark><b>
-</b>-falls directly: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{8363794565634921::<b>need not be offered</b>}}</mark><mark remnotemark="true" style="background-color: transparent; color: yellow;">{{8363794565634921::
-}}</mark>
+-having touched the dirty body / robes: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>must be offered</b></mark><b>
+</b>-having touched the trees: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>must be offered</b></mark>
+-having rained for 7 days and trees are clean: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>need not be offered</b></mark><b>
+</b>-falls directly: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>need not be offered</b></mark><mark remnotemark="true" style="background-color: transparent; color: yellow;">
+</mark>
 <ul>
 <li><b>Suddhaṃ udakaṃ hotīti rukkhasākhādīhi gaḷitvā patanaudakaṃ sandhāya vuttaṃ. (Srd-ṭ.  III. 72.).  </b></li>
 <li><b>Deve vassante piṇḍāya carantassa sarīrato vā cīvarato vā kiliṭṭhaudakaṃ patte patati, taṃ  paṭiggahetabbaṃ. Rukkhamūlādīsu bhuñjantassa patitepi eseva nayo. Sace pana sattāhaṃ  vassante deve suddhaṃ udakaṃ hoti, abbhokāsato vā patati, vaṭṭati. (V-a. III. 114.).   </b> </li>
@@ -3174,12 +3174,12 @@ if dust falls into the patta from the vessel from which the food is being offere
 </li>
 <li><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>accidentaly </b></mark>fallen into bowl<mark remnotemark="true" style="background-color: transparent; color: yellow;"><b> </b></mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"> </mark>
 <ul>
-<li>if food accidentaly falls into the bowl while the donor is stirring the food: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{8294513016878433::<b>need be offered</b>}}</mark>
-if it falls from the spoon while the donor is offering: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{8294513016878433::need not be offered}}</mark>
-falls while the donor is taking the spoon back: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{8294513016878433::some teachers say ok (srtd-ṭ)}}</mark>
-falls from the recipient monk's bowl to the bowl of another monk: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{8294513016878433::need not be offered}}</mark><mark remnotemark="true" style="background-color: transparent; color: yellow;">{{8294513016878433:: }}</mark>
-a donor is breaking a branch intending to offer it, particles fall from the branch into the bowl: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{8294513016878433::need not be offered}}</mark><mark remnotemark="true" style="background-color: transparent; color: yellow;">{{8294513016878433:: }}</mark>
-if they fall on the bowl of another monk nearby: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{8294513016878433::need be offered, because he was not the intended recipient}}</mark><mark remnotemark="true" style="background-color: transparent; color: yellow;">{{8294513016878433:: }}</mark>
+<li>if food accidentaly falls into the bowl while the donor is stirring the food: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>need be offered</b></mark>
+if it falls from the spoon while the donor is offering: <mark remnotemark="true" style="background-color: transparent; color: yellow;">need not be offered</mark>
+falls while the donor is taking the spoon back: <mark remnotemark="true" style="background-color: transparent; color: yellow;">some teachers say ok (srtd-ṭ)</mark>
+falls from the recipient monk's bowl to the bowl of another monk: <mark remnotemark="true" style="background-color: transparent; color: yellow;">need not be offered</mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"> </mark>
+a donor is breaking a branch intending to offer it, particles fall from the branch into the bowl: <mark remnotemark="true" style="background-color: transparent; color: yellow;">need not be offered</mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"> </mark>
+if they fall on the bowl of another monk nearby: <mark remnotemark="true" style="background-color: transparent; color: yellow;">need be offered, because he was not the intended recipient</mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"> </mark>
 <ul>
 <li><b>Paṭhamataraṃ uḷuṅkato thevā patte patantīti ettha "yathā paṭhamataraṃ patitatheve doso  natthi, tathā ākiritvā apanentānaṃ pacchā patitathevepi abhihaṭattā nevatthi doso"ti vadanti.  (Srd-ṭ. III. 71.).   </b> </li>
 <li><b>Yāguṃ vā sūpaṃ vā purato ṭhapetvā ālulentānaṃ bhājanato phusitāni uggantvā patte  patanti, patto paṭiggahetabbo.uḷuṅkena āharitvā dentānaṃ paṭhamataraṃ uḷuṅkato thevā  patte patanti, supatitā, abhihaṭattā doso natthi. Sacepi carukena bhatte ākiriyamāne carukato  masi vā chārikā vā patati, abhihaṭattā nevatthi doso. Anantarassa bhikkhuno diyyamānaṃ  pattato uppatitvā itarassa patte patati, supatitaṃ. Paṭiggahitameva hi taṃ hoti.sace  jajjharisākhādiṃ phāletvā ekassa bhikkhuno dentānaṃ sākhato phusitāni aññassa patte  patanti, patto paṭiggahetabbo. Yassa pattassa upari phālenti, tassa patte patitesu  dātukāmatāya abhihaṭattā doso natthi. (V-a. III. 112.).   </b> </li>
@@ -3190,21 +3190,21 @@ if they fall on the bowl of another monk nearby: <mark remnotemark="true" style=
 <li><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>sharing </b></mark>with anupa 
                             <ul>
 <li>when offering food to sāmaṇera, one should not touch the sāmaṇera's food;
-while doing so, if food is accidentaly taken from the sāmaṇera's bowl: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{6179377938576962::<b>uggahitaka</b>}}</mark> 
-if it gets mixed with the upa's food: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{6179377938576962::<b>the upa's food becomes uggahitaka</b>}}</mark> 
-this can be avoided by: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{6179377938576962::<b>getting the sāmaṇera's food offered beforehand</b>}}</mark> </li>
-<li>a monk, holding his food, asks a sāmaṇera to take some and he rejects: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{7146691058923487::<b>it still belongs to the monk and need not be reoffered (paṭiggahita)</b>}}</mark>
-if the monks says, “I have already given it to you”: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{7146691058923487::it remains the monk's property as long as it is connected to his body}}</mark>
-if the bowl is not connected to the monk's body and the monk says "take it" giving up completely the expectation for it: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{7146691058923487::need be offered}}</mark>
-if he doesn't give up the expectation of the entire food and says "take this or that" and the sāmaṇera, with clean hands, takes food; what falls into the sāmaṇera's bowl is: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{7146691058923487::property of the sāmaṇera}}</mark>
+while doing so, if food is accidentaly taken from the sāmaṇera's bowl: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>uggahitaka</b></mark> 
+if it gets mixed with the upa's food: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>the upa's food becomes uggahitaka</b></mark> 
+this can be avoided by: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>getting the sāmaṇera's food offered beforehand</b></mark> </li>
+<li>a monk, holding his food, asks a sāmaṇera to take some and he rejects: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>it still belongs to the monk and need not be reoffered (paṭiggahita)</b></mark>
+if the monks says, “I have already given it to you”: <mark remnotemark="true" style="background-color: transparent; color: yellow;">it remains the monk's property as long as it is connected to his body</mark>
+if the bowl is not connected to the monk's body and the monk says "take it" giving up completely the expectation for it: <mark remnotemark="true" style="background-color: transparent; color: yellow;">need be offered</mark>
+if he doesn't give up the expectation of the entire food and says "take this or that" and the sāmaṇera, with clean hands, takes food; what falls into the sāmaṇera's bowl is: <mark remnotemark="true" style="background-color: transparent; color: yellow;">property of the sāmaṇera</mark>
 REVIEW THE ABOVE; maybe it is not specific food
-what remains in the bowl: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{7146691058923487::still belongs to the monk}}</mark>
-what the sāmaṇera puts back without having put into his bowl: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{7146691058923487::need}}</mark><mark remnotemark="true" style="background-color: transparent; color: yellow;">{{7146691058923487:: }}</mark><mark remnotemark="true" style="background-color: transparent; color: yellow;">{{7146691058923487::not be offered}}</mark><mark remnotemark="true" style="background-color: transparent; color: yellow;">{{7146691058923487:: }}</mark>
-what the sāmaṇera puts back after having touched his own food: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{7146691058923487::need be offered}}</mark>
-food taken by the sāmaṇera but that still remains on his hands: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{7146691058923487::belong to the monk as long as it has not fallen into the sāmaṇera's patta}}</mark>
-if the sāmaṇera says "enough" or the monk closes his patta preventing the sāmaṇera from putting it back, the food in the sāmaṇera's hand: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{7146691058923487::becomes appaṭiggahita, need be offered}}</mark> </li>
-<li>if the monk specifies a certain amount (such as one piece of cake) and the sāmaṇera takes it: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{4670415085178803::<b>it becomes sāmaṇera's property (appaṭiggahita) as soon as it is not connected to the remaining food</b>}}</mark> 
-if some falls back into the monk's bowl: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{4670415085178803::need be offered}}</mark>
+what remains in the bowl: <mark remnotemark="true" style="background-color: transparent; color: yellow;">still belongs to the monk</mark>
+what the sāmaṇera puts back without having put into his bowl: <mark remnotemark="true" style="background-color: transparent; color: yellow;">need</mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"> </mark><mark remnotemark="true" style="background-color: transparent; color: yellow;">not be offered</mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"> </mark>
+what the sāmaṇera puts back after having touched his own food: <mark remnotemark="true" style="background-color: transparent; color: yellow;">need be offered</mark>
+food taken by the sāmaṇera but that still remains on his hands: <mark remnotemark="true" style="background-color: transparent; color: yellow;">belong to the monk as long as it has not fallen into the sāmaṇera's patta</mark>
+if the sāmaṇera says "enough" or the monk closes his patta preventing the sāmaṇera from putting it back, the food in the sāmaṇera's hand: <mark remnotemark="true" style="background-color: transparent; color: yellow;">becomes appaṭiggahita, need be offered</mark> </li>
+<li>if the monk specifies a certain amount (such as one piece of cake) and the sāmaṇera takes it: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>it becomes sāmaṇera's property (appaṭiggahita) as soon as it is not connected to the remaining food</b></mark> 
+if some falls back into the monk's bowl: <mark remnotemark="true" style="background-color: transparent; color: yellow;">need be offered</mark>
 <ul>
 <li><b>Sāmaṇerassa odanaṃ dentena tassa pattagataṃ acchupanteneva dātabbo. Patto vāssa paṭiggahetabbo. Appaṭiggahite odanaṃ chupitvā puna attano patte odanaṃ gaṇhantassa  uggahitako hoti.sace pana dātukāmo hutvā "āhara sāmaṇera pattaṃ, odanaṃ gaṇhā"ti  vadati, itaro ca "alaṃ mayha"nti paṭikkhipati, puna tavevetaṃ mayā pariccatta"nti ca vuttepi  "na mayhaṃ etenattho"ti vadati. Satakkhattumpi pariccajatu, yāva attano hatthagataṃ  paṭiggahitameva hoti.sace pana ādhārake ṭhitaṃ nirapekkho "gaṇhā"ti vadati, puna  paṭiggahetabbaṃ. Sāpekkho ādhārake pattaṃ ṭhapetvā "etto pūvaṃ vā bhattaṃ vā gaṇhā"ti  sāmaṇeraṃ vadati, sāmaṇero hatthaṃ dhovitvā sacepi satakkhattuṃ gahetvā attano  pattagataṃ aphusantova attano patte pakkhipati, puna paṭiggahaṇakiccaṃ natthi. Yadi pana  attano pattagataṃ phusitvā tato gaṇhāti, sāmaṇerasantakena saṃsaṭṭhaṃ hoti, puna  paṭiggahetabbaṃ. Keci pana "sacepi gayhamānaṃ chijjitvā tattha patati, puna paṭiggahetabba"nti vadanti. Taṃ "ekaṃ bhattapiṇḍaṃ gaṇha, ekaṃ pūvaṃ gaṇha, imassa  guḷapiṇḍassa ettakaṃ padesaṃ gaṇhā"ti evaṃ paricchinditvā vutte veditabbaṃ. Idha pana  paricchedo natthi. Tasmā yaṃ sāmaṇerassa patte patati, tadeva paṭiggahaṇaṃ vijahati.  Hatthagataṃ pana yāva sāmaṇero vā "ala"nti na oramati, bhikkhu vā na vāreti, tāva  bhikkhusseva santakaṃ, tasmā paṭiggahaṇaṃ na vijahati. (V-a. III. 114.).    </b> </li>
 <li><i>this seems at varience with the previous passage</i> </li>
@@ -3214,10 +3214,10 @@ if some falls back into the monk's bowl: <mark remnotemark="true" style="backgro
 </li>
 <li><b>while </b><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>travelling</b></mark><b> </b>
 <ul>
-<li>appaṭiggahita food is kept on a cart; an upa lifts the wheel to get the cart unstuck: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{7894199494693539::<b>not uggahita because he just intended to lift the wheel, not the food</b>}}</mark><mark remnotemark="true" style="background-color: transparent; color: yellow;">{{7894199494693539:: }}</mark> 
-an upa drives a boat with unoffered food in it, or drags it with the hands: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{7894199494693539::not uggahita}}</mark><mark remnotemark="true" style="background-color: transparent; color: yellow;">{{7894199494693539:: }}</mark>
-an upa makes an anupa collect some edible: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{7894199494693539::not uggahita}}</mark>
-the monk holds the anupa's hand while crossing a river / street: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{7894199494693539::not uggahita}}</mark>
+<li>appaṭiggahita food is kept on a cart; an upa lifts the wheel to get the cart unstuck: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>not uggahita because he just intended to lift the wheel, not the food</b></mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"> </mark> 
+an upa drives a boat with unoffered food in it, or drags it with the hands: <mark remnotemark="true" style="background-color: transparent; color: yellow;">not uggahita</mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"> </mark>
+an upa makes an anupa collect some edible: <mark remnotemark="true" style="background-color: transparent; color: yellow;">not uggahita</mark>
+the monk holds the anupa's hand while crossing a river / street: <mark remnotemark="true" style="background-color: transparent; color: yellow;">not uggahita</mark>
 <ul>
 <li><b>Bhikkhu paṭiggahaṇārahaṃ bhaṇḍaṃ manussānaṃ yāne ṭhapetvā maggaṃ gacchati,  yānaṃ kaddame laggati, daharo cakkaṃ gahetvā ukkhipati, vaṭṭati, uggahitakaṃ nāma na  hoti. Nāvāya ṭhapetvā nāvaṃ arittena vā pājeti, hatthena vā kaḍḍhati, vaṭṭati. Uḷumpepi eseva  nayo. Cāṭiyaṃ kuṇḍake vā ṭhapetvāpi taṃ anupasampannena gāhāpetvā anupasampannaṃ  bāhāyaṃ gahetvā tarituṃ vaṭṭati. Tasmimpi asati anupasampannaṃ gāhāpetvā taṃ bāhāyaṃ  gahetvā tarituṃ vaṭṭati. (V-a. III. 116.).   </b> </li>
 </ul>
@@ -3238,9 +3238,9 @@ the monk holds the anupa's hand while crossing a river / street: <mark remnotema
 </li>
 </ul>
 </li>
-<li>an upa collects and gives food for a sāmaṇera; if the sāmaṇera offers it back and the monk had vitakka sodhana, can he consume it? <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{35248740640067844::<b>yes</b>}}</mark> 
-if he does so with raw meat? <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{35248740640067844::<b>yes</b>}}</mark>
-is there any offense for accepting raw meat for a sāmaṇera? <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{35248740640067844::<b>no</b>}}</mark>
+<li>an upa collects and gives food for a sāmaṇera; if the sāmaṇera offers it back and the monk had vitakka sodhana, can he consume it? <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>yes</b></mark> 
+if he does so with raw meat? <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>yes</b></mark>
+is there any offense for accepting raw meat for a sāmaṇera? <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>no</b></mark>
 <ul>
 <li><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>vitakka sodhana</b></mark>↔the upa recalls not having thought that the sāmaṇera would offer him this food, or that he collected the food genuinely for the sāmaṇera alone, not for himself
                                                     <ul>
@@ -3253,14 +3253,14 @@ is there any offense for accepting raw meat for a sāmaṇera? <mark remnotemark
 </li>
 <li>upa carrying appaṭiggahita<b> branch as a shade or to ward off flies</b>
 <ul>
-<li>the branch contains fruits which he then desires to eat: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{9580790945187205::<b>he can get it offered and eat it</b>}}</mark>
-if the upa makes it kappiya, gets it offered in case any pieces fall into his bowl, and uses it to ward off flies: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{9580790945187205::entire branch is paṭiggahita; he can consume it (srtd-ṭ)}}</mark> </li>
+<li>the branch contains fruits which he then desires to eat: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>he can get it offered and eat it</b></mark>
+if the upa makes it kappiya, gets it offered in case any pieces fall into his bowl, and uses it to ward off flies: <mark remnotemark="true" style="background-color: transparent; color: yellow;">entire branch is paṭiggahita; he can consume it (srtd-ṭ)</mark> </li>
 </ul>
 </li>
 <li>upa carrying appaṭiggahita<b> for his parents</b>
 <ul>
-<li>an upa carries unoffered food to his parents; they cook and offer it to the upa: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{7220895949614936::<b>he can consume it</b>}}</mark><mark remnotemark="true" style="background-color: transparent; color: yellow;">{{7220895949614936:: }}</mark>
-if the upa gets sick on the way, can he consume it? <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{7220895949614936::he can get it offered and consume it}}</mark><mark remnotemark="true" style="background-color: transparent; color: yellow;">{{7220895949614936:: }}</mark> </li>
+<li>an upa carries unoffered food to his parents; they cook and offer it to the upa: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>he can consume it</b></mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"> </mark>
+if the upa gets sick on the way, can he consume it? <mark remnotemark="true" style="background-color: transparent; color: yellow;">he can get it offered and consume it</mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"> </mark> </li>
 </ul>
 </li>
 </ul>
@@ -3273,33 +3273,33 @@ if the upa gets sick on the way, can he consume it? <mark remnotemark="true" sty
 </li>
 <li><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pariccatta</b></mark><b> edibles</b>
 <ul>
-<li>collect and consume pariccatta food: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{3310910796851765::<b>allowable</b>}}</mark>
-if food falls while it is being offered, is it pariccatta? <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{3310910796851765::<b>yes</b>}}</mark>
-is it paṭiggahita?<b> </b><mark remnotemark="true" style="background-color: transparent; color: yellow;">{{3310910796851765::<b>no, appaṭiggahita</b>}}</mark><b>
-</b>can the recipient take it and consume it? <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{3310910796851765::<b>yes</b>}}</mark><b>
-</b>if the food is dusty: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{3310910796851765::<b>the dust should be removed or the food reoffered</b>}}</mark><mark remnotemark="true" style="background-color: transparent; color: yellow;">{{3310910796851765:: }}</mark>
-can the recipient ask another monk to collect it? <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{3310910796851765::<b>yes, for himself</b>}}</mark><b>
-</b>can the recipient give it to another monk saying "eat it"? <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{3310910796851765::<b>yes</b>}}</mark><b>
-</b>can another monk collect it for himself and eat it?<b> </b><mark remnotemark="true" style="background-color: transparent; color: yellow;">{{3310910796851765::<b>no, only for the recipient or with his permission </b>}}</mark>
-can another monk collect it for the recipient without having been told to do so? <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{3310910796851765::<b>yes</b>}}</mark><mark remnotemark="true" style="background-color: transparent; color: yellow;">{{3310910796851765:: }}</mark>
+<li>collect and consume pariccatta food: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>allowable</b></mark>
+if food falls while it is being offered, is it pariccatta? <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>yes</b></mark>
+is it paṭiggahita?<b> </b><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>no, appaṭiggahita</b></mark><b>
+</b>can the recipient take it and consume it? <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>yes</b></mark><b>
+</b>if the food is dusty: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>the dust should be removed or the food reoffered</b></mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"> </mark>
+can the recipient ask another monk to collect it? <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>yes, for himself</b></mark><b>
+</b>can the recipient give it to another monk saying "eat it"? <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>yes</b></mark><b>
+</b>can another monk collect it for himself and eat it?<b> </b><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>no, only for the recipient or with his permission </b></mark>
+can another monk collect it for the recipient without having been told to do so? <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>yes</b></mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"> </mark>
 <ul>
 <li><b>Anujānāmi, bhikkhave, yaṃ diyyamānaṃ patati, taṃ sāmaṃ gahetvā paribhuñjituṃ pariccattaṃ taṃ, bhikkhave, dāyakehi.</b> </li>
 </ul>
 </li>
-<li>can the recipient cover the fallen food without touching it, and get it reoffered and consume it on the following day? <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{29204510489353175::<b>yes</b>}}</mark><b>
-</b>is it sannidhikāraka?<b> </b><mark remnotemark="true" style="background-color: transparent; color: yellow;">{{29204510489353175::<b>no</b>}}</mark><b>
-</b>is there any offense?<mark remnotemark="true" style="background-color: transparent; color: yellow;">{{29204510489353175::<b> no</b>}}</mark> 
-on the following day, can he collect it by himself and consume it? <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{29204510489353175::<b>no</b>}}</mark><b>
-</b>can he do so on the same day during kāla?<b> </b><mark remnotemark="true" style="background-color: transparent; color: yellow;">{{29204510489353175::<b>yes</b>}}</mark>
+<li>can the recipient cover the fallen food without touching it, and get it reoffered and consume it on the following day? <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>yes</b></mark><b>
+</b>is it sannidhikāraka?<b> </b><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>no</b></mark><b>
+</b>is there any offense?<mark remnotemark="true" style="background-color: transparent; color: yellow;"><b> no</b></mark> 
+on the following day, can he collect it by himself and consume it? <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>no</b></mark><b>
+</b>can he do so on the same day during kāla?<b> </b><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>yes</b></mark>
 <ul>
 <li><b>Yampi bhikkhussa diyyamānaṃ patati, tampi sāmaṃ gahetvā paribhuñjituṃ vaṭṭati.  Tatridaṃ suttaṃ –"anujānāmi, bhikkhave, ...Taṃdivasaṃyeva hi tassa  sāmaṃ gahetvā paribhogo anuññāto, na tato paranti ayampi kirettha adhippāyo. </b>(V-a. III.  112-3.) </li>
 </ul>
 </li>
-<li>collecting and consuming the pariccatta on the following day: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{91363859434065::<b>adinnamukhadvārāpatti (dkṭ for collecting and pc for consuming it)</b>}}</mark>
-collecting / touching on the same day, but consuming it on the following day: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{91363859434065::same as above}}</mark>
-is there sannidhikāraka offense? <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{91363859434065::no}}</mark><mark remnotemark="true" style="background-color: transparent; color: yellow;">{{91363859434065::, since it was not properly offered (only properly offered edibles become sannidhi if kept overnight)}}</mark>
-collecting / touching on the same day, and consuming it on the following day after having it reoffered: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{91363859434065::uggahitapaṭiggahitadukkaṭāpatti}}</mark>
-is there sannidhikāraka offense? <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{91363859434065::no}}</mark><mark remnotemark="true" style="background-color: transparent; color: yellow;">{{91363859434065::, since it was not properly offered (only properly offered edibles become sannidhi if kept overnight)}}</mark>
+<li>collecting and consuming the pariccatta on the following day: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>adinnamukhadvārāpatti (dkṭ for collecting and pc for consuming it)</b></mark>
+collecting / touching on the same day, but consuming it on the following day: <mark remnotemark="true" style="background-color: transparent; color: yellow;">same as above</mark>
+is there sannidhikāraka offense? <mark remnotemark="true" style="background-color: transparent; color: yellow;">no</mark><mark remnotemark="true" style="background-color: transparent; color: yellow;">, since it was not properly offered (only properly offered edibles become sannidhi if kept overnight)</mark>
+collecting / touching on the same day, and consuming it on the following day after having it reoffered: <mark remnotemark="true" style="background-color: transparent; color: yellow;">uggahitapaṭiggahitadukkaṭāpatti</mark>
+is there sannidhikāraka offense? <mark remnotemark="true" style="background-color: transparent; color: yellow;">no</mark><mark remnotemark="true" style="background-color: transparent; color: yellow;">, since it was not properly offered (only properly offered edibles become sannidhi if kept overnight)</mark>
 <ul>
 <li><mark remnotemark="true" style="background-color: transparent; color: purple;"><i>why is it called adinnamukhadvāra? the item is adinna, but if one had eaten it on the same day, one would still be consuming an adinna item </i></mark> #<mark remnotemark="true" style="background-color: transparent; color: purple;"><b>q</b></mark>🙋🏼‍♂</li>
 <li><mark remnotemark="true" style="background-color: transparent; color: purple;"><i>why is there a sannidhi pc in the first case? </i></mark><mark remnotemark="true" style="background-color: transparent; color: purple;"><i> </i></mark> #<mark remnotemark="true" style="background-color: transparent; color: purple;"><b>q</b></mark>🙋🏼‍♂</li>
@@ -3344,17 +3344,17 @@ is there sannidhikāraka offense? <mark remnotemark="true" style="background-col
 </li>
 <li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>intention</b></mark><b> and </b><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>perception</b></mark></h3>
 <ul>
-<li>this is <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{320984920999821::<b>acittaka</b>}}</mark><b> </b>and <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{320984920999821::<b>nosaññāvimokkha</b>}}</mark><b> </b> offense</li>
-<li>this is a<b> </b><mark remnotemark="true" style="background-color: transparent; color: yellow;">{{17380452815172842::<b>tika</b>}}</mark><b>-pācittiya</b> and <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{17380452815172842::<b>duka</b>}}</mark><b>-dukkaṭa</b> offence;
-the perceptions involved are <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{17380452815172842::<b>appaṭiggahita and paṭiggahita</b>}}</mark> saññā</li>
+<li>this is <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>acittaka</b></mark><b> </b>and <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>nosaññāvimokkha</b></mark><b> </b> offense</li>
+<li>this is a<b> </b><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>tika</b></mark><b>-pācittiya</b> and <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>duka</b></mark><b>-dukkaṭa</b> offence;
+the perceptions involved are <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>appaṭiggahita and paṭiggahita</b></mark> saññā</li>
 <li><b>consuming appaṭiggahita:</b>
-appaṭiggahitasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{6628683507493953::<b>pc</b>}}</mark>
-vematiko: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{6628683507493953::<b>pc</b>}}</mark>
-paṭiggahitasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{6628683507493953::<b>pc</b>}}</mark>
+appaṭiggahitasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc</b></mark>
+vematiko: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc</b></mark>
+paṭiggahitasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc</b></mark>
 <b>consuming paṭiggahita:</b>
-appaṭiggahitasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{6628683507493953::<b>dkṭ</b>}}</mark>
-vematiko: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{6628683507493953::<b>dkṭ</b>}}</mark>
-paṭiggahitasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;">{{6628683507493953::<b>anāpatti</b>}}</mark> </li>
+appaṭiggahitasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>dkṭ</b></mark>
+vematiko: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>dkṭ</b></mark>
+paṭiggahitasaññī: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anāpatti</b></mark> </li>
 </ul>
 </li>
 <li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>aṅga</b></mark></h3>

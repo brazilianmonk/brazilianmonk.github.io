@@ -1,0 +1,1181 @@
+---
+layout: page
+title: "Surāpānavagga"
+permalink: /summaries/vinaya/vibhanga/pacittiya/surapanavagga
+---
+
+<html>
+<head>
+<style>
+      .Portal {
+        border-color: lightblue;
+        border-style: solid;
+      }
+    </style>
+</head>
+<body>
+<h1>
+<mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>surāpāna</b></mark><b>vagga</b>  #<mark remnotemark="true" style="background-color: transparent; color: green;"><b>edited</b></mark>
+</h1>
+<br/>
+<ul>
+<li><h2 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>surāpāna</b></mark>sikkhāpadaṃ #<mark remnotemark="true" style="background-color: transparent; color: green;"><b>edited</b></mark></h2>
+<ul>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>background</b></mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"> </mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"> </mark></h3>
+<ul>
+<li>Buddha wandered in Cetiya, near Bhaddavatikā</li>
+<li>cowherds warned of dangerous nāga at Ambatittha hermitage</li>
+<li>Buddha silently proceeded and stayed in Bhaddavatikā</li>
+<li>V. Sāgata visited hermitage, meditated, tamed the nāga with abhiññā</li>
+<li>Buddha and disciples went to Kosambī</li>
+<li>locals, impressed, asked Sāgata’s desires</li>
+<li>Chabbaggiyas suggested a rare drink called Kāpotikā</li>
+<li>trusting devotees offered it to Sāgata, who drank and collapsed intoxicated at the city gate</li>
+<li>Buddha saw it, had monks carry him to the monastery, where he disrespectfully turned his feet toward the Buddha</li>
+<li>Buddha questioned the monks: Sāgata had been respectful before, but not now; defeated the nāga then, but couldn’t now; should intoxicants be consumed? monks said no</li>
+<li>Buddha rebuked sāgata and set surāpāna rule</li>
+</ul>
+</li>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>description</b></mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"> </mark></h3>
+<ul>
+<li><b>2 types</b> of intoxicant beverages and<b> how they are made</b>
+<ul>
+<li><b>surā: sambhārasaṃyoge madditvā katā surā </b>(made by placing the <b>mixture </b>in a vessel, adding an appropriate amount of <b>water</b>, and repeatedly <b>kneading</b> the mixture)
+                                    <ul>
+<li><b>5 types of surā</b>
+<ul>
+<li><b>piṭṭha</b> surā (flour liquor)</li>
+<li><b>pūva</b> surā (cake liquor) </li>
+<li><b>odana</b> surā (rice liquor)</li>
+<li><b>kiṇṇapakkhittā: </b>kiṇṇa (seeds of liquor); adj. (of alcohol) with fermenting agent thrown in</li>
+<li><b>sambhāra</b> <b>saṃyuttā</b>: mixture of ingredients such as harīṭaka (yellow myrobalan), sāsapa (mustard), and so on, which is then kneaded repeatedly</li>
+<li><b>mem aid</b> for 5 surās and 5 merayas: 
+                                                    <ul>
+<div class="Portal">
+<ul>
+<li>IIT - Nissayamuttaka Course</li>
+</ul>
+</div> </ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><b>meraya: ciraparivāsitamattena merayaṁ </b>(made by merely <b>fermenting</b> the substance over an extended period)
+                                    <ul>
+<li><b>5 types </b>of meraya 
+                                            <ul>
+<li><b>pupphā</b>sava: made with flowers such as madhuka flower, coconut flower, palm flower...</li>
+<li><b>phalā</b>sava: kneading fruits such as grapes or jackfruit, adding water, and fermenting them over an extended period (<mark remnotemark="true" style="background-color: transparent; color: purple;"><i>wouldn't this be under surā?</i></mark>) #<mark remnotemark="true" style="background-color: transparent; color: purple;"><b>q</b></mark>🙋🏼‍♂</li>
+<li><b>madhvā</b>sava: made with extracts (jāti rasa: no added water) of grapes; some say bee honey</li>
+<li><b>guḷā</b>sava: made with sugar cane juice</li>
+<li><b>sambhāra saṃyutta:</b> made with the extract of a mixture of harīṭaka (yellow myrobalan), āmalaka (amla), kaṭuka bhaṇḍa (spices) and so on</li>
+<li><b>mem aid</b> for 5 surās and 5 merayas: 
+                                                    <ul>
+<div class="Portal">
+<ul>
+<li>IIT - Nissayamuttaka Course</li>
+</ul>
+</div> </ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><b>note:</b>
+<ul>
+<li><b>Ettha ca surāya merayassa ca samānepi sambhārasaṃyoge madditvā katā surā,  ciraparivāsitamattena merayanti evamimesaṃ nānākaraṇaṃ daṭṭhabbaṃ. (Kaṅ-abh-ṭ. 402.).   </b> </li>
+<li><b>mem aid</b> for 5 surās and 5 merayas: 
+                                            <ul>
+<li>imagine a quirky chef and a gardener arguing at a party:
+the chef yells, "Flour cake rises, kiṇṇa mixes!"
+the gardener snaps back, "Flowers fruit grapes, cane mixes!"
+<img height="275.51699674205105" src="https://remnote-user-data.s3.amazonaws.com/d6COcIBw-26P_OVhDNA1KDt8S5_cV5UyFlYqmpBuKrVK0xmlIGvEBtmH4L-gbhbGkovQa-yaAmBycLj5hZMrgkclrxvW0ahBTGi-SMfaxm_ubYb_Wk01h5e6_7dAGhcZ.jpeg" width="367.517399872086"/></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><b>from what point</b> are they <b>unallowable</b>?
+                            <ul>
+<li>from the very beginning of their production (<b>bīja kāla</b>)</li>
+</ul>
+</li>
+<li><b>bīja kāla</b>
+<ul>
+<li>the initial stage of liquor production</li>
+</ul>
+</li>
+<li><b>bīja</b> of each intoxicant
+                            <ul>
+<li><b>all</b> except flower liquor (it seems): sambhāra (mixture of ingredients) placed in a pot during preparation</li>
+<li><b>flower liquor</b>: extract (jātirasa) obtained from the flowers</li>
+</ul>
+</li>
+<li>drinking a drop of surā or meraya from their bīja kāla from a blade of grass: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc</b></mark> 
+drinking a large amount in one effort: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>1 pc</b></mark>
+drinking with multiple efforts: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>multiple pc</b></mark> 
+drinking not knowing it is intoxicant: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc</b></mark>
+<ul>
+<li><b>Antamaso kusaggenapi pivatīti etaṃ suraṃ vā merayaṃ vā bījato paṭṭhāya kusaggena pivatopi pācittiyanti attho. Ekena pana payogena bahumpi pivantassa ekā āpatti. Vicchinditvā  vicchinditvā pivato payogagaṇanāya āpattiyo. (Pc-a. 127.).     
+Bījato paṭṭhāyāti sambhāre paṭiyādetvā cāṭiyaṃ pakkhittakālato, tālanāḷikerādīnaṃ  puppharasassa gahitaabhinavakālatoyeva ca paṭṭhāya. (Srd-ṭ. III. 79.).   </b> </li>
+</ul>
+</li>
+</ul>
+</li>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anāpatti</b></mark></h3>
+<ul>
+<li><b>amajjañca hoti majjavaṇṇaṃ majjagandhaṃ majjarasaṃ taṃ pivati: </b>if it does not cause intoxication, though it may have the same colour, smell and taste as an alcoholic beverage
+                            <ul>
+<li><b>Loṇa sovīraka</b> and <b>sutta</b> are two medicinal beverages that are made by mixing various ingredients and fermented over an extended period (considered allowable)
+                                    <ul>
+<li>in class: this seems to have a considerably high percentage of alcohol; should be discussed further</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><b>sūpasampāke: </b>if cooked with curries</li>
+<li><b>maṃsasampāke: </b>if cooked with meat  </li>
+<li><b>telasampāke: </b>if cooked with oil without exceeding the limit (<b>anatikkhittamajja</b>)
+                            <ul>
+<li>sometimes oil is cooked to make medicine for sicknesses caused by the air element</li>
+<li><b>anatikkhittamajja (na ati khitta majja)</b>↔the amount of liquor added does not give the appearance, scent, or taste of liquor</li>
+<li><b>atikkhittamajja</b>↔the amount of liquor added gives the appearance, scent, or taste of liquor 
+                                    <ul>
+<li>consuming atikkhittamajja<b>: </b><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc</b></mark> </li>
+</ul>
+</li>
+</ul>
+</li>
+<li><b>āmalakaphāṇite: </b>consuming āmalaka treacle, though it has the appearance, scent and taste similar to liquor</li>
+<li><b>amajjaṃ ariṭṭhaṃ pivati: </b>drinking medicinal spirits called <b>ariṭṭha </b>that are sometimes made using the āmalaka extract which has the appearance, scent, and taste similar to liquor, though not being actual liquor
+                            <ul>
+<li>āmalaka extracts mixed with sambhāra are liquor from bīja kāla</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>aṅga</b></mark></h3>
+<ul>
+<li><b>surāmeraya...(majjabhāvo):</b> being an alcoholic substance</li>
+<li><b>pāne...(tassa pānaṃ):</b> drinking (consuming) it</li>
+<li><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>Pāḷi</b></mark>
+<ul>
+<li><b>Surāmerayapāne pācittiyaṃ</b>.
+In drinking alcoholic drinks known as surā and meraya, [there is a case]  involving expiation.   </li>
+</ul>
+</li>
+</ul>
+</li>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>other elements</b></mark></h3>
+<ul>
+<li><b>citta </b>and <b>saññā</b>
+<ul>
+<li>acittaka and nosaññāvimokkha</li>
+</ul>
+</li>
+<li><b>āpatti and saññā</b>
+<ul>
+<li>tika-pācittiya and duka-dukkaṭa</li>
+<li><b>majja / amajja saññā</b> (the perception that what is being consumed is / is not liquor)</li>
+</ul>
+</li>
+<li><b>kusalattika </b>and <b>vedanāttika</b>
+<ul>
+<li>comm: akusala citta
+                                    <ul>
+<li>srtdpn: mostly akusala, but all cittas</li>
+<li>vmtvndn: even without knowing, the mind becomes akusala as soon as it enters the body</li>
+<li>comm: as a miracle, it does not go into ariya's body</li>
+</ul>
+</li>
+<li>sukha, dukkha or upekkhā</li>
+<li><b>note: </b>(huge) argument between 2 commentators (parajikapāḷi)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><b>extra notes</b></h3>
+<ul>
+<li>other intoxicant substances come under <b>majja </b>(mentioned  in the 8 precepts and in the āpattivāra as an umbrella term); it must be included here, but it is not mentioned; this is not discussed</li>
+<li><b>"Tales of Kosambī":</b> book with stories from this region from the tipitaka</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><h2 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>aṅgulipatodaka</b></mark>sikkhāpadaṃ #<mark remnotemark="true" style="background-color: transparent; color: green;"><b>edited</b></mark></h2>
+<ul>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>background</b></mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b> </b></mark></h3>
+<ul>
+<li>Buddha: Jetavana</li>
+<li>Chabbaggiyas made one of the Sattarasavaggiyas laugh by tickling him, making him suffocate and die</li>
+</ul>
+</li>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>description</b></mark></h3>
+<ul>
+<li><b>intention under this rule </b>
+<ul>
+<li><b>hasādhippāya: </b>intention of playing (<b>khiḍḍādhippāyassa</b>) to have fun (not just tickling) 
+                                    <ul>
+<li><b>Dutiye aṅgulipatodaketi aṅgulīhi upakacchakādighaṭṭanaṃ vuccati, apica yena kenaci sarīrāvayavena hasādhippāyassa upasampannaṃ phusato pācittiyaṃ.
+Hasādhippāyassāti khiḍḍādhippāyassa, iminā kāyasaṃsaggādhippāyaṃ paṭikkhipati.  </b>
+<ul>
+<li>upakacchaka↔nt. armpit #[[<mark remnotemark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (3rd year)]] </li>
+<li>ghaṭṭana [√ghaṭṭ + ana]↔nt. conflicting; clashing; attacking; lit. striking 2 nt. insulting; lit. striking [√ghaṭṭ + ana] ~3 nt. striking, knocking against; impinging, knocking together </li>
+<li>avayava masc.↔limb, part, constituent ✗2 masc. (gram) constituent of compound ✗</li>
+<li>khiḍḍā↔fem. amusement; play; fun; entertainment </li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>āpattivara</b></mark></h3>
+<ul>
+<li><b>touching an </b><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>upa</b></mark><b>:
+</b>kāyena kāyaṃ āmasati<b> </b><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>āpatti pācittiyassa</b></mark> 
+kāyena kāyapaṭibaddhaṃ āmasati...kāyapaṭibaddhena kāyaṃ / kāyapaṭibaddhaṃ āmasati...nissaggiyena kāyaṃ / kāyapaṭibaddhaṃ / nissaggiyaṃ āmasati...<mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>āpatti dukkaṭassa</b></mark> 
+
+doing so to an anupa: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>dkṭ</b></mark>
+
+doing so to a bhikkhunī with hasādhippāya: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>dkṭ</b></mark> 
+doing so to a bhikkhunī with no lust: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anāmāsadukkaṭa</b></mark>
+doing it with kāyasaṁsaggarāga: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>sg</b></mark> 
+
+touching a female without lust: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anamāsadukkaṭa</b></mark>
+touching a female when they are in danger: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anamāsadukkaṭa, but one comm. says with karuṇa it is ok</b></mark>
+<ul>
+<li><b>Ettha bhikkhunīpi anupasampannaṭṭhāne ṭhitā, tampi khiḍḍādhippāyena phusantassa dukkaṭaṃ. (Pc-a. 128.).   </b> </li>
+</ul>
+</li>
+</ul>
+</li>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anāpattivara</b></mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b> </b></mark></h3>
+<ul>
+<li><b>na hasādhippāyo:</b> touching (a male) when there is no intention of playing
+                            <ul>
+<li><b>extra note: </b>if a woman: <b>anamāsa dukkaṭa</b> </li>
+</ul>
+</li>
+<li><b>sati karaṇīye āmasati:</b> if there is a suitable reason (applicable to monks <mark remnotemark="true" style="background-color: transparent; color: purple;"><i>confirm</i></mark><i>)</i> </li>
+</ul>
+</li>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>aṅga</b></mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b> </b></mark></h3>
+<ul>
+<li><b>aṅgulipatodake...(upasampannassa kāyena kāyāmasanaṁ)</b>
+<ul>
+<li><b>hasādhippāyatā</b> </li>
+</ul>
+</li>
+<li><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>Pāḷi</b></mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b> </b></mark>
+<ul>
+<li><b>Aṅgulipatodake pācittiyaṃ</b>.
+In tickling with the fingers, [there is a case] involving expiation.   </li>
+</ul>
+</li>
+</ul>
+</li>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>other elements</b></mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b> </b></mark></h3>
+<ul>
+<li><b>citta and saññā</b>
+<ul>
+<li>sacittaka and saññāvimokkha</li>
+</ul>
+</li>
+<li><b>āpatti and saññā</b>
+<ul>
+<li><b>tika</b>-pācittiya and <b>tika</b>-dukkaṭa</li>
+<li><b>upa / anupa saññā</b> </li>
+</ul>
+</li>
+<li><b>kusalattika and vedanāttika</b>
+<ul>
+<li>akusala citta (lobhamūla)</li>
+<li>sukha or upekkhā</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><h2 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>hassadhamma</b></mark>sikkhāpadaṃ  #<mark remnotemark="true" style="background-color: transparent; color: green;"><b>edited</b></mark></h2>
+<ul>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>background</b></mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"> </mark></h3>
+<ul>
+<li>Buddha: Jetavana</li>
+<li>Sattarasavaggiyas played in the water of the Aciravatī river</li>
+<li>King Kosala saw them and told the Queen Mallikā: “your arahants play in water” </li>
+<li>Mallikā replied Buddha likely set no rule, or monks unaware</li>
+<li>King, indending that the Buddha get to know about it, gave monks jaggery to offer the Buddha</li>
+<li>monks did so and the Buddha asked where they had met him</li>
+<li>monks said that while playing in the river</li>
+<li>Buddha reprimanded them and set hassadhamma rule  </li>
+</ul>
+</li>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>āpatti</b></mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"> </mark></h3>
+<ul>
+<li><b>intention</b>→<b>hasādhippaya</b> (intention of playing)  </li>
+<li>water above the ankle; one submerges and emerges for playing: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc for every time (seems to be 1 pc for both actions </b></mark>[<mark remnotemark="true" style="background-color: transparent; color: purple;">confirm</mark>]<mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>)</b></mark> 
+one makes gestures (payoga) with limbs when getting into the water, in the water, submerging and emerging for fun: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>dkṭ </b></mark>(<mark remnotemark="true" style="background-color: transparent; color: purple;"><i>clarify</i></mark>)  
+crossing the water for fun with hands or legs: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc for every movement made by such body parts (payoga)</b></mark>  
+jumping into the water for sport: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc</b></mark>
+engaging in water sports at a water level below the ankle: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>dkṭ</b></mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>
+</b></mark>doing so while on a boat: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>dkṭ</b></mark>   #<mark remnotemark="true" style="background-color: transparent; color: purple;"><b>q</b></mark>🙋🏼‍♂
+                            <ul>
+<li>payoga here is: movement, effort</li>
+</ul>
+</li>
+<li>kkvtrn-ṭ: 
+                            <ul>
+<li>if a vessel is maneuvered using oars / sculls or when a vessel is dragged on the shore for fun: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>dkṭ</b></mark>
+disturbing water with hands, legs or a stone for fun: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>dkṭ</b></mark>
+stone skimming and stone skipping for fun: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>dkṭ (1 per throw)</b></mark> 
+throwing water / porridge / milk / buttermilk / mud for fun (khipana kīḷā): <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>dkṭ</b></mark> </li>
+</ul>
+</li>
+</ul>
+</li>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anāpattivara</b></mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"> </mark></h3>
+<ul>
+<li><b>na hasādhippāyo</b></li>
+<li><b>sati karaṇīye udakaṃ otaritvā nimujjati vā ummujjati vā palavati vā</b></li>
+<li><b>pāraṃ gacchanto nimujjati vā ummujjati vā palavati vā</b></li>
+<li><b>āpadāsu</b> </li>
+</ul>
+</li>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>aṅga</b></mark></h3>
+<ul>
+<li><b>udake...(uparigopphakatā): </b>there being water above the ankle
+                            <ul>
+<li>gopphaka [goppha + ka]↔nt. ankle </li>
+</ul>
+</li>
+<li><b>...hasadhamme...(hasādhippāyena kīḷanaṃ): </b>playing in water with the intention of enjoying</li>
+<li><b>Pāḷi</b>
+<ul>
+<li><b>Udake hassadhamme pācittiyaṃ</b>. 
+In the act of playing in water, [there is a case] involving expiation.   </li>
+</ul>
+</li>
+</ul>
+</li>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>other elements</b></mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"> </mark></h3>
+<ul>
+<li><b>citta and saññā</b>
+<ul>
+<li>sacittaka and saññāvimokkha</li>
+</ul>
+</li>
+<li><b>āpatti</b> and <b>saññā</b>
+<ul>
+<li><b>tika</b>-pācittiya and <b>duka</b>-dukkaṭa</li>
+<li><b>hasadhamma / ahasadhamma saññā</b> (the perception of thinking as one is not playing)</li>
+</ul>
+</li>
+<li><b>kusalattika </b>and<b> vedanāttika</b>
+<ul>
+<li>akusalacitta (lobhamūla)</li>
+<li>sukha or upekkhā</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><h2 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anādariya</b></mark>sikkhāpadaṃ  #<mark remnotemark="true" style="background-color: transparent; color: green;"><b>edited</b></mark></h2>
+<ul>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>background</b></mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"> </mark></h3>
+<ul>
+<li>The Tathāgata was residing in the Ghoshita monastery in the city of Kosambhi.  During this time Venerable Channa was disobeying training rules and behaving  inappropriately. Then the other bhikkhus told him, “Friend, Channa, do not do  this, for it is inappropriate.” However, he continued what he has been doing  out disrespecting what the other monks had told him. When this was informed  to the Buddha, he reprimanded Venerable Channa and imposed the anādariya  training rule.</li>
+</ul>
+</li>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>description</b></mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"> </mark></h3>
+<ul>
+<li><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anādariya</b></mark>→disrespect
+                            <ul>
+<li><b>2 types</b>
+<ul>
+<li><b>puggala anādariya: </b>
+<ul>
+<li>disrespecting another advising monk</li>
+<li>not adhering to the rule (continuing to do so) </li>
+</ul>
+</li>
+<li><b>dhamma anādariya:</b>
+<ul>
+<li>disrespecting the rule, thinking of how it could be destroyed ‒ <b>kathaṃ ayaṃ dhammo tanti paveṇī nasseyya vā vinasseyya vā antaradhāyeyya vā?</b> </li>
+<li>not adhering to the rule (continuing to do so)</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>āpattivara</b></mark></h3>
+<ul>
+<li>being admonished by an upa about paññatta and showing puggala / dhamma anādariya: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc</b></mark> 
+if anupa admonishes: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>dkṭ</b></mark>
+if upa admonishes about apaññatta: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>dkṭ</b></mark> 
+if anupa does so: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>dkṭ</b></mark></li>
+<li><b>paññatta</b>↔what has been laid down in the Vinaya</li>
+<li><b>apaññatta</b>↔what has not been promulgated in the Vinaya, but has been in the Suttanta / Abhidhamma; connected with sallekhāya, dhuttattāya, pāsādikatāya, apacayāya, and vīriyārambhāya such as the ovādasikkhāpada
+                            <ul>
+<li><mark remnotemark="true" style="background-color: transparent; color: purple;"><i>what about things that are allowable / optional? within this area there is flexibility. what if someone else tries to impose a limitation that is such areas?</i></mark> not āpatti #<mark remnotemark="true" style="background-color: transparent; color: purple;"><b>q</b></mark>🙋🏼‍♂</li>
+<li>In some places, <b>apacayāya</b> means for the destruction of the three cycles of saṃsāra</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anāpatti</b></mark></h3>
+<ul>
+<li><b>"evaṃ amhākaṃ ācariyānaṃ uggaho paripucchā"ti bhaṇati: </b> saying “This is the idea (uggaha) and inquiry (paripucchā) of our teachers” (<b>ācariyavāda</b>)
+                            <ul>
+<li><b>what ideas</b> are included here (3 points and conclusion)?
+                                    <ul>
+<li><b>mahā-a:</b> only <b>ācariyavāda</b>, not gārayha ācariyavāda  
+                                            <ul>
+<li><b>ācariyavāda</b>↔explanations that have been passed down through the tradition (<b>paveṇī</b>‒the lineage beginning from the First Council)</li>
+<li><b>paveṇī</b>↔the lineage beginning from the First Council</li>
+<li><b>gārayha ācariyavāda</b>↔blameworthy interpretations of teachers ‒ sugarcane juice is sattāhakālika; pure sugarcane bagasse (kasaṭa) is yāvajīvika; tf, sugarcane sticks made from sattāhakālika sugarcane juice and yāvajīvika sugarcane kasaṭa are allowable to be eaten during vikāla, like jaggery and harītaka   </li>
+<li><b>vocab</b>:
+                                                    <ul>
+<li>paveṇī [pa + √ve + ṇī]↔fem. tradition; lineage; lit. braid  2 fem. breed 3 fem. braid of hair #[[<mark remnotemark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (3rd year)]] </li>
+<li>uggaha [ud + √gah + a]↔masc. learning; study; practice; lit. taking up; 2 masc. taking up #[[<mark remnotemark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (3rd year)]] </li>
+</ul>
+</li>
+</ul>
+</li>
+<li><b>kurundi-a:</b> only ācariyavāda<b> </b>in <b>paññattivajja</b> rules, not in lokavajja
+                                            <ul>
+<li><b>ācariyavāda: </b>opening a door with a bowl in hand only applied to the hand that holds the bowl; with the free hand is ok
+                                                    <ul>
+<li>being admonished, one says this and keeps practicing in this way:<b> </b><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anāpatti (bc it is paññattivajja)</b></mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"> </mark> </li>
+<li><b>Paṇṇattivajje pana vaṭṭatīti "na pattahatthena kavāṭo paṇāmetabbo’ti imassa ‘Yena hatthena patto gahito, tena hatthena na paṇāmetabbo, itarena paṇāmetabbo’ti atthaṃ gahetvā tathā ācaranto na āpattiyā kāretabbo. </b> </li>
+</ul>
+</li>
+<li>abhayagirika monks used to take flowers offered to buddha, cetiya, and bodhi and use it
+                                                    <ul>
+<li><b>Tathā buddhabodhicetiyānaṃ pupphaṃ gaṇhituṃ vaṭṭatīti tathā ācaranto"ti ca. Tathā ācarati abhayagirivāsiko. (Vjb-ṭ. 329.).  Vjb-ṭ-ns. II. 112-3. </b> </li>
+</ul>
+</li>
+</ul>
+</li>
+<li><b>mahāpaccariya: </b>only ācariyavāda of teachers <b>who have studied the Vinaya doctrine</b> and <b>takes the commentaries seriously </b> </li>
+<li>conclusion: <b>only teachings handed down through the tradition must be accepted”</b> – “<b>Taṃ sabbaṃ paveṇiyā āgatesamodhānaṃ gacchati”</b>
+<ul>
+<li><b>extra notes: </b>
+<ul>
+<li>written on a raft; famine in SL; monks went to India on this raft; chaos period; arahants present; some met sakka; he could not intervene; monks gathered; 60 monks remained; 500 went; they lived on the shores of India; 7-12 years; came back; wrote the comm on the raft; considered to be written by arahats; they met in a certain monastery; recited as they hasd memorized; all was matching; not even a word different; decided to write the tipitaka down; niddesapāḷi was missing (happened later); this led to the 4th council; some ideas are differenthe from maha aṭ; sometimes rejected by Bdghs; Andaka-a is usually refuted; Kurundi sometimes rejected  </li>
+<li><b>mahāpaccariya commentary</b> (story)</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>aṅga</b></mark></h3>
+<ul>
+<li><b>anādariye...(anādariyakaraṇaṃ):</b> being disrespectful (bhāsa-ṭ: and continue doing the action)</li>
+<li><b>upasampannassa paññattena vacanaṃ:</b> an upa advising about a Vinaya rule</li>
+<li><b>Pāḷi</b>
+<ul>
+<li><b>Anādariye pācittiyaṃ</b>.
+In disrespect, [there is a case] involving expiation.   </li>
+</ul>
+</li>
+</ul>
+</li>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>other elements</b></mark></h3>
+<ul>
+<li><b>citta and saññā</b>
+<ul>
+<li>sacittaka and saññāvimokkha</li>
+</ul>
+</li>
+<li><b>āpatti and saññā</b>
+<ul>
+<li>tika-pācittiya and tika-dukkaṭa</li>
+<li>upa / anupa saññā (the perception that one who is admonishing is an upa / anupa)</li>
+</ul>
+</li>
+<li><b>kusalattika and vedanāttika</b>
+<ul>
+<li>akusalacitta  (dosamūla)</li>
+<li>dukkha</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><b>notes: </b></h3>
+<ul>
+<li>kkvtrn-t: āpatti when he continues the activity (bhasatika)</li>
+<li>continue to do something within the allowable: no offense
+                            <ul>
+<li>adhammakathika is not allowed: </li>
+<li>paññattena is clear</li>
+<li>apaññattena has to be judged carefully</li>
+<li>disagreements: (kosambi monks) </li>
+<li>either against a rule or something that induces defilements</li>
+</ul>
+</li>
+<li>it seems that there is an ultimate interpretation of the rules</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><h2 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>bhiṃsāpanaka</b></mark>sikkhāpadaṃ #<mark remnotemark="true" style="background-color: transparent; color: green;"><b>edited</b></mark></h2>
+<ul>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>background</b></mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"> </mark></h3>
+<ul>
+<li>Tathāgata: Jetavana; Chabbaggiya bhikkhus scared the Sattarasavaggiya bhikkhus; they cried; other bhikkhus getting to know about it informed the Buddha</li>
+</ul>
+</li>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>description</b></mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"> </mark></h3>
+<ul>
+<li><b>2 ways</b> it can be committed
+                            <ul>
+<li><b>showing</b> (frightening / dreadful) <b>objects</b> (rūpa, sadda, gandha, rasa, phoṭṭhabba) with the <b>intention</b> of scaring   </li>
+<li><b>telling a horror story</b> with the intention of scaring ‒ 3 types
+                                    <ul>
+<li><b>corakantāra</b>: about a waste land with thieves</li>
+<li><b>vāḷakantāra: </b>with wild animals</li>
+<li><b>pisācakantāra: </b>with demons</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>āpatti</b></mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"> </mark></h3>
+<ul>
+<li>doing so to an upa: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc</b></mark>
+if the upa does not get afraid: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc</b></mark> 
+by telling a horror story: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc</b></mark> (not mentioned how offenses are counted)
+doing so to an anupa: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>dkṭ</b></mark>
+doing so within the dassana-/ savaṇa-visaya: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc</b></mark> 
+doing so beyond the visaya: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>seems to be anāpatti</b></mark> </li>
+</ul>
+</li>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anāpatti</b></mark></h3>
+<ul>
+<li><b>na bhiṃsāpetukāmo rūpaṃ vā saddaṃ vā gandhaṃ vā rasaṃ vā phoṭṭhabbaṃ vā upasaṃharati:</b> showing objects without the intention of scaring</li>
+<li><b>na bhiṃsāpetukāmo corakantāraṃ vā vāḷakantāraṃ vā pisācakantāraṃ vā ācikkhati: </b> telling a story without the intention of scaring</li>
+</ul>
+</li>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>aṅga</b></mark></h3>
+<ul>
+<li><b>...bhikkhuṃ...(upasampannatā)</b> </li>
+<li><b>...bhiṃsāpeyya...(tassa dassanasavanavisaye bhiṃsāpetukāmatāya vāyamanaṃ): </b>trying to scare within the dassana / savaṇa visaya (upacāra)</li>
+<li><b>Pāḷi</b>
+<ul>
+<li><b>Yo pana bhikkhu bhikkhuṃ bhiṃsāpeyya, pācittiyaṃ.</b> 
+If any bhikkhu should scare [another] bhikkhu, [this is a case] involving  expiation.   </li>
+</ul>
+</li>
+</ul>
+</li>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>other elements</b></mark></h3>
+<ul>
+<li><b>citta </b>and <b>saññā</b>
+<ul>
+<li>sacittaka and saññāvimokkha</li>
+</ul>
+</li>
+<li><b>āpatti</b> and <b>saññā</b>
+<ul>
+<li><b>tika</b>-pācittiya and <b>tika</b>-dukkaṭa</li>
+<li><b>upasampanna / anupasampanna saññā</b> (the perception that one who is  frightening is an aupasampanna)</li>
+</ul>
+</li>
+<li><b>kusalattika </b>and<b> vedanāttika</b>
+<ul>
+<li><b>akusala</b> citta (dosamūla)</li>
+<li><b>dukkha</b>vedanā</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><h2 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>jotika</b></mark>sikkhāpadaṃ #<mark remnotemark="true" style="background-color: transparent; color: green;"><b>edited</b></mark></h2>
+<ul>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>background</b></mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"> </mark></h3>
+<ul>
+<li>tathāgata in bhesakaḷā deer park, suṇsumāragiri, bhagga. bhikkhus burned hollow trunk for warmth; snake inside attacked. tathāgata set rule banning fire for warmth. later, sick bhikkhus needed warmth but avoided fire due to rule. tathāgata allowed sick monks to light fires. bhikkhus unsure about lamps, baking bowls, sweat therapy (sedakamma), sauna (jantāghara). buddha added sub-rule permitting fires for these, including lamps.  </li>
+</ul>
+</li>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>āpatti</b></mark></h3>
+<ul>
+<li><b>preliminary payogas: </b>keeping firewood (any fuel) or doing any preliminary action to kindle a fire intending to do so and without a suitable reason: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>dkṭ for each</b></mark> 
+ordering sb to light a fire: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>dkṭ</b></mark>
+the fire is lit as ordered: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc for the orderer</b></mark>
+multiple fires are lit due to one order: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>1 pc for the orderer</b></mark>
+<b>kindling</b> a fire or having it kindled: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc</b></mark> 
+picking up a fallen firebrand and placing it back in its place: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>dkṭ</b></mark>
+reigniting a firebrand that went extinct: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc</b></mark></li>
+</ul>
+</li>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anāpatti</b></mark></h3>
+<ul>
+<li><b>gilānassa:</b> for one who has a sickness that makes it difficult to stay without a fire / heat  </li>
+<li><b>aññena kataṃ visibbeti:</b> warming oneself in a fire made by another</li>
+<li><b>vītaccitaṅgāraṃ visibbeti</b>: warming oneself if there are no flames</li>
+<li><b>padīpe jotike jantāghare tathārūpappaccayā</b>: to light lamps, bake bowls, in a sauna</li>
+<li><b>āpadāsu</b>: such as disturbance from wild animals or spirits</li>
+<li>vītaccita [vīta + accita]↔adj. without flames; glowing #[[<mark remnotemark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (3rd year)]] </li>
+<li>visibbeti [vi + √siv + *e + ti]↔pr. (+acc) warms; heats oneself up (with)  #[[<mark remnotemark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (3rd year)]] </li>
+</ul>
+</li>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>aṅga</b></mark></h3>
+<ul>
+<li><b>...agilāno... (agilānatā)</b>: not being sick</li>
+<li><b>...visibbanāpekkho...(visibbetukāmatā)</b>: desire to warm up oneself near a fire</li>
+<li><b>...jotiṁ samādaheyya vā samādahāpeyya vā...(samādahanaṃ)</b>: lighting a fire</li>
+<li><b>...aññatra tathārūpapaccayā...(anuññātakaraṇābhāvo)</b>: absence of an approved reason</li>
+<li><b>pāli</b>
+<ul>
+<li><b>yo pana bhikkhu agilāno visibbanāpekkho jotiṃ samādaheyya vā samādahāpeyya vā, aññatra tathārūpapaccayā, pācittiyaṃ.  </b></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>other elements</b></mark></h3>
+<ul>
+<li><b>citta </b>and<b> saññā</b>
+<ul>
+<li>acittaka and nosaññāvimokkha</li>
+</ul>
+</li>
+<li><b>āpatti </b>and<b> perception</b>
+<ul>
+<li>tika-pācittiya and duka-dukkaṭa</li>
+<li>gilāna / agilāna saññā (perception that one is / is not sick)</li>
+</ul>
+</li>
+<li><b>kusalattika </b>and <b>vedanāttika</b>
+<ul>
+<li>kusala, akusala or abyākata citta</li>
+<li>sukha, dukkha or upekkhā</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><h2 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>nahāna</b></mark>sikkhāpadaṃ #<mark remnotemark="true" style="background-color: transparent; color: green;"><b>edited</b></mark></h2>
+<ul>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>background</b></mark></h3>
+<ul>
+<li>Buddha in Veḷuvana, Rājagaha; bhikkhus bathing in the river Tapodā until dark; King Bimbisāra could not bathe and stayed outside the city for the night; he visited the Buddha with the same make up (asambhinnena  vilepanena); the Buddha questioned it; gave a dhamma talk and laid down the rule; monks dirtied the beds with sweat during the hot season; allowance for uṇha and pariḷāha samaya given; sick monks reported to be uncomfortable without bathing; allowance given for the sick; working monks soiled the beds ⇒ kammasayama; travelling monks soiled the beds ⇒ addhānagamanasamaya; monks made robes outside and were exposed to dust and rain; soiled the beds; vātavuṭṭhisamaya;
+limiting the rule to the majjhima desa</li>
+<li>in the beginning: every <b>1/2</b> month everywhere
+V. <b>Kaccāyana</b> requested a relaxation for his region (Avanti): conceded <b>dhuvanahāna </b>for all districts outside the majjhimadesa ‒ <b>Anujānāmi, bhikkhave, sabbapaccantimesu janapadesu dhuvanahānaṃ</b> </li>
+</ul>
+</li>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>description</b></mark></h3>
+<ul>
+<li><b>allowed</b> samayas
+                            <ul>
+<li><b>uṇha</b> samaya: the last 1 1/2 months of the summer </li>
+<li><b>pariḷāha</b> samaya: 1st month of the rainy season</li>
+<li><b>gilāna </b>samaya: if it’s difficult for one to stay without bathing</li>
+<li><b>kamma</b> samaya: if at least the monastery premises were swept</li>
+<li><b>addhānagamana</b> samaya<b>: </b>before, after and during a 1/2 yojana journey</li>
+<li><b>vātavuṭṭhi </b>samaya<b>:</b> one is covered in dust and then gets wet by at least two or three raindrops   </li>
+</ul>
+</li>
+</ul>
+</li>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>āpattivāra</b></mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"> </mark></h3>
+<ul>
+<li>pubbapayogas: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>dkṭ</b></mark>
+bathing more than once within a period of half a month: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc</b></mark> 
+moment the offense occurs: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>when bathing ends</b></mark> </li>
+</ul>
+</li>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anāpattivāra</b></mark></h3>
+<ul>
+<li><b>addhamāsaṃ nahāyati:</b> bathing exactly after half a month</li>
+<li><b>atirekaddhamāsaṃ nahāyati:</b> bathing after more than half a month</li>
+<li><b>pāraṃ gacchanto nahāyati:</b> when crossing a river, whether there is water or not
+                            <ul>
+<li>if there is no water, digging a pit in sand to bathe is allowed</li>
+</ul>
+</li>
+<li><b>sabbapaccantimesu janapadesu:</b> in regions beyond the majjahima desa</li>
+<li><b>āpadāsu:</b> such as a hornet attack</li>
+</ul>
+</li>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>aṅga</b></mark></h3>
+<ul>
+<li><b>...orenaddhamāsaṁ...(ūnakaddhamāsanahānaṃ): </b>bathing more than once in less than half a month</li>
+<li><b>...aññatra samayā...(samayādīnaṃ abhāvo):</b> not being an allowed occasion</li>
+<li>(not in the rule) <b>majjhimadese:</b> being the middle region of the Jambudīpa  </li>
+<li><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>Pāḷi</b></mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"> </mark>
+<ul>
+<li><b>Yo pana bhikkhu orenaḍḍhamāsaṃ nahāyeyya, aññatra samayā, pācittiyaṃ. Tatthāyaṃ samayo. Diyaḍḍho māso seso gimhānan-ti, vassānassa paṭhamo māso, iccete aḍḍhateyyamāsā, uṇhasamayo, pariḷāhasamayo, gilānasamayo, kammasamayo, addhānagamanasamayo, vātavuṭṭhisamayo; ayaṃ tattha samayo</b>.
+
+                                    <ul>
+<li>If any bhikkhu should bathe within less than half a month, except at the  [right] occasion, [this is a case] involving expiation. Here the occasion is  this [thinking]: “One and a half month is what remains of the hot season,”  [and “This is] the first month of the rainy season”—these two and a half  months [are] the occasion of dry heat, [and] the occasion of humid heat—  [also:] the occasion of being sick; the occasion of work; the occasion of  going on a journey; the occasion of [dusty] wind and rain; this is the  occasion here.   </li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>other elements</b></mark></h3>
+<ul>
+<li><b>citta and saññā</b>
+<ul>
+<li>acittaka and nosaññāvimokkha</li>
+</ul>
+</li>
+<li><b>āpatti and saññā</b>
+<ul>
+<li>tika-pācittiya and duka-dukkaṭa</li>
+<li>ūnaka / atireka saññā (the perception that half-month has not / has elapsed from the previous  bath)</li>
+</ul>
+</li>
+<li><b>kusalattika and vedanāttika</b>
+<ul>
+<li>kusala, akusala or abyākata citta</li>
+<li>sukha, dukkha or upakkhā</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><h2 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>dubbaṇṇa</b></mark>sikkhāpadam #<mark remnotemark="true" style="background-color: transparent; color: green;"><b>edited</b></mark></h2>
+<ul>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>background</b></mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"> </mark></h3>
+<ul>
+<li>The Tathāgata was residing in Jetavana monastery near the city of Sāvatthi.  During this time, a lot of bhikkhus and wanderers took the long road leading to Sāvatthi from Sāketa. On the way, thieves stole their robes etc. The  royal soldiers of Sāvatthi caught the thieves and sent a message to the  bhikkhus to come and collect their respective robes. The bhikkhus could not  recognize their robes. The King’s soldiers criticized monks saying, “How  could you, Venerable Sirs, fail to recognize your own robes?”. When this was  informed to the Buddha, he declared the dubbaṇṇa training rule. [While  declaring this training rule, the Buddha did not blame any monk].</li>
+<li>rule in which the Buddha did not criticize the monks
+                            <ul>
+<li>dubbaṇṇa</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>description</b></mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"> </mark></h3>
+<ul>
+<li><b>purpose</b>→to differentiate the robe from that of another ascetics</li>
+<li><b>cīvara dubbaṇṇa karaṇa</b>→discolouring the robe by placing a kappa bindu on it</li>
+<li><b>kappa bindu</b>→"allowable dot" ‒ the mark placed on the robe to discolor it
+                            <ul>
+<li>allowable <b>colors / shape / size</b> for kappabindu
+                                    <ul>
+<li>colors
+                                            <ul>
+<li><b>nīla </b>‒ 2 types
+                                                    <ul>
+<li>kaṃsa nīla: blue (<mark remnotemark="true" style="background-color: transparent; color: purple;"><i>bronze?</i></mark>)  #<mark remnotemark="true" style="background-color: transparent; color: purple;"><b>q</b></mark>🙋🏼‍♂</li>
+<li>palāsa nīla: green</li>
+</ul>
+</li>
+<li><b>kaddama:</b> mud-colour (brownish)   </li>
+<li><b>kāḷasāma:</b> almost black</li>
+</ul>
+</li>
+<li>shape: circular dot <img height="30.138162833105447" src="https://remnote-user-data.s3.amazonaws.com/0BGKRkpZyDD9ywFnCoH2SbM69lCK4y5weMBebQkMeicXzEqcBfTLBFVaUJvFXnB5ZnEKHQ2NopsI-CfNF26_kePeLXRwZ3SnVgtw8lAls9E_xLg5Y7c9QdzXWsRUjdLz.png" width="39.52545945325304"/>
+<ul>
+<li><b>unallowable shapes</b> (pācittiyādi atthayojanā)
+                                                    <ul>
+<li><b>pāḷi kappa:</b> a line of dots (circles) (more than one) <img height="20.101914431876086" src="https://remnote-user-data.s3.amazonaws.com/s0bsHY4teo9H68cwZIHsD6MnN4yZ1vIOWP-_UF1c1xs4tCH_-iVhSGqvpjpLsjv0q7wfQO8P27dTqwO36HKmzw9d8vB4BgGCrAfFTZL7zFCW9xpzyj7O9M2fBIfBS-DZ.png" width="79.46956838735014"/></li>
+<li><b>kaṇṇika kappa: </b>cluster of dots like a pericarp (kaṇṇikā)  <img height="33.024376084780165" src="https://remnote-user-data.s3.amazonaws.com/f5PLoW9bExxtHX9aYUiEI0yPCDw6At_saCTvOoOZKRanPRwNaftT0YsvWjJP1kvSo5FQuo4f_pkvkGD5WBWaR0sD5aAmpMfOG6fzFT5N1GTX-Prn2P52M_AtHtuxp5wI.png" width="39.519853782614774"/></li>
+<li><b>agghiya kappa:</b> shape of a cetiya <img height="33.80091426524587" src="https://remnote-user-data.s3.amazonaws.com/p4H68AvBNQ3CIQjOOboc6VIB7CKXY08SK616dfVS5kduykqm2h5PShPqJCLCGvdG-mxbjMzYzuumk2wJqCPgP1DQqjpA9ok76onYjeWmZNAScyyV2TxBE4phtmD9KG0E.png" width="39.54486048025497"/></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>size
+                                            <ul>
+<li><b>morassa akkhi maṇḍalamattaṁ</b>: the size of a peacock's eyes (maximum)</li>
+<li><b>maṅkula piṭṭhi mattaṃ</b>: or the back of a louse (minimum)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>location
+                                    <ul>
+<li>can it be done on the borders (<b>patta</b>) or knot (<b>gaṇṭhi</b>)?
+                                            <ul>
+<li>mahāpaccariya: not suitable</li>
+<li>mahā-a: no issue</li>
+</ul>
+</li>
+<li>how <b>many</b> corners?
+                                            <ul>
+<li>4 corners #<mark remnotemark="true" style="background-color: transparent; color: purple;"><b>q</b></mark>🙋🏼‍♂</li>
+<li>if not 4 corners, in 3, 2 or even 1 corner is ok (<mark remnotemark="true" style="background-color: transparent; color: purple;"><i>is less than 4 ok even if one could do 4?</i></mark><i>)</i> </li>
+</ul>
+</li>
+</ul>
+</li>
+<li>process 
+                                    <ul>
+<li>how can it be marked?
+                                            <ul>
+<li><b>antamaso kusaggenapi ādātabbaṃ </b>(even with a tip of a blade of kusa grass)</li>
+<li>some use betel leaf; pressing it</li>
+</ul>
+</li>
+<li>is it necessary to <b>say</b> anything?
+                                            <ul>
+<li>no</li>
+</ul>
+</li>
+<li>should it be done before or after dyeing?
+                                            <ul>
+<li>after</li>
+</ul>
+</li>
+<li><b>who</b> should mark the robe
+                                            <ul>
+<li>either by the monk who owns the robe (the one who received it) or by anyone else (<b>aññena kenaci dinnampi </b>[marked]<b> katakappameva hoti</b>) </li>
+</ul>
+</li>
+<li>before or after upasampadā?
+                                            <ul>
+<li>better before</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><b>nava cīvara</b> here means
+                            <ul>
+<li><b>navaṃ nāma akatakappaṃ vuccati</b> ‒ without kappa bindu</li>
+<li>nivāsanūpaga or pārupanūpaga (even an aṃsabaddha kāsāva (shoulder strap))</li>
+<li><b>note: </b>
+<ul>
+<li>dyeing, wearing, etc. is irrelevant</li>
+<li>a new robe that was already kappa bindu is <b>not nava</b> </li>
+</ul>
+</li>
+</ul>
+</li>
+<li><b>paṭiladdhanavacīvara bhikkhu</b>
+<ul>
+<li>a monk who has received a new robe (comm.: anyone) </li>
+<li>ancient teachers: if a nava cīvara is temporarily obtained to be worn for just a few days, it would still fall under the category of nava cīvara as long as the kappa bindu had not been marked on it</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>āpatti</b></mark></h3>
+<ul>
+<li>wearing or covering the body with a nava cīvara: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc</b></mark> </li>
+</ul>
+</li>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anāpatti</b></mark></h3>
+<ul>
+<li><b>ādiyitvā paribhuñjati:</b> if it is marked</li>
+<li><b>kappo naṭṭho hoti:</b> if it was erased</li>
+<li><b>kappakatokāso jiṇṇo hoti:</b> the area where the kappabindu was marked has decayed</li>
+<li><b>kappakatena akappakataṃ saṃsibbitaṃ hoti:</b> when sewing an unmarked piece of cloth onto a marked one
+                            <ul>
+<li>vjrbd: some teachers: only if the determination is not lost; assumption: if it is lost (due to cutting the determined robe), a new bindu should be done (<mark remnotemark="true" style="background-color: transparent; color: purple;"><i>but if someone gives away a robe that was bindu, it is not needed to make a new bindu, even though the determination is lost when giving it away ‒ discuss</i></mark><i>)</i>
+<ul>
+<li>kappakatena saddhiṃ akappakataṃ sibbeti. Yāvatā adhiṭṭhānaṃ na vijahati, tāvatā pubbaṃ kappameva. Kappaṃ na vijahati ce, puna kappaṃ dātabbanti ācariyassa takko. (Vjb ṭ. 330.).</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><b>aggaḷe anuvāte paribhaṇḍe:</b> if the bindu robe receives an <b>aggaḷa</b>, <b>anuvāta</b> or <b>paribhaṇḍa </b>/ <b>parivāta</b>
+<ul>
+<li>kkvtrn:
+                                    <ul>
+<li><b>aggaḷa</b>→a piece of cloth removed from somewhere and attached to the robe</li>
+<li><b>(piṭṭhi) anuvāta</b>→the border of the long side as it remains on the back (piṭṭhi) after the robe is worn</li>
+<li><b>paribhaṇḍa / kucchi anuvāta</b>→the border of the shorter side as it remains on the stomach (kuccha) when the robe is worn
+                                            <ul>
+<li>aggaḷaanuvātaparibhaṇḍesūti uddharitvā alliyāpanakakhaṇḍapiṭṭhianuvātakucchianuvātesu.</li>
+<li>piṭṭhianuvātāropanamattenāti dīghato anuvātassa cīvarassūpari āropanamattena. dīghānuvātañhi pārupanakāle piṭṭhiyaṃ ṭhitattā piṭṭhianuvātanti vuccati. kucchianuvātāropanamattenāti puthulato anuvātassa cīvarassūpari āropanamattena. puthulānuvātañhi pārupanakāle kucchiyaṃ ṭhitattā kucchianuvātanti vuccati. āgantukapaṭṭāropanamattenāti āgantukapaṭṭassa cīvarassūpari āropanamattena. vāti athavā.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>aṅga</b></mark></h3>
+<ul>
+<li><b>...navaṁ cīvaraṁ...(vuttappakārassa cīvarassa akatakappatā)</b>: being a navacīvara</li>
+<li><b>...paribhuñjeyya...(nivāsanaṃ vā pārupanaṃ)</b>: wearing the robe or covering the body with it</li>
+<li>(not mentioned in the rule) <b>anaṭṭhacīvarāditā</b>: being a monk of whose robes are not lost, destroyed, stolen and so on (kaṇkhā bhāsa ṭīkā)</li>
+<li><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>Pāḷi</b></mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"> </mark>
+<ul>
+<li><b>Navaṃ pana bhikkhunā cīvaralābhena tiṇṇaṃ dubbaṇṇakaraṇānaṃ aññataraṃ dubbaṇṇakaraṇaṃ ādātabbaṃ - nīlaṃ vā kaddamaṃ vā  kāḷasāmaṃ vā. Anādā ce bhikkhu tiṇṇaṃ dubbaṇṇakaraṇānaṃ aññataraṃ dubbaṇṇakaraṇaṃ navaṃ cīvaraṃ paribhuñjeyya, pācittiyaṃ. </b> </li>
+</ul>
+</li>
+</ul>
+</li>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>other elements</b></mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"> </mark></h3>
+<ul>
+<li><b>citta and saññā</b>
+<ul>
+<li>acittaka and nosaññāvimokkha</li>
+</ul>
+</li>
+<li><b>āpatti and saññā</b>
+<ul>
+<li>tika-pācittiya and duka-dukkaṭa</li>
+<li>anādinna / ādinna saññā (perception that the kappa bindu is / is not marked)</li>
+</ul>
+</li>
+<li><b>kusalattika and vedanāttika</b>
+<ul>
+<li>kusala, akusala or abyākata</li>
+<li>sukha, dukkha or upekkhā</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><h2 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>vikappana</b></mark>sikkhāpadaṃ #<mark remnotemark="true" style="background-color: transparent; color: green;"><b>edited</b></mark></h2>
+<ul>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>background</b></mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"> </mark></h3>
+<ul>
+<li>The Tathāgata was residing in the Jetavana monastery near the city of Sāvatthi.  During this time, Venerable Upananda shared the ownership of a robe with a  student (saddhivihārika) of his brother monk and was using it without  subjecting it to paccuddharaṇa. That monk with whom Venerable Upananda  shared the ownership of his robe, informed this matter to the monks. Those  monks informed this matter to the Tathāgata which made him declare the  vikappana training rule.   </li>
+</ul>
+</li>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>description</b></mark></h3>
+<ul>
+<li><b>vikappanā</b> and<b> paccuddharaṇa</b>
+<ul>
+<div class="Portal">
+<ul>
+<li>IIT - Nissayamuttaka Course</li>
+</ul>
+</div> </ul>
+</li>
+</ul>
+</li>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>āpatti</b></mark></h3>
+<ul>
+<li>wearing the vikappanā robe without paccuddharaṇa: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc</b></mark> 
+removing the robe from the body and wearing it again: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc</b></mark> 
+giving it away: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>dkṭ</b></mark>
+determining it: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>dkṭ</b></mark> 
+doing so after paccuddharaṇa: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anāpatti</b></mark>
+<ul>
+<li>Appaccuddhāraṇaṃ nāma tassa vā adinnaṃ, tassa vā avissasanto paribhuñjati, āpatti pācittiyassa  </li>
+<li>Paribhuñjituṃ…pe… na vaṭṭatīti sayaṃ apaccuddhāraṇaparibhuñjane pācittiyaṃ,  adhiṭṭhahane paresaṃ vissajjane ca dukkaṭañca sandhāya vuttaṃ. (Vlṅk. I. 99.).   </li>
+</ul>
+</li>
+</ul>
+</li>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anāpatti</b></mark></h3>
+<ul>
+<li><b>so deti:</b> using the robe after the sahadhammika B has done paccuddharaṇa</li>
+<li><b>tassa vissasanto paribhuñjati: </b>using it out of trust in B</li>
+</ul>
+</li>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>aṅga</b></mark></h3>
+<ul>
+<li><b>...cīvaraṁ...(vikappanupagacīvaratā)</b>: the robe being adequate for vikappanā</li>
+<li><b>...apaccuddhārakaṁ...(sāmaṃ vikappitassa apaccuddhāro)</b>: the vikappita robe not having undergone paccuddharaṇa</li>
+<li><b>...paribhuñjeyya...(paribhogo)</b>: using the robe</li>
+<li><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>Pāḷi</b></mark>
+<ul>
+<li><b>Yo pana bhikkhu bhikkhussa vā bhikkhuniyā vā sikkhamānāya vā sāmaṇerassa  sāmaṇeriyā vā sāmaṃ cīvaraṃ vikappetvā apaccuddhārakaṃ paribhuñjeyya pācittiyaṃ.</b>
+<ul>
+<li>If any bhikkhu, having<b> </b>himself assigned a robe to a bhikkhu or a bhikkhunī  or a male novice or a female novice, should use [it] without withdrawing [the  assignment], [this is a case] involving expiation.   </li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>other elements</b></mark></h3>
+<ul>
+<li><b>citta and saññā</b>
+<ul>
+<li>acittaka and nosaññāvimokkha</li>
+</ul>
+</li>
+<li><b>āpatti and saññā</b>
+<ul>
+<li>tika-pācittiya duka-dukkaṭa</li>
+<li><b>apaccuddharaṇa / paccuddharaṇa saññā</b> (the perception that robe has / has not undergone paccuddharaṇa)</li>
+</ul>
+</li>
+<li><b>kusalattika and vedanāttika</b>
+<ul>
+<li>kusala  citta, akusala citta or abyākata citta</li>
+<li>sukha, dukkha or upakkhā</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><b>extra notes:</b></h3>
+<ul>
+<div class="Portal">
+<ul>
+<li>IIT - Nissayamuttaka Course</li>
+</ul>
+</div> <li><b>vinalaṅkara opinions</b>: 
+                            <ul>
+<li>vikappanā was given to allow the storage of robes without determination to avoid NP</li>
+<li>after paccuddharaṇa, it becomes again atireka and can be determined; if not, in 10 days, it becomes nissaggiya</li>
+<li>paccuddharaṇa doesn't have to be done immediately</li>
+</ul>
+</li>
+<li><b>vassikasāṭika</b> has to be vikappanā during the off season and stored (kamma done with its name); after paccuddharaṇa, it becomes vassikasāṭika</li>
+<li>the upajjhāyavatta shows that monks would wear extra robes</li>
+<li>modern practice: vikappita can be used without determining and falling into offense</li>
+<li>traditional practice: paccudharaṇa is done immediately after vikappanā and the robe remains as vikappita</li>
+<li>paccuddharaṇa immediately or not?
+                            <ul>
+<li>comm. says vikappitavikappana has to be done immediately</li>
+<li>the vassikasāṭika-related rules seem to show the paccuddharana is done after a longer period because it has to be done before using it on the next season; otherwise, vikappanā would have to be done again before the vassa season</li>
+</ul>
+</li>
+<li>it is not discussed whether the original owner is able to do the paccuddharaṇa, but seems possible</li>
+<li>things that can be vikappana
+                            <ul>
+<li>patta</li>
+<li>civara</li>
+<li>vassikasāṭika</li>
+</ul>
+</li>
+<li>does the limit of 10 pattas under the np also apply to robes?
+                            <ul>
+<li>the limit is given for pattas, but for robes it is not discussed; some teachers apply the same principle to robes; seems to be right (<mark remnotemark="true" style="background-color: transparent; color: purple;"><i>to be researched</i></mark>) #<mark remnotemark="true" style="background-color: transparent; color: purple;"><b>q</b></mark>🙋🏼‍♂</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><h2 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>cīvaraapanidhāna</b></mark>sikkhāpadaṃ #<mark remnotemark="true" style="background-color: transparent; color: green;"><b>edited</b></mark></h2>
+<ul>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>background</b></mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"> </mark></h3>
+<ul>
+<li>The Tathāgata was residing in the Jetavana monastery near the city of Sāvatthi.  Sattarasavaggiya monks had the habit of not storing away their requisites.  Chabbaggiya monks hid the bowls and robes of the Sattarasavaggiya monks.  When the Sattarasavaggiya bhikkhus said, “Friends, please give our bowls and  robes back”, the Chabbaggiya monks laughed. Then, the Sattarasavaggiya  monks cried. When the matter was informed, the Tathāgata declared the cīvara apanidhāna training rule.   </li>
+</ul>
+</li>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>description</b></mark></h3>
+<ul>
+<li><b>5 </b>related <b>parikkhāra</b>
+<ul>
+<li><b>patta:</b> clay / iron bowl</li>
+<li><b>cīvara:</b> vikappanūpaga robe</li>
+<li><b>nisīdana:</b> nisīdana / nisīdanasanthata
+                                    <ul>
+<li><b>Dasame yasmā nisīdanasanthataṃ cīvaranisīdanampīti ubhayampi sadasameva, tasmā taṃ  ubhayampi ekato katvā "nisīdanaṃ nāma sadasaṃ vuccatī"ti āha. Tatthāpi cīvaraggahaṇena  cīvaranisīdanaṃ gahitamevāti atthato santhatanisīdanameva vuttaṃ hoti. Yadi evaṃ  "nisīdanasanthataṃ  nāma  sadasaṃ  vuccatī"ti  vattabbanti?  Na,  itarassa  anisīdanaadasabhāvappasaṅgato. Ettha nisīdanasanthatassa pācittiyavatthuttā itarampi  pācittiyavatthumevāti veditabbaṃ tajjātikattā.</b> (Vjb-ṭ. 330.) </li>
+</ul>
+</li>
+<li><b>sūcighara: </b>needle case with or without needles</li>
+<li><b>kāyabandhana: </b>belt (paṭṭikā or sūkarantaka)</li>
+<li><b>other belongings</b>: dkṭ</li>
+</ul>
+</li>
+<li><b>3 intentions ‒ antamaso hasāpekkhopi</b>
+<ul>
+<li><b>hasāpekkhatā</b> – the intention of having fun, joking</li>
+<li><b>api</b>
+<ul>
+<li><b>atheyyacittaṃ </b>(without the intention of stealing)<b> kodhena </b>(out of anger)<b> dukkhāpetukāmatā</b> (the intention of causing suffering)</li>
+<li><b>avaṇṇaṃ pakāsetukāmatā</b> – the intention of revealing disrepute</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>āpatti</b></mark></h3>
+<ul>
+<li>hiding (/causing) the 5 related parikkhāras of an upa for fun: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc</b></mark>
+of an anupa: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>dkṭ</b></mark>
+ordering it to be hidden: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>dkṭ</b></mark>
+it is hidden as ordered: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc for the orderer</b></mark>
+hiding many parikkhāras with 1 order: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>1 pc</b></mark>
+hiding many parikkhāras: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>many pc</b></mark>
+doing so to trouble others: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc</b></mark>
+doing so to disrepute others: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>pc</b></mark>
+doing so with other parikkhāras: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>dkṭ</b></mark> 
+doing so with other parikkhāras of anupa: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>dkṭ</b></mark>
+hiding one needle case: <mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>1 pc (but vjrbd: porāṇā: as many pc as the no. of needles in it)</b></mark>
+<ul>
+<li>sassāmike sūcighare sūcigaṇanāya āpattiyoti porāṇā</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>anāpattivāra</b></mark></h3>
+<ul>
+<li><b>nahasādhippāyo:</b> not intending to joke (including not intending to cause suffering or of revealing disrepute)</li>
+<li><b>dunnikkhittaṃ paṭisāmeti:</b> setting messy items in order</li>
+<li><b>"dhammiṃ kathaṃ katvā dassāmīti paṭisāmeti:</b> intending to give them back after advising the owner to look after his things properly</li>
+<li><b>vocab:</b>
+<ul>
+<li>paṭisāmeti [pati + √sam + *e + ti]↔pr. (+acc) sets in order; clears away; tidies up </li>
+</ul>
+</li>
+</ul>
+</li>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>aṅga</b></mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"> </mark></h3>
+<ul>
+<li><b>...bhikkhussa pattaṃ vā cīvaraṃ vā nisīdanaṃ vā sūcigharaṃ  vā kāyabandhanaṃ vā apanidheyya vā apanidhāpeyya vā...(upasampannassa santakānaṃ pattādīnaṃ apanidhānaṃ):</b> hiding one of the five types of requisites that belongs to an upasampanna monk  </li>
+<li><b>...antamaso hassāpekkhopi...(vihesetukāmatā vā hasādhippāyatā):</b>
+<ul>
+<li>the intention of annoying another</li>
+<li>of having fun</li>
+<li>(also the intention of revealing other’s disrepute – avaṇṇaṃ pakāsetukāmatā)</li>
+</ul>
+</li>
+<li><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>Pāli</b></mark>
+<ul>
+<li><b>Yo pana bhikkhu bhikkhussa pattaṃ vā cīvaraṃ vā nisīdanaṃ vā sūcigharaṃ  vā kāyabandhanaṃ vā apanidheyya vā apanidhāpeyya vā, antamaso hasāpekkhopi, pācittiyaṃ.  </b>If any bhikkhu should hide a bhikkhu’s bowl or robe or sitting-cloth or needle  case or body-belt, or have [it] hidden, even if just desiring amusement, [this  is a case] involving expiation.   </li>
+<li><b>vocab:</b>
+<ul>
+<li>viheseti [vi + √his + *e + ti]↔pr. (+acc) harasses; annoys; pesters; troubles  #[[<mark remnotemark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (3rd year)]] </li>
+<li>apanidheti [apa + ni + √dhā + *e + ti]↔pr. (+acc) hides; conceals </li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: transparent; color: yellow;"><b>other elements</b></mark><mark remnotemark="true" style="background-color: transparent; color: yellow;"> </mark></h3>
+<ul>
+<li><b>citta and saññā</b>
+<ul>
+<li><b>sacittaka</b> and <b>saññāvimokkha</b></li>
+</ul>
+</li>
+<li><b>āpatti and saññā</b>
+<ul>
+<li>this is a <b>tika</b>-pācittiya and <b>tika</b>-dukkaṭa offence</li>
+<li><b>upa </b>/ <b>anupa saññā</b> (the perception of thinking that the one who owns the parikkhāra is not an upasampanna)</li>
+</ul>
+</li>
+<li><b>kusalattika and vedanāttika</b>
+<ul>
+<li>akusalacittas</li>
+<li>sukha, dukkha or upekkhā  </li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+	{% include toc.html %}
+</body>
+</html>

@@ -1,14 +1,20 @@
-# Comprehensive Guide to Kasiṇa Meditation
-## Purpose of this Practice
-## Ethical and Philosophical Prerequisites
-To achieve success in this practice, specific foundational requirements must be met to prevent unwholesome states and allow the mind to develop subtler, wholesome qualities:
-* **The Five Precepts:** The practitioner must follow at least the five precepts. Refraining from unwholesome actions is essential because those actions prevent the mind from developing more stable and subtler mental states [cite: 1].
-* **Kammassakatañāṇa (Understanding of Kamma):** The practitioner must believe that actions produce results in the future according to their inherent nature [cite: 2, 3]. This understanding forms the right view necessary to support deep meditation.
+# Guide to Kasiṇa Meditation
+
+I'm writing this guide with the intention of including all important essential information in relatively simple terms so that a beginner is able to understand it and begin this wholesome development. 
+- recommend teacher as guide
+
+## Purpose
+## Prerequisites for Success
+
+To achieve meaningful progress and success in this and any meditation practice, specific foundational requirements must be met to prevent gross obstructive mental states and allow the mind to develop subtler, wholesome qualities:
+* **The Five Precepts:** The practitioner must follow at least the five precepts (abstaining from: killing, stealing, sexual misconduct, lying, and consuming intoxicants). This is essential because those actions prevent the mind from developing more stable and subtler mental states.
+* **Kammassakatañāṇa (Understanding the Ownership of Deeds):** The practitioner must possess the correct understanding that their intentional actions produce results in the future according to their inherent nature (unwholesome deeds produce negative, while wholesome positive results). This understanding forms the basic right view necessary to support deep meditation and without it, the mind is incapable of achieving meaningful progress in meditation. Mere confidence in this principle, without deep understanding, is enough at this point.
 
 ---
 
-## Setup of the External Object (Parikamma)
-The physical setup of the external disk, known as the *parikamma*, serves as the initial basis for concentration [cite: 98]:
+## The Object
+
+The physical setup of the external disk, known as the *parikamma nimitta*, serves as the initial basis for this development.
 * **Dimensions and Material:** The disk should ideally be white and about 30 cm in diameter (roughly equivalent to one span and four fingers) [cite: 7, 9]. It can be made digitally on a sufficiently large screen or TV (which is advantageous as it is free from physical imperfections), or physically using paper, cloth, or any other clean white material [cite: 8, 9].
 * **Sizing Adjustments:** While a 30 cm disk is standard, making it larger tends to be better [cite: 11]. If the disk is smaller, it can still be used as an object but must be positioned closer to the meditator [cite: 12, 14].
 * **Environment and Distance:** Place the disk in your regular meditation area against a neutral background that is completely free from visual distractions [cite: 10]. For a standard 30 cm disk, sit at a distance of approximately 1.0 to 1.25 meters [cite: 7, 13].

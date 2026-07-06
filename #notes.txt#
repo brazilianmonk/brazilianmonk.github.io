@@ -8,8 +8,8 @@ important files:
 - adding short horizontal line: 
 
 useful strings:
-- removes the remnote clozes: {{numbers:: text}} for text
-  - CMS%: regex: {{[0-9]+::\([^}]+\)}} substitute for: \1
+removes the remnote clozes: {{numbers:: text}} for tex
+- CMS%: regex: {{[0-9]+::\([^}]+\)}} substitute for: \1
 
 
 to do list for the website:

@@ -47,15 +47,27 @@ Here, you'll find my Dhamma notes and summaries. These are primarily derived, fo
 
 ### Vinaya
 #### Vibhaṅga
+- **Pārājika**:
+  - [Introduction and Methunadhammasikkhāpadaṁ](/summaries/vinaya/vibhanga/parajika/methunadhamma)
+  - [Adinnādānasikkhāpadaṁ](/summaries/vinaya/vibhanga/parajika/adinnadana)
+  - [Manussaviggahasikkhāpadaṁ](/summaries/vinaya/vibhanga/parajika/manussaviggaha)
+  - [Uttarimanussadhammasikkhāpadaṁ](/summaries/vinaya/vibhanga/parajika/uttarimanussadhamma)
+  
 - **Pācittiya**:
   - [Musāvādavagga](/summaries/vinaya/vibhanga/pacittiya/musavadavagga)
   - [Bhūtagāmavagga](/summaries/vinaya/vibhanga/pacittiya/bhutagamavagga)
   - [Bhikkhunovādavagga](/summaries/vinaya/vibhanga/pacittiya/bhikkhunovadavagga)
   - [Bhojanavagga](/summaries/vinaya/vibhanga/pacittiya/bhojanavagga)
-
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
-
----
+  - [Acelakavagga](/summaries/vinaya/vibhanga/pacittiya/acelakavagga)
+  - [Surāpānavagga](/summaries/vinaya/vibhanga/pacittiya/surapanavagga)
+  - [Sappāṇakavagga](/summaries/vinaya/vibhanga/pacittiya/sappanakavagga)
+  - [Sahadhammikavagga](/summaries/vinaya/vibhanga/pacittiya/sahadhammikavagga)
+  - [Ratanavagga](/summaries/vinaya/vibhanga/pacittiya/ratanavagga)
+- [**Pāṭidesanīya**](/summaries/vinaya/vibhanga/pacittiya/patidesaniya)
+  
+#### Khandhaka
+- [**Pabbajjā**](/summaries/vinaya/khandhaka/pabbajja)
+- [**Upasampadā**](/summaries/vinaya/khandhaka/upasampada)
 ## 💬 English Language
 
 ![image](/assets/img/eng-teaching.png)
