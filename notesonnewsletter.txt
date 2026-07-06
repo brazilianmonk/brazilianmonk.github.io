@@ -1,0 +1,35 @@
+Adding a newsletter to a Jekyll site hosted on GitHub Pages is incredibly straightforward. Since your site is static, you don't process data on a server; instead, you just embed a simple HTML form provided by your newsletter service that captures emails and sends them to your provider.
+Here are the best pathways to start for free, their limitations, and how to scale them later when your audience grows.
+## 1. The Best Free Pathways for Static Sites
+### Option A: Kit (Formerly ConvertKit) — *Best for Scaling List Size*
+Kit is highly recommended if you expect to grow your subscriber count quickly without paying immediately.
+ * **The Free Plan:** Allows up to **10,000 subscribers** with unlimited email sends.
+ * **Limitations:** The free tier heavily restricts automated drip campaigns (like automated welcome sequences or multi-day courses). It is mostly meant for sending live broadcasts.
+ * **Jekyll Integration:** They provide easy embed scripts or HTML forms to paste directly into your layouts.
+### Option B: Sender or EmailOctopus — *Best for Free Automations*
+If you want to send an automatic welcome email right after someone joins, these platforms give you advanced features for free.
+ * **The Free Plan:** **Sender** gives you up to 2,500 subscribers and 15,000 emails/month. **EmailOctopus** offers up to 2,500 subscribers and 10,000 emails/month.
+ * **Limitations:** Unlike Kit, you hit a much lower subscriber ceiling before you have to start paying.
+ * **Jekyll Integration:** Both offer straightforward HTML form generation to drop into your site.
+### Option C: Buttondown — *Best for Minimalist & Markdown Lovers*
+Buttondown is a lightweight, privacy-first newsletter tool built by a solo developer. If you write your Jekyll blog posts in Markdown, you will love Buttondown because it lets you write emails in Markdown, too.
+ * **The Free Plan:** Free for up to **100 subscribers**.
+ * **Limitations:** The free cap is very small. Advanced features like automation, custom domains, or tracking analytics require paid add-ons.
+## 2. General Limitations of "Free" Tiers
+When running a newsletter on a free plan, you will almost always face three bottlenecks:
+ 1. **Branding:** Free plans usually force a "Powered by [Provider]" badge at the bottom of every email.
+ 2. **No Custom Email Domain:** You can usually send emails from your personal account, but to send from an official domain (e.g., newsletter@yourdomain.org), you often have to authenticate your DNS settings, which some free tiers gate or limit.
+ 3. **Basic Automation:** Welcome series, branching sequences, and automated RSS-to-email updates are usually locked behind paid walls (except on platforms like Sender).
+## 3. How to Scale It Up Later
+As your supporters grow and the cost begins to rise, you have two primary scaling strategies:
+### Pathway 1: The "Stay on the Platform" Upgrade
+Once you exceed your free cap (e.g., crossing 2,500 on Sender or 10,000 on Kit), you simply put a card on file.
+ * **Pros:** Seamless transition. Your data stays in one place, your forms don't break, and you unlock full automation features.
+ * **Cons:** Can become expensive if your list hits tens of thousands of subscribers.
+### Pathway 2: The Technical, High-Scale Route (Amazon SES)
+If you reach thousands of subscribers and want to minimize the financial burden on your supporters, you can transition to a **self-hosted or hybrid setup**:
+ * **How it works:** You use a platform like **BigMailer** or a self-hosted software like **Ghost** / **Sendy**, and connect it to **Amazon SES (Simple Email Service)**.
+ * **The Cost:** Amazon SES charges roughly **$0.10 per 1,000 emails** sent. It is drastically cheaper than commercial platforms at high volumes.
+ * **Pros:** Keeps ongoing operational costs close to zero.
+ * **Cons:** Requires technical setup, managing your own subscriber lists, and ensuring your domain's email deliverability settings (SPF, DKIM) are perfectly configured so you don't land in spam folders.
+**Recommendation to start:** Pick **Kit** if you want the highest subscriber ceiling without paying a cent, or **Sender** if you absolutely need an automated welcome email sequence right from day one. Both will let you export your subscriber list as a .csv file at any time if you decide to switch infrastructure later.
