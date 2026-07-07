@@ -4,6 +4,9 @@ title: Resources
 permalink: /resources
 ---
 
+## 🏠 [Vinaya Monastery List](/monasteries)
+
+A list of Theravāda monasteries that follow the rules of conduct and the Tipiṭaka.
 
 ## 📚 Online Course
 
