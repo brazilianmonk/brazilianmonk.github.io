@@ -1,16 +1,20 @@
 Adding a newsletter to a Jekyll site hosted on GitHub Pages is incredibly straightforward. Since your site is static, you don't process data on a server; instead, you just embed a simple HTML form provided by your newsletter service that captures emails and sends them to your provider.
 Here are the best pathways to start for free, their limitations, and how to scale them later when your audience grows.
+
 ## 1. The Best Free Pathways for Static Sites
+
 ### Option A: Kit (Formerly ConvertKit) — *Best for Scaling List Size*
 Kit is highly recommended if you expect to grow your subscriber count quickly without paying immediately.
  * **The Free Plan:** Allows up to **10,000 subscribers** with unlimited email sends.
  * **Limitations:** The free tier heavily restricts automated drip campaigns (like automated welcome sequences or multi-day courses). It is mostly meant for sending live broadcasts.
  * **Jekyll Integration:** They provide easy embed scripts or HTML forms to paste directly into your layouts.
+
 ### Option B: Sender or EmailOctopus — *Best for Free Automations*
 If you want to send an automatic welcome email right after someone joins, these platforms give you advanced features for free.
  * **The Free Plan:** **Sender** gives you up to 2,500 subscribers and 15,000 emails/month. **EmailOctopus** offers up to 2,500 subscribers and 10,000 emails/month.
  * **Limitations:** Unlike Kit, you hit a much lower subscriber ceiling before you have to start paying.
  * **Jekyll Integration:** Both offer straightforward HTML form generation to drop into your site.
+
 ### Option C: Buttondown — *Best for Minimalist & Markdown Lovers*
 Buttondown is a lightweight, privacy-first newsletter tool built by a solo developer. If you write your Jekyll blog posts in Markdown, you will love Buttondown because it lets you write emails in Markdown, too.
  * **The Free Plan:** Free for up to **100 subscribers**.
