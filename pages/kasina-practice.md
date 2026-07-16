@@ -1,9 +1,20 @@
-# Guide to Kasiṇa Meditation
+---
+layout: page
+title: Guide to Kasiṇa Meditation
+permalink: /kasina
+---
+
+ <--!
+(still under 🚧 construction)
 
 I'm writing this guide with the intention of including all important essential information in relatively simple terms so that a beginner is able to understand it and begin this wholesome development. 
 - recommend teacher as guide
 
 ## Purpose
+
+add text 
+-->
+
 ## Prerequisites for Success
 
 To achieve meaningful progress and success in this and any meditation practice, specific foundational requirements must be met to prevent gross obstructive mental states and allow the mind to develop subtler, wholesome qualities:
