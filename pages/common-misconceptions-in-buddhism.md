@@ -1,0 +1,3 @@
+- idameva saccam moghamaññaṁ wrongly taken as an general attitude and applied to everything
+- paṭiccasamuppāda applied to generations, not an individual
+- 

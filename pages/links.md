@@ -3,6 +3,9 @@ layout: page
 title: Links
 permalink: /links
 ---
+<!-- buddhamandala monastery cambodia follows pa auk method 
+www.karunapura.com/sutta: has translations of suttanta in spanish
+-->
 
 Here are some links to reliable resources for Theravāda Buddhism that I'm familiar with:
  
