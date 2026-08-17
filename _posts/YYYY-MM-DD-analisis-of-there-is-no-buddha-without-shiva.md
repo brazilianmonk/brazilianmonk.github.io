@@ -1,5 +1,10 @@
 Análise do texto: "Não Há Buddha Sem Shiva"
 
+O texto "Nao ha Buddha sem Shiva" expressa algumas das ideias promovidas no Hinduismo para incluir o Buddhismo como parte do Hinduismo. Aqui sao algumas dessa ideas e uma analise breve desde a perspectiva Buddhista. 
+
+**Sobre a definicao de Shiva:**
+
+*"Add passages from the text"*
 
 Gostaria de esclarecer primeiro: o que é Shiva? Não vejo uma definição clara. Um *deva*? Um *brahmā*? Um ser humano que se tornou asceta? Um arquétipo? Uma força? Pelo que entendo, ele era um asceta que desenvolveu *samādhi* e poderes psíquicos e, como resultado, renasceu como um *Brahmā*. É isso que se ensina?
 
