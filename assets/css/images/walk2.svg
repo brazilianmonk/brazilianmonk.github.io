@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 120" width="100" height="120">
+  <defs>
+    <radialGradient id="skin2" cx="35%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#ffd9ae"/>
+      <stop offset="100%" stop-color="#e8ab74"/>
+    </radialGradient>
+    <linearGradient id="robe2" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#f2a341"/>
+      <stop offset="55%" stop-color="#e2811f"/>
+      <stop offset="100%" stop-color="#b8620f"/>
+    </linearGradient>
+    <linearGradient id="sash2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffe1a8"/>
+      <stop offset="100%" stop-color="#f2b24a"/>
+    </linearGradient>
+    <radialGradient id="shadow2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <ellipse cx="50" cy="112" rx="16" ry="4" fill="url(#shadow2)"/>
+
+  <g transform="rotate(-6 66 53)">
+    <rect x="59" y="53" width="13" height="29" rx="6.5" fill="url(#robe2)"/>
+    <circle cx="65.5" cy="84" r="7" fill="url(#skin2)"/>
+  </g>
+
+  <g transform="rotate(6 50 78) translate(0 -3)">
+    <rect x="43.5" y="78" width="13" height="27" rx="6.5" fill="#f0c48a"/>
+    <ellipse cx="50" cy="106" rx="9" ry="5" fill="#7a4a20"/>
+  </g>
+
+  <path d="M31 46 C27 60 25 76 29 94 C35 100 65 100 71 94 C75 76 73 60 69 46 C61 38 39 38 31 46 Z" fill="url(#robe2)"/>
+  <path d="M50 44 L38 98" stroke="#c06e15" stroke-width="1.5" opacity="0.5" fill="none"/>
+  <path d="M50 44 L62 98" stroke="#c06e15" stroke-width="1.5" opacity="0.5" fill="none"/>
+  <path d="M31 58 L69 64" stroke="url(#sash2)" stroke-width="9" stroke-linecap="round"/>
+
+  <g transform="rotate(-4 50 78)">
+    <rect x="43.5" y="78" width="13" height="29" rx="6.5" fill="#ffd9ae"/>
+    <ellipse cx="50" cy="108" rx="9.5" ry="5" fill="#8a5525"/>
+  </g>
+
+  <rect x="45" y="32" width="10" height="8" fill="url(#skin2)"/>
+  <circle cx="50" cy="22" r="19" fill="url(#skin2)"/>
+  <path d="M31 20 C31 6 69 6 69 20 C69 13 31 13 31 20 Z" fill="#3a2c1e" opacity="0.9"/>
+  <circle cx="43" cy="22" r="2.3" fill="#2b2118"/>
+  <circle cx="57" cy="22" r="2.3" fill="#2b2118"/>
+  <path d="M44 30 Q50 34 56 30" stroke="#8a5525" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+  <circle cx="35" cy="28" r="3" fill="#ff9d7a" opacity="0.45"/>
+  <circle cx="65" cy="28" r="3" fill="#ff9d7a" opacity="0.45"/>
+
+  <g transform="rotate(8 34 53)">
+    <rect x="28" y="53" width="13" height="29" rx="6.5" fill="url(#robe2)"/>
+    <circle cx="34.5" cy="84" r="7" fill="url(#skin2)"/>
+  </g>
+</svg>

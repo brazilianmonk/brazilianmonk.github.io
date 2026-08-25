@@ -5,8 +5,10 @@ author: Brazil Ariyañāṇa Bhikkhu
 categories: Abhidhamma
 tags: [Consciousness (citta), Mental Factors (cetasikas), Object (ārammaṇa)]
 image: citta-simile.png
-show_monk: true
 ---
+
+<link rel="stylesheet" href="monk-scroller.css">
+<script src="monk-scroller.js"></script>
 
 ## 🇬🇧 English
 ### Consciousness
