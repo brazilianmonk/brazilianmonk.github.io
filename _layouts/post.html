@@ -53,6 +53,10 @@ layout: default
   {% endif %}
 </div>
 
-{% if page.show_monk %}
-  {% include scrolling-monk.html %}
-{% endif %}
+ <script>
+  window.MonkScrollerConfig = {
+    imageBase: '{{ site.baseurl }}/assets/img/walking-monk/'
+  };
+</script>
+
+<script src="{{ '/js/monk-scroller.js' | relative_url }}"></script>
