@@ -10,27 +10,27 @@ Here are some links to reliable resources for Theravāda Buddhism that I'm famil
 ### [**E-piṭaka**](https://epitaka.org/) (website, app)
 <img src="/assets/img/e-pitaka.png" alt="description" style="width: 70%;">
 
-- Languages: Pāḷi, Vietnamese, English, others
+- Languages: Pāḷi, Vietnamese, English, Tamil, and others
 
-This is a new website with the entire Tipiṭaka, commentaries, and sub-commentaries translated by AI. The entre system was put together by Ven. Vietnam Dhammañāṇa. It uses the Myanmar Nissaya texts (detailed translations in Myanmar language), among other detailed explanations as reference. It is **not** 100% reliable but quite good, especially the root texts (mūla) and first-level commentaries (aṭṭhakathā). It is great for someone who is learning Pāḷi or for research. It has some unique features of linking words to other passages and showing the links to the terms explained in further commentaries. It also offers TTS and AI searches withint the Tipiṭaka content.
+This is a new project with the entire Tipiṭaka, commentaries, and sub-commentaries translated by AI. The entre system was put together by Ven. Vietnam Dhammañāṇa. It uses several resources as reference, including the Myanmar Nissaya texts (detailed translations). It is **not** 100% reliable but quite good, especially the root texts (mūla) and first-level commentaries (aṭṭhakathā). It is great for someone who is learning Pāḷi or for research as it includes commentarial definitions of words, AI search limited to the Tipiṭaka, and more. It also has some unique features of linking key words to their commentarial passages, as well as TTS. It also offers a system to make your own translations of the Tipiṭaka in your target language. 
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
 ### [**Open Tipiṭaka**](https://opentipitaka.org/?lang=es) (website, app)
 <img src="/assets/img/opentipitaka.png" alt="description" style="width: 50%;">
 
-- Languages: multiple
+- Languages: multiple, including Spanish
 
-This is a translation project led by [Ven. PRC Sumana](https://www.facebook.com/uppala.putta) that includes the content of the Tipiṭaka in several languages translated by AI. Though **not** very reliable, well structured AI translations can be useful for research and learning Pāḷi.
+This is a translation project led by [Ven. PRC Sumana](https://www.facebook.com/uppala.putta) and the Pa Auk Society that includes the content of the Tipiṭaka in several languages translated by AI. Though **not** very reliable, well structured AI translations like this can be very useful for research and learning Pāḷi. It has several functions such as multiple-language TTS. 
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
 ### [**Tipiṭaka Pāḷi Reader**](https://americanmonk.org/tipitaka-pali-reader/) (app)
 <img src="/assets/img/tpr.png" alt="description" style="width: 50%;">
 
-- Languages: Pāḷi, English, multiple scripts
+- Languages: Pāḷi and English; multiple scripts
 
-This is an app made by Bhante USA Subhūtitthera. It contains most Pāḷi texts, English translations, dictionaries, and the content of the e-piṭaka (above) as well with a modern UI.
+This is an app made by Bhante USA Subhūti Thera. It contains most Pāḷi texts, English translations, dictionaries, and the content of the e-piṭaka (above) as well with a modern UI.
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
@@ -46,7 +46,7 @@ Study tool designed by Bhante Yuttadhammo for reading, searching within, and ana
 ### [**Ancient Buddhist Texts**](https://ancient-buddhist-texts.net/index.htm) (website)
 <img src="/assets/img/abt.png" alt="description" style="width: 50%;">
 
-An extensive repository of Buddhist literature. Curated and maintained by Bhante Ānandajoti.
+An extensive repository of Buddhist literature. Curated and maintained by Bhante Malaysia Ānandajoti.
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
@@ -82,6 +82,10 @@ Centro de meditação e estudo Theravāda em São Paulo, Brasil.
 ### [**Karuṇapura**](www.karunapura.com/sutta) (website)
 This website offers translations of suttas in Spanish.
 
+### [**Asociación Hispana de Buddhismo**](https://buddhismohispano.org/)
+
+Asociación basada en España dedicada a la difusión del Buddhismo, sobretodo Theravāda, por el mundo Hispano liderada por Ricardo Guerrero Diañéz y enfocada sobre todo en traducciones. 
+
 ## 🏛️ Theravāda Monasteries
 
 📊 **[View complete Theravāda Monastery Directory](/monasteries)** -- filter by country, language, and area of focus.
@@ -113,9 +117,8 @@ This important Dhamma center in Sri Lanka is mainly for meditation with some opt
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
-
 ### [**Wat Khao Sanam Chai**](https://web.facebook.com/watkhaosanamchai)
-
+<img src="/assets/img/wat-khao-sanam-chai.png" alt="" style="width: 100%;">
 Monastery in Thailand focused on the study of Abhidhamma, Pāḷi, Vinaya, and meditation on a separate area. It is led by Bhante Thai Chandako Mahāthero and offers Dhamma talks daily and on Uposatha days.
 
 
