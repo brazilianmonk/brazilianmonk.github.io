@@ -82,6 +82,16 @@ I've been teaching English to monks for a few years now. Some people think monks
 
 Here I'm collecting useful links or resources on this topic: 
 
+### [**MonkType**](https://brazilianmonk.github.io/monktype/)
+<img src="/assets/img/monktype.png" alt="description" style="width: 50%; border-radius: 8px;">
+<img src="/assets/img/monktype2.png" alt="description" style="width: 50%; border-radius: 8px;">
+
+Website where you can practice typing, spelling, listening, and also learn the meaning of words in any language. Watch the video to know how to use it.
+
+[**Watch Video**](https://youtu.be/knTcEjCX5SQ)
+
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+
 ### [**Test-English.com**](https://test-english.com/)
 
 ![image](/assets/img/test-english.png)

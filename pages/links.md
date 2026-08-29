@@ -67,24 +67,31 @@ Esse site liderado por [Michael Beisert](https://www.acessoaoinsight.net/arquivo
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
 ### [**Sociedade Buddhista do Brasil**](https://sociedadebudistadobrasil.org/)
-
+<img src="/assets/img/sbb.png" alt="description" style="width: 50%;">
 Grupo de praticantes Theravāda no RJ. 
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
+### [**Mosteiro Suddhvāri**](https://suddhavari.org/)
+
+Único monastério Theravāda do Brasil. Liderado pelo Bhante Brasil Mudito Thero, ordenado na Thailandia,  em conexão com a Sociedade Buddhista do Brasil.
+
 ### [**Casa De Dharma**](https://casadedharmaorg.org/) (website, center)
 <img src="/assets/img/casadedharma.png" alt="description" style="width: 50%;">
-
-- Language: Português
 
 Centro de meditação e estudo Theravāda em São Paulo, Brasil.
 
 ### [**Karuṇapura**](www.karunapura.com/sutta) (website)
-This website offers translations of suttas in Spanish.
+
+Esta pagina ofrece traducciones de suttas al Español.
 
 ### [**Asociación Hispana de Buddhismo**](https://buddhismohispano.org/)
 
 Asociación basada en España dedicada a la difusión del Buddhismo, sobretodo Theravāda, por el mundo Hispano liderada por Ricardo Guerrero Diañéz y enfocada sobre todo en traducciones. 
+
+### [**Foro Buddhista Theravāda Latino**](https://theravada.lat/)
+
+Un forum online de comunidades sin fines comerciales ni lucrativos y monásticos latinos del Buddhismo Theravāda que ofrece un calendario común y actividades en Español, Portugués y, a veces, en Inglés.
 
 ## 🏛️ Theravāda Monasteries
 
