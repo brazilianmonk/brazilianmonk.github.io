@@ -4,11 +4,37 @@ title: Support
 permalink: /support
 ---
 
+
+
 # 🌐 Monastic Support Fund / 🇪🇸 Fondo de Apoyo Monástico / 🇧🇷 Fundo de Apoio Monástico
+## Wise
+### From within SEPA (Single Euro Payment Area)
 
----
+https://wise.com/pay/me/giselev7
 
-## 🇬🇧 English
+Currency: EUR
+
+### From outside SEPA
+
+Nombre: Gisele Domit Cervo
+
+IBAN: BE71 9059 5484 5169
+
+Swift/BIC: TRWIBEB1XXX
+
+Dirección: Wise, Rue du Trône 100, 3rd floor, Brussels, 1050, Belgium
+
+## International Institute of Theravāda: Ariyañāṇa Thera (Personal Account)
+
+https://www.theravado.com/howtosupport
+
+Specify the purpose and recipient
+
+
+
+
+<!-- 
+🇬🇧 English
 
 Hello, and welcome. My name is [Kappiya's Name], and I serve as the *kappiya* (lay attendant) for Venerable X to support his monastic life and Dhamma work. 
 
@@ -46,9 +72,14 @@ If you prefer to offer physical requisites directly (like books, allowable medic
 To maintain complete accountability, every single donation and expense is recorded in a public ledger. You can view the real-time, anonymized bookkeeping sheet here:
 👉 **[Link to Google Sheets Transparency Ledger]**
 
-***
 
-## 🇪🇸 Español
+
+
+
+
+
+
+🇪🇸 Español
 
 Hola y bienvenidos. Mi nombre es [Kappiya's Name] y actúo como *kappiya* (asistente laica) del Venerable X para apoyar su vida monástica y su labor en el Dhamma.
 
@@ -138,3 +169,4 @@ Para manter total prestação de contas, cada doação e gasto é registrado em 
 
 ---
 {% include toc.html %}
+	
