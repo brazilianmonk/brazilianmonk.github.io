@@ -86,7 +86,7 @@ Here I'm collecting useful links or resources on this topic:
 <img src="/assets/img/monktype.png" alt="description" style="width: 50%; border-radius: 8px;">
 <img src="/assets/img/monktype2.png" alt="description" style="width: 50%; border-radius: 8px;">
 
-Website where you can practice typing, spelling, listening, and also learn the meaning of words in any language. Watch the video to know how to use it.
+Website where you can practice typing, spelling, listening, and also learn the meaning of words in any language. You can make your own lists and translate them into any language. Watch the video to know how to use it (not difficult).
 
 [**Watch Video**](https://youtu.be/knTcEjCX5SQ)
 
@@ -104,7 +104,7 @@ After a good amount of research, this is the grammar source I settled for. There
 
 <img src="/assets/img/busuu.jpg" alt="description" style="width: 30%; border-radius: 8px;">
 
-This is a website / app that can help you learn the basics and get exposed to the language in general. As a sole tool, it is not enough, so I recommend it as a supplement for brainsoaking.
+This is a website / app that can help you learn the basics and get exposed to the language in general. As a sole tool for learning a language, it is not enough, so I recommend it as a supplement for brainsoaking.
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
@@ -139,6 +139,7 @@ This is a website / app that can help you learn the basics and get exposed to th
 
 <!-- IIT English Class Grades
 3y 1s: https://rb.gy/yvxb04
+
 -->
 
 {% include toc.html %}

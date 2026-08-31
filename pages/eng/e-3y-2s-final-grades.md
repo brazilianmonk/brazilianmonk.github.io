@@ -1,0 +1,2785 @@
+---
+layout: page
+permalink: /summaries/eng/3y-2s-final-grades
+---
+
+# Year 3 Semester 2 -- Final Grades -- IIT English Language Course
+# Participation: Attendance and Attitude
+
+<table id="orgd29e7d1" border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+
+<col  class="org-center" />
+
+<col  class="org-center" />
+
+<col  class="org-center" />
+
+<col  class="org-center" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+
+<col  class="org-center" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left"><b>Venerable</b></th>
+<th scope="col" class="org-center"><b>TC</b></th>
+<th scope="col" class="org-center"><b>Pr</b></th>
+<th scope="col" class="org-center"><b>LL</b></th>
+<th scope="col" class="org-center"><b>L</b></th>
+<th scope="col" class="org-center"><b>VL</b></th>
+<th scope="col" class="org-center"><b>S/D</b></th>
+<th scope="col" class="org-center"><b>Atd</b></th>
+<th scope="col" class="org-center">&#xa0;</th>
+<th scope="col" class="org-center"><b>Att</b></th>
+<th scope="col" class="org-center"><b>Total</b></th>
+</tr>
+
+<tr>
+<th scope="col" class="org-left">(Join date &amp; Frequency)</th>
+<th scope="col" class="org-center">&#xa0;</th>
+<th scope="col" class="org-center">&#xa0;</th>
+<th scope="col" class="org-center">&#xa0;</th>
+<th scope="col" class="org-center">-0.25</th>
+<th scope="col" class="org-center">-0.5</th>
+<th scope="col" class="org-center">+1</th>
+<th scope="col" class="org-center">Total</th>
+<th scope="col" class="org-center">%/100</th>
+<th scope="col" class="org-center">%/100</th>
+<th scope="col" class="org-center">%/100</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left"><b>Dhammañāṇa</b> (TU)</td>
+<td class="org-center">14</td>
+<td class="org-center">7</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">-0.75</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">6.25</td>
+<td class="org-center">44.6</td>
+<td class="org-center">100</td>
+<td class="org-center">44.6</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Santavīriya</b> (TU)</td>
+<td class="org-center">14</td>
+<td class="org-center">6</td>
+<td class="org-center">1</td>
+<td class="org-center">-0.25</td>
+<td class="org-center">-0.5</td>
+<td class="org-center">1</td>
+<td class="org-center">6.25</td>
+<td class="org-center">44.6</td>
+<td class="org-center">100</td>
+<td class="org-center">44.6</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Sumitto</b> (MO &amp; TU)</td>
+<td class="org-center">27</td>
+<td class="org-center">14</td>
+<td class="org-center">2</td>
+<td class="org-center">-0.25</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">1</td>
+<td class="org-center">14.75</td>
+<td class="org-center">54.6</td>
+<td class="org-center">100</td>
+<td class="org-center">54.6</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left"><b>Dhammacārī</b></td>
+<td class="org-center">39</td>
+<td class="org-center">39</td>
+<td class="org-center">1</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">39</td>
+<td class="org-center">100.0</td>
+<td class="org-center">100</td>
+<td class="org-center">100.0</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Dhīrāloka</b></td>
+<td class="org-center">39</td>
+<td class="org-center">26</td>
+<td class="org-center">7</td>
+<td class="org-center">-0.25</td>
+<td class="org-center">-2</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">23.75</td>
+<td class="org-center">60.9</td>
+<td class="org-center">100</td>
+<td class="org-center">60.9</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Gambhīrapañño</b></td>
+<td class="org-center">39</td>
+<td class="org-center">26</td>
+<td class="org-center">1</td>
+<td class="org-center">-0.25</td>
+<td class="org-center">-4.5</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">21.25</td>
+<td class="org-center">54.5</td>
+<td class="org-center">95</td>
+<td class="org-center">51.8</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Kalyāṇadhammo</b></td>
+<td class="org-center">39</td>
+<td class="org-center">36</td>
+<td class="org-center">13</td>
+<td class="org-center">-0.25</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">35.75</td>
+<td class="org-center">91.7</td>
+<td class="org-center">100</td>
+<td class="org-center">91.7</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Ñāṇadassana</b></td>
+<td class="org-center">39</td>
+<td class="org-center">32</td>
+<td class="org-center">18</td>
+<td class="org-center">-1</td>
+<td class="org-center">-0.5</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">30.5</td>
+<td class="org-center">78.2</td>
+<td class="org-center">100</td>
+<td class="org-center">78.2</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Paññāsekhara</b></td>
+<td class="org-center">39</td>
+<td class="org-center">19</td>
+<td class="org-center">2</td>
+<td class="org-center">-0.75</td>
+<td class="org-center">-4</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">14.25</td>
+<td class="org-center">36.5</td>
+<td class="org-center">100</td>
+<td class="org-center">36.5</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Parisuddho</b></td>
+<td class="org-center">39</td>
+<td class="org-center">27</td>
+<td class="org-center">7</td>
+<td class="org-center">-1.75</td>
+<td class="org-center">-4</td>
+<td class="org-center">1</td>
+<td class="org-center">22.25</td>
+<td class="org-center">57.1</td>
+<td class="org-center">100</td>
+<td class="org-center">57.1</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Puññāgamo</b></td>
+<td class="org-center">39</td>
+<td class="org-center">37</td>
+<td class="org-center">4</td>
+<td class="org-center">-1.25</td>
+<td class="org-center">-0.5</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">35.25</td>
+<td class="org-center">90.4</td>
+<td class="org-center">100</td>
+<td class="org-center">90.4</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Rakkhitasīla</b></td>
+<td class="org-center">39</td>
+<td class="org-center">35</td>
+<td class="org-center">4</td>
+<td class="org-center">-0.25</td>
+<td class="org-center">-0.5</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">34.25</td>
+<td class="org-center">87.8</td>
+<td class="org-center">100</td>
+<td class="org-center">87.8</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Saṅkicca</b></td>
+<td class="org-center">39</td>
+<td class="org-center">25</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">13</td>
+<td class="org-center">38</td>
+<td class="org-center">97.4</td>
+<td class="org-center">100</td>
+<td class="org-center">97.4</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Santavāco</b></td>
+<td class="org-center">39</td>
+<td class="org-center">39</td>
+<td class="org-center">12</td>
+<td class="org-center">-0.5</td>
+<td class="org-center">-1</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">37.5</td>
+<td class="org-center">96.2</td>
+<td class="org-center">100</td>
+<td class="org-center">96.2</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Sumana</b></td>
+<td class="org-center">39</td>
+<td class="org-center">17</td>
+<td class="org-center">4</td>
+<td class="org-center">-1</td>
+<td class="org-center">-1</td>
+<td class="org-center">1</td>
+<td class="org-center">16</td>
+<td class="org-center">41.0</td>
+<td class="org-center">100</td>
+<td class="org-center">41.0</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Suppabhāso</b></td>
+<td class="org-center">39</td>
+<td class="org-center">28</td>
+<td class="org-center">3</td>
+<td class="org-center">-1</td>
+<td class="org-center">-3.5</td>
+<td class="org-center">2</td>
+<td class="org-center">25.5</td>
+<td class="org-center">65.4</td>
+<td class="org-center">100</td>
+<td class="org-center">65.4</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left"><b>Ñāṇacitta</b> (6/28; SA)</td>
+<td class="org-center">10</td>
+<td class="org-center">9</td>
+<td class="org-center">3</td>
+<td class="org-center">-0.25</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">8.75</td>
+<td class="org-center">87.5</td>
+<td class="org-center">100</td>
+<td class="org-center">87.5</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Pavara</b> (9/2)</td>
+<td class="org-center">8</td>
+<td class="org-center">7</td>
+<td class="org-center">2</td>
+<td class="org-center">-0.5</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">6.5</td>
+<td class="org-center">81.2</td>
+<td class="org-center">100</td>
+<td class="org-center">81.2</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Ratanasara</b> (8/11)</td>
+<td class="org-center">18</td>
+<td class="org-center">8</td>
+<td class="org-center">1</td>
+<td class="org-center">-0.5</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">7.5</td>
+<td class="org-center">41.7</td>
+<td class="org-center">100</td>
+<td class="org-center">41.7</td>
+</tr>
+</tbody>
+</table>
+
+-   **Notes**:
+    -   **TC** (Total Classes): Total number of classes in the entire semester.
+    -   **P** (Presence): number of attended days.
+    -   **LL** (a little late &#x2013; 1-5 mins): number of "a-little-late" arrivals &#x2013; no penalty, but avoid.
+    -   **L** (late &#x2013; 6-10 mins): -0.25
+    -   **VL** (very late &#x2013; <10 mins): -0.5
+    -   **S/D** (sick / duty): If reported sick / duty, no penalty.
+    -   **Atd Total** (Attendance Total): Attended days minus late-arrivals.
+    -   **AT%**: Attendance Total %/100.
+    -   **Att** (Attitude): Perceived attitude.
+    -   **PT** (Participation Total): Attendance total x Attitude.
+
+
+# Vocabulary Tests During Semester
+
+<table id="org6df8279" border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-center" />
+
+<col  class="org-center" />
+
+<col  class="org-center" />
+
+<col  class="org-center" />
+
+<col  class="org-center" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left"><b>Venerable</b></th>
+<th scope="col" class="org-center"><b>T1</b></th>
+<th scope="col" class="org-center"><b>T2</b></th>
+<th scope="col" class="org-center"><b>T3</b></th>
+<th scope="col" class="org-center"><b>T4</b></th>
+<th scope="col" class="org-center"><b>T5</b></th>
+<th scope="col" class="org-center"><b>Total</b></th>
+<th scope="col" class="org-center"><b>Total</b></th>
+</tr>
+
+<tr>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-center">/70</th>
+<th scope="col" class="org-center">/80</th>
+<th scope="col" class="org-center">/60</th>
+<th scope="col" class="org-center">/70</th>
+<th scope="col" class="org-center">/70</th>
+<th scope="col" class="org-center">/350</th>
+<th scope="col" class="org-center">%/100</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left"><b>Dhammacārī</b></td>
+<td class="org-center">53</td>
+<td class="org-center">68</td>
+<td class="org-center">46</td>
+<td class="org-center">46</td>
+<td class="org-center">54</td>
+<td class="org-center">267.0</td>
+<td class="org-center">76.3</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Dhīrāloka</b></td>
+<td class="org-center">60</td>
+<td class="org-center">68</td>
+<td class="org-center">52</td>
+<td class="org-center">0</td>
+<td class="org-center">62</td>
+<td class="org-center">242.0</td>
+<td class="org-center">69.1</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Gambhīrapañño</b></td>
+<td class="org-center">43</td>
+<td class="org-center">43</td>
+<td class="org-center">32</td>
+<td class="org-center">31.5</td>
+<td class="org-center">35</td>
+<td class="org-center">184.5</td>
+<td class="org-center">52.7</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Kalyāṇadhammo</b></td>
+<td class="org-center">55</td>
+<td class="org-center">62</td>
+<td class="org-center">44</td>
+<td class="org-center">49</td>
+<td class="org-center">54</td>
+<td class="org-center">264.0</td>
+<td class="org-center">75.4</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Ñānadassana</b></td>
+<td class="org-center">0</td>
+<td class="org-center">61</td>
+<td class="org-center">56</td>
+<td class="org-center">42</td>
+<td class="org-center">0</td>
+<td class="org-center">159.0</td>
+<td class="org-center">45.4</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Paññāsekhara</b></td>
+<td class="org-center">0</td>
+<td class="org-center">0</td>
+<td class="org-center">0</td>
+<td class="org-center">0</td>
+<td class="org-center">0</td>
+<td class="org-center">0.0</td>
+<td class="org-center">0.0</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Parisuddho</b></td>
+<td class="org-center">0</td>
+<td class="org-center">0</td>
+<td class="org-center">0</td>
+<td class="org-center">0</td>
+<td class="org-center">45</td>
+<td class="org-center">45.0</td>
+<td class="org-center">12.9</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Puññāgamo</b></td>
+<td class="org-center">50</td>
+<td class="org-center">62</td>
+<td class="org-center">46</td>
+<td class="org-center">44</td>
+<td class="org-center">56</td>
+<td class="org-center">258.0</td>
+<td class="org-center">73.7</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Rakkhitasīla</b></td>
+<td class="org-center">52</td>
+<td class="org-center">60</td>
+<td class="org-center">38</td>
+<td class="org-center">51</td>
+<td class="org-center">52</td>
+<td class="org-center">253.0</td>
+<td class="org-center">72.3</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Saṅkicca</b></td>
+<td class="org-center">0</td>
+<td class="org-center">58</td>
+<td class="org-center">0</td>
+<td class="org-center">0</td>
+<td class="org-center">41</td>
+<td class="org-center">99.0</td>
+<td class="org-center">28.3</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Santavāco</b></td>
+<td class="org-center">55</td>
+<td class="org-center">65</td>
+<td class="org-center">53</td>
+<td class="org-center">52</td>
+<td class="org-center">57</td>
+<td class="org-center">282.0</td>
+<td class="org-center">80.6</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Suppabhāso</b></td>
+<td class="org-center">51</td>
+<td class="org-center">0</td>
+<td class="org-center">0</td>
+<td class="org-center">42</td>
+<td class="org-center">44</td>
+<td class="org-center">137.0</td>
+<td class="org-center">39.1</td>
+</tr>
+</tbody>
+</table>
+
+-   **Notes**:
+    -   **T1…5** (Test 1…5): Fortnightly vocabulary test with meaning, conjugation, and spelling included.
+    -   V. **Sumana**: Passed A1-B2 Vocabulary Test. Currently working on C1, phrasal verbs, etc.
+    -   V. **Sumitta**: Passed A1-C1 Vocabulary Test. Currently working on phrasal verbs, idiomatic phrases, etc.
+
+
+# Listening
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left"><b>Venerable</b></th>
+<th scope="col" class="org-center"><b>Listening</b></th>
+<th scope="col" class="org-center">&#xa0;</th>
+</tr>
+
+<tr>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-center">/9</th>
+<th scope="col" class="org-center">%/100</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left"><b>Sumitto</b></td>
+<td class="org-center">1</td>
+<td class="org-center">11.1</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left"><b>Dhammacārī</b></td>
+<td class="org-center">7.5</td>
+<td class="org-center">83.3</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Dhīrāloka</b></td>
+<td class="org-center">3</td>
+<td class="org-center">33.3</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Gambhīrapañño</b></td>
+<td class="org-center">1.15</td>
+<td class="org-center">12.8</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Kalyāṇadhammo</b></td>
+<td class="org-center">5</td>
+<td class="org-center">55.6</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Ñāṇadassana</b></td>
+<td class="org-center">3</td>
+<td class="org-center">33.3</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Paññāsekhara</b></td>
+<td class="org-center">0</td>
+<td class="org-center">0.0</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Parisuddho</b></td>
+<td class="org-center">6</td>
+<td class="org-center">66.7</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Puññāgamo</b></td>
+<td class="org-center">8</td>
+<td class="org-center">88.9</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Rakkhitasīla</b></td>
+<td class="org-center">5.75</td>
+<td class="org-center">63.9</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Saṅkicca</b></td>
+<td class="org-center">3</td>
+<td class="org-center">33.3</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Santavāco</b></td>
+<td class="org-center">8</td>
+<td class="org-center">88.9</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Sumana</b></td>
+<td class="org-center">7</td>
+<td class="org-center">77.8</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Suppabhāso</b></td>
+<td class="org-center">1</td>
+<td class="org-center">11.1</td>
+</tr>
+</tbody>
+</table>
+
+-   **Audiobook Listening Homework**:
+    -   2 hours per week.
+    -   9 weeks total.
+    -   Book according to student's choice.
+
+
+# Mid-term Test
+
+<table id="org9405ac1" border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-right" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left"><b>Venerable</b></th>
+<th scope="col" class="org-right"><b>A2 (I)</b></th>
+<th scope="col" class="org-right"><b>R &amp; D</b></th>
+<th scope="col" class="org-right"><b>ING &amp; I</b></th>
+<th scope="col" class="org-left"><b>B1+ A.</b></th>
+<th scope="col" class="org-left"><b>B1+ M.</b></th>
+<th scope="col" class="org-left"><b>PV</b></th>
+<th scope="col" class="org-right"><b>Total</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left"><b>Dhammañāṇa</b></td>
+<td class="org-right">n/a</td>
+<td class="org-right">95</td>
+<td class="org-right">84</td>
+<td class="org-left">67</td>
+<td class="org-left">59</td>
+<td class="org-left">67</td>
+<td class="org-right">77.5</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Santavīriya</b></td>
+<td class="org-right">n/a</td>
+<td class="org-right">86</td>
+<td class="org-right">82</td>
+<td class="org-left">73</td>
+<td class="org-left">45</td>
+<td class="org-left">28</td>
+<td class="org-right">65</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left"><b>Sumitto</b></td>
+<td class="org-right">n/a</td>
+<td class="org-right">95</td>
+<td class="org-right">95</td>
+<td class="org-left">n/a</td>
+<td class="org-left">n/a</td>
+<td class="org-left">86</td>
+<td class="org-right">93</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left"><b>Dhammacārī</b></td>
+<td class="org-right">69</td>
+<td class="org-right">67</td>
+<td class="org-right">61</td>
+<td class="org-left">n/a</td>
+<td class="org-left">n/a</td>
+<td class="org-left">n/a</td>
+<td class="org-right">66</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Dhīrāloka</b></td>
+<td class="org-right">80</td>
+<td class="org-right">57</td>
+<td class="org-right">66</td>
+<td class="org-left">n/a</td>
+<td class="org-left">n/a</td>
+<td class="org-left">n/a</td>
+<td class="org-right">71</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Gambhīrapañño</b></td>
+<td class="org-right">85</td>
+<td class="org-right">90.5</td>
+<td class="org-right">82</td>
+<td class="org-left">n/a</td>
+<td class="org-left">n/a</td>
+<td class="org-left">n/a</td>
+<td class="org-right">85</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Kaḷyāṇadhammo</b></td>
+<td class="org-right">68</td>
+<td class="org-right">48</td>
+<td class="org-right">61</td>
+<td class="org-left">n/a</td>
+<td class="org-left">n/a</td>
+<td class="org-left">n/a</td>
+<td class="org-right">62</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Nāṇadassana</b></td>
+<td class="org-right">73</td>
+<td class="org-right">57</td>
+<td class="org-right">57</td>
+<td class="org-left">n/a</td>
+<td class="org-left">n/a</td>
+<td class="org-left">n/a</td>
+<td class="org-right">64</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Paññāsekhara</b></td>
+<td class="org-right">66</td>
+<td class="org-right">38</td>
+<td class="org-right">41</td>
+<td class="org-left">n/a</td>
+<td class="org-left">n/a</td>
+<td class="org-left">n/a</td>
+<td class="org-right">52</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Parisuddho</b></td>
+<td class="org-right">71</td>
+<td class="org-right">62</td>
+<td class="org-right">68</td>
+<td class="org-left">n/a</td>
+<td class="org-left">n/a</td>
+<td class="org-left">n/a</td>
+<td class="org-right">69</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Puññāgamo</b></td>
+<td class="org-right">86</td>
+<td class="org-right">67</td>
+<td class="org-right">82</td>
+<td class="org-left">n/a</td>
+<td class="org-left">n/a</td>
+<td class="org-left">n/a</td>
+<td class="org-right">81</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Rakkhitasīla</b></td>
+<td class="org-right">54</td>
+<td class="org-right">48</td>
+<td class="org-right">80</td>
+<td class="org-left">n/a</td>
+<td class="org-left">n/a</td>
+<td class="org-left">n/a</td>
+<td class="org-right">62</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Saṅkicco</b></td>
+<td class="org-right">76</td>
+<td class="org-right">36</td>
+<td class="org-right">66</td>
+<td class="org-left">n/a</td>
+<td class="org-left">n/a</td>
+<td class="org-left">n/a</td>
+<td class="org-right">59</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Santavāco</b></td>
+<td class="org-right">87</td>
+<td class="org-right">86</td>
+<td class="org-right">91</td>
+<td class="org-left">n/a</td>
+<td class="org-left">n/a</td>
+<td class="org-left">n/a</td>
+<td class="org-right">88</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Sumana</b></td>
+<td class="org-right">81</td>
+<td class="org-right">93</td>
+<td class="org-right">91</td>
+<td class="org-left">n/a</td>
+<td class="org-left">n/a</td>
+<td class="org-left">n/a</td>
+<td class="org-right">87</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Suppabhāso</b></td>
+<td class="org-right">61</td>
+<td class="org-right">48</td>
+<td class="org-right">52</td>
+<td class="org-left">n/a</td>
+<td class="org-left">n/a</td>
+<td class="org-left">n/a</td>
+<td class="org-right">56</td>
+</tr>
+</tbody>
+</table>
+
+-   **Notes**:
+    -   **A2 (I)**: A2 Grammar (part I): The first half of the A2 grammar.
+    -   **R & D** (Relative Clauses & Discourse Markers)
+    -   **-ING & I** (-ING and Infinitive): Includes all grammar levels on this topic.
+    -   **B1+ A.** (B1+ Articles, nouns, pronouns, determiners, and auxiliary verbs)
+    -   **B1+ M.** (B1+ Modals, imperative, etc.)
+    -   **PV** (Phrasal Verbs)
+    -   All grades here are in %/100
+
+
+# Final Exam
+
+
+## Final Exam - Vocabulary
+
+<table id="org9a7e5d3" border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+
+<col  class="org-center" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+
+<col  class="org-center" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+
+<col  class="org-center" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left"><b>Venerable</b></th>
+<th scope="col" class="org-center"><b>Meaning</b></th>
+<th scope="col" class="org-center">&#xa0;</th>
+<th scope="col" class="org-center"><b>Conjugation</b></th>
+<th scope="col" class="org-center">&#xa0;</th>
+<th scope="col" class="org-center"><b>Spelling</b></th>
+<th scope="col" class="org-center">&#xa0;</th>
+<th scope="col" class="org-center"><b>Total</b></th>
+<th scope="col" class="org-center"><b>Total</b></th>
+</tr>
+
+<tr>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-center">/38</th>
+<th scope="col" class="org-center">%/100</th>
+<th scope="col" class="org-center">/32</th>
+<th scope="col" class="org-center">%/100</th>
+<th scope="col" class="org-center">/90</th>
+<th scope="col" class="org-center">%/100</th>
+<th scope="col" class="org-center">/160</th>
+<th scope="col" class="org-center">%/100</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left"><b>Dhammacārī</b></td>
+<td class="org-center">22</td>
+<td class="org-center">57.9</td>
+<td class="org-center">26</td>
+<td class="org-center">81.2</td>
+<td class="org-center">49</td>
+<td class="org-center">54.4</td>
+<td class="org-center">97</td>
+<td class="org-center">60.6</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Dhīrāloka</b></td>
+<td class="org-center">29</td>
+<td class="org-center">76.3</td>
+<td class="org-center">26</td>
+<td class="org-center">81.2</td>
+<td class="org-center">57</td>
+<td class="org-center">63.3</td>
+<td class="org-center">112</td>
+<td class="org-center">70.0</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Gambhīrapañño</b></td>
+<td class="org-center">28</td>
+<td class="org-center">73.7</td>
+<td class="org-center">19</td>
+<td class="org-center">59.4</td>
+<td class="org-center">0</td>
+<td class="org-center">0.0</td>
+<td class="org-center">47</td>
+<td class="org-center">29.4</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Kalyāṇadhammo</b></td>
+<td class="org-center">19</td>
+<td class="org-center">50.0</td>
+<td class="org-center">25</td>
+<td class="org-center">78.1</td>
+<td class="org-center">35</td>
+<td class="org-center">38.9</td>
+<td class="org-center">79</td>
+<td class="org-center">49.4</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Ñāṇadassana</b></td>
+<td class="org-center">31</td>
+<td class="org-center">81.6</td>
+<td class="org-center">20</td>
+<td class="org-center">62.5</td>
+<td class="org-center">68</td>
+<td class="org-center">75.6</td>
+<td class="org-center">119</td>
+<td class="org-center">74.4</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Paññāsekhara</b></td>
+<td class="org-center">0</td>
+<td class="org-center">0.0</td>
+<td class="org-center">0</td>
+<td class="org-center">0.0</td>
+<td class="org-center">0</td>
+<td class="org-center">0.0</td>
+<td class="org-center">0</td>
+<td class="org-center">0.0</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Parisuddho</b></td>
+<td class="org-center">38</td>
+<td class="org-center">100.0</td>
+<td class="org-center">22</td>
+<td class="org-center">68.8</td>
+<td class="org-center">40</td>
+<td class="org-center">44.4</td>
+<td class="org-center">100</td>
+<td class="org-center">62.5</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Puññāgamo</b></td>
+<td class="org-center">25</td>
+<td class="org-center">65.8</td>
+<td class="org-center">27</td>
+<td class="org-center">84.4</td>
+<td class="org-center">35</td>
+<td class="org-center">38.9</td>
+<td class="org-center">87</td>
+<td class="org-center">54.4</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Rakkhitasīla</b></td>
+<td class="org-center">16</td>
+<td class="org-center">42.1</td>
+<td class="org-center">21.5</td>
+<td class="org-center">67.2</td>
+<td class="org-center">23</td>
+<td class="org-center">25.6</td>
+<td class="org-center">60.5</td>
+<td class="org-center">37.8</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Saṅkicca</b></td>
+<td class="org-center">13</td>
+<td class="org-center">34.2</td>
+<td class="org-center">29</td>
+<td class="org-center">90.6</td>
+<td class="org-center">27</td>
+<td class="org-center">30.0</td>
+<td class="org-center">69</td>
+<td class="org-center">43.1</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Santavāco</b></td>
+<td class="org-center">32</td>
+<td class="org-center">84.2</td>
+<td class="org-center">26</td>
+<td class="org-center">81.2</td>
+<td class="org-center">49</td>
+<td class="org-center">54.4</td>
+<td class="org-center">107</td>
+<td class="org-center">66.9</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Suppabhāso</b></td>
+<td class="org-center">24</td>
+<td class="org-center">63.2</td>
+<td class="org-center">23</td>
+<td class="org-center">71.9</td>
+<td class="org-center">41</td>
+<td class="org-center">45.6</td>
+<td class="org-center">88</td>
+<td class="org-center">55.0</td>
+</tr>
+</tbody>
+</table>
+
+<table id="org4b656d5" border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+
+<col  class="org-center" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+
+<col  class="org-center" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left"><b>Venerable</b></th>
+<th scope="col" class="org-center"><b>Phrasal Verbs</b></th>
+<th scope="col" class="org-center">&#xa0;</th>
+<th scope="col" class="org-center"><b>Idiomatic Phrases</b></th>
+<th scope="col" class="org-center">&#xa0;</th>
+<th scope="col" class="org-center"><b>Total</b></th>
+<th scope="col" class="org-center"><b>Total</b></th>
+</tr>
+
+<tr>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-center">/ 50</th>
+<th scope="col" class="org-center">%/100</th>
+<th scope="col" class="org-center">/30</th>
+<th scope="col" class="org-center">%/100</th>
+<th scope="col" class="org-center">/80</th>
+<th scope="col" class="org-center">%/100</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left"><b>Dhammañāṇa</b></td>
+<td class="org-center">0</td>
+<td class="org-center">0.0</td>
+<td class="org-center">0</td>
+<td class="org-center">0.0</td>
+<td class="org-center">0</td>
+<td class="org-center">0.0</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Santaviriya</b></td>
+<td class="org-center">31</td>
+<td class="org-center">62.0</td>
+<td class="org-center">10</td>
+<td class="org-center">33.3</td>
+<td class="org-center">41</td>
+<td class="org-center">51.2</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Sumitto</b></td>
+<td class="org-center">44</td>
+<td class="org-center">88.0</td>
+<td class="org-center">24</td>
+<td class="org-center">80.0</td>
+<td class="org-center">68</td>
+<td class="org-center">85.0</td>
+</tr>
+</tbody>
+</table>
+
+<table id="org594d6ac" border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left"><b>Venerable</b></th>
+<th scope="col" class="org-center"><b>Phrasal Verbs</b></th>
+<th scope="col" class="org-center"><b>Total</b></th>
+</tr>
+
+<tr>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-center">/50</th>
+<th scope="col" class="org-center">%/100</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left"><b>Sumana</b></td>
+<td class="org-center">32</td>
+<td class="org-center">64.0</td>
+</tr>
+</tbody>
+</table>
+
+-   **Notes**:
+    -   **Meaning**: Matching word and its meaning.
+    -   **Conjugation**: Conjugation of irregular verbs.
+    -   **Spelling**: Spelling words as in a Spelling Bee.
+
+
+## Final Exam - Writing
+
+<table id="orgd98a3b4" border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+
+<col  class="org-center" />
+
+<col  class="org-center" />
+
+<col  class="org-center" />
+
+<col  class="org-center" />
+
+<col  class="org-center" />
+
+<col  class="org-center" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left"><b>Venerable</b></th>
+<th scope="col" class="org-center"><b>Level</b></th>
+<th scope="col" class="org-center"><b>Grammar</b></th>
+<th scope="col" class="org-center"><b>Structure</b></th>
+<th scope="col" class="org-center"><b>Legibility</b></th>
+<th scope="col" class="org-center"><b>Instruction</b></th>
+<th scope="col" class="org-center"><b>Length</b></th>
+<th scope="col" class="org-center"><b>Others</b></th>
+<th scope="col" class="org-center"><b>Late</b></th>
+<th scope="col" class="org-center"><b>Total</b></th>
+</tr>
+
+<tr>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-center">&#xa0;</th>
+<th scope="col" class="org-center">/50</th>
+<th scope="col" class="org-center">/10</th>
+<th scope="col" class="org-center">/5</th>
+<th scope="col" class="org-center">/15</th>
+<th scope="col" class="org-center">/10</th>
+<th scope="col" class="org-center">/10</th>
+<th scope="col" class="org-center">&#xa0;</th>
+<th scope="col" class="org-center">/100</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left"><b>Dhammañāṇa</b></td>
+<td class="org-center">B1+</td>
+<td class="org-center">0</td>
+<td class="org-center">0</td>
+<td class="org-center">0</td>
+<td class="org-center">0</td>
+<td class="org-center">0</td>
+<td class="org-center">0</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">0</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Santavīriya</b></td>
+<td class="org-center">B1+</td>
+<td class="org-center">40</td>
+<td class="org-center">9</td>
+<td class="org-center">3</td>
+<td class="org-center">12</td>
+<td class="org-center">10</td>
+<td class="org-center">8</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">82</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Sumitto</b></td>
+<td class="org-center">B1+</td>
+<td class="org-center">45</td>
+<td class="org-center">9</td>
+<td class="org-center">5</td>
+<td class="org-center">14</td>
+<td class="org-center">10</td>
+<td class="org-center">9</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">92</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left"><b>Dhammacārī</b></td>
+<td class="org-center">A2</td>
+<td class="org-center">40</td>
+<td class="org-center">8</td>
+<td class="org-center">5</td>
+<td class="org-center">14</td>
+<td class="org-center">9</td>
+<td class="org-center">8</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">84</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Dhīrāloka</b></td>
+<td class="org-center">A2</td>
+<td class="org-center">45</td>
+<td class="org-center">10</td>
+<td class="org-center">5</td>
+<td class="org-center">8</td>
+<td class="org-center">8</td>
+<td class="org-center">9</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">85</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Gambhīrapañño</b></td>
+<td class="org-center">A2</td>
+<td class="org-center">40</td>
+<td class="org-center">7</td>
+<td class="org-center">5</td>
+<td class="org-center">8</td>
+<td class="org-center">9</td>
+<td class="org-center">9</td>
+<td class="org-center">-10</td>
+<td class="org-center">68</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Kalyāṇadhammo</b></td>
+<td class="org-center">A2</td>
+<td class="org-center">35</td>
+<td class="org-center">8</td>
+<td class="org-center">3</td>
+<td class="org-center">12</td>
+<td class="org-center">7</td>
+<td class="org-center">8</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">73</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Ñāṇadassana</b></td>
+<td class="org-center">A2</td>
+<td class="org-center">25</td>
+<td class="org-center">7</td>
+<td class="org-center">5</td>
+<td class="org-center">12</td>
+<td class="org-center">9</td>
+<td class="org-center">8</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">66</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Paññāsekhara</b></td>
+<td class="org-center">A2</td>
+<td class="org-center">0</td>
+<td class="org-center">0</td>
+<td class="org-center">0</td>
+<td class="org-center">0</td>
+<td class="org-center">0</td>
+<td class="org-center">0</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">0</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Parisuddho</b></td>
+<td class="org-center">A2</td>
+<td class="org-center">40</td>
+<td class="org-center">8</td>
+<td class="org-center">5</td>
+<td class="org-center">15</td>
+<td class="org-center">8</td>
+<td class="org-center">7</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">83</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Puññāgamo</b></td>
+<td class="org-center">A2</td>
+<td class="org-center">42</td>
+<td class="org-center">9</td>
+<td class="org-center">5</td>
+<td class="org-center">13</td>
+<td class="org-center">10</td>
+<td class="org-center">7</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">86</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Rakkhitasīla</b></td>
+<td class="org-center">A2</td>
+<td class="org-center">40</td>
+<td class="org-center">9</td>
+<td class="org-center">4</td>
+<td class="org-center">11</td>
+<td class="org-center">9</td>
+<td class="org-center">8</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">81</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Saṅkicca</b></td>
+<td class="org-center">A2</td>
+<td class="org-center">30</td>
+<td class="org-center">7</td>
+<td class="org-center">5</td>
+<td class="org-center">8</td>
+<td class="org-center">8</td>
+<td class="org-center">6</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">64</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Santavāco</b></td>
+<td class="org-center">A2</td>
+<td class="org-center">45</td>
+<td class="org-center">9</td>
+<td class="org-center">5</td>
+<td class="org-center">13</td>
+<td class="org-center">9</td>
+<td class="org-center">8</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">89</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Sumana</b></td>
+<td class="org-center">A2</td>
+<td class="org-center">45</td>
+<td class="org-center">9</td>
+<td class="org-center">5</td>
+<td class="org-center">8</td>
+<td class="org-center">8</td>
+<td class="org-center">8</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">83</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Suppabhāso</b></td>
+<td class="org-center">A2</td>
+<td class="org-center">38</td>
+<td class="org-center">8</td>
+<td class="org-center">4</td>
+<td class="org-center">12</td>
+<td class="org-center">8</td>
+<td class="org-center">7</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">77</td>
+</tr>
+</tbody>
+</table>
+
+-   **Notes**:
+    -   **Level**: Grammar level taken into perspective.
+    -   **Grammar** (50%): Usage of grammar according to level taken into perspective.
+    -   **Structure** (10%): Structure of sentences, paragraphs, and text in general.
+    -   **Legibility** (5%): Legibility of handwriting, writing on the line, etc.
+    -   **Instructions** (15%): Following the instructions of the exercise.
+    -   **Length** (10%): Minimum length of each answer.
+    -   **Others** (10%): Sophistication, reasoning, spelling, and other factors.
+    -   **Late** (-10%): Late submission.
+    -   **Total**: Sum of all factors. Each factor has its weight (Grammar 50%, etc.).
+
+
+## Final Exam - Grammar
+
+<table id="orga967565" border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+
+<col  class="org-center" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+
+<col  class="org-center" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+
+<col  class="org-center" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+
+<col  class="org-center" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left"><b>Venerable</b></th>
+<th scope="col" class="org-center"><b>A2</b></th>
+<th scope="col" class="org-center">&#xa0;</th>
+<th scope="col" class="org-center"><b>Ing &amp; Inf</b></th>
+<th scope="col" class="org-center">&#xa0;</th>
+<th scope="col" class="org-center"><b>Participles</b></th>
+<th scope="col" class="org-center">&#xa0;</th>
+<th scope="col" class="org-center"><b>RC &amp; D</b></th>
+<th scope="col" class="org-center">&#xa0;</th>
+<th scope="col" class="org-center"><b>Total</b></th>
+<th scope="col" class="org-center"><b>Total</b></th>
+</tr>
+
+<tr>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-center">/121</th>
+<th scope="col" class="org-center">%/100</th>
+<th scope="col" class="org-center">/38.5</th>
+<th scope="col" class="org-center">%/100</th>
+<th scope="col" class="org-center">/40.5</th>
+<th scope="col" class="org-center">%/100</th>
+<th scope="col" class="org-center">/38</th>
+<th scope="col" class="org-center">%/100</th>
+<th scope="col" class="org-center">/238</th>
+<th scope="col" class="org-center">%/100</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left"><b>Dhammacārī</b></td>
+<td class="org-center">75</td>
+<td class="org-center">62.0</td>
+<td class="org-center">27</td>
+<td class="org-center">70.1</td>
+<td class="org-center">26.5</td>
+<td class="org-center">65.4</td>
+<td class="org-center">16</td>
+<td class="org-center">42.1</td>
+<td class="org-center">144.5</td>
+<td class="org-center">60.7</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Dhīrāloka</b></td>
+<td class="org-center">96</td>
+<td class="org-center">79.3</td>
+<td class="org-center">24.5</td>
+<td class="org-center">63.6</td>
+<td class="org-center">22.5</td>
+<td class="org-center">55.6</td>
+<td class="org-center">13</td>
+<td class="org-center">34.2</td>
+<td class="org-center">156.0</td>
+<td class="org-center">65.5</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Gambhīrapañño</b></td>
+<td class="org-center">95.5</td>
+<td class="org-center">78.9</td>
+<td class="org-center">22</td>
+<td class="org-center">57.1</td>
+<td class="org-center">27.5</td>
+<td class="org-center">67.9</td>
+<td class="org-center">27.2</td>
+<td class="org-center">71.6</td>
+<td class="org-center">172.2</td>
+<td class="org-center">72.4</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Kalyāṇadhammo</b></td>
+<td class="org-center">93</td>
+<td class="org-center">76.9</td>
+<td class="org-center">24.5</td>
+<td class="org-center">63.6</td>
+<td class="org-center">27</td>
+<td class="org-center">66.7</td>
+<td class="org-center">12</td>
+<td class="org-center">31.6</td>
+<td class="org-center">156.5</td>
+<td class="org-center">65.8</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Ñāṇadassana</b></td>
+<td class="org-center">59.5</td>
+<td class="org-center">49.2</td>
+<td class="org-center">23</td>
+<td class="org-center">59.7</td>
+<td class="org-center">20.5</td>
+<td class="org-center">50.6</td>
+<td class="org-center">18</td>
+<td class="org-center">47.4</td>
+<td class="org-center">121.0</td>
+<td class="org-center">50.8</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Paññāsekhara</b></td>
+<td class="org-center">0</td>
+<td class="org-center">0.0</td>
+<td class="org-center">0</td>
+<td class="org-center">0.0</td>
+<td class="org-center">0</td>
+<td class="org-center">0.0</td>
+<td class="org-center">0</td>
+<td class="org-center">0.0</td>
+<td class="org-center">0.0</td>
+<td class="org-center">0.0</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Parisuddho</b></td>
+<td class="org-center">94.5</td>
+<td class="org-center">78.1</td>
+<td class="org-center">27.5</td>
+<td class="org-center">71.4</td>
+<td class="org-center">26.5</td>
+<td class="org-center">65.4</td>
+<td class="org-center">28.5</td>
+<td class="org-center">75.0</td>
+<td class="org-center">177.0</td>
+<td class="org-center">74.4</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Puññāgamo</b></td>
+<td class="org-center">112</td>
+<td class="org-center">92.6</td>
+<td class="org-center">28</td>
+<td class="org-center">72.7</td>
+<td class="org-center">28.5</td>
+<td class="org-center">70.4</td>
+<td class="org-center">31.5</td>
+<td class="org-center">82.9</td>
+<td class="org-center">200.0</td>
+<td class="org-center">84.0</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Rakkhitasīla</b></td>
+<td class="org-center">75</td>
+<td class="org-center">62.0</td>
+<td class="org-center">22</td>
+<td class="org-center">57.1</td>
+<td class="org-center">23</td>
+<td class="org-center">56.8</td>
+<td class="org-center">12</td>
+<td class="org-center">31.6</td>
+<td class="org-center">132.0</td>
+<td class="org-center">55.5</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Saṅkicca</b></td>
+<td class="org-center">69.5</td>
+<td class="org-center">57.4</td>
+<td class="org-center">24</td>
+<td class="org-center">62.3</td>
+<td class="org-center">15.5</td>
+<td class="org-center">38.3</td>
+<td class="org-center">18</td>
+<td class="org-center">47.4</td>
+<td class="org-center">127.0</td>
+<td class="org-center">53.4</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Santavāco</b></td>
+<td class="org-center">116</td>
+<td class="org-center">95.9</td>
+<td class="org-center">31</td>
+<td class="org-center">80.5</td>
+<td class="org-center">29.5</td>
+<td class="org-center">72.8</td>
+<td class="org-center">32</td>
+<td class="org-center">84.2</td>
+<td class="org-center">208.5</td>
+<td class="org-center">87.6</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Sumana</b></td>
+<td class="org-center">96.5</td>
+<td class="org-center">79.8</td>
+<td class="org-center">32.5</td>
+<td class="org-center">84.4</td>
+<td class="org-center">27</td>
+<td class="org-center">66.7</td>
+<td class="org-center">29</td>
+<td class="org-center">76.3</td>
+<td class="org-center">185.0</td>
+<td class="org-center">77.7</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Suppabhāso</b></td>
+<td class="org-center">87</td>
+<td class="org-center">71.9</td>
+<td class="org-center">21.5</td>
+<td class="org-center">55.8</td>
+<td class="org-center">22</td>
+<td class="org-center">54.3</td>
+<td class="org-center">17</td>
+<td class="org-center">44.7</td>
+<td class="org-center">147.5</td>
+<td class="org-center">62.0</td>
+</tr>
+</tbody>
+</table>
+
+<table id="orga84a328" border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+
+<col  class="org-center" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+
+<col  class="org-center" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+
+<col  class="org-center" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+
+<col  class="org-center" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left"><b>Venerable</b></th>
+<th scope="col" class="org-center"><b>B1+</b></th>
+<th scope="col" class="org-center">&#xa0;</th>
+<th scope="col" class="org-center"><b>ING &amp; Inf</b></th>
+<th scope="col" class="org-center">&#xa0;</th>
+<th scope="col" class="org-center"><b>Participles</b></th>
+<th scope="col" class="org-center">&#xa0;</th>
+<th scope="col" class="org-center"><b>RC &amp; D</b></th>
+<th scope="col" class="org-center">&#xa0;</th>
+<th scope="col" class="org-center"><b>Total</b></th>
+<th scope="col" class="org-center"><b>Total%</b></th>
+</tr>
+
+<tr>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-center">/93.5</th>
+<th scope="col" class="org-center">/100</th>
+<th scope="col" class="org-center">/38.5</th>
+<th scope="col" class="org-center">/100</th>
+<th scope="col" class="org-center">/40.5</th>
+<th scope="col" class="org-center">/100</th>
+<th scope="col" class="org-center">/38</th>
+<th scope="col" class="org-center">/1--</th>
+<th scope="col" class="org-center">/210.5</th>
+<th scope="col" class="org-center">%</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left"><b>Dhammañāṇa</b></td>
+<td class="org-center">0</td>
+<td class="org-center">0.0</td>
+<td class="org-center">0</td>
+<td class="org-center">0.0</td>
+<td class="org-center">0</td>
+<td class="org-center">0.0</td>
+<td class="org-center">0</td>
+<td class="org-center">0.0</td>
+<td class="org-center">0</td>
+<td class="org-center">0.0</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Santavīriya</b></td>
+<td class="org-center">65.5</td>
+<td class="org-center">70.1</td>
+<td class="org-center">33</td>
+<td class="org-center">85.7</td>
+<td class="org-center">30</td>
+<td class="org-center">74.1</td>
+<td class="org-center">33</td>
+<td class="org-center">86.8</td>
+<td class="org-center">161.5</td>
+<td class="org-center">76.7</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Sumitto</b></td>
+<td class="org-center">84</td>
+<td class="org-center">89.8</td>
+<td class="org-center">38</td>
+<td class="org-center">98.7</td>
+<td class="org-center">39</td>
+<td class="org-center">96.3</td>
+<td class="org-center">38</td>
+<td class="org-center">100.0</td>
+<td class="org-center">199</td>
+<td class="org-center">94.5</td>
+</tr>
+</tbody>
+</table>
+
+-   **Notes**:
+    -   **A2** (A2 Grammar): Complete A2 level grammar.
+    -   **Ing & Inf** (-ING and Infinitive): -Ing, infinitives, bare infinitives, -to-infinitive-substitution, etc.
+    -   **Participles**: Present and Past Participles as adjectives and Participle clauses.
+    -   **RC & D** (Relative Clauses and Discourse Markers): using relative pronouns (who, which, etc.) and adverbs (why, etc.) to create dependent clauses that act as adjective of nouns.
+    -   **B1+** (B1+ Grammar): Complete B1+ level grammar.
+    -   V. Gambhīrapañño: RC & D late submission: -10%
+
+
+## Final Exam - Total
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+
+<col  class="org-center" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+
+<col  class="org-center" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+
+<col  class="org-center" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left"><b>Venerable</b></th>
+<th scope="col" class="org-center"><b>Vocab</b></th>
+<th scope="col" class="org-center">&#xa0;</th>
+<th scope="col" class="org-center"><b>Writing</b></th>
+<th scope="col" class="org-center">&#xa0;</th>
+<th scope="col" class="org-center"><b>Grammar</b></th>
+<th scope="col" class="org-center">&#xa0;</th>
+<th scope="col" class="org-center"><b>Total</b></th>
+</tr>
+
+<tr>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-center">/100</th>
+<th scope="col" class="org-center">/15</th>
+<th scope="col" class="org-center">/100</th>
+<th scope="col" class="org-center">/15</th>
+<th scope="col" class="org-center">/100</th>
+<th scope="col" class="org-center">/70</th>
+<th scope="col" class="org-center">%/100</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left"><b>Dhammañāṇa</b></td>
+<td class="org-center">0.0</td>
+<td class="org-center">0.0</td>
+<td class="org-center">0</td>
+<td class="org-center">0.0</td>
+<td class="org-center">0.0</td>
+<td class="org-center">0.0</td>
+<td class="org-center">0.</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Santavīriya</b></td>
+<td class="org-center">51.2</td>
+<td class="org-center">7.7</td>
+<td class="org-center">82</td>
+<td class="org-center">12.3</td>
+<td class="org-center">76.7</td>
+<td class="org-center">53.7</td>
+<td class="org-center">73.7</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Sumitto</b></td>
+<td class="org-center">85.0</td>
+<td class="org-center">12.8</td>
+<td class="org-center">92</td>
+<td class="org-center">13.8</td>
+<td class="org-center">94.5</td>
+<td class="org-center">66.2</td>
+<td class="org-center">92.8</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left"><b>Dhammacārī</b></td>
+<td class="org-center">60.6</td>
+<td class="org-center">9.1</td>
+<td class="org-center">84</td>
+<td class="org-center">12.6</td>
+<td class="org-center">60.7</td>
+<td class="org-center">42.5</td>
+<td class="org-center">64.2</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Dhīrāloka</b></td>
+<td class="org-center">70.0</td>
+<td class="org-center">10.5</td>
+<td class="org-center">85</td>
+<td class="org-center">12.8</td>
+<td class="org-center">65.5</td>
+<td class="org-center">45.9</td>
+<td class="org-center">69.2</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Gambhīrapañño</b></td>
+<td class="org-center">29.4</td>
+<td class="org-center">4.4</td>
+<td class="org-center">68</td>
+<td class="org-center">10.2</td>
+<td class="org-center">72.4</td>
+<td class="org-center">50.7</td>
+<td class="org-center">65.3</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Kalyāṇadhammo</b></td>
+<td class="org-center">49.4</td>
+<td class="org-center">7.4</td>
+<td class="org-center">73</td>
+<td class="org-center">10.9</td>
+<td class="org-center">65.8</td>
+<td class="org-center">46.1</td>
+<td class="org-center">64.4</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Ñāṇadassana</b></td>
+<td class="org-center">74.4</td>
+<td class="org-center">11.2</td>
+<td class="org-center">66</td>
+<td class="org-center">9.9</td>
+<td class="org-center">50.8</td>
+<td class="org-center">35.6</td>
+<td class="org-center">56.7</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Paññāsekhara</b></td>
+<td class="org-center">0.0</td>
+<td class="org-center">0.0</td>
+<td class="org-center">0</td>
+<td class="org-center">0.0</td>
+<td class="org-center">0.0</td>
+<td class="org-center">0.0</td>
+<td class="org-center">0.</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Parisuddho</b></td>
+<td class="org-center">62.5</td>
+<td class="org-center">9.4</td>
+<td class="org-center">83</td>
+<td class="org-center">12.4</td>
+<td class="org-center">74.4</td>
+<td class="org-center">52.1</td>
+<td class="org-center">73.9</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Puññāgamo</b></td>
+<td class="org-center">54.4</td>
+<td class="org-center">8.2</td>
+<td class="org-center">86</td>
+<td class="org-center">12.9</td>
+<td class="org-center">84.0</td>
+<td class="org-center">58.8</td>
+<td class="org-center">79.9</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Rakkhitasīla</b></td>
+<td class="org-center">37.8</td>
+<td class="org-center">5.7</td>
+<td class="org-center">81</td>
+<td class="org-center">12.2</td>
+<td class="org-center">55.5</td>
+<td class="org-center">38.9</td>
+<td class="org-center">56.8</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Saṅkicca</b></td>
+<td class="org-center">43.1</td>
+<td class="org-center">6.5</td>
+<td class="org-center">64</td>
+<td class="org-center">9.6</td>
+<td class="org-center">53.4</td>
+<td class="org-center">37.4</td>
+<td class="org-center">53.5</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Santavāco</b></td>
+<td class="org-center">66.9</td>
+<td class="org-center">10.0</td>
+<td class="org-center">89</td>
+<td class="org-center">13.3</td>
+<td class="org-center">87.6</td>
+<td class="org-center">61.3</td>
+<td class="org-center">84.6</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Sumana</b></td>
+<td class="org-center">64.0</td>
+<td class="org-center">9.6</td>
+<td class="org-center">83</td>
+<td class="org-center">12.4</td>
+<td class="org-center">77.7</td>
+<td class="org-center">54.4</td>
+<td class="org-center">76.4</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Suppabhāso</b></td>
+<td class="org-center">55.0</td>
+<td class="org-center">8.2</td>
+<td class="org-center">77</td>
+<td class="org-center">11.6</td>
+<td class="org-center">62.0</td>
+<td class="org-center">43.4</td>
+<td class="org-center">63.2</td>
+</tr>
+</tbody>
+</table>
+
+-   **Notes**:
+    -   **Total**: 15% Vocab + 15% Writing + 70% Grammar
+
+
+# Academic Results
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+
+<col  class="org-center" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+
+<col  class="org-center" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+
+<col  class="org-center" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+
+<col  class="org-center" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left"><b>Venerable</b></th>
+<th scope="col" class="org-center"><b>Vocab Tests</b></th>
+<th scope="col" class="org-center">&#xa0;</th>
+<th scope="col" class="org-center"><b>Listening</b></th>
+<th scope="col" class="org-center">&#xa0;</th>
+<th scope="col" class="org-center"><b>Mid-term</b></th>
+<th scope="col" class="org-center">&#xa0;</th>
+<th scope="col" class="org-center"><b>Final Exam</b></th>
+<th scope="col" class="org-center">&#xa0;</th>
+<th scope="col" class="org-center"><b>Total</b></th>
+</tr>
+
+<tr>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-center">/100</th>
+<th scope="col" class="org-center">/20</th>
+<th scope="col" class="org-center">/100</th>
+<th scope="col" class="org-center">/5</th>
+<th scope="col" class="org-center">/100</th>
+<th scope="col" class="org-center">/25</th>
+<th scope="col" class="org-center">/100</th>
+<th scope="col" class="org-center">/50</th>
+<th scope="col" class="org-center">%/100</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left"><b>Dhammacārī</b></td>
+<td class="org-center">76.3</td>
+<td class="org-center">15.3</td>
+<td class="org-center">83.3</td>
+<td class="org-center">4.2</td>
+<td class="org-center">66</td>
+<td class="org-center">16.5</td>
+<td class="org-center">64.2</td>
+<td class="org-center">32.1</td>
+<td class="org-center">68.1</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Dhīrāloka</b></td>
+<td class="org-center">69.1</td>
+<td class="org-center">13.8</td>
+<td class="org-center">33.3</td>
+<td class="org-center">1.7</td>
+<td class="org-center">71</td>
+<td class="org-center">17.8</td>
+<td class="org-center">69.2</td>
+<td class="org-center">34.6</td>
+<td class="org-center">67.9</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Gambhīrapañño</b></td>
+<td class="org-center">52.7</td>
+<td class="org-center">10.5</td>
+<td class="org-center">12.8</td>
+<td class="org-center">0.6</td>
+<td class="org-center">85</td>
+<td class="org-center">21.2</td>
+<td class="org-center">65.3</td>
+<td class="org-center">32.6</td>
+<td class="org-center">64.9</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Kalyāṇadhammo</b></td>
+<td class="org-center">75.4</td>
+<td class="org-center">15.1</td>
+<td class="org-center">55.6</td>
+<td class="org-center">2.8</td>
+<td class="org-center">62</td>
+<td class="org-center">15.5</td>
+<td class="org-center">64.4</td>
+<td class="org-center">32.2</td>
+<td class="org-center">65.6</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Ñāṇadassana</b></td>
+<td class="org-center">45.4</td>
+<td class="org-center">9.1</td>
+<td class="org-center">33.3</td>
+<td class="org-center">1.7</td>
+<td class="org-center">64</td>
+<td class="org-center">16.0</td>
+<td class="org-center">56.7</td>
+<td class="org-center">28.4</td>
+<td class="org-center">55.2</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Paññāsekhara</b></td>
+<td class="org-center">0.0</td>
+<td class="org-center">0.0</td>
+<td class="org-center">0.0</td>
+<td class="org-center">0.0</td>
+<td class="org-center">52</td>
+<td class="org-center">13.0</td>
+<td class="org-center">0.0</td>
+<td class="org-center">0.0</td>
+<td class="org-center">13.0</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Parisuddho</b></td>
+<td class="org-center">12.9</td>
+<td class="org-center">2.6</td>
+<td class="org-center">66.7</td>
+<td class="org-center">3.3</td>
+<td class="org-center">69</td>
+<td class="org-center">17.2</td>
+<td class="org-center">73.9</td>
+<td class="org-center">37.0</td>
+<td class="org-center">60.1</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Puññāgamo</b></td>
+<td class="org-center">73.7</td>
+<td class="org-center">14.7</td>
+<td class="org-center">88.9</td>
+<td class="org-center">4.4</td>
+<td class="org-center">81</td>
+<td class="org-center">20.2</td>
+<td class="org-center">79.9</td>
+<td class="org-center">40.0</td>
+<td class="org-center">79.3</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Rakkhitasīla</b></td>
+<td class="org-center">72.3</td>
+<td class="org-center">14.5</td>
+<td class="org-center">63.9</td>
+<td class="org-center">3.2</td>
+<td class="org-center">62</td>
+<td class="org-center">15.5</td>
+<td class="org-center">56.8</td>
+<td class="org-center">28.4</td>
+<td class="org-center">61.6</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Saṅkicca</b></td>
+<td class="org-center">28.3</td>
+<td class="org-center">5.7</td>
+<td class="org-center">33.3</td>
+<td class="org-center">1.7</td>
+<td class="org-center">59</td>
+<td class="org-center">14.8</td>
+<td class="org-center">53.5</td>
+<td class="org-center">26.8</td>
+<td class="org-center">49.0</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Santavāco</b></td>
+<td class="org-center">80.6</td>
+<td class="org-center">16.1</td>
+<td class="org-center">88.9</td>
+<td class="org-center">4.4</td>
+<td class="org-center">88</td>
+<td class="org-center">22.0</td>
+<td class="org-center">84.6</td>
+<td class="org-center">42.3</td>
+<td class="org-center">84.8</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Suppabhāso</b></td>
+<td class="org-center">39.1</td>
+<td class="org-center">7.8</td>
+<td class="org-center">11.1</td>
+<td class="org-center">0.6</td>
+<td class="org-center">56</td>
+<td class="org-center">14.0</td>
+<td class="org-center">63.2</td>
+<td class="org-center">31.6</td>
+<td class="org-center">54.0</td>
+</tr>
+</tbody>
+</table>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+
+<col  class="org-center" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+
+<col  class="org-center" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+
+<col  class="org-center" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left"><b>Venerable</b></th>
+<th scope="col" class="org-center"><b>Listening</b></th>
+<th scope="col" class="org-center">&#xa0;</th>
+<th scope="col" class="org-center"><b>Mid-term</b></th>
+<th scope="col" class="org-center">&#xa0;</th>
+<th scope="col" class="org-center"><b>Final Exam</b></th>
+<th scope="col" class="org-center">&#xa0;</th>
+<th scope="col" class="org-center"><b>Total</b></th>
+</tr>
+
+<tr>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-center">/100</th>
+<th scope="col" class="org-center">/5</th>
+<th scope="col" class="org-center">/100</th>
+<th scope="col" class="org-center">/30</th>
+<th scope="col" class="org-center">/100</th>
+<th scope="col" class="org-center">/65</th>
+<th scope="col" class="org-center">%/100</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left"><b>Sumitto</b></td>
+<td class="org-center">11.1</td>
+<td class="org-center">0.6</td>
+<td class="org-center">93</td>
+<td class="org-center">27.9</td>
+<td class="org-center">92.8</td>
+<td class="org-center">60.3</td>
+<td class="org-center">88.8</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Sumana</b></td>
+<td class="org-center">77.8</td>
+<td class="org-center">3.9</td>
+<td class="org-center">87</td>
+<td class="org-center">26.1</td>
+<td class="org-center">76.4</td>
+<td class="org-center">49.7</td>
+<td class="org-center">79.7</td>
+</tr>
+</tbody>
+</table>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+
+<col  class="org-center" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+
+<col  class="org-center" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left"><b>Venerable</b></th>
+<th scope="col" class="org-center"><b>Mid-term</b></th>
+<th scope="col" class="org-center">&#xa0;</th>
+<th scope="col" class="org-center"><b>Final Exam</b></th>
+<th scope="col" class="org-center">&#xa0;</th>
+<th scope="col" class="org-center"><b>Total</b></th>
+</tr>
+
+<tr>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-center">/100</th>
+<th scope="col" class="org-center">/30</th>
+<th scope="col" class="org-center">/100</th>
+<th scope="col" class="org-center">/70</th>
+<th scope="col" class="org-center">%/100</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left"><b>Dhammañāṇa</b></td>
+<td class="org-center">77.5</td>
+<td class="org-center">23.2</td>
+<td class="org-center">0.</td>
+<td class="org-center">0.0</td>
+<td class="org-center">23.2</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Santavīriya</b></td>
+<td class="org-center">65</td>
+<td class="org-center">19.5</td>
+<td class="org-center">73.7</td>
+<td class="org-center">51.6</td>
+<td class="org-center">71.1</td>
+</tr>
+</tbody>
+</table>
+
+-   **Notes**:
+    -   **Value of Each**:
+        -   **Other Vs.**:
+            -   Listening: 5%
+            -   Vocab Tests: 20%
+            -   Mid-term: 25%
+            -   Final Exam: 50%
+        -   **V. Sumitto**:
+            -   Listening: 5%
+            -   Mid-term: 30%
+            -   Final Exam: 65%
+        -   **Vs. Dhammañāṇa and Santavīriya**:
+            -   Mid-term: 30%
+            -   Final Exam: 70%
+
+
+# Global Results
+
+<table id="org842b92a" border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+
+<col  class="org-center" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+
+<col  class="org-center" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+</colgroup>
+
+<colgroup>
+<col  class="org-center" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left"><b>Venerable</b></th>
+<th scope="col" class="org-center"><b>Participation</b></th>
+<th scope="col" class="org-center">&#xa0;</th>
+<th scope="col" class="org-center"><b>Academic Total</b></th>
+<th scope="col" class="org-center">&#xa0;</th>
+<th scope="col" class="org-center"><b>Bonus</b></th>
+<th scope="col" class="org-center"><b>Global Total</b></th>
+<th scope="col" class="org-center">&#xa0;</th>
+</tr>
+
+<tr>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-center">/100</th>
+<th scope="col" class="org-center">/40</th>
+<th scope="col" class="org-center">/100</th>
+<th scope="col" class="org-center">/60</th>
+<th scope="col" class="org-center">+1-3%</th>
+<th scope="col" class="org-center">%/100</th>
+<th scope="col" class="org-center">&#xa0;</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left"><b>Dhammañāṇa</b></td>
+<td class="org-center">44.6</td>
+<td class="org-center">17.8</td>
+<td class="org-center">23.2</td>
+<td class="org-center">13.9</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">31.7</td>
+<td class="org-center">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Santavīriya</b></td>
+<td class="org-center">44.6</td>
+<td class="org-center">17.8</td>
+<td class="org-center">71.1</td>
+<td class="org-center">42.7</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">60.5</td>
+<td class="org-center">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Sumitto</b></td>
+<td class="org-center">54.6</td>
+<td class="org-center">21.8</td>
+<td class="org-center">88.8</td>
+<td class="org-center">53.3</td>
+<td class="org-center">2</td>
+<td class="org-center">77.1</td>
+<td class="org-center">Pass</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left"><b>Dhammacārī</b></td>
+<td class="org-center">100.0</td>
+<td class="org-center">40.0</td>
+<td class="org-center">68.1</td>
+<td class="org-center">40.9</td>
+<td class="org-center">2</td>
+<td class="org-center">82.9</td>
+<td class="org-center">Pass</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Dhīrāloka</b></td>
+<td class="org-center">60.9</td>
+<td class="org-center">24.4</td>
+<td class="org-center">67.9</td>
+<td class="org-center">40.7</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">65.1</td>
+<td class="org-center">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Gambhīrapañño</b></td>
+<td class="org-center">51.8</td>
+<td class="org-center">20.7</td>
+<td class="org-center">64.9</td>
+<td class="org-center">38.9</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">59.6</td>
+<td class="org-center">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Kalyāṇadhammo</b></td>
+<td class="org-center">91.7</td>
+<td class="org-center">36.7</td>
+<td class="org-center">65.6</td>
+<td class="org-center">39.4</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">76.1</td>
+<td class="org-center">Pass</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Ñāṇadassana</b></td>
+<td class="org-center">78.2</td>
+<td class="org-center">31.3</td>
+<td class="org-center">55.2</td>
+<td class="org-center">33.1</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">64.4</td>
+<td class="org-center">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Paññāsekhara</b></td>
+<td class="org-center">36.5</td>
+<td class="org-center">14.6</td>
+<td class="org-center">13.0</td>
+<td class="org-center">7.8</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">22.4</td>
+<td class="org-center">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Parisuddho</b></td>
+<td class="org-center">57.1</td>
+<td class="org-center">22.8</td>
+<td class="org-center">60.1</td>
+<td class="org-center">36.1</td>
+<td class="org-center">1</td>
+<td class="org-center">59.9</td>
+<td class="org-center">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Puññāgamo</b></td>
+<td class="org-center">90.4</td>
+<td class="org-center">36.2</td>
+<td class="org-center">79.3</td>
+<td class="org-center">47.6</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">83.8</td>
+<td class="org-center">Pass</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Rakkhitasīla</b></td>
+<td class="org-center">87.8</td>
+<td class="org-center">35.1</td>
+<td class="org-center">61.6</td>
+<td class="org-center">37.0</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">72.1</td>
+<td class="org-center">Pass</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Saṅkicca</b></td>
+<td class="org-center">97.4</td>
+<td class="org-center">39.0</td>
+<td class="org-center">49.0</td>
+<td class="org-center">29.4</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">68.4</td>
+<td class="org-center">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Santavāco</b></td>
+<td class="org-center">96.2</td>
+<td class="org-center">38.5</td>
+<td class="org-center">84.8</td>
+<td class="org-center">50.9</td>
+<td class="org-center">2</td>
+<td class="org-center">91.4</td>
+<td class="org-center">Pass</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Sumana</b></td>
+<td class="org-center">41.0</td>
+<td class="org-center">16.4</td>
+<td class="org-center">79.7</td>
+<td class="org-center">47.8</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">64.2</td>
+<td class="org-center">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Suppabhāso</b></td>
+<td class="org-center">65.4</td>
+<td class="org-center">26.2</td>
+<td class="org-center">54.0</td>
+<td class="org-center">32.4</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">58.6</td>
+<td class="org-center">&#xa0;</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left"><b>Ñāṇacitta</b></td>
+<td class="org-center">87.5</td>
+<td class="org-center">35.0</td>
+<td class="org-center">n/a</td>
+<td class="org-center">n/a</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">n/a</td>
+<td class="org-center">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Pavara</b></td>
+<td class="org-center">81.2</td>
+<td class="org-center">32.5</td>
+<td class="org-center">n/a</td>
+<td class="org-center">n/a</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">n/a</td>
+<td class="org-center">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Ratanasara</b></td>
+<td class="org-center">41.7</td>
+<td class="org-center">16.7</td>
+<td class="org-center">n/a</td>
+<td class="org-center">n/a</td>
+<td class="org-center">&#xa0;</td>
+<td class="org-center">n/a</td>
+<td class="org-center">&#xa0;</td>
+</tr>
+</tbody>
+</table>
+
+-   **Notes**:
+    -   **Participation**: Attendance + Attitude.
+    -   **Academic Total**: Includes all tests.
+    -   **n/a**: Not applicable. The student is exempt from this test.
+    -   **Bonus** (+1-3%): Extra marks for perfect scores, work beyond requested, etc.
+        -   V. Sumitta:
+            -   Passed vocab test on 5.000 most common words.
+            -   Covered more content than expected.
+        -   V. Dhammacāri:
+            -   100% presence.
+            -   Always on time.
+        -   V. Parisuddho: 100% in Finals Vocabulary Meaning.
+        -   V. Saṅkicca: Always on time.
+        -   V. Santavaco:
+            -   100% presence.
+            -   High engagement with and interest in the content.
+    -   **Global Total**: Participation 40% + Academic Results 60% + Bonus
+    -   **Ideal Passing Grade**: 70% Global Total
+
