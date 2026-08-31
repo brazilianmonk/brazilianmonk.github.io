@@ -1,0 +1,1729 @@
+---
+layout: page
+title: English Grammar Question Bank
+permalink: /question-bank
+---
+
+<style>
+  *, *::before, *::after { box-sizing: border-box; }
+
+  .qb-wrap {
+    font-family: 'Segoe UI', system-ui, sans-serif;
+    max-width: 960px;
+    margin: 0 auto;
+  }
+
+  .qb-intro {
+    font-size: 0.95rem;
+    color: #555;
+    margin-bottom: 1.6rem;
+    line-height: 1.6;
+  }
+
+  /* Filter bar */
+  .filter-bar {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    margin-bottom: 1.2rem;
+    align-items: flex-end;
+  }
+
+  .filter-group {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    flex: 1 1 180px;
+  }
+
+  .filter-group label {
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    color: #AD6100;
+  }
+
+  .filter-group select,
+  .filter-group input {
+    padding: 0.45rem 0.65rem;
+    border: 1px solid #d8c9b5;
+    border-radius: 6px;
+    font-size: 0.88rem;
+    background: #fdf8f2;
+    color: #2d2010;
+    outline: none;
+    transition: border-color 0.2s;
+    width: 100%;
+  }
+
+  .filter-group select:focus,
+  .filter-group input:focus {
+    border-color: #AD6100;
+    background: #fff;
+  }
+
+  .btn-reset {
+    padding: 0.46rem 1rem;
+    background: transparent;
+    border: 1px solid #AD6100;
+    border-radius: 6px;
+    color: #AD6100;
+    font-size: 0.83rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.18s, color 0.18s;
+    align-self: flex-end;
+    white-space: nowrap;
+  }
+
+  .btn-reset:hover {
+    background: #AD6100;
+    color: #fff;
+  }
+
+  .result-count {
+    font-size: 0.8rem;
+    color: #888;
+    margin-bottom: 1rem;
+  }
+
+  /* Cards */
+  .q-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.9rem;
+  }
+
+  .q-card {
+    border: 1px solid #e8ddd0;
+    border-radius: 10px;
+    background: #fff;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+    padding: 0.95rem 1.1rem;
+  }
+
+  .q-card.hidden { display: none; }
+
+  .q-head {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.35rem;
+    margin-bottom: 0.55rem;
+  }
+
+  .level-badge {
+    display: inline-block;
+    padding: 0.18rem 0.55rem;
+    border-radius: 4px;
+    font-size: 0.73rem;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    color: #fff;
+    background: #AD6100;
+    white-space: nowrap;
+  }
+
+  .level-A2   { background: #2e7d32; }
+  .level-B1   { background: #1565c0; }
+  .level-B1p  { background: #6a1b9a; }
+  .level-B2   { background: #AD6100; }
+  .level-mixed{ background: #455a64; }
+
+  .tag {
+    display: inline-block;
+    padding: 0.16rem 0.5rem;
+    border-radius: 4px;
+    font-size: 0.72rem;
+    font-weight: 600;
+    background: #fff3e0;
+    color: #b35a00;
+    border: 1px solid #f5d9b0;
+    white-space: nowrap;
+  }
+
+  .src {
+    margin-left: auto;
+    font-size: 0.72rem;
+    color: #aaa;
+    font-style: italic;
+    white-space: nowrap;
+  }
+
+  .q-body {
+    font-size: 0.92rem;
+    line-height: 1.6;
+    color: #2d2010;
+    margin-bottom: 0.7rem;
+  }
+
+  .btn-reveal {
+    padding: 0.4rem 0.9rem;
+    background: #AD6100;
+    border: none;
+    border-radius: 6px;
+    color: #fff;
+    font-size: 0.8rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.18s;
+  }
+
+  .btn-reveal:hover { background: #8a4d00; }
+  .btn-reveal.active { background: #6d3500; }
+
+  .q-answer {
+    display: none;
+    margin-top: 0.75rem;
+    padding: 0.75rem 0.9rem;
+    background: #fdf5ec;
+    border-left: 3px solid #AD6100;
+    border-radius: 6px;
+    font-size: 0.88rem;
+    line-height: 1.55;
+    color: #3a2a10;
+  }
+
+  .q-answer.shown { display: block; }
+
+  .answer-label {
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #AD6100;
+    margin-bottom: 0.3rem;
+  }
+
+  #no-results {
+    display: none;
+    padding: 2rem;
+    text-align: center;
+    color: #aaa;
+    font-style: italic;
+  }
+
+  @media (max-width: 600px) {
+    .filter-bar { flex-direction: column; }
+    .src { margin-left: 0; }
+  }
+</style>
+
+<div class="qb-wrap">
+
+  <p class="qb-intro">
+    <b>English Grammar &amp; Vocabulary Question Bank</b> — compiled from A2 through B2 level test materials.<br>
+    Use the filters below to narrow questions by level or grammar topic, or search by keyword. Click "Show answer" to reveal the answer key for any question.<br>
+    <i>Note: answers are provided as a teacher-reviewed reference; a few open-ended or ambiguous items are marked as such.</i>
+  </p>
+
+  <div class="filter-bar">
+    <div class="filter-group">
+      <label for="f-level">Level</label>
+      <select id="f-level">
+        <option value="">All levels</option>
+        <option value="A2">A2</option><option value="B1">B1</option><option value="B1+">B1+</option><option value="B2">B2</option><option value="mixed">Mixed / By Topic</option>
+      </select>
+    </div>
+
+    <div class="filter-group">
+      <label for="f-tag">Grammar Topic</label>
+      <select id="f-tag">
+        <option value="">All topics</option>
+        <option value="wh-ever">-ever words</option><option value="ing-inf">-ing / Infinitive</option><option value="all-both">All/Both/Either/Neither</option><option value="other-others">Another/Other/Others</option><option value="any-no-none">Any/No/None</option><option value="articles">Articles</option><option value="aux">Auxiliary Verbs</option><option value="can-could">Can/Could/Be able to</option><option value="causative">Causative 'get'</option><option value="cleft">Cleft Sentences</option><option value="comparatives">Comparatives</option><option value="compound-adj">Compound Adjectives</option><option value="cond">Conditionals</option><option value="conjunctions">Conjunctions</option><option value="discourse">Discourse Markers</option><option value="do-make">Do vs Make</option><option value="ellipsis">Ellipsis (so/neither)</option><option value="future">Future Forms</option><option value="generic-pron">Generic Pronouns</option><option value="had-better">Had better / It's time</option><option value="likely">Likely/Unlikely</option><option value="like-as-if">Look like / As if</option><option value="modal-ded">Modals of Deduction</option><option value="needn't">Needn't</option><option value="neg-inversion">Negative Inversion</option><option value="participle">Participle Clauses</option><option value="passive-2obj">Passive (2 Objects)</option><option value="passive">Passive Voice</option><option value="past-tenses">Past Tenses</option><option value="phrasal-verbs">Phrasal Verbs</option><option value="prepositions">Prepositions</option><option value="pres-perfect">Present Perfect</option><option value="pres-tense">Present Simple/Continuous</option><option value="quant">Quantifiers</option><option value="question-form">Question Formation</option><option value="qtag">Question Tags</option><option value="reading">Reading Comprehension</option><option value="reflexive">Reflexive & Reciprocal Pronouns</option><option value="rel-clause">Relative Clauses</option><option value="reported">Reported Speech</option><option value="so-such">So / Such</option><option value="there-it">There is / It is</option><option value="used-to">Used to / Would</option><option value="vocab">Vocabulary</option><option value="would-rather">Would rather</option>
+      </select>
+    </div>
+
+    <div class="filter-group">
+      <label for="f-search">Search</label>
+      <input type="text" id="f-search" placeholder="Type to search…">
+    </div>
+
+    <button class="btn-reset" id="btn-reset">✕ Reset</button>
+  </div>
+
+  <div class="result-count" id="result-count"></div>
+
+  <div class="q-list" id="q-list">
+
+        <div class="q-card" data-level="A2" data-tags="question-form">
+          <div class="q-head">
+            <span class="level-badge level-A2">A2</span>
+            <span class="tag">Question Formation</span>
+            <span class="src">A2 Ex.1</span>
+          </div>
+          <div class="q-body">Ask a question for the underlined idea in each sentence (target given in brackets).<br>1. Yesterday she called me because she needed my help. <i>(target: reason)</i><br>2. She has breakfast at home twice a week. <i>(target: frequency)</i><br>3. This is the elder's bowl. <i>(target: owner)</i><br>4. The Buddha is instructing the monks. <i>(target: object)</i><br>5. Monks regularly talk about the Dhamma. <i>(target: object)</i></div>
+          <button class="btn-reveal" data-target="q0">Show answer</button>
+          <div class="q-answer" id="q0">
+            <div class="answer-label">Answer</div>
+            1. Why did she call you yesterday?<br>2. How often does she have breakfast at home?<br>3. Whose bowl is this?<br>4. Who is the Buddha instructing?<br>5. What do monks regularly talk about?<br><i>(Note: original sheet underlines the target word/phrase in the exam copy, so the exact wording may vary slightly.)</i>
+          </div>
+        </div>
+
+        <div class="q-card" data-level="A2" data-tags="pres-tense">
+          <div class="q-head">
+            <span class="level-badge level-A2">A2</span>
+            <span class="tag">Present Simple/Continuous</span>
+            <span class="src">A2 Ex.2</span>
+          </div>
+          <div class="q-body">Conjugate the verb in the correct form (Present Simple or Present Continuous).<br>1. What time ……… (she, work) on Fridays?<br>2. ……… (I, not, like) coffee. I prefer tea.<br>3. Can I sit here? Somebody ……… (sit) in my seat.<br>4. I usually walk to work, but this week I ……… (drive).<br>5. "What ……… (you, do)?" "I'm a dentist."</div>
+          <button class="btn-reveal" data-target="q1">Show answer</button>
+          <div class="q-answer" id="q1">
+            <div class="answer-label">Answer</div>
+            1. does she work<br>2. I don't like<br>3. is sitting<br>4. am driving<br>5. do you do
+          </div>
+        </div>
+
+        <div class="q-card" data-level="A2" data-tags="question-form pres-tense past-tenses">
+          <div class="q-head">
+            <span class="level-badge level-A2">A2</span>
+            <span class="tag">Question Formation</span><span class="tag">Present Simple/Continuous</span><span class="tag">Past Tenses</span>
+            <span class="src">A2 Ex.3</span>
+          </div>
+          <div class="q-body">Convert the sentence as instructed.<br>1. They were very friendly to us. (make it a question)<br>2. The organization is preparing a new project. (make it a question)<br>3. I am not vegetarian, but vegan. (make it past)<br>4. There was a problem with the water filtration system. (make it a question, present simple)<br>5. The builders brought many skilled workers. (make it negative, present continuous)</div>
+          <button class="btn-reveal" data-target="q2">Show answer</button>
+          <div class="q-answer" id="q2">
+            <div class="answer-label">Answer</div>
+            1. Were they very friendly to us?<br>2. Is the organization preparing a new project?<br>3. I was not vegetarian, but vegan.<br>4. Is there a problem with the water filtration system?<br>5. The builders aren't bringing many skilled workers.
+          </div>
+        </div>
+
+        <div class="q-card" data-level="A2" data-tags="past-tenses">
+          <div class="q-head">
+            <span class="level-badge level-A2">A2</span>
+            <span class="tag">Past Tenses</span>
+            <span class="src">A2 Ex.4</span>
+          </div>
+          <div class="q-body">Fill the gaps with Past Simple or Past Continuous.<br>Yesterday afternoon, I was walking to the temple when it ……… (start) to rain. I ……… (not have) an umbrella, so I ……… (run) to a small shop nearby. While I ……… (wait) for the rain to stop, I ……… (drink) a cup of tea and ……… (talk) to the shopkeeper. He ……… (tell) me a funny story about his dog when the rain finally ……… (stop). I then ……… (walk) home.</div>
+          <button class="btn-reveal" data-target="q3">Show answer</button>
+          <div class="q-answer" id="q3">
+            <div class="answer-label">Answer</div>
+            started; didn't have; ran; was waiting; drank; talked; told; stopped; walked
+          </div>
+        </div>
+
+        <div class="q-card" data-level="A2" data-tags="ing-inf">
+          <div class="q-head">
+            <span class="level-badge level-A2">A2</span>
+            <span class="tag">-ing / Infinitive</span>
+            <span class="src">A2 Ex.5</span>
+          </div>
+          <div class="q-body">Choose the WRONG answer.<br>1. Do you want to go to a coffee shop ……? a. for breakfast b. to have breakfast c. for having breakfast<br>2. This tool is …… cans easily. a. to open b. to opening c. for opening</div>
+          <button class="btn-reveal" data-target="q4">Show answer</button>
+          <div class="q-answer" id="q4">
+            <div class="answer-label">Answer</div>
+            1. c ("for having breakfast" is wrong — use "for breakfast" or "to have breakfast")<br>2. b ("to opening" is wrong — use "to open" or "for opening")
+          </div>
+        </div>
+
+        <div class="q-card" data-level="A2" data-tags="conjunctions">
+          <div class="q-head">
+            <span class="level-badge level-A2">A2</span>
+            <span class="tag">Conjunctions</span>
+            <span class="src">A2 Ex.6</span>
+          </div>
+          <div class="q-body">Choose the right answer.<br>1. We need to buy a new car. ……, we can't afford it right now. a. Although b. So c. However d. Though</div>
+          <button class="btn-reveal" data-target="q5">Show answer</button>
+          <div class="q-answer" id="q5">
+            <div class="answer-label">Answer</div>
+            c. However
+          </div>
+        </div>
+
+        <div class="q-card" data-level="A2" data-tags="conjunctions">
+          <div class="q-head">
+            <span class="level-badge level-A2">A2</span>
+            <span class="tag">Conjunctions</span>
+            <span class="src">A2 Ex.6</span>
+          </div>
+          <div class="q-body">Choose the right answer.<br>2. I usually read the newspaper …… I'm having breakfast. a. while b. after c. as soon as d. before</div>
+          <button class="btn-reveal" data-target="q6">Show answer</button>
+          <div class="q-answer" id="q6">
+            <div class="answer-label">Answer</div>
+            a. while
+          </div>
+        </div>
+
+        <div class="q-card" data-level="A2" data-tags="future">
+          <div class="q-head">
+            <span class="level-badge level-A2">A2</span>
+            <span class="tag">Future Forms</span>
+            <span class="src">A2 Ex.6</span>
+          </div>
+          <div class="q-body">Choose the right answer.<br>3. A: I don't think he ….. come tonight. B: But he says he ….. come. a. will / will b. is going to / will c. will / is going to d. is going to / is going to</div>
+          <button class="btn-reveal" data-target="q7">Show answer</button>
+          <div class="q-answer" id="q7">
+            <div class="answer-label">Answer</div>
+            a. will / will
+          </div>
+        </div>
+
+        <div class="q-card" data-level="A2" data-tags="future">
+          <div class="q-head">
+            <span class="level-badge level-A2">A2</span>
+            <span class="tag">Future Forms</span>
+            <span class="src">A2 Ex.6</span>
+          </div>
+          <div class="q-body">Choose the right answer.<br>4. A: Don't make so much noise. You ….. dad. B: OK. I ….. now. a. will wake up / will stop b. will wake up / am going to stop c. are going to wake up / will stop d. are going to wake up / am going to stop</div>
+          <button class="btn-reveal" data-target="q8">Show answer</button>
+          <div class="q-answer" id="q8">
+            <div class="answer-label">Answer</div>
+            c. are going to wake up / will stop
+          </div>
+        </div>
+
+        <div class="q-card" data-level="A2" data-tags="rel-clause">
+          <div class="q-head">
+            <span class="level-badge level-A2">A2</span>
+            <span class="tag">Relative Clauses</span>
+            <span class="src">A2 Ex.6</span>
+          </div>
+          <div class="q-body">Choose the right answer.<br>5. This is the computer …. I bought from my friend. a. which b. what c. who d. whose</div>
+          <button class="btn-reveal" data-target="q9">Show answer</button>
+          <div class="q-answer" id="q9">
+            <div class="answer-label">Answer</div>
+            a. which
+          </div>
+        </div>
+
+        <div class="q-card" data-level="A2" data-tags="rel-clause">
+          <div class="q-head">
+            <span class="level-badge level-A2">A2</span>
+            <span class="tag">Relative Clauses</span>
+            <span class="src">A2 Ex.6</span>
+          </div>
+          <div class="q-body">Choose the right answer.<br>6. We can eat at the restaurant ….. Joanne works. a. where b. which c. who d. what</div>
+          <button class="btn-reveal" data-target="q10">Show answer</button>
+          <div class="q-answer" id="q10">
+            <div class="answer-label">Answer</div>
+            a. where
+          </div>
+        </div>
+
+        <div class="q-card" data-level="A2" data-tags="pres-perfect">
+          <div class="q-head">
+            <span class="level-badge level-A2">A2</span>
+            <span class="tag">Present Perfect</span>
+            <span class="src">A2 Ex.6</span>
+          </div>
+          <div class="q-body">Choose the right answer.<br>7. I ….. Peter since I was 5 years old. a. knew b. 've known c. know d. have knew</div>
+          <button class="btn-reveal" data-target="q11">Show answer</button>
+          <div class="q-answer" id="q11">
+            <div class="answer-label">Answer</div>
+            b. 've known
+          </div>
+        </div>
+
+        <div class="q-card" data-level="A2" data-tags="pres-perfect">
+          <div class="q-head">
+            <span class="level-badge level-A2">A2</span>
+            <span class="tag">Present Perfect</span>
+            <span class="src">A2 Ex.6</span>
+          </div>
+          <div class="q-body">Choose the right answer.<br>8. I've been here …… a. since a week ago b. since a week c. for a week d. for a week ago</div>
+          <button class="btn-reveal" data-target="q12">Show answer</button>
+          <div class="q-answer" id="q12">
+            <div class="answer-label">Answer</div>
+            c. for a week
+          </div>
+        </div>
+
+        <div class="q-card" data-level="A2" data-tags="past-tenses">
+          <div class="q-head">
+            <span class="level-badge level-A2">A2</span>
+            <span class="tag">Past Tenses</span>
+            <span class="src">A2 Ex.6</span>
+          </div>
+          <div class="q-body">Choose the right answer.<br>9. We've known each other since we ….. children. a. have been b. were c. are d. be</div>
+          <button class="btn-reveal" data-target="q13">Show answer</button>
+          <div class="q-answer" id="q13">
+            <div class="answer-label">Answer</div>
+            b. were
+          </div>
+        </div>
+
+        <div class="q-card" data-level="A2" data-tags="pres-perfect">
+          <div class="q-head">
+            <span class="level-badge level-A2">A2</span>
+            <span class="tag">Present Perfect</span>
+            <span class="src">A2 Ex.6</span>
+          </div>
+          <div class="q-body">Choose the right answer.<br>10. He ….. in London for three years and now he lives in Dublin. a. 's lived b. lives c. lived d. is living</div>
+          <button class="btn-reveal" data-target="q14">Show answer</button>
+          <div class="q-answer" id="q14">
+            <div class="answer-label">Answer</div>
+            c. lived
+          </div>
+        </div>
+
+        <div class="q-card" data-level="A2" data-tags="question-form">
+          <div class="q-head">
+            <span class="level-badge level-A2">A2</span>
+            <span class="tag">Question Formation</span>
+            <span class="src">A2 Ex.6</span>
+          </div>
+          <div class="q-body">Choose the right answer.<br>11. ….. the door when you left? a. Did you lock b. Do you lock c. Have you locked d. Did you locked</div>
+          <button class="btn-reveal" data-target="q15">Show answer</button>
+          <div class="q-answer" id="q15">
+            <div class="answer-label">Answer</div>
+            a. Did you lock
+          </div>
+        </div>
+
+        <div class="q-card" data-level="A2" data-tags="pres-perfect">
+          <div class="q-head">
+            <span class="level-badge level-A2">A2</span>
+            <span class="tag">Present Perfect</span>
+            <span class="src">A2 Ex.6</span>
+          </div>
+          <div class="q-body">Choose the right answer.<br>12. A: '….. breakfast yet?' B: 'Yes, I ….. breakfast at 7:30.' a. Have you had / had b. Have you had / 've had c. Did you have / had d. Did you have / 've had</div>
+          <button class="btn-reveal" data-target="q16">Show answer</button>
+          <div class="q-answer" id="q16">
+            <div class="answer-label">Answer</div>
+            c. Did you have / had
+          </div>
+        </div>
+
+        <div class="q-card" data-level="A2" data-tags="any-no-none">
+          <div class="q-head">
+            <span class="level-badge level-A2">A2</span>
+            <span class="tag">Any/No/None</span>
+            <span class="src">A2 Ex.6</span>
+          </div>
+          <div class="q-body">Choose the right answer.<br>13. Have you talked to ….. about your problem? a. somebody b. anybody c. nobody d. someone</div>
+          <button class="btn-reveal" data-target="q17">Show answer</button>
+          <div class="q-answer" id="q17">
+            <div class="answer-label">Answer</div>
+            b. anybody
+          </div>
+        </div>
+
+        <div class="q-card" data-level="A2" data-tags="any-no-none">
+          <div class="q-head">
+            <span class="level-badge level-A2">A2</span>
+            <span class="tag">Any/No/None</span>
+            <span class="src">A2 Ex.6</span>
+          </div>
+          <div class="q-body">Choose the right answer.<br>14. Would you like ….. to eat? a. anything b. something c. nothing d. everything</div>
+          <button class="btn-reveal" data-target="q18">Show answer</button>
+          <div class="q-answer" id="q18">
+            <div class="answer-label">Answer</div>
+            b. something
+          </div>
+        </div>
+
+        <div class="q-card" data-level="A2" data-tags="comparatives">
+          <div class="q-head">
+            <span class="level-badge level-A2">A2</span>
+            <span class="tag">Comparatives</span>
+            <span class="src">A2 Ex.6</span>
+          </div>
+          <div class="q-body">Choose the right answer.<br>15. We work ….. now with the new manager. a. happy b. most happily c. more happily d. happilier</div>
+          <button class="btn-reveal" data-target="q19">Show answer</button>
+          <div class="q-answer" id="q19">
+            <div class="answer-label">Answer</div>
+            c. more happily
+          </div>
+        </div>
+
+        <div class="q-card" data-level="A2" data-tags="comparatives">
+          <div class="q-head">
+            <span class="level-badge level-A2">A2</span>
+            <span class="tag">Comparatives</span>
+            <span class="src">A2 Ex.6</span>
+          </div>
+          <div class="q-body">Choose the right answer.<br>16. It's ….. experience we …… a. bad / ever had b. the baddest / 've ever had c. the worst / 've had ever d. the worst / 've ever had</div>
+          <button class="btn-reveal" data-target="q20">Show answer</button>
+          <div class="q-answer" id="q20">
+            <div class="answer-label">Answer</div>
+            d. the worst / 've ever had
+          </div>
+        </div>
+
+        <div class="q-card" data-level="A2" data-tags="comparatives">
+          <div class="q-head">
+            <span class="level-badge level-A2">A2</span>
+            <span class="tag">Comparatives</span>
+            <span class="src">A2 Ex.6</span>
+          </div>
+          <div class="q-body">Choose the right answer.<br>17. She eats better …… (choose 2 correct answers) a. than me b. than I do c. than me do d. than I</div>
+          <button class="btn-reveal" data-target="q21">Show answer</button>
+          <div class="q-answer" id="q21">
+            <div class="answer-label">Answer</div>
+            b. than I do; d. than I
+          </div>
+        </div>
+
+        <div class="q-card" data-level="A2" data-tags="comparatives">
+          <div class="q-head">
+            <span class="level-badge level-A2">A2</span>
+            <span class="tag">Comparatives</span>
+            <span class="src">A2 Ex.6</span>
+          </div>
+          <div class="q-body">Choose the right answer.<br>18. My parents got angry because my marks weren't …… a. too much good b. enough good c. good enough d. not enough good</div>
+          <button class="btn-reveal" data-target="q22">Show answer</button>
+          <div class="q-answer" id="q22">
+            <div class="answer-label">Answer</div>
+            c. good enough
+          </div>
+        </div>
+
+        <div class="q-card" data-level="A2" data-tags="comparatives">
+          <div class="q-head">
+            <span class="level-badge level-A2">A2</span>
+            <span class="tag">Comparatives</span>
+            <span class="src">A2 Ex.6</span>
+          </div>
+          <div class="q-body">Choose the right answer.<br>19. This house is …..; we need a bigger one. a. small enough b. enough small c. too much small d. too small</div>
+          <button class="btn-reveal" data-target="q23">Show answer</button>
+          <div class="q-answer" id="q23">
+            <div class="answer-label">Answer</div>
+            d. too small
+          </div>
+        </div>
+
+        <div class="q-card" data-level="A2" data-tags="quant">
+          <div class="q-head">
+            <span class="level-badge level-A2">A2</span>
+            <span class="tag">Quantifiers</span>
+            <span class="src">A2 Ex.6</span>
+          </div>
+          <div class="q-body">Choose the right answer.<br>20. Have you got any coins for the vending machine? Yes, I have ……… a. a few b. a little c. few d. little</div>
+          <button class="btn-reveal" data-target="q24">Show answer</button>
+          <div class="q-answer" id="q24">
+            <div class="answer-label">Answer</div>
+            a. a few
+          </div>
+        </div>
+
+        <div class="q-card" data-level="A2" data-tags="quant">
+          <div class="q-head">
+            <span class="level-badge level-A2">A2</span>
+            <span class="tag">Quantifiers</span>
+            <span class="src">A2 Ex.6</span>
+          </div>
+          <div class="q-body">Choose the right answer.<br>21. We need to go to the greengrocer's. There are ….. potatoes left. a. a few b. a little c. few d. little</div>
+          <button class="btn-reveal" data-target="q25">Show answer</button>
+          <div class="q-answer" id="q25">
+            <div class="answer-label">Answer</div>
+            c. few
+          </div>
+        </div>
+
+        <div class="q-card" data-level="A2" data-tags="quant">
+          <div class="q-head">
+            <span class="level-badge level-A2">A2</span>
+            <span class="tag">Quantifiers</span>
+            <span class="src">A2 Ex.6</span>
+          </div>
+          <div class="q-body">Choose the right answer.<br>22. Do you know ….. good restaurants in the centre? (choose 2 correct answers) a. some b. any c. few d. a few</div>
+          <button class="btn-reveal" data-target="q26">Show answer</button>
+          <div class="q-answer" id="q26">
+            <div class="answer-label">Answer</div>
+            b. any; d. a few
+          </div>
+        </div>
+
+        <div class="q-card" data-level="A2" data-tags="quant">
+          <div class="q-head">
+            <span class="level-badge level-A2">A2</span>
+            <span class="tag">Quantifiers</span>
+            <span class="src">A2 Ex.6</span>
+          </div>
+          <div class="q-body">Choose the right answer.<br>23. Would you like ….. coffee, sir? (choose 2 correct answers) a. - b. any c. much d. some</div>
+          <button class="btn-reveal" data-target="q27">Show answer</button>
+          <div class="q-answer" id="q27">
+            <div class="answer-label">Answer</div>
+            a. -; d. some
+          </div>
+        </div>
+
+        <div class="q-card" data-level="A2" data-tags="quant">
+          <div class="q-head">
+            <span class="level-badge level-A2">A2</span>
+            <span class="tag">Quantifiers</span>
+            <span class="src">A2 Ex.6</span>
+          </div>
+          <div class="q-body">Choose the right answer.<br>24. ….. the people in the audience were wearing masks. a. The most of b. Almost c. Most of d. Most</div>
+          <button class="btn-reveal" data-target="q28">Show answer</button>
+          <div class="q-answer" id="q28">
+            <div class="answer-label">Answer</div>
+            c. Most of
+          </div>
+        </div>
+
+        <div class="q-card" data-level="A2" data-tags="quant">
+          <div class="q-head">
+            <span class="level-badge level-A2">A2</span>
+            <span class="tag">Quantifiers</span>
+            <span class="src">A2 Ex.6</span>
+          </div>
+          <div class="q-body">Choose the right answer.<br>25. France, Spain and Italy are ….. popular tourist destinations in Europe. a. the most b. most of c. almost d. most</div>
+          <button class="btn-reveal" data-target="q29">Show answer</button>
+          <div class="q-answer" id="q29">
+            <div class="answer-label">Answer</div>
+            a. the most
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B1" data-tags="phrasal-verbs">
+          <div class="q-head">
+            <span class="level-badge level-B1">B1</span>
+            <span class="tag">Phrasal Verbs</span>
+            <span class="src">B1 Phrasal Verbs</span>
+          </div>
+          <div class="q-body">Find the WRONG sentence.<br>1. a. I'd like to go out. b. Put on your shoes. c. He took his belt off. d. He put on it.<br>2. a. They are looking forward for their graduation. b. Please, hurry up! c. He stood up and walked away. d. She threw it away.<br>3. a. After the duties, I always tidy up my room. b. Son, please help me put away your toys. c. I got you a new dress. Please try on it. d. The police has just handed out some forms for us to fill in.</div>
+          <button class="btn-reveal" data-target="q30">Show answer</button>
+          <div class="q-answer" id="q30">
+            <div class="answer-label">Answer</div>
+            1. d (a pronoun must go between the verb and particle: "He put it on.")<br>2. a ("look forward to", not "look forward for": "They are looking forward to their graduation.")<br>3. c (a pronoun must go between verb and particle: "Please try it on.")
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B1" data-tags="phrasal-verbs">
+          <div class="q-head">
+            <span class="level-badge level-B1">B1</span>
+            <span class="tag">Phrasal Verbs</span>
+            <span class="src">B1 Phrasal Verbs</span>
+          </div>
+          <div class="q-body">Fill in the gaps with a suitable phrasal verb: fill in, fill up, get along, take up, get back, give way, set off, turn down.<br>a. In this junction, we should ……… to the cars coming from the right.<br>b. Make sure to ……… the tank before leaving.<br>c. The fellowship gets together and ……… for Mount Doom.<br>d. Students, please don't forget to ……… the form before leaving.<br>e. My cats don't ……… very well.<br>f. I'm trying to focus here. Could you ……… the music?<br>g. We need to finish this task before we can ……… home.<br>h. I was feeling very stiff, so I ……… yoga.</div>
+          <button class="btn-reveal" data-target="q31">Show answer</button>
+          <div class="q-answer" id="q31">
+            <div class="answer-label">Answer</div>
+            a. give way<br>b. fill up<br>c. set off<br>d. fill in<br>e. get along<br>f. turn down<br>g. get back<br>h. took up
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B1" data-tags="phrasal-verbs">
+          <div class="q-head">
+            <span class="level-badge level-B1">B1</span>
+            <span class="tag">Phrasal Verbs</span>
+            <span class="src">B1 Phrasal Verbs</span>
+          </div>
+          <div class="q-body">Make a sentence for each phrasal verb: call off, try on, get on with, take off, call for, cross out, get along, put through, wear out.</div>
+          <button class="btn-reveal" data-target="q32">Show answer</button>
+          <div class="q-answer" id="q32">
+            <div class="answer-label">Answer</div>
+            Open task — sample sentences:<br>call off (cancel): They called off the meeting due to rain.<br>try on (test clothing): Can I try on this jacket?<br>get on with (have a good relationship / continue): She gets on well with her colleagues.<br>take off (remove clothing / plane leaves): The plane took off on time.<br>call for (require / demand): This situation calls for immediate action.<br>cross out (delete by drawing a line): Cross out the wrong answer.<br>get along (have a good relationship): My brother and I get along fine.<br>put through (connect a call): Please put me through to the manager.<br>wear out (become unusable from use / exhaust): These shoes wore out quickly.
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B1" data-tags="phrasal-verbs">
+          <div class="q-head">
+            <span class="level-badge level-B1">B1</span>
+            <span class="tag">Phrasal Verbs</span>
+            <span class="src">B1 Phrasal Verbs matching</span>
+          </div>
+          <div class="q-body">Match the phrasal verb to its meaning: be over, break down, call for, carry out, deal with, end up, get along, get off, put out, give in, get on, go for, go off, hang out, hang up, hold up, put off, set out, take off, wear out.</div>
+          <button class="btn-reveal" data-target="q33">Show answer</button>
+          <div class="q-answer" id="q33">
+            <div class="answer-label">Answer</div>
+            be over = be finished · break down = stop working · call for = do/complete something according to plan · carry out = do/complete something according to plan · deal with = give attention to solve a problem · end up = be in a situation after some events · get along = like and be friendly with sb · get off = descend from a bus/plane etc. · put out = extinguish a fire · give in = surrender, abandon a fight · get on = spend time somewhere/with sb; be in a situation · go for = try to have or achieve sth · go off = explode · hang out = spend time somewhere or with sb · hang up = end a phone call · hold up = make sb be late · put off = postpone · set out = start an activity with a goal · take off = remove clothes / start flying · wear out = use sth until it can't be used
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B1" data-tags="pres-perfect">
+          <div class="q-head">
+            <span class="level-badge level-B1">B1</span>
+            <span class="tag">Present Perfect</span>
+            <span class="src">B1 Grammar Q1</span>
+          </div>
+          <div class="q-body">Fill in the gaps with the Present Perfect Simple or Continuous.<br>a. (Your brother comes out of the garage with smeared hands and face) You ask: "……… (try) to fix the engine?"<br>b. I ……… (expect) you to arrive for hours!<br>c. Who ……… (eat) my cookies? (there are no cookies left)<br>d. Who ……… (eat) my cookies? (there are some cookies left)<br>e. I ……… (watch) the series you recommended. I'll tell you about it when I finish.<br>f. I ……… (watch) the series you recommended. I watched the last episode yesterday.<br>g. I ……… (compose) twenty emails today.<br>h. I ……… (write) emails for hours. (I'm still writing them)</div>
+          <button class="btn-reveal" data-target="q34">Show answer</button>
+          <div class="q-answer" id="q34">
+            <div class="answer-label">Answer</div>
+            a. Have you been trying<br>b. have been expecting<br>c. has eaten<br>d. has been eating<br>e. have been watching<br>f. have watched<br>g. have composed<br>h. have been writing
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B1" data-tags="comparatives">
+          <div class="q-head">
+            <span class="level-badge level-B1">B1</span>
+            <span class="tag">Comparatives</span>
+            <span class="src">B1 Grammar Q2</span>
+          </div>
+          <div class="q-body">Compare the data using the structures given.<br>Table — Peter: age 17, height 172, grade 86 | Bruna: age 19, height 166, grade 91 | Michael: age 22, height 180, grade 79.<br>a. Structure: (not) as + adj. + as<br>b. Structure: any + comparative adj.<br>c. Structure: no + comparative adj.<br>d. Structure: comparative adj. + than + subject pronoun + auxiliary verb</div>
+          <button class="btn-reveal" data-target="q35">Show answer</button>
+          <div class="q-answer" id="q35">
+            <div class="answer-label">Answer</div>
+            Sample answers (many valid combinations possible):<br>a. Peter is not as tall as Michael. / Michael's grade is not as good as Bruna's.<br>b. Is Michael any taller than Peter? / Bruna's grade isn't any better than Peter's (in a negative context).<br>c. Michael is no taller than Peter (only slightly). / Bruna's grade is no better than expected.<br>d. Michael is taller than Peter is. / Bruna is older than he is.
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B1" data-tags="articles">
+          <div class="q-head">
+            <span class="level-badge level-B1">B1</span>
+            <span class="tag">Articles</span>
+            <span class="src">B1 Grammar Q3</span>
+          </div>
+          <div class="q-body">Fill in the gaps with a / an / the / – (zero article).<br>a. Open your books on ……. page 316.<br>b. Can I have ……. orange? (one of many)<br>c. My dad is ……. commercial pilot.<br>d. The subscription is 30 Euros ……. month.<br>e. Suddenly, ……. pack of wolves emerged from the woods and surrounded him. (first mention)<br>f. Then, he held a firebrand and ……. pack fled howling. (second mention)<br>g. Some of Bhante's lessons are on ……. YouTube.<br>h. I gotta go to ……. library. (common place in town)</div>
+          <button class="btn-reveal" data-target="q36">Show answer</button>
+          <div class="q-answer" id="q36">
+            <div class="answer-label">Answer</div>
+            a. – (page 316)<br>b. an orange<br>c. a commercial pilot<br>d. a month<br>e. a pack of wolves<br>f. the pack<br>g. – YouTube<br>h. the library
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B1" data-tags="other-others">
+          <div class="q-head">
+            <span class="level-badge level-B1">B1</span>
+            <span class="tag">Another/Other/Others</span>
+            <span class="src">B1 Grammar Q4</span>
+          </div>
+          <div class="q-body">Fill in the gaps with: another / (the) other / (the) others.<br>a. Can I have ……… cup, please?<br>b. This is fresh but ……… is spoiled.<br>c. ……… commentators have a different opinion.<br>d. We have arrived, but where are ………?</div>
+          <button class="btn-reveal" data-target="q37">Show answer</button>
+          <div class="q-answer" id="q37">
+            <div class="answer-label">Answer</div>
+            a. another<br>b. the other<br>c. Other<br>d. the others
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B1" data-tags="can-could">
+          <div class="q-head">
+            <span class="level-badge level-B1">B1</span>
+            <span class="tag">Can/Could/Be able to</span>
+            <span class="src">B1 Grammar Q5</span>
+          </div>
+          <div class="q-body">Fill in the gaps with the right form of can / could / be able to / managed to.<br>a. Percy won't ……… be here on time.<br>b. Those elders ……… speak 5 languages.<br>c. ……… I close the windows?<br>d. Last night, I ……… hear a sound coming from the ceiling.<br>e. There was a fire on the building, but I ……… escape safe and sound.<br>f. She's been sick for quite some time, so she hasn't ……… study.<br>g. Unfortunately, my parents ……… survive the crash.</div>
+          <button class="btn-reveal" data-target="q38">Show answer</button>
+          <div class="q-answer" id="q38">
+            <div class="answer-label">Answer</div>
+            a. be able to<br>b. can<br>c. Can / Could<br>d. could<br>e. managed to<br>f. been able to<br>g. couldn't (weren't able to)
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B1" data-tags="reflexive">
+          <div class="q-head">
+            <span class="level-badge level-B1">B1</span>
+            <span class="tag">Reflexive & Reciprocal Pronouns</span>
+            <span class="src">B1 Grammar Q6</span>
+          </div>
+          <div class="q-body">Fill in the gaps with reflexive pronouns, on my/your own, reciprocal pronouns (each other, one another), or nothing (–).<br>a. I like staying ………<br>b. Tom accidentally cut ………<br>c. Good friends protect ………<br>d. Every Sunday, I shave and dress ………<br>e. Please, sit and relax ………<br>f. To avoid conflicts, both of them must try to understand ………<br>g. She raised her children and wrote several books by ………<br>h. Ms. Brown ……… called the office.</div>
+          <button class="btn-reveal" data-target="q39">Show answer</button>
+          <div class="q-answer" id="q39">
+            <div class="answer-label">Answer</div>
+            a. on my own<br>b. himself<br>c. each other / one another<br>d. – (myself is optional/natural: "dress" alone is common)<br>e. – <br>f. each other<br>g. herself (on her own)<br>h. herself (for emphasis)
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B1" data-tags="past-tenses">
+          <div class="q-head">
+            <span class="level-badge level-B1">B1</span>
+            <span class="tag">Past Tenses</span>
+            <span class="src">B1 Grammar Q7</span>
+          </div>
+          <div class="q-body">Fill in the gaps with Past Simple, Past Continuous, or Past Perfect.<br>a. By the time Richard finished his test, all other students ……… (already hand in) theirs.<br>b. The king ……… (have) two sons.<br>c. The family ran quickly to inform the police but when the police reached the crime scene, the criminals ……… (escape).<br>d. On their second year, Harry and Ron ……… (miss) the train to school.<br>e. When I met him, he ……… (be) ordained for 25 years.<br>f. When I came into the room, the students ……… all ……… (sleep).</div>
+          <button class="btn-reveal" data-target="q40">Show answer</button>
+          <div class="q-answer" id="q40">
+            <div class="answer-label">Answer</div>
+            a. had already handed in<br>b. had<br>c. had escaped<br>d. missed<br>e. had been<br>f. were all sleeping
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B1" data-tags="passive">
+          <div class="q-head">
+            <span class="level-badge level-B1">B1</span>
+            <span class="tag">Passive Voice</span>
+            <span class="src">B1 Grammar Q8</span>
+          </div>
+          <div class="q-body">Transform into the passive voice (you can remove the agent).<br>a. They take the photos.<br>b. Suddhumali is eating some meat.<br>c. They have taken the hobbits to Isengard.<br>d. I did it.<br>e. Men were fighting the invaders.<br>f. The criminals had taken the crown jewel.<br>g. I will bake the bowl.<br>h. We are going to complete the task.<br>i. I saw them taking him away.</div>
+          <button class="btn-reveal" data-target="q41">Show answer</button>
+          <div class="q-answer" id="q41">
+            <div class="answer-label">Answer</div>
+            a. The photos are taken.<br>b. Some meat is being eaten.<br>c. The hobbits have been taken to Isengard.<br>d. It was done (by me).<br>e. The invaders were being fought.<br>f. The crown jewel had been taken.<br>g. The bowl will be baked.<br>h. The task is going to be completed.<br>i. I saw him being taken away.
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B1" data-tags="cond">
+          <div class="q-head">
+            <span class="level-badge level-B1">B1</span>
+            <span class="tag">Conditionals</span>
+            <span class="src">B1 Grammar Q9</span>
+          </div>
+          <div class="q-body">Fill in the gaps using the 1st, 2nd, or 3rd conditional, or a Future Time Clause.<br>a. If he ……… (wear) a helmet, he might not have died.<br>b. If you had practiced meditation diligently, you ……… (attain) Nibbāna by now.<br>c. They might not have met if she ……… (not be) at the station at the same time as him.<br>d. We wouldn't have arrived on time unless we ……… (take) a taxi.<br>e. If your test is finished, you ……… (go).<br>f. If the weather is good tomorrow, we ……… (have) a picnic.<br>g. When I'm 60 years old, I ……… (be) 35 vassa.<br>h. He will only rest the day he ……… (retire).<br>i. I would travel the world and do charity if I ……… (make) more money.<br>j. If I ……… (be) you, I would apologize to your friend.</div>
+          <button class="btn-reveal" data-target="q42">Show answer</button>
+          <div class="q-answer" id="q42">
+            <div class="answer-label">Answer</div>
+            a. had worn<br>b. would have attained<br>c. hadn't been<br>d. had taken<br>e. can go<br>f. will have<br>g. will be<br>h. retires<br>i. made<br>j. were
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B1" data-tags="reported">
+          <div class="q-head">
+            <span class="level-badge level-B1">B1</span>
+            <span class="tag">Reported Speech</span>
+            <span class="src">B1 Grammar Q10</span>
+          </div>
+          <div class="q-body">Use Reported Speech to fill the gaps.<br>a. He: "I am here." → He said (that) ………<br>b. She: "They are working today." → She said (that) ………<br>c. John: "I took the book last night." → John said (that) ………<br>d. I: "I've never been to Laos." → I said (that) ………<br>e. Bob: "I'll help you tomorrow." → Bob said (that) ………<br>f. King: "He must go now." → The king said (that) ………<br>g. Mom: "I can stay." → Mom said (that) ………<br>h. Dad: "I may leave next week." → (1 month later) Dad said (that) ………<br>i. Teacher: "Have you finished?" → The teacher asked ………<br>j. Robber: "Give me your bowl!" → The robber ordered ………</div>
+          <button class="btn-reveal" data-target="q43">Show answer</button>
+          <div class="q-answer" id="q43">
+            <div class="answer-label">Answer</div>
+            a. he was there<br>b. they were working that day<br>c. he had taken the book the night before<br>d. I had never been to Laos<br>e. he would help me the next day<br>f. he had to go then<br>g. she could stay<br>h. he might leave the following week<br>i. whether/if I had finished<br>j. me to give him my bowl
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B1" data-tags="all-both">
+          <div class="q-head">
+            <span class="level-badge level-B1">B1</span>
+            <span class="tag">All/Both/Either/Neither</span>
+            <span class="src">B1 Grammar Q11</span>
+          </div>
+          <div class="q-body">Fill in the gaps with all / both / either / neither.<br>a. Student A and B got the same grade, so ……… students got the same grade.<br>b. ……… living beings suffer in saṁsāra.<br>c. He asked us ……… to stay.<br>d. They ……… went to the event.<br>e. ……… Romeo and Juliet were seen at the park.<br>f. ……… A or B is the answer.<br>g. ……… of the computers is a good purchase.<br>h. ……… A nor B is correct.<br>i. I like ……… of them. (I don't like them)<br>j. One ring to rule them ………, One ring to find them, One ring to bring them ………, And in the darkness bind them.</div>
+          <button class="btn-reveal" data-target="q44">Show answer</button>
+          <div class="q-answer" id="q44">
+            <div class="answer-label">Answer</div>
+            a. both<br>b. All<br>c. both<br>d. both<br>e. Both<br>f. Either<br>g. Either<br>h. Neither<br>i. neither<br>j. all; all
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B1" data-tags="any-no-none">
+          <div class="q-head">
+            <span class="level-badge level-B1">B1</span>
+            <span class="tag">Any/No/None</span>
+            <span class="src">B1 Grammar Q12</span>
+          </div>
+          <div class="q-body">Fill in the gaps with any/anything/anybody/etc., no/nothing/nobody/etc., or none.<br>a. ……… student here would be able to answer this question.<br>b. We didn't go ………<br>c. We went ………<br>d. I have ……… to help me.<br>e. ……… of them is from Sri Lanka.<br>f. "How much money have you got left?" "………"</div>
+          <button class="btn-reveal" data-target="q45">Show answer</button>
+          <div class="q-answer" id="q45">
+            <div class="answer-label">Answer</div>
+            a. No<br>b. anywhere<br>c. nowhere<br>d. nobody / no one<br>e. None<br>f. None
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B1" data-tags="so-such">
+          <div class="q-head">
+            <span class="level-badge level-B1">B1</span>
+            <span class="tag">So / Such</span>
+            <span class="src">B1 Grammar Q13</span>
+          </div>
+          <div class="q-body">Fill in the gaps with so / so much / so many / such / such a.<br>a. I see ……… bubbles on the bathtub.<br>b. Everything is ……… expensive nowadays.<br>c. The first runner is ……… ahead of the others.<br>d. Abhidhamma is ……… fascinating subject to study.<br>e. We had ……… terrible weather during the event!<br>f. The boys heard ……… nice songs that they decided to join the party.<br>g. You are ……… child!<br>h. There were ……… fans waiting for him at the lobby.</div>
+          <button class="btn-reveal" data-target="q46">Show answer</button>
+          <div class="q-answer" id="q46">
+            <div class="answer-label">Answer</div>
+            a. so many<br>b. so<br>c. so far<br>d. such a<br>e. such<br>f. so many<br>g. such a<br>h. so many
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B1" data-tags="rel-clause">
+          <div class="q-head">
+            <span class="level-badge level-B1">B1</span>
+            <span class="tag">Relative Clauses</span>
+            <span class="src">B1 Grammar Q14</span>
+          </div>
+          <div class="q-body">Explain the difference in meaning: (a) The Buddha, who attained arahatship, taught the Dhamma. (b) The Buddha who attained arahatship taught the Dhamma.</div>
+          <button class="btn-reveal" data-target="q47">Show answer</button>
+          <div class="q-answer" id="q47">
+            <div class="answer-label">Answer</div>
+            (a) is a non-defining (non-restrictive) relative clause, set off by commas — it gives extra information about the Buddha, who is already uniquely identified; attaining arahatship is not needed to identify him.<br>(b) is a defining (restrictive) relative clause, with no commas — it implies there could be more than one "Buddha" being discussed, and specifies that it is the one who attained arahatship who taught (distinguishing him from others).
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B1" data-tags="rel-clause">
+          <div class="q-head">
+            <span class="level-badge level-B1">B1</span>
+            <span class="tag">Relative Clauses</span>
+            <span class="src">B1 Grammar Q15</span>
+          </div>
+          <div class="q-body">Merge into one sentence using relative clauses: A generous donor lives in the countryside. The countryside has many green hills and wild animals. Some of the wild animals come to the donor daily to receive food. The donor spends much time reading books.</div>
+          <button class="btn-reveal" data-target="q48">Show answer</button>
+          <div class="q-answer" id="q48">
+            <div class="answer-label">Answer</div>
+            A generous donor, who spends much time reading books, lives in the countryside, which has many green hills and wild animals, some of which come to him daily to receive food.
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B1" data-tags="prepositions">
+          <div class="q-head">
+            <span class="level-badge level-B1">B1</span>
+            <span class="tag">Prepositions</span>
+            <span class="src">B1 Grammar Q16</span>
+          </div>
+          <div class="q-body">Fill in the gap with a suitable preposition.<br>a. This car belongs ……… Mr. Cervo.<br>b. I look forward ……… meeting you.<br>c. He said ……… me that he would arrive a little late.<br>d. Do you talk ……… your family regularly?<br>e. Jessy is looking ……… her passport.<br>f. The bully is laughing ……… the young kid.<br>g. The trainer shouted ……… the boys to run faster.<br>h. You must be diligent to succeed ……… life.<br>i. I insist ……… paying tonight.<br>j. Children compare ……… each other too often.<br>k. The boy dreams ……… becoming an astronaut.<br>l. "Son, don't be rude ……… strangers."<br>m. "I am sorry ……… any inconvenience."<br>n. My cousin is keen ……… sailing.<br>o. Kids are fond ……… pets.<br>p. I'm fed up ……… this corrupt government.</div>
+          <button class="btn-reveal" data-target="q49">Show answer</button>
+          <div class="q-answer" id="q49">
+            <div class="answer-label">Answer</div>
+            a. to<br>b. to<br>c. to<br>d. to<br>e. for<br>f. at<br>g. at<br>h. in<br>i. on<br>j. with<br>k. of<br>l. to<br>m. for<br>n. on<br>o. of<br>p. with
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B1" data-tags="had-better">
+          <div class="q-head">
+            <span class="level-badge level-B1">B1</span>
+            <span class="tag">Had better / It's time</span>
+            <span class="src">B1 Grammar Q17</span>
+          </div>
+          <div class="q-body">Fill in the gaps with "had better (not)" or "it's (about) time" plus the right verb form.<br>a. ……… you ……… (clean) your bedroom, you naughty girl!<br>b. It's getting dark. We ……… (go) home.<br>c. Bruno, you ……… (not misbehave) during dinner, alright?<br>d. ……… someone ……… (do) something about this problem.<br>e. Your payment is overdue. ……… you ……… (pay) it.</div>
+          <button class="btn-reveal" data-target="q50">Show answer</button>
+          <div class="q-answer" id="q50">
+            <div class="answer-label">Answer</div>
+            a. It's (about) time you cleaned<br>b. had better go<br>c. had better not misbehave<br>d. It's (about) time someone did<br>e. You'd better pay
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B1" data-tags="compound-adj">
+          <div class="q-head">
+            <span class="level-badge level-B1">B1</span>
+            <span class="tag">Compound Adjectives</span>
+            <span class="src">B1 Grammar Q18</span>
+          </div>
+          <div class="q-body">Make compound adjectives.<br>a. Monks did a walk that lasted 30 days. → a ……… walk.<br>b. The boys dreamed of a monster with 3 legs. → a ……… monster.<br>c. A dog with three heads guarded the philosopher's stone. → a ……… dog.<br>d. The cyclops is a giant with one eye. → a ……… giant.<br>e. I have a young brother who is 5 years old. → a ……… brother.</div>
+          <button class="btn-reveal" data-target="q51">Show answer</button>
+          <div class="q-answer" id="q51">
+            <div class="answer-label">Answer</div>
+            a. 30-day walk<br>b. three-legged monster<br>c. three-headed dog<br>d. one-eyed giant<br>e. five-year-old brother
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B1" data-tags="phrasal-verbs">
+          <div class="q-head">
+            <span class="level-badge level-B1">B1</span>
+            <span class="tag">Phrasal Verbs</span>
+            <span class="src">B1 Grammar Q19</span>
+          </div>
+          <div class="q-body">Match the phrasal verb to its meaning (set 2): be over, break down, call for, carry out, deal with, end up, get along, get off, put out, give in.</div>
+          <button class="btn-reveal" data-target="q52">Show answer</button>
+          <div class="q-answer" id="q52">
+            <div class="answer-label">Answer</div>
+            be over = be finished · break down = stop working (machine) · call for = require/demand · carry out = do or complete something as planned · deal with = handle / give attention to solve a problem · end up = eventually be in a situation · get along = have a good relationship · get off = leave a bus/train/plane · put out = extinguish · give in = surrender / stop resisting
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B1" data-tags="would-rather">
+          <div class="q-head">
+            <span class="level-badge level-B1">B1</span>
+            <span class="tag">Would rather</span>
+            <span class="src">B1 Grammar Q20</span>
+          </div>
+          <div class="q-body">Fill in the gaps with "would rather" / "would sooner" plus the right verb form.<br>a. ……… you ……… (go) somewhere else?<br>b. I think I ……… we ……… (go) somewhere else.<br>c. "Should I call him?" "I ……… you ……… (not)." (short answer)<br>d. ……… you ……… he ……… (come) here?</div>
+          <button class="btn-reveal" data-target="q53">Show answer</button>
+          <div class="q-answer" id="q53">
+            <div class="answer-label">Answer</div>
+            a. Would rather / Would you rather go<br>b. I would rather we went<br>c. I'd rather you didn't<br>d. Would you rather he came
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B1" data-tags="prepositions passive">
+          <div class="q-head">
+            <span class="level-badge level-B1">B1</span>
+            <span class="tag">Prepositions</span><span class="tag">Passive Voice</span>
+            <span class="src">B1 Grammar Bonus</span>
+          </div>
+          <div class="q-body">Bonus mixed questions.<br>a. Choose the right preposition: He has many interests in common ……… (to / with / for) his father.<br>b. Put this sentence in order: come / are / you / how / dirty / so / ?<br>c. Which sentence(s) is/are passive? A: I was exhausted after the run. B: The window was broken by the ball. C: The ball broke the window.<br>d. Conjugate "there + be" in the Past Perfect Simple and Continuous.</div>
+          <button class="btn-reveal" data-target="q54">Show answer</button>
+          <div class="q-answer" id="q54">
+            <div class="answer-label">Answer</div>
+            a. with<br>b. How dirty are you, so come?... actually: "How come you are so dirty?"<br>c. B ("The window was broken by the ball") is passive; A and C are active.<br>d. i. Past Perfect Simple: there had been ii. Past Perfect Continuous: there had been being (rarely used) — more naturally, "there had been" covers both; continuous form of existential "there" is uncommon.
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B1" data-tags="vocab">
+          <div class="q-head">
+            <span class="level-badge level-B1">B1</span>
+            <span class="tag">Vocabulary</span>
+            <span class="src">B1 Vocabulary set 1</span>
+          </div>
+          <div class="q-body">Match the word to its meaning: aim (v), commit (v), currency (n), exhibition (n), frame (v), folk (adj), legal (adj), murder (n), profit (n), secondary (adj).</div>
+          <button class="btn-reveal" data-target="q55">Show answer</button>
+          <div class="q-answer" id="q55">
+            <div class="answer-label">Answer</div>
+            aim = point or direct; to intend · commit = carry out or perform (an act); to pledge · currency = money in circulation · exhibition = public display of items · frame = surround or enclose; set sb up (cheat) · folk = relating to traditional culture or people · legal = permitted by law · murder = the unlawful killing of a person · profit = financial gain from a transaction · secondary = less important; not primary
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B1" data-tags="vocab">
+          <div class="q-head">
+            <span class="level-badge level-B1">B1</span>
+            <span class="tag">Vocabulary</span>
+            <span class="src">B1 Vocabulary set 2</span>
+          </div>
+          <div class="q-body">Match the word/phrase to its meaning: symptom (n), trend (n), wonder (v), at first, I'm afraid…, Oh well, so that…, a great deal better, as if…, at last.</div>
+          <button class="btn-reveal" data-target="q56">Show answer</button>
+          <div class="q-answer" id="q56">
+            <div class="answer-label">Answer</div>
+            symptom = a sign of an illness or problem · trend = a general direction or movement · wonder = to desire to know; to be amazed · at first = initially; to begin with · I'm afraid… = expressing regret or bad news · Oh well = expressing resignation or mild disappointment · so that… = in order that; with the result that · a great deal better = much improved · as if… = expressing a hypothetical scenario; likeness · at last = finally; after a long time
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B1" data-tags="vocab">
+          <div class="q-head">
+            <span class="level-badge level-B1">B1</span>
+            <span class="tag">Vocabulary</span>
+            <span class="src">B1 Vocabulary set 3</span>
+          </div>
+          <div class="q-body">Match the phrase to its meaning: be about to do sth, even if, for instance, have no idea, in particular, be in touch, rather than, relate to sth, the fact that…, too bad.</div>
+          <button class="btn-reveal" data-target="q57">Show answer</button>
+          <div class="q-answer" id="q57">
+            <div class="answer-label">Answer</div>
+            be about to do sth = ready to do something soon · even if = despite the possibility or fact that · for instance = for example · have no idea = not know at all · in particular = especially; specifically · be in touch = be in communication · rather than = instead of · relate to sth = connect with or understand · the fact that… = used to introduce a known truth · too bad = unfortunate; regrettable
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B1" data-tags="vocab">
+          <div class="q-head">
+            <span class="level-badge level-B1">B1</span>
+            <span class="tag">Vocabulary</span>
+            <span class="src">B1 Vocabulary set 4</span>
+          </div>
+          <div class="q-body">Match the phrase to its meaning: How about…?, find out about sth, See you., What about…?, at least, fall in love, have a look, I guess, make sense, sound like sb.</div>
+          <button class="btn-reveal" data-target="q58">Show answer</button>
+          <div class="q-answer" id="q58">
+            <div class="answer-label">Answer</div>
+            How about…? = suggesting or proposing something · find out about sth = discover information · See you. = a common informal goodbye · What about…? = asking for information or consideration · at least = showing a minimum / positive side · fall in love = begin to feel romantic love for someone · have a look = briefly examine something · I guess = expressing uncertainty or hesitant agreement · make sense = be logical and understandable · sound like sb = resemble sb's voice / way of speaking
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B1" data-tags="reading">
+          <div class="q-head">
+            <span class="level-badge level-B1">B1</span>
+            <span class="tag">Reading Comprehension</span>
+            <span class="src">B1 Reading Comprehension</span>
+          </div>
+          <div class="q-body">"The Boy in the Striped Pajamas" — choose the best answer.<br>1. What is the significance of the "striped pajamas"?<br>2. What is the actual meaning of "Out-With" and "the Fury"?<br>3. What is Bruno ignorant about?<br>4. Who are the people on the other side of the fence?<br>5. What quality does Bruno have that the adults do not?<br>6. How does the story end?</div>
+          <button class="btn-reveal" data-target="q59">Show answer</button>
+          <div class="q-answer" id="q59">
+            <div class="answer-label">Answer</div>
+            1. (b) They symbolize the prisoners' dehumanization, loss of identity, and status as victims.<br>2. (b) "Out-With" is Bruno's mispronunciation of Auschwitz, and "the Fury" is his mishearing of the Führer.<br>3. (c) The systematic extermination of Jewish people and the true, horrific purpose of the camp.<br>4. (b) Jewish prisoners, including children, being held captive and forced to work.<br>5. (b) The ability to see people without prejudice and form genuine friendships regardless of background.<br>6. (c) Bruno and Shmuel die together in a gas chamber, mistaken for prisoners.
+          </div>
+        </div>
+
+        <div class="q-card" data-level="mixed" data-tags="ing-inf">
+          <div class="q-head">
+            <span class="level-badge level-mixed">Mixed / By Topic</span>
+            <span class="tag">-ing / Infinitive</span>
+            <span class="src">By Topic: -ing / Infinitive (1-38)</span>
+          </div>
+          <div class="q-body">Fill the gap with the infinitive (to do), bare infinitive (do), or -ing form of the verb in parenthesis.<br>1. When I was a child, I hated …… (go) to school.<br>2. He plans ….. (stay) in Boston next year.<br>3. I hope ….. (see) you soon.<br>4. Remember ….. (lock) the door.<br>5. She would like …… (have) dinner tonight.<br>6. John went to the supermarket ….. (buy) groceries.<br>7. Bowls are used by monks for ….. (accept) alms.<br>8. ….. (cheat) is not allowed.<br>9. He said that he would ….. (not return) home.<br>10. Does Hugo ….. (run) daily?<br>11. It's very good ….. (see) you.<br>12. I don't know how ….. (answer) this question.<br>13. I promise ….. (not lie) again.<br>14. My brother is quite good at ….. (paint).<br>15. When I was 6, I was too young ….. (get) inside the casino.<br>16. Please, stop ….. (shout).<br>17. If you get lost, don't hesitate …… (call) me.<br>18. Have you ever imagined ….. (fly)?<br>19. The candidate wants people ….. (vote) for him.<br>20. I like ….. (not have) to go to work.<br>21. I need you ….. (pay) attention.<br>22. The thief managed ….. (not get) arrested by the police.<br>23. Son, don't waste your money ….. (buy) expensive clothing.<br>24. The doctor made us ….. (wait) in the waiting room for hours.<br>25. They must ….. (contact) the firefighters soon.<br>26. I'll never forget ….. (walk) on that amazing beach for the first time.<br>27. Please remember ….. (close) the windows if you leave.<br>28. A: "I need to solve my neck pain." B: "Why don't you try ….. (strengthen) it? It will help."<br>29. While we were travelling, I felt very hungry, so we stopped ….. (have) some food.<br>30. When I raised my hand, the teacher stopped ….. (talk) and looked at me.<br>31. The boy is so bored. There is nothing ….. (do).<br>32. Nibbāna is the best thing ….. (achieve).<br>33. If you know the secret, you had better ….. (not say) anything.<br>34. I'd rather ….. (have) yerba mate than coffee.<br>35. There is no point ….. (arguing). Let's do more research.<br>36. I'd prefer you ….. (stay) in the bigger house tonight.<br>37. I would prefer ….. (be) too early rather than ….. (be) too late.<br>38. They prefer …… (swim) to ….. (cycle).</div>
+          <button class="btn-reveal" data-target="q60">Show answer</button>
+          <div class="q-answer" id="q60">
+            <div class="answer-label">Answer</div>
+            1. going<br>2. to stay<br>3. to see<br>4. to lock<br>5. to have<br>6. to buy<br>7. accepting<br>8. Cheating<br>9. not return<br>10. run<br>11. to see<br>12. to answer<br>13. not to lie<br>14. painting<br>15. to get<br>16. shouting<br>17. to call<br>18. flying<br>19. to vote<br>20. not having<br>21. to pay<br>22. not to get<br>23. buying<br>24. wait<br>25. contact<br>26. walking<br>27. to close<br>28. strengthening<br>29. to have<br>30. talking<br>31. to do<br>32. to achieve<br>33. not say<br>34. have<br>35. arguing<br>36. to stay<br>37. to be / to be<br>38. swimming / cycling
+          </div>
+        </div>
+
+        <div class="q-card" data-level="mixed" data-tags="ing-inf">
+          <div class="q-head">
+            <span class="level-badge level-mixed">Mixed / By Topic</span>
+            <span class="tag">-ing / Infinitive</span>
+            <span class="src">By Topic: -ing / Infinitive (39-42)</span>
+          </div>
+          <div class="q-body">Choose which group of verbs can be used in this case:<br>39. We …….. her to continue. a. tell, order, swear, recommend b. remind, warn, agree, invite c. encourage, advise, beg, convince d. ask, convince, say, warn<br>40. They …….. that we need a break. a. claim, blame, agree, insist b. insist, suggest, agree, admit c. complain, explain, say, tell d. regret, forbid, promise, refuse<br>41. Choose the wrong sentence: a. She doesn't allow us to drink. b. She doesn't allow drinking. c. She doesn't allow to drink.<br>42. Choose the wrong sentence: a. They kept me waiting for over an hour. b. Our dog hates cats to wander at night. c. I don't like them acting like this. d. I hate him telling me what to do.</div>
+          <button class="btn-reveal" data-target="q61">Show answer</button>
+          <div class="q-answer" id="q61">
+            <div class="answer-label">Answer</div>
+            39. c (encourage, advise, beg, convince — all take object + to-infinitive)<br>40. b (insist, suggest, agree, admit — all can take a that-clause)<br>41. c ("doesn't allow to drink" is wrong — needs an object: "allow us to drink" or gerund "allow drinking")<br>42. b ("hate cats to wander" is unnatural — normally "hate cats wandering" or "hate it when cats wander")
+          </div>
+        </div>
+
+        <div class="q-card" data-level="mixed" data-tags="rel-clause">
+          <div class="q-head">
+            <span class="level-badge level-mixed">Mixed / By Topic</span>
+            <span class="tag">Relative Clauses</span>
+            <span class="src">By Topic: Relative Clauses Q1</span>
+          </div>
+          <div class="q-body">Choose the best option: Their oldest uncle ……… is teaching Maths in university.<br>a. , who lives in Madrid, b. who lives in Madrid c. , that lives in Madrid, d. that lives in Madrid</div>
+          <button class="btn-reveal" data-target="q62">Show answer</button>
+          <div class="q-answer" id="q62">
+            <div class="answer-label">Answer</div>
+            a. , who lives in Madrid, (non-defining clause with "who", set off by commas; "that" cannot be used in non-defining clauses)
+          </div>
+        </div>
+
+        <div class="q-card" data-level="mixed" data-tags="rel-clause">
+          <div class="q-head">
+            <span class="level-badge level-mixed">Mixed / By Topic</span>
+            <span class="tag">Relative Clauses</span>
+            <span class="src">By Topic: Relative Clauses Q2</span>
+          </div>
+          <div class="q-body">Fill in the gaps with the most appropriate relative pronoun/adverb (who, whom, whose, which, that, where, when, why, or – zero relative).<br>a. The actor ……… documents were stolen didn't inform the police.<br>b. Do you know the reason ……… Brad isn't coming to class?<br>c. The audio-book ……… you recommended was very informative.<br>d. The person ……… he owes his success to is coming tonight.<br>e. They failed the test, ……… surprised most people.<br>f. Player A passed the ball to player B, ……… quickly tossed it to C.<br>g. Inside the room, there is a box, the content of ……… is very valuable.</div>
+          <button class="btn-reveal" data-target="q63">Show answer</button>
+          <div class="q-answer" id="q63">
+            <div class="answer-label">Answer</div>
+            a. whose<br>b. why<br>c. which / that / – (zero relative)<br>d. whom (or – with "to" at the end: "who/that he owes his success to")<br>e. which<br>f. who<br>g. which
+          </div>
+        </div>
+
+        <div class="q-card" data-level="mixed" data-tags="rel-clause">
+          <div class="q-head">
+            <span class="level-badge level-mixed">Mixed / By Topic</span>
+            <span class="tag">Relative Clauses</span>
+            <span class="src">By Topic: Relative Clauses Q3</span>
+          </div>
+          <div class="q-body">Choose the WRONG answer.<br>Set 1: i. Those are the sentences the meaning of which I don't know. ii. Those are the sentences that I don't know the meaning of. iii. Those are the sentences of which I don't know the meaning. iv. Those are the sentences I don't know the meaning.<br>Set 2: i. The monk with whom he discussed the topic was very knowledgeable. ii. The presentation, which I attended it yesterday, was fascinating. iii. The students studying English are preparing for a test. iv. Mark forgot the time they were supposed to meet.</div>
+          <button class="btn-reveal" data-target="q64">Show answer</button>
+          <div class="q-answer" id="q64">
+            <div class="answer-label">Answer</div>
+            Set 1: iv is wrong (needs "of" — "the meaning of" must stay: "Those are the sentences I don't know the meaning of" is actually acceptable informally; the truly wrong one is iv only if "of" is dropped entirely — as written iv omits "of", making it wrong).<br>Set 2: ii is wrong (redundant pronoun "it" — should be "The presentation, which I attended yesterday, was fascinating.")
+          </div>
+        </div>
+
+        <div class="q-card" data-level="mixed" data-tags="wh-ever">
+          <div class="q-head">
+            <span class="level-badge level-mixed">Mixed / By Topic</span>
+            <span class="tag">-ever words</span>
+            <span class="src">By Topic: Relative Clauses (wh-ever)</span>
+          </div>
+          <div class="q-body">Fill the gaps with whoever, however, whichever, whatever, wherever, or whenever.<br>b. After school, you have to decide ……… path feels right for your future.<br>d. ……… hard he studied, he wouldn't get the highest score.<br>e. You can message me ……… you want.</div>
+          <button class="btn-reveal" data-target="q65">Show answer</button>
+          <div class="q-answer" id="q65">
+            <div class="answer-label">Answer</div>
+            b. whichever<br>d. However<br>e. whenever
+          </div>
+        </div>
+
+        <div class="q-card" data-level="mixed" data-tags="rel-clause">
+          <div class="q-head">
+            <span class="level-badge level-mixed">Mixed / By Topic</span>
+            <span class="tag">Relative Clauses</span>
+            <span class="src">By Topic: Relative Clauses (joining)</span>
+          </div>
+          <div class="q-body">Join all the sentences into one using relative clauses.<br>1. The book is on the table. It was written by a famous author. I don't remember the name of the author.<br>2. The woman is talking to the teacher. She works in the library. The library is called Librelibro.<br>3. This is the restaurant. We ate there last weekend. The weekend was unforgettable.<br>4. The Buddha, by himself, attained enlightenment. The Buddha was called Gotama. Enlightenment is freedom from saṁsāra.<br>5. That is the Dhamma seat. The teachers sit on it when teaching.</div>
+          <button class="btn-reveal" data-target="q66">Show answer</button>
+          <div class="q-answer" id="q66">
+            <div class="answer-label">Answer</div>
+            1. The book on the table was written by a famous author whose name I don't remember.<br>2. The woman who is talking to the teacher works in a library called Librelibro.<br>3. This is the restaurant where we ate last weekend, which was unforgettable.<br>4. The Buddha, who was called Gotama, attained enlightenment, which is freedom from saṁsāra, by himself.<br>5. That is the Dhamma seat where the teachers sit when teaching.
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B1+" data-tags="quant">
+          <div class="q-head">
+            <span class="level-badge level-B1p">B1+</span>
+            <span class="tag">Quantifiers</span>
+            <span class="src">B1+ Q1</span>
+          </div>
+          <div class="q-body">Choose the wrong sentence: a. All trees need water to survive. b. We all can be there when she arrives. c. Everything is big in the US. d. They arrested most of them.</div>
+          <button class="btn-reveal" data-target="q67">Show answer</button>
+          <div class="q-answer" id="q67">
+            <div class="answer-label">Answer</div>
+            b (word order: "We all can be there" should be "We can all be there" — "all" goes after the modal/auxiliary, before the main verb).
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B1+" data-tags="quant">
+          <div class="q-head">
+            <span class="level-badge level-B1p">B1+</span>
+            <span class="tag">Quantifiers</span>
+            <span class="src">B1+ Q2</span>
+          </div>
+          <div class="q-body">Fill in the gaps with a correct quantifier: all, most, both, either, neither, any, no, none.<br>a. ……… boy brought a coat.<br>b. I'd like to have money, but I don't have ………<br>c. He has two brothers, but I haven't met ……… of them.<br>d. I watched five films during the festival, but ……… of them was good.<br>e. We spent ……… day outdoors.<br>f. I knocked on the door a few times but there was ……… response.</div>
+          <button class="btn-reveal" data-target="q68">Show answer</button>
+          <div class="q-answer" id="q68">
+            <div class="answer-label">Answer</div>
+            a. No<br>b. any<br>c. either<br>d. none<br>e. all<br>f. no
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B1+" data-tags="ellipsis aux qtag">
+          <div class="q-head">
+            <span class="level-badge level-B1p">B1+</span>
+            <span class="tag">Ellipsis (so/neither)</span><span class="tag">Auxiliary Verbs</span><span class="tag">Question Tags</span>
+            <span class="src">B1+ Q3</span>
+          </div>
+          <div class="q-body">Fill in the gaps with the right form of the auxiliary verb (and other necessary words where needed).<br>a. A: I won't say anything. B: Neither ……… (I)<br>b. A: He's very tired. B: So ……… (She is very tired too)<br>c. A: You didn't lock the door. B: I ……… the door. (contradicting emphasis)<br>d. A: Pass me that pen, ………? (tag question)<br>e. I thought I had set the alarm, but ………<br>f. A: So, Robert, you have just arrived at our university, ……… you? (tag question)<br>g. A: I live in Leeds, but I was born in Poland. B: ……… you? That's funny. So ……… my girlfriend.</div>
+          <button class="btn-reveal" data-target="q69">Show answer</button>
+          <div class="q-answer" id="q69">
+            <div class="answer-label">Answer</div>
+            a. will I<br>b. is she<br>c. did lock<br>d. will you<br>e. I hadn't<br>f. haven't<br>g. Do; does
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B1+" data-tags="needn't">
+          <div class="q-head">
+            <span class="level-badge level-B1p">B1+</span>
+            <span class="tag">Needn't</span>
+            <span class="src">B1+ Q4</span>
+          </div>
+          <div class="q-body">Choose the wrong sentence: a. People don't need to get a degree to find a good job. b. People needn't get a degree to find a good job. c. You didn't need to bring dessert. d. You needn't mop the floor. I've already done it.</div>
+          <button class="btn-reveal" data-target="q70">Show answer</button>
+          <div class="q-answer" id="q70">
+            <div class="answer-label">Answer</div>
+            c is ambiguous/context-dependent but the intended wrong one is generally not flagged here — all four are actually grammatically correct in standard usage. If forced to choose, none is clearly wrong; this item likely tests that all forms (don't need to / needn't / didn't need to) are valid, so double-check with your source key.
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B1+" data-tags="modal-ded">
+          <div class="q-head">
+            <span class="level-badge level-B1p">B1+</span>
+            <span class="tag">Modals of Deduction</span>
+            <span class="src">B1+ Q5</span>
+          </div>
+          <div class="q-body">My car isn't there anymore! It ……. stolen while I was shopping. a. couldn't have been b. might be c. mustn't have been d. might have been</div>
+          <button class="btn-reveal" data-target="q71">Show answer</button>
+          <div class="q-answer" id="q71">
+            <div class="answer-label">Answer</div>
+            d. might have been
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B1+" data-tags="modal-ded">
+          <div class="q-head">
+            <span class="level-badge level-B1p">B1+</span>
+            <span class="tag">Modals of Deduction</span>
+            <span class="src">B1+ Q6</span>
+          </div>
+          <div class="q-body">'I can't find my keys.' 'Have you checked in your car? You ……. left them there.' a. can't have b. might have c. should have d. can have</div>
+          <button class="btn-reveal" data-target="q72">Show answer</button>
+          <div class="q-answer" id="q72">
+            <div class="answer-label">Answer</div>
+            b. might have
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B1+" data-tags="likely">
+          <div class="q-head">
+            <span class="level-badge level-B1p">B1+</span>
+            <span class="tag">Likely/Unlikely</span>
+            <span class="src">B1+ Q7</span>
+          </div>
+          <div class="q-body">Choose the wrong sentence: a. He is unlikely winning the game. b. He is unlikely to win the game. c. It's unlikely that he'll win the game. d. He probably won't win the game.</div>
+          <button class="btn-reveal" data-target="q73">Show answer</button>
+          <div class="q-answer" id="q73">
+            <div class="answer-label">Answer</div>
+            a ("unlikely" is followed by a to-infinitive, not -ing: "He is unlikely to win the game.")
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B1+" data-tags="used-to">
+          <div class="q-head">
+            <span class="level-badge level-B1p">B1+</span>
+            <span class="tag">Used to / Would</span>
+            <span class="src">B1+ Q8</span>
+          </div>
+          <div class="q-body">Choose the wrong sentence: a. Did they use to sing in the choir? b. He didn't use to play soccer. c. We use to eat out on Saturdays. d. He usually comes on time.</div>
+          <button class="btn-reveal" data-target="q74">Show answer</button>
+          <div class="q-answer" id="q74">
+            <div class="answer-label">Answer</div>
+            c ("We use to eat out" is wrong for a present habit — needs "We usually eat out" or, for a past habit, "We used to eat out")
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B1+" data-tags="used-to">
+          <div class="q-head">
+            <span class="level-badge level-B1p">B1+</span>
+            <span class="tag">Used to / Would</span>
+            <span class="src">B1+ Q9</span>
+          </div>
+          <div class="q-body">Choose the wrong sentence: a. As a child, I would go skiing every winter. b. As a child, I would live with my mom. c. I used to be quite fast when I was young. d. My nephew, when young, used to climb the garden wall frequently.</div>
+          <button class="btn-reveal" data-target="q75">Show answer</button>
+          <div class="q-answer" id="q75">
+            <div class="answer-label">Answer</div>
+            b ("would" cannot be used for past states like "live" — only for repeated actions; states need "used to": "As a child, I used to live with my mom.")
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B1+" data-tags="like-as-if">
+          <div class="q-head">
+            <span class="level-badge level-B1p">B1+</span>
+            <span class="tag">Look like / As if</span>
+            <span class="src">B1+ Q10</span>
+          </div>
+          <div class="q-body">Choose the wrong sentence: a. You look like tired. b. They sound as if they have seen a ghost. c. It tastes like guava. d. It smells like it's been overcooked.</div>
+          <button class="btn-reveal" data-target="q76">Show answer</button>
+          <div class="q-answer" id="q76">
+            <div class="answer-label">Answer</div>
+            a ("look" + adjective takes no "like": "You look tired.")
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B1+" data-tags="do-make">
+          <div class="q-head">
+            <span class="level-badge level-B1p">B1+</span>
+            <span class="tag">Do vs Make</span>
+            <span class="src">B1+ Q11</span>
+          </div>
+          <div class="q-body">Complete with the correct form of do / make.<br>a. The company ……… a huge profit last year.<br>b. Sam ……… his bed yet.<br>c. Would you ……… the dishes for me, please?<br>d. Jessie ……… me a favor yesterday.</div>
+          <button class="btn-reveal" data-target="q77">Show answer</button>
+          <div class="q-answer" id="q77">
+            <div class="answer-label">Answer</div>
+            a. made<br>b. hasn't made<br>c. do<br>d. did
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B2" data-tags="modal-ded ing-inf">
+          <div class="q-head">
+            <span class="level-badge level-B2">B2</span>
+            <span class="tag">Modals of Deduction</span><span class="tag">-ing / Infinitive</span>
+            <span class="src">B2 Grammar Q1</span>
+          </div>
+          <div class="q-body">Fill in the gaps with the right form of the infinitive/modal.<br>a. I'm glad that I have met you in the past. = I'm glad ……… (meet) you in the past.<br>b. Carl hasn't arrived yet. He may ……… (take) the wrong road.<br>c. I'm happy that I have not mentioned that in my testimony. = I'm happy ……… (not mention) that in my testimony.<br>d. All the lights are off and the car is not in the garage. The owner must ……… (leave) the house.</div>
+          <button class="btn-reveal" data-target="q78">Show answer</button>
+          <div class="q-answer" id="q78">
+            <div class="answer-label">Answer</div>
+            a. to have met<br>b. have taken<br>c. not to have mentioned<br>d. have left
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B2" data-tags="generic-pron">
+          <div class="q-head">
+            <span class="level-badge level-B2">B2</span>
+            <span class="tag">Generic Pronouns</span>
+            <span class="src">B2 Grammar Q2</span>
+          </div>
+          <div class="q-body">Fill in the gaps with a suitable generic pronoun: one, you, we, they, one's, yours, etc.<br>a. ……… never know what life may bring.<br>b. Poverty eats up ……… dignity.<br>c. ……… (the villagers) don't like strangers in this village.<br>d. In such situations, you must never lose ……… temper.<br>e. Success and failure always teach ……… something about ………</div>
+          <button class="btn-reveal" data-target="q79">Show answer</button>
+          <div class="q-answer" id="q79">
+            <div class="answer-label">Answer</div>
+            a. You / One<br>b. one's<br>c. They<br>d. your<br>e. us; ourselves
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B2" data-tags="there-it">
+          <div class="q-head">
+            <span class="level-badge level-B2">B2</span>
+            <span class="tag">There is / It is</span>
+            <span class="src">B2 Grammar Q3</span>
+          </div>
+          <div class="q-body">Fill in the gaps with a suitable form/tense of "there is", "there + verb + to be", "there is no use", etc.<br>a. In the future, ……… (be) many students living in IIT.<br>b. Since last week, ……… (be) many complaints about the war.<br>c. ……… seems ……… (be) no solution for this puzzle.<br>d. Normally, ……… tend ……… (be) many tourists during the summer.<br>e. In the past, ……… used ……… (be) a farm in this land.</div>
+          <button class="btn-reveal" data-target="q80">Show answer</button>
+          <div class="q-answer" id="q80">
+            <div class="answer-label">Answer</div>
+            a. there will be<br>b. there have been<br>c. There; to be<br>d. there; to be<br>e. there; to be
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B2" data-tags="there-it">
+          <div class="q-head">
+            <span class="level-badge level-B2">B2</span>
+            <span class="tag">There is / It is</span>
+            <span class="src">B2 Grammar Q4</span>
+          </div>
+          <div class="q-body">Make sentences with a preparatory "it", "there is/it's no use", or "it + be + adjective + that-clause".<br>a. "Hagrid got the egg." "No, ……… Bill who got it."<br>b. ……… morning when they arrived, not during the night.<br>c. ……… just wonderful that we can be here together?<br>d. My granpa always used to tell me: "……… getting angry."<br>e. ……… trying to change him.<br>f. ……… surprising that teachers are not paid very well.<br>g. ……… George who gave me the map, not Peter.</div>
+          <button class="btn-reveal" data-target="q81">Show answer</button>
+          <div class="q-answer" id="q81">
+            <div class="answer-label">Answer</div>
+            a. it was<br>b. It was<br>c. Isn't it<br>d. There's no use / It's no use<br>e. There's no point / It's no use<br>f. It's<br>g. It was
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B2" data-tags="causative">
+          <div class="q-head">
+            <span class="level-badge level-B2">B2</span>
+            <span class="tag">Causative 'get'</span>
+            <span class="src">B2 Grammar Q5</span>
+          </div>
+          <div class="q-body">Fill in the gaps with a suitable form of the causative with "get".<br>a. Teachers are always looking for ways to ……… their students ……… (learn) better.<br>b. Friend, your robe is very discolored. You should ……… it ……… (dye) soon.<br>c. Next week, IIT will ……… a new sīmā ……… (establish).<br>d. Bruno's parents tried to ……… him ……… (not explore) around their new house.</div>
+          <button class="btn-reveal" data-target="q82">Show answer</button>
+          <div class="q-answer" id="q82">
+            <div class="answer-label">Answer</div>
+            a. get; to learn<br>b. get; dyed<br>c. get; established<br>d. get; not to explore
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B2" data-tags="discourse">
+          <div class="q-head">
+            <span class="level-badge level-B2">B2</span>
+            <span class="tag">Discourse Markers</span>
+            <span class="src">B2 Grammar Q6</span>
+          </div>
+          <div class="q-body">Match the discourse marker to its meaning/purpose: after all, besides, obviously, in other words, as regards, whereas, on the whole, in fact, by the way, in any case, at least, otherwise.</div>
+          <button class="btn-reveal" data-target="q83">Show answer</button>
+          <div class="q-answer" id="q83">
+            <div class="answer-label">Answer</div>
+            after all = despite what is believed · besides = additionally · obviously = clearly · in other words = to put it simply · as regards = about · whereas = in contrast · on the whole = in general · in fact = surprisingly / to emphasize a fact · by the way = on a different/related topic · in any case = returning to the main point / regardless · at least = on a positive note · otherwise = if not
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B2" data-tags="neg-inversion">
+          <div class="q-head">
+            <span class="level-badge level-B2">B2</span>
+            <span class="tag">Negative Inversion</span>
+            <span class="src">B2 Grammar Q7</span>
+          </div>
+          <div class="q-body">Rephrase starting with negative adverbials.<br>a. We heard of the terrible news soon after arriving home. → Hardly ……… home that we heard the terrible news.<br>b. There will be accountability only if the law is observed. → Only if the law is observed ……… accountability.<br>c. He is both an ally and an ambassador of peace. → Not only ……… an ally, but also an ambassador of peace.<br>d. I have not seen a civilian walking these paths even once. → Not once ……… a civilian walking these paths.<br>e. The military should not be deployed in any circumstance. → Under no circumstances ……… deployed.<br>f. I have never heard of such deprived behavior. → Never ……… of such deprived behavior.</div>
+          <button class="btn-reveal" data-target="q84">Show answer</button>
+          <div class="q-answer" id="q84">
+            <div class="answer-label">Answer</div>
+            a. had we arrived / were we home<br>b. will there be<br>c. is he<br>d. have I seen<br>e. should the military be<br>f. have I heard
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B2" data-tags="passive reported">
+          <div class="q-head">
+            <span class="level-badge level-B2">B2</span>
+            <span class="tag">Passive Voice</span><span class="tag">Reported Speech</span>
+            <span class="src">B2 Grammar Q8</span>
+          </div>
+          <div class="q-body">Report the news using a reporting verb (if given) and the passive voice, two ways (A: subject + passive infinitive; B: It + passive + that-clause).<br>a. I believe the terrorist has fled to the mountains.<br>b. Inequality has increased in the past decade.<br>c. Specialists suggest that the government invest more on education.<br>d. People know he has been hiding in Panama.<br>e. She will become a superstar!</div>
+          <button class="btn-reveal" data-target="q85">Show answer</button>
+          <div class="q-answer" id="q85">
+            <div class="answer-label">Answer</div>
+            a. A: The terrorist is believed to have fled to the mountains. B: It is believed that the terrorist has fled to the mountains.<br>b. A: Inequality is said to have increased in the past decade. B: It is said that inequality has increased in the past decade.<br>c. A: The government is suggested to invest more on education. B: It is suggested that the government invest more on education.<br>d. A: He is known to have been hiding in Panama. B: It is known that he has been hiding in Panama.<br>e. A: She is expected to become a superstar! B: It is expected that she will become a superstar!
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B2" data-tags="ing-inf">
+          <div class="q-head">
+            <span class="level-badge level-B2">B2</span>
+            <span class="tag">-ing / Infinitive</span>
+            <span class="src">B2 Grammar Q9</span>
+          </div>
+          <div class="q-body">Choose the verb or phrase that CANNOT be used in the gap.<br>a. The tour guide ……… us that we should not feed the local fauna. i. asked ii. warned iii. reminded iv. told<br>b. He ……… going. i. allowed ii. encouraged iii. advised<br>c. ……… for us to be ready on time. i. It's essential ii. It would be an advantage iii. I will plan iv. I will expect<br>d. We ……… a long essay. i. helped them compose ii. were made to write iii. saw him writing iv. made them to write</div>
+          <button class="btn-reveal" data-target="q86">Show answer</button>
+          <div class="q-answer" id="q86">
+            <div class="answer-label">Answer</div>
+            a. i. asked ("asked us that" is wrong pattern — "asked" needs "asked us to"; the others take object + that-clause naturally)<br>b. i. allowed (needs an object: "allowed him going" is wrong — "allowed" takes to-infinitive with object: "allowed him to go")<br>c. iii. I will plan (doesn't fit the impersonal "it's essential/an advantage for us" pattern)<br>d. iv. made them to write ("make" takes bare infinitive: "made them write")
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B2" data-tags="cond">
+          <div class="q-head">
+            <span class="level-badge level-B2">B2</span>
+            <span class="tag">Conditionals</span>
+            <span class="src">B2 Grammar Q10</span>
+          </div>
+          <div class="q-body">Fill the conditional sentences with the proper tense.<br>a. If I had known Pāḷi very well in 2015, I ……… (read) the Tipiṭaka back then.<br>b. Had they not reached that important benchmark, the team ……… (be) out of the league now.<br>c. Even if I weren't a monk, the customs officers ……… (let) me pass through without questions last year.<br>d. We might be dead now if we ……… (wear) the seat belt during that time.</div>
+          <button class="btn-reveal" data-target="q87">Show answer</button>
+          <div class="q-answer" id="q87">
+            <div class="answer-label">Answer</div>
+            a. would have read<br>b. would be<br>c. would have let<br>d. hadn't worn (or: had not worn)
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B2" data-tags="ing-inf">
+          <div class="q-head">
+            <span class="level-badge level-B2">B2</span>
+            <span class="tag">-ing / Infinitive</span>
+            <span class="src">B2 Grammar Q11</span>
+          </div>
+          <div class="q-body">Fill in the gaps with the right form of the infinitive or -ing form of the verb.<br>a. Josh: "Can you drive me back home?" Josh wishes ……… (drive) back home.<br>b. Monica: "I was kidnapped when young." Monica claims ……… (kidnap) when she was young.<br>c. "I think the felon has been residing in the penitentiary since June." The felon is thought ……… (reside) in the penitentiary since June.<br>d. Hugo: "My companions did not betray me." Hugo denies ……… (betray) by his companions.<br>e. He is accused of ……… (defect) from the army in the 90s.<br>f. She was encouraged and then began to collaborate with her colleagues. She collaborated with her colleagues after ……… (encourage) to do so.</div>
+          <button class="btn-reveal" data-target="q88">Show answer</button>
+          <div class="q-answer" id="q88">
+            <div class="answer-label">Answer</div>
+            a. to be driven<br>b. to have been kidnapped<br>c. to have been residing<br>d. having been betrayed<br>e. having defected<br>f. being encouraged
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B2" data-tags="future cond">
+          <div class="q-head">
+            <span class="level-badge level-B2">B2</span>
+            <span class="tag">Future Forms</span><span class="tag">Conditionals</span>
+            <span class="src">B2 Grammar Q12</span>
+          </div>
+          <div class="q-body">Fill in the gaps with a suitable tense.<br>a. By the end of the century, global temperatures ……… (already exceed) 3°C according to current estimates.<br>b. If CO2 emissions continue to increase, half of the plant and animal species of the Amazon basin ……… (vanish) by 2100.<br>c. By 2034, agentic AI systems ……… (become) central to managing everything from business workflows to smart homes.<br>d. A year from now, IIT students ……… (study) in IIT for over 4 years.<br>e. Carol: "Tomorrow, from 5 to 6, I'll be presenting my thesis." 1 week later: Carol said that the following day, from 5 to 6, she ……… (present) her thesis.<br>f. Victor: "I'll have finished writing my book by next week." 1 month later: Victor said that he ……… (finish) writing his book by the following week.</div>
+          <button class="btn-reveal" data-target="q89">Show answer</button>
+          <div class="q-answer" id="q89">
+            <div class="answer-label">Answer</div>
+            a. will already have exceeded<br>b. will have vanished<br>c. will have become<br>d. will have been studying<br>e. would be presenting<br>f. would have finished
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B2" data-tags="ellipsis">
+          <div class="q-head">
+            <span class="level-badge level-B2">B2</span>
+            <span class="tag">Ellipsis (so/neither)</span>
+            <span class="src">B2 Grammar Q13</span>
+          </div>
+          <div class="q-body">Say the same avoiding repetition using ellipsis, "so", "do so", "neither", etc.<br>a. Gambling is not a constructive habit, but exercising is a constructive habit. → Gambling is not a constructive habit, but ………<br>b. Alumni younger than 18 are eligible for scholarship, but those above 18 are not eligible. → …, but those above 18 ………<br>c. All inmates are to exit their cells at 8am. They should exit their cells quietly. → All inmates are to exit their cells at 8am. They should ……… quietly.<br>d. Diplomats and their interpreters should be present at the meeting by 5pm. → Diplomats should be present at the meeting by 5pm and ……… should their interpreters.<br>e. Mr. Black should not be incarcerated. Mr. Hagrid should not be incarcerated. → Mr. Black should not be incarcerated and ……… should Mr. Hagrid.</div>
+          <button class="btn-reveal" data-target="q90">Show answer</button>
+          <div class="q-answer" id="q90">
+            <div class="answer-label">Answer</div>
+            a. exercising is<br>b. are not<br>c. do so<br>d. so<br>e. neither / nor
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B2" data-tags="cleft">
+          <div class="q-head">
+            <span class="level-badge level-B2">B2</span>
+            <span class="tag">Cleft Sentences</span>
+            <span class="src">B2 Grammar Q14</span>
+          </div>
+          <div class="q-body">Use cleft sentences to emphasize different elements.<br>a. Global warming will cause mass migration and wars. i. It's mass migration and wars ……… cause. ii. The thing that ……… is global warming.<br>b. The symbol for peace is a white dove. i. It's peace ……… the symbol for. ii. It's a white dove ……… for peace.<br>c. All bodhisattas perform great sacrifices. i. What all bodhisattas do ……… great sacrifices. ii. What happens is ……… great sacrifices.<br>d. Multiple missiles were launched toward Qatar. i. What was launched toward Qatar ……… ii. The place multiple missiles ……… is Qatar.</div>
+          <button class="btn-reveal" data-target="q91">Show answer</button>
+          <div class="q-answer" id="q91">
+            <div class="answer-label">Answer</div>
+            a. i. that global warming will ii. will cause mass migration and wars<br>b. i. that a white dove is ii. that is the symbol<br>c. i. is perform ii. all bodhisattas perform<br>d. i. was multiple missiles ii. were launched toward
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B2" data-tags="participle">
+          <div class="q-head">
+            <span class="level-badge level-B2">B2</span>
+            <span class="tag">Participle Clauses</span>
+            <span class="src">B2 Grammar Q15</span>
+          </div>
+          <div class="q-body">Rewrite using Participle Clauses.<br>a. Because she had experience writing, Joanne had little difficulty writing a novel. → ………, Joanne had little difficulty writing a novel.<br>b. When the drug is overdosed, it becomes lethal. → ………, ……… lethal.<br>c. Because Smith was forced to labor overtime, he got burnt out beyond recovery. → ……… overtime, Smith got burnt out beyond recovery.<br>d. The company had profited extensively due to the war, so it kept on pushing for its continuance. → ……… due to the war, ……… for its continuance.</div>
+          <button class="btn-reveal" data-target="q92">Show answer</button>
+          <div class="q-answer" id="q92">
+            <div class="answer-label">Answer</div>
+            a. Having experience writing<br>b. Overdosed; it becomes<br>c. Forced to labor<br>d. Having profited extensively; it kept on pushing
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B2" data-tags="passive-2obj">
+          <div class="q-head">
+            <span class="level-badge level-B2">B2</span>
+            <span class="tag">Passive (2 Objects)</span>
+            <span class="src">B2 Grammar Q16</span>
+          </div>
+          <div class="q-body">Fill in the gaps to form passive sentences with two objects.<br>a. The website denied him entry. i. He ……… entry. ii. Entry ……… to him.<br>b. The jury has granted the team the first prize. i. The team ……… prize. ii. The first prize ……… team.<br>c. Alumni should hand the respective professor their essays. i. The respective professor ……… the alumni's essays. ii. The alumni's essays ……… professor.</div>
+          <button class="btn-reveal" data-target="q93">Show answer</button>
+          <div class="q-answer" id="q93">
+            <div class="answer-label">Answer</div>
+            a. i. was denied ii. was denied<br>b. i. has been granted the first ii. has been granted to the<br>c. i. should be handed ii. should be handed to the respective
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B2" data-tags="comparatives">
+          <div class="q-head">
+            <span class="level-badge level-B2">B2</span>
+            <span class="tag">Comparatives</span>
+            <span class="src">B2 Grammar Q17</span>
+          </div>
+          <div class="q-body">Fill the gap with comparative modifiers: almost, roughly, quite, way, a good deal, nowhere near, (by) far, slightly, not quite, not nearly, etc.<br>a. The terrain on the moon is ……… as rough as on Mars. (big difference)<br>b. His solo performance was ……… the most memorable moment of the evening.<br>c. This case had ……… as many testimonies as the previous one. (this has far less)<br>d. This workout will be ……… more intensive than the last one.</div>
+          <button class="btn-reveal" data-target="q94">Show answer</button>
+          <div class="q-answer" id="q94">
+            <div class="answer-label">Answer</div>
+            a. nowhere near<br>b. by far<br>c. not nearly<br>d. a good deal / way
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B2" data-tags="neg-inversion there-it">
+          <div class="q-head">
+            <span class="level-badge level-B2">B2</span>
+            <span class="tag">Negative Inversion</span><span class="tag">There is / It is</span>
+            <span class="src">B2 Grammar Bonus</span>
+          </div>
+          <div class="q-body">Bonus: a. Make a sentence beginning with "Never before …" and "There are bound to be …".<br>b. Rephrase into one sentence: The research team encountered an unexpected anomaly. The validity of their long-awaited results was imperiled by it. The international team subsequently undertook a rigorous re-evaluation of all data. This was pivotal in averting a premature conclusion.</div>
+          <button class="btn-reveal" data-target="q95">Show answer</button>
+          <div class="q-answer" id="q95">
+            <div class="answer-label">Answer</div>
+            a. Sample: "Never before had the team faced such a challenge." / "There are bound to be delays."<br>b. Sample: Having encountered an unexpected anomaly that imperiled the validity of their long-awaited results, the international team subsequently undertook a rigorous re-evaluation of all data, which was pivotal in averting a premature conclusion.
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B2" data-tags="vocab">
+          <div class="q-head">
+            <span class="level-badge level-B2">B2</span>
+            <span class="tag">Vocabulary</span>
+            <span class="src">B2 Vocabulary set 1</span>
+          </div>
+          <div class="q-body">Match the word to its meaning: array (n), asylum (n), canvas (n), debris (n), discretion (n), faction (n), hierarchy (n), ratio (n), jurisdiction (n), spectrum (n).</div>
+          <button class="btn-reveal" data-target="q96">Show answer</button>
+          <div class="q-answer" id="q96">
+            <div class="answer-label">Answer</div>
+            array = an impressive display or collection · asylum = protection granted by a state to refugees · canvas = a strong, coarse unbleached cloth · debris = scattered pieces of waste or remains · discretion = the freedom to decide or choose · faction = a small, organized dissenting group within a larger one · hierarchy = a system where people/things are ranked · ratio = the relationship between two numbers or amounts · jurisdiction = the official power to make legal decisions · spectrum = a wide range of related ideas or qualities
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B2" data-tags="vocab">
+          <div class="q-head">
+            <span class="level-badge level-B2">B2</span>
+            <span class="tag">Vocabulary</span>
+            <span class="src">B2 Vocabulary set 2</span>
+          </div>
+          <div class="q-body">Match the word to its meaning: advocate (v), prevail (v), contend (v), oblige (v), stumble (v), thrive (v), yield (v), worthwhile (adj), unprecedented (adj), vicious (adj).</div>
+          <button class="btn-reveal" data-target="q97">Show answer</button>
+          <div class="q-answer" id="q97">
+            <div class="answer-label">Answer</div>
+            advocate = publicly recommend or support · prevail = prove more powerful; be victorious · contend = struggle to surmount; assert · oblige = make someone legally or morally bound to an action · stumble = trip or lose balance; make an error · thrive = grow or develop well and vigorously · yield = produce or provide; give way to · worthwhile = sufficiently valuable for the time, money, or effort spent · unprecedented = unparalleled; never done or known before · vicious = deliberately cruel or violent
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B2" data-tags="vocab">
+          <div class="q-head">
+            <span class="level-badge level-B2">B2</span>
+            <span class="tag">Vocabulary</span>
+            <span class="src">B2 Vocabulary set 3</span>
+          </div>
+          <div class="q-body">Match the phrase to its meaning: too bad, a bit of a…, at the end of the day, ever since…, no matter, all but, as of…, given that…, in effect, let alone.</div>
+          <button class="btn-reveal" data-target="q98">Show answer</button>
+          <div class="q-answer" id="q98">
+            <div class="answer-label">Answer</div>
+            too bad = unfortunate or regrettable · a bit of a… = somewhat; rather · at the end of the day = ultimately; in the final analysis · ever since… = continuously from a particular time · no matter = regardless of · all but = almost entirely, with an exception · as of… = starting from; on (a particular date/time) · given that… = taking into account that; because of · in effect = in practice; functioning · let alone = much less; not to mention
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B2" data-tags="vocab">
+          <div class="q-head">
+            <span class="level-badge level-B2">B2</span>
+            <span class="tag">Vocabulary</span>
+            <span class="src">B2 Usage</span>
+          </div>
+          <div class="q-body">Make a sentence with 10 of these 12 common phrases showing their meaning, context, and usage: "put it" (how shall I put it?), "may well", "in full", "call on somebody", "by no means", "be meant to do something", "all the more", "in the face of something", "role model", "other than", "be to blame", "as far as I'm concerned".</div>
+          <button class="btn-reveal" data-target="q99">Show answer</button>
+          <div class="q-answer" id="q99">
+            <div class="answer-label">Answer</div>
+            Open task — sample sentences:<br>"put it": How shall I put it? He wasn't exactly enthusiastic.<br>"may well": He may well be right about this.<br>"in full": Please pay the invoice in full by Friday.<br>"call on somebody": The teacher called on Anna to answer the question.<br>"by no means": This is by no means an easy task.<br>"be meant to do something": You're meant to knock before entering.<br>"all the more": Given the risks, it's all the more important to be careful.<br>"in the face of something": She stayed calm in the face of danger.<br>"role model": My grandmother has always been a role model to me.<br>"other than": I have no plans other than resting this weekend.<br>"be to blame": The driver was to blame for the accident.<br>"as far as I'm concerned": As far as I'm concerned, the meeting was a success.
+          </div>
+        </div>
+
+        <div class="q-card" data-level="B2" data-tags="reading">
+          <div class="q-head">
+            <span class="level-badge level-B2">B2</span>
+            <span class="tag">Reading Comprehension</span>
+            <span class="src">B2 Reading Comprehension</span>
+          </div>
+          <div class="q-body">"The Boy in the Striped Pajamas" — answer 3 of the 4 questions.<br>1. Bruno often observes the people on the other side of the fence. How does his innocent perception of their lives differ from the grim reality of the camp?<br>2. Describe the unusual friendship that develops between Bruno and Shmuel. What draws them together despite the barrier and their different lives?<br>3. How does Bruno's naivety influence his actions and understanding throughout the story?<br>4. What do the "striped pajamas" come to symbolize by the end of the book, especially regarding identity, dehumanization, and freedom?</div>
+          <button class="btn-reveal" data-target="q100">Show answer</button>
+          <div class="q-answer" id="q100">
+            <div class="answer-label">Answer</div>
+            Open-ended essay questions — no single fixed answer. Look for: (1) Bruno interprets the camp as a farm and the prisoners' clothing as pajamas, missing the horror an adult reader perceives; (2) their friendship forms through shared boredom, curiosity, and childlike innocence that ignores the fence and ideology dividing them; (3) his naivety drives the tragic ending, since he doesn't grasp the danger of entering the camp; (4) the pajamas symbolize the stripping of identity and individuality, reducing people to a uniform, dehumanized mass, and ultimately Bruno's own loss of freedom and life.
+          </div>
+        </div>
+  </div>
+
+  <div id="no-results">No questions match your filters.</div>
+
+</div>
+
+<script>
+(function () {
+  const cards = Array.from(document.querySelectorAll('.q-card'));
+  const fLevel = document.getElementById('f-level');
+  const fTag = document.getElementById('f-tag');
+  const fSearch = document.getElementById('f-search');
+  const btnReset = document.getElementById('btn-reset');
+  const resultCount = document.getElementById('result-count');
+  const noResults = document.getElementById('no-results');
+
+  function applyFilters() {
+    const level = fLevel.value;
+    const tag = fTag.value;
+    const search = fSearch.value.trim().toLowerCase();
+
+    let visible = 0;
+    cards.forEach(function (card) {
+      const cLevel = card.dataset.level || '';
+      const cTags = (card.dataset.tags || '').split(' ');
+      const text = card.textContent.toLowerCase();
+
+      const matchLevel = !level || cLevel === level;
+      const matchTag = !tag || cTags.indexOf(tag) !== -1;
+      const matchSearch = !search || text.indexOf(search) !== -1;
+
+      if (matchLevel && matchTag && matchSearch) {
+        card.classList.remove('hidden');
+        visible++;
+      } else {
+        card.classList.add('hidden');
+      }
+    });
+
+    resultCount.textContent = visible + (visible === 1 ? ' question found' : ' questions found');
+    noResults.style.display = visible === 0 ? 'block' : 'none';
+  }
+
+  [fLevel, fTag, fSearch].forEach(function (el) {
+    el.addEventListener('input', applyFilters);
+    el.addEventListener('change', applyFilters);
+  });
+
+  btnReset.addEventListener('click', function () {
+    fLevel.value = '';
+    fTag.value = '';
+    fSearch.value = '';
+    applyFilters();
+  });
+
+  document.querySelectorAll('.btn-reveal').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      const target = document.getElementById(btn.dataset.target);
+      const isShown = target.classList.toggle('shown');
+      btn.classList.toggle('active', isShown);
+      btn.textContent = isShown ? 'Hide answer' : 'Show answer';
+    });
+  });
+
+  applyFilters();
+})();
+</script>
