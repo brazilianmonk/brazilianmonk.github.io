@@ -20,6 +20,10 @@ Links to reliable Dhamma resources and monasteries.
 
 Here I keep my own summaries, notes, essays, programs, etc. It also includes some material for English learners.
 
+## [⌨️ MonkType](https://brazilianmonk.github.io/monktype/)
+
+A website to practice typing, spelling, and increase vocabulary in any language. You can make your own word lists and translate them into any language.
+
 ## [🧮 Monk Calculators](/monk-calculators)
 
 Calculate the Ordination Eligibility Date and the Ordination Duration Counter.
