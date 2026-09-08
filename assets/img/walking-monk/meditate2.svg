@@ -1,59 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 120" width="100" height="120">
-  <defs>
-    <radialGradient id="skinM2" cx="35%" cy="30%" r="75%">
-      <stop offset="0%" stop-color="#ffd9ae"/>
-      <stop offset="100%" stop-color="#e8ab74"/>
-    </radialGradient>
-    <linearGradient id="robeM2" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#f2a341"/>
-      <stop offset="55%" stop-color="#e2811f"/>
-      <stop offset="100%" stop-color="#b8620f"/>
-    </linearGradient>
-    <linearGradient id="sashM2" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#ffe1a8"/>
-      <stop offset="100%" stop-color="#f2b24a"/>
-    </linearGradient>
-    <radialGradient id="auraM2" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#fff1c9" stop-opacity="0.7"/>
-      <stop offset="70%" stop-color="#ffd98a" stop-opacity="0.24"/>
-      <stop offset="100%" stop-color="#ffd98a" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="shadowM2" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#000000" stop-opacity="0.32"/>
-      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
-    </radialGradient>
-  </defs>
-
-  <circle cx="50" cy="57" r="48" fill="url(#auraM2)"/>
-  <circle cx="26" cy="30" r="1.6" fill="#ffe1a8" opacity="0.9"/>
-  <circle cx="76" cy="34" r="1.2" fill="#ffe1a8" opacity="0.8"/>
-  <circle cx="70" cy="14" r="1.4" fill="#ffe1a8" opacity="0.7"/>
-  <ellipse cx="50" cy="110" rx="30" ry="6" fill="url(#shadowM2)"/>
-
-  <path d="M14 96 C22 108 38 110 50 108 C62 110 78 108 86 96 C80 104 66 106 50 105 C34 106 20 104 14 96 Z" fill="#f0c48a"/>
-  <path d="M18 98 C30 92 40 92 50 94 C60 92 70 92 82 98 C74 90 62 86 50 87 C38 86 26 90 18 98 Z" fill="url(#robeM2)"/>
-
-  <path d="M32 49 C27 61 25 78 29 91 C36 96 64 96 71 91 C75 78 73 61 68 49 C61 41 39 41 32 49 Z" fill="url(#robeM2)"/>
-  <path d="M50 47 L40 91" stroke="#c06e15" stroke-width="1.5" opacity="0.5" fill="none"/>
-  <path d="M50 47 L60 91" stroke="#c06e15" stroke-width="1.5" opacity="0.5" fill="none"/>
-  <path d="M32 61 L68 67" stroke="url(#sashM2)" stroke-width="9" stroke-linecap="round"/>
-
-  <g transform="rotate(28 40 81)">
-    <rect x="34" y="81" width="12" height="22" rx="6" fill="url(#robeM2)"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 84" width="64" height="84">
+  <ellipse cx="32" cy="79" rx="15" ry="2.2" fill="#000000" opacity="0.12"/>
+  <g transform="translate(0 0.8)">
+    <path d="M18 77 C26 79 38 79 46 77 C45.4 73 42 70.5 32 70.5 C22 70.5 18.6 73 18 77 Z" fill="#c19265"/>
+    <path d="M19.5 75 C25 70.5 39 70.5 44.5 75 C41 68.5 23 68.5 19.5 75 Z" fill="#ad7c3f"/>
+    <path d="M23.5 30 C21 40 21 50 23.5 58 L40.5 58 C43 50 43 40 40.5 30 C35.5 27 28.5 27 23.5 30 Z" fill="#ad7c3f"/>
+    <path d="M24.5 37 L39.5 42.5" stroke="#8a6230" stroke-width="3.4" stroke-linecap="round"/>
+    <path d="M25.5 44 C25 49 25.5 53 26.5 57 M38.5 44 C39 49 38.5 53 37.5 57" stroke="#8a6230" stroke-width="1" opacity="0.55" fill="none"/>
+    <ellipse cx="32" cy="63" rx="7.4" ry="4.6" fill="#d8a878"/>
+    <path d="M29.5 61.6 Q32 63.2 34.5 61.6" stroke="#8a6b4a" stroke-width="0.9" fill="none" stroke-linecap="round"/>
+    <rect x="29" y="24" width="6" height="5" rx="2" fill="#d8a878"/>
+    <circle cx="32" cy="18" r="8.6" fill="#d8a878"/>
+    <path d="M23.6 17 C23.6 6.8 40.4 6.8 40.4 17 C40.4 10.4 23.6 10.4 23.6 17 Z" fill="#4a3826"/>
+    <path d="M27.2 18.6 Q29.5 16 31.8 18.6" stroke="#2e2620" stroke-width="1.3" fill="none" stroke-linecap="round"/>
+    <path d="M32.2 18.6 Q34.5 16 36.8 18.6" stroke="#2e2620" stroke-width="1.3" fill="none" stroke-linecap="round"/>
+    <path d="M29.8 24.2 Q32 26 34.2 24.2" stroke="#8a6b4a" stroke-width="0.9" fill="none" stroke-linecap="round"/>
   </g>
-  <g transform="rotate(-28 60 81)">
-    <rect x="54" y="81" width="12" height="22" rx="6" fill="url(#robeM2)"/>
-  </g>
-  <ellipse cx="50" cy="89" rx="9" ry="6" fill="url(#skinM2)"/>
-
-  <rect x="45" y="35" width="10" height="8" fill="url(#skinM2)"/>
-  <circle cx="50" cy="25" r="19" fill="url(#skinM2)"/>
-  <path d="M31 23 C31 9 69 9 69 23 C69 16 31 16 31 23 Z" fill="#3a2c1e" opacity="0.9"/>
-  <path d="M42 25 Q45 22 48 25" stroke="#2b2118" stroke-width="1.8" fill="none" stroke-linecap="round"/>
-  <path d="M52 25 Q55 22 58 25" stroke="#2b2118" stroke-width="1.8" fill="none" stroke-linecap="round"/>
-  <path d="M45 33 Q50 37 55 33" stroke="#8a5525" stroke-width="1.6" fill="none" stroke-linecap="round"/>
-  <circle cx="35" cy="31" r="3" fill="#ff9d7a" opacity="0.4"/>
-  <circle cx="65" cy="31" r="3" fill="#ff9d7a" opacity="0.4"/>
-
-  <circle cx="50" cy="17" r="1.4" fill="#ffe1a8"/>
 </svg>

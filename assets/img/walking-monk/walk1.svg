@@ -1,57 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 120" width="100" height="120">
-  <defs>
-    <radialGradient id="skin1" cx="35%" cy="30%" r="75%">
-      <stop offset="0%" stop-color="#ffd9ae"/>
-      <stop offset="100%" stop-color="#e8ab74"/>
-    </radialGradient>
-    <linearGradient id="robe1" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#f2a341"/>
-      <stop offset="55%" stop-color="#e2811f"/>
-      <stop offset="100%" stop-color="#b8620f"/>
-    </linearGradient>
-    <linearGradient id="sash1" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#ffe1a8"/>
-      <stop offset="100%" stop-color="#f2b24a"/>
-    </linearGradient>
-    <radialGradient id="shadow1" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#000000" stop-opacity="0.35"/>
-      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
-    </radialGradient>
-  </defs>
-
-  <ellipse cx="50" cy="112" rx="20" ry="5" fill="url(#shadow1)"/>
-
-  <g transform="rotate(-35 68 54)">
-    <rect x="61" y="54" width="13" height="30" rx="6.5" fill="url(#robe1)"/>
-    <circle cx="67.5" cy="86" r="7" fill="url(#skin1)"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 84" width="64" height="84">
+  <ellipse cx="31" cy="80" rx="12" ry="2" fill="#000000" opacity="0.12"/>
+  <g transform="rotate(24 29 62)">
+    <rect x="26" y="60" width="6" height="16" rx="3" fill="#c19265"/>
+    <ellipse cx="29.5" cy="77.5" rx="4.6" ry="1.7" fill="#5f452a"/>
   </g>
-
-  <g transform="rotate(22 50 80)">
-    <rect x="41" y="80" width="13" height="26" rx="6.5" fill="#f0c48a"/>
-    <ellipse cx="47.5" cy="107" rx="9" ry="5" fill="#7a4a20"/>
+  <path d="M25 29 C23 40 23.5 51 26.5 62 L38.5 62 C41 51 41.5 40 39.5 29 C35 26.4 29.5 26.4 25 29 Z" fill="#ad7c3f"/>
+  <path d="M26.5 36 L39 41.5" stroke="#8a6230" stroke-width="3.6" stroke-linecap="round"/>
+  <path d="M27.5 44 C27 50 27.5 55 28.5 60 M36.5 44 C37 50 36.5 55 35.5 60" stroke="#8a6230" stroke-width="1.1" opacity="0.55" fill="none"/>
+  <g transform="rotate(-26 30 62)">
+    <rect x="27" y="60" width="6.2" height="16.5" rx="3.1" fill="#d8a878"/>
+    <ellipse cx="30.5" cy="78" rx="4.8" ry="1.8" fill="#6e4f2a"/>
   </g>
-
-  <path d="M32 48 C28 62 26 78 30 96 C36 102 64 102 70 96 C74 78 72 62 68 48 C60 40 40 40 32 48 Z" fill="url(#robe1)"/>
-  <path d="M50 46 L38 100" stroke="#c06e15" stroke-width="1.5" opacity="0.5" fill="none"/>
-  <path d="M50 46 L62 100" stroke="#c06e15" stroke-width="1.5" opacity="0.5" fill="none"/>
-  <path d="M32 60 L68 66" stroke="url(#sash1)" stroke-width="9" stroke-linecap="round"/>
-
-  <g transform="rotate(-28 50 80)">
-    <rect x="44" y="80" width="13" height="28" rx="6.5" fill="#ffd9ae"/>
-    <ellipse cx="50.5" cy="109" rx="9.5" ry="5" fill="#8a5525"/>
-  </g>
-
-  <rect x="45" y="34" width="10" height="8" fill="url(#skin1)"/>
-  <circle cx="50" cy="24" r="19" fill="url(#skin1)"/>
-  <path d="M31 22 C31 8 69 8 69 22 C69 15 31 15 31 22 Z" fill="#3a2c1e" opacity="0.9"/>
-  <circle cx="43" cy="24" r="2.3" fill="#2b2118"/>
-  <circle cx="57" cy="24" r="2.3" fill="#2b2118"/>
-  <path d="M44 32 Q50 36 56 32" stroke="#8a5525" stroke-width="1.8" fill="none" stroke-linecap="round"/>
-  <circle cx="35" cy="30" r="3" fill="#ff9d7a" opacity="0.45"/>
-  <circle cx="65" cy="30" r="3" fill="#ff9d7a" opacity="0.45"/>
-
-  <g transform="rotate(40 32 54)">
-    <rect x="26" y="54" width="13" height="30" rx="6.5" fill="url(#robe1)"/>
-    <circle cx="32.5" cy="86" r="7" fill="url(#skin1)"/>
+  <rect x="27.5" y="22.5" width="6" height="5" rx="2" fill="#d8a878"/>
+  <circle cx="31" cy="16.5" r="8.6" fill="#d8a878"/>
+  <path d="M38.9 15.6 Q41 17.5 38.5 19.2 L37 18.8 Z" fill="#d8a878"/>
+  <circle cx="27.6" cy="17.6" r="1.7" fill="#c19265"/>
+  <path d="M33.2 13.9 Q35.4 13.5 36.8 14.6" stroke="#4a3826" stroke-width="1" fill="none" stroke-linecap="round"/>
+  <circle cx="34.8" cy="16.4" r="1" fill="#2e2620"/>
+  <path d="M35.4 21.2 Q36.9 21.7 38 21" stroke="#8a6b4a" stroke-width="0.9" fill="none" stroke-linecap="round"/>
+  <g transform="rotate(18 34 33)">
+    <rect x="30.5" y="32" width="6.4" height="6" rx="2.4" fill="#8a6230"/>
+    <rect x="31.6" y="36" width="5.2" height="14" rx="2.6" fill="#d8a878"/>
+    <circle cx="34.2" cy="51.5" r="2.3" fill="#d8a878"/>
   </g>
 </svg>

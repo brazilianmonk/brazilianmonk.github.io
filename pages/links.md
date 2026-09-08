@@ -3,12 +3,12 @@ layout: page
 title: Links
 permalink: /links
 ---
-
-Here are some links to reliable resources for Theravāda Buddhism that I'm familiar with:
+anāgārika
+Here are some links to reliable resources for Theravāda Buddhism that I'm fairly familiar with:
  
 ## 📜 Pāḷi Texts
 ### [**E-piṭaka**](https://epitaka.org/) (website, app)
-<img src="/assets/img/e-pitaka.png" alt="description" style="width: 70%;">
+<img src="/assets/img/e-pitaka.png" alt="description" style="width: 50%;">
 
 - Languages: Pāḷi, Vietnamese, English, Tamil, and others
 
@@ -26,7 +26,7 @@ This is a translation project led by [Ven. PRC Sumana](https://www.facebook.com/
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
 ### [**Tipiṭaka Pāḷi Reader**](https://americanmonk.org/tipitaka-pali-reader/) (app)
-<img src="/assets/img/tpr.png" alt="description" style="width: 50%;">
+<img src="/assets/img/tpr.png" alt="description" style="width: 35%;">
 
 - Languages: Pāḷi and English; multiple scripts
 
@@ -50,15 +50,24 @@ An extensive repository of Buddhist literature. Curated and maintained by Bhante
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
-### [**Digital Pāḷi Dictionary en Español**](https://dhamma-pb.org/dpd-espanol/) (website)
-<img src="/assets/img/dpd-esp.png" alt="description" style="width: 50%;">
-
-Un proyecto de traducción del Digital Pāḷi Dictionary (Bhante Sri Lanka Bodhirasa) al Español liderado por Bhante Rāhula del [Monasterio Paññabhūmi](https://dhamma-pb.org/).
+## 🇧🇷 No Brasil
+#### [**Sociedade Buddhista do Brasil**](https://sociedadebudistadobrasil.org/) (organization)
+<img src="/assets/img/sbb.png" alt="description" style="width: 50%;">
+Grupo de praticantes Theravāda no RJ. 
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
-### [**Acesso ao Insight**](https://www.acessoaoinsight.net/index.htm) (website)
-<img src="/assets/img/aai.png" alt="description" style="width: 70%;">
+#### [**Mosteiro Suddhavāri**](https://suddhavari.org/) (monastery)
+
+Único monastério Theravāda do Brasil. Liderado pelo Bhante Brasil Mudito Thero, ordenado na Thailandia,  em conexão com a Sociedade Buddhista do Brasil.
+
+#### [**Casa De Dharma**](https://casadedharmaorg.org/) (website, center)
+<img src="/assets/img/casadedharma.png" alt="description" style="width: 40%;">
+
+Centro de meditação e estudo Theravāda em São Paulo, Brasil.
+
+#### [**Acesso ao Insight**](https://www.acessoaoinsight.net/index.htm) (website)
+<img src="/assets/img/aai.png" alt="description" style="width: 40%;">
 
 - Language: Português
 
@@ -66,32 +75,28 @@ Esse site liderado por [Michael Beisert](https://www.acessoaoinsight.net/arquivo
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
-### [**Sociedade Buddhista do Brasil**](https://sociedadebudistadobrasil.org/)
-<img src="/assets/img/sbb.png" alt="description" style="width: 50%;">
-Grupo de praticantes Theravāda no RJ. 
+## 🇪🇸🇲🇽🇺🇾 En Español
+#### [**Asociación Hispana de Buddhismo**](https://buddhismohispano.org/) (organization)
+<img src="/assets/img/AHB.png" alt="description" style="width: 70%;">
+
+Asociación basada en España dedicada a la difusión del Buddhismo por el mundo Hispano liderada por Ricardo Guerrero Diañéz y enfocada sobre todo en traducciones. Ahora están trabajando con el Suttanipāta. Colaboro personalmente con ellos desde el 2026. 
+ 
+#### [**Foro Buddhista Theravāda Latino**](https://theravada.lat/) (website)
+<img src="/assets/img/FBTL.png" alt="description" style="width: 50%;">
+
+Un forum online de comunidades sin fines comerciales ni lucrativos y monásticos latinos del Buddhismo Theravāda que ofrece un calendario común y actividades en Español, Portugués y, a veces, en Inglés.
+
+#### [**Digital Pāḷi Dictionary en Español**](https://dhamma-pb.org/dpd-espanol/) (website)
+<img src="/assets/img/dpd-esp.png" alt="description" style="width: 50%;">
+
+Un proyecto de traducción del Digital Pāḷi Dictionary (Bhante Sri Lanka Bodhirasa) al Español liderado por Bhante Rāhula del [Monasterio Paññabhūmi](https://dhamma-pb.org/).
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
-### [**Mosteiro Suddhvāri**](https://suddhavari.org/)
-
-Único monastério Theravāda do Brasil. Liderado pelo Bhante Brasil Mudito Thero, ordenado na Thailandia,  em conexão com a Sociedade Buddhista do Brasil.
-
-### [**Casa De Dharma**](https://casadedharmaorg.org/) (website, center)
-<img src="/assets/img/casadedharma.png" alt="description" style="width: 50%;">
-
-Centro de meditação e estudo Theravāda em São Paulo, Brasil.
-
-### [**Karuṇapura**](www.karunapura.com/sutta) (website)
+#### [**Karuṇapura**](https://www.karunapura.com/sutta) (website)
+<img src="/assets/img/karunapura.png" alt="description" style="width: 50%;">
 
 Esta pagina ofrece traducciones de suttas al Español.
-
-### [**Asociación Hispana de Buddhismo**](https://buddhismohispano.org/) (website)
-
-Asociación basada en España dedicada a la difusión del Buddhismo, sobretodo Theravāda, por el mundo Hispano liderada por Ricardo Guerrero Diañéz y enfocada sobre todo en traducciones. 
-
-### [**Foro Buddhista Theravāda Latino**](https://theravada.lat/) (website)
-
-Un forum online de comunidades sin fines comerciales ni lucrativos y monásticos latinos del Buddhismo Theravāda que ofrece un calendario común y actividades en Español, Portugués y, a veces, en Inglés.
 
 ## 🏛️ Theravāda Monasteries
 
@@ -111,22 +116,31 @@ This is the Pa Auk monastery in Maymyo, Myanmar, where I ordained and spent abou
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
 ### [**International Institute of Theravāda**](https://www.theravado.com/)
-<img src="/assets/img/iit.jpg" alt="" style="width: 60%;">
+<img src="/assets/img/iit.jpg" alt="" style="width: 40%;">
 
 Monastery/Institute for study. The level is quite rigorous (as per 2026) and includes all traditional topics of study such as Pāḷi, Abhidhamma, Suttanta, Vinaya, etc. with 24 45-minute classes and 2 exams a week. Lessons are given in either English or Sinhala medium. The Institute is planned to also give academic recognition (BA and possibly MA). There are 2 courses: the 6-year long Nissayamuttaka Course (BA) and the 2-year long Parisupaṭṭhāpaka Course (MA). The first covers all requirements for a monk to be independent, and considerably more. The latter prepares monks further and allow them to teach. 
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
 ### [**Na Uyana Forest Monastery**](https://nauyana.org/)
-<img src="/assets/img/nauyana.png" alt="" style="width: 100%;">
+<img src="/assets/img/nauyana.png" alt="" style="width: 70%;">
 
 This important Dhamma center in Sri Lanka is mainly for meditation with some optional classes, Dhamma talks, etc., mainly in Sinhalese. It's a large area that includes 3 sections with different environments (from more to less secluded). There is also a nearby monastery for study. I recommend Bhante Ariyadassana as guide.
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
 ### [**Wat Khao Sanam Chai**](https://web.facebook.com/watkhaosanamchai)
-<img src="/assets/img/wat-khao-sanam-chai.png" alt="" style="width: 100%;">
+<img src="/assets/img/wat-khao-sanam-chai.png" alt="" style="width: 80%;">
 Monastery in Thailand focused on the study of Abhidhamma, Pāḷi, Vinaya, and meditation on a separate area. It is led by Bhante Thai Chandako Mahāthero and offers Dhamma talks daily and on Uposatha days.
+
+
+## 🎓 Learning Tools
+### [**MonkType**](https://brazilianmonk.github.io/monktype/)
+<img src="/assets/img/monktype.png" alt="description" style="width: 50%; border-radius: 8px;">
+
+Website to practice typing, spelling, and increase vocabulary in any language. You can make your own word lists and translate them into any language.
+
+[**Watch Video**](https://youtu.be/knTcEjCX5SQ)
 
 
 ## 🧠 Modern Research
@@ -166,13 +180,6 @@ Conducts large-scale longitudinal studies mapping the long-term physiological an
 ### [**The Division of Perceptual Studies**](https://med.virginia.edu/perceptual-studies/)
 Scientific studies on past-lives and extraordinary human experiences and capacities. 
 
-## 🎓 Learning Tools
-### [**MonkType**](https://brazilianmonk.github.io/monktype/)
-<img src="/assets/img/monktype.png" alt="description" style="width: 50%; border-radius: 8px;">
-
-Website to practice typing, spelling, and increase vocabulary in any language. You can make your own word lists and translate them into any language.
-
-[**Watch Video**](https://youtu.be/knTcEjCX5SQ)
 
 ---
 {% include toc.html %}

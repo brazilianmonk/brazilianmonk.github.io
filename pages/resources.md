@@ -4,21 +4,17 @@ title: Resources
 permalink: /resources
 ---
 
-## 🏠 [Vinaya Monastery List](/monasteries)
+## [🏠 Theravāda Monastery Directory](/monasteries)
 
-A list of Theravāda monasteries that follow the rules of conduct and the Tipiṭaka.
-
-## 📚 Online Course
-
-Online course: Introduction to Buddhism (under construction)
+Theravāda Buddhist monasteries known to maintain the Theravāda Vinaya and traditional Tipiṭaka heritage.
 
 ## [🔗 Links](/links)
 
-Links to reliable Dhamma resources and monasteries.
+Links to Dhamma resources for Dhamma study and practice.
 
 ## [📝 Summaries, notes, essays, etc.](/summaries)
 
-Here I keep my own summaries, notes, essays, programs, etc. It also includes some material for English learners.
+Here I keep my own Buddhist summaries, notes, essays, programs, etc. It also includes material for English learners.
 
 ## [⌨️ MonkType](https://brazilianmonk.github.io/monktype/)
 

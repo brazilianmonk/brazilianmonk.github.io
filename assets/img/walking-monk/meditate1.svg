@@ -1,61 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 120" width="100" height="120">
-  <defs>
-    <radialGradient id="skinM1" cx="35%" cy="30%" r="75%">
-      <stop offset="0%" stop-color="#ffd9ae"/>
-      <stop offset="100%" stop-color="#e8ab74"/>
-    </radialGradient>
-    <linearGradient id="robeM1" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#f2a341"/>
-      <stop offset="55%" stop-color="#e2811f"/>
-      <stop offset="100%" stop-color="#b8620f"/>
-    </linearGradient>
-    <linearGradient id="sashM1" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#ffe1a8"/>
-      <stop offset="100%" stop-color="#f2b24a"/>
-    </linearGradient>
-    <radialGradient id="auraM1" cx="50%" cy="42%" r="55%">
-      <stop offset="0%" stop-color="#fff1c9" stop-opacity="0.55"/>
-      <stop offset="70%" stop-color="#ffd98a" stop-opacity="0.16"/>
-      <stop offset="100%" stop-color="#ffd98a" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="shadowM1" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#000000" stop-opacity="0.32"/>
-      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
-    </radialGradient>
-  </defs>
-
-  <circle cx="50" cy="58" r="46" fill="url(#auraM1)"/>
-  <ellipse cx="50" cy="110" rx="30" ry="6" fill="url(#shadowM1)"/>
-
-  <!-- crossed legs -->
-  <path d="M14 96 C22 108 38 110 50 108 C62 110 78 108 86 96 C80 104 66 106 50 105 C34 106 20 104 14 96 Z" fill="#f0c48a"/>
-  <path d="M18 98 C30 92 40 92 50 94 C60 92 70 92 82 98 C74 90 62 86 50 87 C38 86 26 90 18 98 Z" fill="url(#robeM1)"/>
-
-  <!-- robe torso -->
-  <path d="M33 50 C28 62 26 78 30 92 C37 97 63 97 70 92 C74 78 72 62 67 50 C60 42 40 42 33 50 Z" fill="url(#robeM1)"/>
-  <path d="M50 48 L40 92" stroke="#c06e15" stroke-width="1.5" opacity="0.5" fill="none"/>
-  <path d="M50 48 L60 92" stroke="#c06e15" stroke-width="1.5" opacity="0.5" fill="none"/>
-  <path d="M33 62 L67 68" stroke="url(#sashM1)" stroke-width="9" stroke-linecap="round"/>
-
-  <!-- resting hands, mudra -->
-  <g transform="rotate(28 40 82)">
-    <rect x="34" y="82" width="12" height="22" rx="6" fill="url(#robeM1)"/>
-  </g>
-  <g transform="rotate(-28 60 82)">
-    <rect x="54" y="82" width="12" height="22" rx="6" fill="url(#robeM1)"/>
-  </g>
-  <ellipse cx="50" cy="90" rx="9" ry="6" fill="url(#skinM1)"/>
-
-  <!-- head -->
-  <rect x="45" y="36" width="10" height="8" fill="url(#skinM1)"/>
-  <circle cx="50" cy="26" r="19" fill="url(#skinM1)"/>
-  <path d="M31 24 C31 10 69 10 69 24 C69 17 31 17 31 24 Z" fill="#3a2c1e" opacity="0.9"/>
-  <path d="M42 26 Q45 23 48 26" stroke="#2b2118" stroke-width="1.8" fill="none" stroke-linecap="round"/>
-  <path d="M52 26 Q55 23 58 26" stroke="#2b2118" stroke-width="1.8" fill="none" stroke-linecap="round"/>
-  <path d="M45 34 Q50 37 55 34" stroke="#8a5525" stroke-width="1.6" fill="none" stroke-linecap="round"/>
-  <circle cx="35" cy="32" r="3" fill="#ff9d7a" opacity="0.4"/>
-  <circle cx="65" cy="32" r="3" fill="#ff9d7a" opacity="0.4"/>
-
-  <!-- tiny dot at forehead, peaceful -->
-  <circle cx="50" cy="18" r="1.4" fill="#ffe1a8"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 84" width="64" height="84">
+  <ellipse cx="32" cy="79" rx="15" ry="2.2" fill="#000000" opacity="0.12"/>
+  <path d="M18 77 C26 79 38 79 46 77 C45.4 73 42 70.5 32 70.5 C22 70.5 18.6 73 18 77 Z" fill="#c19265"/>
+  <path d="M19.5 75 C25 70.5 39 70.5 44.5 75 C41 68.5 23 68.5 19.5 75 Z" fill="#ad7c3f"/>
+  <path d="M23.5 30 C21 40 21 50 23.5 58 L40.5 58 C43 50 43 40 40.5 30 C35.5 27 28.5 27 23.5 30 Z" fill="#ad7c3f"/>
+  <path d="M24.5 37 L39.5 42.5" stroke="#8a6230" stroke-width="3.4" stroke-linecap="round"/>
+  <path d="M25.5 44 C25 49 25.5 53 26.5 57 M38.5 44 C39 49 38.5 53 37.5 57" stroke="#8a6230" stroke-width="1" opacity="0.55" fill="none"/>
+  <ellipse cx="32" cy="63" rx="7.4" ry="4.6" fill="#d8a878"/>
+  <path d="M29.5 61.6 Q32 63.2 34.5 61.6" stroke="#8a6b4a" stroke-width="0.9" fill="none" stroke-linecap="round"/>
+  <rect x="29" y="24" width="6" height="5" rx="2" fill="#d8a878"/>
+  <circle cx="32" cy="18" r="8.6" fill="#d8a878"/>
+  <path d="M23.6 17 C23.6 6.8 40.4 6.8 40.4 17 C40.4 10.4 23.6 10.4 23.6 17 Z" fill="#4a3826"/>
+  <path d="M27.2 18.6 Q29.5 16 31.8 18.6" stroke="#2e2620" stroke-width="1.3" fill="none" stroke-linecap="round"/>
+  <path d="M32.2 18.6 Q34.5 16 36.8 18.6" stroke="#2e2620" stroke-width="1.3" fill="none" stroke-linecap="round"/>
+  <path d="M29.8 24.2 Q32 26 34.2 24.2" stroke="#8a6b4a" stroke-width="0.9" fill="none" stroke-linecap="round"/>
 </svg>
