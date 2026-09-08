@@ -1,0 +1,89 @@
+---
+layout: page
+permalink: /summaries/eng/unusual-usages-of-tenses
+---
+
+### Unusual (Special) Usages of Tenses
+
+"Unusual tense usage" refers to instances where the grammatical form of a tense does not align with its typical time reference (e.g., using a past form for a present meaning), or when specific tenses are employed for stylistic effect or to convey particular nuances.
+
+#### I. Subjunctive and counterfactual pasts
+
+These forms use a past tense to refer to a non-past (present or future) situation that is hypothetical, desired, or contrary to fact.
+
+**Present subjunctive (base form)**: used for recommendations, demands, or wishes, often without *-s* for third-person singular.
+
+- *It is crucial that he **be** informed.* (instead of *is*)
+- *I move that the meeting **be** adjourned.*
+- *The committee demands that he **be** here by noon.* (instead of *is*)
+- *It is imperative that she **finish** the report today.* (instead of *finishes*)
+- *Long live the King!* (optative, instead of *lives*)
+
+**Past subjunctive / modal past**: uses the past simple form for present/future hypotheticals, wishes, or preferences.
+
+- *If I **were** rich, I'd buy an island.* (instead of *was*)
+- *I wish she **knew** the truth now.* (referring to a present state)
+- *I'd rather you **came** tomorrow.* (referring to a future action)
+- *If only I **could** fly.* (referring to a present ability)
+- *If I were a millionaire, I'd travel the world.*
+- *If I were you, I'd leave immediately.*
+- *She acts as though she **were** the boss.* (instead of *was*)
+- *I'd rather/sooner he **went** home now.*
+    - **Unusual usage**: "went" (past simple) is used to express a preference for a present or future action, not a past one.
+    - **Subjunctive connection**: this construction functions like a past subjunctive, indicating a hypothetical or desired situation contrary to present reality, or a strong preference. The past tense here marks **unreality or remoteness, not past time**.
+- *I wish he **stopped** now.*
+    - **Unusual usage**: "stopped" (past simple) expresses a wish about a present situation that is contrary to fact.
+    - **Subjunctive connection**: similar to "I'd rather," the past simple after "wish" acts as a past subjunctive equivalent. It expresses regret or a desire for a present reality that is different from what it actually is.
+- *If only I **could** go now.*
+    - **Unusual usage**: "could" (past modal) expresses a wish for a present ability or possibility that the speaker doesn't have.
+    - **Subjunctive connection**: "if only" introduces a counterfactual situation. "Could" is the past form of "can" and serves as a past subjunctive equivalent here, conveying a hypothetical ability or a strong, often unfulfillable, desire for the present.
+
+**Inverted conditional (implied subjunctive)**
+
+- *Were I to win the lottery, I would retire immediately.* (instead of "If I were to win...")
+
+#### II. The historical and narrative present
+
+These usages employ the present tense to describe past events for vividness or to discuss creative works.
+
+- **Historical present**: uses the simple present to narrate past events as if they are happening now, to create immediacy.
+    - *In 1776, the Founding Fathers **sign** the Declaration of Independence.*
+    - *So, I **walk** into the room, and there he is!*
+- **Narrative / literary present**: used when discussing events within a work of fiction, a play, or a piece of art.
+    - *Hamlet **grapples** with existential dread throughout the play.*
+    - *The painting **depicts** a serene landscape.*
+
+#### III. Tense for future events
+
+Sometimes, non-future tenses are used to express future actions, especially if they are fixed or planned.
+
+- **Scheduled future (present simple)**: used for events fixed by a timetable or schedule.
+    - *The train **leaves** at 7 PM.*
+    - *Our flight **departs** next Tuesday.*
+- **Future in the past**: describes an action that was future from a past perspective, often using "would" or "was going to."
+    - *She said she **would call** later.* (from "I will call later")
+    - *I thought he **was going to arrive** yesterday.* (from "He is going to arrive today," said yesterday)
+
+#### IV. Less common but grammatically correct tenses
+
+While not strictly "unusual" in terms of deviation from time reference, these tenses are less frequently encountered in everyday speech due to their complex structure or specific meaning.
+
+- **Future perfect continuous**: describes an action that will have been ongoing up to a specific point in the future.
+    - *By Christmas, I **will have been studying** French for five years.*
+
+#### V. Present perfect in past meaning
+
+- *He **might have taken** the other train yesterday.*
+- *She **must have been** there an hour ago.*
+
+#### VI. "Could" in present meaning
+
+- *He **could** be hurt (now). Maybe he is hurt.*
+- *If only I **could** go now.*
+
+#### VII. In conditionals
+
+- **Past perfect instead of simple past**
+    - Hypothetical situation in the past: *If I **had come** home earlier, I would have seen him.*
+- **Past simple in present meaning**
+    - Hypothetical situation in the present: *If I **won** the lottery, I'd travel the world.*

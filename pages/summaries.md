@@ -134,6 +134,19 @@ This is a website / app that can help you learn the basics and get exposed to th
 - [**Absolute Phrases**](/summaries/eng/absolute-phrases)
 - [**Serious Writing Mistakes**](/summaries/eng/serious-writing-mistakes)
 - [**Present Perfect Continous Passive**: not used](/summaries/eng/present-perfect-continuous-passive)
+- [**Comma with "Sometimes"**](/summaries/eng/comma-with-sometimes)
+- [**"In common with" vs. "Common to"**](/summaries/eng/common-with-vs-common-to)
+- [**Some Confusing Verbs**](/summaries/eng/confusing-verbs)
+- [**Hard vs. Hardly**](/summaries/eng/hard-vs-hardly)
+- [**Identical Zero and 1st Conditional**](/summaries/eng/identical-zero-and-first-conditionals)
+- [**Meanings of "for"**](/summaries/eng/meanings-of-for)
+- [**Meanings of "Should"**](/summaries/eng/meanings-of-should)
+- [**Most vs. Mostly**](/summaries/eng/most-vs-mostly)
+- [**Animals and Their Onomatopoeia**](/summaries/eng/onomatopoeia)
+- [**Refining Common Adjectives**](/summaries/eng/refining-common-adjectives)
+- [**"So that..."**](/summaries/eng/so-that)
+- [**Unusual (Special) Usages of Tenses**](/summaries/eng/unusual-usages-of-tenses)
+- [**Pronunciations of the Number 0**](/summaries/eng/zero)
 
 --- 
 
