@@ -44,19 +44,17 @@ permalink: /about
 
 <p class="bio-controls">
   <strong>Language:</strong>
-  <button type="button" class="bio-btn lang-btn active" data-lang="en" onclick="setBioLang('en')">English</button>
-  <button type="button" class="bio-btn lang-btn" data-lang="es" onclick="setBioLang('es')">Español</button>
-  <button type="button" class="bio-btn lang-btn" data-lang="pt" onclick="setBioLang('pt')">Português</button>
-  &nbsp;&nbsp;<strong>Length:</strong>
-  <button type="button" class="bio-btn len-btn active" data-len="short" onclick="setBioLen('short')">Short</button>
-  <button type="button" class="bio-btn len-btn" data-len="middle" onclick="setBioLen('middle')">Middle</button>
-  <button type="button" class="bio-btn len-btn" data-len="long" onclick="setBioLen('long')">Long</button>
-</p>
-
-<p class="bio-downloads"><b>⏬ Download the Bio</b> (PDF with the three lengths):
-  <a id="dl-en" class="bio-dl bio-dl-active" href="/assets/docs/brazilianmonk_bio_english.pdf" download>in English</a> |
-  <a id="dl-es" class="bio-dl" href="/assets/docs/brazilianmonk_bio_espanol.pdf" download>en Español</a> |
-  <a id="dl-pt" class="bio-dl" href="/assets/docs/brazilianmonk_bio_portugues.pdf" download>em Português</a>
+  <select id="bio-lang-select" class="bio-select" onchange="setBioLang(this.value)">
+    <option value="en" selected>English</option>
+    <option value="es">Español</option>
+    <option value="pt">Português</option>
+  </select>
+  <strong>Length:</strong>
+  <select id="bio-len-select" class="bio-select" onchange="setBioLen(this.value)">
+    <option value="short" selected>Short</option>
+    <option value="middle">Middle</option>
+    <option value="long">Long</option>
+  </select>
 </p>
 
 <!-- ============ EN / SHORT ============ -->
@@ -134,15 +132,15 @@ permalink: /about
   <p>Desde 2026 colabora com a <a href="https://buddhismohispano.org/">Asociación Hispana de Buddhismo (AHB)</a>, uma associação dedicada a difundir o budismo Theravāda no mundo hispânico, atualmente voltada principalmente para as traduções.</p>
 </div>
 
+<p class="bio-downloads"><b>⏬ Download the Bio</b>
+  <a id="dl-en" class="bio-dl bio-dl-active" href="/assets/docs/brazilianmonk_bio_english.pdf" download><b>in English</b></a> |
+  <a id="dl-es" class="bio-dl" href="/assets/docs/brazilianmonk_bio_espanol.pdf" download><b>en Español</b></a> |
+  <a id="dl-pt" class="bio-dl" href="/assets/docs/brazilianmonk_bio_portugues.pdf" download><b>em Português</b></a>
+</p>
+
 <style>
     .bio-controls { margin: 0.8em 0 0.4em; }
-    .bio-btn {
-        background: transparent; color: inherit;
-        border: 1px solid #9a9a9a; border-radius: 14px;
-        padding: 1px 12px; margin: 2px 3px; cursor: pointer; font-size: 0.95em;
-    }
-    .bio-btn:hover { border-color: #666; }
-    .bio-btn.active { background: #6b7280; border-color: #6b7280; color: #fff; }
+    .bio-select { font: inherit; font-size: 0.95em; padding: 1px 4px; margin: 0 8px 0 2px; }
     .bio-dl-active { font-weight: bold; }
 </style>
 
@@ -157,8 +155,6 @@ permalink: /about
                 if (el) el.hidden = (l !== bioLang || n !== bioLen);
             });
         });
-        document.querySelectorAll('.lang-btn').forEach(function (b) { b.classList.toggle('active', b.dataset.lang === bioLang); });
-        document.querySelectorAll('.len-btn').forEach(function (b) { b.classList.toggle('active', b.dataset.len === bioLen); });
         ['en', 'es', 'pt'].forEach(function (l) {
             var a = document.getElementById('dl-' + l);
             if (a) a.classList.toggle('bio-dl-active', l === bioLang);
@@ -166,6 +162,8 @@ permalink: /about
     }
     updateBio();
 </script>
+
+---
 
 [📆 **Calendar**](/calendar): upcoming events
 
