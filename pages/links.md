@@ -85,11 +85,11 @@ Centro de meditação e estudo Theravāda em São Paulo, Brasil.
 
 Esta pagina ofrece traducciones de suttas al Español.
 
-### [**Asociación Hispana de Buddhismo**](https://buddhismohispano.org/)
+### [**Asociación Hispana de Buddhismo**](https://buddhismohispano.org/) (website)
 
 Asociación basada en España dedicada a la difusión del Buddhismo, sobretodo Theravāda, por el mundo Hispano liderada por Ricardo Guerrero Diañéz y enfocada sobre todo en traducciones. 
 
-### [**Foro Buddhista Theravāda Latino**](https://theravada.lat/)
+### [**Foro Buddhista Theravāda Latino**](https://theravada.lat/) (website)
 
 Un forum online de comunidades sin fines comerciales ni lucrativos y monásticos latinos del Buddhismo Theravāda que ofrece un calendario común y actividades en Español, Portugués y, a veces, en Inglés.
 
@@ -167,7 +167,6 @@ Conducts large-scale longitudinal studies mapping the long-term physiological an
 Scientific studies on past-lives and extraordinary human experiences and capacities. 
 
 ## 🎓 Learning Tools
-
 ### [**MonkType**](https://brazilianmonk.github.io/monktype/)
 <img src="/assets/img/monktype.png" alt="description" style="width: 50%; border-radius: 8px;">
 
