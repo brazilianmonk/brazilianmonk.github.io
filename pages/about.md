@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-## the Author: Bhikkhu Ariyañāṇa
+## the Author: Bhikkhu Brazil Ariyañāṇa Thera
 
 <img src="/assets/img/round-me-214.jpg" alt="description" class="no-effect" style="width: 40%;">
 
@@ -36,7 +36,7 @@ permalink: /about
 </script>
 
 
-**2022-present**: student and English teacher at [Intl. Inst. of Theravāda](https://www.theravado.com/) (Sri Lanka) and public speaker on Buddha Dhamma and meditation.
+**2022-present**: student and English teacher at [Intl. Inst. of Theravāda](https://www.theravado.com/) (Sri Lanka) and public speaker on Buddhism and meditation (Brazil & Spain)
 
 **2026-present**: collaborating with the [Asociación Hispana de Buddhismo (AHB)](https://buddhismohispano.org/), an association dedicated to spreading Theravāda Buddhism in the Hispanic world, currently with an emphasis on translations.
 
