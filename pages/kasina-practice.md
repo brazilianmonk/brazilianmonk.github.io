@@ -20,15 +20,15 @@ add purpose
 
 To achieve meaningful progress and success in this and any meditation practice, specific foundational requirements must be met to prevent gross obstructive mental states and allow the mind to develop subtler, wholesome qualities:
 * **The Five Precepts:** The practitioner must follow at least the five precepts (abstaining from: killing, stealing, sexual misconduct, lying, and consuming intoxicants). This is essential because those actions prevent the mind from developing more stable and subtler mental states.
-* **Kammassakatañāṇa (Understanding the Ownership of Deeds):** The practitioner must possess the correct understanding that their intentional actions produce results in the future according to their inherent nature (unwholesome deeds produce negative, while wholesome positive results). This understanding forms the basic right view necessary to support deep meditation and without it, the mind is incapable of achieving meaningful progress in meditation. Mere confidence in this principle, without deep understanding, is enough at this point.
+* **Kammassakatañāṇa (Understanding the Ownership of Deeds):** The practitioner must possess the correct understanding that their intentional actions produce results in the future according to their inherent nature (unwholesome deeds produce negative results, while wholesome deeds positive). This understanding forms the basic right view necessary to support deep meditation and without it, the mind is incapable of achieving meaningful progress in meditation, even if practiced for decades. Mere confidence in this principle, without deep understanding, is enough.
 
 ---
 
 ## The Object
 
 The physical setup of the external disk, known as the *parikamma nimitta*, serves as the initial basis for this development.
-* **Dimensions and Material:** The disk should ideally be white and about 30 cm in diameter (roughly equivalent to one span and four fingers) [cite: 7, 9]. It can be made digitally on a sufficiently large screen or TV (which is advantageous as it is free from physical imperfections), or physically using paper, cloth, or any other clean white material [cite: 8, 9].
-* **Sizing Adjustments:** While a 30 cm disk is standard, making it larger tends to be better [cite: 11]. If the disk is smaller, it can still be used as an object but must be positioned closer to the meditator [cite: 12, 14].
+* **Dimensions and Material:** The disk should ideally be white and about 30 cm in diameter (roughly equivalent to one span and four fingers). It can be made physically using paper, cloth, or any other clean white material, or digitally on a sufficiently large screen or TV (which is advantageous as it is free from physical imperfections). 
+* **Sizing Adjustments:** While a ~30 cm disk is the minium, making it larger is also possible and may be better for some individuals. If the disk is smaller, it can still be used as an object but must be positioned closer to the eyes so that it occupies roughly 10 degrees of visual field angle. A rule of thumb is a distance-to-diameter ratio of 5:1 or 6:1. 
 * **Environment and Distance:** Place the disk in your regular meditation area against a neutral background that is completely free from visual distractions [cite: 10]. For a standard 30 cm disk, sit at a distance of approximately 1.0 to 1.25 meters [cite: 7, 13].
 * **Angle:** Position the disk at an angle where you can look at it comfortably without straining your posture [cite: 7].
 

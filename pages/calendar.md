@@ -5,7 +5,7 @@ permalink: /calendar
 
 <div class="schedule-intro">
   <h1>Upcoming Events</h1>
-  <p>These are upcoming events like talks, retreats, meetings, courses, etc. Just click on the event to get more info.</p><p>If you'd like to propose or book an event, just <a href="/contact">contact me here</a> or in social media. I do not use money, so it is free of charge.</p>
+  <p>These are upcoming events like talks, retreats, meetings, courses, etc. Just click on the event to get more info and for other matters just <a href="/contact">contact me here</a> or on social media.</p>
 </div>
 <style>
   .schedule-intro {

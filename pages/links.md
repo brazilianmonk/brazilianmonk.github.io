@@ -145,15 +145,10 @@ Website to practice typing, spelling, and increase vocabulary in any language. Y
 
 ## 🧠 Modern Research
 
-Though not personally familiarized with their work, I'll keep here a list of modern research groups connected to meditation in general. This type of content can be useful for science-oriented individuals to see the more directly visible benefits of meditation, but they are not resources for deep Dhamma learning.
+Though not personally familiarized with their work, I'll keep here a list of some modern research groups connected to meditation in general. This type of content can be useful for science-oriented individuals to see the more directly visible benefits of meditation, but they are not resources for deep Dhamma learning.
 
 ### [**Harvard / MGH Meditation Research Program**](https://meditation.mgh.harvard.edu/)
 Focuses on the neurobiology of advanced meditation, mapping deep states of consciousness and profound psychological transformations using advanced neuroimaging.
-
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
-
-### [**The Lazar Lab**](https://www.lazarlab.org) (Harvard / MGH)
-Pioneered research on neuroplasticity, proving that mindfulness meditation physically changes brain structure in areas governing memory and emotional regulation.
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
@@ -177,7 +172,7 @@ Conducts large-scale longitudinal studies mapping the long-term physiological an
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
-### [**The Division of Perceptual Studies**](https://med.virginia.edu/perceptual-studies/)
+### [**University of Virginia: The Division of Perceptual Studies**](https://med.virginia.edu/perceptual-studies/)
 Scientific studies on past-lives and extraordinary human experiences and capacities. 
 
 
