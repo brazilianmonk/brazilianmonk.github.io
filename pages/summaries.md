@@ -120,7 +120,7 @@ This is a website / app that can help you learn the basics and get exposed to th
 
 ### Summaries
 	
-- [**Relative Clauses - PDF summary in depth**](/assets/relative_clauses_summary.pdf)
+- [**Relative Clauses in depth**](/assets/relative_clauses_summary.pdf)
 - [**Structure of All Tenses**](/summaries/eng/all-tenses)
 - [**How Come**](/summaries/eng/how-come)
 - [**Present Perfect Simple vs. Continuous**](/summaries/eng/present-perfect-simple-vs-continuous)
@@ -145,8 +145,8 @@ This is a website / app that can help you learn the basics and get exposed to th
 - [**Animals and Their Onomatopoeia**](/summaries/eng/onomatopoeia)
 - [**Refining Common Adjectives**](/summaries/eng/refining-common-adjectives)
 - [**"So that..."**](/summaries/eng/so-that)
-- [**Unusual (Special) Usages of Tenses**](/summaries/eng/unusual-usages-of-tenses)
-- [**Pronunciations of the Number 0**](/summaries/eng/zero)
+- [**Unusual Usages of Tenses**](/summaries/eng/unusual-usages-of-tenses)
+- [**Pronunciation of the Number 0**](/summaries/eng/zero)
 
 --- 
 

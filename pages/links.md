@@ -166,5 +166,14 @@ Conducts large-scale longitudinal studies mapping the long-term physiological an
 ### [**The Division of Perceptual Studies**](https://med.virginia.edu/perceptual-studies/)
 Scientific studies on past-lives and extraordinary human experiences and capacities. 
 
+## 🎓 Learning Tools
+
+### [**MonkType**](https://brazilianmonk.github.io/monktype/)
+<img src="/assets/img/monktype.png" alt="description" style="width: 50%; border-radius: 8px;">
+
+Website to practice typing, spelling, and increase vocabulary in any language. You can make your own word lists and translate them into any language.
+
+[**Watch Video**](https://youtu.be/knTcEjCX5SQ)
+
 ---
 {% include toc.html %}
