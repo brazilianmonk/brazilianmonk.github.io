@@ -1651,7 +1651,7 @@ sace bhikkhu </b><mark remnotemark="true" style="background-color: transparent; 
 <li><b>Tasmiṃ ṭhatvā abhihaṭaṃ paṭikkhipantasseva pavāraṇā hoti, na tato paraṃ</b>.‒for one who rejects what is offered within this range there is pavāraṇā, not further</li>
 <li><b>if the monk is in a higher place</b>, like a tree, and the donor is on the ground, the hatthapāsa must be measured from the monk’s body part <b>closest </b>to the donor; the donor's head must be within the area of the hatthapāsa</li>
 <li><b>if the donor is in a higher place,</b> like a tree, and the monk is on the ground, the hatthapāsa must be measured from the monk’s head; the closest body part of the donor, except the offering arm, must be within hatthapāsa</li>
-<li><img height="325.7854721367421" src="https://remnote-user-data.s3.amazonaws.com/4-MXpzB-YklSH6yJQlq4fy1ktg79lZrRzYQqDyFZiZDB0V3gIHpN4GZidDJ2-oKZs\_b82pcEJMYQZ7mNU0S78RuuiabhUbrQKcVfevhkvyyZh1cbt\_9tNugrXbOetwh3.png" width="416.3195401831631"/></li>
+<li><img height="325.7854721367421" src="https://remnote-user-data.s3.amazonaws.com/4-MXpzB-YklSH6yJQlq4fy1ktg79lZrRzYQqDyFZiZDB0V3gIHpN4GZidDJ2-oKZs_b82pcEJMYQZ7mNU0S78RuuiabhUbrQKcVfevhkvyyZh1cbt_9tNugrXbOetwh3.png" width="416.3195401831631"/></li>
 </ul>
 </li>
 </ul>

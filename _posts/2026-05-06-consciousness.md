@@ -7,8 +7,8 @@ tags: [Consciousness (citta), Mental Factors (cetasikas), Object (ārammaṇa)]
 image: citta-simile.png
 ---
 
-<link rel="stylesheet" href="monk-scroller.css">
-<script src="monk-scroller.js"></script>
+<link rel="stylesheet" href="/assets/css/monk-scroller.css">
+<script src="/assets/js/monk-scroller.js"></script>
 
 ## 🇬🇧 English
 ### Consciousness

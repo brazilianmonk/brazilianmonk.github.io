@@ -6,12 +6,12 @@ permalink: /summaries
 
 ## ☸️ Buddha Dhamma
 	
-Here, you'll find my Dhamma notes and summaries. These are primarily derived, for now, from the Theravāda Buddhist teachings offered at [IIT](https://www.theravado.com/). You can also check [my RemNote Profile](https://www.remnote.com/profile/brazilianmonk) or [my Academia Profile](https://independent.academia.edu/BrazilianMonkAriya%C3%B1%C4%81%E1%B9%87a).
+Here, you'll find my Dhamma notes and summaries. These are primarily derived, for now, from the Theravāda Buddhist teachings offered at [IIT](https://www.theravado.com/). You can also check [my Academia Profile](https://independent.academia.edu/BrazilianMonkAriya%C3%B1%C4%81%E1%B9%87a).
 
 ### Pāḷi Language
 #### Pāḷi Pāṭha Sikkhā by Bh. Vijitānanda
-- Chapter 1: Lessons 1-10 [RemNote Article](https://www.remnote.com/a/Chapter-1-Pai-paha-sikkha-Bhante-Vijitananda/63d13028e8e74a05c741ba69) / [Page](/summaries/pali/pps-ch1-1-10)
-- Chapter 2: Lessons 1-13 [RemNote Article](https://www.remnote.com/a/Chapter-2-Pai-paha-sikkha-Bhante-Vijitananda/63d12c72e8e74a05c741b365) / [Page](/summaries/pali/pps-ch2-1-13) / [HTML](pali/pali-patha-sikkha-ch2-html.html)
+- Chapter 1: Lessons 1-10 [Page](/summaries/pali/pps-ch1-1-10)
+- Chapter 2: Lessons 1-13 [Page](/summaries/pali/pps-ch2-1-13) / [HTML](/pages/pali/pali-patha-sikkha-2-html.html)
 
 #### [Saññarāsi](/summaries/pali/niruttidipani-sannarasi)
 #### [Saṅketarāsi](/summaries/pali/niruttidipani-sanketarasi)
@@ -50,8 +50,8 @@ Here, you'll find my Dhamma notes and summaries. These are primarily derived, fo
 - **Pārājika**:
   - [Introduction and Methunadhammasikkhāpadaṁ](/summaries/vinaya/vibhanga/parajika/methunadhamma)
   - [Adinnādānasikkhāpadaṁ](/summaries/vinaya/vibhanga/parajika/adinnadana)
-  - [Manussaviggahasikkhāpadaṁ](/summaries/vinaya/vibhanga/parajika/manussaviggaha)
-  - [Uttarimanussadhammasikkhāpadaṁ](/summaries/vinaya/vibhanga/parajika/uttarimanussadhamma)
+  - [Manussaviggahasikkhāpadaṁ](/summaries/vinaya/vibhanga/parajika/methunadhamma)
+  - [Uttarimanussadhammasikkhāpadaṁ](/summaries/vinaya/vibhanga/parajika/methunadhamma)
   
 - **Pācittiya**:
   - [Musāvādavagga](/summaries/vinaya/vibhanga/pacittiya/musavadavagga)

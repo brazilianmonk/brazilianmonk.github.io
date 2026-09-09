@@ -5676,7 +5676,7 @@ Summary by Brazil Ariyañāṇa Bhikkhu
     
     -   extra note
     
-        see [anukathana](#orgb7f0c92)
+        see [anukathana](#anukathana)
 
 -   ima
 
@@ -5880,7 +5880,8 @@ Summary by Brazil Ariyañāṇa Bhikkhu
         ]    
     
     -   anukathana
-    
+        {:#anukathana}
+
         [
         **eta / ima as "enaṁ"**: eta / ima, when referring back to something already mentioned, in du. ekv., can be "enaṁ"
         
