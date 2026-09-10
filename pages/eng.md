@@ -4,7 +4,7 @@ title: English Language Studies
 permalink: /english
 ---
 
-## 💬 English Language
+## Resources
 
 ![image](/assets/img/eng-teaching.png)
 
@@ -43,7 +43,7 @@ This is a website / app that can help you learn the basics and get exposed to th
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
-### Quizzes
+## Quizzes
 
 - [📈 **Practice Irregular Verbs**](/assets/irregular_verbs.html)
 
@@ -65,30 +65,30 @@ This is a website / app that can help you learn the basics and get exposed to th
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
-### Grammar Notes
+## Grammar Notes
 
 Organized by level, following the [grammar contents of Test-English.com](https://test-english.com/grammar-points/contents/). Notes that encompass a topic through several levels are kept under [Specific Topics](#specific-topics).
 
-#### Level 1 (A1–A2)
+### Level 1 (A1–A2)
 
 - [**How Come**](/summaries/eng/how-come)
 - [**Pronunciation of the Number 0**](/summaries/eng/zero)
 
-#### Level 2 (B1–B1+)
+### Level 2 (B1–B1+)
 
 - [**Present Perfect Simple vs. Continuous**](/summaries/eng/present-perfect-simple-vs-continuous)
 - [**Identical Zero and 1st Conditional**](/summaries/eng/identical-zero-and-first-conditionals)
 - [**"So that..."**](/summaries/eng/so-that)
 - [**Adjective Order**](/summaries/eng/adjective-order)
 
-#### Level 3 (B2)
+### Level 3 (B2)
 
 - [**Gerund vs. Present Participle**](/summaries/eng/gerund-vs-present-participle)
 - [**Participial Clauses**](/summaries/eng/participial-clauses)
 - [**Absolute Phrases**](/summaries/eng/absolute-phrases)
 - [**Serious Writing Mistakes**](/summaries/eng/serious-writing-mistakes)
 
-#### Specific Topics
+### Specific Topics
 
 Notes that cover a topic across several levels.
 
