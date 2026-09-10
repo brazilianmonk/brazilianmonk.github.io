@@ -67,33 +67,48 @@ This is a website / app that can help you learn the basics and get exposed to th
 
 ### Grammar Notes
 
-- [**Relative Clauses in depth**](/assets/relative_clauses_summary.pdf)
-- [**Structure of All Tenses**](/summaries/eng/all-tenses)
+Organized by level, following the [grammar contents of Test-English.com](https://test-english.com/grammar-points/contents/). Notes that encompass a topic through several levels are kept under [Specific Topics](#specific-topics).
+
+#### Level 1 (A1–A2)
+
 - [**How Come**](/summaries/eng/how-come)
+- [**Pronunciation of the Number 0**](/summaries/eng/zero)
+
+#### Level 2 (B1–B1+)
+
 - [**Present Perfect Simple vs. Continuous**](/summaries/eng/present-perfect-simple-vs-continuous)
-- [**To + ing Cases**](/summaries/eng/to-ing-cases)
-- [**Lay down vs. Lie down**](/summaries/eng/lay-down-vs-lie-down)
-- [**Participial Adjective vs. Passive Voice**](/summaries/eng/participial-adjective-vs-passive)
-- [**Do, make, do make, make do**](/summaries/eng/do-make)
-- [**Participial Clauses**](/summaries/eng/participial-clauses)
+- [**Identical Zero and 1st Conditional**](/summaries/eng/identical-zero-and-first-conditionals)
+- [**"So that..."**](/summaries/eng/so-that)
 - [**Adjective Order**](/summaries/eng/adjective-order)
+
+#### Level 3 (B2)
+
 - [**Gerund vs. Present Participle**](/summaries/eng/gerund-vs-present-participle)
+- [**Participial Clauses**](/summaries/eng/participial-clauses)
 - [**Absolute Phrases**](/summaries/eng/absolute-phrases)
 - [**Serious Writing Mistakes**](/summaries/eng/serious-writing-mistakes)
+
+#### Specific Topics
+
+Notes that cover a topic across several levels.
+
+- [**Structure of All Tenses**](/summaries/eng/all-tenses)
+- [**Unusual Usages of Tenses**](/summaries/eng/unusual-usages-of-tenses)
 - [**Present Perfect Continous Passive**: not used](/summaries/eng/present-perfect-continuous-passive)
+- [**Relative Clauses in depth**](/assets/relative_clauses_summary.pdf)
+- [**To + ing Cases**](/summaries/eng/to-ing-cases)
+- [**Participial Adjective vs. Passive Voice**](/summaries/eng/participial-adjective-vs-passive)
+- [**Do, make, do make, make do**](/summaries/eng/do-make)
+- [**Meanings of "Should"**](/summaries/eng/meanings-of-should)
+- [**Meanings of "for"**](/summaries/eng/meanings-of-for)
+- [**Lay down vs. Lie down**](/summaries/eng/lay-down-vs-lie-down)
+- [**Hard vs. Hardly**](/summaries/eng/hard-vs-hardly)
+- [**Most vs. Mostly**](/summaries/eng/most-vs-mostly)
 - [**Comma with "Sometimes"**](/summaries/eng/comma-with-sometimes)
 - [**"In common with" vs. "Common to"**](/summaries/eng/common-with-vs-common-to)
 - [**Some Confusing Verbs**](/summaries/eng/confusing-verbs)
-- [**Hard vs. Hardly**](/summaries/eng/hard-vs-hardly)
-- [**Identical Zero and 1st Conditional**](/summaries/eng/identical-zero-and-first-conditionals)
-- [**Meanings of "for"**](/summaries/eng/meanings-of-for)
-- [**Meanings of "Should"**](/summaries/eng/meanings-of-should)
-- [**Most vs. Mostly**](/summaries/eng/most-vs-mostly)
-- [**Animals and Their Onomatopoeia**](/summaries/eng/onomatopoeia)
 - [**Refining Common Adjectives**](/summaries/eng/refining-common-adjectives)
-- [**"So that..."**](/summaries/eng/so-that)
-- [**Unusual Usages of Tenses**](/summaries/eng/unusual-usages-of-tenses)
-- [**Pronunciation of the Number 0**](/summaries/eng/zero)
+- [**Animals and Their Onomatopoeia**](/summaries/eng/onomatopoeia)
 
 --- 
 

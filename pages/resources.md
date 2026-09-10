@@ -12,7 +12,7 @@ Theravāda Buddhist monasteries known to maintain the Theravāda Vinaya and trad
 
 Links to Dhamma resources for Dhamma study and practice.
 
-## [📝 Summaries, notes, essays, etc.](/summaries)
+## [📝 Dhamma summaries, notes, essays, etc.](/summaries)
 
 Here I keep my own Buddhist summaries, notes, essays, programs, etc.
 
