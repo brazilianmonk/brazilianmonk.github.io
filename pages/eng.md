@@ -23,7 +23,7 @@ Here I'm collecting useful links or resources on this topic:
 
 Website where you can practice typing, spelling, listening, and also learn the meaning of words in any language. You can make your own lists and translate them into any language. Watch the video to know how to use it (not difficult).
 
-[**Watch Video**](https://youtu.be/knTcEjCX5SQ)
+{% include youtube.html id="knTcEjCX5SQ" %}
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
