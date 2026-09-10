@@ -1,6 +1,6 @@
-<div class="youtube-container">
+<div class="youtube-container{% if include.ratio == "portrait" %} youtube-portrait{% endif %}">
   <iframe
-    src="https://www.youtube.com/embed/{{ include.id }}"
+    src="https://www.youtube.com/embed/{{ include.id }}{% if include.list %}?list={{ include.list }}{% endif %}"
     title="{{ include.title | default: 'YouTube video player' }}"
     loading="lazy"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -24,5 +24,9 @@
     height: 100%;
     border: 0;
     border-radius: 8px;
+  }
+  .youtube-container.youtube-portrait {
+    max-width: 360px;
+    aspect-ratio: 9 / 16;
   }
 </style>

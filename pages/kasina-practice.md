@@ -7,6 +7,8 @@ permalink: /kasina
 (still under 🚧 construction)
 Based on White Kasiṇa
 
+{% include youtube.html id="W4QLdPevoSc" ratio="portrait" title="White Kasiṇa - meditation subject to develop samādhi" %}
+
 <!--
 
 I'm writing this guide with the intention of including all important essential information in relatively simple terms so that a beginner is able to understand it and begin this wholesome development. 

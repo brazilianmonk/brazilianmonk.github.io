@@ -36,5 +36,9 @@ An interactive checklist to track and visualize progress in study, meditation, m
 
 Events going on.
 
+## [🎵 Recitation of Buddhist Texts](https://www.youtube.com/playlist?list=PLGXmpHceJ17dymOCLeTfbYcVFTX-LA12v)
+
+Chanting and recitation of Pāḷi texts, from protective verses (paritta) to suttas.
+
 
 

@@ -6,6 +6,8 @@ permalink: /summaries
 
 Here, you'll find my Dhamma notes and summaries. These are primarily derived, for now, from the Theravāda Buddhist teachings offered at [IIT](https://www.theravado.com/).
 
+{% include youtube.html id="n7j1YDHAEzY" list="PLGXmpHceJ17dZ2OxbXs1vvhEJW5AlVCfx" title="Dhamma Talks in IIT" %}
+
 ## Pāḷi Language
 #### Pāḷi Pāṭha Sikkhā by Bh. Vijitānanda
 - Chapter 1: Lessons 1-10 [Page](/summaries/pali/pps-ch1-1-10)
@@ -33,6 +35,8 @@ Here, you'll find my Dhamma notes and summaries. These are primarily derived, fo
 
 ## Abhidhamma
 
+{% include youtube.html id="W4QLdPevoSc" list="PLGXmpHceJ17e93JjGp2Bonu2CkX372t16" title="Abhidhamma Summaries" %}
+
 - [Attha, hīnattha, paramattha](/summaries/abhidhamma/attha)
 - Citta
   - [Introduction](/summaries/abhidhamma/citta-intro)
@@ -44,6 +48,9 @@ Here, you'll find my Dhamma notes and summaries. These are primarily derived, fo
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
 ## Vinaya
+
+{% include youtube.html id="NdtELe6xoyI" list="PLGXmpHceJ17djgvIng3_dL4CtR7L4M-93" title="Vinaya Summaries" %}
+
 #### Vibhaṅga Vinaya
 - **Pārājika**:
   - [Introduction and Methunadhammasikkhāpadaṁ](/summaries/vinaya/vibhanga/parajika/methunadhamma)

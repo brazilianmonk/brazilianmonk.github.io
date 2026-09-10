@@ -17,6 +17,8 @@ I've been teaching English to monks for a few years now. Some people think monks
 
 Here I'm collecting useful links or resources on this topic: 
 
+{% include youtube.html id="n7j1YDHAEzY" list="PLGXmpHceJ17fKvsYfPP580DyzFroIhNVP" title="Buddhism In English" %}
+
 ### [**MonkType**](https://brazilianmonk.github.io/monktype/)
 <img src="/assets/img/monktype.png" alt="description" style="width: 50%; border-radius: 8px;">
 <img src="/assets/img/monktype2.png" alt="description" style="width: 50%; border-radius: 8px;">
