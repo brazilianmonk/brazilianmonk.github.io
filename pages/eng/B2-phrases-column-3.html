@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>B2 Phrase Column 3 (29 Phrases)</title>
+    <style>
+        :root {
+            --primary: #2c3e50;
+            --success: #27ae60;
+            --purple: #8e44ad;
+            --skyblue: #3498db;
+            --bg: #f4f7f6;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: var(--bg);
+            padding: 40px;
+            margin: 0;
+        }
+        .deck-container { width: 100%; max-width: 980px; margin: 0 auto; }
+        .slide {
+            background: white;
+            padding: 45px;
+            border-radius: 20px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.1);
+            margin-bottom: 60px;
+            border-top: 16px solid var(--primary);
+            position: relative;
+        }
+        .phrase-header {
+            color: var(--primary);
+            font-size: 3.1em;
+            margin: 0px 0 20px 0;
+            font-weight: 800;
+            text-align: center;
+        }
+        .slide-num {
+            position: absolute; top: 20px; right: 30px;
+            color: #bdc6d0; font-weight: bold; font-size: 1.3em;
+        }
+        .reveal-btn {
+            border: none;
+            padding: 8px 26px;
+            border-radius: 10px;
+            cursor: pointer;
+            font-size: 1.2em;
+            font-weight: bold;
+            color: white;
+            margin: 9px auto 7px auto;
+            display: block;
+            transition: all 0.3s;
+        }
+        .btn-green { background: var(--success); }
+        .btn-purple { background: var(--purple); }
+        .btn-sky { background: var(--skyblue); }
+        .meaning-box, .synonyms-box {
+            display: none;
+            background: #f8fff0;
+            padding: 5px 18px 6px 18px;
+            border-radius: 12px;
+            margin: 12px 0;
+            font-size: 1.32em;
+            line-height: 1.65;
+            text-align: left;
+            border: 2px dashed var(--success);
+        }
+        .example-list {
+            display: none;
+            list-style: none;
+            padding: 0;
+            margin-top: 15px;
+        }
+        .example-list li {
+            background: #f8f4ff;
+            padding: 2px 15px;
+            margin-bottom: 5px;
+            border-radius: 10px;
+            border-left: 6px solid var(--purple);
+            font-size: 1.3em;
+            line-height: 1.5;
+        }
+    </style>
+</head>
+<body>
+<h1 style="text-align:center; color:var(--primary); font-size: 42px; margin-top: 150px; margin-bottom: 300px;">
+    &nbsp;&nbsp;&nbsp;&nbsp;B2 Phrase Column 3 (29 Phrases)
+</h1>
+<div class="deck-container" id="presentation"></div>
+
+<script>
+    const vocabulary = [
+        { p: "put sth together", m: "• To assemble or build something.<br>• To organize or prepare something.", syn: "• assemble &nbsp;&nbsp;&nbsp;• build &nbsp;&nbsp;&nbsp;• prepare", s: ["He put the furniture together by himself.", "The team put together an excellent presentation.", "She put together a list of recommendations.", "We're putting together a surprise party for her."] },
+        { p: "quality of life", m: "• The general well-being of a person or society.", syn: "• standard of living &nbsp;&nbsp;&nbsp;• well-being", s: ["Living in the countryside improved her quality of life.", "The government wants to improve the quality of life for citizens.", "Good healthcare is important for quality of life.", "Pollution reduces the quality of life in big cities."] },
+        { p: "ranging from", m: "• Including a variety of things from ... to ...", syn: "• varying from &nbsp;&nbsp;&nbsp;• from ... to ...", s: ["The hotel offers rooms ranging from basic to luxury.", "We sell products ranging from books to electronics.", "The course covers topics ranging from history to science.", "Ages of the participants ranged from 18 to 65."] },
+        { p: "prices ranging from €25 to €60", m: "• Prices varying between €25 and €60.", syn: "• prices from €25 to €60 &nbsp;&nbsp;&nbsp;• between €25 and €60", s: ["The tickets have prices ranging from €25 to €60.", "They offer packages ranging from €25 to €60.", "You can find gifts ranging from €25 to €60.", "The course fees range from €25 to €60."] },
+        { p: "regarded as sth", m: "• Considered to be something.", syn: "• seen as &nbsp;&nbsp;&nbsp;• viewed as &nbsp;&nbsp;&nbsp;• thought of as", s: ["She is regarded as one of the best doctors in the country.", "The book is regarded as a classic.", "He is widely regarded as a genius.", "This method is regarded as the most effective."] },
+        { p: "relevant to sb/sth", m: "• Connected or related to someone or something.", syn: "• related to &nbsp;&nbsp;&nbsp;• connected to &nbsp;&nbsp;&nbsp;• applicable to", s: ["This information is highly relevant to our discussion.", "Make sure your examples are relevant to the topic.", "The research is relevant to climate change.", "Is this training relevant to your job?" ] },
+        { p: "rely on sb/sth", m: "• To depend on someone or something.", syn: "• depend on &nbsp;&nbsp;&nbsp;• count on &nbsp;&nbsp;&nbsp;• trust", s: ["We rely on solar energy for electricity.", "You can always rely on her for help.", "The team relies heavily on their captain.", "Don't rely on others to do everything for you."] },
+        { p: "role model", m: "• A person who is a good example for others to follow.", syn: "• example &nbsp;&nbsp;&nbsp;• inspiration &nbsp;&nbsp;&nbsp;• idol", s: ["She is a great role model for young girls.", "Parents should be positive role models.", "Athletes are often seen as role models.", "He became a role model in his community."] },
+        { p: "set out", m: "• To start a journey.<br>• To explain or present something clearly.", syn: "• start &nbsp;&nbsp;&nbsp;• begin &nbsp;&nbsp;&nbsp;• present", s: ["We set out early in the morning.", "She set out her ideas in a clear report.", "He set out to change the world.", "The guide sets out all the rules clearly."] },
+        { p: "short of sth", m: "• Not having enough of something.<br>• Except for.", syn: "• lacking &nbsp;&nbsp;&nbsp;• without &nbsp;&nbsp;&nbsp;• except for", s: ["We're running short of time.", "The team is short of players.", "Short of a miracle, we can't win now.", "Everything was perfect, short of one small problem."] },
+        { p: "so as to do sth", m: "• In order to do something.", syn: "• in order to &nbsp;&nbsp;&nbsp;• to &nbsp;&nbsp;&nbsp;• with the aim of", s: ["She left early so as to avoid traffic.", "He worked hard so as to pass the exam.", "They saved money so as to buy a house.", "Speak clearly so as to be understood."] },
+        { p: "something like…", m: "• Approximately; similar to.", syn: "• around &nbsp;&nbsp;&nbsp;• approximately &nbsp;&nbsp;&nbsp;• like", s: ["It cost something like €200.", "The building looks something like a castle.", "There were something like 500 people at the event.", "It happened something like ten years ago."] },
+        { p: "sort sb/sth/yourself out", m: "• To organize or solve a problem.<br>• To deal with a difficult situation.", syn: "• organize &nbsp;&nbsp;&nbsp;• resolve &nbsp;&nbsp;&nbsp;• fix", s: ["I need to sort out my finances.", "The teacher helped sort out the problem.", "She sorted herself out and got a new job.", "We must sort this mess out quickly."] },
+        { p: "stick to sth", m: "• To continue doing or using something.", syn: "• keep to &nbsp;&nbsp;&nbsp;• follow &nbsp;&nbsp;&nbsp;• adhere to", s: ["You should stick to your diet.", "Let's stick to the original plan.", "She always sticks to her promises.", "It's better to stick to what you know best."] },
+        { p: "subject to sth", m: "• Likely to be affected by something.<br>• Depending on something.", syn: "• affected by &nbsp;&nbsp;&nbsp;• depending on &nbsp;&nbsp;&nbsp;• exposed to", s: ["The flight is subject to delay.", "All prices are subject to change.", "She is subject to frequent headaches.", "Entry is subject to approval."] },
+        { p: "sum up", m: "• To give a brief summary.", syn: "• summarize &nbsp;&nbsp;&nbsp;• conclude", s: ["To sum up, we need more funding.", "She summed up the main points at the end.", "Let me sum up what we've discussed.", "In summary, the project was a success."] },
+        { p: "sum sth up", m: "• To describe something in a short way.", syn: "• summarize &nbsp;&nbsp;&nbsp;• describe briefly", s: ["That sums up my feelings perfectly.", "His speech summed up the situation well.", "One word sums it up: amazing!", "How would you sum up your experience?"] },
+        { p: "take advantage of sb/sth", m: "• To make good use of an opportunity.<br>• To exploit someone unfairly.", syn: "• make use of &nbsp;&nbsp;&nbsp;• exploit &nbsp;&nbsp;&nbsp;• benefit from", s: ["You should take advantage of this opportunity.", "They took advantage of the good weather.", "Don't let others take advantage of you.", "She took full advantage of the free training."] },
+        { p: "take sth into account", m: "• To consider something when making a decision.", syn: "• consider &nbsp;&nbsp;&nbsp;• bear in mind &nbsp;&nbsp;&nbsp;• take into consideration", s: ["We must take the cost into account.", "The judge took his age into account.", "Don't forget to take weather into account.", "She took all the feedback into account."] },
+        { p: "take over", m: "• To gain control of something.", syn: "• assume control &nbsp;&nbsp;&nbsp;• take charge", s: ["The company was taken over by a bigger firm.", "She took over the business from her father.", "When will the new manager take over?", "The army took over the region."] },
+        { p: "take over from sb", m: "• To replace someone and do their job.", syn: "• replace &nbsp;&nbsp;&nbsp;• succeed &nbsp;&nbsp;&nbsp;• follow", s: ["Who will take over from the retiring CEO?", "She took over from her colleague while he was on holiday.", "The new coach took over from the old one.", "I'll take over from you at 6 p.m."] },
+        { p: "that is", m: "• Used to explain or clarify something.", syn: "• in other words &nbsp;&nbsp;&nbsp;• i.e. &nbsp;&nbsp;&nbsp;• meaning", s: ["We're meeting next week, that is, on Friday.", "Only one person can win, that is, the best player.", "He's on vacation, that is, until next month.", "She speaks three languages, that is, English, French and Spanish."] },
+        { p: "the vast majority of sth", m: "• Almost all of something.", syn: "• most of &nbsp;&nbsp;&nbsp;• nearly all &nbsp;&nbsp;&nbsp;• the great majority", s: ["The vast majority of students passed the exam.", "The vast majority of people support the idea.", "The vast majority of the work is already done.", "The vast majority of accidents are preventable."] },
+        { p: "turn into sth", m: "• To become something different.", syn: "• become &nbsp;&nbsp;&nbsp;• transform into &nbsp;&nbsp;&nbsp;• change into", s: ["The small company turned into a huge corporation.", "Caterpillars turn into butterflies.", "Her hobby turned into a successful business.", "The argument turned into a fight."] },
+        { p: "up to sb", m: "• To be someone's responsibility or choice.", syn: "• someone's decision &nbsp;&nbsp;&nbsp;• for sb to decide", s: ["It's up to you whether we go or not.", "The final decision is up to the manager.", "It's not up to me.", "The choice is entirely up to you."] },
+        { p: "when it comes to sth", m: "• When talking about or dealing with something.", syn: "• regarding &nbsp;&nbsp;&nbsp;• as for &nbsp;&nbsp;&nbsp;• in terms of", s: ["When it comes to money, he is very careful.", "She's an expert when it comes to marketing.", "When it comes to food, I prefer spicy dishes.", "No one is better when it comes to solving problems."] },
+        { p: "when it comes to doing sth", m: "• When the subject is doing a particular activity.", syn: "• as for doing &nbsp;&nbsp;&nbsp;• in terms of doing", s: ["When it comes to learning languages, she is very talented.", "He's hopeless when it comes to cooking.", "When it comes to making decisions, he is very decisive.", "No one can beat her when it comes to negotiating."] },
+        { p: "whether or not…", m: "• Used to say that something is true in either case.", syn: "• if ... or not &nbsp;&nbsp;&nbsp;• regardless of whether", s: ["I will go whether or not you come with me.", "Whether or not it rains, the match will continue.", "Tell me whether or not you agree.", "I'm not sure whether or not he will accept."] },
+        { p: "would rather…", m: "• Used to express preference.", syn: "• prefer to &nbsp;&nbsp;&nbsp;• would prefer", s: ["I would rather stay at home tonight.", "She would rather walk than take the bus.", "Would you rather have tea or coffee?", "He would rather not talk about it."] }
+    ];
+
+    const container = document.getElementById('presentation');
+    vocabulary.forEach((item, index) => {
+        const slide = document.createElement('div');
+        slide.className = 'slide';
+        slide.innerHTML = `
+            <div class="slide-num">${index + 1} / ${vocabulary.length}</div>
+            <div class="phrase-header">${item.p}</div>
+          
+            <button class="reveal-btn btn-green" id="btn-mean-${index}" onclick="toggleSection(${index}, 'mean')">Show Meaning</button>
+            <div class="meaning-box" id="mean-${index}">${item.m}</div>
+          
+            <button class="reveal-btn btn-sky" id="btn-syn-${index}" onclick="toggleSection(${index}, 'syn')">Synonyms</button>
+            <div class="synonyms-box" id="syn-${index}">${item.syn}</div>
+          
+            <button class="reveal-btn btn-purple" id="btn-ex-${index}" onclick="toggleSection(${index}, 'ex')">Example Sentences</button>
+            <ul class="example-list" id="ex-${index}"></ul>
+        `;
+        container.appendChild(slide);
+    });
+
+    function toggleSection(index, type) {
+        let box, btn, originalText;
+      
+        if (type === 'mean') {
+            box = document.getElementById(`mean-${index}`);
+            btn = document.getElementById(`btn-mean-${index}`);
+            originalText = "Show Meaning";
+        } else if (type === 'syn') {
+            box = document.getElementById(`syn-${index}`);
+            btn = document.getElementById(`btn-syn-${index}`);
+            originalText = "Synonyms";
+        } else {
+            box = document.getElementById(`ex-${index}`);
+            btn = document.getElementById(`btn-ex-${index}`);
+            originalText = "Example Sentences";
+          
+            if (box.children.length === 0) {
+                box.innerHTML = vocabulary[index].s.map(sentence => `<li>${sentence}</li>`).join('');
+            }
+        }
+        if (box.style.display === "block") {
+            box.style.display = "none";
+            btn.innerText = originalText;
+            btn.style.opacity = "1";
+        } else {
+            box.style.display = "block";
+            btn.innerText = "✓ " + originalText.split(" ")[0] + " Shown";
+            btn.style.opacity = "0.6";
+        }
+    }
+</script>
+</body>
+</html>

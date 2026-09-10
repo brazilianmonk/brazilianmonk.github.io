@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>B2 Words Column 2 (70 Words)</title>
+    <style>
+        :root {
+            --primary: #2c3e50;
+            --success: #27ae60;
+            --purple: #8e44ad;
+            --skyblue: #3498db;
+            --bg: #f4f7f6;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: var(--bg);
+            padding: 40px;
+            margin: 0;
+        }
+        .deck-container { width: 100%; max-width: 980px; margin: 0 auto; }
+        .slide {
+            background: white;
+            padding: 45px;
+            border-radius: 20px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.1);
+            margin-bottom: 60px;
+            border-top: 16px solid var(--primary);
+            position: relative;
+        }
+        .phrase-header {
+            color: var(--primary);
+            font-size: 3.1em;
+            margin: 0px 0 20px 0;
+            font-weight: 800;
+            text-align: center;
+        }
+        .slide-num {
+            position: absolute; top: 20px; right: 30px;
+            color: #bdc6d0; font-weight: bold; font-size: 1.3em;
+        }
+        .reveal-btn {
+            border: none;
+            padding: 8px 26px;
+            border-radius: 10px;
+            cursor: pointer;
+            font-size: 1.2em;
+            font-weight: bold;
+            color: white;
+            margin: 9px auto 7px auto;
+            display: block;
+            transition: all 0.3s;
+        }
+        .btn-green { background: var(--success); }
+        .btn-purple { background: var(--purple); }
+        .btn-sky { background: var(--skyblue); }
+        .meaning-box, .synonyms-box {
+            display: none;
+            background: #f8fff0;
+            padding: 5px 18px 6px 18px;
+            border-radius: 12px;
+            margin: 12px 0;
+            font-size: 1.32em;
+            line-height: 1.65;
+            text-align: left;
+            border: 2px dashed var(--success);
+        }
+        .example-list {
+            display: none;
+            list-style: none;
+            padding: 0;
+            margin-top: 15px;
+        }
+        .example-list li {
+            background: #f8f4ff;
+            padding: 2px 15px;
+            margin-bottom: 5px;
+            border-radius: 10px;
+            border-left: 6px solid var(--purple);
+            font-size: 1.3em;
+            line-height: 1.5;
+        }
+        .phrase-header .word {
+            font-weight: 800;
+            color: var(--primary);
+        }
+        .phrase-header .part-of-speech {
+            font-weight: 400;
+            color: #555;
+            font-size: 0.65em;
+            margin-left: 8px;
+        }
+    </style>
+</head>
+<body>
+<h1 style="text-align:center; color:var(--primary); font-size: 42px; margin-top: 150px; margin-bottom: 300px;">
+    &nbsp;&nbsp;&nbsp;&nbsp;B2 Words Column 2 (70 Words)
+</h1>
+<div class="deck-container" id="presentation"></div>
+
+<script>
+    const vocabulary = [
+        { p: "agency n.", m: "• An organization or department that provides a service.", syn: "• organization &nbsp;&nbsp;&nbsp;• department &nbsp;&nbsp;&nbsp;• bureau", s: ["She works for a travel agency.", "The news agency reported the story.", "The government agency helps small businesses.", "They hired an advertising agency."] },
+        { p: "agenda n.", m: "• A list of items to be discussed at a meeting.<br>• A plan or aim.", syn: "• schedule &nbsp;&nbsp;&nbsp;• plan", s: ["What's on the agenda for today's meeting?", "She has her own political agenda.", "The main item on the agenda is the budget.", "They followed the agenda strictly."] },
+        { p: "aggressive adj.", m: "• Behaving in a forceful or angry way.<br>• Very determined and confident.", syn: "• hostile &nbsp;&nbsp;&nbsp;• assertive", s: ["His aggressive behaviour scared the children.", "She has a very aggressive sales style.", "The team played an aggressive game.", "Some dogs become aggressive when scared."] },
+        { p: "aid n., v.", m: "• (n.) Help or support.<br>• (v.) To help someone.", syn: "• help &nbsp;&nbsp;&nbsp;• assistance &nbsp;&nbsp;&nbsp;• support", s: ["The country receives a lot of foreign aid.", "She came to his aid immediately.", "The government aided the victims.", "They need financial aid."] },
+        { p: "aircraft n.", m: "• A vehicle that flies (plane, helicopter, etc.).", syn: "• plane &nbsp;&nbsp;&nbsp;• airplane", s: ["The aircraft landed safely.", "Many aircraft fly over this area.", "The company builds military aircraft.", "The aircraft was delayed due to bad weather."] },
+        { p: "alarm v.", m: "• To make someone feel worried or frightened.", syn: "• worry &nbsp;&nbsp;&nbsp;• frighten &nbsp;&nbsp;&nbsp;• concern", s: ["The news alarmed many people.", "His strange behaviour alarmed his parents.", "I was alarmed by the loud noise.", "Doctors are alarmed by the increase in cases."] },
+        { p: "alter v.", m: "• To change something.", syn: "• change &nbsp;&nbsp;&nbsp;• modify &nbsp;&nbsp;&nbsp;• adjust", s: ["We need to alter our plans.", "She altered her dress for the wedding.", "The weather altered our travel plans.", "The company altered its policy."] },
+        { p: "amount v.", m: "• To be equal to something in number or importance.", syn: "• equal &nbsp;&nbsp;&nbsp;• add up to", s: ["The cost amounts to $500.", "His savings amount to very little.", "It amounts to the same thing.", "The total amounts to more than expected."] },
+        { p: "anger n.", m: "• A strong feeling of annoyance or displeasure.", syn: "• rage &nbsp;&nbsp;&nbsp;• fury", s: ["He couldn't control his anger.", "Her voice was full of anger.", "There is growing public anger about the issue.", "He shouted in anger."] },
+        { p: "angle n.", m: "• A way of thinking about something.", syn: "• perspective &nbsp;&nbsp;&nbsp;• viewpoint", s: ["We need to look at this from a different angle.", "She considered the problem from every angle.", "The story was written from a new angle.", "Let's try another angle."] },
+        { p: "anniversary n.", m: "• A date on which something important happened in the past.", syn: "• commemoration", s: ["Today is our wedding anniversary.", "They celebrated their 50th anniversary.", "It's the anniversary of the company's founding.", "We marked the anniversary with a party."] },
+        { p: "annual adj.", m: "• Happening once every year.", syn: "• yearly", s: ["The annual meeting is next week.", "She receives an annual bonus.", "This is our annual trip to the mountains.", "The annual festival attracts many tourists."] },
+        { p: "anxious adj.", m: "• Worried or nervous.", syn: "• worried &nbsp;&nbsp;&nbsp;• nervous &nbsp;&nbsp;&nbsp;• uneasy", s: ["She was anxious about the exam.", "He felt anxious before the interview.", "I'm anxious to hear the results.", "Parents are often anxious about their children."] },
+        { p: "apparent adj.", m: "• Clear or obvious.", syn: "• obvious &nbsp;&nbsp;&nbsp;• clear &nbsp;&nbsp;&nbsp;• evident", s: ["It was apparent that she was upset.", "The problems became apparent later.", "There is no apparent reason for his behaviour.", "His disappointment was apparent."] },
+        { p: "apparently adv.", m: "• According to what people say or seems to be true.", syn: "• seemingly &nbsp;&nbsp;&nbsp;• it seems", s: ["Apparently, he has left the country.", "She was apparently very successful.", "Apparently, the meeting was cancelled.", "He apparently forgot about the appointment."] },
+        { p: "appeal n., v.", m: "• (n.) Attraction or interest.<br>• (v.) To ask for help or support.", syn: "• attraction &nbsp;&nbsp;&nbsp;• request", s: ["The city has a strong appeal to tourists.", "She made an emotional appeal for help.", "The idea didn't appeal to me.", "They appealed to the public for donations."] },
+        { p: "approach n., v.", m: "• (n.) A way of dealing with something.<br>• (v.) To come closer.", syn: "• method &nbsp;&nbsp;&nbsp;• come near", s: ["We need a new approach to this problem.", "His approach was very professional.", "Winter is approaching.", "She approached the manager with her idea."] },
+        { p: "appropriate adj.", m: "• Suitable or proper.", syn: "• suitable &nbsp;&nbsp;&nbsp;• proper &nbsp;&nbsp;&nbsp;• fitting", s: ["This is not appropriate behaviour.", "Wear appropriate clothes for the occasion.", "She gave an appropriate answer.", "The teacher chose appropriate materials."] },
+        { p: "approval n.", m: "• The feeling that something is good or acceptable.", syn: "• agreement &nbsp;&nbsp;&nbsp;• acceptance", s: ["The plan needs official approval.", "She nodded in approval.", "I need my parents' approval.", "The project received strong approval."] },
+        { p: "approve v.", m: "• To officially agree to something.", syn: "• agree to &nbsp;&nbsp;&nbsp;• accept", s: ["The committee approved the proposal.", "Her parents didn't approve of her boyfriend.", "The board approved the budget.", "I fully approve of your decision."] },
+        { p: "arise v.", m: "• To happen or appear.", syn: "• occur &nbsp;&nbsp;&nbsp;• emerge", s: ["Problems often arise when you least expect them.", "A new opportunity has arisen.", "Questions arose during the meeting.", "Difficulties may arise later."] },
+        { p: "armed adj.", m: "• Carrying weapons.", syn: "• equipped", s: ["The police were armed.", "Armed guards protected the building.", "He was armed with a knife.", "The soldiers were heavily armed."] },
+        { p: "arms n.", m: "• Weapons.", syn: "• weapons &nbsp;&nbsp;&nbsp;• firearms", s: ["The country is buying more arms.", "They were caught selling arms.", "The rebels took up arms.", "Arms control is an important issue."] },
+        { p: "artificial adj.", m: "• Made by humans, not natural.", syn: "• man-made &nbsp;&nbsp;&nbsp;• synthetic", s: ["She has an artificial leg.", "The flowers are artificial.", "He has an artificial smile.", "Artificial intelligence is developing fast."] },
+        { p: "artistic adj.", m: "• Related to art or having creative skill.", syn: "• creative", s: ["She has an artistic talent.", "The house has an artistic design.", "He comes from an artistic family.", "The painting shows great artistic skill."] },
+        { p: "ashamed adj.", m: "• Feeling embarrassed or guilty.", syn: "• embarrassed &nbsp;&nbsp;&nbsp;• guilty", s: ["She felt ashamed of her behaviour.", "He was ashamed to admit his mistake.", "I'm ashamed of what I did.", "They were ashamed of their actions."] },
+        { p: "aside adv.", m: "• To one side.", syn: "• apart &nbsp;&nbsp;&nbsp;• away", s: ["She put her work aside for a moment.", "Let's leave that issue aside for now.", "He stepped aside to let her pass.", "Jokes aside, this is a serious matter."] },
+        { p: "aspect n.", m: "• One part or feature of something.", syn: "• feature &nbsp;&nbsp;&nbsp;• element", s: ["We discussed every aspect of the plan.", "This is an important aspect of the problem.", "She studied every aspect of the culture.", "There are many positive aspects to the job."] },
+        { p: "assess v.", m: "• To evaluate or judge something.", syn: "• evaluate &nbsp;&nbsp;&nbsp;• judge", s: ["The teacher will assess your work.", "We need to assess the damage.", "They assessed the situation carefully.", "The doctor assessed the patient's condition."] },
+        { p: "assessment n.", m: "• The process of evaluating something.", syn: "• evaluation &nbsp;&nbsp;&nbsp;• judgment", s: ["The final assessment is next week.", "We need a proper assessment of the risks.", "Her assessment of the situation was correct.", "Students will receive their assessment results soon."] },
+        { p: "associate v.", m: "• To connect something with something else.", syn: "• connect &nbsp;&nbsp;&nbsp;• link", s: ["I associate this song with my childhood.", "She is associated with several charities.", "People often associate wealth with happiness.", "He is closely associated with the project."] },
+        { p: "associated adj.", m: "• Connected with something.", syn: "• related &nbsp;&nbsp;&nbsp;• linked", s: ["The problems associated with smoking are well known.", "There are risks associated with this treatment.", "The company and its associated businesses.", "Stress is often associated with city life."] },
+        { p: "association n.", m: "• A connection or relationship.<br>• An organization.", syn: "• connection &nbsp;&nbsp;&nbsp;• organization", s: ["There is a strong association between diet and health.", "She joined the teachers' association.", "The word has negative associations.", "They formed an association to help the poor."] },
+        { p: "assume v.", m: "• To suppose something is true without proof.", syn: "• suppose &nbsp;&nbsp;&nbsp;• presume", s: ["I assumed you knew about the meeting.", "Don't assume anything.", "We assumed he would be late.", "She assumed responsibility for the project."] },
+        { p: "attempt n., v.", m: "• (n.) An effort to do something.<br>• (v.) To try.", syn: "• try &nbsp;&nbsp;&nbsp;• effort", s: ["She made several attempts to contact him.", "He attempted to climb the mountain.", "It was a brave attempt.", "The attempt failed."] },
+        { p: "attorney n.", m: "• A lawyer.", syn: "• lawyer", s: ["She hired an attorney.", "The attorney defended his client.", "He works as a criminal attorney.", "The attorney gave good advice."] },
+        { p: "back v.", m: "• To support someone or something.", syn: "• support &nbsp;&nbsp;&nbsp;• endorse", s: ["Many people backed the proposal.", "The bank refused to back the project.", "She backed her friend in the argument.", "The company backed the new technology."] },
+        { p: "bacteria n.", m: "• Very small living things, some of which cause disease.", syn: "• germs &nbsp;&nbsp;&nbsp;• microbes", s: ["Bacteria can cause infections.", "Not all bacteria are harmful.", "The water was full of bacteria.", "Scientists are studying these bacteria."] },
+        { p: "bar v.", m: "• To prevent someone from entering or doing something.", syn: "• block &nbsp;&nbsp;&nbsp;• ban", s: ["He was barred from the club.", "The rule bars students from using phones.", "They barred the door.", "She was barred from competing."] },
+        { p: "barrier n.", m: "• Something that prevents progress or movement.", syn: "• obstacle &nbsp;&nbsp;&nbsp;• obstruction", s: ["Language can be a barrier to communication.", "They removed the trade barriers.", "She broke through many barriers.", "There are still many barriers to success."] },
+        { p: "basically adv.", m: "• Mostly; mainly.", syn: "• essentially &nbsp;&nbsp;&nbsp;• fundamentally", s: ["Basically, I agree with you.", "The system is basically the same.", "Basically, it's a good idea.", "She's basically a kind person."] },
+        { p: "battle v.", m: "• To fight or struggle against something.", syn: "• fight &nbsp;&nbsp;&nbsp;• struggle", s: ["He battled cancer for five years.", "The team battled hard to win.", "They are battling against poverty.", "She is battling with her emotions."] },
+        { p: "bear (deal with) v.", m: "• To accept or deal with something difficult.", syn: "• tolerate &nbsp;&nbsp;&nbsp;• endure", s: ["I can't bear this pain anymore.", "She couldn't bear the thought of losing him.", "He bore the responsibility well.", "I can't bear waiting any longer."] },
+        { p: "beat n.", m: "• The main rhythm of music.", syn: "• rhythm &nbsp;&nbsp;&nbsp;• pulse", s: ["The song has a strong beat.", "I like music with a good beat.", "The drum beat was very loud.", "You can dance to this beat."] },
+        { p: "beg v.", m: "• To ask someone for something very strongly.", syn: "• plead &nbsp;&nbsp;&nbsp;• implore", s: ["He begged her to forgive him.", "The child begged for money.", "I beg you not to go.", "She begged for another chance."] },
+        { p: "being n.", m: "• A living person or creature.", syn: "• creature &nbsp;&nbsp;&nbsp;• human being", s: ["Every human being deserves respect.", "She is a kind being.", "They treated him like a living being.", "We are all living beings."] },
+        { p: "bent adj.", m: "• Determined to do something.", syn: "• determined &nbsp;&nbsp;&nbsp;• set on", s: ["She is bent on becoming a doctor.", "He is bent on revenge.", "They are bent on winning the championship.", "I'm bent on finishing this project."] },
+        { p: "bet v., n.", m: "• (v.) To risk money on a result.<br>• (n.) An act of betting.", syn: "• gamble &nbsp;&nbsp;&nbsp;• wager", s: ["I bet you $20 he won't come.", "She won her bet.", "Don't bet on horses.", "He lost a big bet."] },
+        { p: "beyond prep., adv.", m: "• Further than; outside the limits of.", syn: "• past &nbsp;&nbsp;&nbsp;• outside", s: ["The town is beyond those mountains.", "This is beyond my understanding.", "Her beauty is beyond words.", "The problem is beyond repair."] },
+        { p: "bill v.", m: "• To send someone a request for payment.", syn: "• charge &nbsp;&nbsp;&nbsp;• invoice", s: ["They billed me for the service.", "The company will bill you at the end of the month.", "She was billed $200 for the repair.", "Don't forget to bill the client."] },
+        { p: "bitter adj.", m: "• Feeling angry and unhappy.", syn: "• resentful &nbsp;&nbsp;&nbsp;• sour", s: ["She felt bitter about losing her job.", "He became bitter after the divorce.", "There was a bitter argument.", "The taste was very bitter."] },
+        { p: "blame v., n.", m: "• (v.) To say someone is responsible for something bad.<br>• (n.) Responsibility for a bad event.", syn: "• accuse &nbsp;&nbsp;&nbsp;• fault", s: ["Don't blame me for this!", "She blamed him for the mistake.", "Who is to blame for the accident?", "He took the blame for the failure."] },
+        { p: "blind adj.", m: "• Unable to see.", syn: "• sightless", s: ["He has been blind since birth.", "The blind man crossed the road carefully.", "She is blind in one eye.", "Love is blind."] },
+        { p: "bond n.", m: "• A strong connection between people.", syn: "• connection &nbsp;&nbsp;&nbsp;• link", s: ["There is a strong bond between the brothers.", "They formed a close bond.", "The experience created a special bond.", "Family bonds are very important."] },
+        { p: "border v.", m: "• To share a boundary with another country.", syn: "• adjoin &nbsp;&nbsp;&nbsp;• be next to", s: ["France borders Spain.", "The garden borders the river.", "The two countries border each other.", "Their land borders a forest."] },
+        { p: "breast n.", m: "• The front part of a person's chest.", syn: "• chest", s: ["She held the baby to her breast.", "He had pain in his breast.", "Breast cancer is a serious disease.", "The chicken breast was delicious."] },
+        { p: "brief adj.", m: "• Short in time or length.", syn: "• short &nbsp;&nbsp;&nbsp;• concise", s: ["We had a brief meeting.", "She gave a brief explanation.", "The visit was very brief.", "He wrote a brief report."] },
+        { p: "broad adj.", m: "• Wide.<br>• General, not detailed.", syn: "• wide &nbsp;&nbsp;&nbsp;• general", s: ["He has broad shoulders.", "The road is very broad.", "She has a broad knowledge of history.", "In broad terms, this is correct."] },
+        { p: "broadcast v., n.", m: "• (v.) To send out a TV or radio programme.<br>• (n.) A TV or radio programme.", syn: "• transmit &nbsp;&nbsp;&nbsp;• show", s: ["The match will be broadcast live.", "The news was broadcast on all channels.", "She watched the broadcast.", "The broadcast was interrupted."] },
+        { p: "budget n.", m: "• A plan for how to spend money.", syn: "• financial plan", s: ["We need to keep within our budget.", "The government announced a new budget.", "She is on a tight budget.", "They exceeded their budget."] },
+        { p: "bullet n.", m: "• A small metal object fired from a gun.", syn: "• projectile", s: ["The bullet missed him by inches.", "He was shot with a bullet.", "Police found several bullets at the scene.", "The bullet hit the target."] },
+        { p: "bunch n.", m: "• A group of things or people.", syn: "• group &nbsp;&nbsp;&nbsp;• cluster", s: ["She bought a bunch of flowers.", "A bunch of people were waiting.", "I have a bunch of keys.", "We met a bunch of nice people."] },
+        { p: "burn n.", m: "• An injury caused by fire or heat.", syn: "• scald", s: ["He suffered serious burns.", "She has a burn on her hand.", "The burn was very painful.", "He treated the burn immediately."] },
+        { p: "bush n.", m: "• A plant with many branches.", syn: "• shrub", s: ["There are roses in the bush.", "The cat hid in the bushes.", "She planted several bushes in the garden.", "The path goes through the bushes."] },
+        { p: "but prep.", m: "• Except.", syn: "• except &nbsp;&nbsp;&nbsp;• apart from", s: ["Everyone but John came to the party.", "Nothing but the truth matters.", "She eats nothing but vegetables.", "All but one student passed."] },
+        { p: "calculate v.", m: "• To find out a number using mathematics.", syn: "• compute &nbsp;&nbsp;&nbsp;• work out", s: ["Can you calculate the total cost?", "He calculated the distance.", "The computer can calculate very quickly.", "She calculated her chances of success."] },
+        { p: "cancel v.", m: "• To decide that something planned will not happen.", syn: "• call off", s: ["They cancelled the meeting.", "The flight was cancelled due to bad weather.", "She cancelled her appointment.", "We had to cancel the trip."] },
+        { p: "cancer n.", m: "• A serious disease in which cells grow uncontrollably.", syn: "• malignancy", s: ["He was diagnosed with cancer.", "Cancer research is very important.", "She survived breast cancer.", "Smoking can cause lung cancer."] },
+        { p: "capable adj.", m: "• Having the ability to do something.", syn: "• able &nbsp;&nbsp;&nbsp;• competent", s: ["She is capable of doing better.", "He is a very capable manager.", "The team is capable of winning.", "Are you capable of finishing this on time?"] },
+        { p: "capacity n.", m: "• The maximum amount something can hold.<br>• The ability to do something.", syn: "• ability &nbsp;&nbsp;&nbsp;• volume", s: ["The hall has a capacity of 500 people.", "She has a great capacity for learning.", "The factory is working at full capacity.", "His capacity to work hard is impressive."] }
+    ];
+
+    const container = document.getElementById('presentation');
+    vocabulary.forEach((item, index) => {
+        const slide = document.createElement('div');
+        slide.className = 'slide';
+        slide.innerHTML = `
+            <div class="slide-num">${index + 1} / ${vocabulary.length}</div>
+            <div class="phrase-header">
+                <span class="word">${item.p.split(' ')[0]}</span>
+                <span class="part-of-speech">${item.p.split(' ').slice(1).join(' ')}</span>
+            </div>
+          
+            <button class="reveal-btn btn-green" id="btn-mean-${index}" onclick="toggleSection(${index}, 'mean')">Show Meaning</button>
+            <div class="meaning-box" id="mean-${index}">${item.m}</div>
+          
+            <button class="reveal-btn btn-sky" id="btn-syn-${index}" onclick="toggleSection(${index}, 'syn')">Synonyms</button>
+            <div class="synonyms-box" id="syn-${index}">${item.syn}</div>
+          
+            <button class="reveal-btn btn-purple" id="btn-ex-${index}" onclick="toggleSection(${index}, 'ex')">Example Sentences</button>
+            <ul class="example-list" id="ex-${index}"></ul>
+        `;
+        container.appendChild(slide);
+    });
+
+    function toggleSection(index, type) {
+        let box, btn, originalText;
+      
+        if (type === 'mean') {
+            box = document.getElementById(`mean-${index}`);
+            btn = document.getElementById(`btn-mean-${index}`);
+            originalText = "Show Meaning";
+        } else if (type === 'syn') {
+            box = document.getElementById(`syn-${index}`);
+            btn = document.getElementById(`btn-syn-${index}`);
+            originalText = "Synonyms";
+        } else {
+            box = document.getElementById(`ex-${index}`);
+            btn = document.getElementById(`btn-ex-${index}`);
+            originalText = "Example Sentences";
+          
+            if (box.children.length === 0) {
+                box.innerHTML = vocabulary[index].s.map(sentence => `<li>${sentence}</li>`).join('');
+            }
+        }
+        if (box.style.display === "block") {
+            box.style.display = "none";
+            btn.innerText = originalText;
+            btn.style.opacity = "1";
+        } else {
+            box.style.display = "block";
+            btn.innerText = "✓ " + originalText.split(" ")[0] + " Shown";
+            btn.style.opacity = "0.6";
+        }
+    }
+</script>
+</body>
+</html>

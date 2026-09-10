@@ -116,6 +116,14 @@ This is a website / app that can help you learn the basics and get exposed to th
 
 - [**Practice Relative Pronouns**](/assets/practice_relative_clauses.html)
 
+- [📝 **B2 Phrases – Column 1** (49 phrases)](/pages/eng/B2-phrases-column-1.1.html)
+
+- [📝 **B2 Phrases – Column 2.1** (24 phrases)](/pages/eng/B2-phrases-column-2.1.html)
+
+- [📝 **B2 Phrases – Column 2.2** (31 phrases)](/pages/eng/B2-phrases-column-2.2.html)
+
+- [📝 **B2 Phrases – Column 3** (29 phrases)](/pages/eng/B2-phrases-column-3.html)
+
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
 ### Summaries

@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>B2 Phrase Column2.1 (24 Phrases)</title>
+    <style>
+        :root {
+            --primary: #2c3e50;
+            --success: #27ae60;
+            --purple: #8e44ad;
+            --skyblue: #3498db;
+            --bg: #f4f7f6;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: var(--bg);
+            padding: 40px;
+            margin: 0;
+        }
+        .deck-container { width: 100%; max-width: 980px; margin: 0 auto; }
+        .slide {
+            background: white;
+            padding: 45px;
+            border-radius: 20px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.1);
+            margin-bottom: 60px;
+            border-top: 16px solid var(--primary);
+            position: relative;
+        }
+        .phrase-header {
+            color: var(--primary);
+            font-size: 3.1em;
+            margin: 0px 0 20px 0;
+            font-weight: 800;
+            text-align: center;
+        }
+        .slide-num {
+            position: absolute; top: 20px; right: 30px;
+            color: #bdc6d0; font-weight: bold; font-size: 1.3em;
+        }
+        .reveal-btn {
+            border: none;
+            padding: 8px 26px;
+            border-radius: 10px;
+            cursor: pointer;
+            font-size: 1.2em;
+            font-weight: bold;
+            color: white;
+            margin: 9px auto 7px auto;
+            display: block;
+            transition: all 0.3s;
+        }
+        .btn-green { background: var(--success); }
+        .btn-purple { background: var(--purple); }
+        .btn-sky { background: var(--skyblue); }
+        .meaning-box, .synonyms-box {
+            display: none;
+            background: #f8fff0;
+            padding: 5px 18px 6px 18px;
+            border-radius: 12px;
+            margin: 12px 0;
+            font-size: 1.32em;
+            line-height: 1.65;
+            text-align: left;
+            border: 2px dashed var(--success);
+        }
+        .example-list {
+            display: none;
+            list-style: none;
+            padding: 0;
+            margin-top: 15px;
+        }
+        .example-list li {
+            background: #f8f4ff;
+            padding: 2px 15px;
+            margin-bottom: 5px;
+            border-radius: 10px;
+            border-left: 6px solid var(--purple);
+            font-size: 1.3em;
+            line-height: 1.5;
+        }
+    </style>
+</head>
+<body>
+
+<h1 style="text-align:center; color:var(--primary); font-size: 42px; margin-top: 150px; margin-bottom: 300px;">
+    &nbsp;&nbsp;&nbsp;&nbsp;B2 Phrase Column2.1 (24 Phrases)
+</h1>
+
+<div class="deck-container" id="presentation"></div>
+
+<script>
+    const vocabulary = [
+        { p: "draw attention to sb/sth", m: "• To make people notice someone or something.<br>• To focus people's interest on a particular issue.", syn: "• attract attention to &nbsp;&nbsp;&nbsp;• highlight &nbsp;&nbsp;&nbsp;• point out", s: ["The report draws attention to climate change.", "She tried to draw attention to the problem.", "The loud music drew attention to the party.", "We need to draw attention to this issue."] },
+        { p: "engage in sth", m: "• To take part in an activity.<br>• To be involved in something.", syn: "• participate in &nbsp;&nbsp;&nbsp;• get involved in &nbsp;&nbsp;&nbsp;• take part in", s: ["Students should engage in sports activities.", "He engages in many charity events.", "Don't engage in gossip.", "She actively engages in politics."] },
+        { p: "engaged in sth", m: "• Busy doing something.<br>• Involved in an activity.", syn: "• involved in &nbsp;&nbsp;&nbsp;• occupied with &nbsp;&nbsp;&nbsp;• busy with", s: ["He is engaged in writing a new book.", "She is engaged in important research.", "They are engaged in a serious discussion.", "The company is engaged in international trade."] },
+        { p: "ever since(…)", m: "• From that time until now.<br>• Continuously since a particular time.", syn: "• since then &nbsp;&nbsp;&nbsp;• from that time on", s: ["He left in 2018 and has lived abroad ever since.", "Ever since she was a child, she loved dancing.", "I met him last year and we've been friends ever since.", "Ever since the accident, he has been more careful."] },
+        { p: "exposure to sth", m: "• Contact with something (sunlight, language, danger, etc.).<br>• The state of being subjected to something.", syn: "• contact with &nbsp;&nbsp;&nbsp;• experience of", s: ["Too much exposure to the sun can cause skin damage.", "Early exposure to English helps children learn faster.", "The job gave her valuable exposure to different cultures.", "Long exposure to loud noise can damage hearing."] },
+        { p: "far from sth", m: "• Not at all; the opposite of.<br>• Very different from.", syn: "• not at all &nbsp;&nbsp;&nbsp;• nowhere near", s: ["The result is far from perfect.", "She is far from happy with the decision.", "His explanation is far from clear.", "I'm far from being an expert on this topic."] },
+        { p: "far from doing sth", m: "• Instead of doing something, the opposite happens.<br>• Rather than doing something.", syn: "• instead of &nbsp;&nbsp;&nbsp;• rather than", s: ["Far from helping, he made the situation worse.", "Far from relaxing, the holiday was very stressful.", "Far from improving, sales continued to fall.", "Far from apologizing, he blamed everyone else."] },
+        { p: "figure sb/sth out", m: "• To understand someone or something after thinking.<br>• To solve or find the answer to something.", syn: "• understand &nbsp;&nbsp;&nbsp;• work out &nbsp;&nbsp;&nbsp;• solve", s: ["I can't figure out why he's angry.", "She finally figured out the solution.", "It took me a while to figure him out.", "Can you figure out how this machine works?"] },
+        { p: "find yourself doing sth", m: "• To realize you are doing something without intending to.<br>• To discover yourself in a situation.", syn: "• catch yourself doing &nbsp;&nbsp;&nbsp;• realize you are", s: ["I found myself thinking about her again.", "She found herself crying during the film.", "He found himself agreeing with her opinion.", "You may find yourself living in another country one day."] },
+        { p: "get in", m: "• To arrive (train, plane, person).<br>• To enter a place.", syn: "• arrive &nbsp;&nbsp;&nbsp;• reach", s: ["The train got in late.", "What time does your flight get in?", "I got in at midnight last night.", "The bus just got in."] },
+        { p: "get into sth", m: "• To enter or start being involved in something.<br>• To develop a habit.", syn: "• enter &nbsp;&nbsp;&nbsp;• start &nbsp;&nbsp;&nbsp;• become involved in", s: ["She wants to get into a good university.", "Don't get into trouble at school.", "He got into the car and drove away.", "I got into the habit of waking up early."] },
+        { p: "get over sth/sb", m: "• To recover from an illness, shock, or relationship.<br>• To overcome a difficulty.", syn: "• recover from &nbsp;&nbsp;&nbsp;• overcome", s: ["You'll get over it soon.", "It took her months to get over the breakup.", "He still hasn't got over his father's death.", "I hope you get over your cold quickly."] },
+        { p: "get rid of sb/sth", m: "• To remove or throw away something unwanted.<br>• To free yourself from something.", syn: "• remove &nbsp;&nbsp;&nbsp;• eliminate &nbsp;&nbsp;&nbsp;• dispose of", s: ["We need to get rid of this old furniture.", "She finally got rid of her bad habits.", "How can I get rid of these files?", "The company wants to get rid of old stock."] },
+        { p: "go off", m: "• (alarm, bomb) to ring or explode.<br>• To leave suddenly.<br>• (food) to go bad.", syn: "• ring &nbsp;&nbsp;&nbsp;• explode &nbsp;&nbsp;&nbsp;• leave", s: ["The alarm went off at 6 a.m.", "A bomb went off near the station.", "The lights went off suddenly.", "She went off to get a drink."] },
+        { p: "go on to do sth", m: "• To do something next or later.<br>• To continue by doing something else.", syn: "• proceed to &nbsp;&nbsp;&nbsp;• then do", s: ["She went on to become a successful lawyer.", "After finishing school, he went on to start his own business.", "They went on to win the championship.", "She finished the report and went on to write an email."] },
+        { p: "go through sth", m: "• To experience something difficult.<br>• To examine something carefully.<br>• To use up or consume.", syn: "• experience &nbsp;&nbsp;&nbsp;• examine &nbsp;&nbsp;&nbsp;• suffer", s: ["She went through a very difficult time.", "We need to go through these documents carefully.", "He went through a lot of pain after the accident.", "Let's go through the plan one more time."] },
+        { p: "had better", m: "• Used to give strong advice or a warning.", syn: "• should &nbsp;&nbsp;&nbsp;• ought to", s: ["You had better hurry or you'll be late.", "We had better leave now.", "She had better apologize to him.", "You had better not tell anyone about this."] },
+        { p: "hang on", m: "• To wait for a short time.<br>• To hold tightly.", syn: "• wait &nbsp;&nbsp;&nbsp;• hold on", s: ["Hang on, I'm coming right now!", "Hang on a minute, please.", "Can you hang on for a second?", "Hang on, I need to check my phone."] },
+        { p: "human being", m: "• A person (emphasizing humanity).<br>• Any member of the human species.", syn: "• person &nbsp;&nbsp;&nbsp;• human", s: ["Every human being deserves respect.", "He is a kind human being.", "It's normal for human beings to make mistakes.", "We are all human beings with feelings."] },
+        { p: "human rights", m: "• The basic rights that every person should have.", syn: "• basic rights", s: ["We must protect human rights.", "The organization fights for human rights.", "Human rights are very important in modern society.", "They were accused of violating human rights."] },
+        { p: "if only…", m: "• Used to express a strong wish or regret.<br>• Used to express a hypothetical situation.", syn: "• I wish &nbsp;&nbsp;&nbsp;• I hope", s: ["If only I had more time!", "If only she were here with us.", "If only I had studied harder.", "If only it would stop raining."] },
+        { p: "I have to say…", m: "• Used when giving an honest or personal opinion.", syn: "• to be honest &nbsp;&nbsp;&nbsp;• frankly speaking", s: ["I have to say, I'm very impressed.", "I have to say, the food was excellent.", "I have to say, I disagree with you.", "I have to say, this is quite surprising."] },
+        { p: "in action", m: "• Doing something; working or performing.<br>• In operation.", syn: "• working &nbsp;&nbsp;&nbsp;• operating", s: ["You can see the machine in action.", "The firefighters were in action immediately.", "It's exciting to see the team in action.", "The new system is now in action."] },
+        { p: "in advance", m: "• Before a particular time.<br>• Ahead of time.", syn: "• beforehand &nbsp;&nbsp;&nbsp;• ahead of time", s: ["Please book your ticket in advance.", "We paid the money in advance.", "Let me know in advance if you can't come.", "Tickets must be purchased in advance."] }
+    ];
+
+    const container = document.getElementById('presentation');
+
+    vocabulary.forEach((item, index) => {
+        const slide = document.createElement('div');
+        slide.className = 'slide';
+        slide.innerHTML = `
+            <div class="slide-num">${index + 1} / ${vocabulary.length}</div>
+            <div class="phrase-header">${item.p}</div>
+           
+            <button class="reveal-btn btn-green" id="btn-mean-${index}" onclick="toggleSection(${index}, 'mean')">Show Meaning</button>
+            <div class="meaning-box" id="mean-${index}">${item.m}</div>
+           
+            <button class="reveal-btn btn-sky" id="btn-syn-${index}" onclick="toggleSection(${index}, 'syn')">Synonyms</button>
+            <div class="synonyms-box" id="syn-${index}">${item.syn}</div>
+           
+            <button class="reveal-btn btn-purple" id="btn-ex-${index}" onclick="toggleSection(${index}, 'ex')">Example Sentences</button>
+            <ul class="example-list" id="ex-${index}"></ul>
+        `;
+        container.appendChild(slide);
+    });
+
+    function toggleSection(index, type) {
+        let box, btn, originalText;
+       
+        if (type === 'mean') {
+            box = document.getElementById(`mean-${index}`);
+            btn = document.getElementById(`btn-mean-${index}`);
+            originalText = "Show Meaning";
+        } else if (type === 'syn') {
+            box = document.getElementById(`syn-${index}`);
+            btn = document.getElementById(`btn-syn-${index}`);
+            originalText = "Synonyms";
+        } else {
+            box = document.getElementById(`ex-${index}`);
+            btn = document.getElementById(`btn-ex-${index}`);
+            originalText = "Example Sentences";
+           
+            if (box.children.length === 0) {
+                box.innerHTML = vocabulary[index].s.map(sentence => `<li>${sentence}</li>`).join('');
+            }
+        }
+        if (box.style.display === "block") {
+            box.style.display = "none";
+            btn.innerText = originalText;
+            btn.style.opacity = "1";
+        } else {
+            box.style.display = "block";
+            btn.innerText = "✓ " + originalText.split(" ")[0] + " Shown";
+            btn.style.opacity = "0.6";
+        }
+    }
+</script>
+</body>
+</html>

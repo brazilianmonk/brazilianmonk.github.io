@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>B2 Phrase Column1 (49 Phrases)</title>
+    <style>
+        :root {
+            --primary: #2c3e50;
+            --success: #27ae60;
+            --purple: #8e44ad;
+            --skyblue: #3498db;
+            --bg: #f4f7f6;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: var(--bg);
+            padding: 40px;
+            margin: 0;
+        }
+        .deck-container { width: 100%; max-width: 980px; margin: 0 auto; }
+        .slide {
+            background: white;
+            padding: 45px;
+            border-radius: 20px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.1);
+            margin-bottom: 60px;
+            border-top: 16px solid var(--primary);
+            position: relative;
+        }
+        .phrase-header {
+            color: var(--primary);
+            font-size: 3.1em;
+            margin: 0px 0 20px 0;
+            font-weight: 800;
+            text-align: center;
+        }
+        .slide-num {
+            position: absolute; top: 20px; right: 30px;
+            color: #bdc6d0; font-weight: bold; font-size: 1.3em;
+        }
+        .reveal-btn {
+            border: none;
+            padding: 8px 26px;
+            border-radius: 10px;
+            cursor: pointer;
+            font-size: 1.2em;
+            font-weight: bold;
+            color: white;
+            margin: 9px auto 7px auto;
+            display: block;
+            transition: all 0.3s;
+        }
+        .btn-green { background: var(--success); }
+        .btn-purple { background: var(--purple); }
+        .btn-sky { background: var(--skyblue); }
+
+        .meaning-box, .synonyms-box {
+            display: none;
+            background: #f8fff0;
+            padding: 5px 18px 6px 18px;
+            border-radius: 12px;
+            margin: 12px 0;
+            font-size: 1.32em;
+            line-height: 1.65;
+            text-align: left;
+            border: 2px dashed var(--success);
+        }
+        .example-list {
+            display: none;
+            list-style: none;
+            padding: 0;
+            margin-top: 15px;
+        }
+        .example-list li {
+            background: #f8f4ff;
+            padding: 2px 15px;
+            margin-bottom: 5px;
+            border-radius: 10px;
+            border-left: 6px solid var(--purple);
+            font-size: 1.3em;
+            line-height: 1.5;
+        }
+    </style>
+</head>
+
+<body>
+	
+<h1 style="text-align:center; color:var(--primary); font-size: 42px; margin-top: 150px; margin-bottom: 300px;">
+&nbsp;&nbsp;&nbsp;&nbsp;B2 Phrase Column1 (49 Phrases)
+</h1>
+	
+	
+<div class="deck-container" id="presentation"></div>
+
+<script>
+    const vocabulary = [
+        { p: "a bit of a…", m: "• Used to make a statement less forceful or to soften it (often slightly negative).<br>• Shows that something is small in amount or not very serious.", syn: "• somewhat of a &nbsp;&nbsp;&nbsp;• kind of a &nbsp;&nbsp;&nbsp;• a little bit of &nbsp;&nbsp;&nbsp;• rather a", s: ["It was a bit of a surprise to see him at the party.", "The meeting was a bit of a disappointment.", "She's having a bit of a problem with her computer.", "This is a bit of a difficult situation for all of us."] },
+        { p: "account for sth", m: "• To explain or give reasons for something.<br>• To form or make up a particular part or proportion of something.", syn: "• explain &nbsp;&nbsp;&nbsp;• be responsible for &nbsp;&nbsp;&nbsp;• make up &nbsp;&nbsp;&nbsp;• constitute", s: ["How do you account for the missing money?", "Online shopping accounts for nearly 40% of our sales.", "Bad weather can account for the low attendance.", "This theory cannot account for all the facts."] },
+        { p: "accused of sth", m: "• To be charged or blamed for doing something wrong or illegal.<br>• To say that someone has done something bad or criminal.", syn: "• charged with &nbsp;&nbsp;&nbsp;• blamed for &nbsp;&nbsp;&nbsp;• suspected of", s: ["He was accused of stealing company funds.", "The government is accused of ignoring the poor.", "She has been accused of lying to the public.", "The company was accused of false advertising."] },
+        { p: "act as sth", m: "• To perform the function or role of something.<br>• To serve or work in a particular position temporarily.", syn: "• function as &nbsp;&nbsp;&nbsp;• serve as &nbsp;&nbsp;&nbsp;• work as &nbsp;&nbsp;&nbsp;• operate as", s: ["This old sofa can act as a bed for guests.", "Sarah will act as team leader while I'm away.", "The medicine acts as a painkiller.", "He acted as a mediator between the two groups."] },
+        { p: "aimed at sb", m: "• Designed or intended for a particular person or group.<br>• Targeted at a specific audience.", syn: "• targeted at &nbsp;&nbsp;&nbsp;• designed for &nbsp;&nbsp;&nbsp;• intended for &nbsp;&nbsp;&nbsp;• directed at", s: ["This course is aimed at intermediate learners.", "The advertisement is aimed at young parents.", "The program is aimed at university students.", "These books are mainly aimed at teenagers."] },
+        { p: "aimed at doing sth", m: "• Intended to achieve a particular purpose or result.<br>• Designed with the goal of doing something.", syn: "• intended to &nbsp;&nbsp;&nbsp;• designed to &nbsp;&nbsp;&nbsp;• meant to &nbsp;&nbsp;&nbsp;• with the aim of", s: ["The new law is aimed at reducing plastic waste.", "This training is aimed at improving customer service.", "The project is aimed at helping poor families.", "These exercises are aimed at developing speaking skills."] },
+        { p: "all the way", m: "• During the entire distance of a journey or the whole process.<br>• Completely; from beginning to end.", syn: "• the entire way &nbsp;&nbsp;&nbsp;• all along &nbsp;&nbsp;&nbsp;• completely &nbsp;&nbsp;&nbsp;• from start to finish", s: ["We walked all the way home in the rain.", "I support your decision all the way.", "She drove all the way from Colombo to Badulla.", "I'll stay with you all the way through this."] },
+        { p: "a means of sth", m: "• A method or way of achieving or doing something.<br>• Something used to achieve a particular result.", syn: "• a way of &nbsp;&nbsp;&nbsp;• a method of &nbsp;&nbsp;&nbsp;• a form of", s: ["The internet is a means of staying connected with family.", "Bicycles are a cheap means of transport.", "Education is a means of improving your future.", "Social media has become a means of spreading news."] },
+        { p: "appeal to sb", m: "• To be attractive or interesting to someone.<br>• To attract or please a particular person or group.", syn: "• attract &nbsp;&nbsp;&nbsp;• interest &nbsp;&nbsp;&nbsp;• please &nbsp;&nbsp;&nbsp;• be attractive to", s: ["The idea doesn't appeal to everyone.", "This design will appeal to young buyers.", "The warm weather really appeals to me.", "The movie didn't appeal to older audiences."] },
+        { p: "apply to sb/sth", m: "• To concern, relate to, or be relevant to someone or something.<br>• To have an effect on a person or situation.", syn: "• concern &nbsp;&nbsp;&nbsp;• relate to &nbsp;&nbsp;&nbsp;• be relevant to &nbsp;&nbsp;&nbsp;• affect", s: ["These rules apply to everyone in the company.", "This discount only applies to full-priced items.", "The law applies to all citizens.", "Does this offer apply to international students?"] },
+        { p: "as a whole", m: "• Considered together as a single unit rather than in parts.<br>• In general, when thinking about the entire thing.", syn: "• overall &nbsp;&nbsp;&nbsp;• in general &nbsp;&nbsp;&nbsp;• altogether", s: ["The economy as a whole is recovering.", "We must look at the project as a whole.", "The team as a whole performed very well.", "Society as a whole benefits from education."] },
+        { p: "as far as I am concerned", m: "• Used to introduce your personal opinion or perspective.<br>• In my opinion.", syn: "• in my opinion &nbsp;&nbsp;&nbsp;• as for me &nbsp;&nbsp;&nbsp;• from my point of view", s: ["As far as I am concerned, the matter is closed.", "You can stay here, as far as I am concerned.", "As far as I'm concerned, it's a bad idea.", "The food was excellent, as far as I am concerned."] },
+        { p: "as follows...", m: "• Used to introduce a list, names, or a detailed explanation.<br>• What comes next is the list or details.", syn: "• the following &nbsp;&nbsp;&nbsp;• here is the list", s: ["The winners are as follows: John and Mary.", "The main points are as follows.", "The schedule is as follows.", "Please do the following tasks."] },
+        { p: "as for sb/sth", m: "• Used to start talking about a new but related subject.<br>• Regarding / concerning.", syn: "• regarding &nbsp;&nbsp;&nbsp;• concerning &nbsp;&nbsp;&nbsp;• as regards", s: ["I'm fine; as for my sister, she's still busy.", "The report is done; as for the slides, I'll do them tomorrow.", "As for food, we have plenty.", "As for me, I prefer tea."] },
+        { p: "as long as...", m: "• On the condition that; provided that something else happens.<br>• If (with a condition).", syn: "• provided that &nbsp;&nbsp;&nbsp;• on condition that &nbsp;&nbsp;&nbsp;• if", s: ["You can go as long as you're home by ten.", "As long as you work hard, you will succeed.", "I'll help you as long as you listen.", "You can borrow it as long as you return it tomorrow."] },
+        { p: "associated with sth", m: "• Connected to something else in your mind or by cause.<br>• Linked or related to something.", syn: "• linked to &nbsp;&nbsp;&nbsp;• connected with &nbsp;&nbsp;&nbsp;• related to", s: ["Risks are associated with this surgery.", "He is closely associated with the club.", "Smoking is associated with lung cancer.", "The color red is often associated with danger."] },
+        { p: "as though...", m: "• In a way that suggests something is true.<br>• As if.", syn: "• as if &nbsp;&nbsp;&nbsp;• like", s: ["He acted as though nothing had happened.", "It sounds as though you were very busy.", "She looked as though she had been crying.", "He treats me as though I were a child."] },
+        { p: "at once", m: "• Immediately.<br>• At the same time.", syn: "• immediately &nbsp;&nbsp;&nbsp;• right away &nbsp;&nbsp;&nbsp;• instantly", s: ["You must come home at once!", "Everything seemed to happen at once.", "Please reply at once.", "She can be kind and strict at once."] },
+        { p: "at present", m: "• Now; at the current time.<br>• Currently.", syn: "• currently &nbsp;&nbsp;&nbsp;• now &nbsp;&nbsp;&nbsp;• at the moment", s: ["At present, we have no plans to change.", "Over 200 people are here at present.", "At present, she is working in Singapore.", "The system is not available at present."] },
+        { p: "at some point", m: "• At a time in the future that is not yet decided.<br>• Sooner or later.", syn: "• sooner or later &nbsp;&nbsp;&nbsp;• eventually &nbsp;&nbsp;&nbsp;• one day", s: ["I'd like to visit Japan at some point.", "At some point, we will have to decide.", "You will understand it at some point.", "At some point, the rain will stop."] },
+        { p: "at the end of the day", m: "• The most important fact after everything has been considered.<br>• Ultimately / in the end.", syn: "• ultimately &nbsp;&nbsp;&nbsp;• in the end &nbsp;&nbsp;&nbsp;• basically", s: ["At the end of the day, it's your choice.", "We tried, but at the end of the day, we lost.", "At the end of the day, money isn't everything.", "At the end of the day, results matter."] },
+        { p: "at this point", m: "• At this particular moment in a situation.<br>• Right now in the process.", syn: "• now &nbsp;&nbsp;&nbsp;• currently &nbsp;&nbsp;&nbsp;• at this stage", s: ["At this point, I want to thank everyone.", "It's hard to say what happens at this point.", "At this point, we need more information.", "I'm not sure at this point."] },
+        { p: "at this stage", m: "• At a specific point in the development of something.<br>• At this time in the process.", syn: "• at this point &nbsp;&nbsp;&nbsp;• currently &nbsp;&nbsp;&nbsp;• so far", s: ["At this stage, the plan is still secret.", "It's too early to tell at this stage.", "At this stage, we are still collecting data.", "We cannot make changes at this stage."] },
+        { p: "awareness of sth", m: "• Knowledge or understanding that something exists.<br>• Knowing about a situation or issue.", syn: "• knowledge of &nbsp;&nbsp;&nbsp;• understanding of", s: ["There is a growing awareness of healthy eating.", "The campaign raises awareness of the issue.", "Environmental awareness has increased.", "We need to raise awareness of mental health."] },
+        { p: "back sb/sth up", m: "• To support someone or prove that what they say is true.<br>• To give support or evidence.", syn: "• support &nbsp;&nbsp;&nbsp;• confirm &nbsp;&nbsp;&nbsp;• endorse", s: ["My family always backs me up.", "Can you back up your claims with proof?", "I'll back you up if there's any problem.", "The data backs up our theory."] },
+        { p: "be charged with sth", m: "• To be officially accused of a crime by the police.<br>• To be formally accused.", syn: "• accused of &nbsp;&nbsp;&nbsp;• prosecuted for", s: ["He has been charged with murder.", "The firm was charged with breaking safety rules.", "She was charged with theft.", "The driver was charged with reckless driving."] },
+        { p: "be derived from sth", m: "• To come from or be developed from a specific source.<br>• To originate from something.", syn: "• come from &nbsp;&nbsp;&nbsp;• originate from &nbsp;&nbsp;&nbsp;• be based on", s: ["Many English words are derived from Latin.", "The medicine is derived from a plant.", "This custom is derived from ancient traditions.", "The word 'kindergarten' is derived from German."] },
+        { p: "be expected to do sth", m: "• Used to talk about what people think should happen.<br>• To be required or supposed to do something.", syn: "• should &nbsp;&nbsp;&nbsp;• are supposed to", s: ["You are expected to arrive on time.", "Students are expected to do their homework.", "The team is expected to win the match.", "She is expected to graduate next year."] },
+        { p: "be known to do sth", m: "• Recognized as behaving in a certain way regularly.<br>• To often do something.", syn: "• tend to &nbsp;&nbsp;&nbsp;• are famous for", s: ["Birds are known to migrate south in winter.", "He is known to be very generous.", "This area is known to have earthquakes.", "She is known to arrive late sometimes."] },
+        { p: "be made up of sth", m: "• To consist of or be formed from several parts.<br>• To be composed of.", syn: "• consist of &nbsp;&nbsp;&nbsp;• be composed of", s: ["The team is made up of local players.", "Paper is made up of wood fibers.", "The committee is made up of experts.", "Water is made up of hydrogen and oxygen."] },
+        { p: "be surrounded by sb/sth", m: "• To have people or things all around you.<br>• To be encircled by something.", syn: "• encircled by &nbsp;&nbsp;&nbsp;• be around", s: ["The house is surrounded by trees.", "He likes to be surrounded by friends.", "The island is surrounded by clear water.", "She felt surrounded by love."] },
+        { p: "be to blame", m: "• To be the person responsible for something bad.<br>• To be at fault.", syn: "• be responsible for &nbsp;&nbsp;&nbsp;• be at fault", s: ["Who is to blame for the accident?", "The weather was to blame for the delay.", "The coach is not to blame for the loss.", "Poor planning was to blame."] },
+        { p: "both sides", m: "• The two opposing groups or arguments in a situation.<br>• Both parties involved.", syn: "• the two sides &nbsp;&nbsp;&nbsp;• both parties", s: ["Listen to both sides before deciding.", "There were losses on both sides of the war.", "We must consider both sides of the argument.", "Both sides agreed to the ceasefire."] },
+        { p: "bound to do sth", m: "• Certain or extremely likely to happen.<br>• Sure to do something.", syn: "• sure to &nbsp;&nbsp;&nbsp;• likely to &nbsp;&nbsp;&nbsp;• certain to", s: ["You're bound to pass the exam if you study hard.", "It was bound to happen eventually.", "He's bound to make mistakes as a beginner.", "Success is bound to come with effort."] },
+        { p: "bring sb up", m: "• To care for a child until they are an adult.<br>• To raise a child.", syn: "• raise &nbsp;&nbsp;&nbsp;• rear", s: ["She was brought up by her grandmother.", "They want to bring up polite children.", "I was brought up in a small village.", "It's hard to bring up children alone."] },
+        { p: "by now", m: "• Used to say that something should have happened already.<br>• At this time.", syn: "• already &nbsp;&nbsp;&nbsp;• by this time", s: ["The letter should have arrived by now.", "You should know the answer by now.", "He should be here by now.", "By now, we expected better results."] },
+        { p: "call for sth", m: "• To publicly ask for something or need a specific action.<br>• To require or demand.", syn: "• require &nbsp;&nbsp;&nbsp;• demand &nbsp;&nbsp;&nbsp;• need", s: ["The situation calls for immediate action.", "This calls for a celebration!", "The crisis called for strong leadership.", "This problem calls for a creative solution."] },
+        { p: "case study", m: "• A detailed account or report about a specific person/event.<br>• An in-depth example used for learning.", syn: "• example &nbsp;&nbsp;&nbsp;• analysis", s: ["We looked at a case study of a successful business.", "The book includes many case studies.", "This is a good case study for students.", "The doctor presented an interesting case study."] },
+        { p: "come across sb/sth", m: "• To find or meet someone or something by chance.<br>• To discover unexpectedly.", syn: "• find by chance &nbsp;&nbsp;&nbsp;• encounter", s: ["I came across an old friend today.", "She came across some old photos.", "I came across this beautiful quote yesterday.", "While reading, I came across a new word."] },
+        { p: "come true", m: "• When a hope or dream actually happens.<br>• To become reality.", syn: "• become reality &nbsp;&nbsp;&nbsp;• be realized", s: ["My dream has finally come true.", "It was like a dream come true for them.", "Her prediction came true.", "I hope your wishes come true."] },
+        { p: "concerned about sth", m: "• Worried or anxious about a particular situation.<br>• Feeling concern regarding something.", syn: "• worried about &nbsp;&nbsp;&nbsp;• anxious about", s: ["I am concerned about his health.", "People are concerned about the future.", "Parents are concerned about their children's safety.", "She is very concerned about climate change."] },
+        { p: "concerned with sth", m: "• Interested in or dealing with a specific subject.<br>• Having to do with something.", syn: "• dealing with &nbsp;&nbsp;&nbsp;• about", s: ["The book is concerned with history.", "My work is concerned with helping people.", "This report is concerned with environmental issues.", "The study is mainly concerned with education."] },
+        { p: "confidence in sb/sth", m: "• A strong feeling of trust or belief in someone.<br>• Faith in a person or thing.", syn: "• trust in &nbsp;&nbsp;&nbsp;• faith in", s: ["I have confidence in his ability.", "The public lost confidence in the leaders.", "She has great confidence in her team.", "We need to build confidence in our brand."] },
+        { p: "contribute to sth", m: "• To be one of the causes of an event or result.<br>• To help cause something.", syn: "• lead to &nbsp;&nbsp;&nbsp;• cause &nbsp;&nbsp;&nbsp;• add to", s: ["Smoking contributes to heart disease.", "Everyone contributed to the discussion.", "Poor sleep can contribute to stress.", "Tourism contributes to the local economy."] },
+        { p: "control over sb/sth", m: "• The power to make decisions or manage something.<br>• Authority or influence over something.", syn: "• power over &nbsp;&nbsp;&nbsp;• authority over", s: ["Parents need control over what kids watch.", "He has no control over his temper.", "She lost control over the situation.", "The government has control over taxes."] },
+        { p: "cope with sth", m: "• To deal successfully with a difficult situation.<br>• To manage a problem.", syn: "• deal with &nbsp;&nbsp;&nbsp;• manage", s: ["It is hard to cope with loss.", "She is coping with a heavy workload.", "He finds it difficult to cope with pressure.", "We learned how to cope with stress."] },
+        { p: "decline in sth", m: "• A continuous decrease in number or quality.<br>• A reduction or drop.", syn: "• decrease in &nbsp;&nbsp;&nbsp;• drop in &nbsp;&nbsp;&nbsp;• reduction in", s: ["There is a sharp decline in profits.", "We see a decline in student numbers.", "There has been a decline in reading habits.", "The country saw a decline in tourism."] },
+        { p: "dependent on sb/sth", m: "• Needing someone or something in order to succeed.<br>• Relying on something.", syn: "• rely on &nbsp;&nbsp;&nbsp;• depend on", s: ["The town is dependent on tourism.", "She is still dependent on her parents.", "Many animals are dependent on forests.", "The economy is heavily dependent on oil."] },
+        { p: "despite the fact that...", m: "• Used to introduce a surprising fact.<br>• Even though / although.", syn: "• even though &nbsp;&nbsp;&nbsp;• although &nbsp;&nbsp;&nbsp;• in spite of", s: ["He worked despite the fact that he was ill.", "She failed despite the fact that she studied hard.", "Despite the fact that it rained, we enjoyed the trip.", "He succeeded despite the fact that he had no support."] }
+    ];
+
+    const container = document.getElementById('presentation');
+
+    vocabulary.forEach((item, index) => {
+        const slide = document.createElement('div');
+        slide.className = 'slide';
+        slide.innerHTML = `
+            <div class="slide-num">${index + 1} / ${vocabulary.length}</div>
+            <div class="phrase-header">${item.p}</div>
+            
+            <button class="reveal-btn btn-green" id="btn-mean-${index}" onclick="toggleSection(${index}, 'mean')">Show Meaning</button>
+            <div class="meaning-box" id="mean-${index}"><strong>Meaning:</strong><br>${item.m}</div>
+            
+            <button class="reveal-btn btn-sky" id="btn-syn-${index}" onclick="toggleSection(${index}, 'syn')">Synonyms</button>
+            <div class="synonyms-box" id="syn-${index}"><strong>Synonyms:</strong><br>${item.syn}</div>
+            
+            <button class="reveal-btn btn-purple" id="btn-ex-${index}" onclick="toggleSection(${index}, 'ex')">Example Sentences</button>
+            <ul class="example-list" id="ex-${index}"></ul>
+        `;
+        container.appendChild(slide);
+    });
+
+    function toggleSection(index, type) {
+        let box, btn, originalText;
+        
+        if (type === 'mean') {
+            box = document.getElementById(`mean-${index}`);
+            btn = document.getElementById(`btn-mean-${index}`);
+            originalText = "Show Meaning";
+        } else if (type === 'syn') {
+            box = document.getElementById(`syn-${index}`);
+            btn = document.getElementById(`btn-syn-${index}`);
+            originalText = "Synonyms";
+        } else {
+            box = document.getElementById(`ex-${index}`);
+            btn = document.getElementById(`btn-ex-${index}`);
+            originalText = "Example Sentences";
+            
+            // Fill examples when first opened
+            if (box.children.length === 0) {
+                box.innerHTML = vocabulary[index].s.map(sentence => `<li>${sentence}</li>`).join('');
+            }
+        }
+
+        if (box.style.display === "block") {
+            box.style.display = "none";
+            btn.innerText = originalText;
+            btn.style.opacity = "1";
+        } else {
+            box.style.display = "block";
+            btn.innerText = "✓ " + originalText.split(" ")[0] + " Shown";
+            btn.style.opacity = "0.6";
+        }
+    }
+</script>
+</body>
+</html>

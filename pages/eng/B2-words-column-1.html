@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>B2 Words Column 1 (18 Words)</title>
+    <style>
+        :root {
+            --primary: #2c3e50;
+            --success: #27ae60;
+            --purple: #8e44ad;
+            --skyblue: #3498db;
+            --bg: #f4f7f6;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: var(--bg);
+            padding: 40px;
+            margin: 0;
+        }
+        .deck-container { width: 100%; max-width: 980px; margin: 0 auto; }
+        .slide {
+            background: white;
+            padding: 45px;
+            border-radius: 20px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.1);
+            margin-bottom: 60px;
+            border-top: 16px solid var(--primary);
+            position: relative;
+        }
+        .phrase-header {
+            color: var(--primary);
+            font-size: 3.1em;
+            margin: 0px 0 20px 0;
+            font-weight: 800;
+            text-align: center;
+        }
+        .slide-num {
+            position: absolute; top: 20px; right: 30px;
+            color: #bdc6d0; font-weight: bold; font-size: 1.3em;
+        }
+        .reveal-btn {
+            border: none;
+            padding: 8px 26px;
+            border-radius: 10px;
+            cursor: pointer;
+            font-size: 1.2em;
+            font-weight: bold;
+            color: white;
+            margin: 9px auto 7px auto;
+            display: block;
+            transition: all 0.3s;
+        }
+        .btn-green { background: var(--success); }
+        .btn-purple { background: var(--purple); }
+        .btn-sky { background: var(--skyblue); }
+        .meaning-box, .synonyms-box {
+            display: none;
+            background: #f8fff0;
+            padding: 5px 18px 6px 18px;
+            border-radius: 12px;
+            margin: 12px 0;
+            font-size: 1.32em;
+            line-height: 1.65;
+            text-align: left;
+            border: 2px dashed var(--success);
+        }
+        .example-list {
+            display: none;
+            list-style: none;
+            padding: 0;
+            margin-top: 15px;
+        }
+        .example-list li {
+            background: #f8f4ff;
+            padding: 2px 15px;
+            margin-bottom: 5px;
+            border-radius: 10px;
+            border-left: 6px solid var(--purple);
+            font-size: 1.3em;
+            line-height: 1.5;
+        }
+        .phrase-header .word {
+    font-weight: 800;
+    color: var(--primary);
+}
+
+.phrase-header .part-of-speech {
+    font-weight: 400;     /* normal weight */
+    color: #555;
+    font-size: 0.65em;
+    margin-left: 8px;
+}
+        
+        
+    </style>
+</head>
+<body>
+<h1 style="text-align:center; color:var(--primary); font-size: 42px; margin-top: 150px; margin-bottom: 300px;">
+    &nbsp;&nbsp;&nbsp;&nbsp;B2 Words Column 1 (18 Words)
+</h1>
+<div class="deck-container" id="presentation"></div>
+
+<script>
+    const vocabulary = [
+        { p: "abandon v.", m: "• To leave someone or something completely.<br>• To give up an idea or action.", syn: "• leave &nbsp;&nbsp;&nbsp;• desert &nbsp;&nbsp;&nbsp;• give up", s: ["The captain ordered the crew to abandon the ship.", "She abandoned her dream of becoming a singer.", "They had to abandon the car when it broke down.", "Don't abandon your friends when they need you."] },
+        { p: "abroad adv.", m: "• In or to a foreign country.", syn: "• overseas &nbsp;&nbsp;&nbsp;• internationally", s: ["She is studying abroad in France.", "Many people travel abroad during summer.", "He lived abroad for ten years.", "They are planning to move abroad next year."] },
+        { p: "absolute adj.", m: "• Complete or total.<br>• Not limited or restricted.", syn: "• complete &nbsp;&nbsp;&nbsp;• total &nbsp;&nbsp;&nbsp;• utter", s: ["He has absolute confidence in his team.", "It is an absolute disaster.", "She has absolute power in the company.", "The test was an absolute failure."] },
+        { p: "acceptable adj.", m: "• Good enough to be allowed or approved.", syn: "• satisfactory &nbsp;&nbsp;&nbsp;• reasonable", s: ["Your behaviour is not acceptable.", "The quality of the work is acceptable.", "Late submission is acceptable with a good reason.", "This solution seems acceptable to everyone."] },
+        { p: "accompany v.", m: "• To go with someone.<br>• To happen at the same time as something.", syn: "• go with &nbsp;&nbsp;&nbsp;• escort", s: ["She accompanied her mother to the hospital.", "The singer was accompanied by a pianist.", "Heavy rain accompanied the strong winds.", "Children under 12 must be accompanied by an adult."] },
+        { p: "account v.", m: "• To explain or give reasons for something.", syn: "• explain &nbsp;&nbsp;&nbsp;• justify", s: ["How do you account for your absence?", "He couldn't account for the missing money.", "This accounts for the increase in sales.", "She tried to account for her strange behaviour."] },
+        { p: "accurate adj.", m: "• Correct and exact.", syn: "• precise &nbsp;&nbsp;&nbsp;• correct &nbsp;&nbsp;&nbsp;• exact", s: ["The report must be accurate.", "Her description was very accurate.", "The clock is accurate to the second.", "The forecast turned out to be accurate."] },
+        { p: "accuse v.", m: "• To say that someone has done something wrong.", syn: "• blame &nbsp;&nbsp;&nbsp;• charge", s: ["They accused him of stealing.", "She was accused of lying.", "The police accused the man of murder.", "Don't accuse people without evidence."] },
+        { p: "acknowledge v.", m: "• To accept that something is true.<br>• To show that you have noticed something.", syn: "• admit &nbsp;&nbsp;&nbsp;• recognise", s: ["He acknowledged his mistake.", "She acknowledged receiving the letter.", "We must acknowledge the problem.", "The company acknowledged the customer's complaint."] },
+        { p: "acquire v.", m: "• To get or obtain something.", syn: "• obtain &nbsp;&nbsp;&nbsp;• gain &nbsp;&nbsp;&nbsp;• get", s: ["She acquired a good knowledge of French.", "The museum acquired a new painting.", "He acquired many skills during the course.", "Companies often acquire smaller businesses."] },
+        { p: "actual adj.", m: "• Real or true (not imagined).", syn: "• real &nbsp;&nbsp;&nbsp;• true", s: ["The actual cost was higher than expected.", "In actual fact, she was right.", "What were the actual words he used?", "The actual number of people was much smaller."] },
+        { p: "adapt v.", m: "• To change something to suit new conditions.", syn: "• adjust &nbsp;&nbsp;&nbsp;• modify", s: ["Animals adapt to their environment.", "She quickly adapted to living in a new country.", "The book was adapted into a film.", "We need to adapt our plans."] },
+        { p: "additional adj.", m: "• Extra or added.", syn: "• extra &nbsp;&nbsp;&nbsp;• further &nbsp;&nbsp;&nbsp;• more", s: ["There is an additional charge for delivery.", "We need additional information.", "The company hired additional staff.", "Would you like any additional help?"] },
+        { p: "address v.", m: "• To deal with or discuss a problem.<br>• To speak to someone.", syn: "• deal with &nbsp;&nbsp;&nbsp;• tackle", s: ["We must address the issue immediately.", "The president will address the nation.", "She addressed the problem in her report.", "The teacher addressed the students."] },
+        { p: "adopt v.", m: "• To take and use something as your own.<br>• To legally take a child into your family.", syn: "• take up &nbsp;&nbsp;&nbsp;• accept", s: ["The school adopted a new policy.", "They decided to adopt a child.", "She adopted a healthy lifestyle.", "The company adopted a new strategy."] },
+        { p: "advance n., v., adj.", m: "• (n.) Progress or improvement.<br>• (v.) To move forward or develop.<br>• (adj.) Before a particular time.", syn: "• progress &nbsp;&nbsp;&nbsp;• improvement &nbsp;&nbsp;&nbsp;• move forward", s: ["There have been great advances in medicine.", "Technology continues to advance rapidly.", "Please give us advance notice.", "He advanced to the next round."] },
+        { p: "affair n.", m: "• An event or situation.<br>• A romantic relationship outside marriage.", syn: "• matter &nbsp;&nbsp;&nbsp;• event &nbsp;&nbsp;&nbsp;• issue", s: ["The meeting was a very formal affair.", "She is having an affair with her colleague.", "The wedding was a grand affair.", "This is a private affair."] },
+        { p: "afterward adv.", m: "• At a later time.", syn: "• later &nbsp;&nbsp;&nbsp;• subsequently", s: ["We went to dinner afterward.", "She apologized afterward.", "They argued and afterward stopped speaking.", "I'll explain everything afterward."] }
+    ];
+
+    const container = document.getElementById('presentation');
+    vocabulary.forEach((item, index) => {
+        const slide = document.createElement('div');
+        slide.className = 'slide';
+        slide.innerHTML = `
+            <div class="slide-num">${index + 1} / ${vocabulary.length}</div>
+            <div class="phrase-header">
+    <span class="word">${item.p.split(' ')[0]}</span> 
+    <span class="part-of-speech">${item.p.split(' ').slice(1).join(' ')}</span>
+</div>
+          
+            <button class="reveal-btn btn-green" id="btn-mean-${index}" onclick="toggleSection(${index}, 'mean')">Show Meaning</button>
+            <div class="meaning-box" id="mean-${index}">${item.m}</div>
+          
+            <button class="reveal-btn btn-sky" id="btn-syn-${index}" onclick="toggleSection(${index}, 'syn')">Synonyms</button>
+            <div class="synonyms-box" id="syn-${index}">${item.syn}</div>
+          
+            <button class="reveal-btn btn-purple" id="btn-ex-${index}" onclick="toggleSection(${index}, 'ex')">Example Sentences</button>
+            <ul class="example-list" id="ex-${index}"></ul>
+        `;
+        container.appendChild(slide);
+    });
+
+    function toggleSection(index, type) {
+        let box, btn, originalText;
+      
+        if (type === 'mean') {
+            box = document.getElementById(`mean-${index}`);
+            btn = document.getElementById(`btn-mean-${index}`);
+            originalText = "Show Meaning";
+        } else if (type === 'syn') {
+            box = document.getElementById(`syn-${index}`);
+            btn = document.getElementById(`btn-syn-${index}`);
+            originalText = "Synonyms";
+        } else {
+            box = document.getElementById(`ex-${index}`);
+            btn = document.getElementById(`btn-ex-${index}`);
+            originalText = "Example Sentences";
+          
+            if (box.children.length === 0) {
+                box.innerHTML = vocabulary[index].s.map(sentence => `<li>${sentence}</li>`).join('');
+            }
+        }
+        if (box.style.display === "block") {
+            box.style.display = "none";
+            btn.innerText = originalText;
+            btn.style.opacity = "1";
+        } else {
+            box.style.display = "block";
+            btn.innerText = "✓ " + originalText.split(" ")[0] + " Shown";
+            btn.style.opacity = "0.6";
+        }
+    }
+</script>
+</body>
+</html>

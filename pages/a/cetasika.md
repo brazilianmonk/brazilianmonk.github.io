@@ -35,7 +35,9 @@ Renderings: mental factors, mentalities, immaterial dhammas, mental elements.
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
 ### What is Cittuppāda?
-One citta together with its concomitant cetasikas are collectively called cittuppāda or nāmakalāpa.
+- One citta together with its concomitant cetasikas are collectively called cittuppāda or nāmakalāpa
+- In some places, maggacittuppāda or phalacittuppāda is used referring to the totality of dhammas that occur together. E.g., 29 maggacittuppāda: citta and 28 cetasikas that belong to saccavinnimuttadhammas according to Dhammasaṅgaṇī method.
+
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 

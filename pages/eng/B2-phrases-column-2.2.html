@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>B2 Phrase Column2.2 (31 Phrases)</title>
+    <style>
+        :root {
+            --primary: #2c3e50;
+            --success: #27ae60;
+            --purple: #8e44ad;
+            --skyblue: #3498db;
+            --bg: #f4f7f6;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: var(--bg);
+            padding: 40px;
+            margin: 0;
+        }
+        .deck-container { width: 100%; max-width: 980px; margin: 0 auto; }
+        .slide {
+            background: white;
+            padding: 45px;
+            border-radius: 20px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.1);
+            margin-bottom: 60px;
+            border-top: 16px solid var(--primary);
+            position: relative;
+        }
+        .phrase-header {
+            color: var(--primary);
+            font-size: 3.1em;
+            margin: 0px 0 20px 0;
+            font-weight: 800;
+            text-align: center;
+        }
+        .slide-num {
+            position: absolute; top: 20px; right: 30px;
+            color: #bdc6d0; font-weight: bold; font-size: 1.3em;
+        }
+        .reveal-btn {
+            border: none;
+            padding: 8px 26px;
+            border-radius: 10px;
+            cursor: pointer;
+            font-size: 1.2em;
+            font-weight: bold;
+            color: white;
+            margin: 9px auto 7px auto;
+            display: block;
+            transition: all 0.3s;
+        }
+        .btn-green { background: var(--success); }
+        .btn-purple { background: var(--purple); }
+        .btn-sky { background: var(--skyblue); }
+        .meaning-box, .synonyms-box {
+            display: none;
+            background: #f8fff0;
+            padding: 5px 18px 6px 18px;
+            border-radius: 12px;
+            margin: 12px 0;
+            font-size: 1.32em;
+            line-height: 1.65;
+            text-align: left;
+            border: 2px dashed var(--success);
+        }
+        .example-list {
+            display: none;
+            list-style: none;
+            padding: 0;
+            margin-top: 15px;
+        }
+        .example-list li {
+            background: #f8f4ff;
+            padding: 2px 15px;
+            margin-bottom: 5px;
+            border-radius: 10px;
+            border-left: 6px solid var(--purple);
+            font-size: 1.3em;
+            line-height: 1.5;
+        }
+    </style>
+</head>
+<body>
+<h1 style="text-align:center; color:var(--primary); font-size: 42px; margin-top: 150px; margin-bottom: 300px;">
+    &nbsp;&nbsp;&nbsp;&nbsp;B2 Phrase Column2.2 (31 Phrases)
+</h1>
+<div class="deck-container" id="presentation"></div>
+
+<script>
+    const vocabulary = [
+        { p: "in an attempt to do sth", m: "• Trying to achieve something.<br>• With the purpose of doing something.", syn: "• in order to &nbsp;&nbsp;&nbsp;• trying to &nbsp;&nbsp;&nbsp;• with the aim of", s: ["She shouted in an attempt to get their attention.", "He studied hard in an attempt to pass the exam.", "The company lowered prices in an attempt to increase sales.", "They called an emergency meeting in an attempt to solve the problem."] },
+        { p: "in part", m: "• Partly; to some extent.<br>• Not completely.", syn: "• partly &nbsp;&nbsp;&nbsp;• to some extent &nbsp;&nbsp;&nbsp;• partially", s: ["The delay was in part due to bad weather.", "His success is in part because of his hard work.", "The problem was caused in part by poor planning.", "I agree with you in part."] },
+        { p: "in place", m: "• In the correct position.<br>• Ready and available.", syn: "• ready &nbsp;&nbsp;&nbsp;• set up &nbsp;&nbsp;&nbsp;• established", s: ["All the arrangements are now in place.", "The new system is in place and working well.", "Safety measures have been put in place.", "Everything was in place for the big event."] },
+        { p: "in relation to sb/sth", m: "• Regarding or concerning someone or something.<br>• In comparison with.", syn: "• regarding &nbsp;&nbsp;&nbsp;• with regard to &nbsp;&nbsp;&nbsp;• concerning", s: ["I have some questions in relation to the contract.", "What’s your opinion in relation to this issue?", "Crime rates have increased in relation to last year.", "She said nothing in relation to the problem."] },
+        { p: "in spite of sth", m: "• Despite something; although something is true.", syn: "• despite &nbsp;&nbsp;&nbsp;• although &nbsp;&nbsp;&nbsp;• regardless of", s: ["In spite of the rain, we went for a walk.", "She passed the exam in spite of being ill.", "In spite of his age, he still plays football.", "They succeeded in spite of many difficulties."] },
+        { p: "in the first place", m: "• Used to talk about the beginning of a situation.<br>• Originally; at first.", syn: "• originally &nbsp;&nbsp;&nbsp;• to begin with &nbsp;&nbsp;&nbsp;• at first", s: ["Why did you invite him in the first place?", "I didn't want to go in the first place.", "How did this problem start in the first place?", "We shouldn't have done it in the first place."] },
+        { p: "in the near future", m: "• Soon; in a short time from now.", syn: "• soon &nbsp;&nbsp;&nbsp;• shortly &nbsp;&nbsp;&nbsp;• before long", s: ["We plan to move house in the near future.", "New regulations will be introduced in the near future.", "I hope to visit Japan in the near future.", "The company will make an announcement in the near future."] },
+        { p: "in turn", m: "• One after another.<br>• As a result.", syn: "• one by one &nbsp;&nbsp;&nbsp;• successively &nbsp;&nbsp;&nbsp;• consequently", s: ["We spoke to each student in turn.", "The children took turns in turn.", "This, in turn, led to better results.", "Each generation, in turn, passes on its knowledge."] },
+        { p: "investment in sth", m: "• The act of putting money, time, or effort into something.", syn: "• spending on &nbsp;&nbsp;&nbsp;• contribution to", s: ["The government increased investment in education.", "Heavy investment in technology is necessary.", "She made a wise investment in her future.", "Investment in renewable energy is growing."] },
+        { p: "I would say…", m: "• Used to give an opinion.", syn: "• I think &nbsp;&nbsp;&nbsp;• in my opinion &nbsp;&nbsp;&nbsp;• I'd say", s: ["I would say this is the best option.", "I would say she's about 30 years old.", "That's, I would say, a very good idea.", "I would say the food was excellent."] },
+        { p: "loads of sb/sth", m: "• A large amount or number of something (informal).", syn: "• lots of &nbsp;&nbsp;&nbsp;• plenty of &nbsp;&nbsp;&nbsp;• a lot of", s: ["There were loads of people at the party.", "I've got loads of homework to do.", "She has loads of experience in marketing.", "We still have loads of time."] },
+        { p: "mental health", m: "• A person's emotional and psychological well-being.", syn: "• psychological health &nbsp;&nbsp;&nbsp;• emotional well-being", s: ["We need to take care of our mental health.", "Mental health issues are becoming more common.", "Exercise is good for both physical and mental health.", "The company offers mental health support to employees."] },
+        { p: "more or less", m: "• Approximately; almost.", syn: "• roughly &nbsp;&nbsp;&nbsp;• about &nbsp;&nbsp;&nbsp;• nearly", s: ["The project is more or less finished.", "We have more or less the same opinion.", "It costs $50, more or less.", "I've more or less decided to accept the offer."] },
+        { p: "no doubt", m: "• Certainly; without question.", syn: "• certainly &nbsp;&nbsp;&nbsp;• surely &nbsp;&nbsp;&nbsp;• undoubtedly", s: ["No doubt he will be late again.", "She is, no doubt, the best candidate.", "No doubt you'll enjoy the trip.", "There is no doubt that climate change is real."] },
+        { p: "no matter…", m: "• Regardless of; it doesn't matter.", syn: "• regardless of &nbsp;&nbsp;&nbsp;• irrespective of", s: ["No matter what happens, I'll support you.", "No matter how hard it is, don't give up.", "No matter where you go, be careful.", "No matter who wins, it will be a good match."] },
+        { p: "no matter how…", m: "• However; regardless of the degree.", syn: "• however &nbsp;&nbsp;&nbsp;• regardless of how", s: ["No matter how difficult it is, we must try.", "No matter how tired she was, she kept working.", "No matter how much it costs, I want the best one.", "No matter how fast he runs, he can't win."] },
+        { p: "no matter what…", m: "• Whatever happens.", syn: "• whatever &nbsp;&nbsp;&nbsp;• regardless of what", s: ["No matter what you decide, I'm with you.", "No matter what people say, I believe in you.", "We'll finish the job, no matter what.", "No matter what the weather is like, the event will go ahead."] },
+        { p: "nothing but", m: "• Only; just.", syn: "• only &nbsp;&nbsp;&nbsp;• just &nbsp;&nbsp;&nbsp;• solely", s: ["He's nothing but trouble.", "It was nothing but a joke.", "She wants nothing but the truth.", "The room contained nothing but old furniture."] },
+        { p: "on board", m: "• On a ship, plane, or train.<br>• Agreeing with or supporting an idea/plan.", syn: "• aboard &nbsp;&nbsp;&nbsp;• in agreement &nbsp;&nbsp;&nbsp;• involved", s: ["All passengers are now on board.", "The whole team is on board with the new plan.", "Welcome on board!", "We need to get more people on board."] },
+        { p: "once again", m: "• Again; one more time.", syn: "• again &nbsp;&nbsp;&nbsp;• once more", s: ["Once again, he was late for class.", "Let me explain it once again.", "The team won the championship once again.", "Once again, thank you for your help."] },
+        { p: "one another", m: "• Each other (for three or more people).", syn: "• each other", s: ["They helped one another during the project.", "The students supported one another.", "We should respect one another.", "The team members trust one another."] },
+        { p: "on the basis of sth", m: "• Based on something.", syn: "• based on &nbsp;&nbsp;&nbsp;• according to", s: ["She was chosen on the basis of her experience.", "Decisions are made on the basis of merit.", "He judged her on the basis of first impressions.", "The salary is calculated on the basis of hours worked."] },
+        { p: "on the one hand", m: "• Used to introduce one side of an argument.", syn: "• on one side", s: ["On the one hand, it's expensive. On the other hand, it's high quality.", "On the one hand, I want to go. On the other hand, I'm tired.", "On the one hand, technology helps us. On the other hand, it can be addictive."] },
+        { p: "opposed to sth", m: "• Against something.", syn: "• against &nbsp;&nbsp;&nbsp;• in opposition to", s: ["She is strongly opposed to the new law.", "I am opposed to animal testing.", "Many people are opposed to the plan.", "He is not opposed to the idea."] },
+        { p: "or so", m: "• Approximately; about that number.", syn: "• approximately &nbsp;&nbsp;&nbsp;• or thereabouts", s: ["It will take two hours or so.", "She is thirty or so years old.", "We need 50 or so volunteers.", "I'll be there in ten minutes or so."] },
+        { p: "other than", m: "• Except for; apart from.", syn: "• except &nbsp;&nbsp;&nbsp;• apart from &nbsp;&nbsp;&nbsp;• besides", s: ["There was nobody other than me.", "I have no choice other than to accept.", "Other than John, everyone passed the test.", "The house was empty other than a few old chairs."] },
+        { p: "potential for sth", m: "• The possibility of something happening or developing.", syn: "• possibility of &nbsp;&nbsp;&nbsp;• chance of", s: ["There is great potential for growth in this market.", "The young player has a lot of potential for success.", "This invention has huge potential for the future.", "There is potential for conflict in the region."] },
+        { p: "pretty much", m: "• Almost completely; very nearly.", syn: "• almost &nbsp;&nbsp;&nbsp;• more or less &nbsp;&nbsp;&nbsp;• virtually", s: ["I've pretty much finished my homework.", "It's pretty much the same as before.", "She's pretty much decided to move abroad.", "The party was pretty much over by midnight."] },
+        { p: "prior to", m: "• Before a particular time or event.", syn: "• before &nbsp;&nbsp;&nbsp;• preceding", s: ["Prior to the meeting, we reviewed the report.", "Make sure you prepare prior to the exam.", "The area was peaceful prior to the storm.", "Prior to moving here, she lived in London."] },
+        { p: "prove to be sth", m: "• To turn out to be something.", syn: "• turn out to be &nbsp;&nbsp;&nbsp;• end up being", s: ["The decision proved to be a mistake.", "The new treatment proved to be very effective.", "It proved to be more difficult than expected.", "The book proved to be very useful."] },
+        { p: "put sth forward", m: "• To suggest an idea or plan.", syn: "• suggest &nbsp;&nbsp;&nbsp;• propose &nbsp;&nbsp;&nbsp;• present", s: ["She put forward an interesting idea.", "The committee put forward several proposals.", "He put forward a strong argument.", "Several solutions were put forward during the meeting."] }
+    ];
+
+    const container = document.getElementById('presentation');
+    vocabulary.forEach((item, index) => {
+        const slide = document.createElement('div');
+        slide.className = 'slide';
+        slide.innerHTML = `
+            <div class="slide-num">${index + 1} / ${vocabulary.length}</div>
+            <div class="phrase-header">${item.p}</div>
+          
+            <button class="reveal-btn btn-green" id="btn-mean-${index}" onclick="toggleSection(${index}, 'mean')">Show Meaning</button>
+            <div class="meaning-box" id="mean-${index}">${item.m}</div>
+          
+            <button class="reveal-btn btn-sky" id="btn-syn-${index}" onclick="toggleSection(${index}, 'syn')">Synonyms</button>
+            <div class="synonyms-box" id="syn-${index}">${item.syn}</div>
+          
+            <button class="reveal-btn btn-purple" id="btn-ex-${index}" onclick="toggleSection(${index}, 'ex')">Example Sentences</button>
+            <ul class="example-list" id="ex-${index}"></ul>
+        `;
+        container.appendChild(slide);
+    });
+
+    function toggleSection(index, type) {
+        let box, btn, originalText;
+      
+        if (type === 'mean') {
+            box = document.getElementById(`mean-${index}`);
+            btn = document.getElementById(`btn-mean-${index}`);
+            originalText = "Show Meaning";
+        } else if (type === 'syn') {
+            box = document.getElementById(`syn-${index}`);
+            btn = document.getElementById(`btn-syn-${index}`);
+            originalText = "Synonyms";
+        } else {
+            box = document.getElementById(`ex-${index}`);
+            btn = document.getElementById(`btn-ex-${index}`);
+            originalText = "Example Sentences";
+          
+            if (box.children.length === 0) {
+                box.innerHTML = vocabulary[index].s.map(sentence => `<li>${sentence}</li>`).join('');
+            }
+        }
+        if (box.style.display === "block") {
+            box.style.display = "none";
+            btn.innerText = originalText;
+            btn.style.opacity = "1";
+        } else {
+            box.style.display = "block";
+            btn.innerText = "✓ " + originalText.split(" ")[0] + " Shown";
+            btn.style.opacity = "0.6";
+        }
+    }
+</script>
+</body>
+</html>
