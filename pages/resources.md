@@ -14,7 +14,11 @@ Links to Dhamma resources for Dhamma study and practice.
 
 ## [📝 Summaries, notes, essays, etc.](/summaries)
 
-Here I keep my own Buddhist summaries, notes, essays, programs, etc. It also includes material for English learners.
+Here I keep my own Buddhist summaries, notes, essays, programs, etc.
+
+## [💬 English Language Studies](/english)
+
+Resources for English learners: recommended study tools, interactive quizzes, and my own grammar notes.
 
 ## [⌨️ MonkType](https://brazilianmonk.github.io/monktype/)
 
