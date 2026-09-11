@@ -39,6 +39,12 @@
   z-index: 105;
 }
 
+/* Matches the visible BRM mark at the end of the home-page GIF. */
+.site-title img.logo--mini {
+  left: 30px;
+  width: 50px;
+}
+
 /* --- Navigation Search Bar (Middle) --- */
 .nav-search {
   position: relative;
@@ -109,6 +115,7 @@
   top: 110%;
   left: 0;
   width: 100%;
+  min-width: 260px;
   background: #fff;
   list-style: none;
   padding: 0;
@@ -118,6 +125,14 @@
   z-index: 9999;
   max-height: 300px;
   overflow-y: auto;
+  visibility: hidden;
+  opacity: 0;
+  transition: opacity .12s ease;
+}
+
+#results-container.is-visible {
+  visibility: visible;
+  opacity: 1;
 }
 
 #results-container li a {
@@ -128,9 +143,40 @@
   color: #333;
 }
 
-#results-container li a:hover {
+#results-container li:last-child a {
+  border-bottom: none;
+}
+
+#results-container li a:hover,
+#results-container li a.is-active {
   background-color: #f9f9f9;
 }
+
+.search-no-results {
+  padding: 12px 15px;
+  font-size: 0.8rem;
+  color: #888;
+}
+
+/* --- Clear Button --- */
+.search-clear {
+  position: absolute;
+  right: 4px;
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  color: #999;
+  font-size: 0.8rem;
+  line-height: 1;
+  cursor: pointer;
+  display: none;
+  padding: 0 2px;
+  z-index: 2;
+}
+
+.search-clear.is-visible { display: block; }
+.search-clear:hover { color: #333; }
 
 .res-t { font-weight: 600; font-size: 0.9rem; }
 .res-d { font-size: 0.75rem; color: #9a9a9a; }
@@ -174,6 +220,11 @@
   .site-title img.no-style {
     left: 10px;
     max-width: 120px; /* Scaled down for tighter mobile header */
+  }
+
+  .site-title img.logo--mini {
+    left: 16px;
+    width: 30px;
   }
 
   /* Dropdown Toggle Button */
@@ -228,9 +279,4 @@
 }
 .res-d:empty {
   display: none;
-}
-#results-container {
-  z-index: 9999 !important;
-  background-color: white !important;
-  display: block !important;
 }

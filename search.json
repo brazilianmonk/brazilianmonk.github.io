@@ -1,0 +1,26 @@
+---
+layout: null
+permalink: /search.json
+---
+[
+{%- assign first = true -%}
+{%- for p in site.pages -%}
+  {%- if p.url == "/search.json" or p.url == "/feed.xml" or p.url == "/404.html" -%}{%- continue -%}{%- endif -%}
+  {%- unless first -%},{%- endunless -%}
+  {%- assign first = false -%}
+  {
+    "title": {{ p.title | default: p.url | jsonify }},
+    "url": {{ p.url | jsonify }},
+    "content": {{ p.content | strip_html | replace: '&nbsp;', ' ' | replace: '&amp;', '&' | normalize_whitespace | truncate: 12000, "" | jsonify }}
+  }
+{%- endfor -%}
+{%- for p in site.posts -%}
+  {%- unless first -%},{%- endunless -%}
+  {%- assign first = false -%}
+  {
+    "title": {{ p.title | default: p.url | jsonify }},
+    "url": {{ p.url | jsonify }},
+    "content": {{ p.content | strip_html | replace: '&nbsp;', ' ' | replace: '&amp;', '&' | normalize_whitespace | truncate: 12000, "" | jsonify }}
+  }
+{%- endfor -%}
+]

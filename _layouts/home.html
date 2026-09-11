@@ -3,45 +3,52 @@ layout: default
 title: Home
 ---
 
-<style>
-    .image-links {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        gap: 20px; /* Space between images */
-        max-width: 600px; /* Adjust based on your design */
-        margin: auto;
-    }
+<section class="home-resources" aria-labelledby="start-here">
+  <h1 id="start-here" class="featured-resources-title">Featured resources</h1>
 
-    .image-links a img {
-        width: 100%; /* Makes images responsive */
-        max-width: 400px; /* Limits max size */
-        border-radius: 10px; /* Optional rounded corners */
-        transition: transform 0.3s ease-in-out;
-    }
+  <div class="resource-cards resource-cards--home">
+    <a class="resource-card resource-card--image resource-card--featured" href="{{ site.baseurl }}/monasteries">
+      <img src="{{ site.baseurl }}/assets/img/paauk.jpg" alt="Pa Auk Meditation Center">
+      <span class="resource-card__content">
+        <span class="resource-card__label">Featured resource</span>
+        <strong>Theravāda Monastery Directory</strong>
+        <span>Find monasteries by country, language, and area of focus.</span>
+      </span>
+      <span class="resource-card__arrow" aria-hidden="true">→</span>
+    </a>
 
-    .image-links a img:hover {
-        transform: scale(1.05); /* Slight zoom on hover */
-    }
-    
-    .centered-text {
-            text-align: center;
-    }
-</style>
-<!-- <br> -->
-<!-- <div class="centered-text"><b>Sabbapāpassa akaraṇaṁ, kusalassa upasampadā<b></div> -->
-<!-- <br> -->
-<!-- <div class="image-links">		     -->
-<!--     <a href="{{ site.baseurl }}/summaries"> -->
-<!--         <img src="{{ site.baseurl }}/assets/img/summaries-img.jpg" alt="Summaries"> -->
-<!--     </a> -->
-<!--     <a href="{{ site.baseurl }}/monk-calculators"> -->
-<!--         <img src="{{ site.baseurl }}/assets/img/ordination-eligibility-calculator-img.png" alt="Monk Calculator"> -->
-<!--     </a> -->
-<!--     <a href="{{ site.baseurl }}/youtube-projects"> -->
-<!--         <img src="{{ site.baseurl }}/assets/img/youtube-home-img.jpg" alt="YouTube Projects"> -->
-<!--     </a> -->
-<!-- </div> -->
+    <a class="resource-card resource-card--image" href="{{ site.baseurl }}/summaries">
+      <img src="{{ site.baseurl }}/assets/img/summaries.png" alt="Dhamma summaries">
+      <span class="resource-card__content">
+        <strong>Dhamma Summaries &amp; Notes</strong>
+        <span>Personal study notes on Pāḷi, Abhidhamma, Vinaya, and more.</span>
+      </span>
+      <span class="resource-card__arrow" aria-hidden="true">→</span>
+    </a>
+
+    <a class="resource-card resource-card--image" href="{{ site.baseurl }}/links">
+      <img src="{{ site.baseurl }}/assets/img/e-pitaka.png" alt="E-piṭaka website">
+      <span class="resource-card__content">
+        <strong>Recommended Dhamma Links</strong>
+        <span>Carefully selected resources for study and practice.</span>
+      </span>
+      <span class="resource-card__arrow" aria-hidden="true">→</span>
+    </a>
+
+    <a class="resource-card resource-card--image" href="https://brazilianmonk.github.io/monktype/">
+      <img src="{{ site.baseurl }}/assets/img/monktype.png" alt="MonkType typing practice">
+      <span class="resource-card__content">
+        <strong>MonkType</strong>
+        <span>Practise typing, spelling, and vocabulary in any language.</span>
+      </span>
+      <span class="resource-card__arrow" aria-hidden="true">→</span>
+    </a>
+  </div>
+
+  <p class="home-resources__more"><a href="{{ site.baseurl }}/resources">View all resources →</a></p>
+</section>
+
+<h2 class="recent-posts-title">Recent posts</h2>
 
 {% for post in paginator.posts %}
   {% include featured-post.html %}

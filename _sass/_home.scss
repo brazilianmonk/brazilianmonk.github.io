@@ -28,6 +28,217 @@
   margin: 10px;
 }
 
+.home-resources {
+  margin: 2.5rem 10px 2rem;
+}
+
+.featured-resources-title,
+.recent-posts-title {
+  margin: 0;
+}
+
+.resources-intro {
+  color: #575757;
+  line-height: 1.55;
+}
+
+.home-resources__eyebrow,
+.resource-card__label {
+  color: #9a5500;
+  font-size: .76rem;
+  font-weight: bold;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+
+.resource-cards {
+  display: grid;
+  gap: .85rem;
+}
+
+.resource-cards--home {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  margin-top: 1.25rem;
+}
+
+.resource-card {
+  align-items: center;
+  background: #fff;
+  border: 1px solid #e2ddd6;
+  border-radius: 10px;
+  color: #222;
+  display: flex;
+  gap: 1rem;
+  padding: 1rem;
+  text-decoration: none;
+  transition: border-color .2s ease, box-shadow .2s ease, transform .2s ease;
+}
+
+.resource-card:hover,
+.resource-card:focus {
+  border-color: #ad6100;
+  box-shadow: 0 4px 14px rgba(87, 48, 0, .12);
+  color: #222;
+  transform: translateY(-2px);
+}
+
+.resource-card--featured {
+  background: #fffaf3;
+  border-color: #d7a35d;
+}
+
+.resource-card--image {
+  align-items: stretch;
+  display: grid;
+  gap: 0;
+  grid-template-columns: 1fr;
+  overflow: hidden;
+  padding: 0;
+  position: relative;
+}
+
+.resource-card--image img {
+  display: block;
+  height: 142px;
+  object-fit: cover;
+  width: 100%;
+}
+
+.resource-card--image .resource-card__content {
+  padding: 1rem 1rem 1.1rem;
+}
+
+.resource-card--image .resource-card__arrow {
+  bottom: 1rem;
+  position: absolute;
+  right: 1rem;
+}
+
+.resource-card__icon {
+  align-items: center;
+  background: #f3e6d4;
+  border-radius: 50%;
+  color: #8a4a00;
+  display: inline-flex;
+  flex: 0 0 2.5rem;
+  font-size: 1.25rem;
+  height: 2.5rem;
+  justify-content: center;
+}
+
+.resource-card__content {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: .2rem;
+}
+
+.resource-card__content strong {
+  font-size: 1.05rem;
+}
+
+.resource-card__content > span:not(.resource-card__label) {
+  color: #5b5b5b;
+  line-height: 1.4;
+}
+
+.resource-card__arrow {
+  color: #8a4a00;
+  font-size: 1.35rem;
+}
+
+.home-resources__more {
+  margin: 1rem 0 0;
+  text-align: right;
+}
+
+.recent-posts-title {
+  margin: 2rem 10px 1rem;
+}
+
+.resources-intro {
+  margin: 0 0 1.5rem;
+}
+
+.resource-featured-posts {
+  display: grid;
+  gap: 1rem;
+  margin-bottom: 2.5rem;
+}
+
+.resource-featured-post {
+  align-items: flex-end;
+  background-color: #5a4030;
+  background-position: center;
+  background-size: cover;
+  border-radius: 10px;
+  color: white;
+  display: flex;
+  min-height: 240px;
+  overflow: hidden;
+  position: relative;
+  text-decoration: none;
+}
+
+.resource-featured-post::before {
+  background: linear-gradient(0deg, rgba(0, 0, 0, .82), rgba(0, 0, 0, .08) 75%);
+  content: "";
+  inset: 0;
+  position: absolute;
+}
+
+.resource-featured-post:hover,
+.resource-featured-post:focus {
+  color: white;
+}
+
+.resource-featured-post span {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  gap: .35rem;
+  padding: 1.25rem;
+  position: relative;
+  z-index: 1;
+}
+
+.resource-featured-post strong {
+  font-size: 1.35rem;
+}
+
+.resource-featured-post small {
+  color: #f5c982;
+  font-size: .75rem;
+  font-weight: bold;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+
+.resource-featured-post em {
+  font-size: .96rem;
+  font-style: normal;
+  line-height: 1.4;
+}
+
+.resource-featured-post--monasteries { background-image: url('/assets/img/paauk.jpg'); }
+.resource-featured-post--summaries { background-image: url('/assets/img/summaries.png'); }
+.resource-featured-post--links { background-image: url('/assets/img/e-pitaka.png'); }
+.resource-featured-post--monktype { background-image: url('/assets/img/monktype.png'); }
+.resource-featured-post--english { background-image: url('/assets/img/eng-teaching.png'); }
+.resource-featured-post--recitation { background-image: url('/assets/img/youtube-channel.jpg'); }
+
+.resources-secondary-title {
+  border-top: 1px solid #e2ddd6;
+  padding-top: 1.75rem;
+}
+
+@media (max-width: 480px) {
+  .home-resources { margin: 1.75rem 10px; }
+  .resource-cards--home { grid-template-columns: 1fr; }
+  .resource-card { align-items: flex-start; }
+  .resource-card__arrow { padding-top: .35rem; }
+}
+
 /*
   Pagination
 */

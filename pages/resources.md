@@ -4,41 +4,40 @@ title: Resources
 permalink: /resources
 ---
 
-## [🏠 Theravāda Monastery Directory](/monasteries)
+<div class="resource-featured-posts">
+  <a class="resource-featured-post resource-featured-post--monasteries" href="/monasteries">
+    <span><strong>Theravāda Monastery Directory</strong><em>Explore monasteries by country, language, and area of focus.</em></span>
+  </a>
+  <a class="resource-featured-post resource-featured-post--summaries" href="/summaries">
+    <span><strong>Dhamma Summaries &amp; Notes</strong><em>Personal material on Pāḷi, Abhidhamma, Vinaya, and other topics.</em></span>
+  </a>
+  <a class="resource-featured-post resource-featured-post--links" href="/links">
+    <span><strong>Recommended Dhamma Links</strong><em>Trusted resources for Dhamma study and practice.</em></span>
+  </a>
+  <a class="resource-featured-post resource-featured-post--monktype" href="https://brazilianmonk.github.io/monktype/">
+    <span><strong>MonkType</strong><em>Practise typing, spelling, and vocabulary in any language.</em></span>
+  </a>
+  <a class="resource-featured-post resource-featured-post--english" href="/english">
+    <span><strong>English Language Studies</strong><em>Study tools, interactive quizzes, and my own grammar notes for English learners.</em></span>
+  </a>
+  <a class="resource-featured-post resource-featured-post--recitation" href="https://www.youtube.com/playlist?list=PLGXmpHceJ17dymOCLeTfbYcVFTX-LA12v">
+    <span><strong>Recitation of Buddhist Texts</strong><em>Chanting and recitation of Pāḷi texts, from protective verses (paritta) to suttas.</em></span>
+  </a>
+</div>
 
-Theravāda Buddhist monasteries known to maintain the Theravāda Vinaya and traditional Tipiṭaka heritage.
+<h2 class="resources-secondary-title">More resources</h2>
 
-## [🔗 Links](/links)
-
-Links to Dhamma resources for Dhamma study and practice.
-
-## [📝 Dhamma summaries, notes, essays, etc.](/summaries)
-
-Here I keep my own Buddhist summaries, notes, essays, programs, etc.
-
-## [💬 English Language Studies](/english)
-
-Resources for English learners: recommended study tools, interactive quizzes, and my own grammar notes.
-
-## [⌨️ MonkType](https://brazilianmonk.github.io/monktype/)
-
-A website to practice typing, spelling, and increase vocabulary in any language. You can make your own word lists and translate them into any language.
-
-## [🧮 Monk Calculators](/monk-calculators)
+### [🧮 Monk Calculators](/monk-calculators)
 
 Calculate the Ordination Eligibility Date and the Ordination Duration Counter.
 
-## [🌳 Buddhist Skill Tree](/skill-tree)
+### [🌳 Buddhist Skill Tree](/skill-tree)
 
 An interactive checklist to track and visualize progress in study, meditation, monastic training, and teaching.
 
-## [️📆 Calendar](/calendar)
+### [️📆 Calendar](/calendar)
 
 Events going on.
-
-## [🎵 Recitation of Buddhist Texts](https://www.youtube.com/playlist?list=PLGXmpHceJ17dymOCLeTfbYcVFTX-LA12v)
-
-Chanting and recitation of Pāḷi texts, from protective verses (paritta) to suttas.
 
 
 
