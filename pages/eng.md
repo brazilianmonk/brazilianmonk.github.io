@@ -71,25 +71,30 @@ This is a website / app that can help you learn the basics and get exposed to th
 
 Organized by level, following the [grammar contents of Test-English.com](https://test-english.com/grammar-points/contents/). Notes that encompass a topic through several levels are kept under [Specific Topics](#specific-topics).
 
-### Level 1 (A1–A2)
+### A Level
 
 - [**How Come**](/summaries/eng/how-come)
 - [**Pronunciation of the Number 0**](/summaries/eng/zero)
 
-### Level 2 (B1–B1+)
+### B1–B1+ Level
 
 - [**Present Perfect Simple vs. Continuous**](/summaries/eng/present-perfect-simple-vs-continuous)
 - [**Identical Zero and 1st Conditional**](/summaries/eng/identical-zero-and-first-conditionals)
 - [**"So that..."**](/summaries/eng/so-that)
 - [**Adjective Order**](/summaries/eng/adjective-order)
+- [**Gradable vs. Non-gradable Adjectives**](/summaries/eng/gradable-vs-non-gradable-adjectives)
+- [**Present Simple vs. Perfect in Future Time Clauses**](/summaries/eng/present-simple-vs-perfect-in-future-time-clauses)
 
-### Level 3 (B2)
+### B2 Level
 
 - [**Gerund vs. Present Participle**](/summaries/eng/gerund-vs-present-participle)
 - [**Participial Clauses**](/summaries/eng/participial-clauses)
 - [**Absolute Phrases**](/summaries/eng/absolute-phrases)
 - [**Serious Writing Mistakes**](/summaries/eng/serious-writing-mistakes)
 
+### C1 Level
+### C2 Level
+- [**May well vs. May as well**](/summaries/eng/may-well-vs-may-as-well)
 ### Specific Topics
 
 Notes that cover a topic across several levels.

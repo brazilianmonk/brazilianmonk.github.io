@@ -1,0 +1,450 @@
+
+==============================================================================
+pages\a\fundamentals-of-theravada.html  (portal: 9, tag: 9)
+==============================================================================
+  [tag    ] line 121: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 122: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [portal ] line 202: <div class="Portal">
+  [tag    ] line 1273: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [portal ] line 1329: <div class="Portal">
+  [portal ] line 1613: <div class="Portal">
+  [tag    ] line 1716: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [portal ] line 2267: <div class="Portal">
+  [tag    ] line 3600: #Table90
+  [portal ] line 4066: <div class="Portal">
+  [tag    ] line 4121: #table240
+  [portal ] line 4378: <div class="Portal">
+  [portal ] line 4458: <div class="Portal">
+  [portal ] line 4775: <div class="Portal">
+  [tag    ] line 5069: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [portal ] line 5112: <div class="Portal">
+  [tag    ] line 5404: #wip
+  [tag    ] line 5480: #[[extra notes]]
+
+==============================================================================
+pages\kha\vinaya-entrance-notes.html  (portal: 11, tag: 56)
+==============================================================================
+  [tag    ] line 24: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 25: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 140: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 520: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 577: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 656: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 681: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 704: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 707: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 708: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [portal ] line 715: <div class="Portal">
+  [tag    ] line 791: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 792: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 938: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 939: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1148: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1161: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1162: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [portal ] line 1165: <div class="Portal">
+  [portal ] line 1167: <div class="Portal">
+  [portal ] line 1190: <div class="Portal">
+  [portal ] line 1192: <div class="Portal">
+  [tag    ] line 1416: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1588: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [portal ] line 1681: <div class="Portal">
+  [tag    ] line 1716: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1717: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1827: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1886: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1999: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 2081: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 2103: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 2125: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 2126: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 2127: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 2156: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 2184: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 2231: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 2232: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 2234: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 2370: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 2558: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [portal ] line 2625: <div class="Portal">
+  [portal ] line 2627: <div class="Portal">
+  [tag    ] line 2734: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [portal ] line 2781: <div class="Portal">
+  [tag    ] line 2954: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 2961: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 3152: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 3166: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 3224: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 3225: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 3228: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 3230: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 3321: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 3347: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 3348: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 3349: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 3350: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 3437: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;"><b>pāḷi</b></mark> vo
+  [tag    ] line 3447: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 3522: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 3529: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [portal ] line 3660: <div class="Portal">
+  [portal ] line 3664: <div class="Portal">
+  [tag    ] line 3714: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 3715: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+
+==============================================================================
+pages\khu\khuddaka-nikaya.html  (portal: 9, tag: 76)
+==============================================================================
+  [tag    ] line 63: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 64: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 75: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 114: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 115: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [portal ] line 206: <div class="Portal">
+  [tag    ] line 213: #[[<mark remnoteMark="true" style="background-color: blue; color: inherit;"><b>khuddaka</b></mark> e
+  [tag    ] line 218: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 235: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 267: #[[<mark remnoteMark="true" style="background-color: blue; color: inherit;"><b>khuddaka</b></mark> e
+  [tag    ] line 271: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 272: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 316: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 317: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 318: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 319: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 324: #[[<mark remnoteMark="true" style="background-color: blue; color: inherit;"><b>khuddaka</b></mark> e
+  [tag    ] line 349: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 381: #[[<mark remnoteMark="true" style="background-color: blue; color: inherit;"><b>khuddaka</b></mark> e
+  [tag    ] line 383: #[[<mark remnoteMark="true" style="background-color: blue; color: inherit;"><b>khuddaka</b></mark> e
+  [tag    ] line 495: #[[<mark remnoteMark="true" style="background-color: blue; color: inherit;"><b>khuddaka</b></mark> e
+  [tag    ] line 544: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 546: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 599: #[[<mark remnoteMark="true" style="background-color: blue; color: inherit;"><b>khuddaka</b></mark> e
+  [tag    ] line 629: #[[<mark remnoteMark="true" style="background-color: blue; color: inherit;"><b>khuddaka</b></mark> e
+  [tag    ] line 642: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 680: #[[<mark remnoteMark="true" style="background-color: blue; color: inherit;"><b>khuddaka</b></mark> e
+  [tag    ] line 776: #[[<mark remnoteMark="true" style="background-color: blue; color: inherit;"><b>khuddaka</b></mark> e
+  [tag    ] line 778: #[[<mark remnoteMark="true" style="background-color: blue; color: inherit;"><b>khuddaka</b></mark> e
+  [tag    ] line 883: #[[<mark remnoteMark="true" style="background-color: blue; color: inherit;"><b>khuddaka</b></mark> e
+  [tag    ] line 964: #[[<mark remnoteMark="true" style="background-color: blue; color: inherit;"><b>khuddaka</b></mark> e
+  [tag    ] line 1003: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1029: #[[<mark remnoteMark="true" style="background-color: blue; color: inherit;"><b>khuddaka</b></mark> e
+  [tag    ] line 1045: #[[<mark remnoteMark="true" style="background-color: blue; color: inherit;"><b>khuddaka</b></mark> e
+  [tag    ] line 1067: #[[<mark remnoteMark="true" style="background-color: blue; color: inherit;"><b>khuddaka</b></mark> e
+  [tag    ] line 1078: #[[<mark remnoteMark="true" style="background-color: blue; color: inherit;"><b>khuddaka</b></mark> e
+  [tag    ] line 1086: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1110: #[[<mark remnoteMark="true" style="background-color: blue; color: inherit;"><b>khuddaka</b></mark> e
+  [tag    ] line 1124: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1155: #[[<mark remnoteMark="true" style="background-color: blue; color: inherit;"><b>khuddaka</b></mark> e
+  [tag    ] line 1159: #[[<mark remnoteMark="true" style="background-color: blue; color: inherit;"><b>khuddaka</b></mark> e
+  [portal ] line 1177: <div class="Portal">
+  [tag    ] line 1217: #[[<mark remnoteMark="true" style="background-color: blue; color: inherit;"><b>khuddaka</b></mark> e
+  [tag    ] line 1225: #[[<mark remnoteMark="true" style="background-color: blue; color: inherit;"><b>khuddaka</b></mark> e
+  [tag    ] line 1293: #[[<mark remnoteMark="true" style="background-color: blue; color: inherit;"><b>khuddaka</b></mark> e
+  [portal ] line 1320: <div class="Portal">
+  [portal ] line 1363: <div class="Portal">
+  [portal ] line 1365: <div class="Portal">
+  [tag    ] line 1369: #Stub
+  [tag    ] line 1392: #[[<mark remnoteMark="true" style="background-color: blue; color: inherit;"><b>khuddaka</b></mark> e
+  [tag    ] line 1449: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1491: #[[<mark remnoteMark="true" style="background-color: blue; color: inherit;"><b>khuddaka</b></mark> e
+  [tag    ] line 1504: #[[<mark remnoteMark="true" style="background-color: blue; color: inherit;"><b>khuddaka</b></mark> e
+  [portal ] line 1561: <div class="Portal">
+  [portal ] line 1566: <div class="Portal">
+  [tag    ] line 1583: #[[<mark remnoteMark="true" style="background-color: blue; color: inherit;"><b>khuddaka</b></mark> e
+  [tag    ] line 1603: #[[<mark remnoteMark="true" style="background-color: blue; color: inherit;"><b>khuddaka</b></mark> e
+  [tag    ] line 1624: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1642: #[[<mark remnoteMark="true" style="background-color: blue; color: inherit;"><b>khuddaka</b></mark> e
+  [tag    ] line 1656: #[[<mark remnoteMark="true" style="background-color: blue; color: inherit;"><b>khuddaka</b></mark> e
+  [tag    ] line 1723: #[[<mark remnoteMark="true" style="background-color: blue; color: inherit;"><b>khuddaka</b></mark> e
+  [tag    ] line 1727: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [portal ] line 1768: <div class="Portal">
+  [portal ] line 1770: <div class="Portal">
+  [tag    ] line 1777: #[[<mark remnoteMark="true" style="background-color: blue; color: inherit;"><b>khuddaka</b></mark> e
+  [tag    ] line 1802: #[[<mark remnoteMark="true" style="background-color: blue; color: inherit;"><b>khuddaka</b></mark> e
+  [tag    ] line 1817: #[[<mark remnoteMark="true" style="background-color: blue; color: inherit;"><b>khuddaka</b></mark> e
+  [tag    ] line 1853: #[[<mark remnoteMark="true" style="background-color: blue; color: inherit;"><b>khuddaka</b></mark> e
+  [tag    ] line 1857: #[[<mark remnoteMark="true" style="background-color: blue; color: inherit;"><b>khuddaka</b></mark> e
+  [tag    ] line 1870: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1909: #[[<mark remnoteMark="true" style="background-color: blue; color: inherit;"><b>khuddaka</b></mark> e
+  [tag    ] line 1921: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1933: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1934: #[[<mark remnoteMark="true" style="background-color: blue; color: inherit;"><b>khuddaka</b></mark> e
+  [tag    ] line 1963: #[[<mark remnoteMark="true" style="background-color: blue; color: inherit;"><b>khuddaka</b></mark> e
+  [tag    ] line 1994: #[[<mark remnoteMark="true" style="background-color: transparent; color: green;"><b>suttanta</b></ma
+  [tag    ] line 2014: #[[<mark remnoteMark="true" style="background-color: blue; color: inherit;"><b>khuddaka</b></mark> e
+  [tag    ] line 2018: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 2019: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 2020: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 2021: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 2023: #[[<mark remnoteMark="true" style="background-color: blue; color: inherit;"><b>khuddaka</b></mark> e
+  [tag    ] line 2038: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 2141: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 2142: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+
+==============================================================================
+pages\p\pali-patha-sikkha-ch1-3.html  (portal: 23, tag: 50)
+==============================================================================
+  [tag    ] line 66: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 79: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 134: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 174: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 218: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [portal ] line 228: <div class="Portal">
+  [portal ] line 230: <div class="Portal">
+  [tag    ] line 314: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 370: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 389: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 422: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 436: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [portal ] line 469: <div class="Portal">
+  [portal ] line 471: <div class="Portal">
+  [tag    ] line 485: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 503: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 550: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 565: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 604: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [portal ] line 641: <div class="Portal">
+  [portal ] line 643: <div class="Portal">
+  [portal ] line 647: <div class="Portal">
+  [tag    ] line 658: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 756: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 806: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [portal ] line 913: <div class="Portal">
+  [portal ] line 915: <div class="Portal">
+  [portal ] line 923: <div class="Portal">
+  [portal ] line 931: <div class="Portal">
+  [tag    ] line 967: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1020: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [portal ] line 1065: <div class="Portal">
+  [portal ] line 1067: <div class="Portal">
+  [tag    ] line 1094: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [portal ] line 1124: <div class="Portal">
+  [portal ] line 1126: <div class="Portal">
+  [portal ] line 1134: <div class="Portal">
+  [portal ] line 1142: <div class="Portal">
+  [tag    ] line 1192: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;"><b>pāḷi</b></mark> vo
+  [tag    ] line 1224: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1273: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1363: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1442: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1502: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1606: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1709: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1775: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1932: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 2038: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 2099: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 2188: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 2293: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 2323: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;"><b>pāḷi</b></mark> vo
+  [tag    ] line 2348: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 2434: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 2517: #[[final exam pāḷi]]
+  [tag    ] line 2523: #[[final exam pāḷi]]
+  [tag    ] line 2546: #[[final exam pāḷi]]
+  [tag    ] line 2651: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 2719: #[[final exam pāḷi]]
+  [tag    ] line 2791: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 2848: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;"><b>pāḷi</b></mark> vo
+  [tag    ] line 2916: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 2935: #[[final exam pāḷi]]
+  [portal ] line 3031: <div class="Portal">
+  [portal ] line 3033: <div class="Portal">
+  [portal ] line 3040: <div class="Portal">
+  [portal ] line 3042: <div class="Portal">
+  [portal ] line 3049: <div class="Portal">
+  [portal ] line 3051: <div class="Portal">
+  [tag    ] line 3089: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;"><b>pāḷi</b></mark> vo
+  [tag    ] line 3106: #[[final exam pāḷi]]
+  [tag    ] line 3145: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+
+==============================================================================
+pages\recitation\bhikkhupatimokkha.html  (portal: 52, tag: 26)
+==============================================================================
+  [tag    ] line 12: #Stub
+  [tag    ] line 36: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 46: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 101: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 114: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 128: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [portal ] line 136: <div class="Portal">
+  [portal ] line 138: <div class="Portal">
+  [portal ] line 146: <div class="Portal">
+  [portal ] line 160: <div class="Portal">
+  [portal ] line 162: <div class="Portal">
+  [portal ] line 170: <div class="Portal">
+  [portal ] line 189: <div class="Portal">
+  [portal ] line 242: <div class="Portal">
+  [portal ] line 244: <div class="Portal">
+  [portal ] line 252: <div class="Portal">
+  [portal ] line 260: <div class="Portal">
+  [portal ] line 275: <div class="Portal">
+  [portal ] line 277: <div class="Portal">
+  [portal ] line 285: <div class="Portal">
+  [portal ] line 376: <div class="Portal">
+  [portal ] line 378: <div class="Portal">
+  [portal ] line 401: <div class="Portal">
+  [portal ] line 403: <div class="Portal">
+  [portal ] line 426: <div class="Portal">
+  [portal ] line 443: <div class="Portal">
+  [portal ] line 445: <div class="Portal">
+  [portal ] line 469: <div class="Portal">
+  [portal ] line 471: <div class="Portal">
+  [portal ] line 508: <div class="Portal">
+  [portal ] line 527: <div class="Portal">
+  [portal ] line 529: <div class="Portal">
+  [portal ] line 552: <div class="Portal">
+  [portal ] line 554: <div class="Portal">
+  [portal ] line 573: <div class="Portal">
+  [portal ] line 575: <div class="Portal">
+  [portal ] line 583: <div class="Portal">
+  [portal ] line 617: <div class="Portal">
+  [portal ] line 619: <div class="Portal">
+  [portal ] line 641: <div class="Portal">
+  [portal ] line 643: <div class="Portal">
+  [portal ] line 667: <div class="Portal">
+  [portal ] line 669: <div class="Portal">
+  [portal ] line 709: <div class="Portal">
+  [portal ] line 711: <div class="Portal">
+  [portal ] line 739: <div class="Portal">
+  [portal ] line 741: <div class="Portal">
+  [portal ] line 758: <div class="Portal">
+  [portal ] line 760: <div class="Portal">
+  [portal ] line 768: <div class="Portal">
+  [portal ] line 779: <div class="Portal">
+  [portal ] line 781: <div class="Portal">
+  [portal ] line 789: <div class="Portal">
+  [portal ] line 797: <div class="Portal">
+  [portal ] line 812: <div class="Portal">
+  [portal ] line 814: <div class="Portal">
+  [portal ] line 822: <div class="Portal">
+  [tag    ] line 897: #[[Measurements / Dimensions]]
+  [portal ] line 924: <div class="Portal">
+  [tag    ] line 1113: #Dukkat
+  [tag    ] line 1339: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1465: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1466: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1467: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1468: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1469: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1475: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1476: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1477: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1478: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1479: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1480: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1485: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1486: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1491: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1492: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1493: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1494: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+
+==============================================================================
+pages\recitation\recitation.html  (portal: 52, tag: 26)
+==============================================================================
+  [tag    ] line 16: #Stub
+  [tag    ] line 38: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 48: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 103: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 116: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 130: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [portal ] line 138: <div class="Portal">
+  [portal ] line 140: <div class="Portal">
+  [portal ] line 148: <div class="Portal">
+  [portal ] line 162: <div class="Portal">
+  [portal ] line 164: <div class="Portal">
+  [portal ] line 172: <div class="Portal">
+  [portal ] line 191: <div class="Portal">
+  [portal ] line 244: <div class="Portal">
+  [portal ] line 246: <div class="Portal">
+  [portal ] line 254: <div class="Portal">
+  [portal ] line 262: <div class="Portal">
+  [portal ] line 277: <div class="Portal">
+  [portal ] line 279: <div class="Portal">
+  [portal ] line 287: <div class="Portal">
+  [portal ] line 378: <div class="Portal">
+  [portal ] line 380: <div class="Portal">
+  [portal ] line 403: <div class="Portal">
+  [portal ] line 405: <div class="Portal">
+  [portal ] line 428: <div class="Portal">
+  [portal ] line 445: <div class="Portal">
+  [portal ] line 447: <div class="Portal">
+  [portal ] line 471: <div class="Portal">
+  [portal ] line 473: <div class="Portal">
+  [portal ] line 510: <div class="Portal">
+  [portal ] line 529: <div class="Portal">
+  [portal ] line 531: <div class="Portal">
+  [portal ] line 554: <div class="Portal">
+  [portal ] line 556: <div class="Portal">
+  [portal ] line 575: <div class="Portal">
+  [portal ] line 577: <div class="Portal">
+  [portal ] line 585: <div class="Portal">
+  [portal ] line 619: <div class="Portal">
+  [portal ] line 621: <div class="Portal">
+  [portal ] line 643: <div class="Portal">
+  [portal ] line 645: <div class="Portal">
+  [portal ] line 669: <div class="Portal">
+  [portal ] line 671: <div class="Portal">
+  [portal ] line 711: <div class="Portal">
+  [portal ] line 713: <div class="Portal">
+  [portal ] line 741: <div class="Portal">
+  [portal ] line 743: <div class="Portal">
+  [portal ] line 760: <div class="Portal">
+  [portal ] line 762: <div class="Portal">
+  [portal ] line 770: <div class="Portal">
+  [portal ] line 781: <div class="Portal">
+  [portal ] line 783: <div class="Portal">
+  [portal ] line 791: <div class="Portal">
+  [portal ] line 799: <div class="Portal">
+  [portal ] line 814: <div class="Portal">
+  [portal ] line 816: <div class="Portal">
+  [portal ] line 824: <div class="Portal">
+  [tag    ] line 899: #[[Measurements / Dimensions]]
+  [portal ] line 926: <div class="Portal">
+  [tag    ] line 1115: #Dukkat
+  [tag    ] line 1341: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1467: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1468: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1469: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1470: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1471: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1477: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1478: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1479: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1480: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1481: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1482: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1487: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1488: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1493: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1494: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1495: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1496: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+
+==============================================================================
+pages\su\dhammanuloma.html  (portal: 8, tag: 13)
+==============================================================================
+  [portal ] line 35: <div class="Portal">
+  [portal ] line 176: <div class="Portal">
+  [portal ] line 178: <div class="Portal">
+  [tag    ] line 236: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 239: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 268: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 299: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 345: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 346: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [portal ] line 415: <div class="Portal">
+  [portal ] line 417: <div class="Portal">
+  [portal ] line 428: <div class="Portal">
+  [portal ] line 430: <div class="Portal">
+  [tag    ] line 472: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 618: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 619: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 697: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 864: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [portal ] line 878: <div class="Portal">
+  [tag    ] line 887: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+  [tag    ] line 1146: #[[<mark remnoteMark="true" style="background-color: transparent; color: red;">pāḷi</mark> vocab (1s
+
+TOTALS: portal: 164, tag: 256

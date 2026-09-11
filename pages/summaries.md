@@ -12,6 +12,7 @@ Here, you'll find my Dhamma notes and summaries. These are primarily derived, fo
 #### Pāḷi Pāṭha Sikkhā by Bh. Vijitānanda
 - Chapter 1: Lessons 1-10 [Page](/summaries/pali/pps-ch1-1-10)
 - Chapter 2: Lessons 1-13 [Page](/summaries/pali/pps-ch2-1-13) / [HTML](/pages/pali/pali-patha-sikkha-2-html.html)
+- Semester I: Chapters 1-3 [Notes](/summaries/pali/pps-ch1-3-notes)
 
 #### [Saññarāsi](/summaries/pali/niruttidipani-sannarasi)
 #### [Saṅketarāsi](/summaries/pali/niruttidipani-sanketarasi)
@@ -36,6 +37,12 @@ Here, you'll find my Dhamma notes and summaries. These are primarily derived, fo
 ## Abhidhamma
 
 {% include youtube.html id="W4QLdPevoSc" list="PLGXmpHceJ17e93JjGp2Bonu2CkX372t16" title="Abhidhamma Summaries" %}
+
+### Fundamentals of Theravāda
+
+- [Fundamentals of Theravāda – bhante Maggavihāri](/summaries/abhidhamma/fundamentals)
+
+### Abhidhamma Notes
 
 - [Attha, hīnattha, paramattha](/summaries/abhidhamma/attha)
 - Citta
@@ -70,8 +77,22 @@ Here, you'll find my Dhamma notes and summaries. These are primarily derived, fo
   - [Ratanavagga](/summaries/vinaya/vibhanga/pacittiya/ratanavagga)
 - [**Pāṭidesanīya**](/summaries/vinaya/vibhanga/pacittiya/patidesaniya)
   
+- [Vibhaṅga & Khandhaka Entrance Notes – bhante Maggavihāri](/summaries/vinaya/entrance-notes) *(covers both Vibhaṅga and Khandhaka)*
+
 #### Khandhaka Vinaya
 - [**Pabbajjā**](/summaries/vinaya/khandhaka/pabbajja)
 - [**Upasampadā**](/summaries/vinaya/khandhaka/upasampada)
+
+## Suttanta / Dhammānuloma
+
+- [Dhammānuloma – bhante Devānanda](/summaries/suttanta/dhammanuloma) *(Handbook of the Buddhist, by Rerukane Candavimala)*
+
+## Khuddaka Nikāya
+
+- [Khuddaka Nikāya – āvuso Sumana](/summaries/khuddaka/khuddaka-nikaya)
+
+## Recitation
+
+- [Recitation Schedule](/summaries/recitation/schedule) / [Bhikkhupātimokkha (detailed)](/summaries/recitation/bhikkhupatimokkha)
 
 {% include toc.html %}

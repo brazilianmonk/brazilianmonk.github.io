@@ -1,0 +1,63 @@
+---
+layout: page
+title: Gradable vs. Non-gradable Adjectives
+permalink: /summaries/eng/gradable-vs-non-gradable-adjectives
+---
+
+## Gradable Adjectives
+
+These adjectives describe qualities that exist on a **scale** or **spectrum**. You can have more or less of that quality.
+
+*   **Behavior:**
+    *   They accept **intensifiers** that show degree: *very, quite, rather, extremely, slightly, moderately, pretty, a bit, incredibly*.
+    *   They have **comparative** and **superlative** forms: *tall, taller, tallest; beautiful, more beautiful, most beautiful*.
+*   **Examples:**
+    *   *tall, short, old, young, happy, sad, warm, cold, big, small, expensive, cheap, difficult, easy, clean, dirty, interesting, boring.*
+*   **Illustration:**
+    *   You can be *slightly cold*, *quite cold*, *very cold*, or *extremely cold*.
+    *   A house can be *bigger* than another, and one can be the *biggest*.
+
+## Non-Gradable Adjectives
+	
+These adjectives describe qualities that are **absolute** or **fixed**. They generally don't exist on a scale; something either has the quality or it doesn't.
+
+*   **Behavior:**
+    *   They **do not** typically accept standard intensifiers like *very* or *quite*.
+    *   They **do not** have comparative or superlative forms (e.g., you can't be "more dead").
+    *   They *can* sometimes be used with adverbs that mean "almost" or "completely" (e.g., *almost dead, completely unique*), but these adverbs modify the *completeness* of the state, not the intensity of the adjective itself.
+*   **Examples:**
+    *   *dead, alive, unique, perfect, complete, empty, full, pregnant, true, false, impossible, essential, freezing, boiling, finished, married, single.*
+*   **Illustration:**
+    *   Something is either *dead* or not. It cannot be "very dead" or "slightly dead."
+    *   A glass is either *full* or *empty* (in an absolute sense), not "very full" or "more full." (Though colloquially, we might say "quite full" meaning *nearly full*).
+
+---
+
+### Subtypes of Non-Gradable Adjectives
+
+While gradable adjectives are fairly uniform in their behavior, non-gradable adjectives can be categorized into a few distinct types based on *what* they describe:
+
+1.  **Absolute/Extreme Adjectives:**
+    *   These describe the end points or absolute states of a scale. They often imply "100%" of a quality.
+    *   **Examples:** *dead, perfect, unique, complete, empty, full, freezing, boiling, starving, exhausted, pregnant, furious, terrified, delighted, delighted, correct, wrong.*
+    *   *Note:* While you can be "furious" (an extreme adjective), you wouldn't say "very furious" in formal grammar; you'd say "absolutely furious" or use a gradable synonym like "very angry."
+
+2.  **Classifying Adjectives:**
+    *   These adjectives categorize nouns into a specific group or type. They don't describe a degree of quality but rather what *kind* of thing something is.
+    *   **Examples:** *main, principal, medical, chemical, scientific, digital, urban, rural, daily, annual, electric, liquid, solid.*
+    *   **Illustration:** A computer is *digital*. It can't be "very digital" or "more digital" than another computer in the sense of intensity. It either is or isn't a digital device.
+
+3.  **Adjectives of Material, Origin, or Purpose:**
+    *   These describe what something is made of, where it comes from, or its specific function.
+    *   **Examples:** *wooden, plastic, metal, silk, cotton, French, American, Asian, atomic, domestic, military, surgical.*
+    *   **Illustration:** A table is *wooden*. It cannot be "very wooden" or "more wooden." It is made of wood. A person is *French* or not.
+
+Understanding these distinctions helps you use adjectives more precisely and correctly with adverbs of degree.
+
+## When they matter
+
+This distinction in adjectives appears in the usage of "quite":
+- quite with gradable adjectives: "less then very, but to a large degree"
+  - The soup was quite tasty.
+- quite with non-gradable adjectives: "completely", "absolutely"
+  - I'm quite sure that this is the right road. 
