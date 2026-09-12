@@ -38,12 +38,9 @@ Here, you'll find my Dhamma notes and summaries. These are primarily derived, fo
 
 {% include youtube.html id="W4QLdPevoSc" list="PLGXmpHceJ17e93JjGp2Bonu2CkX372t16" title="Abhidhamma Summaries" %}
 
-### Fundamentals of Theravāda
-
-- [Fundamentals of Theravāda – bhante Maggavihāri](/summaries/abhidhamma/fundamentals)
-
 ### Abhidhamma Notes
 
+- [Fundamentals of Theravāda – bhante Maggavihāri](/summaries/abhidhamma/fundamentals)
 - [Attha, hīnattha, paramattha](/summaries/abhidhamma/attha)
 - Citta
   - [Introduction](/summaries/abhidhamma/citta-intro)
@@ -77,13 +74,14 @@ Here, you'll find my Dhamma notes and summaries. These are primarily derived, fo
   - [Ratanavagga](/summaries/vinaya/vibhanga/pacittiya/ratanavagga)
 - [**Pāṭidesanīya**](/summaries/vinaya/vibhanga/pacittiya/patidesaniya)
   
-- [Vibhaṅga & Khandhaka Entrance Notes – bhante Maggavihāri](/summaries/vinaya/entrance-notes) *(covers both Vibhaṅga and Khandhaka)*
+- [Entrance to Vibhaṅga Vinaya (Part I) – bhante Maggavihāri](/summaries/vinaya/vibhanga/entrance-notes)
+- [Entrance to Khandhaka Vinaya (Part I) – bhante Maggavihāri](/summaries/vinaya/khandhaka/entrance-notes)
 
 #### Khandhaka Vinaya
 - [**Pabbajjā**](/summaries/vinaya/khandhaka/pabbajja)
 - [**Upasampadā**](/summaries/vinaya/khandhaka/upasampada)
 
-## Suttanta / Dhammānuloma
+## Suttanta
 
 - [Dhammānuloma – bhante Devānanda](/summaries/suttanta/dhammanuloma) *(Handbook of the Buddhist, by Rerukane Candavimala)*
 

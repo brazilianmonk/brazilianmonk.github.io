@@ -80,6 +80,21 @@
     return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
   }
 
+  // Wrap case-insensitive matches of the query in <mark>. Works on the raw
+  // string and escapes each slice as it goes, so neither the query nor the
+  // content can inject HTML or split an entity in half.
+  function highlight(text, q) {
+    text = text || '';
+    if (!q) return escapeHtml(text);
+    var lower = text.toLowerCase(), ql = q.toLowerCase(), out = '', i = 0, pos;
+    while ((pos = lower.indexOf(ql, i)) !== -1) {
+      out += escapeHtml(text.slice(i, pos)) +
+             '<mark class="res-hl">' + escapeHtml(text.substr(pos, q.length)) + '</mark>';
+      i = pos + q.length;
+    }
+    return out + escapeHtml(text.slice(i));
+  }
+
   // Pages without a front-matter title come through as their URL; turn
   // "/summaries/eng/absolute-phrases" into "Absolute phrases" for display.
   function displayTitle(p) {
@@ -89,7 +104,7 @@
     return seg.replace(/-/g, ' ').replace(/^./, function (ch) { return ch.toUpperCase(); });
   }
 
-  function render(list) {
+  function render(list, q) {
     results.innerHTML = '';
     activeIdx = -1;
     if (list.length === 0) {
@@ -102,9 +117,9 @@
       var li = document.createElement('li');
       li.setAttribute('role', 'option');
       li.innerHTML =
-        '<a href="' + item.p.url + '">' +
-        '<span class="res-t">' + escapeHtml(displayTitle(item.p)) + '</span>' +
-        '<span class="res-d">' + escapeHtml(item.snippet) + '…</span>' +
+        '<a href="' + item.p.url + (q ? '#hl=' + encodeURIComponent(q) : '') + '">' +
+        '<span class="res-t">' + highlight(displayTitle(item.p), q) + '</span>' +
+        '<span class="res-d">' + highlight(item.snippet, q) + '…</span>' +
         '</a>';
       li.querySelector('a').addEventListener('click', close);
       results.appendChild(li);
@@ -135,7 +150,7 @@
     clearTimeout(debounceId);
     if (!q) { close(); return; }
     debounceId = setTimeout(function () {
-      loadIndex().then(function () { render(searchPages(q)); });
+      loadIndex().then(function () { render(searchPages(q), q); });
     }, 120);
   });
 

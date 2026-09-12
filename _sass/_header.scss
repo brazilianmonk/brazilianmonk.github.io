@@ -181,6 +181,30 @@
 .res-t { font-weight: 600; font-size: 0.9rem; }
 .res-d { font-size: 0.75rem; color: #9a9a9a; }
 
+/* Highlighted query matches in result snippets */
+.res-hl {
+  background: #fff3bf;
+  color: inherit;
+  padding: 0 1px;
+  border-radius: 2px;
+}
+
+/* Query matches highlighted on the target page (via #hl= fragment) */
+mark.hl-target {
+  background: #fff3bf;
+  color: inherit;
+  padding: 0 1px;
+  border-radius: 2px;
+}
+mark.hl-first {
+  background: #ffd54d;
+  animation: hl-pulse 1.2s ease-in-out 2;
+}
+@keyframes hl-pulse {
+  0%, 100% { background: #ffd54d; }
+  50% { background: #ffb3b3; }
+}
+
 /* --- Desktop Menu (Right) --- */
 .menu-list {
   display: flex;

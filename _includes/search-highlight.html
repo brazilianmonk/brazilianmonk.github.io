@@ -1,0 +1,141 @@
+{% comment %}
+  Target-page companion to the header search. When a page is opened with a
+  #hl=<query> fragment (appended by the search dropdown), this finds every
+  case-insensitive occurrence of the query in the page's visible text, wraps
+  it in <mark class="hl-target">, and scrolls to the first match. Matches are
+  found against the flattened text of the main content, so phrases split
+  across inline elements (e.g. <em>, <b>, cloze marks) are still found: each
+  segment gets its own mark. Press Escape to clear the highlights.
+{% endcomment %}
+<script>
+(function () {
+  var lastQ = null;
+
+  function run() {
+    var m = /[#&]hl=([^&]*)/.exec(location.hash);
+    var q = m ? '' : null;
+    if (m) { try { q = decodeURIComponent(m[1]).trim(); } catch (e) { q = ''; } }
+    if (q === null || q === lastQ) return;
+    lastQ = q;
+    clearMarks();
+    if (q) {
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function () { init(q); });
+      } else {
+        init(q);
+      }
+    }
+  }
+
+  function clearMarks() {
+    document.querySelectorAll('mark.hl-target').forEach(function (mk) {
+      var parent = mk.parentNode;
+      while (mk.firstChild) parent.insertBefore(mk.firstChild, mk);
+      parent.removeChild(mk);
+      parent.normalize();
+    });
+  }
+
+  function init(q) {
+    // Block-level containers whose text we search — keeps matches out of the
+    // nav, footer, and search UI. Nested blocks (article inside .page-content)
+    // are dropped so nothing gets marked twice.
+    var all = Array.prototype.slice.call(document.querySelectorAll(
+      '.page-content, article, .post-content, .lesson-content, .content-wrapper, main'
+    ));
+    var blocks = all.filter(function (b) {
+      return !all.some(function (o) { return o !== b && o.contains(b); });
+    });
+    if (!blocks.length) return;
+    var ql = q.toLowerCase();
+    var firstMark = null;
+
+    blocks.forEach(function (block) {
+      // 1. Collect visible text nodes and build the flattened text.
+      var walker = document.createTreeWalker(block, NodeFilter.SHOW_TEXT, {
+        acceptNode: function (n) {
+          if (!n.nodeValue) return NodeFilter.FILTER_REJECT;
+          var el = n.parentElement;
+          if (el && el.closest('script, style, code, pre, textarea, mark')) {
+            return NodeFilter.FILTER_REJECT;
+          }
+          return NodeFilter.FILTER_ACCEPT;
+        }
+      }, false);
+      var nodes = [], starts = [], flat = '', off = 0, n;
+      while ((n = walker.nextNode())) {
+        nodes.push(n); starts.push(off);
+        flat += n.nodeValue; off += n.nodeValue.length;
+      }
+      if (!flat) return;
+
+      // 2. Find all match ranges in the flattened text.
+      var low = flat.toLowerCase(), ranges = [], idx = low.indexOf(ql);
+      while (idx !== -1 && ranges.length < 500) {
+        ranges.push([idx, idx + q.length]);
+        idx = low.indexOf(ql, idx + q.length);
+      }
+      if (!ranges.length) return;
+
+      // 3. Wrap from last to first so earlier offsets stay valid while the
+      //    DOM mutates. A node's data stays a prefix of its original text,
+      //    so recorded offsets remain correct.
+      for (var r = ranges.length - 1; r >= 0; r--) {
+        var s = ranges[r][0], e = ranges[r][1], markForRange = null;
+        for (var j = nodes.length - 1; j >= 0; j--) {
+          var nodeStart = starts[j], nodeEnd = nodeStart + nodes[j].nodeValue.length;
+          if (nodeEnd <= s || nodeStart >= e) continue;
+          var ns = Math.max(s, nodeStart) - nodeStart;   // cut within this node
+          var ne = Math.min(e, nodeEnd) - nodeStart;
+          if (ne <= ns) continue;
+          var node = nodes[j];
+          node.splitText(ns);
+          var matchNode = node.nextSibling;
+          matchNode.splitText(ne - ns);
+          var mark = document.createElement('mark');
+          mark.className = 'hl-target';
+          mark.appendChild(document.createTextNode(matchNode.nodeValue));
+          node.parentNode.insertBefore(mark, matchNode);
+          node.parentNode.removeChild(matchNode);
+          // j descends, so the last write wins with the earliest node in
+          // document order — that is the segment to scroll to.
+          markForRange = mark;
+        }
+        if (r === 0) firstMark = markForRange;
+      }
+    });
+
+    if (!firstMark) return;
+
+    firstMark.classList.add('hl-first');
+
+    // Jump to the first match, keeping it clear of the fixed header. Runs
+    // twice: the browser's own hash handling, throttled smooth-scroll in
+    // unfocused tabs, and late font/image layout shifts can all cancel or
+    // invalidate a single scroll. The second pass only fires when the mark
+    // is off-screen so we never yank the page away from a reading user.
+    function scrollToFirst(behavior) {
+      var y = firstMark.getBoundingClientRect().top + window.pageYOffset - 90;
+      window.scrollTo({ top: y, behavior: behavior || 'instant' });
+    }
+    requestAnimationFrame(function () {
+      scrollToFirst('instant');
+      setTimeout(function () {
+        var top = firstMark.getBoundingClientRect().top;
+        if (top < 0 || top > window.innerHeight) scrollToFirst('instant');
+      }, 600);
+    });
+
+    // Escape clears all highlights.
+    document.addEventListener('keydown', function (e) {
+      if (e.key !== 'Escape') return;
+      clearMarks();
+      lastQ = null;                       // allow re-highlighting on next visit
+    });
+  }
+
+  // Re-run when only the fragment changes (same-page re-search).
+  window.addEventListener('hashchange', run);
+  run();
+})();
+</script>
