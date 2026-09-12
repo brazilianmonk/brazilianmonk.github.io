@@ -3,7 +3,7 @@ layout: page
 title: Links
 permalink: /links
 ---
-anāgārika
+
 Here are some links to reliable resources for Theravāda Buddhism that I'm fairly familiar with:
  
 ## 📜 Pāḷi Texts
@@ -59,7 +59,7 @@ Grupo de praticantes Theravāda no RJ.
 
 #### [**Mosteiro Suddhavāri**](https://suddhavari.org/) (monastery)
 
-Único monastério Theravāda do Brasil. Liderado pelo Bhante Brasil Mudito Thero, ordenado na Thailandia,  em conexão com a Sociedade Buddhista do Brasil.
+Único monastério Theravāda do Brasil. Liderado pelo Bhante Brasil Mudito Mahāthero, ordenado na Thailandia, em conexão com a Sociedade Buddhista do Brasil.
 
 #### [**Casa De Dharma**](https://casadedharmaorg.org/) (website, center)
 <img src="/assets/img/casadedharma.png" alt="description" style="width: 40%;">

@@ -13,6 +13,7 @@ Here, you'll find my Dhamma notes and summaries. These are primarily derived, fo
 - Chapter 1: Lessons 1-10 [Page](/summaries/pali/pps-ch1-1-10)
 - Chapter 2: Lessons 1-13 [Page](/summaries/pali/pps-ch2-1-13) / [HTML](/pages/pali/pali-patha-sikkha-2-html.html)
 - Semester I: Chapters 1-3 [Notes](/summaries/pali/pps-ch1-3-notes)
+- Semester II: Chapters 3 (part II) & 4, final exam [Notes](/summaries/pali/semester-2)
 
 #### [Saññarāsi](/summaries/pali/niruttidipani-sannarasi)
 #### [Saṅketarāsi](/summaries/pali/niruttidipani-sanketarasi)
@@ -41,6 +42,7 @@ Here, you'll find my Dhamma notes and summaries. These are primarily derived, fo
 ### Abhidhamma Notes
 
 - [Fundamentals of Theravāda – bhante Maggavihāri](/summaries/abhidhamma/fundamentals)
+- [Fundamentals of Theravāda (Semester II) – bhante Maggavihāri](/summaries/abhidhamma/fundamentals-2)
 - [Attha, hīnattha, paramattha](/summaries/abhidhamma/attha)
 - Citta
   - [Introduction](/summaries/abhidhamma/citta-intro)
@@ -57,6 +59,8 @@ Here, you'll find my Dhamma notes and summaries. These are primarily derived, fo
 
 #### Vibhaṅga Vinaya
 - [Entrance to Vibhaṅga Vinaya (Part I) – bhante Maggavihāri](/summaries/vinaya/vibhanga/entrance-notes)
+- [Entrance to Vibhaṅga Vinaya (Part I, continued) – bhante Maggavihāri](/summaries/vinaya/vibhanga/entrance-notes-1-cont)
+- [Entrance to Vibhaṅga Vinaya (Part II) – Nissaggiya Pācittiya – bhante Maggavihāri](/summaries/vinaya/vibhanga/entrance-notes-2)
 
 - **Pārājika**:
   - [Introduction and Methunadhammasikkhāpadaṁ](/summaries/vinaya/vibhanga/parajika/methunadhamma)
@@ -79,6 +83,7 @@ Here, you'll find my Dhamma notes and summaries. These are primarily derived, fo
   
 #### Khandhaka Vinaya
 - [Entrance to Khandhaka Vinaya (Part I) – bhante Maggavihāri](/summaries/vinaya/khandhaka/entrance-notes)
+- [Entrance to Khandhaka Vinaya (Part II) – bhante Maggavihāri](/summaries/vinaya/khandhaka/entrance-notes-2)
 
 - [**Pabbajjā**](/summaries/vinaya/khandhaka/pabbajja)
 
@@ -87,10 +92,12 @@ Here, you'll find my Dhamma notes and summaries. These are primarily derived, fo
 ## Suttanta
 
 - [**Handbook of the Buddhist**, by Rerukane Candavimāla Mahāthera](/summaries/suttanta/dhammanuloma)
+- [Dhammānuloma (Semester II) – bhante Devānanda](/summaries/suttanta/dhammanuloma-2)
 
 ## Khuddaka Nikāya
 
 - [**Khuddaka Nikāya**](/summaries/khuddaka/khuddaka-nikaya)
+- [Khuddaka Nikāya (Semester II) – āvuso Sumana](/summaries/khuddaka/semester-2)
 
 
 {% include toc.html %}
