@@ -56,6 +56,8 @@ Here, you'll find my Dhamma notes and summaries. These are primarily derived, fo
 {% include youtube.html id="NdtELe6xoyI" list="PLGXmpHceJ17djgvIng3_dL4CtR7L4M-93" title="Vinaya Summaries" %}
 
 #### Vibhaṅga Vinaya
+- [Entrance to Vibhaṅga Vinaya (Part I) – bhante Maggavihāri](/summaries/vinaya/vibhanga/entrance-notes)
+
 - **Pārājika**:
   - [Introduction and Methunadhammasikkhāpadaṁ](/summaries/vinaya/vibhanga/parajika/methunadhamma)
   - [Adinnādānasikkhāpadaṁ](/summaries/vinaya/vibhanga/parajika/adinnadana)
@@ -72,25 +74,24 @@ Here, you'll find my Dhamma notes and summaries. These are primarily derived, fo
   - [Sappāṇakavagga](/summaries/vinaya/vibhanga/pacittiya/sappanakavagga)
   - [Sahadhammikavagga](/summaries/vinaya/vibhanga/pacittiya/sahadhammikavagga)
   - [Ratanavagga](/summaries/vinaya/vibhanga/pacittiya/ratanavagga)
+
 - [**Pāṭidesanīya**](/summaries/vinaya/vibhanga/pacittiya/patidesaniya)
   
-- [Entrance to Vibhaṅga Vinaya (Part I) – bhante Maggavihāri](/summaries/vinaya/vibhanga/entrance-notes)
+#### Khandhaka Vinaya
 - [Entrance to Khandhaka Vinaya (Part I) – bhante Maggavihāri](/summaries/vinaya/khandhaka/entrance-notes)
 
-#### Khandhaka Vinaya
 - [**Pabbajjā**](/summaries/vinaya/khandhaka/pabbajja)
+
 - [**Upasampadā**](/summaries/vinaya/khandhaka/upasampada)
 
 ## Suttanta
 
-- [Dhammānuloma – bhante Devānanda](/summaries/suttanta/dhammanuloma) *(Handbook of the Buddhist, by Rerukane Candavimala)*
+- [**Handbook of the Buddhist**, by Rerukane Candavimāla Mahāthera](/summaries/suttanta/dhammanuloma)
 
 ## Khuddaka Nikāya
 
-- [Khuddaka Nikāya – āvuso Sumana](/summaries/khuddaka/khuddaka-nikaya)
+- [**Khuddaka Nikāya**](/summaries/khuddaka/khuddaka-nikaya)
 
-## Recitation
-
-- [Recitation Schedule](/summaries/recitation/schedule) / [Bhikkhupātimokkha (detailed)](/summaries/recitation/bhikkhupatimokkha)
 
 {% include toc.html %}
+	
