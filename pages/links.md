@@ -143,6 +143,8 @@ Website to practice typing, spelling, and increase vocabulary in any language. Y
 [**Watch Video**](https://youtu.be/knTcEjCX5SQ)
 
 
+## Others
+### [**Sewing and Dyeing Robes**](https://ticivara.github.io/en/landing)
 ## 🧠 Modern Research
 
 Though not personally familiarized with their work, I'll keep here a list of some modern research groups connected to meditation in general. This type of content can be useful for science-oriented individuals to see the more directly visible benefits of meditation, but they are not resources for deep Dhamma learning.

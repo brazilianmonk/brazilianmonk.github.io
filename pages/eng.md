@@ -46,33 +46,26 @@ This is a website / app that can help you learn the basics and get exposed to th
 ## Quizzes
 
 - [📈 **Practice Irregular Verbs**](/assets/irregular_verbs.html)
-
 - [**𝕒 / 𝕒𝕟 / 𝕥𝕙𝕖 -- Practice Articles**](/assets/practice_articles.html)
-
 - [**Practice Relative Pronouns**](/assets/practice_relative_clauses.html)
-
 - [📝 **B2 Phrases – Column 1** (49 phrases)](/pages/eng/B2-phrases-column-1.1.html)
-
 - [📝 **B2 Phrases – Column 2.1** (24 phrases)](/pages/eng/B2-phrases-column-2.1.html)
-
 - [📝 **B2 Phrases – Column 2.2** (31 phrases)](/pages/eng/B2-phrases-column-2.2.html)
-
 - [📝 **B2 Phrases – Column 3** (29 phrases)](/pages/eng/B2-phrases-column-3.html)
-
 - [📝 **B2 Words – Column 1** (18 words)](/pages/eng/B2-words-column-1.html)
-
 - [📝 **B2 Words – Column 2** (70 words)](/pages/eng/B2-words-column-2.html)
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
 ## Grammar Notes
 
-Organized by level, following the [grammar contents of Test-English.com](https://test-english.com/grammar-points/contents/). Notes that encompass a topic through several levels are kept under [Specific Topics](#specific-topics).
+Organized by level, following the [grammar contents of Test-English.com](https://test-english.com/grammar-points/contents/) and supplementary to them. Notes that encompass a topic through several levels are kept under [Specific Topics](#specific-topics). 
 
 ### A Level
 
 - [**How Come**](/summaries/eng/how-come)
 - [**Pronunciation of the Number 0**](/summaries/eng/zero)
+- [**Serious Writing Mistakes**](/summaries/eng/serious-writing-mistakes)
 
 ### B1–B1+ Level
 
@@ -82,13 +75,13 @@ Organized by level, following the [grammar contents of Test-English.com](https:/
 - [**Adjective Order**](/summaries/eng/adjective-order)
 - [**Gradable vs. Non-gradable Adjectives**](/summaries/eng/gradable-vs-non-gradable-adjectives)
 - [**Present Simple vs. Perfect in Future Time Clauses**](/summaries/eng/present-simple-vs-perfect-in-future-time-clauses)
+- [**Article Position with Pretty, Fairly, Rather, and Quite**](/summaries/eng/article-position-with-pretty-fairly-rather-quite)
 
 ### B2 Level
 
 - [**Gerund vs. Present Participle**](/summaries/eng/gerund-vs-present-participle)
 - [**Participial Clauses**](/summaries/eng/participial-clauses)
 - [**Absolute Phrases**](/summaries/eng/absolute-phrases)
-- [**Serious Writing Mistakes**](/summaries/eng/serious-writing-mistakes)
 
 ### C1 Level
 ### C2 Level
@@ -114,12 +107,12 @@ Notes that cover a topic across several levels.
 - [**Some Confusing Verbs**](/summaries/eng/confusing-verbs)
 - [**Refining Common Adjectives**](/summaries/eng/refining-common-adjectives)
 - [**Animals and Their Onomatopoeia**](/summaries/eng/onomatopoeia)
+- [**Expressions with Infinitive and -Ing**](/summaries/eng/expressions-with-infinitive-and-ing)
 
 --- 
 
-<!-- IIT English Class Grades
-3y 1s: https://rb.gy/yvxb04
-
--->
+### Pronunciation
+- [**Tongue Twisters**](/summaries/eng/tongue-twisters)
+- [**Difficult Words**](/summaries/eng/difficult-words)
 
 {% include toc.html %}

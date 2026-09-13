@@ -1,0 +1,344 @@
+---
+layout: page
+title: Nāmagaṇa — Gacchantādi, Satthādi, Rattādi (Semester VI)
+permalink: /summaries/pali/semester-6-grammar
+---
+
+# 6. gacchantādigaṇa
+- The group of stems such as "gacchanta" (the one who is going), which end in "a" (akāranta), is called the Gacchantādi Group. These stems are formed by adding the suffix anta to roots. There are two declension charts in this group based on gender: masculine and neuter.
+- 6.1. Masculine Declension Chart of Gacchanta
+  - ![image](https://remnote-user-data.s3.amazonaws.com/https://remnote-user-data.s3.amazonaws.com/0xI2RnJT07m1bilNm_6vxj-BaskrrDTWO2-hoCUtzBu5uwr51qC6p-1Fva4HlT40KVnp9Lci0ZpLM4xs7KvlPGaRXc4kXYq3yE4l5BDy_uAxVVI7M9nlG6t90dDB0RzN.png)
+  - A list of gacchantādi nouns is provided in the footnotes.3 Study them and practice declining a few.
+  - 1Even though the declension are similar, this becomes a separate group due to differences in the types of suffixes and because certain variations are found in the declensions of other words belonging to this group.
+  - 2The Saddanīti states that vocative words ending in niggahīta, such as guṇavaṃ and gacchaṃ, are not found in the Pāli Canon. However, other grammars do include such niggahīta-ending forms. There is also canonical evidence of a niggahīta-ending form, as in: “kacci bhavaṃ abhiramasi araññe” (“Sir, do you enjoy in the forest?”)
+  - 3 Evaṃ mahaṃ caraṃ tiṭṭhaṃ, dadaṃ bhuñjaṃ suṇaṃ pacaṃ jayaṃ jīraṃ cavaṃ mīyaṃ, saraṃ kubbaṃ japaṃ vajaṃ (declined in the nominative)
+    - mahaṃ (one who is worshipping),
+    - caraṃ (one who is walking),
+    - tiṭṭhaṃ (one who is standing),
+    - dadaṃ (one who is giving),
+    - bhuñjaṃ (one who is eating),
+    - suṇaṃ (one who is listening),
+    - pacaṃ (one who is cooking),
+    - jayaṃ (one who is wining),
+    - jīraṃ (one who is decaying),
+    - cavaṃ (one who is passing away),
+    - mīyaṃ (one who is dying),
+    - saraṃ (one who is remembering),
+    - kubbaṃ (one who is doing), kubbati, kar
+    - japaṃ (one who is reciting),
+    - vajaṃ (one who is going).
+    - 4 383. Gacchantādīnaṃ vā” – Saddanīti Suttamālā, page 83.
+  - The declension of this group is similar to the declension of guṇavādi group. The only difference lies in the nominative singular form, where instead of guṇavā, the form is gacchaṃ, which is a niggahīta-ending word.1
+- 6.2. Word Formation
+  - The special form gacchaṃ that occurs in the nominative singular is formed by replacing the anta and si with aṃ (gacchanta + si > gacch + aṃ = gacchaṃ).4 Other forms follow the guṇavantu pattern.
+- 6.3. Neuter Declension
+  - This follows the neuter guṇavādi pattern completely.
+  - ![image](https://remnote-user-data.s3.amazonaws.com/https://remnote-user-data.s3.amazonaws.com/rMEmIBKIetvE7rt0EW6eZ5zScevpCvNtzTYCkjuiqcZ8Ra3tU6ujn8Mus6RFKuyfp0SETQYM8Rv3Al4sdUT9WCU_HC0ZpNta99iJrMMe-w7qgx_d9D3VylTDMDYFL23D.png)
+- 6.4. Special Cases
+  - Just as the nominative singular of guṇavantu can sometimes be used in the plural contexts, here too we see the form gacchaṃ used in plural contexts.
+  - Examples: • api nu tumhe ekantasukhaṃ lokaṃ jānaṃ passaṃ viharatha (“Do you all live knowing and seeing the supremely blissful world?”) • bharanti mātāpitaro, pubbe katamanussaraṃ (“(They) support (their) parents remembering the help done in the past.”)
+- 6.5. The stems mahanta (great), brahanta (great), and arahanta (worthy/ arahant)
+  - In the nominative singular, they show forms like mahā, brahā, and arahā. These are formed by replacing anta and si with ā. (mahanta + si > mah + ā = mahā)5
+  - ![image](https://remnote-user-data.s3.amazonaws.com/https://remnote-user-data.s3.amazonaws.com/Fk_6B6FLcTkv5xUGJ3zbHMG1GHrk2y4WEJZhUWpFITGKyCtiiIkq58JgXIp1a4XSbZXEe0nfESP6g6LQRerXHlqeZ-fbsbMUSnADxTrx1tRryriJnsZPCwLf8ilJF5qU.png)
+    - mahanta
+      - singular: mahaṃ, mahā, mahanto
+      - plural: mahantā, mahanto
+    - brahanta
+      - singular: brahā,6 brahanto
+      - plural: brahantā, brahanto
+    - arahanta
+      - singular: arahaṃ, arahā, arahanto
+      - plural: arahantā, arahanto
+    - Usage Examples:
+      - • mahā akālamegho – “a great unseasonal storm”
+      - • mahā vatāyaṃ bhūmicālo – “this earthquake is extremely great”
+      - • mahā kho bhikkhave apāyo – “monks, the woeful realm is vast”
+      - The word mahā is sometimes treated as a nipāta (indeclinable), and in compounds like mahāpuriso it is considered as an ādesa for mahanta (to be discussed under compounds).
+        - • assakaṇṇo girī brahā – “the mountain Assakaṇṇa is vast”
+        - •ahaṃ hi arahā loke – “I am an Arahant in this world”
+        - ārakattā arahā hoti – “one becomes an Arahant by being distant from defilements”
+      - 5“128. Mahantārahantānaṃ ṭā vā.” (According to the sutta, nta is replaced by ā, and the nominative case si is elided.)”
+      - 6“brahaṃ” is not found.
+- 6.6. The Stem karonta (one who is doing)
+  - Even though the stem is karonta, the nominative singular is karaṃ, not karoṃ. Also, the vocative singular is not karaṃ, kara, karā as expected, but rather karonta or karontā. A part of the declension is given below.
+  - ![image](https://remnote-user-data.s3.amazonaws.com/https://remnote-user-data.s3.amazonaws.com/qTyzPs6GBstIU6b502AOrcZXh_JKAVC-GzNwL79oImfqyCdZ-faG_gWZOk7Etok_NI_PpWRp98Ui5YhhnNYhM5elQsXK9mIzNFfhOtaZPkpEbOs3gXJoIx_6ug0jypIx.png)
+
+  | case | singular | plural |
+  |---|---|---|
+  | Nom. | karaṃ, karonto | karontā, karonto |
+  | Voc. | (bho) karonta, karontā | (bhonto) " |
+  | Acc. | karontaṃ | karonte |
+  | Ins. | karotā, karontena | karontehi, karontebhi |
+
+- 6.7. The Word bhavanta (one who is existing, sir, noble one)
+  - 6.7.1. The nominative singular form is bhavaṃ only — not bhavanto.7 So, the nominative declension is: Bhavaṃ bhavanto, bhavantā The rest of the declension is the same as that of gacchanta.
+  - 6.7.2. In all other cases (except nominative singular), bhavanta is replaced by bhonta.8 The full declension for bhonta is:
+    - ![image](https://remnote-user-data.s3.amazonaws.com/https://remnote-user-data.s3.amazonaws.com/BB0cy35hGPQ_h3-2KpPeryPta_NFQXO3tgWPiPvr3Ju-ZZiWhaRELkphldD1AVXGgcmKBZW80XxF-3mze82vyfvOUVE8mrGaQgWy-RmesKDCrk4bR1JunYPRUQP2-Qp2.png)
+      - Case | Singular | Plural
+      - -----------|-------------------------------------|--------------------------
+      - Nominative | bhavaṃ | bhonto, bhontā
+      - Vocative | bhonta, bhontā | bhonto, bhontā
+      - Accusative | bhontaṃ | bhonte
+      - Instrumental| bhotā, bhontena | bhontehi, bhontebhi
+      - Genitive | bhoto, bhontassa | bhotaṃ, bhontānaṃ
+      - Ablative | bhotā, bhontasmā, bhontamhā, bhontā | bhontehi, bhontebhi
+      - Locative | bhoti, bhontasmiṃ, bhontamhi, bhonte| bhontesu
+  - 6.7.3. Special Vocative Forms
+    - In vocative singular, bhavanta together with the vibhatti becomes bho.9 This ‘bho’ is the vocative marker we find in each declention. (bhavanta + si > bho)
+    - Bhante (venerable sir) is also a vocative singular form of bhavanta according to Kaccāyana. (bhavanta + si > bhante)
+    - Both bho and bhante are also classified as nipāta. Niruttidīpanī emphasizes that they are nipātas used for addressing someone. They can be used in both singular and plural contexts.
+    - Since bho is often used with masculine and neuter words, the Saddanīti recommends using the feminine form bhoti with feminine words. This is the reason for using bhoti as the vocative marker in feminine declensions such as kaññā.
+    - 7Bhavanto is seen where there is a prefix, as in anubhavanto and paribhavanto
+    - 8130. Bhavato vā bhonto gayonāse.
+    - 9“Bho ge tu”, kaccāyana, sutta 243. “Bho ge”, saddanīti suttamālā, sutta 473
+  - 6.7.4. Stems bhaddanta and bhadanta
+    - Although these seem like gacchantādi stems, they are actually purisādi. They mean “a respectable person” or “one endowed with noble qualities.”10 If these two are purisādi stems, how is bhadante formed in the following passage? • bhadanteti te bhikkhū bhagavato paccassosuṃ (“The monks addressed the Blessed One, saying ‘Venerable Sir!’”) According to Rūpasiddhi, the vocative singular forms bhaddante and bhadante arise by replacing the final vowel with e.11 However, the commentaries say that these are nipātas formed from in the meaning bhaddaṃ te (Well-being to you; May good come to you!).12
+    - There is also an opinion that bhante is also a vocative singular of bhadanta.13 The word bhante can thus be viewed in three ways:
+    - 1. A nipāta.
+    - 2. A vocative singular form of bhavanta.
+    - 3. A vocative singular form of bhadanta.
+- 6.8. The Word santa (one who is existing, virtuous person)
+  - When the plural vibhatti hi is replaced with bhi, the stem santa can change to sa. Then, asadisa dvebhāva sandhi occurs, forming sabbhi.14 Thus, sabbhi appears as an instrumental and ablative plural forms. Following is a part of the declension of santa:
+  - Case | Singular | Plural
+  - ------------|------------------------------------|-----------------------------------
+  - Nominative | saṃ, santo | santā, santo
+  - Vocative | (bho) saṃ, sa, sā, santa, santā | (bhonto) santā, santo
+  - Accusative | saṃ, santaṃ | sante
+  - Instrumental| satā, santena | santehi, santebhi, sabbhi
+  - Examples where sabbhi is found:
+  - footnotes
+    - 10 “Bhadanteti..., ekassa dakarassa lopaṃ katvā vuccati guṇavisesayutto” — Theragāthā Aṭṭhakathā 2, 169 (“‘Bhadante’... is said after omitting one 'd' from the original word, and it refers to one endowed with special qualities.”)
+    - 11 Rūpasiddhi, page 63.
+    - 12 Dīgha mahāvaggaṭṭhakathā, page 283. Suttanipātaṭṭhakathā, page 279. Niruttidīpanī, page 88
+    - 13 “Bhadantassa bhaddanta bhante”, rūpasiddhiya, sutta 111
+    - 14 According to Moggallāna santa is replaced with sab. According to Kaccāyana santa bocomes sa and then b is an inserted. Here it is mentioned as asadisa dvebhāva as it was also found in Dvebhāva sandhi.
+  - • sabbhireva samāsetha, sabbhi kubbetha santhavaṃ (“Associate with the virtuous one, and form friendships with the virtuous ones.”)
+  - • sabbhi dānaṃ upaññattaṃ (“The donation was established by the virtuous ones.”)
+  - • santo have sabbhi pavedayanti (“Indeed, the virtuous ones speak with the virtuous ones.”)
+  - The above is the general grammatical view. However, based on Pāḷi and commentarial sources, sabbhi may also be considered a separate stem meaning “virtuous person”. Examples:
+    - • sabbhīhi saddhiṃ – “together with the virtuous ones”
+    - • asabbhirūpo – “one with evil nature”
+  - Different Meanings of santa:
+    - The word santa belongs to the gacchantādi group when it means:
+      - • A virtuous person (sappurisa)
+      - • That which exists
+      - Examples:
+      - • Virtuous: dūre santo pakāsenti – “The virtuous are known even from afar.”
+      - In this meaning, santa is formed from the root samu + ta, not with the -anta suffix. Still, it belongs to the gacchantādi group.
+      - • Existing: pañcime bhikkhave mahācorā santo saṃvijjamānā lokasmiṃ (“Monks, these five great thieves exist in the world.”) However, when santa means:
+      - • Weary
+      - • Ceased
+      - -it does not belong to the gacchantādi group. Instead, it is classified based on gender into purisādi, cittādi, or kaññādi groups.
+      - Examples: • dīghaṃ santassa yojanaṃ – “A league is long for a weary person.” • santā honti samitā – “(Those) are ceased, perished.” The lexicon (nighaṇḍu) lists seven meanings for the word santa.
+- 6.9. Feminine Words
+  - Just like in the guṇavādi group, feminine words in the gacchantādi group are formed by adding the feminine suffix –ī. These will appear in the rattādi group under īkārānta feminine nouns like itthī (woman) and nadī (river). End of the lesson on Gacchantādi group
+
+# 7. satthādigaṇa
+- The group of u-ending (ukāranta) stems such as "satthu" (teacher), is called the satthādi group. These stems are formed by adding the suffix tu to roots. There are two declension charts in this group based on gender: masculine and feminine.
+- 7.1. Masculine Declension – stem satthu
+  - Some masculine nouns of satthādi group:
+    - bhattā: husband
+    - vattā: speaker
+    - netā: leader
+    - sotā: hearer
+    - ñātā: knower
+    - jetā: conqueror
+    - chettā: cutter
+    - bhettā: breaker
+    - dātā: giver
+    - dhātā: creator
+    - nattā: grandson
+    - uṭṭhātā: striver
+    - tāretā: rescuer
+    - mocetā: liberator
+    - Sakamandhātā / Mahāmandhātā: name of a king
+    - panattā: great grandson
+    - boddhā: one who understands
+    - viññāpetā: informer
+    - kattā: doer
+    - gantā: goer
+    - pitā: father
+    - bhātā: brother
+    - jāmātā: son-in-law
+- 7.2. Word Formation
+  - • In the nominative singular, satthu becomes satthā by replacing the final u and si vibhatti with ā.16 In plural, when final u is substituted with āra, and yo vibhatti is substituted with o, we get satthāro.17 This āra substitution occurs optionally in all vibhattis except si and sa.18
+  - • In the vocative singular, replacing the final u with a or ā and dropping the case ending gives sattha and satthā.19 According to the Niruttidīpanī, forms like bho satthāra are also formed with āra substitution.
+  - • After āra substitution, accusative plural yo can be substituted with both e and o: satthāre, satthāro.20
+  - • After āra substitution, accusative singular nā is substituted with ā, forming satthārā.21
+  - • In the dative singular, the sa vibhatti is dropped forming satthu,22 and in plural, final u is substituted with ā, giving satthānaṃ.23
+  - • After āra substitution, the ablative singular smā becomes either ā forming satthārā, or nā forming satthunā. The use of nā in u-ending words is explained in the discussion of kammunā.
+  - • After āra substitution, the locative smiṃ becomes i,24 and the ā in āra shortens to form satthari.25
+  - footnotes
+    - 15 In the words Sakamandhātu and Mahāmandhātu, the case suffix is always elided, and thus only the forms Sakamandhātu and Mahāmandhātu occur in the dative and genitive singular, according to Kaccāyana.
+    - 16 “182. ltupitādīnāmā simhi” – According to this sutta, ā replaces the ending, and si is elided.
+    - 17 “184. ārāṅsmā”
+    - 18 “183. ltupitādīnamase”
+    - 19 “185. ge a ca”
+    - 20 “186. ṭo ṭe vā”
+    - 21 “187. ṭā nāsmānaṃ”
+    - 22 “188. lopo”
+    - 23 “190. ā”
+- 7.3. Special Forms
+  - 7.3.1. The āra substitution occurs not only before case suffixes but also in other contexts. Examples:
+    - • With the suffix –to: satthārato satthāraṃ gacchanti – “They go from one teacher to another.”
+    - • In compounds: satthāradassanaṃ – “Seeing the teacher”
+  - 7.3.2. As with guṇavādi and gacchantādi groups where singular forms like guṇavā and gacchaṃ appear in plural contexts, the singular form satthā may also appear in plural contexts.26
+    - Example:
+      - • avitakkitā maccumupabbajjanti – “Those who do not engage in reasoning approach death.”27
+  - 7.3.3. In words like kattu and khattu (meaning “minister”), the vocative singular case is substituted with e forming katte and khatte.
+  - Examples:
+    - • uṭṭhehi katte taramāno, gantvā vessantaraṃ vada – “Rise, O minister! Go quickly and speak to Vessantara.”
+    - • natthi hi bho khatte paraloko – “Indeed, O minister, there is no afterlife.” This kind of e substitution in vocative singular appears in two groups of stems. They are:
+    - • kaññādi group
+    - • brahmādi stems
+    - From the kaññādi group, forms like bhoti kaññe appear. Besides kaññādi, this e substitution appears in other stems such as brahma. These stems are brahmā, sakha (companion), isi (seer), muni (sage), kattu (minister), khattu (minister) and so on. They have vocative singular forms such as (bho) brahme, sakhe, ise, mune, katte, and khatte. These stems belong to various noun groups.
+    - footnotes
+      - 24 “191. ṭi smiṃ no” – The substitution of i for the locative suffix smiṃ is also found in the stem diva (heaven) from Purisādi group.
+      - 25 “192. rassāraṅ”
+      - 26 Word formation is by substitution of ā for the yo case suffix. (satthu + yo: satthu + ā = satthā)
+      - 27 The word avitakkitā found in the given example, however, is not formed with the tu suffix, but rather with the taddhita suffix –ita. Therefore, it is not a satthādi word. Saying so, the Moggallānanissaya rejects this example. (Rūpasiddhibhāsāṭīkā 1, 208)
+  - 7.3.4. In the word nettu (leader), the locative smiṃ becomes e. Example: • sabbā gāvī ujuṃ yanti, nette ujuṃ gate sati – “All the cows go straight when the leader ox walks straight.”
+  - 7.3.5. Stems pitu (father), bhātu (brother), and jāmātu (son-in-law)
+    - The special feature here is that the ā in āra substitution always becomes short.28 Therefore, in the nominative plural, it’s pitaro, not pitāro. This applies to all other case forms too.
+- 7.4. Gender in satthādi Words
+  - Words like satthu are generally considered masculine. However, they may be used with feminine or neuter meanings too. When used that way, the declension pattern does not change. Examples: • kattā itthī – a woman who performs (feminine) • kattā puriso – a man who performs (masculine) • kattā kulaṃ – a family that performs (neuter)
+- 7.5. Feminine Declension of satthādi group – mātu (mother)
+  - The stems dhītu and duhitu (daughter) decline similarly, with a few differences:
+    - • Forms like dhītyā, dhītyaṃ, duhityā, duhityaṃ (corresponding to matyā, matyaṃ) do not occur.
+    - • In the Vessantara Jātaka, the accusative singular form dhītaṃ appears: jāliṃ kaṇhājinaṃ dhītaṃ
+    - • When dhītu appears at the end of compounds, āra substitution occurs, as in asakyadhītarā (not a daughter of the Sakyas)
+    - • When these words appear at the end of compounds and combine with the feminine suffix ā, forms like nandamātā (Nanda’s mother), devadhītā (daughter of a god) are formed. These decline under the kaññādi group. This was mentioned under the Kaññādi group too.
+
+# 8. rattādigaṇa
+- The group of nouns beginning with the word ratti (night), is called the Rattādi group. Stems of all three genders are found in this group. These stems can be classified as follows:
+  - 7.1. Feminine Stems
+    - 7.1.1. i-ending (e.g., ratti)
+    - 7.1.2. ī-ending (e.g., itthī)
+    - 7.1.3. u-ending (e.g., yāgu)
+    - 7.1.4. ū-ending (e.g., vadhū)
+    - Niruttidīpanī presents the stem go (cow/ox) both under feminine and masculine categories. However, for clarity and according to the system in Rūpasiddhi, it is classified here only under masculine stems.
+  - 7.2. Masculine Stems
+    - 7.2.1. ā-ending (e.g., sā)
+    - 7.2.2. i-ending (e.g., aggi)
+    - 7.2.3. ī-ending (e.g., daṇḍī)
+    - 7.2.4. u-ending (e.g., bhikkhu)
+    - 7.2.5. ū-ending (e.g., sayambhū)
+    - 7.2.6. o-ending (e.g., go)
+  - 7.3. Neuter Stems
+    - 7.3.1. i-ending (e.g., aṭṭhi)
+    - 7.3.2. ī-ending (e.g., sukhakārī)
+    - 7.3.3. u-ending (e.g., cakkhu)
+    - 7.3.4. ū-ending (e.g., gotrabhū)
+- 7.1. Feminine Nouns
+  - 7.1.1. The i-ending stem ratti (night)
+    - Declension
+    - list of i-ending feminine nouns
+      - Patti, yutti, vutti, kitti, mutti, titti, khanti, kanti, santi, tanti, siddhi, suddhi, iddhi, vuddhi, buddhi, bodhi, bhūmi, jāti, pīti, sūti, nandi, sandhi, sāṇi, koṭi, diṭṭhi, vuṭṭhi, tutthi, yaṭṭhi, pāḷi, āli, nāḷi, keli, sati, mati, gati, muti, cuti, dhiti, yuvati, vikati, rati, ruci, rasmi, asani, vasani, osadhi, aṅguli, dhūli, dundubhi, doṇi, aṭavi, chavi — ādī ikārantasaddā.
+      - patti: infantry
+      - yutti: reasoning
+      - vutti: livelihood
+      - kitti: fame
+      - mutti: liberation
+      - titti: satisfaction
+      - khant: patience
+      - kanti: radiance
+      - santi: peace
+      - tanti: scripture
+      - siddhi: success
+      - suddhi: purity
+      - iddhi: supernormal power
+      - vuddhi: growth
+      - buddhi: wisdom
+      - bodhi: awakening
+      - bhūmi: earth
+      - jāti: birth
+      - pīti: joy
+      - sūti: childbirth
+      - nandi: delight
+      - sandhi: junction
+      - sāṇi: curtain
+      - koṭi: end
+      - diṭṭhi: view
+      - vuṭṭhi: rain
+      - tutthi: gladness
+      - yaṭṭhi: staff
+      - pāḷi: text
+      - āli: row
+      - nāḷi: tube
+      - keli: play
+      - sati: mindfulness
+      - mati: intellect
+      - gati: movement
+      - muti: insight
+      - cuti: death
+      - dhiti: effort
+      - yuvati: young woman
+      - vikati: distortion
+      - rati: attachment
+      - ruci: preference
+      - rasmi: ray
+      - asani: thunderbolt
+      - vasani: clothing
+      - osadhi: herb/star
+      - aṅguli: finger
+      - dhūl: dust
+      - dundubhi: drum
+      - doṇi: boat
+      - aṭavi: forest
+      - chavi: skin
+    - rukkhasakuṇanaya: method of the word on the tree; when one tree if feel, the birds naturally go to the next tree; niggahīta cannot stay alone, it always relies on the previous vowel; ratti + aṁ ⇒ rattiṁ
+    - pubbāsaya: niggahīta always rely on a preceding vowel, which is always a short vowel
+    - Word Formation and Grammatical Rules
+      - Nominative Case:
+        - Singular ratti is formed by eliding the si-vibhatti.
+          - Rule: In all places where there is no specific substitution for si, si is dropped.
+          - This is also stated in the Kaññādi group under the word kaññā. This dropping of si-vibhatti is seen throughout the Rattādi group and will not be mentioned henceforth.
+        - Plural:
+          - rattiyo is formed by adding the yo-vibhatti.
+          - rattī is formed by dropping the yo-vibhatti and lengthening the final vowel.
+          - Rule: We learned under ‘cittāni’ that when yo is replaced by ni, the final vowel of the stem becomes long. This is not limited to ni-replacement; it also happens when yo is dropped. 1 Other examples:
+
+            | person | singular | plural |
+            |---|---|---|
+            | 3rd pp. | Yāgu yāgū | yāguyo |
+            | 2nd pp. | Aggi aggī | aggayo |
+            | 1st pp. | Bhikkhu bhikkhū | bhikkhav |
+
+          - · ratyo results from dropping the final syllable of ratti and saṃyogādi lopa sandhi. (rattiyo > rattyo > ratyo)o
+            - Rule: Only in verse, feminine i- and ī-ending stems may drop the final vowel when followed by ‘y’ which is a vibhatti or an ādesa for a vibhatti: 1
+              - Vibhatti: When yo is present (ratti + yo > rattyo > ratyo)
+              - Ādesa: When yā substitution for nā vibhatti is present: (ratti + yā > rattyā > ratyā)
+          - 1 92. ye passivaṇṇassa
+        - 91. yolopanīsu dīgho
+      - Vocative Case:
+        - In singular vocative, any short vowel may be lengthened according to Moggallāna. 1 So ratti becomes rattī optionally. However, following the standard declension table, rattī is not included here.
+        - 1 93. ayunaṃ vā dīgho
+      - Accusative Case:
+        - rattiṃ is formed by adding aṃ to ratti (ratti + aṃ). Succeeding vowel is then dropped by parasaralopa (ratti + ṃ > rattiṃ). 2
+          - 2 According to Kaccāyana, vowel-less a consonant without its own vowel must be joined with to a the following vowel. However, when the vowel support of niggahīta’s is lost, niggahīta naturally shifts to the nearest preceding vowel without requiring any special grammatical operation. In grammatical texts, this is referred to as the rukkha-sakuṇa-naya ("tree-bird method"):
+      - Instrumental and Other Cases:
+        - Rattiyā: In singular cases starting from instrumental, yā replaces the vibhatti, forming rattiyā. ratyā is formed by dropping the ending as in ratyo.
+          - Rule: In all singular cases beginning with instrumental singular, that follow feminine stems ending in i, ī, u, ū, the case ending is replaced by “yā”.
+            - Examples: mātuyā, rattiyā, itthiyā, yāguyā, vadhuyā. 3
+              - 3 85. ghapat-ekasmiṃ nādīnaṃ yayā
+        - Just as a bird moves to another tree when the tree it rests on is cut down, the niggahīta moves to the previous vowel when its original vowel support is removed. This method also applies to itthiṃ, aggiṃ, daṇḍiṃ, bhikkhuṃ, etc.
+        - Rattīhi, rattīnaṃ and rattīsu are formed by lengthening the final vowel.
+          - Rule: Plural vobhattis hi, naṃ, su cause vowel lengthening in short vowel-ending stems. 1
+          - But in verses, the short vowel is sometimes retained. Hence, both rattīhi and rattihi are accepted forms.
+            - 1 94. sunaṃhisu
+      - Locative Singular:
+        - rattiyaṃ is formed by substituting yaṃ for the smiṃ vibhatti. This substitution was also found in the kaññādi declension.
+        - o Rule: Except for the word go, the locative singular (smiṃ) in all other feminine nouns is replaced by "yaṃ". 1
+        - Examples: kaññāyaṃ, mātuyaṃ, rattiyaṃ, itthiyaṃ, yāgūyaṃ, vadhūyaṃ
+        - 1 87. yaṃ
+    - homework
+      - rattī n p: ratti + yo (elided) ⇒ i ⇒ ī (rattī)
+      - rattiyā ins s: ratti + nā ⇒ yā
+
+# Extra notes
+- Avivaṭena mukhena (talking about the niggahīta)
+  - mukha
+    - closed with teeth (preferred by jnkbsv)
+    - closed with lips
+
+{% include toc.html %}

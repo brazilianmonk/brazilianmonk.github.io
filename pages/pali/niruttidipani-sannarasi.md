@@ -71,39 +71,39 @@ avaggā (18)
 
 **niggayha gayhati uccāriyatīti niggahītaṃ**
 
-- - - - **vaṇṇo** - **saro** - **savaṇṇo** - **dīgho** - **rasso** - **byañjano** - **vaggo** - **niggahītaṃ** - 1\. **aādayo** → **titālīsa(ṃ) vaṇṇā** (**exam**) #\[\[**pāḷi** exam\]\] - **aādayo bindantā tecattālīsakkharā vaṇṇā nāma honti.**
+- - - - **vaṇṇo** - **saro** - **savaṇṇo** - **dīgho** - **rasso** - **byañjano** - **vaggo** - **niggahītaṃ** - 1\. **aādayo**: **titālīsa(ṃ) vaṇṇā** (**exam**) #\[\[**pāḷi** exam\]\] - **aādayo bindantā tecattālīsakkharā vaṇṇā nāma honti.**
 
 **vocab**: #\[\[**pāḷi** vocab (2nd year)\]\]
 
-rāsi masc. ↔ heap; pile; collection
+rāsi masc.: heap; pile; collection
 
-titālīsa ↔ tecattālīsa
+titālīsa: tecattālīsa
 
-bindu ↔ niggahīta
+bindu: niggahīta
 
-bindantā ↔ ending with niggahīta (bindu)
+bindantā: ending with niggahīta (bindu)
 
-- - - - - **a, ā, i, ī, u, ū, e, ē, o, ō. ka, kha, ga, gha, ṅa, ca, cha, ja, jha, ña, ṭa, ṭha, ḍa, ḍha, ṇa, ta, tha, da, dha, na, pa, pha, ba, bha, ma, ya, ra, la, va, sa, ha, ḷa, aṃ.** - **atthaṃ vaṇṇenti pakāsentīti** ← **vaṇṇā**, (**exam**) #\[\[**pāḷi** exam\]\]
+- - - - - **a, ā, i, ī, u, ū, e, ē, o, ō. ka, kha, ga, gha, ṅa, ca, cha, ja, jha, ña, ṭa, ṭha, ḍa, ḍha, ṇa, ta, tha, da, dha, na, pa, pha, ba, bha, ma, ya, ra, la, va, sa, ha, ḷa, aṃ.** - **atthaṃ vaṇṇenti pakāsentīti**: **vaṇṇā**, (**exam**) #\[\[**pāḷi** exam\]\]
 
 **vocab**: #\[\[**pāḷi** vocab (2nd year)\]\]
 
-vaṇṇeti ↔ pr. describes, explains, comments on; 2 praises, extols
+vaṇṇeti: pr. describes, explains, comments on; 2 praises, extols
 
 **pakāsenti** is added in this viggahavākya in order to make clear the meaning of vaṇṇenti as to describe, explain, show, as opposed to praise or extol.
 
-- - - - - **akkharāti ca vuccanti, nāmapaññattirūpattā** (due to the state of being a name of the sound) (letters are names given to sounds) **nakkharanti** (do not undergo destruction) **khayavayaṃ na gacchantīti** ← **akkharā** (**exam**)**. "nāmagottaṃ na jīratī"ti hi vuttaṃ.** #\[\[**pāḷi** exam\]\]
+- - - - - **akkharāti ca vuccanti, nāmapaññattirūpattā** (due to the state of being a name of the sound) (letters are names given to sounds) **nakkharanti** (do not undergo destruction) **khayavayaṃ na gacchantīti**: **akkharā** (**exam**)**. "nāmagottaṃ na jīratī"ti hi vuttaṃ.** #\[\[**pāḷi** exam\]\]
 
 "rūpaṁ jīrati maccānaṁ nāmagottaṁ na jīrati" the rūpa of mortal decays, names and clans do not decay
 
 **vocab**: #\[\[**pāḷi** vocab (2nd year)\]\]
 
-nakkharanti → do not undergo destruction
+nakkharanti: do not undergo destruction
 
-akkharā (fem.) \[na > a + √khar + ā\] ↔ (gram) letter of the alphabet; syllable; morpheme; lit. indestructible
+akkharā (fem.) \[na > a + √khar + ā\]: (gram) letter of the alphabet; syllable; morpheme; lit. indestructible
 
-rūpatta (nt.) ↔ fact of being material; fact of having form; lit. matter state; state of sound
+rūpatta (nt.): fact of being material; fact of having form; lit. matter state; state of sound
 
-- - - - 2.**dasādo sarā** - **Tesu vaṇṇesu ādimhi dasa vaṇṇā sarā nāma honti. Sayameva laddhasarūpā hutvā** (having gained their own sound) **rājanti virocantīti** ← **sarā.** (**exam**) #\[\[**pāḷi** exam\]\]
+- - - - 2.**dasādo sarā** - **Tesu vaṇṇesu ādimhi dasa vaṇṇā sarā nāma honti. Sayameva laddhasarūpā hutvā** (having gained their own sound) **rājanti virocantīti**: **sarā.** (**exam**) #\[\[**pāḷi** exam\]\]
 
 ratti (f.) (loc. sg.) rattiyaṁ, rattiyā, ratyaṁ, **ratto** ādi (m.) ⇒ (loc. sg.) ādimhi, ādismiṁ, **ādo**
 
@@ -111,43 +111,43 @@ short version: **sayameva** (sa) **rājantīti** (rā) **sarā** (sa + rā)
 
 **vocab**: #\[\[**pāḷi** vocab (2nd year)\]\]
 
-ādo / ādimhi → in the beginning
+ādo / ādimhi: in the beginning
 
-sayameva → by themselves
+sayameva: by themselves
 
-sarūpa → own sound
+sarūpa: own sound
 
-rājati → pr. shines
+rājati: pr. shines
 
-virocati \[vi + √ruc + \*a + ti\] ↔ pr. shines brightly; is brilliant; is radiant
+virocati \[vi + √ruc + \*a + ti\]: pr. shines brightly; is brilliant; is radiant
 
-- - - - 3.**dve dve** → **savaṇṇā** (**exam**) #\[\[**pāḷi** exam\]\] - **Tesu saresu dve dve sarā savaṇṇā nāma honti.** - **A, ā avaṇṇo, i, ī ivaṇṇo, u, ū uvaṇṇo, e, ē evaṇṇo, o, ō ovaṇṇo.** - **Samāno vaṇṇo** **suti etesan'ti** ← **savaṇṇā** (**exam**)**, sarūpāti ca vuccanti, samānaṃ rūpaṃ suti etesanti sarūpā** #\[\[**pāḷi** exam\]\]
+- - - - 3.**dve dve**: **savaṇṇā** (**exam**) #\[\[**pāḷi** exam\]\] - **Tesu saresu dve dve sarā savaṇṇā nāma honti.** - **A, ā avaṇṇo, i, ī ivaṇṇo, u, ū uvaṇṇo, e, ē evaṇṇo, o, ō ovaṇṇo.** - **Samāno vaṇṇo** **suti etesan'ti**: **savaṇṇā** (**exam**)**, sarūpāti ca vuccanti, samānaṃ rūpaṃ suti etesanti sarūpā** #\[\[**pāḷi** exam\]\]
 
 **vocab**: #\[\[**pāḷi** vocab (2nd year)\]\]
 
-dve dve → each pair
+dve dve: each pair
 
-vaṇṇo (m.) → sound, phoneme, rūpa, suti
+vaṇṇo (m.): sound, phoneme, rūpa, suti
 
-suti (f.) → sound, lit. hearing; rūpa
+suti (f.): sound, lit. hearing; rūpa
 
-savaṇṇa / sarūpa → letters with similar sounds (samāno vaṇṇo)
+savaṇṇa / sarūpa: letters with similar sounds (samāno vaṇṇo)
 
 - - - - 4.**pubbo rasso** - **Dvīsu dvīsu savaṇṇesu yo yo pubbo hoti, so so rasso nāma hoti. Rassena kālena vattabbāti rassā, rassakālo nāma akkhidalānaṃ ummisananimmisanasamakālo.** (**exam**) #\[\[**pāḷi** exam\]\]
 
 **vocab**: #\[\[**pāḷi** vocab (2nd year)\]\]
 
-dvīsu dvīsu savaṇṇesu → among each pair
+dvīsu dvīsu savaṇṇesu: among each pair
 
-yo yo pubbo → whichever is the previous one
+yo yo pubbo: whichever is the previous one
 
-akkhidalaṁ nt. ↔ eyelid
+akkhidalaṁ nt.: eyelid
 
-ummisana ↔ opening the eyelids
+ummisana: opening the eyelids
 
-nimmisana ↔ closing the eyelids
+nimmisana: closing the eyelids
 
-accharā saṅghāta → the snap of fingers
+accharā saṅghāta: the snap of fingers
 
 - - - - - **Tattha e., o. iti dve ekapadasaṃyoge pare kvaci labbhanti** (**exam**)**. Eṭṭhi, seṭṭho, oṭṭho, sotthi. Ekapadasaṃyogeti kiṃ? Padantarasaṃyoge pare rassā mā hontūti. Maṃ ce tvaṃ nikhaṇaṃ vane, putto tyāhaṃ mahārāja. Kvacīti kiṃ? Ekapadasaṃyogepi vaggantesu vā ya, ra, la, vesu vā paresu rassā mā hontūti** (study)**. Enti, senti, eyya, bhāseyya, meṇḍo, soṇḍo.**
 
@@ -175,11 +175,11 @@ acaritvā brahmacariyaṁ aladdhā yobbane dhanaṁ senti cāpā'tikhīṇāva p
 
 **vocab**: #\[\[**pāḷi** vocab (2nd year)\]\]
 
-kvaci ind. ↔ (gram) in some places; in some contexts; optionally; in several examples
+kvaci ind.: (gram) in some places; in some contexts; optionally; in several examples
 
-saṁyoge pare → when a conjunct is following
+saṁyoge pare: when a conjunct is following
 
-yobbana → youth
+yobbana: youth
 
 - - - - 5\. **paro dīgho** - **dvīsu dvīsu savaṇṇesu yo yo paro hoti, so so dīgho nāma hoti. dīghena kālena vattabbāti dīghā, dīghakālo nāma rassehi diguṇakālo.** (**exam**) #\[\[**pāḷi** exam\]\] - 6\. **kādayo** (ka ādayo) **byañjanā** - **tesu vaṇṇesu kādayo bindantā vaṇṇā byañjanā nāma honti. atthaṃ byañjayantīti byañjanā** (**exam**)**. te pana suddhā** (pure, not mixed) **addhamattikā** (half measure / mora)**, rassayuttā** (combined with short vowels) **diyaddhamattikā** (SL diyaḍḍha - 1 1/2)**, dīghayuttā tiyaddhamattikā** (2 1/2)**.** #\[\[**pāḷi** exam\]\]
 
@@ -203,35 +203,35 @@ ka = 1 1/2 mora kā = 2 1/2 mora
 
 **vocab**: #\[\[**pāḷi** vocab (2nd year)\]\]
 
-avheti → pakkosati (s.w/ a)
+avheti: pakkosati (s.w/ a)
 
-gāne → singing
+gāne: singing
 
-diyaddhamattikā ↔ 1 1/2 moras
+diyaddhamattikā: 1 1/2 moras
 
-tiyaddhamattikā ↔ 2 1/2 moras
+tiyaddhamattikā: 2 1/2 moras
 
 - - - - 7\. **pañcapañcakā vaggā** - **tesu byañjanesu kādi-mantā** (starting with k and ending with m) **pañcabyañjanapañcakā** (5 pentads of consonants) **vaggā nāma honti. kādi pañcako kavaggo, cādi cavaggo, ṭādi ṭavaggo, tādi tavaggo, pādi pavaggo. sesā avaggāti siddhaṃ** (18)**. vaṇṇuddese ekaṭṭhānikānaṃ byañjanānaṃ vagge samūhe niyuttāti** (those which are combined into a group) **vaggā**
 
 **vocab**: #\[\[**pāḷi** vocab (2nd year)\]\]
 
-avagga ↔ the remaining letters of the alphabet, apart from the vaggakkharas
+avagga: the remaining letters of the alphabet, apart from the vaggakkharas
 
-siddhaṁ ↔ completed, fulfilled
+siddhaṁ: completed, fulfilled
 
-avuttasiddhinaya ↔ method / technique of conveying a meaning indirectly / implicitly
+avuttasiddhinaya: method / technique of conveying a meaning indirectly / implicitly
 
 in paṭṭhāna, where paṭisandhi is explained, only the upekkhasantiraṇas are given
 
 somanassasantīraṇa is implied not to produce paṭisandhi
 
-vaṇṇuddesa ↔ alphabet, lit. the place where the letters are shown
+vaṇṇuddesa: alphabet, lit. the place where the letters are shown
 
-niyutta → combined
+niyutta: combined
 
 niyuttataddhita under anekatthataddhita
 
-ekaṭṭhānikabyañjana ↔ consonants that are articulated in a similar place (such as k kh g gh ṅ)
+ekaṭṭhānikabyañjana: consonants that are articulated in a similar place (such as k kh g gh ṅ)
 
 **note**:
 
@@ -249,12 +249,12 @@ _buddha_**_ṁ gh_**_ana - sa_**_ṅgh_**_a_ #**q**🙋🏼‍♂
 
 vocab: #\[\[**pāḷi** vocab (2nd year)\]\]
 
-niggayha \[ni + √gah + ya\] (_gah in the sense of pronouncing)_ → having pressed (gah) (+acc) restraining; holding back; arresting
+niggayha \[ni + √gah + ya\] (_gah in the sense of pronouncing)_: having pressed (gah) (+acc) restraining; holding back; arresting
 
-uccāriyati (uccārita + ti) \[ud + √car + \*e + ita\] uccāriya ↔ pp. raised; lifted up 2 pp. uttered, pronounced (car)
+uccāriyati (uccārita + ti) \[ud + √car + \*e + ita\] uccāriya: pp. raised; lifted up 2 pp. uttered, pronounced (car)
 
 ### **byañjanavuttirāsi**
-vutti ↔ the explanation of a grammatical sutta
+vutti: the explanation of a grammatical sutta
 
 byañjanavuttirāsi **map** - **cha** **ṭhānāni**
 
@@ -320,7 +320,7 @@ karaṇa: jivhagga
 
 vocab: #\[\[**pāḷi** vocab (2nd year)\]\]
 
-panti (f.) → row, line
+panti (f.): row, line
 
 - - - - - **oṭṭhadvaya**(pair)**saṅghaṭṭanena uppannā uvaṇṇa, pavaggā oṭṭhajā nāma.** #\[\[**pāḷi** exam\]\]
 
@@ -328,7 +328,7 @@ _karaṇa: sakaṭṭhāna (tbc)_ #**q**🙋🏼‍♂
 
 vocab: #\[\[**pāḷi** vocab (2nd year)\]\]
 
-dvaya ↔ pair, couple, twofold
+dvaya: pair, couple, twofold
 
 - - - - - **niggahītaṃ nāsikajaṃ nāma.** (**exam**) #\[\[**pāḷi** exam\]\] - **note**:
 
@@ -348,7 +348,7 @@ pavagga, u, ū: oṭṭhaja, sakaṭṭhānaṁ
 
 vocab: #\[\[**pāḷi** vocab (2nd year)\]\]
 
-**anunāsika** ↔ pañcavaggantā
+**anunāsika**: pañcavaggantā
 
 - - - - - **ekāro** (e) **kaṇṭhatālujo.** #\[\[**pāḷi** exam\]\] - **okāro** (o) **kaṇṭhoṭṭhajo.** #\[\[**pāḷi** exam\]\] - **vakāro** (v) **dantoṭṭhajo.** #\[\[**pāḷi** exam\]\] - **apica** (furthermore, but) **ivaṇṇuvaṇṇā kaṇṭhepi** (also on the throat) **jāyantiyeva.**
 
@@ -356,7 +356,7 @@ they can also be pronounced there
 
 vocab: #\[\[**pāḷi** vocab (2nd year)\]\]
 
-apica ↔ sandhi. but just; but only \[api + ca\] 2sandhi. or; but also \[api + ca\] ~
+apica: sandhi. but just; but only \[api + ca\] 2sandhi. or; but also \[api + ca\] ~
 
 - - - - - **yadā hakāro vaggantehi vā ya, ra, la, vehi vā yutto hoti, tadā urajoti vadanti.** #\[\[**pāḷi** exam\]\]
 
@@ -364,9 +364,9 @@ apica ↔ sandhi. but just; but only \[api + ca\] 2sandhi. or; but also \[api + 
 
 vocab: #\[\[**pāḷi** vocab (2nd year)\]\]
 
-**antaṭṭhā** (anta + ṭhā) ↔ the letters which stay at the end (y r l v)
+**antaṭṭhā** (anta + ṭhā): the letters which stay at the end (y r l v)
 
-orasa \[ura + as + \*a\] \[ura + ṇa\] ↔ 1 adj. (of a child) natural; legitimate; own; lit. belonging to the breast; 2 adj. self-begotten; intimate; personal; lit. belonging to the breast; something developed in the chest
+orasa \[ura + as + \*a\] \[ura + ṇa\]: 1 adj. (of a child) natural; legitimate; own; lit. belonging to the breast; 2 adj. self-begotten; intimate; personal; lit. belonging to the breast; something developed in the chest
 
 - - - - - (examples:) **pañho, tuṇhi, nhāto, vimhito, gayhate, vulhate, avhānaṃ.** - map of **payatana**
 
@@ -398,17 +398,17 @@ s: teeth and tongue should not be touching
 
 - - - - - **tāniyeva** (karaṇāni) **gāḷhaṃ phusāpetvā uccāritā pañcavaggā phuṭṭhā nāma.**
 
-gāḷhaṁ ↔ strong, tight
+gāḷhaṁ: strong, tight
 
 - - - - - **thokaṃ phusāpetvā uccāritā ya, ra, la, vā** (y, r, l, v) **īsaṃphuṭṭhā nāma.**
 
-thokaṁ ↔ little amount, little
+thokaṁ: little amount, little
 
 it includes ḷ
 
 - - - - - **tattha oṭṭhajesu tāva** (first) **pavaggaṃ vadantānaṃ oṭṭhadvayassa gāḷhaṃ phusanaṃ icchitabbaṃ** (should be preferred)
 
-tāva ind. ↔ that much; that far; as long as; to that extent; until; at least 2 ind. until later; for a while 3 ind. firstly; to begin with
+tāva ind.: that much; that far; as long as; to that extent; until; at least 2 ind. until later; for a while 3 ind. firstly; to begin with
 
 - - - - - **kasmā? phuṭṭhapayatanikattā pavaggassa** (due to the pavagga having the state of having the effort of touching) - **uvaṇṇaṃ vadantānaṃ pana oṭṭhadvayassa vivaraṇaṃ icchitabbaṃ.** - **kasmā? vivaṭapayatanikattā uvaṇṇassa.** - **esa nayo sesesu sabbesūti.** - **note**:
 
@@ -432,11 +432,11 @@ in sāsana vohāra phuṭṭha is used for aspirates, while apuṭṭha for inas
 
 - - - - - **tattha "suṇātu me"ti vadanto yadi ṇā-kāraṃ jivhaggena dantaṭṭhāne katvā vadeyya, dantajo nā-kāro eva bhaveyya.** (here, if the "ṇā" in "suṇātu me" were to be pronounced on the location of the teeth, it would become the dental 'nā') (ṇā ⇒ nā) - **tu-kārañca jivhopaggena muddhaṭṭhāne katvā vadeyya, muddhajo ṭu-kāro eva bhaveyya.** (tu ⇒ ṭu) (if "tu" were pronounced with the area close to the tip of the tongue on the location of the peak, it would become the retroflex "ṭu") - **evañca sati** (when this is so) **akkharavipatti nāma siyā. esa nayo sesesu muddhajadantajesu.** (ṭ, ṭh, ḍ, ḍh, ṇ) **tasmā kammavācaṃ sāventehi** (by the ones who recite) **nāma ṭhāna, karaṇa, payatanesu suṭṭhu kusalehi** (skillful) **bhavitabbanti.**
 
-evaṁ sati (santa) ↔ when it is thus, when this is so
+evaṁ sati (santa): when it is thus, when this is so
 
-akkharavipatti ↔ defect of the letter
+akkharavipatti: defect of the letter
 
-sāventa ↔ prp. making hear, announcing
+sāventa: prp. making hear, announcing
 
 - - - - - **sithilañca, dhanitañca, dīghaṃ, rassaṃ, garuṃ, lahuṃ. niggahītaṃ, vimuttañca, sambandhañca, vavatthitaṃ**
 
@@ -490,7 +490,7 @@ those not connected by sandhi
 
 - - - - - **mudunā vacīpayogena vattabbā vaggapaṭhama, tatiya, pañcamā sithilā nāma.** (the first, third and fifth vagga-letters that should be pronounced with a gentle verbal effort, are called unaspirated)
 
-sithila ↔ unaspirates / unaspirated #\[\[**pāḷi** vocab (2nd year)\]\]
+sithila: unaspirates / unaspirated #\[\[**pāḷi** vocab (2nd year)\]\]
 
 k g ṅ c j ñ ṭ ḍ ṇ t d n p b m
 
@@ -500,9 +500,9 @@ in pa**ñh**ā it is not aspirated since they are two letters pronounced separat
 
 - - - - - **thaddhena vacīpayogena vattabbā vaggadutiya, catutthā dhanitā nāma.**
 
-thaddha ↔ hard #\[\[**pāḷi** vocab (2nd year)\]\]
+thaddha: hard #\[\[**pāḷi** vocab (2nd year)\]\]
 
-dhanita ↔ aspirated / aspirates #\[\[**pāḷi** vocab (2nd year)\]\]
+dhanita: aspirated / aspirates #\[\[**pāḷi** vocab (2nd year)\]\]
 
 kh gh ch jh ṭh ḍh th dh ph bh
 
@@ -518,9 +518,9 @@ rassa: a o i e o ⇒ ka ko ki ke ko
 
 - - - - - **dīghā ceva saṃyogapubbā ca niggahītantā ca garukā nāma.**
 
-saṁyogapubbā ↔ the letter before a conjunct (c**i**ttaṁ)
+saṁyogapubbā: the letter before a conjunct (c**i**ttaṁ)
 
-niggahītantā ↔ the letter before niggahīta (ah**a**ṁ)
+niggahītantā: the letter before niggahīta (ah**a**ṁ)
 
 **garukā** letters
 
@@ -550,14 +550,14 @@ all consonants attached to the niggahīta are called niggahītanta. The remainin
 
 When words are combined with an euphonic combination they are called sambandha. Those that should be pronounced by splitting the word are called vavatthita.
 
-sambandha ↔ sandhi (yassāyasmato)
+sambandha: sandhi (yassāyasmato)
 
-vavatthitaṁ \[vi + ava + √ṭhā + \*e + ita\] ↔ no sandhi; pp. analysed; categorised; defined
+vavatthitaṁ \[vi + ava + √ṭhā + \*e + ita\]: no sandhi; pp. analysed; categorised; defined
 
 
 ### **lahusaññārāsi** (collection of light terms - terms used as a short version of something else)
 
-- **jho, lo, po, gho, go.** ← 5 lahusaññā
+- **jho, lo, po, gho, go.**: 5 lahusaññā
             - **jha, la** is the short for {{c1::anitthiliṅga ivaṇṇuvaṇṇa}} **pa** is the short for {{c1::itthiliṅga ivaṇṇuvaṇṇa}} **gha** is the short for {{c1::itthiliṅga 'ā'}} **ga** is the short for {{c1::'si' in ālapanavibhatti (real vibhatti)}}
           - **9\. yuvaṇṇā** (i-u-vaṇṇā) **jhalā nāmassante.** (nāmassa ante)
             - **anitthiliṅgassa nāmassa ante ivaṇṇuvaṇṇā kamena** (in order) **jhalasaññā honti.**
@@ -568,7 +568,7 @@ vavatthitaṁ \[vi + ava + √ṭhā + \*e + ita\] ↔ no sandhi; pp. analysed; 
 
 vocab: #\[\[**pāḷi** vocab (2nd year)\]\]
 
-kama masc. \[√kam + a\] → order; sequence; succession; way
+kama masc. \[√kam + a\]: order; sequence; succession; way
 
 - - - - **10\. pitthiyaṃ.** (pa itthiyaṁ) - **itthiliṅge nāmassante ivaṇṇuvaṇṇā pasaññā honti.** - **11\. ghā** (gho, ā) - **gho ā iti dvipadaṃ. itthiliṅge ā-kāro** (in ā) **ghasañño hoti.** - **12\. go syālapane.** (go si-ālapane) - **ālapane si gasañño hoti.**
 

@@ -1,0 +1,3415 @@
+---
+layout: page
+title: Common Roots in Pāḷi
+permalink: /summaries/pali/common-roots
+---
+
+# group 1
+- √bhū
+  - √･1 bhūvādigaṇa +a (be)
+    - Bases:
+      - bho, bhava, bhūya (pass), babhū (perf), bhāve (caus), bhavissa (fut), bhāvaya (caus), bhossa (fut, irreg), bhave (caus, irreg), bhāvīya (caus, pass), bhāviya (caus, pass)
+    - Dhātupātha:
+      - bhū sattāyaṃ (being) #1
+    - Dhātumañjūsa:
+      - bhū sattāyaṃ (being) #1
+    - Saddanīti:
+      - bhū sattāyaṃ (being, existing)
+    - Sanskrit Root:
+      - √bhū 1 (be)
+    - Pāṇinīya Dhātupāṭha:
+      - bhū sattāyāṃ (being)
+    - verbs
+      - pr
+        - atibhoti, adhibhavati, adhibhoti, anubhavati 1, anubhavati 2, anubhavati 3, anubhoti 1, anubhoti 2, anubhoti 3, abhibhavati, abhisambhavati, abhisambhoti, nānubhavati, nānubhoti 1, nānubhoti 2, paccanubhavati, paccanubhoti 1, paccanubhoti 2, paccānubhoti, pabhavati 1, pabhavati 2, parābhavati, paribhavati, bhavati 1, bhavati 2, bhavattha, bhavāma, bhoti 2, samubbhavati, sambhavati 1, sambhavati 2, sambhoti, vibhavati, vibhoti
+      - pr caus
+        - addhabhaveti, addhabhāveti, pabhāveti, bhāvayati, bhāvayate, bhāveti, sambhāveti 1, sambhāveti 2, sambhāveti 3, vibhāvayati, vibhāveti
+      - pr caus & pass
+        - bhāvīyati
+      - pr pass
+        - bhūyati
+- √kar
+  - √･7 tanādigaṇa +o, yira (do, make)
+    - Bases:
+      - karo, kā (irreg), khā (irreg), kāre (caus), kuru (irreg), karīya (pass), kārāpe (caus), kāraya (caus), kariya (pass), kubba (irreg), kharo (irreg), kuccāya (deno), krubba (irreg), kārāpaya (caus), kāha (fut, irreg), kāhi (fut, irreg), kassa (fut, irreg), kīra (pass, irreg), khāre (caus, irreg), kāriya (caus, pass), kayira (pass, irreg), kārāpiya (caus, pass), kharīya (pass, irreg), khārāpe (caus, irreg), kariyyati (pass, irreg)
+    - Dhātupātha:
+      - kara karaṇe (doing) #526
+    - Dhātumañjūsa:
+      - kara karaṇasmiṃ (doing, making) #740
+    - Saddanīti:
+      - kara karaṇe (doing, making)
+    - Sanskrit Root:
+      - √kṛ 1, 2, 5, 8 (make)
+    - Pāṇinīya Dhātupāṭha:
+      - ḍu kṛ ñ karaṇe (doing, making)
+    - pr
+      - adhikaroti, anukaroti, anukubbati, apakaroti, abhisaṅkharoti 1, abhisaṅkharoti 2, ākaroti, upakaroti, karoti 1, karoti 2, karoti 3, kubbati, kurute, krubbati, nānukubbati, nābhisaṅkharoti, nikaroti, nikubbati, niraṅkaroti, nirākaroti, pakaroti, pakubbati, paṭikaroti 1, paṭikaroti 2, paṭikaroti 3, paṭisaṅkharoti, byākaroti 1, byākaroti 2, byākaroti 3, saṅkharoti 1, saṅkharoti 2, vikaroti, vikubbati, viyākaroti, visaṅkharoti, vyākaroti
+    - pr caus
+      - abhisaṅkhareti, abhisaṅkhāreti, kārayati 1, kārayati 2, kārāpayati, kārāpeti, kāreti 1, kāreti 2, kāreti 3, kāreti 4, kāreti 5, paṭisaṅkhārāpeti
+    - pr caus & pass
+      - kārāpiyati
+    - pr pass
+      - kayirati, kariyati, kariyyati, karīyati 1, karīyati 2, kīrati, saṅkharīyati
+- √ñā
+  - √･5 kiyādigaṇa +nā (know)
+    - Bases:
+      - jānā, ñāpe (caus), nāya (pass), ñāya (pass), ñāpaya (caus), jānāpe (caus), ñape (caus, irreg), ṇāpe (caus, irreg), ñāpiya (caus, pass), ṇāpaya (caus, irreg), ñapiya (caus, pass, irreg), ñapīya (caus, pass, irreg)
+    - Root in Compounds:
+      - ññā
+    - Dhātupātha:
+      - ñā avabodhane (understanding) #497
+    - Dhātumañjūsa:
+      - ñā avabodhane (knowing, understanding) #718
+    - Saddanīti:
+      - ñā avabodhane (understanding, perceiving)
+    - Sanskrit Root:
+      - √jñā 9 (know)
+    - Pāṇinīya Dhātupāṭha:
+      - jñā avabodhane (knowing, understanding)
+    - pr
+      - aññāti, anujānāti 1, anujānāti 2, anujāneti, abbhanujānāti, abhijānāti 1, abhijānāti 2, abhijānāti 3, abhijānāti 4, avajānāti 1, avajānāti 2, ājānāti 1, ājānāti 2, ājānāti 3, āññāti, upajānāti, jānāti 1, jānāti 2, jānāti 3, napaṭijānāti, nappajānāti, nānujānāti, nābhijānāti 1, nābhijānāti 2, nābhijānāti 3, nāvajānāti, pajānāti, paṭijānāti 1, paṭijānāti 2, paṭijānāti 3, paṭijānāti 4, paṭivijānāti, parijānāti, sañjānāti, samanujānāti, sampajānāti, vijānāti 1, vijānāti 2
+    - pr caus
+      - anujānāpeti, abhiviññāpeti, āṇāpayati, āṇāpeti, jānāpeti, ñāpeti, paññapeti 1, paññapeti 2, paññapeti 3, paññāpeti 1, paññāpeti 2, paññāpeti 3, paññāpeti 4, paññāpeti 5, saññāpeti, vijānāpeti, viññāpeti 1, viññāpeti 2, viññāpeti 3
+    - pr caus & pass
+      - paññāpīyati
+    - pr pass
+      - ñāyati 1, ñāyati 2, ñāyare, nappaññāyati, nāyati, paññāyati 1, paññāyati 2, paññāyati 3, paññāyati 4, paññāyati 5, viññāyati
+- √gam
+  - √･1 bhūvādigaṇa +a (go)
+    - Bases:
+      - gā, gama, gaccha, gāme (caus), game (caus), gamā (irreg), gañcha (irreg), jagam (intens), gaccha (irreg), jaṅgama (intens), game (caus, irreg), gaggha (fut, irreg), jaṅgala (intens, irreg)
+    - Dhātupātha:
+      - -
+    - Dhātumañjūsa:
+      - gamu gatimhi (going) #3
+    - Saddanīti:
+      - gamu gatiyaṃ (going)
+    - Sanskrit Root:
+      - √gam 1 (go)
+    - Pāṇinīya Dhātupāṭha:
+      - gam ḷ gatau (going)
+    - pr
+      - accuggacchati, ajjhupagacchati 1, ajjhupagacchati 2, atigacchati, adhigacchati, anugacchati, anupagacchati, anuparigacchati, apagacchati, abbhuggacchati, abhigacchati, abhisamāgacchati, avagacchati, āgacchati 1, āgacchati 2, āgacchati 3, āgacchati 4, āgacchati 5, uggacchati, upagacchati 1, upagacchati 2, upagacchati 3, upagacchati 4, ogacchati, oggacchati, gacchati 1, gacchati 2, gammati, nāgacchati, nādhigacchati, nānugacchati, nigacchati, niggacchati, paccāgacchati, paccuggacchati, paṭivigacchati, saṅgacchati, samadhigacchati, samāgacchati, samuggacchati, samudāgacchati, samupagacchati, vigacchati, vyapagacchati
+    - pr caus
+      - adhigameti, anvāgameti, gameti 1, gameti 2, gāmeti, nānvāgameti, nigameti, saṅgāmeti
+    - pr intens
+      - jaṅgamati
+- √ṭhā
+  - √･1 bhūvādigaṇa +a (stand)
+    - Bases:
+      - ṭhā, ṭhaha, tiṭṭha, the (caus), ṭhe (caus), ṭhāpe (caus), ṭhiya (pass), thāpe (caus), thape (caus), ṭhāpaya (caus), ṭhape (caus, irreg), ṭhahe (caus, irreg), thape (caus, irreg), ṭhāpiya (caus, pass), thapīya (caus, pass), ṭhapāpe (caus, irreg), ṭhapaya (caus, irreg), ṭhapiya (caus, pass, irreg), ṭhapiyya (caus, pass, irreg)
+    - Root in Compounds:
+      - ṭṭhā
+    - Dhātupātha:
+      - ṭhā gatinivuttiyaṃ (standing still) #359
+    - Dhātumañjūsa:
+      - ṭhā gatīvinivuttiyaṃ (stopping from going) #587
+    - Saddanīti:
+      - ṭhā gatinivattiyaṃ (stopping from going)
+    - Sanskrit Root:
+      - √sthā 1 (stand)
+    - Pāṇinīya Dhātupāṭha:
+      - ṣṭhā gatinivṛttau (stopping going)
+    - pr
+      - adhiṭṭhahati 1, adhiṭṭhahati 2, adhiṭṭhāti 1, adhiṭṭhāti 2, adhiṭṭhāti 3, adhiṭṭheti, adhitiṭṭhati, anutiṭṭhati 1, anutiṭṭhati 2, abbhuṭṭhāti, abhitiṭṭhati, avatiṭṭhati, uṭṭhahati 1, uṭṭhahati 2, uṭṭhāti, uttiṭṭhati, upaṭṭhahati 1, upaṭṭhahati 2, upaṭṭhahati 3, upaṭṭhahati 4, upaṭṭhāti 1, upaṭṭhāti 2, upaṭṭhāti 3, upaṭṭhāti 4, upaṭṭheti, upatiṭṭhati, ṭhāti, tiṭṭhati 1, tiṭṭhati 2, tiṭṭhati 3, tiṭṭhati 4, nādhiṭṭhāti, nāvatiṭṭhati, niṭṭhāti, paccuṭṭhahati, paccuṭṭhāti, paccupaṭṭhāti, patiṭṭhahati 1, patiṭṭhahati 2, patiṭṭhahati 3, patiṭṭhāti 1, patiṭṭhāti 2, patitiṭṭhati, pariyuṭṭhāti, saṇṭhahati 1, saṇṭhahati 2, saṇṭhāti, santiṭṭhati 1, santiṭṭhati 2, samuṭṭhāti 1, samuṭṭhāti 2, vuṭṭhahati 1, vuṭṭhahati 2, vuṭṭhahati 3, vuṭṭhahati 4, vuṭṭhāti 1, vuṭṭhāti 2, vuṭṭhāti 3
+    - pr caus
+      - avatthāpeti, uṭṭhapeti, uṭṭhāpayati, uṭṭhāpeti, uṭṭheti, upaṭṭhapayati, upaṭṭhapeti 1, upaṭṭhapeti 2, upaṭṭhapeti 3, upaṭṭhaheti, upaṭṭhāpayati, upaṭṭhāpeti 1, upaṭṭhāpeti 2, upaṭṭhāpeti 3, upaṭṭhāpeti 4, upaṭṭhāpeti 5, ṭhapayati, ṭhapāpeti, ṭhapeti 1, ṭhapeti 2, ṭhapeti 3, ṭhapeti 4, ṭhapeti 5, ṭhāpayati, ṭhāpeti, niṭṭhāpeti, paccuṭṭheti, paccupaṭṭhāpeti 1, paccupaṭṭhāpeti 2, paṭṭhapeti 1, paṭṭhapeti 2, paṭṭhapeti 3, patiṭṭhapeti, patiṭṭhāpeti 1, patiṭṭhāpeti 2, patiṭṭhāpeti 3, patiṭṭhāpeti 4, patiṭṭhāpeti 5, pariniṭṭhāpeti, saṇṭhapeti, saṇṭhāpeti, samuṭṭhāpeti, vavatthapeti, vavattheti, vuṭṭhāpeti 1, vuṭṭhāpeti 2
+    - pr caus & pass
+      - avatthapīyati, ṭhapiyyati
+- √pad
+  - √･3 divādigaṇa +ya (go, step)
+    - Bases:
+      - pajja, pāde (caus), pādaya (caus), pajjiya (pass), pajjāpe (caus), phajja (irreg), phāde (caus, irreg)
+    - Dhātupātha:
+      - pada gamane (going) #410
+    - Dhātumañjūsa:
+      - pada gate (going) #646
+    - Saddanīti:
+      - pada gatiyaṃ (going)
+    - Sanskrit Root:
+      - √pad 4 (go)
+    - Pāṇinīya Dhātupāṭha:
+      - pad a gatau (going)
+    - pr
+      - ajjhāpajjati, adhipajjati, anupajjati, abhinipajjati 1, abhinipajjati 2, abhinipphajjati, āpajjati 1, āpajjati 2, āpajjati 3, āpajjati 4, āpajjati 5, āpajjati 6, āpajjati 7, āpajjati 8, āpajjate, upanipajjati, upapajjati 1, upapajjati 2, upasampajjati, uppajjati 1, uppajjati 2, uppajjati 3, uppajjati 4, nāpajjati 1, nāpajjati 2, nāpajjati 3, nābhinipphajjati, nipajjati 1, nipajjati 2, nipphajjati, nuppajjati, pajjati, paṭipajjati 1, paṭipajjati 2, paṭipajjati 3, byāpajjati 1, byāpajjati 2, byāpajjati 3, samāpajjati 1, samāpajjati 2, samuppajjati, sampajjati 1, sampajjati 2, sampajjati 3, sampādiyati, vipajjati, vippaṭipajjati, vuppajjati, vyāpajjati
+    - pr caus
+      - abhinipajjāpeti, abhinipphādeti, āpādayati, āpādeti 1, āpādeti 2, upasampādayati, upasampādeti, uppādayati, uppādeti, nipajjāpeti, nipphādeti 1, nipphādeti 2, paṭipajjāpeti, paṭipādeti 1, paṭipādeti 2, paṭipādeti 3, pariyāpādeti, sampādeti 1, sampādeti 2, sampādeti 3, vippaṭipādeti, vyāpādeti
+    - pr pass
+      - uppajjiyati
+- √dis
+  - √･1 bhūvādigaṇa +a (point out, explain)
+    - Bases:
+      - disa, dese (caus), dissa (pass), desāpe (caus), disāpe (caus), disīya (pass), desaya (caus), desiya (caus, pass), disape (caus, irreg)
+    - Dhātupātha:
+      - disa atisajjane (preaching) #303
+    - Dhātumañjūsa:
+      - disa atisajjanādisu (preaching etc) #475
+    - Saddanīti:
+      - disa atisajjane (preaching)
+    - Sanskrit Root:
+      - √diś 3, 4, 6 (point)
+    - Pāṇinīya Dhātupāṭha:
+      - diś a atisarjane (giving away)
+    - verbs
+    - pr
+      - anuddisati, uddisati 1, uddisati 2, uddisati 3, upadisati, disati 2, niddisati 1
+    - pr caus
+      - uddisāpeti, deseti 1, deseti 2, paṭideseti
+    - pr caus & pass
+      - desiyati
+    - pr pass
+      - apadissati, uddisīyati, uddissati
+  - √･3 divādigaṇa +ya (dislike, hate)
+    - Base:
+      - dessa
+    - Dhātupātha:
+      - disa appītiyaṃ (disliking) #451
+    - Dhātumañjūsa:
+      - disa appītimhi (disliking) #690
+    - Saddanīti:
+      - disī 1 appītiyaṃ (disliking)
+    - Sanskrit Root:
+      - √dviṣ 2, 6 (hate)
+    - Pāṇinīya Dhātupāṭha:
+      - dviṣ a aprītau (disliking)
+    - verbs
+    - pr
+      - dessati
+  - √･1 bhūvādigaṇa +a (see)
+    - Bases:
+      - disa, dissa, dasa (irreg), dissa (pass), passa (irreg), dassa (irreg), dakkha (irreg), dikkha (irreg), dakkhi (irreg), dassaya (caus), daṃse (caus, irreg), daccha (fut, irreg), dasse (caus, irreg), dakkha (fut, irreg), dassāpe (caus, irreg), dassiya (pass, irreg), daṃsaya (caus, irreg), dassaya (caus, irreg)
+    - Dhātupātha:
+      - disa pekkhane (seeing) #302
+    - Dhātumañjūsa:
+      - disa pekkhane (seeing) #455
+    - Saddanīti:
+      - disa pekkhane (seeing)
+    - Sanskrit Root:
+      - √dṛś 1 (see)
+    - Pāṇinīya Dhātupāṭha:
+      - dṛś ir prekṣaṇe (seeing)
+    - verbs
+    - pr
+      - anupassati, abhipassati, ādisati 1, ādisati 2, dakkhati 1, dakkhiti, dissati 4, paṭipassati, paṭivipassati, passati 1, passati 2, passati 3, passasi 1, samanupassati 1, samanupassati 2, vipassati
+    - pr caus
+      - upadasseti, upadaṃseti, dassayati, dasseti, nopadaṃseti, sandasseti, vidaṃseti
+    - pr pass
+      - ādissati, upadissati, dissati 1, dissati 2, dissati 3, nadissati, paṭidissati 1, padissati, sandissati 1, sandissati 2, sandissati 3, saṃdissati
+- √dhā
+  - √･1 bhūvādigaṇa +a (place, support)
+    - Bases:
+      - dhaya, dhe (caus), dhe (irreg), dahā (irreg), dhāpe (caus), daha (irreg), dhāya (pass), dhīya (pass), dhiya (pass), dhāne (deno), dhāya (caus), dhāpaya (caus), thīya (pass, irreg), dahāpe (caus, irreg), dhiyya (pass, irreg)
+    - Dhātupātha:
+      - dhā dhāraṇe (supporting, maintaining) #163
+    - Dhātumañjūsa:
+      - dhā dhāraṇe cetiyaṃ (supporting and thinking) #241
+    - Saddanīti:
+      - dhā dhāraṇe (bearing)
+    - Sanskrit Root:
+      - √dhā 1, 2, 3 (put)
+    - Pāṇinīya Dhātupāṭha:
+      - ḍu dhā ñ dhāraṇa-poṣaṇayoh (supporting and nourishing)
+    - verbs
+      - pr
+        - anusandahati, anusandhati, anuvidahati, apanidahati, abhisaddahati, abhisandahati, ādahati, upadahati, upādahati, upādaheti, odahati 1, odahati 2, odahati 3, odahati 4, odahati 5, dadhāti, dahati 1, dahāti, nappaṇidahati, nidahati, paṭisandahati, paṇidahati 1, paṇidahati 2, paṇidheti, padahati 1, padahati 2, paridahati, pidahati, byādhayati, saddahati, sandahati, samādahati 1, samādahati 2, samodahati 1, samodahati 2, saṃvidahati, vidahati
+      - pr caus
+        - anuvidhāyati, apanidhāpeti, apanidheti, upadheti, odhāpeti, odheti, dhāpeti, nidhāpeti, nidheti, saddahāpeti, samādahāpeti
+      - pr pass
+        - anuvidhiyyati, anuvidhīyati, avadhīyati, ādhiyati, ādhīyati, dhāyati, dhīyati, nidhīyati, pithīyati, pidhiyyati, pidhiyyare, pidhīyati 1, pidhīyati 2, sandhiyati 1, sandhiyati 2, sandhīyati, sannidhīyati, samādhiyati
+- √kam
+  - √･8 curādigaṇa +e, aya (desire)
+    - Bases:
+      - kāme, kāmaya
+    - Dhātupātha:
+      - kama icchāyaṃ (wishing) #603
+    - Dhātumañjūsa:
+      - kamu icchāya-kantimhi (wishing and desiring) #844
+    - Saddanīti:
+      - kamu icchā-kantīsu (wishing and delighting)
+    - Sanskrit Root:
+      - √kam 3, 5 (love)
+    - Pāṇinīya Dhātupāṭha:
+      - kam u kāntau (desiring, being pleased)
+    - verbs
+    - pr
+      - kāmayati, kāmeti, nikāmayati, nikāmeti
+  - √･1 a (go) 314
+    - Pāḷi Root:
+      - √kam･1 bhūvādigaṇa +a (go)
+    - Bases:
+      - kama, kāme (caus), kāmaya (caus), kamāpe (caus), khama (irreg), caṅkama (intens), khāme (caus, irreg), caṅkamāpe (intens, caus)
+    - Root in Compounds:
+      - kkam
+    - Dhātupātha:
+      - kama padavikkhepe (walking) #217
+    - Dhātumañjūsa:
+      - kamū padavikkhepe (moving feet) #313
+    - Saddanīti:
+      - kamu padavikkhepe (moving feet)
+    - Sanskrit Root:
+      - √kram 1, 4 (stride)
+    - Pāṇinīya Dhātupāṭha:
+      - kram u pādavikṣepe (moving feet)
+    - verbs
+    - pr
+      - akkamati 1, akkamati 2, akkamati 3, atikkamati 1, atikkamati 2, atikkamati 3, anukkamati, apakkamati, abhikkamati 1, abhikkamati 2, abhikkamati 3, abhinikkhamati, avakkamati, upakkamati 1, upakkamati 2, upanikkhamati, upasaṅkamati, okkamati 1, okkamati 2, okkamati 3, kamati 1, kamati 2, kamati 3, nātikkamati 1, nātikkamati 2, nātikkamati 3, nikkamati, nikkhamati 1, nikkhamati 2, pakkamati 1, pakkamati 2, pakkamati 3, paṭikkamati 1, paṭikkamati 2, paṭikkamati 3, paṭikkamati 4, parakkamati 1, parakkamati 2, parakkamati 3, saṅkamati, samatikkamati, vikkamati, vipakkamati, vītikkamati 1, vītikkamati 2, vokkamati
+    - pr caus
+      - atikkāmayati, atikkāmeti 1, atikkāmeti 2, atikkāmeti 3, anucaṅkamāpeti, okkamayati, okkameti 1, okkameti 2, okkāmeti, nikkhāmeti, paṭikkamāpeti, saṅkāmeti 1, saṅkāmeti 2
+    - pr intens
+      - anucaṅkamati, caṅkamati
+- √i
+  - √･1 bhūvādigaṇa +a (come, go)
+    - Bases:
+      - e, aya, essa (fut), iyāya (deno), ehi (fut, irreg)
+    - Dhātupātha:
+      - i ajjhena-gati-kantisu (studying, going and desiring) #354
+    - Dhātumañjūsa:
+      - i ajjhāne gatimhi ca (teaching and going) #580
+    - Saddanīti:
+      - i gatiyaṃ (going)
+    - Sanskrit Root:
+      - √i 1, 2 (go)
+    - Pāṇinīya Dhātupāṭha:
+      - i ṇ gatau (going)
+    - verbs
+    - pr
+      - accayati 1, accayati 2, acceti 1, anveti 1, anveti 2, anveti 3, apeti, abbhudeti 1, abhisameti, udeti, upeti 1, upeti 2, upeti 3, upeti 4, eti 1, eti 2, nāccayati, neti 2, nopeti, pacceti 1, pacceti 2, peti, samudayati, samudeti, sameti 2, sameti 3, veti
+    - pr
+      - ajjhupeti, anueti 1, anueti 2, anupariyeti, anupeti, apāyati, abbhudayati, abbhudeti 2, abhisampareti, ayati, aveti, udayati, paccabyati, pacceti 3, paṭiveti, pattiyāyati, samupeti, vipariyāyati
+  - √･1 bhūvādigaṇa +a (study, recite)
+    - Bases:
+      - iya, āya, āpe (caus)
+    - Dhātupātha:
+      - i ajjhena-gati-kantisu (studying, going and liking) #354
+    - Dhātumañjūsa:
+      - i ajjhāne gatimhi ca (teaching and going) #580
+    - Saddanīti:
+      - i ajjhayane (reciting, learning)
+    - Sanskrit Root:
+      - adhi√i 1, 2 (learn)
+    - Pāṇinīya Dhātupāṭha:
+      - i ṅ adhyayane (reading, studying, reciting)
+    - verbs
+    - pr
+      - ajjhāyati, adhiyati, adhiyyati, adhīyati, anusajjhāyati, nādhīyati, sajjhāyati
+- √gah
+  - √･6 gahādigaṇa +ṇhā (grasp)
+    - Bases:
+      - gaṇhā, gāhe (caus), gahā (irreg), gahe (irreg), gayha (pass), gāhaya (caus), gahāpe (caus), gāhāpe (caus), gahāya (irreg), gaṇhāpe (caus), gheppa (irreg), gahaṇa (irreg), gahāpe (caus, irreg), gahessa (fut, irreg)
+    - Root in Compounds:
+      - ggah
+    - Dhātupātha:
+      - gaha 2 upādāne (grasping) #388
+    - Dhātumañjūsa:
+      - gaha upādāne (grasping, holding) #731
+    - Saddanīti:
+      - gaha upādāne (grasping)
+    - Sanskrit Root:
+      - √grah √grabh 1, 9 (seize)
+    - Pāṇinīya Dhātupāṭha:
+      - grah a upādāne (taking, appropriating)
+    - verbs
+    - pr
+      - adhigaṇhāti, adhiggaṇhāti 1, adhiggaṇhāti 2, anugaṇhāti, anuggaṇhāti 1, anuggaṇhāti 2, anuggaṇhāti 3, abhiniggaṇhāti, uggaṇhāti 1, uggaṇhāti 2, uggaṇhāti 3, uggahaṇati, uggahāyati, gaṇhati 1, gaṇhati 2, gaṇhāti 1, gaṇhāti 2, gaṇhāti 3, gaṇhāti 4, gaṇhāti 5, gaṇhāti 6, gheppati, nappaṭiggaṇhāti, niggaṇhāti 1, niggaṇhāti 2, niggaheti 1, niggaheti 2, paggaṇhati, paggaṇhāti 1, paggaṇhāti 2, paggaṇhāti 3, paggaṇhāti 4, paṭigaṇhati 1, paṭigaṇhati 2, paṭigaṇhāti 1, paṭigaṇhāti 2, paṭiggaṇhāti 1, paṭiggaṇhāti 2, paṭiggaheti, patigaṇhāti, patiggaṇhāti, parigaṇhāti, pariggaṇhāti 1, pariggaṇhāti 2, pariggaṇhāti 3, saṅgaṇhāti 1, saṅgaṇhāti 2, saṅgaṇhāti 3, samuggaṇhāti
+    - pr caus
+      - anuggaṇhāpeti, anuggahāpeti, uggaṇhāpeti 1, uggaṇhāpeti 2, uggaṇhāpeti 3, uggahāpeti, gaṇhāpeti, gāhayati, gāhāpeti 1, gāhāpeti 2, gāheti
+    - pr pass
+      - gayhati 1, gayhati 2, viggayhati
+- √sad
+  - √･1 bhūvādigaṇa +a (sink, sit, settle)
+    - Bases:
+      - sajja, sāde (caus), sīda (irreg), sīva (irreg), sādaya (caus), sīdāpe (caus, irreg), sīdāpīya (caus, pass, irreg)
+    - Dhātupātha:
+      - sada visaraṇa-gaty-avasādanesu (pervading and stopping going) #150
+    - Dhātumañjūsa:
+      - sado visaraṇ-ādānagamane ca avasādāne (pervading, stopping going and sitting) #217
+    - Saddanīti:
+      - sīda visaraṇa-gatyāvasānesu (pervading and stopping going)
+    - Sanskrit Root:
+      - √sad 1, 6 (sit)
+    - Pāṇinīya Dhātupāṭha:
+      - śad ḷ viśaraṇa-gaty-avasādaneṣu (scattering, going sitting down)
+    - verbs
+    - pr
+      - abhinisīdati, upanisīdati, ussīdati, osīdati, nappasīdati, nisīdati, pasīdati 1, pasīdati 2, pasīdati 3, pasīdati 4, sannisīdati 1, sannisīdati 2, sampasīdati, saṃsīdati, sīdati 1, sīdati 2, sīdati 3, vippasīdati 1, vippasīdati 2, visīdati 1
+    - pr caus
+      - apasādeti, āsādeti 1, ussādeti, nāpasādayati, nāpasādeti, nisīdāpeti, sannisādeti, saṃsādeti 1
+    - pr caus & pass
+      - nisīdāpīyati
+- √vas
+  - √･8 curādigaṇa +e, aya (wear, dress)
+    - Base:
+      - vāse
+    - Dhātupātha:
+      - vasa acchādane (covering, clothing) #628
+    - Dhātumañjūsa:
+      - vasa acchādanādisu (covering, clothing, etc) #871
+    - Saddanīti:
+      - vasa acchādane (clothing)
+    - Sanskrit Root:
+      - √vas 2, 6 (clothe)
+    - Pāṇinīya Dhātupāṭha:
+      - -
+    - verbs
+    - pr
+      - anuvāseti, nivāseti 1, nivāseti 2
+  - √×1 bhūvādigaṇa +a (shine, lubricate)
+    - Base:
+      - -
+    - Dhātupātha:
+      - -
+    - Dhātumañjūsa:
+      - -
+    - Saddanīti:
+      - vasa sinehane (oiling)
+    - Sanskrit Root:
+      - √vas 6 (shine)
+    - Pāṇinīya Dhātupāṭha:
+      - varṣ a snehane (lubricating)
+    - nouns
+    - fem
+      - vasā
+  - √･1 bhūvādigaṇa +a (live)
+    - Bases:
+      - vasa, vāse (caus), basa (irreg), vāsāpe (caus), vasāpe (caus), vāsaya (caus), vaccha (fut, irreg), vussa (pass, irreg)
+    - Dhātupātha:
+      - -
+    - Dhātumañjūsa:
+      - vasa kanti-nivāsesu (desiring and living) #470
+    - Saddanīti:
+      - vasa nivāse (living in)
+    - Sanskrit Root:
+      - √vas 1 (dwell)
+    - Pāṇinīya Dhātupāṭha:
+      - vas a nivāse (living)
+    - verbs
+    - pr
+      - ajjhāvasati 1, ajjhāvasati 2, āvasati 1, āvasati 2, paṭivasati, parivasati, saṃvasati, vasati, vippavasati
+    - pr caus
+      - adhivāsayati, adhivāseti 1, adhivāseti 2, nādhivāseti, vāsayati
+    - pr pass
+      - vussati
+  - √×1 bhūvādigaṇa +a (want, control)
+    - Base:
+      - -
+    - Dhātupātha:
+      - -
+    - Dhātumañjūsa:
+      - vasa kanti-nivāsesu (desiring and living) #470
+    - Saddanīti:
+      - vasa kanityaṃ (wishing)
+    - Sanskrit Root:
+      - √vaś 1, 2, 3 (will)
+    - Pāṇinīya Dhātupāṭha:
+      - vaś a kāntau (desiring)
+    - nouns
+    - masc
+      - vasa 1, vasa 2, vasa 4, vasī 2
+    - adjectives
+    - adj
+      - avasa, savasa, vasika, vasimaṃ, vasī 1
+    - adverbs
+    - ind
+      - avassaṃ, vasena 1, vasena 2, vasena 3
+- √har
+  - √･1 bhūvādigaṇa +a (carry) harati
+    - Bases:
+      - hara, hā (irreg), hāre (caus), harāpe (caus), harīya (pass), hāraya (caus), hariya (pass), harāpaya (caus), hare (caus, irreg), hīra (pass, irreg), hariyya (pass, irreg)
+    - Dhātupātha:
+      - -
+    - Dhātumañjūsa:
+      - hara haraṇamhi (taking, taking away) #350
+    - Saddanīti:
+      - hara apanayane (carrying away)
+    - Sanskrit Root:
+      - √hṛ 1 (take)
+    - Pāṇinīya Dhātupāṭha:
+      - -
+    - verbs
+    - pr
+      - ajjhāharati, atiharati 1, atiharati 2, anupariharati, abhinīharati 1, abhinīharati 2, abhisaṃharati 1, abhisaṃharati 2, abhiharati 1, abhiharati 2, abhiharati 3, āharati 1, āharati 2, udāharati 1, udāharati 2, udāharati 3, upasaṃharati 1, upasaṃharati 2, upasaṃharati 3, upasaṃharati 4, upaharati, oharati, nābhiharati, nāharati, nīharati 1, nīharati 2, nīharati 3, nīharati 4, nīharati 5, paccāharati, paṭisaṃharati 1, paṭisaṃharati 2, paṭiharati, pariharati 1, pariharati 2, pariharati 3, pariharati 4, pariharati 5, paharati, samannāharati, samudāharati, saṃharati 1, saṃharati 2, vītiharati 1, vītiharati 2, voharati 1, voharati 2, voharati 3, harati 1, harati 2, harati 3
+    - pr caus
+      - atiharāpeti, abhihārayati, abhihāreti, āharāpayati, āharāpeti, ohāreti, nīharāpeti, paccāharāpeti, paharāpeti 1, paharāpeti 2, saṃharāpeti, harāpeti, hārayati, hāreti
+    - pr pass
+      - abhihariyati, abhiharīyati, āhariyati, āhariyyati, āharīyati, udāharīyati, nīhariyati, nīharīyati, parihariyati, saṃhīrati, voharīyati, harīyati
+  - √･1 bhūvādigaṇa +a (take, seize) harati
+    - Bases:
+      - hara, hā (irreg), hāre (caus), hāraya (caus), hariya (pass), haraya (caus, irreg)
+    - Dhātupātha:
+      - -
+    - Dhātumañjūsa:
+      - hara haraṇamhi (taking, taking away) #351
+    - Saddanīti:
+      - hara ādāne (taking, seizing)
+    - Sanskrit Root:
+      - √hṛ 1 (take)
+    - Pāṇinīya Dhātupāṭha:
+      - -
+    - verbs
+    - pr
+      - ajjhoharati, avaharati, āharati 3, āharati 4, āharati 5, nāvaharati, byāharati
+    - pr caus
+      - ajjhohāreti, āhāreti
+    - pr pass
+      - ajjhohariyati
+  - √×3 divādigaṇa +ya (be ashamed) harāyati
+    - Base:
+      - harāya (deno)
+    - Dhātupātha:
+      - hara lajjāyaṃ (being shameful) #438
+    - Dhātumañjūsa:
+      - hara lajjane (being ashamed) #677
+    - Saddanīti:
+      - hare lajjāyaṃ (being ashamed)
+    - Sanskrit Root:
+      - √hrī 3 (be ashamed)
+    - Pāṇinīya Dhātupāṭha:
+      - hrī lajjāyāṃ (being ashamed)
+    - verbs
+    - pr deno
+      - harāyati
+    - aor deno
+      - harāyi
+    - abs deno
+      - harāyitvā
+  - √･1 bhūvādigaṇa +a (live) viharati
+    - Bases:
+      - hara, hā (irreg), ha (irreg), hāhi (fut, irreg), hessa (fut, irreg), hassa (fut, irreg)
+    - Dhātupātha:
+      - -
+    - Dhātumañjūsa:
+      - -
+    - Saddanīti:
+      - hara haraṇe (existing)
+    - Sanskrit Root:
+      - √hṛ 1 (take)
+    - Pāṇinīya Dhātupāṭha:
+      - hṛ ñ haraṇe (carrying)
+    - verbs
+    - pr
+      - viharati 1, viharati 2
+- √car
+  - √･1 bhūvādigaṇa +a (move, walk)
+    - Bases:
+      - cara, cāre (caus), carāpe (caus), cariya (pass), chara (irreg), cāraya (caus), chāre (caus, irreg), cāriya (caus, pass), chāraya (caus, irreg)
+    - Dhātupātha:
+      - cara gati-bhakkhaṇesu (going and eating) #243
+    - Dhātumañjūsa:
+      - cara gati-bhakkhaṇesu (going and eating) #362
+    - Saddanīti:
+      - cara gati-bhakkhaṇesu (going and eating)
+    - Sanskrit Root:
+      - √car 1 (move)
+    - Pāṇinīya Dhātupāṭha:
+      - car a gatyarthaḥ bhakṣaṇe’pi (going and eating)
+    - verbs
+    - pr
+      - upacarati 1, upavicarati, carati 1, niccharati 1, niccharati 2, paṭicarati, paricarati 1, paricarati 2, paricarati 3, pavicarati, sañcarati 1, samudācarati 2, samudācarati 3, samudācarati 4, samudācarati 5, vicarati
+    - pr caus
+      - anuvicarāpeti, anuvicāreti, uccāreti 1, nicchāreti, paricāreti 1, vicāreti 1
+  - √･1 bhūvādigaṇa +a (act, behave)
+    - Bases:
+      - cara, cāre (caus), cāriya (caus, pass)
+    - Dhātupātha:
+      - -
+    - Dhātumañjūsa:
+      - -
+    - Saddanīti:
+      - cara caraṇe (behaving)
+    - Sanskrit Root:
+      - √car 1 (move)
+    - Pāṇinīya Dhātupāṭha:
+      - -
+    - verbs
+    - pr
+      - ajjhācarati, ācarati, ocarati, carati 2, carati 3, nācarati, pacarati, samācarati, samudācarati 1
+- √var
+  - √･8 curādigaṇa +e, aya (wish, choose)
+    - Bases:
+      - vāre, vare, vāraya, vare (irreg)
+    - Dhātupātha:
+      - vara āvaraṇ’-icchāsu (obstructing and wishing) #606
+    - Dhātumañjūsa:
+      - vara āvaraṇa icchāsu yācāyaṃ (obstructing, wishing and begging) #849
+    - Saddanīti:
+      - vara icchāyaṃ (wishing)
+    - Sanskrit Root:
+      - √vṛ 5, 9 (choose)
+    - Pāṇinīya Dhātupāṭha:
+      - var a īpsāyāṃ (wishing)
+    - verbs
+    - pr
+      - pavāreti 1, pavāreti 2, pavāreti 3, vareti
+  - √･1 bhūvādigaṇa +a (cover, dress, restrain)
+    - Bases:
+      - vāre, vara, varaya, vāre (caus), pura (irreg), rupa (irreg), varāpe (caus), variya (pass), vāraya (caus), rupe (caus, irreg), vāriya (caus, pass), purīya (pass, irreg)
+    - Dhātupātha:
+      - vara varaṇa-sambhattisu (covering and joining) #255
+    - Dhātumañjūsa:
+      - vara saṃvaraṇādisu (covering, obstruction) #363
+    - Saddanīti:
+      - vara varaṇe (covering, restraining)
+    - Sanskrit Root:
+      - √vṛ 1, 5, 9 (cover)
+    - Pāṇinīya Dhātupāṭha:
+      - vṛ saṃvaraṇe (covering)
+    - verbs
+    - pr
+      - apāpurati, āvarati, āvarayati, pārupati, saṃvarati, vivarati 1, vivarati 2, vivarati 3
+    - pr caus
+      - anuparivāreti, nivārayati, nivāreti, pārupeti, sannivāreti, vārayati 1, vāreti
+    - pr pass
+      - apāpurīyati, avāpurīyati
+- √vad
+  - √･1 bhūvādigaṇa +a (say, speak)
+    - Bases:
+      - vada, vāde (caus), vajja (pass), vade (irreg), vadīya (pass), vadāpe (caus), vadiya (pass), vādaya (caus), pāv (perf, irreg), vādiya (caus, irreg)
+    - Dhātupātha:
+      - vada vacane (speaking) #134
+    - Dhātumañjūsa:
+      - vada vyattavace (speaking clearly) #194
+    - Saddanīti:
+      - vada viyattiyaṃ vācāyaṃ (articulate speech)
+    - Sanskrit Root:
+      - √vad 1 (speak)
+    - Pāṇinīya Dhātupāṭha:
+      - vad a saṃdesavacane (telling, relating)
+    - verbs
+    - pr
+      - apavadati, abhivadati 1, abhivadati 2, upavadati 1, ovadati, nābhivadati, nūpavadati, paṭivadati, pāvadati, saṃvadati, vadati 1, vadati 2, vadati 3, vadati 4, vadati 5, vadate, vadeti 1, vadeti 2, vivadati
+    - pr caus
+      - abhivādeti, vādayati, vivādayati, vivādiyati
+    - pr pass
+      - vajjati
+  - √･8 curādigaṇa +e, aya (salute, praise)
+    - Base:
+      - vajja (pass)
+    - Dhātupātha:
+      - -
+    - Dhātumañjūsa:
+      - vadī abhivāda thomesu (bowing and praising) #822
+    - Saddanīti:
+      - vadī abhivādana-thutīsu (saluting and praising)
+    - Sanskrit Root:
+      - √vad 1 (speak)
+    - Pāṇinīya Dhātupāṭha:
+      - vad i abhivādane (respectful saluting)
+    - participles
+    - prp ●
+      - ovajjamāna
+    - ptp
+      - anavajja 1, avajja 2
+    - nouns
+    - fem
+      - anavajjatā
+    - fem ●
+      - sāvajjatā
+    - nt
+      - anavajja 2, sāvajja 2
+    - adjectives
+    - adj
+      - sāvajja 1
+- √nī
+  - √･1 bhūvādigaṇa +a (lead, carry)
+    - Bases:
+      - ne, ṇe, naya, ṇāya, ṇe (irreg), nāpe (caus), nāya (caus), nessa (fut), nīya (pass), nāpaya (caus), nayāpe (caus), niyya (pass, irreg)
+    - Dhātupātha:
+      - nī pāpaṇe (reaching, attaining) #362
+    - Dhātumañjūsa:
+      - nī pāpaṇe (reaching, attaining) #588
+    - Saddanīti:
+      - nī naye (leading)
+    - Sanskrit Root:
+      - √nī 1, 2 (lead)
+    - Pāṇinīya Dhātupāṭha:
+      - nī naye (leading)
+    - verbs
+    - pr
+      - anabhineti, anūpaneti, anvānayati, apaneti, abhineti, ānayati, āneti, upaneti 1, upaneti 2, nayati 1, nayati 2, nayati 3, neti 1, paṭivineti, paṇeti, pariṇāyati, pariṇeti, sanneti, samannāneti, samanvāneti, samānayati, vinayati, vineti 1, vineti 2
+    - pr pass
+      - apanīyati, ānīyati 2, upanīyati, niyyati 1, nīyati 1, nīyati 3
+- √vatt
+  - √･1 bhūvādigaṇa +a (be, proceed)
+    - Bases:
+      - vatta, vatte (caus), batta (irreg), vattāpe (caus), vattaya (caus), vattiya (pass), batte (caus, irreg), battīya (pass, irreg), battaya (caus, irreg), battāpe (caus, irreg)
+    - Dhātupātha:
+      - vatta vattane (proceeding, continuing) #119
+    - Dhātumañjūsa:
+      - vatta vattane (moving on, existing) #528
+    - Saddanīti:
+      - vatu vattane (existing)
+    - Sanskrit Root:
+      - √vṛt 1 (turn)
+    - Pāṇinīya Dhātupāṭha:
+      - vṛt u vartane (being, existing (turning))
+    - verbs
+    - pr
+      - ativattati 1, ativattati 2, adhivattati, anuparivattati 1, anuparivattati 2, anuparivattati 3, anupavattati, anuvattati 1, anuvattati 2, anvāvattati, abhinibbattati, abhinivattati, āvattati, upanivattati, upavattati 1, upavattati 2, upavattatī, upātivattati 1, upātivattati 2, nappavattati, nātivattati 1, nātivattati 2, nānuparivattati, nibbattati 1, nibbattati 2, nivattati 1, nivattati 2, nivattati 3, paccudāvattati 1, paccudāvattati 2, paṭinivattati, pativattati, parivattati 1, parivattati 2, parivattati 3, pavattati 1, pavattati 2, pavattati 3, pavattati 4, samativattati, samparivattati, sampavattati 1, sampavattati 2, saṃvattati, vattati 1, vattati 2, vattati 3, vattati 4, vattati 5, viparivattati, vītivattati
+    - pr caus
+      - ativatteti, anupavattayati, anupavatteti 1, anupavatteti 2, anuppavatteti, anuvattayati, anuvatteti, abhinibbattayati, abhinibbatteti, abhinivatteti, ubbatteti, nānupavattayati, nibbatteti, nivattāpeti, nivatteti 1, nivatteti 2, nivatteti 3, paṭivatteti, parivatteti 1, parivatteti 2, parivatteti 3, parivatteti 4, pavattayati, pavatteti 1, pavatteti 2, pavatteti 3, pavatteti 4, pavatteti 5, samparivatteti, sampavatteti, saṃvattayati, saṃvatteti, vatteti 1, vatteti 2, vītivatteti
+    - pr pass
+      - anuparivattiyati, nibbattīyati
+- √man
+  - √･3 divādigaṇa +ya (think) maññati
+    - Bases:
+      - mañña, māne (caus), manna (irreg), manaya (caus), mānaya (caus), vimaṃsa (desid), māniya (caus, pass), vīmaṃsa (desid, irreg), vīmaṃsāpe (desid, caus, irreg), vīmaṃsiya (desid, pass, irreg)
+    - Dhātupātha:
+      - mana ñāṇe (knowing) #427
+    - Dhātumañjūsa:
+      - mana ñāṇe (knowing, understanding) #663
+    - Saddanīti:
+      - mana ñāṇe (knowing)
+    - Sanskrit Root:
+      - √man 3, 4, 8 (think)
+    - Pāṇinīya Dhātupāṭha:
+      - man a jñāne (knowing)
+    - verbs
+    - pr
+      - atimaññati, avamaññati, nātimaññati, maññati 1, maññati 2, maññati 3, maññate, samanumaññati, sammannati 1, sammannati 2
+    - pr caus
+      - patimāneti, mānayati, māneti, vimāneti, vīmaṃsāpeti
+- √yuj
+  - √･2 rudhādigaṇa +ṃa (yoke, join) yuñjati
+    - Bases:
+      - yuñja, yoje (caus), yujja (pass), yojāpe (caus), yojaya (caus), yuñjīya (pass), yuñjāpe (caus), yuñjiya (pass), yojīya (caus, pass)
+    - Dhātupātha:
+      - yuja yoge (connecting) #378
+    - Dhātumañjūsa:
+      - yuja yoge (joining) #612
+    - Saddanīti:
+      - yuja yoge (connecting)
+    - Sanskrit Root:
+      - √yuj 2, 7 (join)
+    - Pāṇinīya Dhātupāṭha:
+      - yuj ir yoge (joining)
+    - verbs
+    - pr
+      - anuyuñjati 1, anuyuñjati 2, abhiyuñjati 1, uyyuñjati 1, uyyuñjati 2, nānuyuñjati, niyuñjati, yuñjati 1, yuñjati 2, samanuyuñjati
+    - pr caus
+      - uyyojeti 1, uyyojeti 2, payojayati, payojeti 1, yojayati, yojeti 1, yojeti 2, viyojayati
+    - pr caus & pass
+      - uyyojīyati, yojīyati
+    - pr pass
+      - yujjati 1, saṃyujjati 1
+- √pat
+  - √×3 divādigaṇa +ya (command, control)
+    - masc
+      - adhipa, adhipati 1, pati 3, pati 4
+    - fem
+      - patānī
+    - nt
+      - ādhipacca, ādhipateyya
+  - √･1 bhūvādigaṇa +a (fall)
+    - Bases:
+      - pata, pāte (caus), pātāpe (caus), pātaya (caus), pātāpaya (caus), pātiya (caus, pass)
+    - Dhātupātha:
+      - pata gamane (going) #123
+    - Dhātumañjūsa:
+      - pata gamane (going) #179
+    - Saddanīti:
+      - pata gatiyaṃ (going)
+    - Sanskrit Root:
+      - √pat 1 (fly, fall)
+    - Pāṇinīya Dhātupāṭha:
+      - pat ḷ gatau (going)
+    - verbs
+    - pr
+      - anupatati, uppatati 1, nappapatati, nānupatati, nipatati, patati 1, patati 2, patati 3, papatati 1, papatati 2, paripatati 1, sannipatati, sampatati, saṃpatati, vītipatati
+    - pr caus
+      - atipātayati 1, atipāteti 1, atipāteti 2, opāteti, nipāteti 1, nipāteti 2, pātayati, pātāpeti, pāteti 1, pāteti 2, pāteti 3, sannipāteti
+- √sar
+  - √×1 bhūvādigaṇa +a (make sound)
+    - Root in Compounds:
+      - sar or ssar
+    - Dhātupātha:
+      - -
+    - Dhātumañjūsa:
+      - sara gati-cintā-hiṃsā-sadde (going, thinking, harming and making sound) #348
+    - Saddanīti:
+      - sara saddo-patāpesu (making sound and injuring)
+    - Sanskrit Root:
+      - √svṛ √svar 1 (sound)
+    - Pāṇinīya Dhātupāṭha:
+      - svṛ śabdo-upatāpayoḥ (making sound and injuring)
+    - nouns
+    - masc
+      - assara 2, sara 3, sara 5
+  - √×1 bhūvādigaṇa +a (shine)
+    - Base:
+      - -
+    - Root in Compounds:
+      - ssar
+    - Dhātupātha:
+      - -
+    - Dhātumañjūsa:
+      - -
+    - Saddanīti:
+      - -
+    - Sanskrit Root:
+      - √svar 1 (shine)
+    - Pāṇinīya Dhātupāṭha:
+      - -
+  - √･1 bhūvādigaṇa +a (remember)
+    - Bases:
+      - sara, sāre (caus), sare (irreg), sarāpe (caus), sariya (pass), sāraya (caus), sumara (irreg), sarāpe (caus, irreg)
+    - Root in Compounds:
+      - ssar
+    - Dhātupātha:
+      - sara gati-hiṃsa-cintāsu (going, hurting and thinking) #248
+    - Dhātumañjūsa:
+      - sara gati-cintā-hiṃsā-sadde (going, thinking, harming and making sound) #348
+    - Saddanīti:
+      - sara cintāyaṃ (reflecting)
+    - Sanskrit Root:
+      - √smṛ 1 (remember)
+    - Pāṇinīya Dhātupāṭha:
+      - smṛ cintāyaṃ (reflecting)
+    - verbs
+    - pr
+      - anussarati 1, nassarati, samanussarati, sarati 1, saramhase, sareti, sumarati
+    - pr caus
+      - paṭisāreti, sarāpeti, sārayati, sāreti 1
+  - √･1 bhūvādigaṇa +a (go, flow)
+    - Bases:
+      - sara, sāre (caus), sāraya (caus), sāriya (caus, pass), sārīya (caus, pass)
+    - Dhātupātha:
+      - sara gati-hiṃsa-cintāsu (going, hurting and thinking) #248
+    - Dhātumañjūsa:
+      - sara gati-cintā-hiṃsā-sadde (going, thinking, harming and making sound) #348
+    - Saddanīti:
+      - sara gatiyaṃ (going)
+    - Sanskrit Root:
+      - √sṛ 1, 3 (flow)
+    - Pāṇinīya Dhātupāṭha:
+      - sṛ gatau (going)
+    - verbs
+    - pr
+      - anussarati 2, osarati, sarati 2, saṃsarati
+    - pr caus
+      - apasāreti, ussāreti, paccāsāreti, pasāreti, sāreti 2
+    - pr caus & pass
+      - nissārīyati, sampasāriyati
+- √bhuj
+  - √･1 bhūvādigaṇa +a (bend)
+    - Bases:
+      - bhuja, bhujja (pass)
+    - Dhātupātha:
+      - bhuja koṭilye (being crooked) #470
+    - Dhātumañjūsa:
+      - bhuja koṭille (being crooked) #521
+    - Saddanīti:
+      - bhuja koṭille (being bent)
+    - Sanskrit Root:
+      - √bhuj 6 (bend)
+    - Pāṇinīya Dhātupāṭha:
+      - bhuj o kauṭilye (being bent or curved)
+    - verbs
+    - pr
+      - ābhujati, ubbhujati, obhujati, vinibbhujati 1, vinibbhujati 2
+  - √･2 rudhādigaṇa +ṃa (use, eat, enjoy)
+    - Bases:
+      - bhuñja, bhoje (caus), bhujja (pass), bhojāpe (caus), bhojaya (caus), bhuñjāpe (caus), bhuñjiya (pass), bubhukkha (desid)
+    - Dhātupātha:
+      - bhuja pālan’-ajjhohāresu (eating to live) #379
+    - Dhātumañjūsa:
+      - bhuja pālana-bhojane (protecting and eating) #613
+    - Saddanīti:
+      - bhuja pālana-byavaharaṇesu (preserving and eating)
+    - Sanskrit Root:
+      - √bhuj 6, 7 (enjoy)
+    - Pāṇinīya Dhātupāṭha:
+      - bhuj a pālana-abhyavahārayoḥ (nourishing and taking food)
+    - verbs
+    - pr
+      - paribhuñjati 1, paribhuñjati 2, bhuñjati 1, bhuñjati 2, sambhuñjati 1
+    - pr caus
+      - bhojayati, bhojeti
+- √vass
+  - √vass･1 a (howl, roar, bark) 6
+  - Pāḷi Root:
+    - √vass･1 bhūvādigaṇa + a (howl, roar, bark)
+  - Base:
+    - vassa
+  - Dhātupātha:
+    - -
+  - Dhātumañjūsa:
+    - vassa 1 secana-saddane (pouring and making sound) #471
+  - Saddanīti:
+    - vasa 3 sadde (making sound)
+  - Sanskrit Root:
+    - √vāś 1, 4 (bellow)
+  - Pāṇinīya Dhātupāṭha:
+    - vāś ṛ śabde (making sound)
+  - verbs
+  - pr
+    - vassati 2
+  - √vass･1 a (rain) 76
+  - Pāḷi Root:
+    - √vass･1 bhūvādigaṇa + a (rain)
+  - Bases:
+    - vassa, vassāpe (caus), vassīya (pass)
+  - Dhātupātha:
+    - -
+  - Dhātumañjūsa:
+    - vassa secana-saddane (pouring and making sound) #471
+  - Saddanīti:
+    - vassa secane (pouring, sprinkling)
+  - Sanskrit Root:
+    - √vṛṣ 1, 6 (rain)
+  - Pāṇinīya Dhātupāṭha:
+    - vṛṣ u secane (sprinkling, pouring)
+  - verbs
+  - pr
+    - ativassati, abhippavassati, abhivassati, ovassati, nābhivassati, pavassati, vassati 1
+  - pr caus
+    - ovassāpeti, vassāpeti
+  - Spot a mistake? Fix it here.
+- √kir
+  - √kir･1 a (scatter, sprinkle) 116
+  - Pāḷi Root:
+    - √kir･1 bhūvādigaṇa + a (scatter, sprinkle)
+  - Bases:
+    - kira, kīya (pass), kīra (irreg), kirāpe (caus), kiriya (pass), kirīya (pass), kire (caus, irreg)
+  - Dhātupātha:
+    - kira vikiraṇe (scattering, dispersing) #482
+  - Dhātumañjūsa:
+    - kira vikiraṇe (scattering, dispersing) #557
+  - Saddanīti:
+    - -
+  - Sanskrit Root:
+    - √kṝ √kṛ 6 (scatter)
+  - Pāṇinīya Dhātupāṭha:
+    - kṝ (scatter)
+  - verbs
+  - pr
+    - ajjhokirati, abbhukkirati, abbhokirati, abhikirati, abhikīrati 1, abhikīrati 2, abhippakirati, avakirati, ākirati 1, ākirati 2, ukkirati, okirati, kirati, nābhikirati, nābhikīrati, pakirati, parikirati, samokirati, vikirati, vippakirati
+  - pr caus
+    - okirāpeti, pakireti
+  - Spot a mistake? Fix it here.
+- √hū
+  - √hū･1 a (be) 50
+  - Pāḷi Root:
+    - √hū･1 bhūvādigaṇa + a (be)
+  - Bases:
+    - ho, huva, hu (irreg), he (irreg), hehi (fut, irreg), hohi (fut, irreg), hessa (fut, irreg)
+  - Dhātupātha:
+    - hū sattāyaṃ (being) #352
+  - Dhātumañjūsa:
+    - hū sattāyaṃ (being) #578
+  - Saddanīti:
+    - hū sattāyaṃ (being)
+  - Sanskrit Root:
+    - √bhū 1 (be)
+  - Pāṇinīya Dhātupāṭha:
+    - -
+  - verbs
+  - pr
+    - nappahoti 1, nappahoti 2, pahoti 1, pahoti 2, pahoti 3, hoti 1, hoti 2, hoti 3, homi 1
+  - Spot a mistake? Fix it here.
+- √div
+  - √div･3 ya (shine) 37
+  - Pāḷi Root:
+    - √div･3 divādigaṇa + ya (shine)
+  - Base:
+    - dibba (irreg)
+  - Dhātupātha:
+    - diva kīḷā-vijigiṃsā-vohāra-jjuti-tthuti-gatisu (playing, conquering, trading, shining, praising and going) #389
+  - Dhātumañjūsa:
+    - divu kīḷā-vigigiṃsā-vohāra-jjuti-thomite (playing, conquering, trading, shining, and praising) #622
+  - Saddanīti:
+    - divu kīḷā-vijigisā-byavahāra-juti-thuti-kanti-gati-sattīsu (playing conquering trading shining praising desiring going into and being able)
+  - Sanskrit Root:
+    - √div 4 (play)
+  - Pāṇinīya Dhātupāṭha:
+    - div u krīḍa-vijigīṣā-vyavahāra-dyuti-stuti-moda-mada-svapna-kānti-gatiṣu (playing, desiring to conquer, trading, shining, praising, pleasing, inspiring, sleeping, desiring and going)
+  - verbs
+  - pr
+    - dibbati 1, dibbati 2
+  - Spot a mistake? Fix it here.
+- √vaḍḍh
+  - √vaḍḍh･1 a (grow, increase) 66
+  - Pāḷi Root:
+    - √vaḍḍh･1 bhūvādigaṇa + a (grow, increase)
+  - Bases:
+    - vaḍḍha, vaḍḍhe (caus)
+  - Dhātupātha:
+    - vaḍḍha vaḍḍhane (increasing, growing) #109
+  - Dhātumañjūsa:
+    - vaḍḍha saṃvaḍḍhane (growing up) #160
+  - Saddanīti:
+    - vaḍḍha vaḍḍhane (growing, increasing)
+  - Sanskrit Root:
+    - √vṛdh 1 (grow)
+  - Pāṇinīya Dhātupāṭha:
+    - vṛdh u vṛddhau (increasing)
+  - verbs
+  - pr
+    - abhivaḍḍhati, pavaḍḍhati 1, pavaḍḍhati 2, saṃvaḍḍhati, vaḍḍhati
+  - pr caus
+    - saṃvaḍḍheti, vaḍḍheti 1, vaḍḍheti 2, vaḍḍheti 3, vaḍḍheti 4
+  - Spot a mistake? Fix it here.
+- √ud
+  - √ud･2 ṃa (be wet) 28
+  - Pāḷi Root:
+    - √ud･2 rudhādigaṇa + ṃa (be wet)
+  - Bases:
+    - unda, udda (pass), uddāya (deno)
+  - Dhātupātha:
+    - -
+  - Dhātumañjūsa:
+    - udi sava-kiledane (flowing and being wet) #200
+  - Saddanīti:
+    - udi pasava-kiledanesu (flowing and wetness)
+  - Sanskrit Root:
+    - √und √ud 6, 7 (wet)
+  - Pāṇinīya Dhātupāṭha:
+    - und ī kledane (being wet)
+  - verbs
+  - pr pass
+    - samuddati
+  - Spot a mistake? Fix it here.
+- √dus
+  - √dus･3 ya (hate, dislike) 11
+  - Pāḷi Root:
+    - √dus･3 divādigaṇa + ya (hate, dislike)
+  - Base:
+    - dussa
+  - Dhātupātha:
+    - dusa appītiyaṃ (disliking) #452
+  - Dhātumañjūsa:
+    - dusā appītimhi (disliking) #691
+  - Saddanīti:
+    - dusa appītiyaṃ (disliking)
+  - Sanskrit Root:
+    - √dviṣ 2, 6 (hate)
+  - Pāṇinīya Dhātupāṭha:
+    - dviṣ a aprītau (disliking)
+  - verbs
+  - pr
+    - upadussati, dussati 1
+  - √dus･3 ya (be angry, corrupt) 87
+  - Pāḷi Root:
+    - √dus･3 divādigaṇa + ya (be angry, corrupt)
+  - Bases:
+    - dussa, dūse (caus), dose (caus), dūsaya (caus), dosaya (caus)
+  - Dhātupātha:
+    - -
+  - Dhātumañjūsa:
+    - -
+  - Saddanīti:
+    - dusa dosane (offending, angering)
+  - Sanskrit Root:
+    - √duṣ 4 (spoil)
+  - Pāṇinīya Dhātupāṭha:
+    - duṣ a vaikṛtye (degenerating)
+  - verbs
+  - pr
+    - dussati 2, dussati 3, padussati 1, padussati 2, sampadussati
+  - pr caus
+    - dūseti 1, dūseti 2, dūseti 3, dūseti 4, nappadūseti, padūseti, padosayati, paridūseti, vidūseti 1, vidūseti 2, vidūseti 3
+  - Spot a mistake? Fix it here.
+- √sah
+  - √sah･1 a (be able) 5
+  - Pāḷi Root:
+    - √sah･1 bhūvādigaṇa + a (be able)
+  - Base:
+    - saha
+  - Dhātupātha:
+    - -
+  - Dhātumañjūsa:
+    - -
+  - Saddanīti:
+    - saha 3 sattiyaṃ (being able)
+  - Sanskrit Root:
+    - √sah 1 (prevail)
+  - Pāṇinīya Dhātupāṭha:
+    - ṣah a cakyarthe (?)
+  - verbs
+  - pr
+    - ussahati 2, sahati 3, visahati 1
+  - √sah･1 a (overcome, prevail) 74
+  - Pāḷi Root:
+    - √sah･1 bhūvādigaṇa + a (overcome, prevail)
+  - Bases:
+    - saha, sāhe (caus)
+  - Dhātupātha:
+    - saha marisane (enduring) #341
+  - Dhātumañjūsa:
+    - saha khame (enduring, bearing) #494
+  - Saddanīti:
+    - saha parisahane (enduring, being patient)
+  - Sanskrit Root:
+    - √sah 1, 2, 4 (prevail)
+  - Pāṇinīya Dhātupāṭha:
+    - ṣah a marṣaṇe (enduring, forgiving)
+  - verbs
+  - pr
+    - ussahati 1, nappasahati, parisahati, pasahati 1, pasahati 2, sahati 1, sahati 2, visahati 2, visahati 3
+  - pr caus
+    - ussāheti, samussāheti
+  - Spot a mistake? Fix it here.
+
+# group 2
+- √muc
+  - √･2 rudhādigaṇa +ṃa (release, free)
+    - Bases:
+      - muñca, mocaya, moce (caus), mucca (pass), mocāpe (caus), mocaya (caus), muñcīya (pass), muñcāpe (caus)
+    - Dhātupātha:
+      - muca mocane (freeing) #376
+    - Dhātumañjūsa:
+      - muca mocane (setting free) #609
+    - Saddanīti:
+      - muca mocane (setting free)
+    - Sanskrit Root:
+      - √muc 6 (release)
+    - Pāṇinīya Dhātupāṭha:
+      - muc ḷ mokṣane (to be free)
+    - verbs
+    - pr
+      - paṭimuñcati 1, pamuñcati 1, pamuñcati 2, pamuñcati 3, pamuñcati 4, parimuñcati, muñcati 1, muñcati 2, muñcati 3, vipamuñcati
+    - pr caus
+      - pamocayati, parimoceti, mocayati, moceti, vimoceti
+    - pr pass
+      - adhimuccati 1, adhimuccati 2, nādhimuccati 1, nādhimuccati 2, pamuccati, parimuccati, muccati 1, muccati 2, muccati 3, muccati 5, vimuccati
+- √ādā
+  - √･3 divādigaṇa +ya (take, seize)
+    - Bases:
+      - ādā (irreg), āde (irreg), ādāpe (caus), ādīya (pass), ādadā (irreg), ādiya (irreg), ādape (caus, irreg), ādapaya (caus, irreg), ādiyape (caus, irreg), ādiyāpe (caus, irreg), ādapiya (caus, pass, irreg)
+    - Dhātupātha:
+      - -
+    - Dhātumañjūsa:
+      - -
+    - Saddanīti:
+      - ā-dā gahaṇe (taking)
+    - Sanskrit Root:
+      - √dā 1, 2, 3, 4 (give)
+    - Pāṇinīya Dhātupāṭha:
+      - -
+    - verbs
+    - pr
+      - ādiyati 1, ādiyati 2, ādiyati 3, ādeti 1, ādeti 2, upādiyati, nādiyati, nādeti, pariyādiyati 1
+    - pr caus
+      - ādiyāpeti, samādapeti
+- √yā
+  - √･1 bhūvādigaṇa +a (go)
+    - Bases:
+      - yā, yāya, yāpe (caus), yāpaya (caus), yape (caus, irreg)
+    - Dhātupātha:
+      - yā pāpuṇane (reaching, attaining) #368
+    - Dhātumañjūsa:
+      - yā pāpuṇe (reaching, attaining) #596
+    - Saddanīti:
+      - yā gati-pāpuṇesu (going and arriving)
+    - Sanskrit Root:
+      - √yā 2 (go)
+    - Pāṇinīya Dhātupāṭha:
+      - yā prāpāṇe (leading to)
+    - verbs
+    - pr
+      - anupariyāyati 1, abhiyāti 1, āyāti, upayāti, oyāyati, niyyāti 1, niyyāti 2, nīyati 2, paccaniyyāti, paccuyyāti, pariyāyati, yanti, yāti 1, yāti 2, yāyati, sampāyati 1, sampāyati 2
+    - pr caus
+      - upayāpeti, uyyāpeti, payapeti, yāpeti 1
+- √dā
+  - √･1 bhūvādigaṇa +a (give)
+    - Bases:
+      - dā, dadā, de (irreg), diya (pass), dāpe (caus), dīya (pass), dajja (irreg), diccha (desid), dassa (fut, irreg), diyya (pass, irreg)
+    - Dhātupātha:
+      - dā dāne (giving) #131
+    - Dhātumañjūsa:
+      - dā dāne (giving) #233
+    - Saddanīti:
+      - dā dāne (giving)
+    - Sanskrit Root:
+      - √dā 3 (give)
+    - Pāṇinīya Dhātupāṭha:
+      - dā ṇ
+      - du dā ñ dāne (giving)
+    - verbs
+    - pr
+      - dajjeti, dadāti, damma 3, dammi, deti 1, deti 2
+    - pr caus
+      - dāpeti
+    - pr pass
+      - dīyati
+  - √･3 divādigaṇa +ya (tie, bind)
+    - Base:
+      - -
+    - Dhātupātha:
+      - -
+    - Dhātumañjūsa:
+      - -
+    - Saddanīti:
+      - -
+    - Sanskrit Root:
+      - √dā 4, 6 (bind)
+    - Pāṇinīya Dhātupāṭha:
+      - -
+    - participles
+    - pp
+      - sandita 2
+    - nouns
+    - masc
+      - dāma 1
+    - nt
+      - uddāna 1, uddāna 2, dāma 2, nidāna 1, nidāna 4, nidāna 5, sandana 3, sandāna
+  - √･3 divādigaṇa +ya (cut, break apart)
+    - Base:
+      - dīya (pass)
+    - Dhātupātha:
+      - dā avakhaṇḍane (breaking apart) #403
+    - Dhātumañjūsa:
+      - da avakkhaṇḍane (breaking apart) #651
+    - Saddanīti:
+      - dā avakhaṇḍane (breaking into pieces)
+    - Sanskrit Root:
+      - √do 2, 4 (cut)
+    - Pāṇinīya Dhātupāṭha:
+      - do avakhaṇḍane (breaking apart)
+    - verbs
+    - pr
+      - dāyati
+    - pr pass
+      - sandīyati
+  - √･3 divādigaṇa +ya (be pure, clean)
+    - Bases:
+      - dāya, dāpe (caus), dape (caus, irreg)
+    - Dhātupātha:
+      - -
+    - Dhātumañjūsa:
+      - da 1 sodhane (cleaning, purifying) #234
+    - Saddanīti:
+      - dā suddhiyaṃ (being pure)
+    - Sanskrit Root:
+      - √dai √dā 4 (clear)
+    - Pāṇinīya Dhātupāṭha:
+      - -
+    - verbs
+    - pr
+      - pariyodāyati, vodāyati
+    - pr caus
+      - pariyodapeti, pariyodāpeti, vodapeti
+- √jan
+  - √･3 divādigaṇa +ya (be born, produce)
+    - Bases:
+      - jāya, jāne (caus), janaya (caus), jane (caus, irreg), jāya (pass, irreg)
+    - Dhātupātha:
+      - jana janane (producing, causing) #428
+    - Dhātumañjūsa:
+      - jana uppāde (appearing, arsing) #664
+    - Saddanīti:
+      - jana janane (making, producing)
+    - Sanskrit Root:
+      - √jan 4 (give birth, be born)
+    - Pāṇinīya Dhātupāṭha:
+      - jan a janane (producing, generating)
+    - verbs
+    - pr caus
+      - janeti
+    - pr pass
+      - abhijāyati, ājāyati, jāyati 1, jāyati 2, jāyate, paccājāyati, sañjāyati 1, sañjāyati 2, vijāyati 1, vijāyati 2, vijāyati 3
+- √su
+  - √･1 bhūvādigaṇa +a (generate, beget)
+    - Base:
+      - -
+    - Dhātupātha:
+      - su pasave (producing) #291
+    - Dhātumañjūsa:
+      - su pasavane (producing, generating) #483
+    - Saddanīti:
+      - -
+    - Sanskrit Root:
+      - √sū 1, 2, 4, 5 (generate, enliven, impel)
+    - Pāṇinīya Dhātupāṭha:
+      - -
+    - nouns
+    - fem
+      - sutā
+  - √･1 bhūvādigaṇa +a (flow)
+    - Bases:
+      - sava, sāve (caus)
+    - Root in Compounds:
+      - ssu
+    - Dhātupātha:
+      - su passavane (flowing) #290
+    - Dhātumañjūsa:
+      - su pasavane (flowing) #483
+    - Saddanīti:
+      - su savane (flowing)
+    - Sanskrit Root:
+      - √sru 1 (flow)
+    - Pāṇinīya Dhātupāṭha:
+      - sru gatau (going)
+    - verbs
+    - pr
+      - anvāssavati, abhissavati, assavati, nānussavati, pasavati 1, pasavati 2, savati 1, savati 2
+  - √×1 bhūvādigaṇa +a (extract, distil)
+    - Base:
+      - -
+    - Dhātupātha:
+      - -
+    - Dhātumañjūsa:
+      - -
+    - Saddanīti:
+      - -
+    - Sanskrit Root:
+      - √su 5 (press out, extract)
+    - Pāṇinīya Dhātupāṭha:
+      - -
+    - nouns
+    - fem
+      - surā
+  - √･4 svādigaṇa +ṇu, ṇā (hear)
+    - Bases:
+      - suṇo, suṇā, so (irreg), sāve (caus), suyya (pass), sāvaya (caus), sussusa (desid), sussūsa (desid), sūya (pass, irreg), sāviya (caus, pass)
+    - Root in Compounds:
+      - ssu
+    - Dhātupātha:
+      - su savane (hearing, flowing) #513
+    - Dhātumañjūsa:
+      - su savane (hearing) #707
+    - Saddanīti:
+      - su savane (hearing)
+    - Sanskrit Root:
+      - √śru 5 (hear)
+    - Pāṇinīya Dhātupāṭha:
+      - śru śravaṇe (hearing)
+    - verbs
+    - pr
+      - paṭissuṇāti, suṇāti 1, suṇāti 2, suṇoti
+    - pr caus
+      - anussāveti 1, sāveti 1, sāveti 2
+    - pr pass
+      - suyyati, sūyati 1, sūyati 2
+- √ruh
+  - √･1 bhūvādigaṇa +a (ascend, grow)
+    - Bases:
+      - ruha, roha, rūha, ruyha (pass), rūha (irreg), rope (caus, irreg), ropāpe (caus, irreg), ropaya (caus, irreg)
+    - Dhātupātha:
+      - ruha janane (producing) #334
+    - Dhātumañjūsa:
+      - ruha sañjanane (producing) #496
+    - Saddanīti:
+      - ruha cammani pātubhāve (producing skin)
+    - Sanskrit Root:
+      - √ruh 1 (ascend)
+    - Pāṇinīya Dhātupāṭha:
+      - ruh a bījajanmani prādurbhāve ca (birth of seeds and manifesting)
+    - verbs
+    - pr
+      - abhiruhati 1, abhiruhati 2, abhiruhati 3, abhirūhati, ārohati 1, orohati, nābhiruhati, nārohati, paṭiviruhati, rūhati 1, rūhati 2, viruhati 1, viruhati 2, virūhati
+    - pr caus
+      - abhiropeti, āropeti 1, āropeti 2, āropeti 3, oropeti 1, paccāropeti, ropāpeti, ropeti, voropeti
+- √hā
+  - √･3 divādigaṇa +ya (decrease)
+    - Bases:
+      - hāya, hīya (pass), hāpe (caus), jāpe (caus, irreg), hiyya (pass, irreg)
+    - Dhātupātha:
+      - hā parihāne (decreasing, dwindling) #462
+    - Dhātumañjūsa:
+      - hā hāne (decrease, diminution) #700
+    - Saddanīti:
+      - hā parihāniyaṃ (loss, decrease)
+    - Sanskrit Root:
+      - √hā 1, 3 (leave)
+    - Pāṇinīya Dhātupāṭha:
+      - -
+    - verbs
+    - pr
+      - parihāyati 1, parihāyati 2, parihāyati 3, vihāyati, hāyati 1, hāyati 2
+    - pr pass
+      - nihīyati, hīyati 1
+  - √･1 bhūvādigaṇa +a (abandon)
+    - Bases:
+      - jaha, jahā, hīya (pass), hiya (pass), hāpaya (caus), jahāpe (caus), hāssa (fut, irreg), hiyya (pass, irreg)
+    - Dhātupātha:
+      - hā cāge (giving up) #327
+    - Dhātumañjūsa:
+      - hā cāge (giving up, abandoning) #604
+    - Saddanīti:
+      - hā cāge (abandoning)
+    - Sanskrit Root:
+      - √hā 3 (leave)
+    - Pāṇinīya Dhātupāṭha:
+      - o hā k tyāge (abandoning, forsaking)
+    - verbs
+    - pr
+      - jahati 1, jahati 2, jahāti, nappajahati, pajahati, vippajahati
+    - pr caus
+      - hāpayati
+    - pr pass
+      - ohiyyati, pahīyati
+- √labh
+  - √･1 bhūvādigaṇa +a (get)
+    - Bases:
+      - labha, lābhe (caus), labbha (pass), lattha (irreg), labhiya (pass), lambha (irreg), laccha (fut, irreg), lambhe (caus, irreg), labbhiya (pass, irreg)
+    - Dhātupātha:
+      - labha lābhe (gaining) #204
+    - Dhātumañjūsa:
+      - labha lābhe (gaining, acquiring) #297
+    - Saddanīti:
+      - labha lābhe (gaining, acquiring)
+    - Sanskrit Root:
+      - √labh 1 (take)
+    - Pāṇinīya Dhātupāṭha:
+      - ḍu labh aṣ prāptau (gaining)
+    - verbs
+    - pr
+      - nappaṭilabhati, paṭilabhati, labhati, labhate
+    - pr pass
+      - upalabbhati 1, labbhati 1, labbhati 2, labbhati 3
+- √bhās
+  - √･1 bhūvādigaṇa +a (speak)
+    - Bases:
+      - bhāsa, bhāsīya (pass), bhāsiya (pass)
+    - Dhātupātha:
+      - bhāsa dittiyaṃ vacane ca (shining and speaking) #317
+    - Dhātumañjūsa:
+      - bhāsa vācāya dittiyaṃ (speaking and shining) #467
+    - Saddanīti:
+      - bhāsa byattāyaṃ vācāyaṃ (articulate speech)
+    - Sanskrit Root:
+      - √bhāṣ 1 (speak)
+    - Pāṇinīya Dhātupāṭha:
+      - bhāṣ a vyaktāyām vāci (speaking clearly)
+    - verbs
+    - pr
+      - anubhāsati 1, obhāsati 1, paṭibhāsati 1, paṭibhāsati 3, paribhāsati, bhāsati 1, bhāsasī, samanubhāsati
+  - √･1 bhūvādigaṇa +a (shine)
+    - Bases:
+      - bhāsa, bhassa, bhāse (caus), bhāsaya (caus)
+    - Dhātupātha:
+      - bhāsa dittiyaṃ vacane ca (shining and speaking) #317
+    - Dhātumañjūsa:
+      - bhāsa vācāya dittiyaṃ (speaking and shining) #467
+    - Saddanīti:
+      - bhāsu dittiyaṃ (shining)
+    - Sanskrit Root:
+      - √bhās 1 (shine)
+    - Pāṇinīya Dhātupāṭha:
+      - bhāś ṛ dīptau (blazing, shining)
+    - verbs
+    - pr
+      - avabhāsati, ābhāsati, obhāsati 2, pabhāsati, bhāsati 2, bhāsati 3
+    - pr caus
+      - obhāseti, pabhāseti, bhāsayati
+- √mā
+  - √･5 kiyādigaṇa +nā (measure)
+    - Bases:
+      - māṇā, mānā, me (caus), māpe (caus), mīya (pass), miṇā (irreg), minā (irreg), miṇīya (pass), māpiya (caus, pass)
+    - Dhātupātha:
+      - -
+    - Dhātumañjūsa:
+      - mā pamāṇe (measuring) #723
+    - Saddanīti:
+      - mā parimāṇe (measuring)
+    - Sanskrit Root:
+      - √mā 2, 3, 4 (measure)
+    - Pāṇinīya Dhātupāṭha:
+      - -
+    - verbs
+    - pr
+      - abhinimmināti 1, mināti
+    - pr caus
+      - māpeti 1
+    - pr pass
+      - anumīyati, nānumīyati
+- √as
+  - √･1 bhūvādigaṇa +a (be)
+    - Bases:
+      - asa, siya, assa, sa (irreg)
+    - Dhātupātha:
+      - asa bhuvi (being) #373
+    - Dhātumañjūsa:
+      - asa bhuvi (being) #600
+    - Saddanīti:
+      - asa bhuvi (being, existing)
+    - Sanskrit Root:
+      - √as 2 (be)
+    - Pāṇinīya Dhātupāṭha:
+      - as a bhuvi (being)
+    - verbs
+    - pr
+      - attha 10, atthi 1, atthi 2, amha 1, amhā, amhi, asi 3, asmi, natthi 1, natthi 2, natthī, namhi, byasati, santi 2, si 2
+  - √･3 divādigaṇa +ya (throw, hurl)
+    - Bases:
+      - assa, asa (irreg), asya (pass)
+    - Dhātupātha:
+      - asa khepane (throwing) #453
+    - Dhātumañjūsa:
+      - asu khepane (throwing) #693
+    - Saddanīti:
+      - asu khepe (throwing)
+    - Sanskrit Root:
+      - √as 4 (throw)
+    - Pāṇinīya Dhātupāṭha:
+      - as u kṣepaṇe (throwing)
+    - verbs
+    - pr
+      - assati 2, nirassati, pāsati
+    - pr pass
+      - samasyati
+  - √･1 bhūvādigaṇa +a (eat)
+    - Bases:
+      - asa, ase (caus, irreg)
+    - Dhātupātha:
+      - asa adane (eating) #292
+    - Dhātumañjūsa:
+      - asa adane (eating) #430
+    - Saddanīti:
+      - asa bhojane (eating)
+    - Sanskrit Root:
+      - √aś 1, 9 (eat)
+    - Pāṇinīya Dhātupāṭha:
+      - aś a bhojane (eating)
+    - verbs
+    - pr
+      - asati 3
+- √vā
+  - √･1 bhūvādigaṇa +a (blow, emit odour)
+    - Bases:
+      - vā, vāya, bā (irreg), vāpe (caus), vāya (pass), bāya (pass, irreg), bāpe (caus, irreg), bāpaya (caus, irreg), nibbāhi (fut, irreg)
+    - Dhātupātha:
+      - vā gamane (going) #372
+    - Dhātumañjūsa:
+      - vā gati-gandhanesu (going and emitting odour) #599
+    - Saddanīti:
+      - vā gati-gandhanesu (going and spreading odour)
+    - Sanskrit Root:
+      - √vā 2 (blow)
+    - Pāṇinīya Dhātupāṭha:
+      - vā gati-gandhanayoḥ (going and spreading odour)
+    - verbs
+    - pr
+      - nibbāti 1, nibbāti 2, parinibbāti 1, parinibbāti 2, pavāti, sampavāti, vāti 1
+    - pr caus
+      - nibbāpeti 1, paṭivāpeti, parinibbāpeti 1, parinibbāpeti 2
+    - pr pass
+      - upavāyati, nibbāyati, parinibbāyati 1, parinibbāyati 2, pavāyati, vāyati 1, vāyati 2
+- √chid
+  - √･2 rudhādigaṇa +ṃa (cut, steal)
+    - Bases:
+      - chede, chinda, chede (caus), chinde (caus), chijja (pass), cicched (perf), chedāpe (caus), chinna (irreg), chindīya (pass), chindāpe (caus), checcha (intens), chedāpaya (caus), ccheccha (intens), chejja (caus, pass), ccheccha (fut, irreg), chindāpīya (caus, pass)
+    - Root in Compounds:
+      - cchid
+    - Dhātupātha:
+      - chida dvedhākaraṇe (making into two) #382
+    - Dhātumañjūsa:
+      - chidi dvedhākaraṇe (making into two) #615
+    - Saddanīti:
+      - chidi dvedhākaraṇe (making into two)
+    - Sanskrit Root:
+      - √chid 7, 9 (cut off)
+    - Pāṇinīya Dhātupāṭha:
+      - chid ir dvaidhīkaraṇe (making into two)
+    - verbs
+    - pr
+      - acchindati 1, ucchindati, upacchindati, chindati 1, chindati 2, chindati 3, sañchindati 1, samucchindati 1, samucchindati 2
+    - pr caus
+      - acchindāpeti, chedāpeti
+    - pr pass
+      - ucchijjati, chijjati 1, chijjati 2, chijjati 3, vocchijjati
+- √khip
+  - √･1 bhūvādigaṇa +a (sneeze)
+    - Base:
+      - khipa
+    - Dhātupātha:
+      - -
+    - Dhātumañjūsa:
+      - -
+    - Saddanīti:
+      - khipa abyattasadde (inarticulate sound)
+    - Sanskrit Root:
+      - √kṣu 2 (sneeze)
+    - Pāṇinīya Dhātupāṭha:
+      - -
+    - verbs
+    - pr ●
+      - khipati 2
+  - √･1 bhūvādigaṇa +a (throw)
+    - Bases:
+      - khipa, khepe (caus), khippa (pass), khipīya (pass), khipāpe (caus), khepaya (caus), khipiya (pass), khipiyya (pass, irreg)
+    - Root in Compounds:
+      - kkhip
+    - Dhātupātha:
+      - -
+    - Dhātumañjūsa:
+      - -
+    - Saddanīti:
+      - khipa chaḍḍano (throwing away)
+    - Sanskrit Root:
+      - √kṣip 6 (throw)
+    - Pāṇinīya Dhātupāṭha:
+      - -
+    - verbs
+    - pr
+      - ukkhipati 1, ukkhipati 2, khipati 1, nikkhipati 1, nikkhipati 2, nikkhipati 3, pakkhipati 1, pakkhipati 2, vikkhipati
+- √tar
+  - √･1 bhūvādigaṇa +a (cross)
+    - Bases:
+      - tara, tāre (caus), thara (irreg), tārāpe (caus), tāraya (caus), tare (caus, irreg), tāriya (caus, pass), thāre (caus, irreg), taraya (caus, irreg)
+    - Dhātupātha:
+      - tara taraṇe (crossing) #241
+    - Dhātumañjūsa:
+      - tara taraṇasmiṃ (crossing over) #344
+    - Saddanīti:
+      - tara plavana-taraṇesu (floating and crossing)
+    - Sanskrit Root:
+      - √tṝ √tṛ 1 (pass)
+    - Pāṇinīya Dhātupāṭha:
+      - tṝ plavana-taraṇayoḥ (swimming and crossing)
+    - verbs
+    - pr
+      - uttarati, otarati 1, otarati 2, tarati 1, nittharati, paccuttarati, patarati, vitarati 1, vitarati 2
+    - pr caus
+      - otāreti 1, otāreti 2, otāreti 3, tāreti, patāreti, santāreti
+  - √･1 bhūvādigaṇa +a (hurry)
+    - Bases:
+      - tara, thara, thara (irreg), taraya (caus, irreg)
+    - Root in Compounds:
+      - tar or ttar
+    - Dhātupātha:
+      - -
+    - Dhātumañjūsa:
+      - -
+    - Saddanīti:
+      - tara sambhame (being unstable)
+    - Sanskrit Root:
+      - √tvar 1 (hasten)
+    - Pāṇinīya Dhātupāṭha:
+      - ñi tvar ā saṃbhrame (hurrying)
+    - verbs
+    - pr
+      - abhittharati
+    - pr caus
+      - tarayati
+- √han
+  - √･1 bhūvādigaṇa +a (strike, kill)
+    - Bases:
+      - hana, hañña (pass), hanāpe (caus), hañcha (fut, irreg), haṅkha (fut, irreg)
+    - Dhātupātha:
+      - hana hiṃsāyaṃ (injuring, killing) #363
+    - Dhātumañjūsa:
+      - hana hiṃsā-gatīsu (harming and going) #590
+    - Saddanīti:
+      - hana hiṃsāgatīsu (hurting and going)
+    - Sanskrit Root:
+      - √han 1, 2 (smite)
+    - Pāṇinīya Dhātupāṭha:
+      - han a hiṃsā-gatyaḥ (hurting and going)
+    - verbs
+    - pr
+      - abhinihanati, ūhanati 1, ūhanati 2, ohanati 1, paṭihanati 1, samūhanati 1, vihanati, hanati 1, hanati 2, hanti 1, hanti 2
+    - pr pass
+      - upahaññati, ūhaññati, paṭihaññati 1, vihaññati 1, vihaññati 2, haññati 1, haññati 2
+- √bhaj
+  - √･1 bhūvādigaṇa +a (associate, keep company)
+    - Base:
+      - bhaja
+    - Dhātupātha:
+      - bhaja sevāyaṃ (associating) #61
+    - Dhātumañjūsa:
+      - bhaja saṃsevane (associating) #76
+    - Saddanīti:
+      - bhaja sevāyaṃ (associating, serving)
+    - Sanskrit Root:
+      - √bhaj 1 (divide, share)
+    - Pāṇinīya Dhātupāṭha:
+      - bhaj a sevāyām (associating)
+    - verbs
+    - pr
+      - bhajati 1, bhajati 2, bhajati 3
+  - √･1 bhūvādigaṇa +a (divide, distribute)
+    - Bases:
+      - bhaja, bhāje (caus), bhajiya (pass), bhājāpe (caus), bhājaya (caus), bhāgāya (deno), bhaje (caus, irreg), bhajje (caus, pass), bhājīya (caus, pass), bhājiya (caus, pass)
+    - Dhātupātha:
+      - -
+    - Dhātumañjūsa:
+      - bhaja sevā-puthakkāre (serving and seperating) #523
+    - Saddanīti:
+      - -
+    - Sanskrit Root:
+      - √bhaj 1 (divide, share)
+    - Pāṇinīya Dhātupāṭha:
+      - -
+    - verbs
+    - pr
+      - ubbhajati, bhajati 4, saṃvibhajati, vibhajati 1
+    - pr caus
+      - bhājayati, bhājāpeti
+    - pr caus & pass
+      - vibhajjeti
+- √sam
+  - √･3 divādigaṇa +ya (exert, strive)
+    - Base:
+      - -
+    - Root in Compounds:
+      - ssam
+    - Dhātupātha:
+      - sama upasama-khedesu (calmness and fatigue) #436
+    - Dhātumañjūsa:
+      - samu upasama-khedesu (calmness and fatigue) #677
+    - Saddanīti:
+      - samu khede nirodhe ca (fatigue and cessation)
+    - Sanskrit Root:
+      - √śram 1, 4 (be weary)
+    - Pāṇinīya Dhātupāṭha:
+      - śram u tapasi khede ca (austerity and cessation)
+    - nouns
+    - masc
+      - asamaṇa, assamaṇa 1, assamaṇa 2, samaṇaka, samaṇa 1, samaṇa 2, sāmaṇera, susamaṇa
+    - fem
+      - asāmaññatā, assamaṇī, samaṇī, sāmaññatā 1, sāmaṇerikā, sāmaṇerī
+    - nt
+      - sāmañña 1, sāmañña 4
+  - √･3 divādigaṇa +ya (be calm, tired)
+    - Bases:
+      - sāme (caus), same (caus), samma (pass), sama (irreg), sāmaya (caus), samaya (caus)
+    - Dhātupātha:
+      - sama upasama-khedesu (calmness and fatigue) #436
+    - Dhātumañjūsa:
+      - samu upasama-khedesu (calmness and fatigue) #677
+    - Saddanīti:
+      - samu upasame (peace, calmness)
+    - Sanskrit Root:
+      - √śam 4 (be quiet)
+    - Pāṇinīya Dhātupāṭha:
+      - śam u upaśame (being calm or quiet)
+    - verbs
+    - pr caus
+      - upasameti, nisāmeti, paṭisāmeti, sameti 1, vūpasameti 1, vūpasameti 2
+    - pr pass
+      - upasammati 1, upasammati 2, sammati 1, vūpasammati 1
+- √vis
+  - √･1 bhūvādigaṇa +a (enter)
+    - Bases:
+      - visa, vese (caus), bisa (irreg), vesaya (caus), vesiya (caus, pass), vekkha (fut, irreg)
+    - Dhātupātha:
+      - visa pavesane (entering) #492
+    - Dhātumañjūsa:
+      - visa pavesa-pharaṇe (entering and pervading) #572
+    - Saddanīti:
+      - visa pavesane (entering)
+    - Sanskrit Root:
+      - √viś 6 (enter)
+    - Pāṇinīya Dhātupāṭha:
+      - viś a praveśane (entering, penetrating)
+    - verbs
+    - pr
+      - anupavisati, anvāvisati, nivisati, pavisati
+    - pr caus
+      - nappaveseti, nābhiniveseti, nivesayati, niveseti, paveseti 1, paveseti 2, paveseti 3
+  - √･1 bhūvādigaṇa +a (be active, serve)
+    - Bases:
+      - visa, visāpe (caus)
+    - Dhātupātha:
+      - -
+    - Dhātumañjūsa:
+      - visa pavesa-pharaṇe (entering and pervading) #572
+    - Saddanīti:
+      - visu secane (sprinkling, pouring)
+    - Sanskrit Root:
+      - √viṣ 1, 3 (be active)
+    - Pāṇinīya Dhātupāṭha:
+      - viṣ u secane (emitting)
+    - verbs
+    - pr
+      - parivisati
+
+# group 3
+- √ram
+  - √･1 bhūvādigaṇa +a (delight, please)
+    - Bases:
+      - rama, rāme (caus), ramāpe (caus), rame (caus, irreg)
+    - Dhātupātha:
+      - rama kīḷāyaṃ (enjoying) #224
+    - Dhātumañjūsa:
+      - ramu kīḷāyaṃ (playing, enjoying) #318
+    - Saddanīti:
+      - ramu kīḷāyaṃ (enjoying)
+    - Sanskrit Root:
+      - √ram 1 (be or make content)
+    - Pāṇinīya Dhātupāṭha:
+      - ram a krīḍāyāṃ (enjoying oneself, playing)
+    - verbs
+    - pr
+      - abhiramati, nābhiramati, ramati
+    - pr caus
+      - rameti
+  - √･1 bhūvādigaṇa +a (stop, abstain)
+    - Base:
+      - rama
+    - Dhātupātha:
+      - -
+    - Dhātumañjūsa:
+      - -
+    - Saddanīti:
+      - -
+    - Sanskrit Root:
+      - √ram 1 (be or make content)
+    - Pāṇinīya Dhātupāṭha:
+      - -
+    - verbs
+    - pr
+      - āramati, uparamati, paṭiviramati, viramati
+- √dhar
+  - √･8 curādigaṇa + e, aya (wear, hold, carry)
+    - Bases:
+      - dhāre, dhāraya, dhāriya (pass), dhārīya (pass)
+    - Dhātupātha:
+      - dhara dhārane (carrying) #608
+    - Dhātumañjūsa:
+      - dhara dhāraṇe (bearing, carrying) #850
+    - Saddanīti:
+      - dhara dhāraṇe (bearing)
+    - Sanskrit Root:
+      - √dhṛ 1 (hold)
+    - Pāṇinīya Dhātupāṭha:
+      - dhṛ ñ dhāraṇe (holding)
+    - verbs
+    - pr
+      - avadhāreti, upadhārayati, upadhāreti 1, upadhāreti 2, dhārayati 1, dhārayati 2, dhārayati 3, dhārayati 4, dhāreti 1, dhāreti 2, dhāreti 3, dhāreti 4, dhāreti 5, dhāreti 6, niddhāreti, sandhāreti
+    - pr pass
+      - dhārīyati
+  - √･1 bhūvādigaṇa + a (hold, carry, endure)
+    - Bases:
+      - dhara, dharāpe (caus), dhariya (pass)
+    - Dhātupātha:
+      - dhara dhāraṇe (supporting, maintaining) #246
+    - Dhātumañjūsa:
+      - dhara dhāraṇamhi (sustaining) #355
+    - Saddanīti:
+      - dhara avatthāne (continuing)
+    - Sanskrit Root:
+      - √dhṛ 1 (hold)
+    - Pāṇinīya Dhātupāṭha:
+      - dhṛ ṅ avasthāne (standing, being stable)
+    - verbs
+    - pr
+      - uddharati 1, uddharati 2, uddharati 3, uddharati 4, dharati, paccuddharati, samuddharati
+    - pr caus
+      - uddharāpeti
+    - pr pass
+      - uddhariyati
+- √ar
+  - √･1 bhūvādigaṇa + a (move, attain)
+    - Bases:
+      - ariya (pass), iccha (irreg), appe (caus, irreg), appaya (caus, irreg)
+    - Dhātupātha:
+      - ara gamane (going) #253
+    - Dhātumañjūsa:
+      - ara nāse gate ca (destroying and going) #365
+    - Saddanīti:
+      - ara gatiyaṃ (going)
+    - Sanskrit Root:
+      - √ṛ 1 (go, send)
+    - Pāṇinīya Dhātupāṭha:
+      - ṛ gati-prāpaṇayoḥ (going and leading to)
+    - verbs
+    - pr
+      - aticchati, icchati 2, icchati 3
+    - pr caus
+      - appayati 1, appayati 2, appeti 1, appeti 2
+    - pr pass
+      - ariyati
+    - nouns
+    - masc
+      - aṭṭha 2, aṭṭha 4, aṭṭhi 2, aṇṇava, attha 01, attha 02, attha 03, attha 04, attha 05, atthāya 1, atthāya 2, anattha, anatthāya, āraññika, paccatthika 2, sattha 1, satthika, supaccatthika
+- √ikkh
+  - √･1 bhūvādigaṇa + a (see, mark)
+    - Bases:
+      - ikkha, ikkhāpe (caus)
+    - Dhātupātha:
+      - ikkha dassane (seeing) #15
+    - Dhātumañjūsa:
+      - ikkho dassana-aṃkesu (seeing and marking) #19
+    - Saddanīti:
+      - ikkha dassan-aṅkesu (seeing and marking)
+    - Sanskrit Root:
+      - √īkṣ 1 (see)
+    - Pāṇinīya Dhātupāṭha:
+      - īkṣ a darśane (seeing, looking at)
+    - verbs
+    - pr
+      - ajjhupekkhati, ajjhūpekkhati, anupekkhati, apekkhati, apekhati, avekkhati 1, avekkhati 2, ikkhati, udikkhati, upaparikkhati, upekkhati, paccavekkhati, parikkhati, pekkhati 1, pekkhati 2, samapekkhati, samavekkhati, samekkhati, vipekkhati
+- √nam
+  - √･1 bhūvādigaṇa + a (bend)
+    - Bases:
+      - ṇama, nama, nāme (caus), namaya (caus), nāmaya (caus), ṇame (caus, irreg), name (caus, irreg), ṇāme (caus, irreg)
+    - Dhātupātha:
+      - name namane (bending) #225
+    - Dhātumañjūsa:
+      - name name (bending) #320
+    - Saddanīti:
+      - namu namane (bending, inclining)
+    - Sanskrit Root:
+      - √nam 1 (bend, bow)
+    - Pāṇinīya Dhātupāṭha:
+      - ṇam a prahvatve śabde ca (inclining and making sound)
+    - verbs
+    - pr
+      - apanamati, abbhunnamati, abhinamati, uṇṇamati, unnamati, upanamati, onamati, namati 1, namati 2, paṇamati 1, paṇamati 2, pariṇamati, vipariṇamati
+    - pr caus
+      - atināmayati 1, atināmayati 2, atināmeti 1, atināmeti 2, apanāmeti 1, apanāmeti 2, abbhunnameti, abbhunnāmeti, abhininnāmeti 1, abhininnāmeti 2, uṇṇameti, unnameti, unnāmeti, upanāmayati, upanāmeti, onameti, onāmeti, namayati, nameti, nātināmeti, nāmeti, ninnāmayati, ninnāmeti, paṭippaṇāmeti, paṇāmeti, pariṇāmeti 1, pariṇāmeti 2, sannāmeti 1, sannāmeti 2, vināmeti, vipariṇāmeti, vītināmeti 1, vītināmeti 2, vītināmeti 3
+- √vac
+  - √･1 bhūvādigaṇa + a (say, speak)
+    - Bases:
+      - vaca, vāce (caus), voca (irreg), vācaya (caus), pāce (caus, irreg), ucca (pass, irreg), vakkha (fut, irreg), vucca (pass, irreg), vucciya (pass, irreg)
+    - Dhātupātha:
+      - vaca vyattavacane (speaking articulately) #36
+    - Dhātumañjūsa:
+      - vaca vyattavace (speaking clearly) #42
+    - Saddanīti:
+      - vaca viyattiyaṃ vācāyaṃ (articulate speech)
+    - Sanskrit Root:
+      - √vac 2, 3 (speak)
+    - Pāṇinīya Dhātupāṭha:
+      - vac a paribhāṣaṇe (speaking)
+    - verbs
+    - pr
+      - vacati
+    - pr caus
+      - anuvāceti, vāceti 1, vāceti 2, vipāceti
+    - pr pass
+      - uccati 1, uccati 2, pavuccati, vuccati, vuccare, vucciyati
+- √mud
+  - √･1 bhūvādigaṇa + *a (be soft, happy)
+    - Bases:
+      - moda, mode (caus), modaya (caus), muddāpe (deno, caus)
+    - Dhātupātha:
+      - muda tose (pleasing) #146
+    - Dhātumañjūsa:
+      - muda santose (being pleased) #209
+    - Saddanīti:
+      - muda hāse (laughing)
+    - Sanskrit Root:
+      - √mud 1 (be merry)
+    - Pāṇinīya Dhātupāṭha:
+      - mud a haṛse (laughing)
+    - verbs
+    - pr
+      - anumodati 1, anumodati 2, abbhanumodati, abhippamodati, āmodati, nābbhanumodati, paṭisammodati, pamodati, modati, samanumodati, sammodati
+    - pr caus
+      - anumodeti, āmodayati, āmodeti
+- √jhā
+  - √･3 divādigaṇa + ya (think, meditate)
+    - Bases:
+      - jhāya, jhā (irreg), jhe (irreg), jhāpe (caus), jhāpaya (caus)
+    - Root in Compounds:
+      - jjhā
+    - Dhātupātha:
+      - jhā cintāyaṃ (thinking, considering) #401
+    - Dhātumañjūsa:
+      - jhā vicintane (thinking, considering) #638
+    - Saddanīti:
+      - -
+    - Sanskrit Root:
+      - √dhyai √dhyā 2, 4 (think)
+    - Pāṇinīya Dhātupāṭha:
+      - -
+    - verbs
+    - pr
+      - ajjheti, apajjhāyati, abhijjhati, abhijjhāyati, avajjhāyati, avajhāyati, ujjhayati, ujjhāyati, upanijjhāyati 1, upanijjhāyati 2, jhāyati 1, jhāyati 2, jhāyati 3, nājjheti, nābhijjhati, nijjhāyati 1, nijjhāyati 2, pajjhāyati, sampajjhāyati
+    - pr caus
+      - ujjhāpayati, ujjhāpeti, nijjhāpeti
+- √pā
+  - √･1 bhūvādigaṇa + a (protect, guard)
+    - Base:
+      - pā
+    - Dhātupātha:
+      - pā rakkhaṇe (protecting, guarding) #365
+    - Dhātumañjūsa:
+      - pā rakkhaṇamhi (protecting, guarding) #591
+    - Saddanīti:
+      - pā rakkhaṇe (protecting)
+    - Sanskrit Root:
+      - √pā 2 (protect)
+    - Pāṇinīya Dhātupāṭha:
+      - pā rakṣaṇe (guarding, watching)
+    - verbs
+    - pr
+      - pāti 2
+  - √･1 bhūvādigaṇa + a (drink)
+    - Bases:
+      - pāye (caus), pāya (caus), pīya (pass), piva (irreg), pipa (irreg), piba (irreg), peyya (pass, irreg), piyya (pass, irreg), pivāsa (desid, irreg), pipāsa (desid, irreg)
+    - Dhātupātha:
+      - pā pāne (drinking) #364
+    - Dhātumañjūsa:
+      - pā pāne (drinking) #592
+    - Saddanīti:
+      - pā pāne (drinking)
+    - Sanskrit Root:
+      - √pā 1 (drink)
+    - Pāṇinīya Dhātupāṭha:
+      - pā pāne (drinking)
+    - verbs
+    - pr
+      - āpivati, pipati, pibati, pivati
+    - pr caus
+      - pāyeti
+    - pr pass
+      - piyyati, pīyati
+- √mad
+  - √･3 divādigaṇa + ya (be mad, intoxicated)
+    - Bases:
+      - māde (caus), majja (pass), madaya (caus), made (caus, irreg)
+    - Dhātupātha:
+      - mada ummāde (being mad, distracted) #412
+    - Dhātumañjūsa:
+      - mada ummāde (being mad, distracted) #642
+    - Saddanīti:
+      - mada ummāda (being mad)
+    - Sanskrit Root:
+      - √mad 1, 2, 3, 4 (be exhilarated)
+    - Pāṇinīya Dhātupāṭha:
+      - mad ī harṣe (being happy)
+    - verbs
+    - pr caus
+      - nimmadeti, nimmādeti
+    - pr pass
+      - nappamajjati 1, nappamajjati 2, pamajjati, majjati 1, majjati 2
+    - nouns
+    - masc
+      - appamāda, ummattaka 1, ummāda, nāppamāda, pamāda, madana 1, mada 1, mada 2, mada 3, madāya, manda 2, mandiya 2, sammada 1, sammada 2
+- √ci
+  - √･5 kiyādigaṇa + nā (gather, accumulate)
+    - Bases:
+      - cinā, chinā, ciya (pass), cīya (pass), caya (caus), cina (irreg), cināpe (caus), che (caus, irreg), cessa (fut, irreg)
+    - Dhātupātha:
+      - ci caye (collecting, accumulating) #496
+    - Dhātumañjūsa:
+      - ci caye (accumulating) #716
+    - Saddanīti:
+      - ci caye (accumulating)
+    - Sanskrit Root:
+      - √ci 1, 2, 5 (gather)
+    - Pāṇinīya Dhātupāṭha:
+      - ci ñ cayane (piling up)
+    - verb
+    - pr
+      - anucināti, anuvicināti, apacināti, ācināti, uccinati, uccināti, upacināti, ocinati, ocināti, cināti, nicchināti, pacināti, pavicinati, sañcināti, vicināti 1, vicināti 2, vicināti 3, vicināti 4, vinicchināti
+    - pr caus
+      - ocināpeti, pavicayati, viniccheti
+    - pr pass
+      - ācīyati, upacīyati, cīyati, nopacīyati, pacīyati
+  - √･5 kiyādigaṇa + nā (note, observe)
+    - Base:
+      - cina (irreg)
+    - Dhātupātha:
+      - -
+    - Dhātumañjūsa:
+      - -
+    - Saddanīti:
+      - -
+    - Sanskrit Root:
+      - √ci 1, 3, 5 (note, observe)
+    - Pāṇinīya Dhātupāṭha:
+      - -
+    - verbs
+    - pr
+      - apacinati 1, apacinati 2
+- √vaj
+  - √･1 bhūvādigaṇa + a (go on)
+    - Bases:
+      - vaja, vāje (caus), baja (irreg), bāje (caus, irreg), bājaya (caus, irreg)
+    - Root in Compounds:
+      - vaj or vvaj
+    - Dhātupātha:
+      - vaja gamane (going) #59
+    - Dhātumañjūsa:
+      - vaja gamane (going on) #71
+    - Saddanīti:
+      - vaja gatiyaṃ (going)
+    - Sanskrit Root:
+      - √vraj 1 (proceed)
+    - Pāṇinīya Dhātupāṭha:
+      - vaj a
+      - vraj a gatau
+      - gatau (going
+      - going)
+    - verbs
+    - pr
+      - anupabbajati, abbajati, upabbajati, uppabbajati, pabbajati, paribbajati 1, paribbajati 2, vajati
+    - pr caus
+      - uppabbājeti, pabājeti, pabbājeti 1, pabbājeti 2
+- √ap
+  - √･4 svādigaṇa + ṇo, uṇā (reach, attain)
+    - Bases:
+      - appo, apuṇā, āpe (caus), āpaya (caus)
+    - Dhātupātha:
+      - apa pāpuṇane (reaching, attaining) #511
+    - Dhātumañjūsa:
+      - apa pāpuṇane (reaching, attaining) #711
+    - Saddanīti:
+      - apa pāpuṇe (reaching, attaining)
+    - Sanskrit Root:
+      - √āp 5 (obtain)
+    - Pāṇinīya Dhātupāṭha:
+      - -
+    - verbs
+    - pr
+      - anupāpuṇāti 1, anupāpuṇāti 2, nānupāpuṇāti, pappoti, pariyāpuṇāti, pāpuṇāti 1, pāpuṇāti 2, pāpuṇāti 3, sampāpuṇāti
+    - pr caus
+      - anupāpeti, āpeti, pāpeti, samappeti, samāpeti, vyāpeti
+- √pucch
+  - √･1 bhūvādigaṇa + a (ask, question)
+    - Bases:
+      - puccha, pucchīya (pass), pucchiya (pass)
+    - Dhātupātha:
+      - puccha pucchane (questioning) #49
+    - Dhātumañjūsa:
+      - puccha sampucchane (asking, questioning) #61
+    - Saddanīti:
+      - puccha pañhe (questioning)
+    - Sanskrit Root:
+      - √prach 6 (ask)
+    - Pāṇinīya Dhātupāṭha:
+      - prach jñīpsāyāṃ (asking for information)
+    - verbs
+    - pr
+      - anupucchati, abhipucchati, āpucchati, paṭipucchati, paripucchati, pucchati, sampucchati
+- √vid
+  - √･2 rudhādigaṇa + ṃa (feel, like)
+    - Bases:
+      - vinda, binda (irreg), bijja (pass, irreg)
+    - Dhātupātha:
+      - -
+    - Dhātumañjūsa:
+      - -
+    - Saddanīti:
+      - vida tuṭṭhiyaṃ (liking)
+    - Sanskrit Root:
+      - √vid 2, 6 (find)
+    - Pāṇinīya Dhātupāṭha:
+      - -
+    - verbs
+    - pr
+      - nibbindati 1, nibbindati 2, vindati 2
+    - pr pass
+      - abhinibbijjati, nibbijjati
+  - √･1 bhūvādigaṇa + a (know)
+    - Bases:
+      - vede (caus), vedaya (caus), vediya (caus, pass)
+    - Dhātupātha:
+      - vida ñāṇe (knowing) #476
+    - Dhātumañjūsa:
+      - vida jānane (knowing) #534
+    - Saddanīti:
+      - vida ñāṇe (knowing)
+    - Sanskrit Root:
+      - √vid 1, 2, 6 (know)
+    - Pāṇinīya Dhātupāṭha:
+      - vid a jñāne (knowing)
+    - verbs
+    - pr
+      - vidati
+    - pr caus
+      - nivedeti, paṭivedayati, paṭivedeti, pavedayati, pavedeti
+  - √･3 divādigaṇa + ya (know, understand)
+    - Bases:
+      - vijja, vijjiya (pass)
+    - Dhātupātha:
+      - -
+    - Dhātumañjūsa:
+      - vida sattā-vicinante (being and distinguishing) #647
+    - Saddanīti:
+      - -
+    - Sanskrit Root:
+      - √vid 1, 2, 6 (know)
+    - Pāṇinīya Dhātupāṭha:
+      - -
+    - verbs
+    - pr
+      - anuvijjati
+  - √･8 curādigaṇa + e, aya (know, sense, feel)
+    - Bases:
+      - vede, vedaya, vediya (irreg)
+    - Dhātupātha:
+      - vida ñāṇe (knowing) #584
+    - Dhātumañjūsa:
+      - vida ñāṇe (knowing) #817
+    - Saddanīti:
+      - vida cehanā-ākhyāna-nivāsesu (perceiving, naming and living)
+    - Sanskrit Root:
+      - √vid 1, 2, 6 (know)
+    - Pāṇinīya Dhātupāṭha:
+      - vid a cetana-ākhyāna- nivāseṣu (perceiving, telling and living)
+    - verbs
+    - pr
+      - nappaṭisaṃvedeti, paṭisaṃvedayati, paṭisaṃvediyati, paṭisaṃvedeti, vedayati 1, vedayati 2, vediyati, vedīyati 1, vedīyati 2, vedeti 1, vedeti 2
+- √tap
+  - √･1 bhūvādigaṇa + a (burn, radiate heat)
+    - Bases:
+      - tapa, tāpe (caus), tappa (pass), tāpaya (caus), tape (caus, irreg)
+    - Dhātupātha:
+      - tapa santāpe (heating, burning) #182
+    - Dhātumañjūsa:
+      - tapa santāpe (heating, burning) #262
+    - Saddanīti:
+      - tapa santāpe (heating)
+    - Sanskrit Root:
+      - √tap 1 (heat)
+    - Pāṇinīya Dhātupāṭha:
+      - tap a saṃtāpe (heating, burning)
+    - verbs
+    - pr
+      - abhitapati, ātapati, tapati 1, tapati 2, nānutapati, patapati
+    - pr caus
+      - abhisantāpayati, abhisantāpeti, ātāpeti 1, ātāpeti 2, uttāpeti, upatāpeti, otāpayati, otāpeti, tapeti, tāpayati, tāpeti, patāpeti, patāyati, paritāpeti 1, paritāpeti 2, santāpeti 1, santāpeti 2, samparitāpeti 1, samparitāpeti 2, saṃparitāpeti
+    - pr pass
+      - otappati, tappati 1, santappati 1
+- √bhid
+  - √･2 rudhādigaṇa + ṃa (break, split)
+    - Bases:
+      - bhinda, bhede (caus), bhijja (pass), bhedāpe (caus), bhedaya (caus), bhejja (caus, pass), bheccha (fut, irreg)
+    - Dhātupātha:
+      - bhida vidāraṇe (splitting) #381
+    - Dhātumañjūsa:
+      - bhida vidāraṇe (splitting, breaking apart) #616
+    - Saddanīti:
+      - bhidi vidāraṇe (splitting, tearing)
+    - Sanskrit Root:
+      - √bhid 1, 7 (split)
+    - Pāṇinīya Dhātupāṭha:
+      - bhid ir vidāraṇe (tearing, breaking, splitting)
+    - verbs
+    - pr
+      - ābhindati, ubbhindati, pabhindati, paribhindati, bhindati 1, bhindati 2, bhindati 3, bhindati 4, sambhindati 1, sambhindati 2, vobhindati
+    - pr caus
+      - bhedāpeti 1, bhedāpeti 2, bhedeti
+    - pr caus & pass
+      - bhejjati
+- √mant
+  - √･8 curādigaṇa + e, aya (counsel, invite)
+    - Bases:
+      - mante, mantaya, mantāpe (caus), mantiya (pass)
+    - Dhātupātha:
+      - manta guttabhāsane (speaking confidentially) #578
+    - Dhātumañjūsa:
+      - manta guttabhāsana-jānane (speaking confidentially and recognizing) #810
+    - Saddanīti:
+      - manta guttabhāsane (guarded speaking)
+    - Sanskrit Root:
+      - √mantr 10 (speak)
+    - Pāṇinīya Dhātupāṭha:
+      - mantr i guptaparibhāṣaṇe (confidential speaking)
+    - verbs
+    - pr
+      - abhinimanteti, āmantayati 1, āmantayati 2, āmanteti, nimanteti, paṭimanteti, mantayati, manteti, sammantayati, sammanteti
+    - pr caus
+      - āmantāpeti
+- √vah
+  - √･1 bhūvādigaṇa + a (carry, bring)
+    - Bases:
+      - vaha, vāhe (caus), baha (irreg), bāha (irreg), vayha (pass), vahā (irreg), vāhāpe (caus), bāhe (caus, irreg), buyha (pass, irreg), vuyha (pass, irreg), bāhāpe (caus, irreg), vāhape (caus, irreg), vahāpe (caus, irreg)
+    - Dhātupātha:
+      - vaha pāpuṇane (reaching, attaining) #333
+    - Dhātumañjūsa:
+      - vaha pāpuṇane (reaching, attaining) #498
+    - Saddanīti:
+      - vaha pāpuṇe (arriving at)
+    - Sanskrit Root:
+      - √vah 1 (carry)
+    - Pāṇinīya Dhātupāṭha:
+      - vah a prāpaṇe (leading to)
+    - verbs
+    - pr
+      - adhivahati, apavahati, āvahati 1, āvahati 2, āvahāti, udabbahati, ubbahati, nibbahati, nibbāhati, pabbāhati, parisambāhati, samāvahati, samubbahati, sambāhati, vahati 1, vahati 2, vahati 3, vahati 4
+    - pr caus
+      - āvahāpeti, ubbāhapeti, ubbāhāpeti, ubbāheti, pavāheti 1, pavāheti 2, sambāhāpeti, sambāheti, vāheti 1, vāheti 2
+    - pr pass
+      - ovuyhati, nibbuyhati, nivuyhati, vuyhati
+- √budh
+  - √budh･3 divādigaṇa + ya (know, wake up)
+    - Bases:
+      - bujjha, bodhe (caus), bojjha (irreg), buddha (irreg), bodha (caus, irreg)
+    - Dhātupātha:
+      - budha avagamane (understanding) #414
+    - Dhātumañjūsa:
+      - budha avagaman-ādīsu (knowing and other meanings) #652
+    - Saddanīti:
+      - budha avagamane (understanding)
+    - Sanskrit Root:
+      - √budh 4, 1 (know, wake)
+    - Pāṇinīya Dhātupāṭha:
+      - budh a avagamane (understanding)
+    - verbs
+    - pr
+      - anubujjhati 1, anubujjhati 2, abhisambujjhati 1, abhisambujjhati 2, abhisambojjhati, avabujjhati, nappabujjhati 1, nappabujjhati 2, nāvabujjhati, paṭibujjhati 1, paṭibujjhati 2, pabujjhati, bujjhati, sambujjhati
+    - pr caus
+      - apabodhati, apabodheti, avabodheti, nibodheti, pabodheti, bodheti, sambodheti
+
+# group 4
+- √ās
+  - √･1 bhūvādigaṇa + a (sit)
+    - Bases:
+      - āsa, āse (caus), accha (irreg), acche (caus, irreg)
+    - Dhātupātha:
+      - āsa upavesane (sitting) #299
+    - Dhātumañjūsa:
+      - āsa upasevane (sitting) #470
+    - Saddanīti:
+      - āsa upavesane (sitting)
+    - Sanskrit Root:
+      - √ās 2 (sit)
+    - Pāṇinīya Dhātupāṭha:
+      - ās a upaveśane (sitting down)
+    - verbs
+    - pr
+      - acchati 1, acchati 2, āsati, upāsati, payirupāsati 1, payirupāsati 2, samāsati
+    - pr caus
+      - accheti, samāseti
+- √bandh
+  - √･1 bhūvādigaṇa + a (bind, tie)
+    - Bases:
+      - bandha, bandhāpe (caus)
+    - Dhātupātha:
+      - -
+    - Dhātumañjūsa:
+      - bandha bandhane (binding) #248
+    - Saddanīti:
+      - bandha bandhane (binding)
+    - Sanskrit Root:
+      - √bandh 9 (bind)
+    - Pāṇinīya Dhātupāṭha:
+      - badh a bandhane (tying, binding)
+    - verbs
+    - pr
+      - anuppabandhati, anubandhati, ābandhati, upanibandhati 1, upanibandhati 2, ubbandhati, nānubandhati, nibandhati 1, nibandhati 2, paṭibandhati, pabandhati, bandhati 1, bandhati 2, bandhati 3, bandhati 4, bandhati 5, bandhati 6, sambandhati
+    - pr caus
+      - bandhāpeti
+- √mar
+  - √･1 bhūvādigaṇa + a (die)
+    - Bases:
+      - mara, māre (caus), mārāpe (caus), māpe (caus, irreg), mīya (pass, irreg), māriya (caus, pass), miyya (pass, irreg), māpaya (caus, irreg)
+    - Dhātupātha:
+      - mara pāṇacāge (giving up life) #245
+    - Dhātumañjūsa:
+      - mara pāṇacāge (abandoning life) #357
+    - Saddanīti:
+      - mara pāṇacāge (giving up life)
+    - Sanskrit Root:
+      - √mṛ 1 (die)
+    - Pāṇinīya Dhātupāṭha:
+      - mṛ ṅ prāṅatyāge (abandoning life)
+    - verbs
+    - pr
+      - marati
+    - pr caus
+      - atimāpeti, mārāpeti, māreti
+    - pr pass
+      - miyyati 1, miyyati 2, mīyati
+- √sī
+  - √･1 bhūvādigaṇa + a (lie, sleep)
+    - Bases:
+      - se, saya, sessa (fut), seyya (pass), sayāpe (caus), seya (pass, irreg)
+    - Dhātupātha:
+      - si saye (sleeping) #374
+    - Dhātumañjūsa:
+      - si saye (sleeping, lying down) #484
+    - Saddanīti:
+      - sī saye (sleeping)
+    - Sanskrit Root:
+      - √śī 1, 2 (lie)
+    - Pāṇinīya Dhātupāṭha:
+      - śī ṅ svapne (sleeping)
+    - verbs
+    - pr
+      - adhisayati, adhiseti, adhisseti 1, anusayati, anuseti 1, anuseti 2, nānuseti 1, nānuseti 2, sayati, sānuseti, seti 1, seti 2, seti 3
+    - pr caus
+      - sayāpeti
+    - pr pass
+      - seyati
+- √chad
+  - √･8 curādigaṇa + e, aya (cover, conceal)
+    - Bases:
+      - chāde, chādaya, chādāpe (caus), chādāpaya (caus), chāde (caus, pass)
+    - Root in Compounds:
+      - cchad
+    - Dhātupātha:
+      - chada saṃvaraṇe (covering, obstructing) #586
+    - Dhātumañjūsa:
+      - chada apavāraṇe (warding off, obstructing) #820
+    - Saddanīti:
+      - chada apavāraṇe (covering)
+    - Sanskrit Root:
+      - √chad 1 (cover)
+    - Pāṇinīya Dhātupāṭha:
+      - chad a apavāraṇe (covering, concealing)
+    - verbs
+    - pr
+      - acchādayati, acchādeti 1, ucchādeti, chādeti 1, chādeti 3, chādeti 4, paṭicchādeti, sañchādeti
+    - pr caus
+      - chādāpeti
+- √jīv
+  - √･1 bhūvādigaṇa + a (live)
+    - Base:
+      - jīva
+    - Dhātupātha:
+      - jīva pāṇadhāraṇe (supporting life) #282
+    - Dhātumañjūsa:
+      - jīva pāṇadhāraṇe (carrying life) #414
+    - Saddanīti:
+      - jīva pāṇadhāraṇe (supporting life)
+    - Sanskrit Root:
+      - √jīv 1 (live)
+    - Pāṇinīya Dhātupāṭha:
+      - jīv a prāṇadhāraṇe (supporting life)
+    - verbs
+    - pr
+      - anujīvati, ājīvati, upajīvati, jīvati 1, jīvati 2
+- √yam
+  - √･1 bhūvādigaṇa + a (support, stretch)
+    - Bases:
+      - yama, veccha (irreg)
+    - Dhātupātha:
+      - -
+    - Dhātumañjūsa:
+      - -
+    - Saddanīti:
+      - yama parivesane (attending, feeding)
+    - Sanskrit Root:
+      - √yam 1, 2 (reach)
+    - Pāṇinīya Dhātupāṭha:
+      - yam a apariveṣaṇe (not surrounding, attending)
+    - verbs
+    - pr
+      - anupavecchati, anuppavecchati, āyamati 1, āyamati 2, nānuppavecchati, pavecchati
+  - √･1 bhūvādigaṇa + a (control, strive, end)
+    - Bases:
+      - yama, yāme (caus), yāma (irreg), yamaya (caus), yame (caus, irreg)
+    - Dhātupātha:
+      - yama uparame (stopping) #226
+    - Dhātumañjūsa:
+      - yamu uparame nāse (stopping and death) #322
+    - Saddanīti:
+      - yamu uparame (ceasing, desisting)
+    - Sanskrit Root:
+      - √yam 1 (reach)
+    - Pāṇinīya Dhātupāṭha:
+      - yam a uparame (stopping, desisting)
+    - verbs
+    - pr
+      - uyyamati, byāyamati, byāyāmati, yamati, saṃyamati, vāyamati
+    - pr caus
+      - niyameti, saṃyamayati, saṃyameti
+- √sudh
+  - √･3 divādigaṇa + ya (be pure)
+    - Bases:
+      - sodhe (caus), sujjha (pass), sodhaya (caus), sodhāpe (caus), sodhīya (caus, pass), sujjhāpe (caus, pass)
+    - Dhātupātha:
+      - sudha soceyye (cleaning) #417
+    - Dhātumañjūsa:
+      - sudha soce (being clean) #655
+    - Saddanīti:
+      - sudha soceyye (being clean)
+    - Sanskrit Root:
+      - √śudh 4 (purify)
+    - Pāṇinīya Dhātupāṭha:
+      - śudh a śauce (being pure)
+    - verbs
+    - pr caus
+      - parisodheti, saṃsodheti, sodhayati, sodhāpeti, sodheti 1, sodheti 2, sodheti 3, visodhayati, visodheti
+    - pr pass
+      - parisujjhati, sujjhati, visujjhati
+- √pūr
+  - √･1 bhūvādigaṇa + a (fill, fulfil)
+    - Bases:
+      - pūra, pūre (caus), pūrāpe (caus), pūraya (caus)
+    - Dhātupātha:
+      - pūra pūraṇe (filling) #244
+    - Dhātumañjūsa:
+      - pūra pūraṇe (filling up) #366
+    - Saddanīti:
+      - pūra pūraṇe (filling)
+    - Sanskrit Root:
+      - √pṝ √pṛ 3, 6, 9 (fill)
+    - Pāṇinīya Dhātupāṭha:
+      - pṝ pālana-pūraṇayoḥ (filling)
+    - verbs
+    - pr
+      - abhipūrati, āpūrati, paripūrati, pūrati
+    - pr caus
+      - paripūrayati, paripūreti 1, paripūreti 2, paripūreti 3, pūrāpeti, pūreti 1, pūreti 2, pūreti 3, sampūreti
+- √nand
+  - √･1 bhūvādigaṇa + a (delight, enjoy)
+    - Base:
+      - nanda
+    - Dhātupātha:
+      - nanda samiddhiyaṃ (rejoicing) #136
+    - Dhātumañjūsa:
+      - nanda samiddhiyaṃ (being successful) #192
+    - Saddanīti:
+      - nanda samiddhiyaṃ (success, prosperity)
+    - Sanskrit Root:
+      - √nand 1 (rejoice)
+    - Pāṇinīya Dhātupāṭha:
+      - ṭu nad i samṛddhau (flourishing, being successful)
+    - verbs
+    - pr
+      - abhinandati 1, abhinandati 2, ānandati, nandati, nābhinandati 1, nābhinandati 2, paṭinandati
+- √cit
+  - √･8 curādigaṇa + e, aya (think, intend)
+    - Bases:
+      - cete, cetaya, cikiccha (desid)
+    - Dhātupātha:
+      - -
+    - Dhātumañjūsa:
+      - cita sañcetanādīsu (intending etc) #811
+    - Saddanīti:
+      - cita sañcetane (thinking, intending)
+    - Sanskrit Root:
+      - √cit √cint 1, 2, 3 (perceive, know, appear)
+    - Pāṇinīya Dhātupāṭha:
+      - cit a saṃcetane (thinking, intending)
+    - verbs
+    - pr
+      - abhisañcetayati, abhisañceteti, cetayati 1, cetayati 2, ceteti 1, ceteti 2, sañceteti
+  - √･1 bhūvādigaṇa + a (mark)
+    - Base:
+      - cetāpe (caus)
+    - Dhātupātha:
+      - -
+    - Dhātumañjūsa:
+      - cita saññāṇe (marking, perceiving) #179
+    - Saddanīti:
+      - citi saññāṇe (marking)
+    - Sanskrit Root:
+      - √cit 1, 2, 3 (perceive, know, appear)
+    - Pāṇinīya Dhātupāṭha:
+      - cit ī saṃjñāne (naming)
+    - verbs
+    - pr caus
+      - cetāpeti
+- √sajj
+  - √･1 bhūvādigaṇa + a (relinquish, let loose)
+    - Bases:
+      - sajja, sajje (caus), sajjiya (pass), sajjāpe (caus)
+    - Root in Compounds:
+      - ssajj
+    - Dhātupātha:
+      - saja vissajjan-āliṅgana-nimmānesu (sending off, embracing and creating) #64a
+    - Dhātumañjūsa:
+      - sañja āliṅgana-visagga-nimmāne (embracing, forsaking and measuring) #82
+    - Saddanīti:
+      - saja vissagga-parissajjana-abbhukkiraṇesu (relinquishing, abandoning, embracing and sprinkling)
+    - Sanskrit Root:
+      - √sṛj 6 (send forth)
+    - Pāṇinīya Dhātupāṭha:
+      - sṛj a visarge (letting go)
+    - verbs
+    - pr
+      - abhisajjati 2, osajjati, ossajjati, nappaṭinissajjati, nissajjati, paṭinissajjati, vissajjati
+    - pr caus
+      - vissajjeti 1, vissajjeti 2, vissajjeti 3, vissajjeti 4, vissajjeti 5, vissajjeti 6
+  - √･8 curādigaṇa + e, aya (prepare, decorate)
+    - Bases:
+      - sajje, sajjāpe (caus)
+    - Dhātupātha:
+      - -
+    - Dhātumañjūsa:
+      - -
+    - Saddanīti:
+      - sajja sajjane (preparing)
+    - Sanskrit Root:
+      - √sṛj 6 (send forth)
+    - Pāṇinīya Dhātupāṭha:
+      - -
+    - verbs
+    - pr
+      - sajjeti
+- √lok
+  - √･8 curādigaṇa + e, aya (look)
+    - Bases:
+      - loke, lokaya, lokiya (pass)
+    - Dhātupātha:
+      - loka dassane (seeing) #531
+    - Dhātumañjūsa:
+      - loka dassane (looking, seeing) #744
+    - Saddanīti:
+      - loka dassane (seeing)
+    - Sanskrit Root:
+      - √lok 10 (look)
+    - Pāṇinīya Dhātupāṭha:
+      - -
+    - verbs
+    - pr
+      - anuloketi, anuvilokayati, anuviloketi, apalokayati 1, apalokayati 2, apaloketi 1, apaloketi 2, avalokayati, avaloketi, ālokayati, āloketi, ullokayati, ulloketi, olokayati, oloketi, nilloketi, viloketi, voloketi
+    - aor
+      - anuvilokesi, apalokesi 1, apalokesi 2, ālokesi, ullokesi, olokesi, vilokesi, volokesi
+- √sev
+  - √･1 bhūvādigaṇa + a (serve, associate)
+    - Bases:
+      - seva, seve (caus)
+    - Dhātupātha:
+      - seva sevane (associating) #285
+    - Dhātumañjūsa:
+      - sevu sevane (associating) #420
+    - Saddanīti:
+      - -
+    - Sanskrit Root:
+      - √sev 1 (attend upon)
+    - Pāṇinīya Dhātupāṭha:
+      - -
+    - verbs
+    - pr
+      - āsevati 1, āsevati 2, upanisevati 1, upanisevati 2, upasevati, nappaṭisevati, nisevati 1, nisevati 2, nupasevati, paṭisevati 1, paṭisevati 2, paṭisevati 3, paṭisevati 4, saṃsevati 1, saṃsevati 2, sevati 1, sevati 2, sevati 3, sevati 4
+- √raj
+  - √･3 divādigaṇa + ya (desire)
+    - Bases:
+      - rāje (caus), rajja (pass)
+    - Dhātupātha:
+      - rañja rāge (colouring) #398
+    - Dhātumañjūsa:
+      - rañja rāge (colouring) #633
+    - Saddanīti:
+      - rañja rāge (desiring)
+    - Sanskrit Root:
+      - √raj √rañj 1, 4 (colour)
+    - Pāṇinīya Dhātupāṭha:
+      - rañj a rāge (desiring)
+    - verbs
+    - pr caus
+      - virājeti 1, virājeti 2
+    - pr pass
+      - rajjati 1, rajjati 2, sārajjati, virajjati 1, virajjati 2
+  - √･1 bhūvādigaṇa + a (colour)
+    - Bases:
+      - raja, rāje (caus), rajāpe (caus), rājaya (caus)
+    - Dhātupātha:
+      - rañja rāge (colouring) #66
+    - Dhātumañjūsa:
+      - rañja rāge (colouring) #72
+    - Saddanīti:
+      - rañja rāge (colouring)
+    - Sanskrit Root:
+      - √raj √rañj 1, 4 (colour)
+    - Pāṇinīya Dhātupāṭha:
+      - rañj a rāge (colouring)
+    - verbs
+    - pr
+      - rajati
+    - pr caus
+      - rajāpeti
+- √is
+  - √･1 bhūvādigaṇa + a (wish for)
+    - Bases:
+      - esa, iccha (irreg)
+    - Dhātupātha:
+      - isa icchāyaṃ (wishing) #295
+    - Dhātumañjūsa:
+      - isu icchāyaṃ (wishing) #434
+    - Saddanīti:
+      - isu icchāyaṃ (wishing)
+    - Sanskrit Root:
+      - √iṣ 1, 4, 6, 9 (seek, desire)
+    - Pāṇinīya Dhātupāṭha:
+      - iṣ a icchāyaṃ (wishing)
+    - verbs
+    - pr
+      - ajjhesati, icchati 1, nicchati, paṭicchati 1, paṭicchati 2, sampaṭicchati
+- √rakkh
+  - √･1 bhūvādigaṇa + a (protect)
+    - Bases:
+      - rakkha, rakkhāpe (caus)
+    - Dhātupātha:
+      - rakkha pālane (protecting) #18
+    - Dhātumañjūsa:
+      - rakkho rakkhaṇamhi (protecting) #27
+    - Saddanīti:
+      - rakkha pālane (protecting)
+    - Sanskrit Root:
+      - √rakṣ 1 (protect)
+    - Pāṇinīya Dhātupāṭha:
+      - rakṣ a pālane (guarding)
+    - verbs
+    - pr
+      - anurakkhati, abhirakkhati, parakkhati, parirakkhati, rakkhati 1, rakkhati 2, saṃrakkhati
+    - pr caus
+      - rakkhāpeti
+- √khā
+  - √･1 bhūvādigaṇa + a (tell, announce)
+    - Bases:
+      - khā, khāya (pass)
+    - Dhātupātha:
+      - khā kathane (telling, announcing) #355
+    - Dhātumañjūsa:
+      - khā pakathane (telling, announcing, proclaiming) #581
+    - Saddanīti:
+      - khā pakathane (announcing, proclaiming)
+    - Sanskrit Root:
+      - √khyā 2 (see)
+    - Pāṇinīya Dhātupāṭha:
+      - -
+    - verbs
+    - pr
+      - akkhāti, abbhakkhāti, paccakkhāti
+    - pr pass
+      - akkhāyati, okkhāyati, khāyati, pakkhāyati
+- √bhī
+  - √･1 bhūvādigaṇa + a (fear)
+    - Bases:
+      - bhe, bhaya, bhāya, bhāyāpe (caus)
+    - Dhātupātha:
+      - bhī bhaye (fearing) #203
+    - Dhātumañjūsa:
+      - bhī bhaye (fearing) #300
+    - Saddanīti:
+      - bhī bhaye (fear)
+    - Sanskrit Root:
+      - √bhī 1, 3, 10 (fear)
+    - Pāṇinīya Dhātupāṭha:
+      - ñi bhī bhaye (fearing, dreading)
+    - verbs
+    - pr
+      - bhāyati 1, bhāyati 2, bheti
+    - pr caus
+      - bhāyāpeti
+- √ghaṭ
+  - √･1 bhūvādigaṇa + a (join together)
+    - Bases:
+      - ghāṭe (caus), ghaṭīya (pass), ghaṭiya (pass), ghaṭe (caus, irreg), ghāte (caus, irreg)
+    - Dhātupātha:
+      - ghaṭṭa ghaṭṭane (combining, putting together) #88
+    - Dhātumañjūsa:
+      - ghaṭi saṃghaṭṭane (coming close together) #123
+    - Saddanīti:
+      - ghaṭa saṅghāte (collecting)
+    - Sanskrit Root:
+      - √jhaṭ 1 (confuse, become entangled)
+    - Pāṇinīya Dhātupāṭha:
+      - jhaṭ a saṃghāte (joining closely, combining)
+    - verbs
+    - pr caus
+      - anugghāṭeti, ugghaṭeti, ugghāṭeti, ghaṭeti 2, saṅghaṭeti, vighāṭeti
+    - pr pass
+      - ghaṭiyati, ghaṭīyati 1, ghaṭīyati 2
+  - √･8 curādigaṇa + e, aya (strike, kill)
+    - Bases:
+      - ghāṭe, ghāte, ghāte (irreg), ghate (irreg), ghātāpe (caus), ghātaya (irreg)
+    - Dhātupātha:
+      - ghaṭa ghāṭane (joining, slaughtering) #554
+    - Dhātumañjūsa:
+      - ghaṭī ghaṭana-saṃghāte (striking and killing) #779
+    - Saddanīti:
+      - ghaṭa saṅghāṭe hantyatthe ca (slaughtering and harming)
+    - Sanskrit Root:
+      - √han √ghaṭ 1, 2, 8 (smite)
+    - Pāṇinīya Dhātupāṭha:
+      - ghaṭ a saṃghāte (striking, combining)
+    - verbs
+    - pr
+      - āghāteti, ugghāṭīyati, ugghāteti, upaghāteti, ghātayati, ghāteti, nigghāteti, samugghāteti, vighāteti
+    - pr caus
+      - ghātāpeti
+  - √･1 bhūvādigaṇa + a (be busy with, strive)
+    - Bases:
+      - ghaṭa, ghaṭe (caus, irreg)
+    - Dhātupātha:
+      - ghaṭa īhāyaṃ (striving) #98
+    - Dhātumañjūsa:
+      - ghaṭa īhane (striving, endevouring) #122
+    - Saddanīti:
+      - ghaṭa cetāyaṃ (urging)
+    - Sanskrit Root:
+      - √ghaṭ 1 (strive)
+    - Pāṇinīya Dhātupāṭha:
+      - ghaṭ a ceṣṭāyāṃ (exerting, making effort)
+    - verbs
+    - pr
+      - ghaṭati
+    - pr caus
+      - ghaṭeti 1
+
+# group 5
+- √ruc
+  - √･1 bhūvādigaṇa + *a (shine, like)
+    - Bases:
+      - roca, roce (caus), rucca (pass), rocāpe (caus), rocaya (caus)
+    - Dhātupātha:
+      - ruca dittiyaṃ (shining) #37
+    - Dhātumañjūsa:
+      - ruca dittiyaṃ (shining) #44
+    - Saddanīti:
+      - ruca dittiyaṃ rocane ca (shining and liking)
+    - Sanskrit Root:
+      - √ruc 1 (shine)
+    - Pāṇinīya Dhātupāṭha:
+      - ruc a dīptāv abhiprītau ca (shining and being pleased)
+    - verbs
+    - pr
+      - atirocati, ativirocati, rocati, rocate, virocati
+    - pr caus
+      - abhiroceti, ārocayati, ārocāpeti, āroceti 1, āroceti 2, nāroceti, rocayati, roceti, viroceti
+    - pr pass
+      - ruccati
+- √muh
+  - √･3 divādigaṇa + ya (be deluded, confused)
+    - Bases:
+      - mohe (caus), muyha (pass), mohāpe (caus), mohaya (caus), momuha (intens)
+    - Dhātupātha:
+      - muha vecitte (being mentally disturbed) #460
+    - Dhātumañjūsa:
+      - muha vecitte (mental confusion) #701
+    - Saddanīti:
+      - muha vecitte (mental confusion)
+    - Sanskrit Root:
+      - √muh 4 (be crazed)
+    - Pāṇinīya Dhātupāṭha:
+      - muh a vaicittye (being mentally confused, being absent-minded)
+    - verbs
+    - pr caus
+      - pamoheti, mohayati, moheti, vimoheti
+    - pr pass
+      - pamuyhati, muyhati, sammuyhati
+- √phus
+  - √･1 bhūvādigaṇa + a (touch)
+    - Bases:
+      - phusa, phussa (pass), phusīya (pass), phasse (caus, irreg), phassa (pass, irreg), phassaya (caus, irreg)
+    - Dhātupātha:
+      - phusa samphasse (touching, contacting) #494
+    - Dhātumañjūsa:
+      - phusa phasse (touching) #573
+    - Saddanīti:
+      - phusa samphasse (touching)
+    - Sanskrit Root:
+      - √spṛś 6 (touch)
+    - Pāṇinīya Dhātupāṭha:
+      - spṛś a saṃsparśane (touching, contacting, mixing)
+    - verbs
+    - pr
+      - āphusati, phusati 1, phusati 2, phusati 3, phusati 4, samphusati, saṃphusati
+    - pr caus
+      - phasseti 1, phasseti 2
+    - pr pass
+      - phassati, phusīyati, phussati
+  - √･1 bhūvādigaṇa + a (sprinkle, splash)
+    - Bases:
+      - phose (caus), phusāya (caus, irreg)
+    - Root in Compounds:
+      - pphus
+    - Dhātupātha:
+      - -
+    - Dhātumañjūsa:
+      - -
+    - Saddanīti:
+      - pusa 5 sineha-savana-pūraṇesu (watering, sticking, hearing, filling)
+    - Sanskrit Root:
+      - √pruṣ √pluṣ 4, 5, 9 (sprinkle)
+    - Pāṇinīya Dhātupāṭha:
+      - pruṣ a
+      - pluṣ a snehana-sevana-pūraṇesu (oiling, indulging and filling)
+    - verbs
+    - pr caus
+      - paripphoseti, phusāyati, phoseti
+- √lap
+  - √･1 bhūvādigaṇa + a (speak, chat)
+    - Bases:
+      - lapa, lāpe (caus), lapaya (caus), lālap (intens), lālapa (intens)
+    - Dhātupātha:
+      - lapa vacane (speaking) #188
+    - Dhātumañjūsa:
+      - lapa vākye (speaking, saying) #267
+    - Saddanīti:
+      - lapa viyattiyaṃ vācāyaṃ (articulate speech)
+    - Sanskrit Root:
+      - √lap 1 (prate)
+    - Pāṇinīya Dhātupāṭha:
+      - hlap a vyaktāyām vāci (articulate speech)
+    - verbs
+    - pr
+      - ālapati, ullapati, nālapati, palapati, lapati, samullapati, sallapati, vippalapati, vilapati
+    - pr caus
+      - apilāpeti, upalāpeti 1, upalāpeti 2, lapayati 1, lapayati 2
+- √khād
+  - √･1 bhūvādigaṇa + a (chew)
+    - Bases:
+      - khāda, khāde (caus), khajja (pass), khādāpe (caus), khādaya (caus)
+    - Dhātupātha:
+      - khāda bhakkhaṇe (eating) #155
+    - Dhātumañjūsa:
+      - khāda bhakkhaṇe (eating, devouring) #226
+    - Saddanīti:
+      - khāda bhakkhane (eating)
+    - Sanskrit Root:
+      - √khād 1 (chew)
+    - Pāṇinīya Dhātupāṭha:
+      - khād ṛ bhakṣaṇe (eating)
+    - verbs
+    - pr
+      - khādati, saṅkhādati
+    - pr caus
+      - khādayati, khādāpeti
+    - pr pass
+      - khajjati 1, khajjati 2
+- √sās
+  - √･1 bhūvādigaṇa + a (order, instruct)
+    - Bases:
+      - sāsa, sāsīya (pass), sāsiya (pass)
+    - Dhātupātha:
+      - sāsa anusiṭṭhiyaṃ (instructing) #300
+    - Dhātumañjūsa:
+      - sāsa anusiṭṭhiyaṃ (teaching) #456
+    - Saddanīti:
+      - sāsa anusiṭṭhiyaṃ (instructing)
+    - Sanskrit Root:
+      - √śās 1, 2 (order)
+    - Pāṇinīya Dhātupāṭha:
+      - śās u anuśiṣṭau (teaching, instructing)
+    - verbs
+    - pr
+      - anusāsati 1, anusāsati 2, anusāsati 3, pasāsati 1, pasāsati 2, sāsati, vosāsati
+    - pr pass
+      - anusāsīyati
+- √sikkh
+  - √･1 bhūvādigaṇa + a (learn, train)
+    - Bases:
+      - sikkha, sikkhāpe (caus)
+    - Dhātupātha:
+      - sikkha vijjopādāne (learning) #12
+    - Dhātumañjūsa:
+      - sikkho vijjaggahe (learning) #28
+    - Saddanīti:
+      - sikkha vijjopādāne (learning)
+    - Sanskrit Root:
+      - √śikṣ 1 (learn)
+    - Pāṇinīya Dhātupāṭha:
+      - śikṣ a vidyopādāne (acquiring learning)
+    - verbs
+    - pr
+      - anusikkhati 1, anusikkhati 2, nānusikkhati 1, nānusikkhati 2, sikkhati 1, sikkhati 2, sikkhati 3
+    - pr caus
+      - sikkhāpeti
+- √mas
+  - √×1 bhūvādigaṇa + a (buzz, hum)
+    - Base:
+      - -
+    - Dhātupātha:
+      - -
+    - Dhātumañjūsa:
+      - -
+    - Saddanīti:
+      - masa sadde rose ca (making sound and anger)
+    - Sanskrit Root:
+      - √maś √miś 1 (buzz, hum)
+    - Pāṇinīya Dhātupāṭha:
+      - maś a śabde roṣakṛte ca (making sound and angering)
+    - nouns
+    - masc
+      - makasa
+  - √･1 bhūvādigaṇa + a (touch, rub)
+    - Bases:
+      - masa, maṃsa (irreg)
+    - Dhātupātha:
+      - masa āmasane (touching, rubbing) #305
+    - Dhātumañjūsa:
+      - masa āmasane (touching, rubbing) #436
+    - Saddanīti:
+      - masa āmasane (touching, rubbing)
+    - Sanskrit Root:
+      - √mṛś 6 (touch, feel)
+    - Pāṇinīya Dhātupāṭha:
+      - mṛś a āmarśaṇe (touching, wiping)
+    - verbs
+    - pr
+      - anumasati, āmasati 1, āmasati 2, ummasati, omasati 1, omasati 2, paṭimaṃsati, parāmasati 1, parāmasati 2, parāmasati 3, parimasati, sammasati 1, sammasati 2
+- √thar
+  - √･1 bhūvādigaṇa + a (spread, expand)
+    - Bases:
+      - thara, thāre (caus), tharāpe (caus), thariya (pass), thārīya (caus, pass)
+    - Root in Compounds:
+      - tthar
+    - Dhātupātha:
+      - thara santharaṇe pādipubbo va (spreading, scattering) #242
+    - Dhātumañjūsa:
+      - thara santharaṇe (spreading, expanding) #345
+    - Saddanīti:
+      - thara santharaṇe (spreading, covering)
+    - Sanskrit Root:
+      - √stṛ √stṝ 5, 9 (spread)
+    - Pāṇinīya Dhātupāṭha:
+      - stṛ ñ
+      - stṝ ñ ācchādane (covering, concealing)
+    - verbs
+    - pr
+      - ajjhottharati, attharati, avattharati, ottharati, paṭisantharati 1, paṭisantharati 2, pattharati 1, pattharati 2, santharati
+    - pr caus
+      - attharāpeti, santharāpeti, vitthāreti
+- √kapp
+  - √･1 bhūvādigaṇa + a (be fit, be suitable)
+    - Bases:
+      - kappa, kappe (caus), kappāpe (caus), kappaya (caus)
+    - Dhātupātha:
+      - kappa sāmatthiye (being able) #195
+    - Dhātumañjūsa:
+      - kappa sāmatthe (being able, being capable) #273
+    - Saddanīti:
+      - kapu sāmatthiye (being suitable)
+    - Sanskrit Root:
+      - √kḷp 1 (be adapted)
+    - Pāṇinīya Dhātupāṭha:
+      - kṛp ū sāmarthye (being appropriate, suitable)
+    - verbs
+    - pr
+      - upakappati, kappati
+    - pr caus
+      - upakappeti, kappāpeti, kappeti 1, kappeti 2, pakappayati, vikappeti 1
+  - √･8 curādigaṇa + e, aya (think)
+    - Bases:
+      - kappe, kappaya
+    - Dhātupātha:
+      - kappa vitakke (thinking, considering) #601
+    - Dhātumañjūsa:
+      - kappa vitakke (thinking) #839
+    - Saddanīti:
+      - kappa vitakke vidhimhi chedane ca (thinking, doing and cutting)
+    - Sanskrit Root:
+      - √kḷp 1 (be adapted)
+    - Pāṇinīya Dhātupāṭha:
+      - -
+    - verbs
+    - pr
+      - okappeti, kappayati, nokappeti, pakappeti, parikappeti, saṅkappeti, vikappayati, vikappeti 2
+- √rādh
+  - √･3 divādigaṇa + ya (succeed, please)
+    - Bases:
+      - raddha, rajjha, rādhe (caus), rādhaya (caus)
+    - Dhātupātha:
+      - rādha saṃsiddhiyaṃ (succeeding) #420
+    - Dhātumañjūsa:
+      - rādha hiṃsāya siddhiyaṃ (harming and succeding) #656
+    - Saddanīti:
+      - rādha saṃsiddhiyaṃ (succeeding)
+    - Sanskrit Root:
+      - √rādh 4, 5 (succeed)
+    - Pāṇinīya Dhātupāṭha:
+      - rādh a saṃsiddhau (accomplishing)
+    - verbs
+    - pr
+      - aparajjhati, avarajjhati 1, avarajjhati 2, avarajjhati 3, virajjhati 1, virajjhati 2
+    - pr caus
+      - aparādheti, ārādhayati, ārādheti 1, ārādheti 2, ārādheti 3, ārādheti 4, ārādheti 5, nārādheti 1, nārādheti 2, virādhayati, virādheti
+- √si
+  - √×1 bhūvādigaṇa + a (smile)
+    - Base:
+      - -
+    - Root in Compounds:
+      - ssi
+    - Dhātupātha:
+      - -
+    - Dhātumañjūsa:
+      - -
+    - Saddanīti:
+      - -
+    - Sanskrit Root:
+      - √smi 1 (smile)
+    - Pāṇinīya Dhātupāṭha:
+      - -
+    - nouns
+    - nt
+      - sita 1
+  - √･1 bhūvādigaṇa + a (depend on, associate with)
+    - Bases:
+      - se, saya, sāpe (caus), sāpaya (caus)
+    - Root in Compounds:
+      - si or ssi
+    - Dhātupātha:
+      - si sevāyaṃ (associating) #289
+    - Dhātumañjūsa:
+      - si sevane (associating) #485
+    - Saddanīti:
+      - si sevāyaṃ (associating)
+    - Sanskrit Root:
+      - √śri √śṛ 1 (resort)
+    - Pāṇinīya Dhātupāṭha:
+      - śri ñ sevāyāṃ (serving)
+    - verbs
+    - pr
+      - adhisseti 2, apassayati, apasseti, avassayati, avasseti, upanissayati, usseti, oseti, nissayati, samusseti
+    - pr caus
+      - ussāpayati, ussāpeti, osāpayati, samussāpeti
+  - √･4 svādigaṇa + ṇu, ṇā (sharpen)
+    - Base:
+      - se (caus)
+    - Dhātupātha:
+      - -
+    - Dhātumañjūsa:
+      - -
+    - Saddanīti:
+      - si nisāne (sharpening)
+    - Sanskrit Root:
+      - √śi √śā 5 (sharpen)
+    - Pāṇinīya Dhātupāṭha:
+      - śi ñ niśāne (sharpening)
+    - verbs
+    - pr caus
+      - niseti
+  - √･5 kiyādigaṇa + nā (bind)
+    - Base:
+      - sine (caus)
+    - Dhātupātha:
+      - si bandhane (binding, tying) #505
+    - Dhātumañjūsa:
+      - si bandhane (binding) #729
+    - Saddanīti:
+      - si bandhane (binding)
+    - Sanskrit Root:
+      - √si 5, 9 (bind)
+    - Pāṇinīya Dhātupāṭha:
+      - ṣi ñ bandhane (binding, tying)
+    - verbs
+    - pr caus
+      - ussineti, visineti
+
+# group 6
+- √sas
+  - √･1 bhūvādigaṇa + a (breath)
+    - Bases:
+      - sasa, sāse (caus), sāsa (irreg)
+    - Root in Compounds:
+      - ssas
+    - Dhātupātha:
+      - sasa gati-hiṃsā-pāṇanesu (going, hurting and breathing) #301
+    - Dhātumañjūsa:
+      - sasu pāṇana-gati-hiṃsādyatthe (breathing, going and hurting) #435
+    - Saddanīti:
+      - sasa pāṇane (breathing)
+    - Sanskrit Root:
+      - √śvas 1, 2 (blow)
+    - Pāṇinīya Dhātupāṭha:
+      - śvas a prāṇane (breathing)
+    - verbs
+    - pr
+      - assasati, assāsati 1, assāsati 2, nissasati, passasati, sasati 1, vissasati
+    - pr caus
+      - assāseti, samassāseti 1, samassāseti 2
+  - √･1 bhūvādigaṇa + a (slaughter)
+    - Base:
+      - -
+    - Dhātupātha:
+      - sasa gati-hiṃsā-pāṇanesu (going, hurting and breathing) #301
+    - Dhātumañjūsa:
+      - sasu pāṇana-gati-hiṃsādyatthe (breathing, going and hurting) #435
+    - Saddanīti:
+      - sasu hiṃsāyaṃ (hurting)
+    - Sanskrit Root:
+      - √śas 1, 2 (cut)
+    - Pāṇinīya Dhātupāṭha:
+      - śas u hiṃsāyām ()
+    - verbs
+    - pr
+      - sasati 2
+- √nas
+  - √･3 divādigaṇa + ya (be lost, disappear)
+    - Bases:
+      - nassa, nāse (caus), nāsāpe (caus), nāsaya (caus), nessa (caus, fut, irreg)
+    - Dhātupātha:
+      - nasa adassane (not seeing) #456
+    - Dhātumañjūsa:
+      - nasa adassane (disappearing) #696
+    - Saddanīti:
+      - nasa adassane (disappearing)
+    - Sanskrit Root:
+      - √naś 4 (be lost)
+    - Pāṇinīya Dhātupāṭha:
+      - ṇaś a adarśane (disappearing)
+    - verbs
+    - pr
+      - nassati 1, nassati 2, nassati 3, panassati, vinassati
+    - pr caus
+      - nāsāpeti, nāseti 1, nāseti 2, vināsayati, vināseti 1, vināseti 2, vināseti 3
+- √ji
+  - √･1 bhūvādigaṇa + a (conquer)
+    - Bases:
+      - je, jaya, jiya (pass), jīya (pass), jessa (fut), jāpaya (caus), jigīsa (desid), jigīṃsa (desid), jigiṃsa (desid), ja (pass, irreg)
+    - Dhātupātha:
+      - ji jaye (conquering) #56
+    - Dhātumañjūsa:
+      - ji jaye (conquering) #98
+    - Saddanīti:
+      - ji jaye (conquering)
+    - Sanskrit Root:
+      - √ji 1, 2 (conquer)
+    - Pāṇinīya Dhātupāṭha:
+      - ji jaye (conquering)
+    - verbs
+    - pr
+      - jayati, jeti, parājeti, vijayati
+    - pr pass
+      - jiyati 1, jīyati 3, parajjati, parājīyati
+  - √･5 kiyādigaṇa + nā (conquer)
+    - Bases:
+      - jinā, jīya (pass), jina (irreg)
+    - Dhātupātha:
+      - ji jaye (conquering) #495
+    - Dhātumañjūsa:
+      - ji jaye (conquering) #717
+    - Saddanīti:
+      - ji jaye (conquering)
+    - Sanskrit Root:
+      - √ji √jyā 9 (conquer)
+    - Pāṇinīya Dhātupāṭha:
+      - -
+    - verbs
+    - pr
+      - abhivijināti, avajināti, jinati 1, jinati 2, jināti 1, jināti 2, parājināti, vijināti
+    - pr pass
+      - nāvajīyati
+- √yāc
+  - √･1 bhūvādigaṇa + a (beg)
+    - Bases:
+      - yāca, yācīya (pass), yāciya (pass), yācāpe (caus), yācaya (caus)
+    - Dhātupātha:
+      - yāca yācane (begging) #38
+    - Dhātumañjūsa:
+      - yāca yācane (begging) #43
+    - Saddanīti:
+      - yāca yācanāyaṃ (begging)
+    - Sanskrit Root:
+      - √yāc 1 (ask)
+    - Pāṇinīya Dhātupāṭha:
+      - ṭu yāc ṛ yācñāyāṃ (begging, asking)
+    - verbs
+    - pr
+      - abhiyācati, āyācati, upayācati, oyācati, yācati 1, yācati 2
+    - pr caus
+      - yācayati, yācāpeti
+- √rudh
+  - √･3 divādigaṇa + ya (please, accept)
+    - Base:
+      - rujjha
+    - Dhātupātha:
+      - -
+    - Dhātumañjūsa:
+      - -
+    - Saddanīti:
+      - anurudha kāme (desire, wish (icchā))
+    - Sanskrit Root:
+      - √rudh 2, 7 (obstruct)
+    - Pāṇinīya Dhātupāṭha:
+      - ano rudh a kāme (desiring)
+    - verbs
+    - pr
+      - anurujjhati
+  - √･2 rudhādigaṇa + ṃa (obstruct)
+    - Bases:
+      - rundha, rodhe (caus), ruddha (pass), rujjha (pass), rodha (irreg), rodhaya (caus), rumbha (irreg), rundhīya (pass), bujjha (pass, irreg), bundhe (caus, irreg), rumbhe (caus, irreg)
+    - Dhātupātha:
+      - rudhi āvaraṇe (obstructing) #375
+    - Dhātumañjūsa:
+      - rudhi āvaraṇe (obstructing, hindering) #608
+    - Saddanīti:
+      - rudhi āvaraṇe (obstructing)
+    - Sanskrit Root:
+      - √rudh 2, 7 (obstruct)
+    - Pāṇinīya Dhātupāṭha:
+      - rudh ir āvaraṇe (covering, obstructing)
+    - verbs
+    - pr
+      - avarundhati, uparundhati, uparodhati, orundhati, parirundhati, rundhati, sannirundhati
+    - pr caus
+      - uparodheti, orodheti, nirodheti, palibundheti, sannirumbheti, virodhayati, virodheti
+    - pr pass
+      - uparujjhati, uparuddhati, oruddhati, nirujjhati, nūparujjhati, paṭivirujjhati, palibujjhati, paḷibujjhati, rujjhati, rundhīyati, virujjhati 1, virujjhati 2
+- √kamp
+  - √･1 bhūvādigaṇa + a (shake, tremble)
+    - Bases:
+      - kampa, kampe (caus), kampaya (caus)
+    - Dhātupātha:
+      - kampa calane (trembling, shaking) #186
+    - Dhātumañjūsa:
+      - kapi kiñcicale (something shaking) #272
+    - Saddanīti:
+      - kapa 8 avakampane (shaking)
+    - Sanskrit Root:
+      - √kamp 1 (tremble)
+    - Pāṇinīya Dhātupāṭha:
+      - kṛp a avakalkane (mixing together)
+    - verbs
+    - pr
+      - anukampati, anupakampati, kampati, pakampati, saṅkampati, sampakampati, vikampati
+    - pr caus
+      - kampayati, kampeti, saṅkampeti, sampakampeti
+- √kus
+  - √×1 bhūvādigaṇa + a (cut, tear)
+    - Base:
+      - -
+    - Dhātupātha:
+      - kusa chedane (cutting) #490
+    - Dhātumañjūsa:
+      - kusa chedana-pūraṇe (cutting and filling) #570
+    - Saddanīti:
+      - -
+    - Sanskrit Root:
+      - √kuṣ 6, 9 (?)
+    - Pāṇinīya Dhātupāṭha:
+      - -
+    - nouns
+    - masc
+      - kuṭṭhī 2
+    - nt
+      - kuṭṭha 1, kuṭṭha 2
+  - √×1 bhūvādigaṇa + a (fill, enfold)
+    - Base:
+      - -
+    - Dhātupātha:
+      - -
+    - Dhātumañjūsa:
+      - kusa chedana-pūraṇe (cutting and filling) #570
+    - Saddanīti:
+      - -
+    - Sanskrit Root:
+      - √kuś 4 (enfold)
+    - Pāṇinīya Dhātupāṭha:
+      - -
+    - nouns
+    - masc
+      - kucchi 1, kucchi 2, koṭṭhaka 1, koṭṭhaka 2, koṭṭhaka 3, koṭṭha 1, koṭṭha 2, koṭṭha 3, kosaka 1, kosaka 2, kosa 1, kosa 2, kosa 4, kosiya 2
+    - fem
+      - kucchi 4, koṭṭhaḷī, kotthaḷī
+    - nt
+      - kosa 3, kosiya 1
+  - √･1 bhūvādigaṇa + *a (call, insult)
+    - Bases:
+      - kosa, kose (caus), kosāpe (caus), kosiya (pass), koccha (irreg)
+    - Root in Compounds:
+      - kkus
+    - Dhātupātha:
+      - kusa akkose avhāne ca (insulting, abusing and calling) #311
+    - Dhātumañjūsa:
+      - kusa akkose (insulting, abusing) #438
+    - Saddanīti:
+      - kusa avhāne rodane ca (calling and crying)
+    - Sanskrit Root:
+      - √kruś 1 (cry out)
+    - Pāṇinīya Dhātupāṭha:
+      - kruś a āhvāne rodane ca (inviting and crying)
+    - verbs
+    - pr
+      - akkosati, upakkosati, pakkosati, paccakkosati, paṭikkosati
+    - pr caus
+      - akkoseti, pakkosāpeti
+    - pr pass
+      - akkosiyati
+- √es
+  - √･1 bhūvādigaṇa + a (seek, search)
+    - Base:
+      - esa
+    - Dhātupātha:
+      - esa maggane (seeking, searching) #297
+    - Dhātumañjūsa:
+      - -
+    - Saddanīti:
+      - esu gatiyaṃ (going)
+    - Sanskrit Root:
+      - √iṣ 1, 4, 6, 9 (seek, desire)
+    - Pāṇinīya Dhātupāṭha:
+      - eṣ ṛ gatau (going)
+    - verbs
+    - pr
+      - anuesati, anupariyesati, anvesati, esati, pariyesati, samannesati, samanvesati
+- √bādh
+  - √･1 bhūvādigaṇa + a (press, oppress)
+    - Bases:
+      - bādha, bībhaccha, bādhe (caus), bādhīya (pass), bādhaya (caus)
+    - Dhātupātha:
+      - bādha vibādhāyaṃ (oppressing) #168a
+    - Dhātumañjūsa:
+      - bādha bādhāyaṃ (oppressing) #236
+    - Saddanīti:
+      - bādha viloḷane (stirring)
+    - Sanskrit Root:
+      - √bādh 1 (oppress)
+    - Pāṇinīya Dhātupāṭha:
+      - bādh ṛ viloḍane (stirring, agitating, alarming)
+    - verbs
+    - pr
+      - ābādhati, ubbādhati, bādhati, vibādhati
+    - pr caus
+      - ābādhayati, ābādheti, nibādhayati, bādhayati, bādheti 1, bādheti 2, bādheti 3, byābādheti 1, byābādheti 2, sambādheti, vyābādheti
+- √ḍah
+  - √･1 bhūvādigaṇa + a (burn)
+    - Bases:
+      - ḍaha, ḍahe (irreg), daha (irreg), ḍayha (pass), dahāpe (caus, irreg)
+    - Dhātupātha:
+      - daha bhasmīkaraṇe (reducing to ashes) #332
+    - Dhātumañjūsa:
+      - daha bhasmīkaraṇe ca patiṭṭhāyaṃ (reducing to ashes and placing) #495
+    - Saddanīti:
+      - daha bhasmīkaraṇe dhāraṇe ca (burning and bearing)
+    - Sanskrit Root:
+      - √dah 1, 2, 4 (burn)
+    - Pāṇinīya Dhātupāṭha:
+      - dah a bhasmīkaraṇe (reducing to ashes)
+    - verbs
+    - pr
+      - anuḍahati, anudahati, uḍḍahati, ḍahati, dahati 2, dahati 3, niḍahati, pariḍahati
+    - pr caus
+      - dahāpeti
+    - pr pass
+      - uḍḍayhati, upaḍayhati, ḍayhati, pariḍayhati
+- √nhā
+  - √･3 divādigaṇa + ya (bathe)
+    - Bases:
+      - nhāya, nahāya, nhāpe (caus), nahāpe (caus)
+    - Dhātupātha:
+      - naha soceyye (cleaning) #461
+    - Dhātumañjūsa:
+      - nahā soce (cleaning) #703
+    - Saddanīti:
+      - nhā soceyye (cleaning)
+    - Sanskrit Root:
+      - √snā 2, 4 (bathe)
+    - Pāṇinīya Dhātupāṭha:
+      - ṣnā śauce (purifying)
+    - verbs
+    - pr
+      - nahāyati, nhāyati
+    - pr caus
+      - nahāpeti, nhāpeti
+- √rūp
+  - √･8 curādigaṇa + e, aya (form, produce)
+    - Base:
+      - -
+    - Dhātupātha:
+      - -
+    - Dhātumañjūsa:
+      - rupa ropana ādisu (growing etc) #837
+    - Saddanīti:
+      - rūpa rūpakriyāyaṃ (making manifest)
+    - Sanskrit Root:
+      - √rūp 10 (form)
+    - Pāṇinīya Dhātupāṭha:
+      - rūp a rūpakriyāyāṃ (making forms)
+    - verbs
+    - pr
+      - nirūpeti, rūpayati
+- √jal
+
+  | person | singular | plural |
+  |---|---|---|
+  | 3rd pp. | √×8 curādigaṇa + e | aya (hide, conceal) |
+  | 2nd pp. | √･1 bhūvādigaṇa + a (shine | blaze) |
+
+    - Bases:
+      - jala, jāle (caus), jaliya (pass), jalāpe (caus), jālaya (caus), daddaḷha (intens), daddalla (intens), jale (caus, irreg), jalaya (caus, irreg)
+    - Root in Compounds:
+      - jjal
+    - Dhātupātha:
+      - jala dittiyaṃ (shining) #264
+    - Dhātumañjūsa:
+      - jala dittiyaṃ (shining, blazing) #377
+    - Saddanīti:
+      - jala dittiyaṃ (shining)
+    - Sanskrit Root:
+      - √jval 1 (burn, flame)
+    - Pāṇinīya Dhātupāṭha:
+      - jval a dīptau (blazing)
+    - verbs
+    - pr
+      - ujjalati, jalati, pajjalati
+    - pr caus
+      - ujjalayati, ujjaleti, jalayati, jaleti, jāleti
+    - pr pass
+      - ujjaliyati
+
+{% include toc.html %}

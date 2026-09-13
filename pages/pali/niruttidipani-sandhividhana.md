@@ -23,7 +23,7 @@ the **act** of eliding
 
 or **the letter** that is elided
 
-**nimittattha** → the meaning of cause / reason - expressed by the locative case ⇒ because of
+**nimittattha**: the meaning of cause / reason - expressed by the locative case ⇒ because of
 
 3 vibhattis used to express **the cause / reason**
 
@@ -65,27 +65,27 @@ asanto ettha na dissanti (in this world the unvirtuous are not seen - in the bud
 
 vocab: #\[\[**pāḷi** vocab (2nd year)\]\]
 
-indo → ruler, lord, kind
+indo: ruler, lord, kind
 
-īrita ↔ spoken
+īrita: spoken
 
-varavādī ↔ one who talks about the excellent
+varavādī: one who talks about the excellent
 
-upakāra \[upa + √kar + \*a\] ↔ adj. helpful; useful; beneficial; supportive; lit. supporting 2 masc. help, support, favour
+upakāra \[upa + √kar + \*a\]: adj. helpful; useful; beneficial; supportive; lit. supporting 2 masc. help, support, favour
 
-ūmi fem. ↔ wave; if plural: billow; ripple
+ūmi fem.: wave; if plural: billow; ripple
 
-sarabhū → fem. name of a river; one of the five great rivers of ancient India
+sarabhū: fem. name of a river; one of the five great rivers of ancient India
 
-kuñjaro masc. → elephant
+kuñjaro masc.: elephant
 
-lup ya ti luppati → that which is elided (passive)
+lup ya ti luppati: that which is elided (passive)
 
-esanā ↔ searching, longing (s.w/ e)
+esanā: searching, longing (s.w/ e)
 
-ekaṭṭha ↔ stands together with, associated dhammas
+ekaṭṭha: stands together with, associated dhammas
 
-asanto ↔ asappuriso, unvirtuous
+asanto: asappuriso, unvirtuous
 
 ##### **27\. paro kvaci.** (parasaralopa)
 
@@ -115,13 +115,13 @@ no sandhi / samāsa after ālapana - katamā cānand**a a**niccasaññā
 
 vocab: #\[\[**pāḷi** vocab (2nd year)\]\]
 
-aṅgaṇa → flat ground
+aṅgaṇa: flat ground
 
-tāva ↔ ind. that much; that far; as long as; to that extent; until; at least; 2 ind. until later; for a while; 3 ind. firstly; to begin with
+tāva: ind. that much; that far; as long as; to that extent; until; at least; 2 ind. until later; for a while; 3 ind. firstly; to begin with
 
-kadā / kudā → when
+kadā / kudā: when
 
-kvaci \[kva + ci\] ↔ ind. (gram) in some places; in some contexts; optionally; in several examples
+kvaci \[kva + ci\]: ind. (gram) in some places; in some contexts; optionally; in several examples
 
 ##### **28\. na dve vā.**
 
@@ -165,11 +165,11 @@ Is restraint of elision.
 
 vocab: #\[\[**pāḷi** vocab (2nd year)\]\]
 
-payoga → example
+payoga: example
 
-nisedha masc. → (+gen & +abl) restraint (of) (from); prevention (of) (from); prohibition (of) (from); 2 adj. (+instr) restrained (by); controlled, (by); held back (by)
+nisedha masc.: (+gen & +abl) restraint (of) (from); prevention (of) (from); prohibition (of) (from); 2 adj. (+instr) restrained (by); controlled, (by); held back (by)
 
-padaṁ ↔ upāyo
+padaṁ: upāyo
 
 ##### **29\. parasarassa.** (parasara of niggahīta)
 
@@ -262,21 +262,21 @@ This is the collection of elision of consonants.
 
 - - - - - **vocab**: #\[\[**pāḷi** vocab (2nd year)\]\]
 
-pupphaṁ → utu, rajo, menstruation
+pupphaṁ: utu, rajo, menstruation
 
-utunī ↔ a menstruating woman
+utunī: a menstruating woman
 
-āhita \[ā + √dhā + ita\] → pp. stocked up; heaped up; provided with fuel; lit. placed here 2; pp. put in, put up
+āhita \[ā + √dhā + ita\]: pp. stocked up; heaped up; provided with fuel; lit. placed here 2; pp. put in, put up
 
-vuttī \[√vatt + ī\] ↔ adj. with livelihood; with practice; with way of life
+vuttī \[√vatt + ī\]: adj. with livelihood; with practice; with way of life
 
-vitti \[√vid + ti\] ↔ fem. joy; happiness; pleasure; lit. **gain**
+vitti \[√vid + ti\]: fem. joy; happiness; pleasure; lit. **gain**
 
-ekasataṃ ↔ 100 or 101
+ekasataṃ: 100 or 101
 
 mārisa (from mādisa, equal to me)
 
-puthuso \[√puth + u + so\] ↔ ind. diversely; differently; at odds
+puthuso \[√puth + u + so\]: ind. diversely; differently; at odds
 
 #### **bindulopa
 
@@ -334,9 +334,9 @@ This is a name of those five natures
 
 vocab: #\[\[**pāḷi** vocab (2nd year)\]\]
 
-adhivacana ↔ nāma, saññā, ākhyā, abhilāpa, abhidhāna, samaññā
+adhivacana: nāma, saññā, ākhyā, abhilāpa, abhidhāna, samaññā
 
-ākhyā → nāma, saññā, , abhilāpa, abhidhāna, samaññā, adhivacana
+ākhyā: nāma, saññā, , abhilāpa, abhidhāna, samaññā, adhivacana
 
 **Channetaṃ dhammānaṃ adhivacanaṃ**
 
@@ -396,7 +396,7 @@ The order of khandha, āyatana and dhātu
 
 vocab: #\[\[**pāḷi** vocab (2nd year)\]\]
 
-paṭipāṭi \[pati + √paṭ + \*i\] fem. → turn (in queue); order; chance 2 fem. sequence; succession; series
+paṭipāṭi \[pati + √paṭ + \*i\] fem.: turn (in queue); order; chance 2 fem. sequence; succession; series
 
 **māgame pare -**
 

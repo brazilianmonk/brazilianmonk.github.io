@@ -9,35 +9,96 @@ Here, you'll find my Dhamma notes and summaries. These are primarily derived, fo
 {% include youtube.html id="n7j1YDHAEzY" list="PLGXmpHceJ17dZ2OxbXs1vvhEJW5AlVCfx" title="Dhamma Talks in IIT" %}
 
 ## Pāḷi Language
-#### Pāḷi Pāṭha Sikkhā by Bh. Vijitānanda
-- Chapter 1: Lessons 1-10 [Page](/summaries/pali/pps-ch1-1-10)
-- Chapter 2: Lessons 1-13 [Page](/summaries/pali/pps-ch2-1-13) / [HTML](/pages/pali/pali-patha-sikkha-2-html.html)
-- Semester I: Chapters 1-3 [Notes](/summaries/pali/pps-ch1-3-notes)
-- Semester II: Chapters 3 (part II) & 4, final exam [Notes](/summaries/pali/semester-2)
-- Semester III: Niruttidīpanī, Dhammapadaṭṭhakathā, Itivuttaka, Aṅguttara Nikāya [Notes](/summaries/pali/semester-3)
-- Semester IV: Niruttidīpanī part II, Dhammapadaṭṭhakathā II [Notes](/summaries/pali/semester-4)
-- Semester V: Niruttidīpanī, reading & translation [Notes](/summaries/pali/semester-5)
-- Semester VI: gacchantādigaṇa, satthādigaṇa, rattādigaṇa, reading & translation [Notes](/summaries/pali/semester-6)
+#### Notes on "Pāḷi Pāṭha Sikkhā" by Ven. Vijitānanda
+- [Chapter 1, Part 1 (Lessons 1–5)](/summaries/pali/pps-ch1-part1)
+  - Lesson 1 - Alphabet
+  - Lesson 2 - Agent & Action
+  - Lesson 3 - Noun stems and case-endings
+  - Lesson 4 - Object
+  - Lesson 5 - Instrument
 
-#### [Common Roots in Pāḷi](/summaries/pali/common-roots)
+- [Chapter 1, Part 2 (Lessons 6–10)](/summaries/pali/pps-ch1-part2)
+  - Lesson 6 - Gender and Addressing
+  - Lesson 7 - Dative & Ablative
+  - Lesson 8 - Genitive and Location
+  - Lesson 9 - Purisa
+  - Lesson 10 - Verbs
 
-#### [Saññarāsi](/summaries/pali/niruttidipani-sannarasi)
-#### [Saṅketarāsi](/summaries/pali/niruttidipani-sanketarasi)
-#### [Sandhividhāna](/summaries/pali/niruttidipani-sandhividhana)
-#### [Nāmakaṇḍa](/summaries/pali/namakanda)
-#### Kārakakaṇḍa
-- [Introduction](/summaries/pali/karakakanda-intro)
-- [Meanings of Paṭhamāvibhatti](/summaries/pali/karakakanda-pathama)
-- [Meanings of Dutiyāvibhatti](/summaries/pali/karakakanda-dutiya)
-- [Meanings of Tatiyāvibhatti](/summaries/pali/karakakanda-tatiya)
-- [Meanings of Catutthīvibhatti](/summaries/pali/karakakanda-catutthi)
-- [Meanings of Pañcamīvibhatti](/summaries/pali/karakakanda-pancami)
-- [Meanings of Chaṭṭhīvibhatti](/summaries/pali/karakakanda-chatthi)
-- [Meanings of Sattamīvibhatti](/summaries/pali/karakakanda-sattami)
-- [Appendix](/summaries/pali/karakakanda-appendix)
-#### Samāsakaṇḍa
-- [Introduction](/summaries/pali/samasakanda-intro)
-- [Abyayībhāvasamāsa](/summaries/pali/samasakanda-abyayibhava)
+- [Chapter 2, Part 1 (Lessons 1–7)](/summaries/pali/pps-ch2-part1)
+  - Lesson 1 - Cittādigaṇa
+  - Lesson 2 - Past Tense Verbs
+  - Lesson 3 - Adjectives
+  - Lesson 4 - Kaññādigaṇa
+  - Lesson 5 - Gerund
+  - Lesson 6 - Imperative mood
+  - Lesson 7 - Guṇavādigaṇa
+
+- [Chapter 2, Part 2 (Lessons 8–13)](/summaries/pali/pps-ch2-part2)
+  - Lesson 8 - Future tense
+  - Lesson 9 - Missaka kiriyā and gacchantādigaṇa
+  - Lesson 10 - Infinitive and pronouns
+  - Lesson 11 - Optative mood
+  - Lesson 12 - Rattādigaṇa
+  - Lesson 13 - Nominal groups of nadī (nadādigaṇa) and gahapatānī (gahapatādi gaṇa)
+
+- [Chapter 3, Part 1 (Lessons 1–5)](/summaries/pali/pps-ch3-part1)
+  - Lesson 1 - declension of 'ta', sandhi
+  - Lesson 2 - declension of 'kiṁ', sarasandhi
+  - Lesson 3 - declension of 'aggi', dhātugaṇa
+  - Lesson 4 - declension of 'daṇḍī', bhikkhu, sayambhū
+  - Lesson 5 - declension of 'atta', bhavalakkhaṇa, pubbasaradīghasandhi
+
+- [Chapter 3, Part 2 (Lessons 6–10)](/summaries/pali/pps-ch3-part2)
+  - Lesson 6 - declension of 'eta', causative, niggahītasandhi
+  - Lesson 7 - saṅkhyānāma, tulyatthaliṅgatthavākya, yākārādi āgamasandhi, dvebhāvasandhi
+  - Lesson 8 - declension of 'satthu', 'pitu', passive voice
+  - Lesson 9 - manogaṇa, pumādigaṇa
+  - Lesson 10 - conjugation of root √as
+- [Semester II, Part 1 — Chapter III (Lessons 11–17)](/summaries/pali/semester-2-part1)
+- [Semester II, Part 2 — Chapters III & IV (Lessons 18–25, IV 1–19)](/summaries/pali/semester-2-part2)
+- [Final exam, 1st year](/summaries/pali/pps-final-exam-1st-year)
+
+#### Niruttidīpaṇī — class notes
+- [Part I: saññārāsi, saṅketarāsi, sandhividhāna (Semester III)](/summaries/pali/niruttidipani-part-1)
+- [Part II: sandhi by type (Semester IV)](/summaries/pali/niruttidipani-part-2)
+- [Nāmakaṇḍa (Semester V notes)](/summaries/pali/niruttidipani-namakanda-notes)
+
+#### Reading & translation
+- [Dhammapadaṭṭhakathā I — Cakkhupālattheravatthu (Semester III)](/summaries/pali/dhammapada-atthakatha-1)
+- [Dhammapadaṭṭhakathā II — Cakkhupālattheravatthu continued (Semester IV)](/summaries/pali/dhammapada-atthakatha-2)
+- [Cittavagga — Meghiya & related stories (Semester V)](/summaries/pali/dhammapada-reading-1)
+- [Cittavagga, parts III–IV (Semester VI)](/summaries/pali/semester-6-reading)
+- [Itivuttaka I (Semester III)](/summaries/pali/itivuttaka-1)
+- [Aṅguttara Nikāya I (Semester III)](/summaries/pali/anguttara-1)
+- [Notes on translation approach](/summaries/pali/translation-notes)
+- [Semester III — class notes & exam info](/summaries/pali/semester-3-notes)
+
+#### Reference
+- [Nominal declensions — charts & words](/summaries/pali/nominal-declensions)
+- [Nāmagaṇa: gacchantādi, satthādi, rattādi (Semester VI)](/summaries/pali/semester-6-grammar)
+- [Common Roots in Pāḷi](/summaries/pali/common-roots)
+
+#### Vocabulary
+- [Pāḷi Vocabulary — all semesters, grouped](/summaries/pali/vocabulary)
+
+#### Elaborated study pages (from the notes above)
+- [Saññarāsi](/summaries/pali/niruttidipani-sannarasi)
+- [Saṅketarāsi](/summaries/pali/niruttidipani-sanketarasi)
+- [Sandhividhāna](/summaries/pali/niruttidipani-sandhividhana)
+- [Nāmakaṇḍa](/summaries/pali/namakanda)
+- Kārakakaṇḍa
+  - [Introduction](/summaries/pali/karakakanda-intro)
+  - [Meanings of Paṭhamāvibhatti](/summaries/pali/karakakanda-pathama)
+  - [Meanings of Dutiyāvibhatti](/summaries/pali/karakakanda-dutiya)
+  - [Meanings of Tatiyāvibhatti](/summaries/pali/karakakanda-tatiya)
+  - [Meanings of Catutthīvibhatti](/summaries/pali/karakakanda-catutthi)
+  - [Meanings of Pañcamīvibhatti](/summaries/pali/karakakanda-pancami)
+  - [Meanings of Chaṭṭhīvibhatti](/summaries/pali/karakakanda-chatthi)
+  - [Meanings of Sattamīvibhatti](/summaries/pali/karakakanda-sattami)
+  - [Appendix](/summaries/pali/karakakanda-appendix)
+- Samāsakaṇḍa
+  - [Introduction](/summaries/pali/samasakanda-intro)
+  - [Abyayībhāvasamāsa](/summaries/pali/samasakanda-abyayibhava)
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 

@@ -6,7 +6,7 @@ permalink: /summaries/pali/niruttidipani-sanketarasi
 
 ## **saṅketarāsi (collection of agreements)**
 
-- - - **saṅketa** \[saṃ + √kit + \*a\] ✓ \[or root sak + ṁ\] masc. ↔ agreement; arrangement; engagement; appointment; rendezvous, symbol, sign #\[\[**pāḷi** vocab (2nd year)\]\]
+- - - **saṅketa** \[saṃ + √kit + \*a\] ✓ \[or root sak + ṁ\] masc.: agreement; arrangement; engagement; appointment; rendezvous, symbol, sign #\[\[**pāḷi** vocab (2nd year)\]\]
       - **note**: these sutttas are some signs / agreements / arrangements about the upcoming suttas
 ### **13\. vidhi visesanaṃ** (modifier) **yaṃ tassa.** (the arrangement should be done to the modifier of the sutta)
         - **sutte yaṃ visesanaṃ dissati** (whatever modifier is shown in the sutta)**, tassa vidhi ñātabbo** (the agreement should be done to that modifier)**.**
@@ -15,10 +15,10 @@ permalink: /summaries/pali/niruttidipani-sanketarasi
           - **ato** (from akāranta nouns) **yonaṁ** (visesana) **ṭāṭe** (visesya - vibhatti was dropped here) (honti)
           - in akāranta nouns: 'ṭā' replaces the nominative 'yo', and 'ṭe' replaces the accusative 'yo' - (these are the real vibhattis) - ṭ is anubandha here
           - in nouns ending in **a** such as purisa: the first real vibhatti 'yo', which is nominative, becomes ā, and the second 'yo', which is accusative, becomes e - purise
-        - **yathākkamanaya** ↔ method that things should be taken in order (pathama dutiya tatiya jjhāna vitakka vicāra pīti pajahanti)
+        - **yathākkamanaya**: method that things should be taken in order (pathama dutiya tatiya jjhāna vitakka vicāra pīti pajahanti)
 
         - vocab: #\[\[**pāḷi** vocab (2nd year)\]\]
-          - vidhi masc. → method; way; form; 2 luck; destiny; 3 invitation; arrangement
+          - vidhi masc.: method; way; form; 2 luck; destiny; 3 invitation; arrangement
 
 ### **14\. sattamiyaṃ pubbassa.**
         - **sattamīniddese** (when sattamī is shown) **pubbavaṇṇasseva** (just to the preceding letter) **vidhi ñātabbo** (the arrangement should be done)
@@ -42,7 +42,7 @@ te **d**asa ⇒ te**r**asa / te**d**asa
 
 dvi **d**asa ⇒ dvā**r**asa dvā**d**asa
 
-- - - - vocab: #\[\[**pāḷi** vocab (2nd year)\]\] - sissamāno ↔ that which is arranged, done, made - ādi ↔ etc, beginning; when ādi is combined with another word (akārādi)
+- - - - vocab: #\[\[**pāḷi** vocab (2nd year)\]\] - sissamāno: that which is arranged, done, made - ādi: etc, beginning; when ādi is combined with another word (akārādi)
 ### **17\. chaṭṭhiyantassa.**
           - **chaṭṭhīniddese** (when the chaṭṭhī is shown) **tadantassa** (taṁ antassa: to the ending \[letter\] of that \[stem\]) **vidhi ñātabbo.**
             - (example:)
@@ -61,7 +61,7 @@ avaṅ: ṅ shows the substitution (ava here) should occur to the last letter of
 
 gossāvaṅ**a** (a is added to the myanmar version because of the scipt, but it means the same; it differentiates between ṅ and ṁ)
 
-- - - - some anubandhas are put after the word, while others are put before the word - this is necessary, as some substitutions apply not just to the last letter but to the whole word (sutta 19) - vocab: #\[\[**pāḷi** vocab (2nd year)\]\] - niddiṭṭha \[nī + √dis + ta\] → pp. defined; designated; explained
+- - - - some anubandhas are put after the word, while others are put before the word - this is necessary, as some substitutions apply not just to the last letter but to the whole word (sutta 19) - vocab: #\[\[**pāḷi** vocab (2nd year)\]\] - niddiṭṭha \[nī + √dis + ta\]: pp. defined; designated; explained
         - **19\. ṭānubandho**(a)**nekavaṇṇo sabbassa.**
           - **yo ca ṭānubandho ādeso** (whenever there is a substitution with ṭ)**, yo ca anekavaṇṇo ādeso** (and whenever there is a substitution with multiple letters)**, tadubhayaṃ** (both of those) **chaṭṭhīniddiṭṭhassa sabbasseva vaṇṇasamudāyassa** (to precisely the entire collection of letters shown by the genitive case) **ñātabbaṃ** (should be understood to occur).
             - example:
@@ -104,7 +104,7 @@ ana + nā ⇒ ena ⇒ anena
 
 imi + nā ⇒ iminā
 
-- - - - **note**: ṭ will be there when there is only one letter as a replacement, but when there are many letters, even without the symbol ṭ, ṭ does not appear, because it is implied - vocab: #\[\[**pāḷi** vocab (2nd year)\]\] - samudāya \[saṃ + ud + ā + √i + \*a\] masc. ↔ collection; multitude
+- - - - **note**: ṭ will be there when there is only one letter as a replacement, but when there are many letters, even without the symbol ṭ, ṭ does not appear, because it is implied - vocab: #\[\[**pāḷi** vocab (2nd year)\]\] - samudāya \[saṃ + ud + ā + √i + \*a\] masc.: collection; multitude
         - **20\. ñakānubandhā ādyantā.**
           - **ñānubandho āgamo ca** (the insertion shown with the sign ñ) **kānubandho āgamo ca** (and the insertion shown with the sign k) **kamena** (in order) **chaṭṭhīniddiṭṭhassa** (to what is shown with genitive case) **ādimhi ca ante ca** (in the beginning and at the end) **ñātabbo** (should be understood to occur). (ñ ⇒ before; k⇒ after)
             - **ñānubandhe -**
@@ -175,14 +175,14 @@ sarānamantā
 
 **cattārome bhikkhave dhammā - ettha cattārimeti pubbalope sampatte paralopo okāsaṃ labhati.**
 
-- - - - vocab: #\[\[**pāḷi** vocab (2nd year)\]\] - paṭisedha \[pati + √sidh + \*e + a\] masc. ↔ (gram) prohibition; exclusion; negation; 2 masc. prohibition, warding off, refusal - paṭisedheti ↔ pr. wards off, prevents, refuses, prohibits ✗
+- - - - vocab: #\[\[**pāḷi** vocab (2nd year)\]\] - paṭisedha \[pati + √sidh + \*e + a\] masc.: (gram) prohibition; exclusion; negation; 2 masc. prohibition, warding off, refusal - paṭisedheti: pr. wards off, prevents, refuses, prohibits ✗
         - **_23\. saṅketo nāvayavonubandho._** _(just a symbol, not a part of the suffix)_ #**q**🙋🏼‍♂
           - **yo vaṇṇo** (whatever vowel) **payogassa avayavo na hoti** (is not part of the application)**, suttesu saṅketamatto hoti** (is a mere symbol)**, so anubandho nāma** (it is called anubandha)**.**
           - **'gossāva'. gavassaṃ** -
           - **etena padarūpa**(form of a word)**vidhāne** (arrangement) **anubandho upayogaṃ na gacchatīti ñāpeti.**
           - vocab:
-            - avayava masc. ↔ limb, part, constituent 2 (gram) constituent of compound
-            - payoga \[pa + √yuj + \*e + a\] masc. ↔ (gram) usage; application
+            - avayava masc.: limb, part, constituent 2 (gram) constituent of compound
+            - payoga \[pa + √yuj + \*e + a\] masc.: (gram) usage; application
         - **24\. vaṇṇaparena savaṇṇopi.**
           - **vaṇṇasaddo paro** (the succeeding letter) **etasmāti** (from this thus) **vaṇṇaparo** (is vaṇṇaparo)**, vaṇṇaparena rassasarena** (by the succeeding letter after the short vowel) **savaṇṇopi** (similar sound letters) **gayhati** (is employed, is taken) **sayañca** (and itself)**, avaṇṇoti vutte** (when avaṇṇa is said) **ā-kāropi gayhati** (ā is taken too) **a-kāro cāti** (and a as well) **vuttaṃ hoti . evaṃ ivaṇṇuvaṇṇesu.** (in the same way for ivaṇṇa and uvaṇṇa)
           - avaṇṇa includes both a and ā
@@ -198,7 +198,7 @@ nta and ntu are replaced by nto, when there is nominative case 'yo'
 
 guṇava**ntu** + yo ⇒ guṇava**nto**
 
-- - - - vocab: #\[\[**pāḷi** vocab (2nd year)\]\] - yāvant \[yāva + vant\] ↔ adj. as many as; however many
+- - - - vocab: #\[\[**pāḷi** vocab (2nd year)\]\] - yāvant \[yāva + vant\]: adj. as many as; however many
 
 
 ---

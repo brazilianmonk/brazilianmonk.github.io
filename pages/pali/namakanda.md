@@ -5184,7 +5184,7 @@ Summary by Brazil Ariyañāṇa Bhikkhu
     -   **Other Samāsas**:
         -   If the pronoun is not the main meaning, the compound is not declined
             as a pronoun.
-            -   pubbe diṭṭho → diṭṭhapubbo ("seen before") &#x2013; declines as a regular noun, not a pronoun, as the focus is on "seen" rather than pubba.
+            -   pubbe diṭṭho: diṭṭhapubbo ("seen before") &#x2013; declines as a regular noun, not a pronoun, as the focus is on "seen" rather than pubba.
     
     
 
