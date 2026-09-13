@@ -4,7 +4,7 @@ title: Dhamma summaries, notes, essays, etc.
 permalink: /summaries
 ---
 
-Here, you'll find my Dhamma notes and summaries. These are primarily derived, for now, from the Theravāda Buddhist teachings offered at [IIT](https://www.theravado.com/).
+Here, you'll find my Dhamma notes and summaries (most still unformatted). These are primarily derived, for now, from the Buddhist teachings offered at [IIT](https://www.theravado.com/).
 
 {% include youtube.html id="n7j1YDHAEzY" list="PLGXmpHceJ17dZ2OxbXs1vvhEJW5AlVCfx" title="Dhamma Talks in IIT" %}
 

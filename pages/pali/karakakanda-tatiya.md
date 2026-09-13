@@ -5,8 +5,6 @@ permalink: /summaries/pali/karakakanda-tatiya
 ---
 ## Meanings of tatiyā vibhatti
 
-
-
 -   **kattvattha** (agent meaning): agent of the passive voice
 -   **karaṇattha** (instrumental meaning)
 -   **kāraṇa- / hetu- attha** (cause meaning): hetu is the reason for the occurrance of something

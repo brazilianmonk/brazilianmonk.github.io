@@ -4,17 +4,17 @@ title: Tongue Twisters
 permalink: /summaries/eng/tongue-twisters
 ---
 
-## **T**
-    -   **Hard T**: **Tiny tigers tiptoed through the tangled trees, trying to taste the tender tulips.**
-        -   Sound: Voiceless alveolar stop: *t*
-        -   Words: tiny, tigers, tiptoed, tangled, trees, trying, taste, tender, tulips
-    -   **Soft T**: **Betty bought butter but the butter was bitter, so Betty bought better butter to make the bitter butter better.**  
-        -   Sound: Voiceless alveolar stop: *t*
-        -   Words: Betty, bought, butter, bitter, better, make
-## **TH**
-    -   **Voiceless TH**: **I thought a thought. But the thought I thought wasn’t the thought I thought I thought. If the thought I thought I thought had been the thought I thought, I wouldn’t have thought I thought.**
-    -   **Voiced vs. Voiceless TH**: **Thirty-three thankful brothers thrust that thick leather feather through their mother's leather couch.** 
-        -   Voiceless TH
+## T
+-   **Hard T**: **Tiny tigers tiptoed through the tangled trees, trying to taste the tender tulips.**
+	-   Sound: Voiceless alveolar stop: *t*
+	-   Words: tiny, tigers, tiptoed, tangled, trees, trying, taste, tender, tulips
+-   **Soft T**: **Betty bought butter but the butter was bitter, so Betty bought better butter to make the bitter butter better.**  
+	-   Sound: Voiceless alveolar stop: *t*
+	-   Words: Betty, bought, butter, bitter, better, make
+## TH
+-   **Voiceless TH**: **I thought a thought. But the thought I thought wasn’t the thought I thought I thought. If the thought I thought I thought had been the thought I thought, I wouldn’t have thought I thought.**
+	-   **Voiced vs. Voiceless TH**: **Thirty-three thankful brothers thrust that thick leather feather through their mother's leather couch.** 
+		-   Voiceless TH
             -   IPA: *θ*
             -   Sound: unvoiced "th" (like "think")
             -   Words: thought, thirthy, three, thankful, thrust, thick, through
@@ -22,7 +22,7 @@ permalink: /summaries/eng/tongue-twisters
             -   IPA: *ð*
             -   Sound: voiced "th" (like "this")
             -   Words: the, brothers, that, leather, feather, their, mother, leather
-## **L vs. R**
+## L vs. R
 - **Laura Aurora learned to lure the reluctant rabbit to race around the rugged rocks.**
     -   L
         -   IPA: *l*
@@ -32,7 +32,7 @@ permalink: /summaries/eng/tongue-twisters
         -   IPA: *ɹ*
         -   Sound: English R
     -   Words: Aurora, rabbit, race, rugged, rocks
-## **G vs. K**
+## G vs. K
 - **Gary the goofy kangaroo greeted the giggling geese while kicking kaleidoscopes.**
     -   G
         -   IPA: *ɡ*
@@ -42,11 +42,11 @@ permalink: /summaries/eng/tongue-twisters
         -   IPA: *k*
         -   Sound: voiceless velar stop
         -   Words: kangaroo, kicking, kaleidoscopes
-## **R**
+## R
 - **Rory the warrior and Roger the worrier were reared wrongly in a rural brewery.** 
     -   Sound: English R: *ɹ*
     -   Words: Rory, warrior, Roger, worrier, reared, wrongly, rural, brewery
-## **SH vs. S**
+## SH vs. S
 - **She sells seashells by the seashore and the seashells she sells are seashore-shells.** 
     -   SH
         -   IPA: *ʃ*
@@ -56,7 +56,7 @@ permalink: /summaries/eng/tongue-twisters
         -   IPA: *s*
         -   Sound: voiceless "s"
         -   Words: sells, seashells, seashore, shells
-## **TS vs. ST**
+## TS vs. ST
 - **Persistent dentists insisted on assisting tourists despite the protests of the dentists' assistants.**
     -   TS
         -   IPA: *ts*
@@ -65,7 +65,7 @@ permalink: /summaries/eng/tongue-twisters
     -   ST
         -   IPA: *st*
         -   Words: persistent, insisted, assisting, protests
-## **L**
+## L
     -   **IL**: **Will the shrill drill skillfully fill the grill with dill until it's still on the hill?**
         -   IPA: *ɪl*
         -   Words: will, shrill, skillfully, fill, dill, still, hill
@@ -73,7 +73,7 @@ permalink: /summaries/eng/tongue-twisters
         -   NOT EWWWWWW (with lips)
         -   IPA: *ɔɪl*
         -   Words: foil, oiled, oil, toil
-## **KS vs. SK vs. X**
+## KS vs. SK vs. X
 - **He asks his eccentric ex for an X-ray of the axe's axis.**
     -   KS
         -   IPA: *ks*
@@ -84,7 +84,7 @@ permalink: /summaries/eng/tongue-twisters
     -   X
         -   IPA: *ks*
         -   Words: ex, X-ray, axe's, axis
-## **SHUN vs. JEAN**
+## SHUN vs. JEAN
 - **A special decision of a musician caused confusion and visions at the fashion session.**
     -   Voiceless "Shun"
         -   IPA: *ʃ* or *ʃən* (unvoiced, like a quiet "shh")
@@ -100,7 +100,7 @@ permalink: /summaries/eng/tongue-twisters
         -   IPA: *ʒən*
         -   Sound: voiced "zhun"
         -   Words: decision, confusion, vision
-## **I**
+## I
     -   **Short *ɪ***: **Tim's little pig, Willis, flips six big tins in a quick trip.**
         -   Sound: Keep your jaw relaxed, tongue forward, and lips loose—do not stretch into a smile for any of these words.
     -   ***aɪ***: **My wife and I went live on a hike and tied five hives with a knife.**
@@ -116,7 +116,7 @@ permalink: /summaries/eng/tongue-twisters
             -   Sound: Open your mouth wide ("ah") and glide up to "ee".
             -   Words: live (in-person)
         -   The Story: Tim and Lily leave their small, living baby chicken behind so they can go watch an in-person music show in the city.
-## **F vs V**
+## F vs V
     -   **F**: **My Friends and wife had a rough cough in the forest, and the farmacy was stuffed with coffee-flavor flowers and phosphorous.**
     -   **V**: **Viviparous vipers are very venomous, have vivid colors, are voratious, and make high level vocalizations.**
         -   IPA: *v*
@@ -124,7 +124,7 @@ permalink: /summaries/eng/tongue-twisters
             -   Common mistake: "B" (with lips)
         -   Words: Viviparous, vipers, very, venomous, vivid, voratious, level, vocalizations
     -   **F vs V**: **Fie! O foe of five wives, the fever of the favela!**
-## **IRL**
+## IRL
 - **A whirlwing hurled a pearl to a curly-haired girl and an earl curled the world.**
 
 
