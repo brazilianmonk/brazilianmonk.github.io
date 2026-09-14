@@ -1,9 +1,5 @@
----
-layout: page
-title: Pāḷi Pāṭha Sikkhā
-permalink: /summaries/pali/pps-ch1-1-10
----
-by Bhante Vijitānanda (IIT)
+--- layout: page title: Pāḷi Pāṭha Sikkhā permalink: /summaries/pali/pps-ch1-1-10
+--- by Bhante Vijitānanda (IIT)
 
 Summary by Brazilian Monk
 
@@ -33,12 +29,15 @@ Summary by Brazilian Monk
             - Sara (vowels)
                 - a, ā, i, ī, u, ū, e, o
             - Vyañjana (consonants)
-                - k, kh, g, gh, ṅ
-                - c, ch, j, jh, ñ
-                - ṭ, ṭh, ḍ, ḍh, ṇ
-                - t, th, d, dh, n
-                - p, ph, b, bh, m
-                - y, r, l, v, s, h, ḷ, ṁ (niggahīta)
+
+                | k kh g gh ṅ |
+                |---|
+                | c ch j jh ñ |
+                | ṭ ṭh ḍ ḍh ṇ |
+                | t th d dh n |
+                | p ph b bh m |
+                | y r l v s h ḷ ṁ (niggahīta) |
+
 - **Lesson 2 - Agent & Action** 
     - Agent/subject that performs the action: kattu (kattā)
     - An act done by the agent, action, verb: kiriyā
@@ -354,14 +353,18 @@ Summary by Brazilian Monk
         - Vivarati: opens 
         - Yāti: goes, proceeds, travels, (army) marches against, pursues
 - **Lesson 9 - Purisa** 
-    - declension of ^^**purisa **^^(purisādigaṇa)>>>
-        - **nom. **puris^^**o**^^ / puris^^**ā**^^ 
-        - **voc.** (bho) purisa, " / (bhonto) "
-        - **acc**. puris^^**aṁ**^^ / puris^^**e**^^ 
-        - **ins.** puris^^**ena**^^ / puris^^**ehi**^^, puris^^**ebhi**^^ 
-        - **dat.**/**gen.** puris^^**assa**^^ / puris^^**ānaṁ**^^ 
-        - **abl.** purisa^^**smā**^^, purisa^^**mhā**^^, puris^^**ā**^^ / purisehi, purisebhi
-        - **loc. **purisa^^**smiṁ**^^, purisa^^**mhi**^^, puris^^**e**^^ / puris^^**esu**^^ 
+    - Declension of ^^**purisa **^^(purisādigaṇa)>>>
+
+        | case | singular | plural |
+        |---|---|---|
+        | nom. | **puris^^**o**^^ | puris^^**ā**^^ |
+        | voc. | (bho) purisa, " | (bhonto) " |
+        | acc | puris^^**aṁ**^^ | puris^^**e**^^ |
+        | ins. | puris^^**ena**^^ | puris^^**ehi**^^, puris^^**ebhi**^^ |
+        | dat./gen. | puris^^**assa**^^ | puris^^**ānaṁ**^^ |
+        | abl. | purisa^^**smā**^^, purisa^^**mhā**^^, puris^^**ā**^^ | purisehi, purisebhi |
+        | loc. | **purisa^^**smiṁ**^^, purisa^^**mhi**^^, puris^^**e**^^ | puris^^**esu**^^ |
+
     - Declension (English definition): the inflection of nouns and pronouns and adjectives
     - Declination (English definition): a condition inferior to an earlier condition; a gradual falling off from a better state; a downward slope or bend; a polite refusal of an invitation.
     - what does the nominative case express?: the meaning of the noun stem (liṅgattha)
@@ -407,9 +410,13 @@ Summary by Brazilian Monk
     - there are 8 types of **verbal** tenses
     - vattamāna vibhatti: present tense
     - 3 types of grammatical persons and their vattamāna vibhatti terminations>>>
-        - Paṭhama purisa (third person): ti / nti
-        - Majjhima purisa (second person): si / tha
-        - Uttama purisa (first person): mi / ma
+
+        | person | singular | plural |
+        |---|---|---|
+        | paṭhama purisa (third person) | ti | nti |
+        | majjhima purisa | si | tha |
+        | uttama purisa | mi | ma |
+
     - Vocab:  
         - Paṭhati: reads
         - Pada (nt.): word (as in nāmap.), part of a word, suffix, foot, path, track, way, (poetry) line, phrase, sentence, saying, place, position, reason, cause, part, component, footprint
@@ -450,10 +457,12 @@ Summary by Brazilian Monk
             - api (nip.): just, only, even, even then, if 
             - upari (nip.): above, overhead, on top 
         - Prefixes also do not undergo any changes in declension. In most cases they are added to the beginning of a root or a noun to change their meaning. There are **20** **upasagga **(prefixes) in pāḷi>>>
-            - pa, parā, ni, nī, u, du, 
-            - saṁ, vi, ava, anu,
-            - pari, adhi, abhi, pati, su, ā
-            - ati, api, apa, upa
+            | upasaggas |
+            |---|
+            | pa, parā, ni, nī, u, du |
+            | saṁ, vi, ava, anu |
+            | pari, adhi, abhi, pati, su, ā |
+            | ati, api, apa, upa |
         - **vocab:**   
             - Upa (upasagga): indicates closeness, vicinity
             - Upagacchati: approaches close

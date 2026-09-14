@@ -213,11 +213,8 @@ permalink: /summaries/pali/dhammapada-reading-1
       - with ruccati, the dative case is used "māyasmantānampi saṅghabhedo ruccittha"
       - paribhuñjanti: present, but means from then onwards
       - yathāruci: adverb; paṭhamavibhatti; can also be ruciṁ
-
-      | person | singular | plural |
-      |---|---|---|
-      | 3rd pp. | rarely | paṭhamāvibhatti can be used as an adverb |
-      | 2nd pp. | she saw the suitable lodging | so natthi is not the answer to the reflection |
+      - rarely, paṭhamāvibhatti can be used as an adverb
+      - she saw the suitable lodging, so natthi is not the answer to the reflection
 
 - Paragraph 20
   - te ekaggena cittena vipassanaṃ vaḍḍhetvā na cirasseva (cirassaṁ [nip: long time] eva) saha paṭisambhidāhi arahattaṃ patvā cintayiṃsu – “Aho (oh!) mahāupāsikā amhākaṃ patiṭṭhā jātā (became the support for us), sace mayaṃ sappāyāhāraṃ na labhimha, na no (amha) maggaphalapaṭivedho abhavissa (kālātipatti), idāni vuṭṭhavassā (those who have stayed the rains) pavāretvā satthu (4) santikaṃ gamissāmā”ti. Te “Satthāraṃ daṭṭhukāmamhā”ti (daṭṭhukāmā amha [we are]) mahāupāsikaṃ āpucchiṃsu. Mahāupāsikā "sādhu, ayyā”ti. Te anugantvā (having followed them) "Punapi (again also), bhante, amhe olokeyyāthā”ti (please see us) bahūni piyavacanāni vatvā paṭinivatti (she returned).
@@ -344,12 +341,8 @@ permalink: /summaries/pali/dhammapada-reading-1
       - ni aya niraya
       - apa aya apāya
         - anaya [na + √i + *a] ✓: masc. trouble; tragedy; misfortune; calamity; (comm) suffering; lit. not good luck; 1.2 masc. wrong way; [na > a + √as + ana] 2.1 nt. not eating; fasting; no food
-
-    | person | singular | plural |
-    |---|---|---|
-    | 3rd pp. | sakkā | vaṭṭati + tumanta ⇒ tumanta is the subject |
-    | 2nd pp. | when 2 synonyms are used together | it shows emphasis |
-
+    - sakkā, vaṭṭati + tumanta ⇒ tumanta is the subject
+    - when 2 synonyms are used together, it shows emphasis
     - labhitabbālabhitabbayuttāyuttaṭṭhānesu
       - labhitabba: things that should be obtained
       - ṭhāna: place for the mind

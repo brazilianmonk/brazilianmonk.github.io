@@ -144,7 +144,7 @@ def normalize(t: str) -> str:
     t = re.sub(r" +([,.;:!?])", r"\1", t)
     t = re.sub(r"\(\s+", "(", t)
     t = re.sub(r"\s+\)", ")", t)
-    return arrows_to_colon(t).strip()
+    return strip_misc_text(arrows_to_colon(t).strip())
 
 
 # ---------------------------------------------------------------- node -> md
@@ -161,7 +161,9 @@ def node_to_md(node, depth: int) -> list[str]:
         return ["\n"]
     if name == "img":
         src = img_src(node)
-        return [f"![image](https://remnote-user-data.s3.amazonaws.com/{src})"] if src else []
+        if src and not re.match(r"^https?://", src):
+            src = "https://remnote-user-data.s3.amazonaws.com/" + src
+        return [f"![image]({src})"] if src else []
     if name in ("style", "script"):
         return []
     if name == "mark":
@@ -462,10 +464,31 @@ ANCHOR_RE = re.compile(r"^<!-- ANCHOR:([a-z0-9\-]+) -->$")
 
 # gloss arrows → colon+space (user preference); ⇒ (step-by-step derivations) untouched
 ARROW_RE = re.compile(r"\s*[↔→←]\s*")
+DOWN_ARROW_RE = re.compile(r"\s*↓\s*")
 
 
 def arrows_to_colon(t: str) -> str:
     return ARROW_RE.sub(": ", t)
+
+
+def strip_misc_text(t: str) -> str:
+    """Per-word text fixes applied to every bullet: the ↓ pointer arrows are
+    dropped completely; a '*' before 'declension' is the RemNote private-bullet
+    glyph; and 'rassa sara' is a recurring typo for 'rasa sara' (short
+    vowels). Numbering artifacts ('1.', '9.') are stripped only where they are
+    pure list artifacts (fix_ch3_sannaa), not globally — sutta/vagga numbers
+    elsewhere are meaningful."""
+    t = DOWN_ARROW_RE.sub("", t)
+    # the RemNote private-bullet glyph ('- *declension', markup form
+    # '- ^^*****^^declension') is dropped and the word capitalized; a balanced
+    # bold label ('**declension**: ...') can never match (the lookahead sees
+    # a '*' or a colon, not 'declension')
+    m2 = re.match(r"^(\s*(?:-\s*)?)(?:\^\^\*+\^\^|\*)(?=declension\b)", t)
+    if m2:
+        t = m2.group(1) + t[m2.end():]
+    t = re.sub(r"^(\s*(?:-\s*)?)declension\b", r"\1Declension", t, count=1)
+    t = t.replace("rassa sara", "rasa sara")
+    return t
 H_RE = re.compile(r"^(#{1,3}) (.+)$")
 DETAILS_OPEN = re.compile(r"^<details open>$")
 
@@ -627,30 +650,41 @@ BULLET_LINE = re.compile(r"^( *)- (.*)$")
 def rebase_lists(lines: list[str]) -> list[str]:
     """Re-indent bullet columns so a list never appears to start deeper than
     3 spaces (which markdown would render as a code block), while keeping
-    true nesting intact."""
+    true nesting intact.
+
+    A bullet at the same raw indent as the previous bullet of its run is a
+    SIBLING and keeps the run's depth - it must not be pushed one level
+    deeper (that used to nest 'Vowels: sara' under 'Pāḷi means...', etc.).
+    A blank line is also inserted before headings so renderers don't fold
+    them into the preceding list item."""
     out: list[str] = []
-    stack: list[int] = []  # columns of currently open list levels
+    stack: list[int] = []  # raw indent columns of currently open levels
     for line in lines:
         m = BULLET_LINE.match(line)
         if m:
             c = len(m.group(1))
-            while stack and c <= stack[-1]:
+            while stack and c < stack[-1]:
                 stack.pop()
-            if not stack:
-                c = 0
-                stack.append(0)
-            elif c == stack[-1] + 2:
+            if stack and c == stack[-1]:
+                depth = len(stack) - 1  # sibling: same depth as its level
+            else:  # deeper than every open level: new child level
                 stack.append(c)
-            else:
-                c = stack[-1] + 2
-                stack.append(c)
-            out.append(" " * c + "- " + m.group(2))
+                depth = len(stack) - 1
+            out.append(" " * (depth * 2) + "- " + m.group(2))
             continue
         stripped = line.strip()
         if not stripped:
             out.append(line)  # blank lines don't close a list
             continue
-        if line.startswith(("#", "<", "<!", "|", "    ")):
+        if line.startswith("#"):
+            # keep headings out of the preceding list item / table row
+            if (out and out[-1].strip()
+                    and not out[-1].lstrip().startswith("#")):
+                out.append("")
+            stack = []
+            out.append(line)
+            continue
+        if line.startswith(("<", "|", "    ")):
             stack = []
             out.append(line)
             continue
@@ -772,6 +806,41 @@ def fix_ch1_lesson8(lines: list[str]) -> list[str]:
     return out
 
 
+PREFIX_LISTS = (
+    "pa, parā, ni, nī, u, du,",
+    "saṁ, vi, ava, anu,",
+    "pari, adhi, abhi, pati, su, ā",
+    "ati, api, apa, upa",
+)
+
+
+def fix_ch1_indeclinables(lines: list[str]) -> list[str]:
+    """10.2 'Indeclinable particles and prefixes': the four prefix-group
+    bullets are a plain enumeration, not a declension - render them as a
+    4-row single-column table (no singular/plural columns) under an
+    'upasaggas' header row (so the first vagga row does not render bold)
+    below the 'Prefixes also do not undergo...' bullet."""
+    dropped = 0
+    out: list[str] = []
+    for line in lines:
+        if line.strip().lstrip("- ").rstrip() in PREFIX_LISTS:
+            dropped += 1
+            continue
+        out.append(line)
+        if line.strip().startswith(
+                "- Prefixes also do not undergo any changes in declension"):
+            out.append("")
+            rows = [r.rstrip(",").strip() for r in PREFIX_LISTS]
+            out.append("    | upasaggas |")
+            out.append("    |---|")
+            out.extend("    | " + r + " |" for r in rows)
+            out.append("")
+    if dropped:
+        print(f"fix_ch1_indeclinables: tableized {len(PREFIX_LISTS)} prefix "
+              f"rows (dropped {dropped} bullets)")
+    return out
+
+
 EXERCISE_BULLET_RE = re.compile(r"^(\s*)- Lesson \d+ - [Ee]xercises\s*$")
 
 
@@ -850,7 +919,10 @@ CASE_ROW_RE = re.compile(
     re.I)
 CASE_MONO_SPLIT_RE = re.compile(r"\s+(?=" + CASE_LABEL + r"\.)", re.I)
 VERB_ROW_RE = re.compile(r"^(?P<indent>\s*)- (?P<rest>\S.*)$")
-VERB_CELL_BAD = re.compile(r"[.\-:|]| - |–|—")
+VERB_CELL_BAD = re.compile(r"[.\-:|>]| - |–|—|⇒|√|×|･")
+VERB_COMMA_PAIR = re.compile(r"^[^,]+,[^,]+$")
+_VERB_WORD_RE = re.compile(r"[^\W\d_]+", re.UNICODE)  # a single word
+_ASCII_WORD_RE = re.compile(r"[A-Za-z]+")
 _VERB_PERSONS = ["3rd pp.", "2nd pp.", "1st pp."]
 
 
@@ -906,9 +978,279 @@ def declension_tables(lines: list[str]) -> list[str]:
     tables where '/' separates singular from plural. Also splits a single
     bullet holding a whole declension. Runs shorter than 3 rows (usually
     mem-aid notes) stay as bullets. Additionally converts unlabeled
-    singular/plural bullet runs (gunavantu, yagu, taruni, ...) and verbal
-    conjugation runs (ajjatani/bhavissanti/sattami ...) into tables."""
-    return _case_tables(_verb_tables(_noun_tables(lines)))
+    singular/plural bullet runs (gunavantu, yagu, taruni, ...), verbal
+    conjugation runs (ajjatani/bhavissanti/sattami ...) and letter
+    enumerations (the alphabet vagga rows) into tables."""
+    return _case_tables(_termination_tables(_verb_tables(_noun_tables(
+        _person_purisa_tables(_alphabet_tables(lines))))))
+
+
+_PERSON_PURISA_RE = re.compile(
+    r"^(?P<person>(?:paṭhama|pathama|majjhima|uttama)\s+purisa)\s+(?P<rest>\S.*)$", re.I)
+
+
+def _person_purisa_tables(lines: list[str]) -> list[str]:
+    """Conjugation bullets like 'paṭhama purisa (third person): ti / nti'
+    carry the person label inside the singular cell; split it out so the run
+    becomes a | person | singular | plural | table with all three persons.
+    An English translation ('third person') stays in parenthesis on the
+    first row only; later rows keep just the Pāḷi term."""
+    out: list[str] = []
+    i, n = 0, len(lines)
+    while i < n:
+        m = re.match(r"^(?P<indent>\s*)- (?P<rest>\S.*)$", lines[i])
+        pm = _PERSON_PURISA_RE.match(m.group("rest")) if m else None
+        if not pm or "/" not in pm.group("rest"):
+            out.append(lines[i])
+            i += 1
+            continue
+        indent = len(m.group("indent"))
+        rows: list[tuple[str, str, str, str]] = []
+        j = i
+        while j < n:
+            mm = re.match(r"^(?P<indent>\s*)- (?P<rest>\S.*)$", lines[j])
+            if not mm or len(mm.group("indent")) != indent:
+                break
+            p2 = _PERSON_PURISA_RE.match(mm.group("rest"))
+            if not p2:
+                break
+            person = p2.group("person").lower()
+            rest = p2.group("rest")
+            trans = ""
+            mt = re.match(r"^\(([^()]*)\)\s*:?\s*(.*)$", rest)
+            if mt and "person" in mt.group(1).lower():
+                trans = mt.group(1)
+                rest = mt.group(2)
+            if "/" not in rest:
+                break
+            sg, pl = (x.strip() for x in rest.split("/", 1))
+            if not sg or not pl:
+                break
+            rows.append((person, trans, sg, pl))
+            j += 1
+        if len(rows) >= 2:
+            out.append("")
+            out.append(" " * indent + "| person | singular | plural |")
+            out.append(" " * indent + "|---|---|---|")
+            for k, (person, trans, sg, pl) in enumerate(rows):
+                label = person + (f" ({trans})" if k == 0 and trans else "")
+                out.append(" " * indent + f"| {label} | {sg} | {pl} |")
+            out.append("")
+            i = j
+        else:
+            out.append(lines[i])
+            i += 1
+    return out
+
+
+def _alpha_parts(text: str) -> str | None:
+    """'k, kh, g, gh, ṅ' -> 'k kh g gh ṅ'; None if not a letter enumeration
+    (items are 1-2 letter words, optionally with a '(...)' annotation)."""
+    text = text.strip()
+    if "," not in text or "/" in text or ":" in text:
+        return None
+    parts = [p.strip() for p in text.split(",")]
+    if len(parts) < 3:
+        return None
+    for p in parts:
+        if not re.fullmatch(r"[^\s,/]{1,2}\s*(\([^)]*\))?", p):
+            return None
+    return " ".join(parts)
+
+
+def _alphabet_tables(lines: list[str]) -> list[str]:
+    """Runs of >=2 letter-enumeration bullets (one vagga per bullet) become a
+    single-column table without a header row: the first vagga row renders as
+    the table head, exactly as '|' k kh g gh ṅ |'. Vowel lists (single rows)
+    and vocab glosses stay bullets."""
+    out: list[str] = []
+    i, n = 0, len(lines)
+    while i < n:
+        m = re.match(r"^(?P<indent>\s*)- (?P<rest>\S.*)$", lines[i])
+        if not m or _alpha_parts(m.group("rest")) is None:
+            out.append(lines[i])
+            i += 1
+            continue
+        indent = len(m.group("indent"))
+        rows = [_alpha_parts(m.group("rest"))]
+        j = i + 1
+        while j < n:
+            mm = re.match(r"^(?P<indent>\s*)- (?P<rest>\S.*)$", lines[j])
+            if not mm or len(mm.group("indent")) != indent:
+                break
+            p = _alpha_parts(mm.group("rest"))
+            if p is None:
+                break
+            rows.append(p)
+            j += 1
+        if len(rows) >= 2:
+            out.append("")
+            out.append(" " * indent + "| " + rows[0] + " |")
+            out.append(" " * indent + "|---|")
+            out.extend(" " * indent + "| " + r + " |" for r in rows[1:])
+            out.append("")
+            i = j
+        else:
+            out.append(lines[i])
+            i += 1
+    return out
+
+
+_TERMINATION_TOKEN = re.compile(r"^[()\-a-zāīūṅñṭḍṇḷṁṃ]+$", re.I)
+_INTERJ_RE = re.compile(r"\s\((?:bho|bhonto|bhavant[āa]|bhoti|bhotiyo)\)")
+
+
+def _termination_row(text: str) -> list[str] | None:
+    """A verbal-termination bullet like '-tu / -antu' or '(a)-hi / -tha':
+    exactly two parts, each a single Pāḷi token carrying a hyphen or a
+    parenthesis. Plain form pairs ('gacchati / gacchanti') never match."""
+    text = text.strip().rstrip(":,").strip()
+    if "/" not in text or ("-" not in text and "(" not in text):
+        return None
+    parts = [p.strip() for p in text.split("/")]
+    if len(parts) != 2 or not all(parts):
+        return None
+    cells = [re.sub(r"\s+", "", p) for p in parts]
+    if not all(_TERMINATION_TOKEN.fullmatch(c) for c in cells):
+        return None
+    return cells
+
+
+def _termination_tables(lines: list[str]) -> list[str]:
+    """Runs of >=2 hyphenated verbal-termination bullets ('-tu / -antu',
+    '(a)-hi / -tha', '(ā)-mi / (ā)-ma') become a | person | singular |
+    plural | table (3rd, 2nd, 1st pp.). Single rows and prose stay bullets."""
+    out: list[str] = []
+    i, n = 0, len(lines)
+    while i < n:
+        m = re.match(r"^(?P<indent>\s*)- (?P<rest>\S.*)$", lines[i])
+        r0 = _termination_row(m.group("rest")) if m else None
+        if r0 is None:
+            out.append(lines[i])
+            i += 1
+            continue
+        indent = len(m.group("indent"))
+        rows = [r0]
+        j = i + 1
+        while j < n:
+            mm = re.match(r"^(?P<indent>\s*)- (?P<rest>\S.*)$", lines[j])
+            r = _termination_row(mm.group("rest")) if mm else None
+            if r is None or len(mm.group("indent")) != indent:
+                break
+            rows.append(r)
+            j += 1
+        if len(rows) >= 2:
+            pad = " " * indent
+            out.append("")
+            out.append(pad + "| person | singular | plural |")
+            out.append(pad + "|---|---|---|")
+            for k, (sg, pl) in enumerate(rows):
+                p = _VERB_PERSONS[k] if k < len(_VERB_PERSONS) else str(k + 1)
+                out.append(pad + f"| {p} | {sg} | {pl} |")
+            out.append("")
+            i = j
+        else:
+            out.append(lines[i])
+            i += 1
+    return out
+
+
+def _mono_declension(text: str) -> tuple[list[list[str]], str] | None:
+    """Split a declension smashed into a single bullet into singular/plural
+    rows: 'cittaṁ / cittā, cittāni (bho) citta, cittā / (bhavantāni) "
+    cittaṁ / citte, cittāni...(as purisa)'. The transition between a plural
+    cell and the next singular cell is an interjection parenthesis ('(bho)')
+    or a repeated-cell quote (' "'). Returns (rows, trailing note)."""
+    text = text.strip().rstrip(">")
+    if text.count("/") != 3:
+        return None
+    if re.search(r"\b" + CASE_LABEL + r"\b", text, re.I):
+        return None
+    parts = [p.strip() for p in text.split("/")]
+
+    def transition(seg: str) -> tuple[str, str] | None:
+        qi = seg.find('"')
+        pm = _INTERJ_RE.search(seg)
+        if qi != -1 and (pm is None or qi < pm.start()):
+            return seg[:qi + 1].strip(), seg[qi + 1:].strip()
+        if pm:
+            return seg[:pm.start()].strip(), seg[pm.start():].strip()
+        return None
+
+    t1 = transition(parts[1])
+    t2 = transition(parts[2])
+    if t1 is None or t2 is None:
+        return None
+    pl1, sg2 = t1
+    pl2, sg3 = t2
+    if not (parts[0] and pl1 and sg2 and pl2 and sg3):
+        return None
+    tail = parts[3]
+    note = ""
+    mn = re.search(r"((?:\.{2,}|\u2026)\s*)?(\([^()]*\))\s*$", tail)
+    if mn and (mn.group(1) or " " in mn.group(2)):
+        note = mn.group(2)
+        tail = tail[:mn.start(2)].strip()
+        if mn.group(1):
+            tail = tail.rstrip(".\u2026 \t").strip()
+    if not tail:
+        return None
+    return [[parts[0], pl1], [sg2, pl2], [sg3, tail]], note
+
+
+def _prefix_table(lines: list[str]) -> list[str]:
+    """Curated pages carry the four upasagga group bullets as literal lines;
+    replace them with the headered single-column table (same as the
+    generated pages get from fix_ch1_indeclinables)."""
+    want = [r.rstrip(",").strip() for r in PREFIX_LISTS]
+    pat = re.compile(r"^\s*- (?:pa, parā|saṁ, vi|pari, adhi|ati, api)")
+    out: list[str] = []
+    i, n = 0, len(lines)
+    while i < n:
+        if pat.match(lines[i]):
+            j = i
+            rows: list[str] = []
+            while j < n and pat.match(lines[j]):
+                rows.append(lines[j].strip().lstrip("- ").rstrip(", \t"))
+                j += 1
+            if rows == want:
+                pad = " " * (len(lines[i]) - len(lines[i].lstrip()))
+                out.append(pad + "| upasaggas |")
+                out.append(pad + "|---|")
+                out.extend(pad + "| " + r + " |" for r in rows)
+                i = j
+                continue
+        out.append(lines[i])
+        i += 1
+    return out
+
+
+def _join_wrapped_bullets(lines: list[str]) -> list[str]:
+    """RemNote exports wrap long bullets over several physical lines ('- ī,
+    i, / uṁ, iṁsu' / 'o, (i) / ttha' / ...). Rejoin any non-empty line that
+    is neither a bullet, a table row, a heading nor a comment into its
+    preceding bullet, so the declension/table parsers see one bullet."""
+    out: list[str] = []
+    for line in lines:
+        if (out and line.strip()
+                and not line.lstrip().startswith(("-", "|", "#", "<"))
+                and out[-1].strip()):
+            out[-1] = out[-1].rstrip() + " " + line.strip()
+        else:
+            out.append(line)
+    return out
+
+
+def _curated_tables(lines: list[str]) -> list[str]:
+    """declension_tables for hand-curated pages: rejoins RemNote-wrapped
+    bullets, runs the prefix-group replacement, text fixes (↓ arrows, the
+    '*declension' glyph, 'rassa sara'), then the standard pipeline."""
+    lines = _join_wrapped_bullets(lines)
+    lines = _prefix_table(lines)
+    lines = [strip_misc_text(l) if not l.lstrip().startswith(("|", "#", "<"))
+             else l for l in lines]
+    return _case_tables(_termination_tables(_verb_tables(_noun_tables(
+        _person_purisa_tables(_alphabet_tables(lines))))))
 
 
 def _is_quotable(t: str) -> bool:
@@ -1007,7 +1349,32 @@ def _unlabeled_bullet(text: str) -> bool:
         return False
     if re.match(r"^[A-Z][a-z\u00e0-\u00ff]+\s*:", t):  # 'mem aid:', 'note:' ...
         return False
+    if re.search(r"\w>\w", t):  # sandhi/transformation rule (i>v/a), not forms
+        return False
     return True
+
+
+def _frag_run(lines: list[str], i: int, j: int, indent: int) -> bool:
+    """A candidate table run is 'fragmentary' when a same-indent sibling
+    bullet follows it that is neither a row nor a table/heading. Such lists
+    are partial mem-aids (e.g. guṇavantu 'forms with va:'), not declensions
+    - never tableize them."""
+    for k in range(j, min(j + 3, len(lines))):
+        s = lines[k].strip()
+        if not s:
+            continue
+        mm = re.match(r"^(\s*)- (.+)$", lines[k])
+        if mm:
+            if len(mm.group(1)) != indent:
+                return False
+            if lines[k].startswith(("#", "<", "|")):
+                return False
+            if not re.match(r"^\*?\*?\s*forms with", s, re.I):
+                return True
+            return False
+        if not s.startswith(("#", "<", "|")):
+            return False
+    return False
 
 
 def _noun_tables(lines: list[str]) -> list[str]:
@@ -1017,6 +1384,22 @@ def _noun_tables(lines: list[str]) -> list[str]:
     i, n = 0, len(lines)
     while i < n:
         m = re.match(r"^(?P<indent>\s*)- (?P<rest>.+)$", lines[i])
+        # a whole declension smashed into one bullet ('cittaṁ / cittā, cittāni
+        # (bho) citta, cittā / (bhavantāni) " cittaṁ / citte, cittāni...')
+        # splits into proper sg/pl rows
+        mono = _mono_declension(m.group("rest")) if m else None
+        if mono is not None:
+            rows, note = mono
+            for r in rows:
+                _fix_quotes(r)
+            pad = " " * len(m.group("indent"))
+            out.append("")
+            out.extend(pad + t for t in _unlabeled_run(rows))
+            if note:
+                out.append(pad + "- " + note)
+            out.append("")
+            i += 1
+            continue
         if not m or not _unlabeled_bullet(m.group("rest")):
             out.append(lines[i])
             i += 1
@@ -1045,7 +1428,10 @@ def _noun_tables(lines: list[str]) -> list[str]:
                     j = k
                     continue
             break
-        tbl = _unlabeled_run(rows)
+        if rows and _frag_run(lines, i, j, indent):
+            tbl = None
+        else:
+            tbl = _unlabeled_run(rows)
         if tbl:
             pad = " " * indent
             out.append("")
@@ -1068,12 +1454,31 @@ def _verb_row(text: str) -> list[str] | None:
         return None
     if "/" in text:
         cells = _verb_cells(text)
+        if cells is not None and len(cells) > 3:
+            return None  # a line holds at most 3 person pairs
     else:
+        # a bare comma pair ('eyya, eyyuṃ,'): exactly two comma parts, each a
+        # single word — letter enumerations ('k, kh, g, gh, ṅ'), word lists
+        # and multi-word glosses are not verb rows. The trailing comma is a
+        # line-wrap artifact and is dropped before splitting.
         t = text.rstrip(",").strip()
-        if "," not in t:
-            return None
-        a, b = t.split(",", 1)
-        cells = [a.strip(), b.strip().rstrip(",").strip()]
+        parts = [p.strip().rstrip(",").strip() for p in t.split(",")]
+        bare = [p.replace("**", "").strip() for p in parts]  # RemNote bold
+        if (len(parts) != 2 or not all(parts)
+                or not all(len(p) > 1 and _VERB_WORD_RE.fullmatch(p)
+                           for p in bare)):
+            # a whole conjugation smashed into one comma/space-separated line
+            # ('ssati, ssanti ssasi, ssatha ssāmi, ssāma') is 6 single words
+            mm = re.fullmatch(
+                r"(\S+),\s+(\S+)\s+(\S+),\s+(\S+)\s+(\S+),\s+(\S+)", text)
+            if (mm and all(len(w) > 1 and _VERB_WORD_RE.fullmatch(w)
+                           for w in mm.groups())):
+                g = mm.groups()
+                cells = [f"{g[k]}, {g[k + 1]}" for k in (0, 2, 4)]
+            else:
+                return None
+        else:
+            cells = parts
     return [re.sub(r"\s+([,;])", r"\1", c) for c in cells] if cells else None
 
 
@@ -1082,6 +1487,9 @@ def _verb_cells_per_row(cells: list[str]) -> int | None:
     1 cell = a single explicit pair; anything else is not part of a run."""
     if len(cells) == 3 and all("/" in c for c in cells):
         return 3
+    if len(cells) == 3 and all("/" not in c
+                               and VERB_COMMA_PAIR.fullmatch(c) for c in cells):
+        return 3  # one whole conjugation smashed into a single line
     if len(cells) == 2 and all("/" in c for c in cells):
         return 2
     if len(cells) == 1 and "/" in cells[0]:
@@ -1101,6 +1509,14 @@ def _verb_tables(lines: list[str]) -> list[str]:
             i += 1
             continue
         indent = len(m.group("indent"))
+        # head: the first bullet must itself parse as a verb row — this
+        # parser only claims runs of conjugation bullets, not arbitrary
+        # lists (e.g. the consonant alphabet 'k, kh, g, gh, ṅ')
+        r0 = _verb_row(m.group("rest"))
+        if r0 is None or _verb_cells_per_row(r0) is None:
+            out.append(lines[i])
+            i += 1
+            continue
         rows: list[list[str]] = []
         j = i
         while j < n:
@@ -1124,7 +1540,16 @@ def _verb_tables(lines: list[str]) -> list[str]:
                         j = k
                         continue
             break
-        tbl = _verb_table(rows) if len(rows) >= 2 else None
+        # a single smashed 3-pair line ('ī, i, / uṁ, iṁsu o, (i) / ttha iṁ /
+        # mhā, mha') is a complete 3-person conjugation on its own
+        single = (len(rows) == 1 and len(rows[0]) == 3
+                  and all("/" in c or "," in c for c in rows[0]))
+        if rows and _frag_run(lines, i, j, indent):
+            tbl = None
+        elif len(rows) >= 2 or single:
+            tbl = _verb_table(rows)
+        else:
+            tbl = None
         if tbl:
             pad = " " * indent
             out.append("")
@@ -1144,14 +1569,27 @@ def _verb_table(rows: list[list[str]]) -> list[str] | None:
     comma cells = one pair, one slash cell = one pair. The person label is
     the pair's position within its source line (3rd, 2nd, 1st pp.), or the
     line's position when every line holds exactly one pair."""
+    # comma-pair runs (no slashes) need >=3 rows: optative-style termination
+    # lists ('eyya, eyyuṃ,' ...); shorter comma pairs are vocabulary pairs
+    if (rows and all(len(r) == 2 and "/" not in r[0] and "/" not in r[1]
+                     for r in rows) and len(rows) < 3):
+        return None
     per_row: list[list[tuple[str, str]]] = []
     for r in rows:
+        # trailing commas are line-wrap artifacts; ** pairs are RemNote bold
+        r = [re.sub(r",\s*$", "", c.replace("**", "")).strip() for c in r]
         if r and all("/" in c for c in r):
             pr = []
             for c in r:
                 a, b = c.split("/", 1)
-                pr.append((a.strip(), b.strip()))
+                # a comma before the slash is a line-wrap artifact
+                pr.append((a.strip().rstrip(",").strip(), b.strip()))
             per_row.append(pr)
+        elif len(r) == 3 and all("/" not in c and "," in c for c in r):
+            # a whole conjugation smashed into one line: the 3 cells are the
+            # 3 person pairs ('ssati, ssanti' / 'ssasi, ssatha' / 'ssāmi, ssāma')
+            per_row.append([(c.split(",", 1)[0].strip(),
+                             c.split(",", 1)[1].strip()) for c in r])
         elif len(r) == 2:
             per_row.append([(r[0], r[1])])
         elif len(r) == 1:
@@ -1160,6 +1598,14 @@ def _verb_table(rows: list[list[str]]) -> list[str] | None:
             return None
     if not per_row:
         return None
+    # prose guard: a cell holding >=3 ASCII-only words is a sentence or a
+    # definition, not a conjugation form (Pali forms are short or diacritic)
+    for pr in per_row:
+        for sg, pl in pr:
+            for cell in (sg, pl):
+                toks = [t for t in re.split(r"\s+", cell) if t]
+                if sum(1 for t in toks if _ASCII_WORD_RE.fullmatch(t)) >= 3:
+                    return None
     one_per_line = all(len(pr) == 1 for pr in per_row)
     out = ["| person | singular | plural |", "|---|---|---|"]
     for i, pr in enumerate(per_row):
@@ -1185,6 +1631,13 @@ def _case_tables(lines: list[str]) -> list[str]:
                 i += 1
                 continue
         if not m:
+            out.append(lines[i])
+            i += 1
+            continue
+        # prose/formula guard: bullets like 'gen + nom + atthi / natthi:
+        # structure ...' use a case word inside a structural formula, not as
+        # a row label - never start a table from them
+        if re.search(r"\b(?:atthi|natthi)\b", m.group("rest"), re.I):
             out.append(lines[i])
             i += 1
             continue
@@ -1220,6 +1673,23 @@ def _case_tables(lines: list[str]) -> list[str]:
                 j = k  # blank line(s) inside the run
                 continue
             break
+        # an unlabeled sibling bullet directly above the first case row is a
+        # nominative row RemNote left unlabelled: fold it into the table
+        if rows:
+            k = i - 1
+            while k >= 0 and not lines[k].strip():
+                k -= 1
+            pm = re.match(r"^(?P<indent>\s*)- (?P<rest>.+)$", lines[k]) if k >= 0 else None
+            if (pm and len(pm.group("indent")) == indent
+                    and "/" in pm.group("rest")
+                    and _unlabeled_bullet(pm.group("rest"))):
+                # the bullet must be the very last thing emitted verbatim
+                # (possibly followed by blanks) - otherwise leave it alone
+                while out and not out[-1].strip():
+                    out.pop()
+                if out and out[-1] == lines[k]:
+                    out.pop()
+                    rows.insert(0, ("nom.", pm.group("rest").strip()))
         if len(rows) >= 2 or (len(rows) == 1 and "/" in rows[0][1]):
             # keep the table inside its list item: align with the case rows'
             # own indentation (= the parent bullet's content column)
@@ -1289,6 +1759,196 @@ def write_vocab_audit(audit_key: str, fname: str) -> None:
     (AUDIT / fname).write_text("\n".join(lines), encoding="utf-8", newline="\n")
 
 
+# ---------------------------------------------------------------- ch3 restructure
+
+def write_ch3_reading_page(readings: list[dict]) -> None:
+    """Dedicated page for the Chapter III reading (translation exercise)
+    passages, with the lesson they came from and their vocabulary."""
+    lines: list[str] = []
+    for r in readings:
+        lines.append(f"## {r['lesson']}")
+        lines.append("")
+        lines.extend(r["lines"])
+        lines.append("")
+    # drop the VOCAB extraction markers (site plumbing), keep the <details>
+    # vocab boxes themselves so the vocabulary travels with its passage
+    body = [l for l in lines if not VMARKER.match(l.strip())]
+    write_page(PALI / "pps-ch3-reading.md",
+               "Pāḷi Pāṭha Sikkhā — Chapter III, Readings & Translation",
+               "pps-ch3-reading", body, drop_first_h1=True)
+
+
+def fix_ch3_sannaa(lines: list[str]) -> list[str]:
+    """The nine saññā definition bullets under 'saññā (f.) (grammar)' carry
+    RemNote list numbers ('1.', '2.', ..., '9.') on an otherwise unnumbered
+    list — strip them (user request). Sutta/vagga numbers elsewhere are kept."""
+    out: list[str] = []
+    inside = False
+    for l in lines:
+        if re.match(r"^\s*- saññā \(f\.\) \(grammar\)", l):
+            inside = True
+        elif inside and re.match(r"^\s*- 9 saññās under sandhi", l):
+            inside = False
+        if inside:
+            l = re.sub(r"^(\s*- )\d{1,2}[.)]\s*", r"\1", l)
+        out.append(l)
+    return out
+
+
+def drop_heading_numbers(lines: list[str]) -> list[str]:
+    """'## Lesson 7 - 3 grammatical persons...' -> '## Lesson 7 - Grammatical
+    persons...' (RemNote numbered the sub-bullets; the heading is the only
+    place the number is visible)."""
+    out: list[str] = []
+    for l in lines:
+        m = re.match(r"^(## Lesson \d+ - )\d+\.\s+(.*)$", l)
+        out.append(m.group(1) + m.group(2) if m else l)
+    return out
+
+
+def split_ch3_readings(lines: list[str]) -> tuple[list[str], list[dict]]:
+    """Chapter III lessons pair a Pāḷi reading passage (translation exercise)
+    with its grammar points. The readings move to a dedicated page; the
+    grammar stays. A 'Grammar' bullet is promoted to a heading, and the first
+    sub-bullet under it (e.g. 'declension of ta', 'sandhi') becomes a
+    subtitle, per the user's example.
+
+    Returns (remaining_lines, [{lesson, lines}]). The Reading bullet is
+    replaced by a pointer to the reading page, so the source bullet stays
+    represented in place (the verifier's sample check still matches)."""
+    out: list[str] = []
+    readings: list[dict] = []
+    i, n = 0, len(lines)
+    while i < n:
+        line = lines[i]
+        m = re.match(r"^(?P<indent>\s*)- (?P<num>\d+(?:\.\d+)?)\.? Reading\s*$",
+                     line, re.I)
+        if not m:
+            out.append(line)
+            i += 1
+            continue
+        indent = len(m.group("indent"))
+        num = m.group("num").split(".")[0]
+        # current lesson heading (search back for '## Lesson ...')
+        lesson = ""
+        for prev in reversed(out):
+            hm = re.match(r"^## (Lesson \d+[^\n]*)$", prev)
+            if hm:
+                lesson = hm.group(1).strip()
+                break
+        j = i + 1
+        body: list[str] = []
+        while j < n:
+            mm = re.match(r"^(?P<i2>\s*)- \d+(?:\.\d+)?\.? Grammar\s*$",
+                          lines[j], re.I)
+            if mm and len(mm.group("i2")) == indent:
+                break
+            if re.match(r"^## ", lines[j]):
+                break
+            body.append(lines[j])
+            j += 1
+        readings.append({"lesson": lesson, "num": num, "lines": body})
+        out.append(f"{m.group('indent')}- {m.group('num')}. Reading: see the "
+                   f"dedicated [reading & translation page](/summaries/pali/"
+                   f"pps-ch3-reading).")
+        i = j
+    return out, readings
+
+
+def promote_grammar_headings(lines: list[str]) -> list[str]:
+    """'  - N.M Grammar' bullets become '### Grammar' headings so the main
+    topics of each lesson (declension of 'ta', sandhi, ...) sit directly
+    under a clear section. Sub-bullets of the old Grammar bullet are lifted
+    one level up."""
+    out: list[str] = []
+    i, n = 0, len(lines)
+    while i < n:
+        line = lines[i]
+        m = re.match(r"^(?P<indent>\s*)- \d+(?:\.\d+)?\.? Grammar\s*$",
+                     line, re.I)
+        if not m:
+            out.append(line)
+            i += 1
+            continue
+        indent = len(m.group("indent"))
+        out.append("")
+        out.append("### Grammar")
+        i += 1
+        # lift the Grammar block's sub-bullets one level shallower, but only
+        # while they are deeper than the Grammar bullet itself; table, image
+        # and comment lines travel with their preceding bullet
+        while i < n:
+            b = BULLET_LINE.match(lines[i])
+            if b and len(b.group(1)) > indent:
+                out.append(" " * max(0, len(b.group(1)) - indent - 2)
+                           + "- " + b.group(2))
+                i += 1
+                continue
+            non_b = lines[i]
+            if non_b.strip() and not non_b.lstrip().startswith(
+                    ("|", "<!--", "!")):
+                break
+            out.append(non_b)
+            i += 1
+    return out
+
+
+# ---------------------------------------------------------------- ch3 topics
+
+_CH3_TOPIC_RES = [
+    re.compile(r"^- Declension of \S", re.I),
+    re.compile(r"^- Sandhi: euphonic combination$", re.I),
+    re.compile(r"^- Saññā \(f\.\) \(grammar\)", re.I),
+    re.compile(r"^- Sara sandhi is further divided", re.I),
+    re.compile(r"^- Sarasandi$", re.I),
+    re.compile(r"^- Manogaṇa$", re.I),
+    re.compile(r"^- Niggahīta Sandhi$", re.I),
+    re.compile(r"^- Dvebhāva sandhi$", re.I),
+    re.compile(r"^- Cardinal numbers \(saṅkhyā nāma\)", re.I),
+    re.compile(r"^- Causative actions and verbs", re.I),
+    re.compile(r"^- Present tense conjugation of the root", re.I),
+]
+
+
+def fix_ch3_topics(lines: list[str]) -> list[str]:
+    """Promote the main topics of each Chapter III lesson (declension of
+    'ta', sandhi, saññā, ...) to '###' subtitles so they are clearly visible
+    sections under the lesson heading. The promoted bullet is kept verbatim
+    as the heading text (nothing is lost); its children re-nest under the
+    heading. 'pumādigaṇa' sits misfiled one level deep under the mano-group
+    list and is lifted out."""
+    out: list[str] = []
+    for l in lines:
+        if re.match(r"^- Sandhi: euphonic combination$", l, re.I):
+            # the label itself becomes the subtitle; the gloss stays as content
+            out.append("")
+            out.append("### Sandhi")
+            out.append("- Euphonic combination")
+            continue
+        hit = next((rx for rx in _CH3_TOPIC_RES if rx.match(l)), None)
+        if hit:
+            text = re.sub(r"^-\s*", "", l)
+            text = text[0].upper() + text[1:]
+            out.append("")
+            out.append("### " + text)
+            continue
+        if re.match(r"^\s*- pumādigaṇa$", l, re.I):
+            out.append("")
+            out.append("### Pumādigaṇa")
+            continue
+        out.append(l)
+    # a bare '### Grammar' heading immediately followed by a topic subtitle
+    # is redundant (the subtitle carries the structure)
+    out2: list[str] = []
+    for k, l in enumerate(out):
+        if l.strip() == "### Grammar":
+            nxt = next((x for x in out[k + 1:] if x.strip()), "")
+            if nxt.startswith("###"):
+                continue
+        out2.append(l)
+    return out2
+
+
 # ---------------------------------------------------------------- source drivers
 
 def pps() -> None:
@@ -1317,7 +1977,15 @@ def pps() -> None:
             ch_lines = fix_ch1_lesson1(ch_lines)
             ch_lines = fix_ch1_lesson7(ch_lines)
             ch_lines = fix_ch1_lesson8(ch_lines)
+            ch_lines = fix_ch1_indeclinables(ch_lines)
         ch_lines = salvage_exercise_notes(ch_lines)
+        readings: list[dict] = []
+        if n == "3":
+            ch_lines = fix_ch3_sannaa(ch_lines)
+            ch_lines, readings = split_ch3_readings(ch_lines)
+            ch_lines = drop_heading_numbers(ch_lines)
+            ch_lines = promote_grammar_headings(ch_lines)
+            ch_lines = fix_ch3_topics(ch_lines)
         part1, part2 = split_at_lessons(ch_lines)
         for part, lines in ((1, part1), (2, part2)):
             if not lines:
@@ -1328,6 +1996,8 @@ def pps() -> None:
                                   f"/summaries/pali/{slug}", "pps")
             write_page(PALI / f"{slug}.md", title, slug,
                        strip_anchors(lines))
+        if readings:
+            write_ch3_reading_page(readings)
     write_vocab_audit("pps", "vocab-moved-pps.txt")
     for old_name in ("pali-patha-sikkha-ch1-3-notes.md", "pps-ch1.md",
                      "pps-ch2.md", "pps-ch3.md"):
@@ -1552,6 +2222,7 @@ NEW_SUMMARIES_BLOCK = """#### Notes on "Pāḷi Pāṭha Sikkhā" by Ven. Vijit�
 {pps_links}- [Semester II, Part 1 — Chapter III (Lessons 11–17)](/summaries/pali/semester-2-part1)
 - [Semester II, Part 2 — Chapters III & IV (Lessons 18–25, IV 1–19)](/summaries/pali/semester-2-part2)
 - [Final exam, 1st year](/summaries/pali/pps-final-exam-1st-year)
+- [Chapter III — readings & translation](/summaries/pali/pps-ch3-reading)
 
 #### Niruttidīpaṇī — class notes
 - [Part I: saññārāsi, saṅketarāsi, sandhividhāna (Semester III)](/summaries/pali/niruttidipani-part-1)
@@ -1633,8 +2304,28 @@ def update_summaries() -> None:
 
 # ---------------------------------------------------------------- driver
 
+def run_curated(path: str) -> None:
+    """Apply the byte-safe transform pass (arrows, exercise salvage, declension
+    tables) to a hand-curated page, preserving its line endings."""
+    p = (ROOT / path).resolve()
+    raw = p.read_bytes().decode("utf-8")
+    crlf = "\r\n" in raw
+    lines = raw.split("\r\n" if crlf else "\n")
+    lines = _curated_tables(lines)
+    lines = salvage_exercise_notes(lines)
+    lines = [arrows_to_colon(l) for l in lines]
+    out = ("\r\n" if crlf else "\n").join(lines)
+    p.write_bytes(out.encode("utf-8"))
+    print(f"curated pass: {p.name} ({'CRLF' if crlf else 'LF'}, "
+          f"{sum(1 for l in lines if l.lstrip().startswith('| '))} table lines)")
+
+
 def main() -> None:
     AUDIT.mkdir(parents=True, exist_ok=True)
+    if len(sys.argv) >= 3 and sys.argv[1] == "--curated":
+        for path in sys.argv[2:]:
+            run_curated(path)
+        return
     only = set(sys.argv[1:])
     do_all = not only
     if do_all or "pps" in only:

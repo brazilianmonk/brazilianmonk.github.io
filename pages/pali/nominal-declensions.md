@@ -30,18 +30,18 @@ permalink: /summaries/pali/nominal-declensions
       - other grammarians do not consider so
 - Cittādigaṇa
 - Pumādigaṇa
-  - declension of yuva (m.) (pumādigaṇa) (to be added)
-  - declension of addha (m.) (pumādigaṇa) (to be added)
+  - Declension of yuva (m.) (pumādigaṇa) (to be added)
+  - Declension of addha (m.) (pumādigaṇa) (to be added)
 - Rājādigaṇa
-  - declension of brahma (rājādigaṇa) (to be added)
-  - declension of sakhā (m.) (rajādigaṇa) (not for exam) (to be added)
+  - Declension of brahma (rājādigaṇa) (to be added)
+  - Declension of sakhā (m.) (rajādigaṇa) (not for exam) (to be added)
 - Satthādigaṇa
 - Guṇavantādigaṇa
 - Gacchantādigaṇa
   - karonta (to be added)
   - bhavanta (to be added)
 - Rattādigaṇa
-  - declension of sā (m.) (rattādigaṇa)
+  - Declension of sā (m.) (rattādigaṇa)
 
     | case | singular | plural |
     |---|---|---|
@@ -58,7 +58,7 @@ permalink: /summaries/pali/nominal-declensions
     - note:
       - he is a more informal address
       - rūpasiddhi gives a different declension and says that paccakkhadhammā and gāṇḍīvadhanvā are declined as this
-  - declension of go (m.) (rattādigaṇa - only this word)
+  - Declension of go (m.) (rattādigaṇa - only this word)
 
 | case | singular | plural |
 |---|---|---|
@@ -74,7 +74,7 @@ permalink: /summaries/pali/nominal-declensions
       - both ā and a versions
       - acc. gāvuṁ
       - dat./gen.pl. gavaṁ, gonaṁ, gunnaṁ
-  - declension of aṭṭhi (nt.) (rattādigaṇa)
+  - Declension of aṭṭhi (nt.) (rattādigaṇa)
 
     | case | singular | plural |
     |---|---|---|
@@ -85,7 +85,7 @@ permalink: /summaries/pali/nominal-declensions
     - (the rest like aggi)
     - mem aid: close to aggi
 
-  - declension of sukhakārī (nt.) (rattādigaṇa)
+  - Declension of sukhakārī (nt.) (rattādigaṇa)
 
     | case | singular | plural |
     |---|---|---|
@@ -96,7 +96,7 @@ permalink: /summaries/pali/nominal-declensions
     - note:
       - long vowel becomes short when neuter: sukharārī ⇒ sukhakāri dānaṁ
 
-  - *declension of cakkhu (nt.) (rattādigaṇa)
+  - Declension of cakkhu (nt.) (rattādigaṇa)
 
     | case | singular | plural |
     |---|---|---|
@@ -105,7 +105,7 @@ permalink: /summaries/pali/nominal-declensions
     - (the rest like bhikkhu)
     - note:
 
-  - declension of gotrabhū (nt.) (rattādigaṇa)
+  - Declension of gotrabhū (nt.) (rattādigaṇa)
 
     | case | singular | plural |
     |---|---|---|
@@ -116,7 +116,7 @@ permalink: /summaries/pali/nominal-declensions
 
       - Some grammarians consider ‘cittagu’ as a neuter okāranta stem, since ‘gu’ sound at the end of that stem derives from ‘go’. In fact, it’s an ukāranta stem, because after the word formation, cittagu is ending with ‘u’. Therefore, a declension of neuter okāranta stems is not shown in this book.
 - Sabbanāmagaṇa
-  - declension of the pronoun 'pubba' (sabbanāmagaṇa)
+  - Declension of the pronoun 'pubba' (sabbanāmagaṇa)
     - masculine
 
       | case | singular | plural |
@@ -142,10 +142,10 @@ permalink: /summaries/pali/nominal-declensions
       - mem aid: like sabba, but with some purisa forms in nom. and voc. pl., abl. sgl., and loc. sgl.
     - feminine
       - as sabba
-  - declension of the pronoun 'ya' (sabbanāmagaṇa)
+  - Declension of the pronoun 'ya' (sabbanāmagaṇa)
     - as sabba in three genders, but without vocative forms
     - note: from ya onwards, the pronouns do not have vocative forms
-  - declension of the pronoun 'ima' (sabbanāmagaṇa)
+  - Declension of the pronoun 'ima' (sabbanāmagaṇa)
     - masculine
 
       | case | singular | plural |
@@ -175,7 +175,7 @@ permalink: /summaries/pali/nominal-declensions
       | Dat/Gen. | imāya, imissā, imissāya, assā, assāya | imāsaṁ, imāsānaṁ |
       | Loc. | imāyaṁ, imissaṁ, assaṁ | imāsu |
 
-  - declension of the pronoun 'amu' (sabbanāmagaṇa)
+  - Declension of the pronoun 'amu' (sabbanāmagaṇa)
     - masculine
 
       | case | singular | plural |
@@ -207,7 +207,7 @@ permalink: /summaries/pali/nominal-declensions
       | Loc. | amuyaṁ, amussaṁ | amūsu |
 
       - note: no amuyā in loc.
-  - declension of the pronoun 'eka' (sabbanāmagaṇa)
+  - Declension of the pronoun 'eka' (sabbanāmagaṇa)
     - masculine
 
       | case | singular |
@@ -241,7 +241,7 @@ permalink: /summaries/pali/nominal-declensions
       - declined as bahuvacana
         - ekacce: some (eke vadanti [some say]; appekacce) - declined as sabba
         - note: there are other meanings as well
-  - declension of the pronoun 'ubha' (sabbanāmagaṇa) (same declension for the 3 genders, only plural)
+  - Declension of the pronoun 'ubha' (sabbanāmagaṇa) (same declension for the 3 genders, only plural)
 
     | case | singular |
     |---|---|
@@ -250,7 +250,7 @@ permalink: /summaries/pali/nominal-declensions
     | dat./gen. | ubhinnaṁ |
     | loc. | ubhosu, ubhesu |
 
-  - declension of the pronoun 'dvi' (sabbanāmagaṇa) (same declension for the 3 genders, only plural)
+  - Declension of the pronoun 'dvi' (sabbanāmagaṇa) (same declension for the 3 genders, only plural)
 
     | case | singular |
     |---|---|
@@ -259,7 +259,7 @@ permalink: /summaries/pali/nominal-declensions
     | dat./gen. | dvinnaṃ, duvinnaṃ |
     | loc. | dvīsu |
 
-  - declension of the pronoun 'ti' (sabbanāmagaṇa) (only plural)
+  - Declension of the pronoun 'ti' (sabbanāmagaṇa) (only plural)
     - masculine
 
       | case | singular |
@@ -280,7 +280,7 @@ permalink: /summaries/pali/nominal-declensions
       | dat./gen. | tissannaṁ |
 
       - (the rest as the masculine)
-  - declension of the pronoun 'catu' (sabbanāmagaṇa) (only plural)
+  - Declension of the pronoun 'catu' (sabbanāmagaṇa) (only plural)
     - masculine
 
       | case | singular |

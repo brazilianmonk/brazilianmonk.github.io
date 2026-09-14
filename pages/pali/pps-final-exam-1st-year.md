@@ -35,7 +35,7 @@ permalink: /summaries/pali/pps-final-exam-1st-year
     - athekadivasaṃ then, one day, mahāpālo Mahapaala disvā having seen ariyasāvake the noble disciples gandhamālādihatthe with hands full of scents, garlands, etc. gacchante going to vihāraṃ the monastery pucchitvā having asked, iti thus: kuhiṃ "to where ayaṃ [is] this mahājano great crowd gacchati going?" sutvā having heard, iti thus: “dhammassavanāya” "for listening to the dhamma" iti [thought] thus: “ahampi "I, too, gamissāmi” will go." gantvā having gone, vanditvā having paid homage satthāraṃ to the teacher, nisīdi. sat parisapariyante at the perimeter of the assembly.
     - now one day mahā pāla saw the noble disciples going to the monastery with perfumes and garlands in their hands. 1.6 when he saw them, he asked, “where is this great throng going?” “to hear the law.” “i will go too,” said he. so he went, paid obeisance to the teacher, and sat down in the outer circle of the congregation.
 - 2. Declensions of pronouns ‘ta’ and ‘eta’ (Chapter III) (Masculine, Neuter and Femine)
-  - declension of the pronoun ‘ta’
+  - Declension of the pronoun ‘ta’
     - masculine declension
 
       | case | singular | plural |
@@ -50,7 +50,7 @@ permalink: /summaries/pali/pps-final-exam-1st-year
       - memory aid:
         - 1 - t ⇒ n
         - 2 - sa, sma, smiṁ: ta ⇒ a
-    - neuter declension↓
+    - neuter declension
 
       | case | singular | plural |
       |---|---|---|
@@ -280,13 +280,9 @@ permalink: /summaries/pali/pps-final-exam-1st-year
       - independent: nouns are not visesana and visesya, they are independent nouns
       - ca: the indeclinable “ca” collects the two nouns
       - equal prominence: in the final compound both words are equally prominent in their meaning
-      - declension:
-
-        | person | singular | plural |
-        |---|---|---|
-        | 3rd pp. | if samāhāradvanda it is declined in the neuter gender | nominative case, singular (cakkhusotaṁ) |
-        | 2nd pp. | if itarītarayogadvanda | in the gender of the last noun, nominative case, plural (sometimes singular) (sāriputtamoggallānā) |
-
+      - Declension:
+        - if samāhāradvanda it is declined in the neuter gender, nominative case, singular (cakkhusotaṁ)
+        - if itarītarayogadvanda, in the gender of the last noun, nominative case, plural (sometimes singular) (sāriputtamoggallānā)
         - samuccaya
           - the grammatical act of collecting two or more nouns / verbs together, normally performed by the indeclinable 'ca': sāriputto ca moggallāno ca
         - samuccayattha

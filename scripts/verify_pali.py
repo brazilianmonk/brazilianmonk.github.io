@@ -22,7 +22,8 @@ AUDIT = ROOT / "build" / "organizer"
 PALI = ROOT / "pages" / "pali"
 
 PAGE_MAP = {
-    "pali-patha-sikkha-ch1-3": ["pps-ch*-part*.md", "pps-vocab-archive.md", "vocabulary.md"],
+    "pali-patha-sikkha-ch1-3": ["pps-ch*-part*.md", "pps-ch3-reading.md",
+                                "pps-vocab-archive.md", "vocabulary.md"],
     "pali-semester-2": ["semester-2-part1.md", "semester-2-part2.md",
                         "pps-final-exam-1st-year.md", "vocabulary.md"],
     "pali-semester-3": ["niruttidipani-part-1.md", "dhammapada-atthakatha-1.md",
@@ -49,6 +50,10 @@ def norm(s: str) -> str:
         # vocab labels become pointer bullets; accounted for structurally
         return ""
     s = re.sub(r"[\u2013\u2014\u2015]", "-", s)
+    # intentional text fixes (see organizer.strip_misc_text)
+    s = s.replace("rassa sara", "rasa sara")
+    s = re.sub(r"\^\^[*\s]*declension", "declension", s)  # RemNote markup glyph
+    s = re.sub(r"^\s*\*+\s*(?=declension\b)", "", s)
     # the source extractor keeps spaces that RemNote injects inside bold/italic
     # spans ("us u mā"), while the organizer rejoins them ("usumā"); compare
     # with all whitespace removed so that doesn't create false misses

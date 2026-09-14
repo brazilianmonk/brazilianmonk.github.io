@@ -7,6 +7,7 @@ permalink: /summaries/pali/niruttidipani-sandhividhana
 ## **sandhividhāna (the agreement of euphonic combinations)**
 
 **8 main sandhis** - **lopo** - **dīgho** - **rasso** - **vuddhi** - **ādeso** - **āgamo** - **dvibhāvo** - **vipallāso**
+
 ### **loparāsi** (collection of elisions)
 #### **saralopa (elision of vowels)
 ##### **26\. saro lopo sare.** (pubbasaralopa)

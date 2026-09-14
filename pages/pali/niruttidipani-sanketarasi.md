@@ -8,6 +8,7 @@ permalink: /summaries/pali/niruttidipani-sanketarasi
 
 - - - **saṅketa** \[saṃ + √kit + \*a\] ✓ \[or root sak + ṁ\] masc.: agreement; arrangement; engagement; appointment; rendezvous, symbol, sign #\[\[**pāḷi** vocab (2nd year)\]\]
       - **note**: these sutttas are some signs / agreements / arrangements about the upcoming suttas
+
 ### **13\. vidhi visesanaṃ** (modifier) **yaṃ tassa.** (the arrangement should be done to the modifier of the sutta)
         - **sutte yaṃ visesanaṃ dissati** (whatever modifier is shown in the sutta)**, tassa vidhi ñātabbo** (the agreement should be done to that modifier)**.**
         - (example:)
@@ -25,6 +26,7 @@ permalink: /summaries/pali/niruttidipani-sanketarasi
         - example:
           - **'saro lopo sare'** (**\[the preceding\]** vowel is elided when there is a vowel \[succeeding\])**. lokaggo**
           - loka aggo ⇒ lok**\_** aggo ⇒ lokaggo
+
 ### **15\. pañcamiyaṃ parassa.**
         - **pañcamīniddese** (when the pañcamī is shown) **parasseva** (just to the succeeding letter) **vidhi ñātabbo** (the arrangement should be done)**.**
           - example:
@@ -43,6 +45,7 @@ te **d**asa ⇒ te**r**asa / te**d**asa
 dvi **d**asa ⇒ dvā**r**asa dvā**d**asa
 
 - - - - vocab: #\[\[**pāḷi** vocab (2nd year)\]\] - sissamāno: that which is arranged, done, made - ādi: etc, beginning; when ādi is combined with another word (akārādi)
+
 ### **17\. chaṭṭhiyantassa.**
           - **chaṭṭhīniddese** (when the chaṭṭhī is shown) **tadantassa** (taṁ antassa: to the ending \[letter\] of that \[stem\]) **vidhi ñātabbo.**
             - (example:)

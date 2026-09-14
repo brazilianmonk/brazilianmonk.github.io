@@ -7,7 +7,7 @@ permalink: /summaries/pali/semester-6-grammar
 # 6. gacchantādigaṇa
 - The group of stems such as "gacchanta" (the one who is going), which end in "a" (akāranta), is called the Gacchantādi Group. These stems are formed by adding the suffix anta to roots. There are two declension charts in this group based on gender: masculine and neuter.
 - 6.1. Masculine Declension Chart of Gacchanta
-  - ![image](https://remnote-user-data.s3.amazonaws.com/https://remnote-user-data.s3.amazonaws.com/0xI2RnJT07m1bilNm_6vxj-BaskrrDTWO2-hoCUtzBu5uwr51qC6p-1Fva4HlT40KVnp9Lci0ZpLM4xs7KvlPGaRXc4kXYq3yE4l5BDy_uAxVVI7M9nlG6t90dDB0RzN.png)
+  - ![image](https://remnote-user-data.s3.amazonaws.com/0xI2RnJT07m1bilNm_6vxj-BaskrrDTWO2-hoCUtzBu5uwr51qC6p-1Fva4HlT40KVnp9Lci0ZpLM4xs7KvlPGaRXc4kXYq3yE4l5BDy_uAxVVI7M9nlG6t90dDB0RzN.png)
   - A list of gacchantādi nouns is provided in the footnotes.3 Study them and practice declining a few.
   - 1Even though the declension are similar, this becomes a separate group due to differences in the types of suffixes and because certain variations are found in the declensions of other words belonging to this group.
   - 2The Saddanīti states that vocative words ending in niggahīta, such as guṇavaṃ and gacchaṃ, are not found in the Pāli Canon. However, other grammars do include such niggahīta-ending forms. There is also canonical evidence of a niggahīta-ending form, as in: “kacci bhavaṃ abhiramasi araññe” (“Sir, do you enjoy in the forest?”)
@@ -33,13 +33,13 @@ permalink: /summaries/pali/semester-6-grammar
   - The special form gacchaṃ that occurs in the nominative singular is formed by replacing the anta and si with aṃ (gacchanta + si > gacch + aṃ = gacchaṃ).4 Other forms follow the guṇavantu pattern.
 - 6.3. Neuter Declension
   - This follows the neuter guṇavādi pattern completely.
-  - ![image](https://remnote-user-data.s3.amazonaws.com/https://remnote-user-data.s3.amazonaws.com/rMEmIBKIetvE7rt0EW6eZ5zScevpCvNtzTYCkjuiqcZ8Ra3tU6ujn8Mus6RFKuyfp0SETQYM8Rv3Al4sdUT9WCU_HC0ZpNta99iJrMMe-w7qgx_d9D3VylTDMDYFL23D.png)
+  - ![image](https://remnote-user-data.s3.amazonaws.com/rMEmIBKIetvE7rt0EW6eZ5zScevpCvNtzTYCkjuiqcZ8Ra3tU6ujn8Mus6RFKuyfp0SETQYM8Rv3Al4sdUT9WCU_HC0ZpNta99iJrMMe-w7qgx_d9D3VylTDMDYFL23D.png)
 - 6.4. Special Cases
   - Just as the nominative singular of guṇavantu can sometimes be used in the plural contexts, here too we see the form gacchaṃ used in plural contexts.
   - Examples: • api nu tumhe ekantasukhaṃ lokaṃ jānaṃ passaṃ viharatha (“Do you all live knowing and seeing the supremely blissful world?”) • bharanti mātāpitaro, pubbe katamanussaraṃ (“(They) support (their) parents remembering the help done in the past.”)
 - 6.5. The stems mahanta (great), brahanta (great), and arahanta (worthy/ arahant)
   - In the nominative singular, they show forms like mahā, brahā, and arahā. These are formed by replacing anta and si with ā. (mahanta + si > mah + ā = mahā)5
-  - ![image](https://remnote-user-data.s3.amazonaws.com/https://remnote-user-data.s3.amazonaws.com/Fk_6B6FLcTkv5xUGJ3zbHMG1GHrk2y4WEJZhUWpFITGKyCtiiIkq58JgXIp1a4XSbZXEe0nfESP6g6LQRerXHlqeZ-fbsbMUSnADxTrx1tRryriJnsZPCwLf8ilJF5qU.png)
+  - ![image](https://remnote-user-data.s3.amazonaws.com/Fk_6B6FLcTkv5xUGJ3zbHMG1GHrk2y4WEJZhUWpFITGKyCtiiIkq58JgXIp1a4XSbZXEe0nfESP6g6LQRerXHlqeZ-fbsbMUSnADxTrx1tRryriJnsZPCwLf8ilJF5qU.png)
     - mahanta
       - singular: mahaṃ, mahā, mahanto
       - plural: mahantā, mahanto
@@ -61,10 +61,10 @@ permalink: /summaries/pali/semester-6-grammar
       - 6“brahaṃ” is not found.
 - 6.6. The Stem karonta (one who is doing)
   - Even though the stem is karonta, the nominative singular is karaṃ, not karoṃ. Also, the vocative singular is not karaṃ, kara, karā as expected, but rather karonta or karontā. A part of the declension is given below.
-  - ![image](https://remnote-user-data.s3.amazonaws.com/https://remnote-user-data.s3.amazonaws.com/qTyzPs6GBstIU6b502AOrcZXh_JKAVC-GzNwL79oImfqyCdZ-faG_gWZOk7Etok_NI_PpWRp98Ui5YhhnNYhM5elQsXK9mIzNFfhOtaZPkpEbOs3gXJoIx_6ug0jypIx.png)
 
   | case | singular | plural |
   |---|---|---|
+  | nom. | ![image](https: | remnote-user-data.s3.amazonaws.com, qTyzPs6GBstIU6b502AOrcZXh_JKAVC-GzNwL79oImfqyCdZ-faG_gWZOk7Etok_NI_PpWRp98Ui5YhhnNYhM5elQsXK9mIzNFfhOtaZPkpEbOs3gXJoIx_6ug0jypIx.png) |
   | Nom. | karaṃ, karonto | karontā, karonto |
   | Voc. | (bho) karonta, karontā | (bhonto) " |
   | Acc. | karontaṃ | karonte |
@@ -73,7 +73,7 @@ permalink: /summaries/pali/semester-6-grammar
 - 6.7. The Word bhavanta (one who is existing, sir, noble one)
   - 6.7.1. The nominative singular form is bhavaṃ only — not bhavanto.7 So, the nominative declension is: Bhavaṃ bhavanto, bhavantā The rest of the declension is the same as that of gacchanta.
   - 6.7.2. In all other cases (except nominative singular), bhavanta is replaced by bhonta.8 The full declension for bhonta is:
-    - ![image](https://remnote-user-data.s3.amazonaws.com/https://remnote-user-data.s3.amazonaws.com/BB0cy35hGPQ_h3-2KpPeryPta_NFQXO3tgWPiPvr3Ju-ZZiWhaRELkphldD1AVXGgcmKBZW80XxF-3mze82vyfvOUVE8mrGaQgWy-RmesKDCrk4bR1JunYPRUQP2-Qp2.png)
+    - ![image](https://remnote-user-data.s3.amazonaws.com/BB0cy35hGPQ_h3-2KpPeryPta_NFQXO3tgWPiPvr3Ju-ZZiWhaRELkphldD1AVXGgcmKBZW80XxF-3mze82vyfvOUVE8mrGaQgWy-RmesKDCrk4bR1JunYPRUQP2-Qp2.png)
       - Case | Singular | Plural
       - -----------|-------------------------------------|--------------------------
       - Nominative | bhavaṃ | bhonto, bhontā
@@ -297,13 +297,9 @@ permalink: /summaries/pali/semester-6-grammar
           - rattiyo is formed by adding the yo-vibhatti.
           - rattī is formed by dropping the yo-vibhatti and lengthening the final vowel.
           - Rule: We learned under ‘cittāni’ that when yo is replaced by ni, the final vowel of the stem becomes long. This is not limited to ni-replacement; it also happens when yo is dropped. 1 Other examples:
-
-            | person | singular | plural |
-            |---|---|---|
-            | 3rd pp. | Yāgu yāgū | yāguyo |
-            | 2nd pp. | Aggi aggī | aggayo |
-            | 1st pp. | Bhikkhu bhikkhū | bhikkhav |
-
+            - Yāgu yāgū, yāguyo
+            - Aggi aggī, aggayo
+            - Bhikkhu bhikkhū, bhikkhav
           - · ratyo results from dropping the final syllable of ratti and saṃyogādi lopa sandhi. (rattiyo > rattyo > ratyo)o
             - Rule: Only in verse, feminine i- and ī-ending stems may drop the final vowel when followed by ‘y’ which is a vibhatti or an ādesa for a vibhatti: 1
               - Vibhatti: When yo is present (ratti + yo > rattyo > ratyo)

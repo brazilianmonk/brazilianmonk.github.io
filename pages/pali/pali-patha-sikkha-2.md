@@ -1,9 +1,5 @@
----
-layout: page
-title: Pāḷi Pāṭha Sikkhā
-permalink: /summaries/pali/pps-ch2-1-13
----
-by Bhante Vijitānanda (IIT)
+--- layout: page title: Pāḷi Pāṭha Sikkhā permalink: /summaries/pali/pps-ch2-1-13
+--- by Bhante Vijitānanda (IIT)
 
 Summary by Brazilian Monk
 
@@ -13,11 +9,15 @@ Summary by Brazilian Monk
 
 - **Lesson 1 - Cittādigaṇa** 
     - All nouns in cittādigaṇa are of {{neuter}} gender
-    - declension of ^^**citta**^^ (cittādigaṇa)>>>
-        - citta^^**ṁ**^^ / cittā, citt^^**āni**^^
-(bho) citta, cittā / (^^**bhavantāni**^^) "
-cittaṁ / citte, cittāni
-...(as purisa)
+    - Declension of ^^**citta**^^ (cittādigaṇa)>>>
+
+        | singular | plural |
+        |---|---|
+        | citta^^**ṁ**^^ | cittā, citt^^**āni**^^ |
+        | (bho) citta, cittā | (^^**bhavantāni**^^) " |
+        | cittaṁ | citte, cittāni |
+        - (as purisa)
+
     - **Vocab**: #[[^^^pāḷi^^^ vocab (1st year)   ]] 
         - Cittaṁ (nt.): mind, consciousness
         - Udakaṁ (nt.): water 
@@ -80,9 +80,13 @@ cittaṁ / citte, cittāni
     - "a" is **not** added to the beginning of **verbs** in the sense of {{negation ("not")}}.
     - The ending of the root **gam** often changes into {{cch.}} 
     - Ajjatanī vibhatti (terminations)>>>
-        - ī, i, / uṁ, iṁsu
-o, (i) / ttha 
-iṁ / mhā, mha
+
+        | person | singular | plural |
+        |---|---|---|
+        | 3rd pp. | ī, i | uṁ, iṁsu |
+        | 2nd pp. | o, (i) | ttha |
+        | 1st pp. | iṁ | mhā, mha |
+
     - in ajjatanī vibhatti when the verbal termination ends with a {{consonant}} and the first letter of the verbal termination is also a consonant, the vowel {{"i"}} is augmented in between
     - Ajjatanī vibhatti declension of (gam)>>>
 
@@ -120,7 +124,7 @@ iṁ / mhā, mha
         - vacanaṁ (nt.): word, utterance, talk, statement (n.)
         - santikaṁ (nt.): vicinity (of), presence (of), near (to) 
         - kudācanaṃ (ind.): at any time (s.w. k)
-    - ^^*****^^declension of the noun ^^**kamma (nt.) **^^(cittādigaṇa)>>>
+    - Declension of the noun ^^**kamma (nt.) **^^(cittādigaṇa)>>>
 
         | singular | plural |
         |---|---|
@@ -207,7 +211,7 @@ iṁ / mhā, mha
 - **Lesson 4 - Kaññādigaṇa ** 
     - What is the gender of the nouns in kaññādigaṇa?: itthiliṅga
     - What kāranta are the nouns in kaññādigaṇa?: ākāranta 
-    - declension of ^^**kaññā **^^(kaññādigaṇa)>>>
+    - Declension of ^^**kaññā **^^(kaññādigaṇa)>>>
 
         | singular | plural |
         |---|---|
@@ -314,8 +318,7 @@ iṁ / mhā, mha
         - (a)-**hi** / -**tha** 
         - (ā)-**mi** / (ā)-**ma** 
     - How to say "may he **not** see" and "do not go" in imperative mood? >>>
-        - "so **mā** passatu.
-**mā** gacchāhi."
+        - "so **mā** passatu. **mā** gacchāhi."
     - Vocab: #[[^^^pāḷi^^^ vocab (1st year)   ]] 
         - jātavedo (m. ): fire (s.w. j)
         - obhāseti: causes to illuminate, causes to shine 
@@ -354,7 +357,7 @@ iṁ / mhā, mha
     - Extra suffix that is used apart from -vantu and -mantu: {{imantu (candimā, puttimā)}} 
     - When a letter is removed it is called (in English) {{elision (to elide)}} 
     - Nouns stems can end in 8 letters: {{a, ā, i, ī, u, ū, o, ṁ}} 
-    - ^^*****^^declension of ^^**guṇavantu m. **^^(guṇavādigaṇa)>>>
+    - Declension of ^^**guṇavantu m. **^^(guṇavādigaṇa)>>>
 
         | singular | plural |
         |---|---|
@@ -394,7 +397,7 @@ iṁ / mhā, mha
     - ^^^**vocab:**^^^^^^ ^^^  #[[^^^**pāḷi**^^^ vocab (2nd year)]] 
         - ettāvā: that which has this amount   
         - yāvā: that which has which amount
-    - ^^*****^^declension of ^^**guṇavantu nt. **^^(guṇavādigaṇa)>>>
+    - Declension of ^^**guṇavantu nt. **^^(guṇavādigaṇa)>>>
 
         | case | singular | plural |
         |---|---|---|
@@ -408,7 +411,7 @@ iṁ / mhā, mha
             |---|---|---|
             | nom. & acc. | guṇavaṁ | guṇavanti |
 
-    - declension of ^^**guṇavantu f. **^^(guṇavādigaṇa)>>>
+    - Declension of ^^**guṇavantu f. **^^(guṇavādigaṇa)>>>
         - guṇavant^^**ī**^^ (the same as itthī)
     - According to Rūpasiddhi, only **himavantu **has two forms as himavā, himavanto in nominative singular. Other stems in this group only have one form in nominative singular as guṇavā, sīlavā, dhanavā etc.   
     - According to Rūpasiddhi, only the stems **satimantu **and **bandhumantu **have satimaṃ, bandhumaṃ in accusative singular and satimassa, bandhumassa in  dative/gentivie singular. Other stems do not have such forms.   
@@ -439,17 +442,25 @@ iṁ / mhā, mha
 - **Lesson 8 - Future tense** 
     - The future tense is called in pāḷi: bhavissantī vibhatti
     - verbal terminations of **bhavissantī **vibhatti:>>>
-        - ssati, ssanti
-ssasi, ssatha
-ssāmi, ssāma
+
+        | person | singular | plural |
+        |---|---|---|
+        | 3rd pp. | ssati | ssanti |
+        | 2nd pp. | ssasi | ssatha |
+        | 1st pp. | ssāmi | ssāma |
+
     - In bhavissantī vibhatti the vowel "{{i}}" is augmented (āgama) between the {{root and the verbal termination}} 
     - bhavissantī vibhatti declension of gam>>>
-        - gacchissati /  gacchissanti
-gacchissasi / gacchissatha
-gacchissāmi / gacchissāma
-        - gamissati / gamissanti
-gamissasi / gamissatha
-gamissāmi / gamissāma
+
+        | person | singular | plural |
+        |---|---|---|
+        | 3rd pp. | gacchissati | gacchissanti |
+        | 2nd pp. | gacchissasi | gacchissatha |
+        | 1st pp. | gacchissāmi | gacchissāma |
+        | 3rd pp. | gamissati | gamissanti |
+        | 2nd pp. | gamissasi | gamissatha |
+        | 1st pp. | gamissāmi | gamissāma |
+
     - **Vocab**: #[[^^^pāḷi^^^ vocab (1st year)   ]] 
         - janādhipo, bhūpālo (m.): king (s.w. j) 
         - sapatto (m.): enemy (s.w. s)
@@ -470,7 +481,7 @@ gamissāmi / gamissāma
     - In Pāḷi, missaka-kiriyās are constructed by {{adding the suffixes ‘anta’ and ‘māna’ to roots or verbal bases}} 
     - In which genders can Missakakiriyās be declined? {{in all three genders}} 
     - Words ending in **-māna** when declined in masculine gender are declined similar to the noun {{purisa}}. When they refer to a feminine noun they are declined as the noun {{kaññā}}. When they refer to a neuter noun they are declined like the noun {{citta}}. Words ending with the suffix **-anta** have a different declension but similar to guṇavādigaṇa with one exception in the nominative singular case.
-    - ^^*****^^declension of ^^**gacchanta m. **^^(gacchantādigaṇa)>>>
+    - Declension of ^^**gacchanta m. **^^(gacchantādigaṇa)>>>
 
         | case | singular | plural |
         |---|---|---|
@@ -482,7 +493,7 @@ gamissāmi / gamissāma
         - **note**: 
             - arahanta and mahanta both have **arahā** and **mahā** as nominative singular
             - santa has **sabbhi **as ins./abl. plural as well 
-    - ^^*****^^declension of ^^**gacchanta nt. **^^(gacchantādigaṇa)↓>>>
+    - Declension of ^^**gacchanta nt. **^^(gacchantādigaṇa)>>>
 
         | case | singular | plural |
         |---|---|---|
@@ -491,7 +502,7 @@ gamissāmi / gamissāma
 
         - (the rest as m.)
         - ^^**mem aid**^^: nom. gacchantaṁ
-    - declension of ^^**karonta m. **^^(gacchantādigaṇa)>>>
+    - Declension of ^^**karonta m. **^^(gacchantādigaṇa)>>>
 
         | case | singular | plural |
         |---|---|---|
@@ -561,7 +572,7 @@ gamissāmi / gamissāma
             - gahapatādigaṇa (inīkāranta)
         - sabbanāmagaṇa
         - ^^^**mem aid**^^^: man, mind, woman, mind, man, king, teacher, guṇa, antu, night, river, householder, sabbanāma
-    - declension of the pronoun '^^**amha**^^' (sabbanāmagaṇa) (aliṅgika)>>>
+    - Declension of the pronoun '^^**amha**^^' (sabbanāmagaṇa) (aliṅgika)>>>
 
         | case | singular | plural |
         |---|---|---|
@@ -585,7 +596,7 @@ gamissāmi / gamissāma
         - sandano (m.): chariot (s.w. s)
         - dāruṇa (adj) √dar: brutal; savage; vicious; cruel
         - mānuso (m.): human being (s.w. m, not manussa) 
-    - declension of the pronoun '^^**tumha**^^' (sabbanāmagaṇa) (aliṅgika)>>>
+    - Declension of the pronoun '^^**tumha**^^' (sabbanāmagaṇa) (aliṅgika)>>>
 
         | case | singular | plural |
         |---|---|---|
@@ -619,7 +630,7 @@ gamissāmi / gamissāma
         | gaccheyyāmi | gaccheyyāma |
 
     - {{Sattamī vibhatti}} is used to express supposition, doubt, possibility, mild command, request, invitation, courteous question and also a prayer. These verbs may be translated into English by using the auxiliary verbs {{‘may, might, should’ or ‘would}}.
-    - declension of '^^**rāja**^^' (m.) (rājādigaṇa)>>>
+    - Declension of '^^**rāja**^^' (m.) (rājādigaṇa)>>>
 
         | case | singular | plural |
         |---|---|---|
@@ -681,7 +692,7 @@ gamissāmi / gamissāma
             - u (yāgu)
             - ū (vadhū)
     - sā (m.): dog (s.w. s)
-    - ^^*****^^declension of ^^**ratti**^^ (f.) (rattādigaṇa)>>>
+    - Declension of ^^**ratti**^^ (f.) (rattādigaṇa)>>>
 
         | singular | plural |
         |---|---|
@@ -693,7 +704,7 @@ gamissāmi / gamissāma
         | ", ratti^^**yaṃ, **^^rat^^**yaṁ**^^, ^^ _**ratto**_ ^^ | rattīsu, rattisu |
 
         - **note**: **ratto** is exclusive to ratti 
-    - declension of ^^**yāgu**^^ (f.) (rattādigaṇa)>>>
+    - Declension of ^^**yāgu**^^ (f.) (rattādigaṇa)>>>
 
         | singular | plural |
         |---|---|
@@ -704,7 +715,7 @@ gamissāmi / gamissāma
         | " | yāgūnaṃ, yāgunaṃ |
         | ", yāguyaṃ | yāgūsu, yāgusu |
 
-    - declension of ^^**vadhū**^^ (f.) (rattādigaṇa)>>>
+    - Declension of ^^**vadhū**^^ (f.) (rattādigaṇa)>>>
 
         | singular | plural |
         |---|---|
@@ -789,7 +800,7 @@ gamissāmi / gamissāma
 - **Lesson 13 - Nominal groups of nadī (nadādigaṇa) and gahapatānī (gahapatādi gaṇa)** 
     - Nominal groups of **nadī** and **gahapatānī** contains only nouns of the {{feminine}} gender ending in ‘{{ī}}’. Their declensions are {{identical}}. They are recognized as two different nominal groups due to the {{difference of formation of nouns in these groups}}. Feminine nouns of the group nadādi are constructed by {{adding the suffix ‘ī’}}, whereas the suffix {{‘inī’}} is added to construct nouns pertaining to the nominal group gahapatādi.
     - Long vowels are not shortened and short vowels may be lengthened.
-    - ^^*****^^declension of ^^**itthī**^^ (f.) (rattādigaṇa / nadādigaṇa)>>>
+    - Declension of ^^**itthī**^^ (f.) (rattādigaṇa / nadādigaṇa)>>>
 
         | case | singular | plural |
         |---|---|---|

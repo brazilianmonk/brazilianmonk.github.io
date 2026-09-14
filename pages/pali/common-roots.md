@@ -3384,12 +3384,8 @@ permalink: /summaries/pali/common-roots
     - pr
       - nirūpeti, rūpayati
 - √jal
-
-  | person | singular | plural |
-  |---|---|---|
-  | 3rd pp. | √×8 curādigaṇa + e | aya (hide, conceal) |
-  | 2nd pp. | √･1 bhūvādigaṇa + a (shine | blaze) |
-
+  - √×8 curādigaṇa + e, aya (hide, conceal)
+  - √･1 bhūvādigaṇa + a (shine, blaze)
     - Bases:
       - jala, jāle (caus), jaliya (pass), jalāpe (caus), jālaya (caus), daddaḷha (intens), daddalla (intens), jale (caus, irreg), jalaya (caus, irreg)
     - Root in Compounds:

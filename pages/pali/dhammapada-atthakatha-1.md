@@ -45,12 +45,8 @@ permalink: /summaries/pali/dhammapada-atthakatha-1
     - Having payed homage to the Teacher, he searched for monks as companions and having gotten 60, left together with them and went on the 120-leagues-long road. After reaching a big bordering village, there he went for alms with his following.
 
     - always read until the gerunds or -anta for translating
-
-    | person | singular | plural |
-    |---|---|---|
-    | 3rd pp. | in pāḷi there are future participles | "the one who will go" (sahagāmino), kitaka nouns that refer to future tense |
-    | 2nd pp. | in pāḷi it is not said 20 hundred | but two thousand, so here it must be a hundred and twenty |
-
+    - in pāḷi there are future participles, "the one who will go" (sahagāmino), kitaka nouns that refer to future tense
+    - in pāḷi it is not said 20 hundred, but two thousand, so here it must be a hundred and twenty
     - example of present / past / future participle
       - present participle vattamāna kitaka ⇒ gacchanta past participle atīta kitaka ⇒ gata future participle anāgata kitaka ⇒ gāmī (gam + ṇī) (the one who will go)
     - pāpuṇāti ⇒ pa ap tvā ⇒ paptvā ⇒ patvā

@@ -57,6 +57,7 @@ Here, you'll find my Dhamma notes and summaries (most still unformatted). These 
 - [Semester II, Part 1 — Chapter III (Lessons 11–17)](/summaries/pali/semester-2-part1)
 - [Semester II, Part 2 — Chapters III & IV (Lessons 18–25, IV 1–19)](/summaries/pali/semester-2-part2)
 - [Final exam, 1st year](/summaries/pali/pps-final-exam-1st-year)
+- [Chapter III — readings & translation](/summaries/pali/pps-ch3-reading)
 
 #### Niruttidīpaṇī — class notes
 - [Part I: saññārāsi, saṅketarāsi, sandhividhāna (Semester III)](/summaries/pali/niruttidipani-part-1)

@@ -123,11 +123,7 @@ permalink: /summaries/pali/dhammapada-atthakatha-2
     - atha kho te gantvā tathāgatassa ārocesuṃ, "bhante, cakkhupālatthero ‘caṅkamāmī’ti bahū pāṇake māresī"ti. "kiṃ pana so tumhehi mārento diṭṭho"ti? "na diṭṭho, bhante"ti. "yatheva tumhe taṃ na passatha, tatheva sopi te pāṇe na passati. khīṇāsavānaṃ (gen.) maraṇacetanā nāma natthi, bhikkhave"ti.
       - Then they left and informed the Tathāgata, "Bhante, the elder Cakkhupāla, intending to walk, killed many living beings." "But did you see him killing? (lit. But was he seen killing by you?)" "He was not seen, bhante." "Just like you did not see him, he too did not see those living beings. Monks, there is no intention to kill for those without cankers / Those without cankers do not have the intention of killing."
       - yathā...tathā / evaṁ: structure to give a simile
-
-      | case | singular | plural |
-      |---|---|---|
-      | gen | + nom + atthi | natthi: structure to say something like "I have a book" (if plural, it can be santi, or the nipāta atthi) |
-
+      - gen + nom + atthi / natthi: structure to say something like "I have a book" (if plural, it can be santi, or the nipāta atthi)
         - I have a book: amhākaṁ (tbc) gantho / poṭṭhako atthi
     - "bhante, arahattassa upanissaye sati (loc.) kasmā andho jāto"ti? "attano (gen.) katakammavasena (passive), bhikkhave"ti. "kiṃ pana, bhante, tena kata"nti? tena hi, bhikkhave, suṇātha –
       - "Bhante, why did he go blind having a decisive support for arahantship (lit. when there is a decisive support for arahantship...)?" "Because of the deed that was done by him, monks." "Bhante, what was done by him?" "If it is so, monks, listen‒

@@ -23,112 +23,118 @@ permalink: /summaries/pali/semester-6-reading
   - Paragraph 36
 <!--     - “Hotu, saṅgharakkhita, paripuṇṇaṃ me cīvaraṃ, tvameva paribhuñjā”ti. “Bhante, mā evaṃ karotha, tumhehi paribhutte mayhaṃ mahapphalaṃ bhavissatī”ti. Atha naṃ tassa punappunaṃ kathentassapi thero na icchiyeva. Evaṃ so bījayamāno ṭhitova cintesi – “Ahaṃ therassa gihikāle ((if it's of himself, why after therassa?)) bhāgineyyo, pabbajitakāle saddhivihāriko, evampi mayā saddhiṃ upajjhāyo paribhogaṃ na kattukāmo. Imasmiṃ mayā saddhiṃ paribhogaṃ akaronte kiṃ me samaṇabhāvena, gihi bhavissāmī”ti. () -->
 - Tumhehi paribhutte mayhaṃ mahapphalaṃ bhavissatī: when (it) is used by you, it will certainly be (of) great fruit for me
-  - bhāgineyyo: nephew
-    - hotu: let it be
-  - Paragraph 37
-    - Athassa etadahosi – “Dussaṇṭhāpito gharāvāso, kiṃ nu kho katvā gihibhūto jīvissāmī”ti. Tato cintesi – “Aṭṭhahatthasāṭakaṃ vikkiṇitvā ekaṃ eḷikaṃ gaṇhissāmi, eḷikā nāma khippaṃ vijāyati, svāhaṃ (adesasandhi [o>v) vijātaṃ vijātaṃ vikkiṇitvā mūlaṃ karissāmi, mūle bahū katvā ekaṃ pajāpatiṃ ānessāmi, sā ekaṃ puttaṃ vijāyissati. Athassa mama mātulassa nāmaṃ katvā cūḷayānake nisīdāpetvā mama puttañca bhariyañca ādāya mātulaṃ vandituṃ āgamissāmi, āgacchante antarāmagge mama bhariyaṃ evaṃ vakkhāmi – ‘Ānehi tāva me puttaṃ vahissāmi na’nti.
-      - Dussaṇṭhāpito du saṁ ṭhā + āpe + i + ta
-      - saṇṭhāpeti
-      - gam -ta: gata ⇒ gato gatā gatena
-      - eḷikā: she-goat
-      - vijātaṁ: newborn (tbc)
-      - āneti [ā + √nī + a + ti]: pr. (+acc) brings; brings home; fetches; leads; conveys
-      - ānehi tāva me puttaṃ vahissāmi naṁ: tāva me puttaṁ ānehi (First bring my son here) naṁ vahissāmi (I will carry him / take responsibility for him)
-      - vahati
-        - pr. (+acc) carries; carries away [√vah + a + ti] ✓
-        - pr. (+acc) takes responsibility (for); worries about; lit. carries [√vah + a + ti] ✓
-        - pr. (+acc) has power; takes effect; works; lit. carries [√vah + a + ti] ~
-        - pr. flows ✗
+- Bhāgineyyo: nephew
+- Hotu: let it be
+- Paragraph 37
+  - Athassa etadahosi – “Dussaṇṭhāpito gharāvāso, kiṃ nu kho katvā gihibhūto jīvissāmī”ti. Tato cintesi – “Aṭṭhahatthasāṭakaṃ vikkiṇitvā ekaṃ eḷikaṃ gaṇhissāmi, eḷikā nāma khippaṃ vijāyati, svāhaṃ (adesasandhi [o>v) vijātaṃ vijātaṃ vikkiṇitvā mūlaṃ karissāmi, mūle bahū katvā ekaṃ pajāpatiṃ ānessāmi, sā ekaṃ puttaṃ vijāyissati. Athassa mama mātulassa nāmaṃ katvā cūḷayānake nisīdāpetvā mama puttañca bhariyañca ādāya mātulaṃ vandituṃ āgamissāmi, āgacchante antarāmagge mama bhariyaṃ evaṃ vakkhāmi – ‘Ānehi tāva me puttaṃ vahissāmi na’nti.
+    - Dussaṇṭhāpito du saṁ ṭhā + āpe + i + ta
+    - saṇṭhāpeti
+    - gam -ta: gata ⇒ gato gatā gatena
+    - eḷikā: she-goat
+    - vijātaṁ: newborn (tbc)
+    - āneti [ā + √nī + a + ti]: pr. (+acc) brings; brings home; fetches; leads; conveys
+    - ānehi tāva me puttaṃ vahissāmi naṁ: tāva me puttaṁ ānehi (First bring my son here) naṁ vahissāmi (I will carry him / take responsibility for him)
+    - vahati
       - pr. (+acc) carries; carries away [√vah + a + ti] ✓
-      - grammar examples conjugation root family compound family frequency feedback
-      - vahati 2
-      - grammar example conjugation root family compound family frequency feedback
-      - vahati 3
-      - grammar conjugation root family compound family frequency feedback
-      - vahati 4
-      - conjugation root family frequency feedback
-      - ![image](https://remnote-user-data.s3.amazonaws.com/gico://327ad9790bc1357af50541ff5b5851a2/dicticon.png)DPD Grammar
-      - vahissāmi
-  - Paragraph 38
-    - Sā ‘Kiṃ te puttena, ehi, imaṃ yānakaṃ pājehī’ti vatvā puttaṃ gahetvā, ‘Ahaṃ nessāmi na’nti netvā sandhāretuṃ asakkontī cakkapathe chaḍḍessati. Athassa sarīraṃ abhiruhitvā cakkaṃ (subject) gamissati, atha naṃ ‘Tvaṃ mama puttaṃ neva mayhaṃ adāsi, naṃ sandhāretuṃ nāsakkhi nāsitosmi tayā’ti vatvā "patodayaṭṭhiyā piṭṭhiyaṃ paharissāmī”ti. so evaṃ cintentova ṭhatvā bījayamāno therassa sīse tālavaṇṭena pahari.
-      - She said, "What do you want with the son? / What is the use of the son for you? Come! Drive this vehicle!", took the son thinking, "I will carry him", having done so, not being able to hold (the son), she will drop (the son) on the road (path of the wheel). Then, having ran over (climbed) his body, the wheel will go. Then, he (the man) said, "You neither gave me my son (to me), nor were able to keep hold of him. I am destroyed by you. I will hit the back (your back) with the pole of the whip." Just as he stood thinking thus and fanning (the elder), he hit the elder on the head with the palm stalk fan.
-      - pājeti [pa + √aj + *e + ti]: pr. (+acc) drives on (to); urges on (to); lit. causes to drive
-      - sandhāretuṃ 1: inf. (+acc) to hold back; to restrain; lit. to cause to hold together [saṃ + √dhar + *e + tuṃ] 2 inf. (+acc) to maintain; to preserve; to keep up; lit. to cause to hold together [saṃ + √dhar + *e + tuṃ]
-      - nessati
-        - 1.1 fut. (+acc) will lead astray; will misguide [√nī + a + ssa + ti] ✓
-        - 2.1 fut. (+acc) will destroy; will ruin; will harm [√nas + *e + ssa + ti] ✓
-        - 3.1 pr. (+acc) takes away; takes home [√ness + a + ti] ~
-      - nāsitosmi tayā: I am destroyed by you
-      - patoda [pa + √tud + *a]: masc. whip; goad; riding crop
-      - yaṭṭhi (f.)
-        - fem. stick; switch ~
-        - 2 fem. pole ✗
-        - 3 fem. staff, walking stick ✗
-        - 4 fem. measure of length (7 ratana = 1 yaṭṭhi; 20 yaṭṭhi = 1 usabha; 4 yaṭṭhi = 1 abbhantara; 4 hattha = 1 yaṭṭhi) ✗
-  - Paragraph 39
-    - Thero “Kiṃ nu kho ahaṃ saṅgharakkhitena sīse pahato”ti upadhārento tena cintitacintitaṃ sabbaṃ ñatvā, “Saṅgharakkhita, mātugāmassa pahāraṃ dātuṃ nāsakkhi, ko ettha mahallakattherassa doso”ti āha. So “Aho naṭṭhomhi, ñātaṃ kira (<!--? -->) me upajjhāyena cintitacintitaṃ, kiṃ me samaṇabhāvenā”ti tālavaṇṭaṃ chaḍḍetvā palāyituṃ āraddho. Atha naṃ daharā ca sāmaṇerā ca anubandhitvā ādāya satthu santikaṃ agamaṃsu. <!-- what is the function of this kira? -->
-      - naṭṭha [√nas + ta]: pp. lost; perished; destroyed
-      - Aho naṭṭhomhi: Alas! I am lost / destroyed.
-      - ñātaṃ kira (<!--? -->) me upajjhāyena cintitacintitaṃ: whatever was thought by me is definitely known by my preceptor
-      - anubandhitvā: abs. (+acc) having followed; having chased; lit. having tied behind [anu + √bandh + itvā] ✓
-  - Paragraph 40
-    - Satthā te bhikkhū disvāva (divā eva [parasaralopa]) “Kiṃ, bhikkhave, āgatattha (āgatā attha (3 pp) [either pubbasaralopa, or parasaralopa and rasasandhi]), eko vo bhikkhu laddho”ti pucchi. “Āma, bhante, imaṃ daharaṃ ukkaṇṭhitvā palāyantaṃ gahetvā tumhākaṃ santikaṃ āgatamhā”ti (āgatā amha iti). “Evaṃ kira bhikkhū”ti? “Āma, bhante”ti. “Kimatthaṃ te bhikkhu evaṃ bhāriyaṃ kammaṃ kataṃ, nanu tvaṃ āraddhavīriyassa ekassa buddhassa putto, mādisassa (maṁ ādisa [niggahita lopa and pubbasaralopa]) nāma buddhassa sāsane pabbajitvā attānaṃ dametvā sotāpannoti vā sakadāgāmīti vā anāgāmīti vā arahāti vā vadāpetuṃ nāsakkhi, kimatthaṃ evaṃ bhāriyaṃ kammamakāsī”ti?
+      - pr. (+acc) takes responsibility (for); worries about; lit. carries [√vah + a + ti] ✓
+      - pr. (+acc) has power; takes effect; works; lit. carries [√vah + a + ti] ~
+      - pr. flows ✗
+    - pr. (+acc) carries; carries away [√vah + a + ti] ✓
+    - grammar examples conjugation root family compound family frequency feedback
+    - vahati 2
+    - grammar example conjugation root family compound family frequency feedback
+    - vahati 3
+    - grammar conjugation root family compound family frequency feedback
+    - vahati 4
+    - conjugation root family frequency feedback
+    - ![image](https://remnote-user-data.s3.amazonaws.com/gico://327ad9790bc1357af50541ff5b5851a2/dicticon.png)DPD Grammar
+    - vahissāmi
+- Paragraph 38
+  - Sā ‘Kiṃ te puttena, ehi, imaṃ yānakaṃ pājehī’ti vatvā puttaṃ gahetvā, ‘Ahaṃ nessāmi na’nti netvā sandhāretuṃ asakkontī cakkapathe chaḍḍessati. Athassa sarīraṃ abhiruhitvā cakkaṃ (subject) gamissati, atha naṃ ‘Tvaṃ mama puttaṃ neva mayhaṃ adāsi, naṃ sandhāretuṃ nāsakkhi nāsitosmi tayā’ti vatvā "patodayaṭṭhiyā piṭṭhiyaṃ paharissāmī”ti. so evaṃ cintentova ṭhatvā bījayamāno therassa sīse tālavaṇṭena pahari.
+    - She said, "What do you want with the son? / What is the use of the son for you? Come! Drive this vehicle!", took the son thinking, "I will carry him", having done so, not being able to hold (the son), she will drop (the son) on the road (path of the wheel). Then, having ran over (climbed) his body, the wheel will go. Then, he (the man) said, "You neither gave me my son (to me), nor were able to keep hold of him. I am destroyed by you. I will hit the back (your back) with the pole of the whip." Just as he stood thinking thus and fanning (the elder), he hit the elder on the head with the palm stalk fan.
+    - pājeti [pa + √aj + *e + ti]: pr. (+acc) drives on (to); urges on (to); lit. causes to drive
+    - sandhāretuṃ 1: inf. (+acc) to hold back; to restrain; lit. to cause to hold together [saṃ + √dhar + *e + tuṃ] 2 inf. (+acc) to maintain; to preserve; to keep up; lit. to cause to hold together [saṃ + √dhar + *e + tuṃ]
+    - nessati
+      - 1.1 fut. (+acc) will lead astray; will misguide [√nī + a + ssa + ti] ✓
+      - 2.1 fut. (+acc) will destroy; will ruin; will harm [√nas + *e + ssa + ti] ✓
+      - 3.1 pr. (+acc) takes away; takes home [√ness + a + ti] ~
+    - nāsitosmi tayā: I am destroyed by you
+    - patoda [pa + √tud + *a]: masc. whip; goad; riding crop
+    - yaṭṭhi (f.)
+      - fem. stick; switch ~
+      - 2 fem. pole ✗
+      - 3 fem. staff, walking stick ✗
+      - 4 fem. measure of length (7 ratana = 1 yaṭṭhi; 20 yaṭṭhi = 1 usabha; 4 yaṭṭhi = 1 abbhantara; 4 hattha = 1 yaṭṭhi) ✗
+- Paragraph 39
+  - Thero “Kiṃ nu kho ahaṃ saṅgharakkhitena sīse pahato”ti upadhārento tena cintitacintitaṃ sabbaṃ ñatvā, “Saṅgharakkhita, mātugāmassa pahāraṃ dātuṃ nāsakkhi, ko ettha mahallakattherassa doso”ti āha. So “Aho naṭṭhomhi, ñātaṃ kira (<!--? -->) me upajjhāyena cintitacintitaṃ, kiṃ me samaṇabhāvenā”ti tālavaṇṭaṃ chaḍḍetvā palāyituṃ āraddho. Atha naṃ daharā ca sāmaṇerā ca anubandhitvā ādāya satthu santikaṃ agamaṃsu. <!-- what is the function of this kira? -->
+    - naṭṭha [√nas + ta]: pp. lost; perished; destroyed
+    - Aho naṭṭhomhi: Alas! I am lost / destroyed.
+    - ñātaṃ kira (<!--? -->) me upajjhāyena cintitacintitaṃ: whatever was thought by me is definitely known by my preceptor
+    - anubandhitvā: abs. (+acc) having followed; having chased; lit. having tied behind [anu + √bandh + itvā] ✓
+- Paragraph 40
+  - Satthā te bhikkhū disvāva (divā eva [parasaralopa]) “Kiṃ, bhikkhave, āgatattha (āgatā attha (3 pp) [either pubbasaralopa, or parasaralopa and rasasandhi]), eko vo bhikkhu laddho”ti pucchi. “Āma, bhante, imaṃ daharaṃ ukkaṇṭhitvā palāyantaṃ gahetvā tumhākaṃ santikaṃ āgatamhā”ti (āgatā amha iti). “Evaṃ kira bhikkhū”ti? “Āma, bhante”ti. “Kimatthaṃ te bhikkhu evaṃ bhāriyaṃ kammaṃ kataṃ, nanu tvaṃ āraddhavīriyassa ekassa buddhassa putto, mādisassa (maṁ ādisa [niggahita lopa and pubbasaralopa]) nāma buddhassa sāsane pabbajitvā attānaṃ dametvā sotāpannoti vā sakadāgāmīti vā anāgāmīti vā arahāti vā vadāpetuṃ nāsakkhi, kimatthaṃ evaṃ bhāriyaṃ kammamakāsī”ti?
 <!--       - “Kiṃ, bhikkhave, āgatattha (āgatā attha), eko vo bhikkhu laddho”: For what sake have you come? One monk is taken by you. ((should the second part be part of the question?)) () -->
 - Ukkaṇṭhitvā: having become dissatisfied
-  - imaṃ daharaṃ ukkaṇṭhitvā palāyantaṃ gahetvā tumhākaṃ santikaṃ āgatamhā”ti: We are come / We have come to your presence having grabbed this youth while he was running after having become dissatisfied.
-    - kimatthaṃ te bhikkhu evaṃ bhāriyaṃ kammaṃ kataṃ: for what sake was this serious deed done thus by you, monk?
-      - nanu tvaṃ āraddhavīriyassa ekassa buddhassa putto: aren't you a son of the Buddha who has effort aroused?
-      - mādisassa nāma buddhassa sāsane pabbajitvā attānaṃ dametvā sotāpannoti vā sakadāgāmīti vā anāgāmīti vā arahāti vā vadāpetuṃ nāsakkhi: having taken ordination in the dispensation of a Buddha like me, having tamed / trained oneself, was unable to cause others to call (oneself) in this way: a stream-enterer, once-returner, non-returner, a worthy one
-      - mādisa: adj. like me; resembling me
-      - nāsakkhi: aor. (+inf) was unable (to); was incapable (of); was not possible (to) [na + √sak + ṇo + i] ✓
-      - vadāpetuṃ: to cause others to call
-      - ādisa
-        - adj. of character; of quality; of kind; referring to [ā + √dis + a] ✓
-        - pr. (+acc) points out; explains; reveals [ā + √dis + a + ti] ✓
-  - Paragraph 41
+- Imaṃ daharaṃ ukkaṇṭhitvā palāyantaṃ gahetvā tumhākaṃ santikaṃ āgatamhā”ti: We are come / We have come to your presence having grabbed this youth while he was running after having become dissatisfied.
+- Kimatthaṃ te bhikkhu evaṃ bhāriyaṃ kammaṃ kataṃ: for what sake was this serious deed done thus by you, monk?
+- Nanu tvaṃ āraddhavīriyassa ekassa buddhassa putto: aren't you a son of the Buddha who has effort aroused?
+- Mādisassa nāma buddhassa sāsane pabbajitvā attānaṃ dametvā sotāpannoti vā sakadāgāmīti vā anāgāmīti vā arahāti vā vadāpetuṃ nāsakkhi: having taken ordination in the dispensation of a Buddha like me, having tamed / trained oneself, was unable to cause others to call (oneself) in this way: a stream-enterer, once-returner, non-returner, a worthy one
+- Mādisa: adj. like me; resembling me
+- Nāsakkhi: aor. (+inf) was unable (to); was incapable (of); was not possible (to) [na + √sak + ṇo + i] ✓
+- Vadāpetuṃ: to cause others to call
+- Ādisa
+  - adj. of character; of quality; of kind; referring to [ā + √dis + a] ✓
+  - pr. (+acc) points out; explains; reveals [ā + √dis + a + ti] ✓
+- Paragraph 41
 <!--     - “Ukkaṇṭhitosmi, bhante”ti. “Kiṃ kāraṇā ukkaṇṭhitosī”ti? So evaṃ vassāvāsikasāṭakānaṃ laddhadivasato paṭṭhāya yāva therassa tālavaṇṭena pahārā ((apādāna pañcamī?)) sabbaṃ taṃ pavattiṃ ārocetvā, “Iminā kāraṇena (reason) palātosmi, bhante”ti āha. Atha naṃ satthā “Ehi bhikkhu, mā cintayi cittaṃ nāmetaṃ dūre hontampi ārammaṇaṃ sampaṭicchanakajātikaṃ, rāgadosamohabandhanā muccanatthāya vāyamituṃ vaṭṭatī”ti vatvā imaṃ gāthamāha – 37. “Dūraṅgamaṃ ekacaraṃ, asarīraṃ guhāsayaṃ; ye cittaṃ saṃyamessanti, mokkhanti mārabandhanā”ti. () -->
 - Having informed all the happenings to Him, starting from the day he had received the robes for those who observed the rains retreat thus until the blow to the elder with the palm leaf fan, he said...
-  - honta: prp. existing ✗
-    - cittaṃ nāmetaṃ dūre hontampi ārammaṇaṃ sampaṭicchanakajātikaṃ, rāgadosamohabandhanā muccanatthāya vāyamituṃ vaṭṭatī: this so called mind is of the nature of being one who receives the object even it being far away; it is right to exert (effort) for the sake of freedom from the bondage of lust, hatred, and delusion
-      - saṃyameti: pr. (+acc) practices control (over); restrains [saṃ + √yam + *e + ti] ✓
-  - Paragraph 42
-    - tattha dūraṅgamanti cittassa hi makkaṭasuttamattakampi puratthimādidisābhāgena gamanāgamanaṃ nāma natthi, dūre santampi pana ārammaṇaṃ sampaṭicchatīti dūraṅgamaṃ nāma jātaṃ. Sattaṭṭhacittāni pana ekato kaṇṇikabaddhāni ekakkhaṇe uppajjituṃ samatthāni nāma natthi. Uppattikāle ekekameva cittaṃ uppajjati, tasmiṃ niruddhe puna ekekameva uppajjatīti ekacaraṃ nāma jātaṃ. Cittassa sarīrasaṇṭhānaṃ vā nīlādippakāro vaṇṇabhedo vā natthīti asarīraṃ nāma jātaṃ.
-      - makkaṭasutta: nt. spider's thread ✗
-      - makkaṭasuttamattakampi: even as much as a spider's thread
-      - disābhāga: masc. direction [disā + bhāga] ~
-      - cittassa hi makkaṭasuttamattakampi puratthimādidisābhāgena gamanāgamanaṃ nāma natthi: there is no such thing as what is called "going and coming" of the mind by the directions of east and so on not even as much as a spider's thread
-      - dūre santampi pana ārammaṇaṃ sampaṭicchatīti dūraṅgamaṃ nāma jātaṃ: and it accepts the object even it being far away, thus is the nature so called "far-ranging"
-      - sattaṭṭhacittāni pana ekato kaṇṇikabaddhāni ekakkhaṇe uppajjituṃ samatthāni nāma natthi: there is no such thing as 7 or 8 cittas that are able to arise in one moment together / as one (like) rafters bound to the pinnacle of a house
-      - kaṇṇikabaddhāni cittāni: cittas (like) rafters bound to the pinnacle of a house (tbc)
-      - kaṇṇika
-        - masc. rabbit; hare; lit. having ears [kaṇṇa + ika] ~
-        - 1 fem. pericarp, sheaf, house-top, ornament for the ear ✗
-        - 2 fem. fungus, mould ✗
-      - uppatti
-        - 1 fem. arising; appearance; occurrence [ud + √pad + ti] ✓
-        - 2 fem. origin; occasion; occurrence [ud + √pad + ti] ~
-        - 3 fem. rebirth ✗
-      - pakāra
-        - 1 masc. method; manner; way [pa + √kar + *a] ✓
-        - 2 masc. arrangement; construction; way something is put together [pa + √kar + *a] ~
-      - cittassa sarīrasaṇṭhānaṃ vā nīlādippakāro vaṇṇabhedo vā natthīti asarīraṃ nāma jātaṃ.: there is no bodily shape or classification according to color such as blue and so on, thus is the nature of being "incorporeal"
-      - vaṇṇabheda
-        - masc. changing the appearance; lit. breaking appearance [vaṇṇa + bheda] ~
-        - classification / division according to color
-  - Paragraph 43
+- Honta: prp. existing ✗
+- Cittaṃ nāmetaṃ dūre hontampi ārammaṇaṃ sampaṭicchanakajātikaṃ, rāgadosamohabandhanā muccanatthāya vāyamituṃ vaṭṭatī: this so called mind is of the nature of being one who receives the object even it being far away; it is right to exert (effort) for the sake of freedom from the bondage of lust, hatred, and delusion
+- Saṃyameti: pr. (+acc) practices control (over); restrains [saṃ + √yam + *e + ti] ✓
+- Paragraph 42
+  - tattha dūraṅgamanti cittassa hi makkaṭasuttamattakampi puratthimādidisābhāgena gamanāgamanaṃ nāma natthi, dūre santampi pana ārammaṇaṃ sampaṭicchatīti dūraṅgamaṃ nāma jātaṃ. Sattaṭṭhacittāni pana ekato kaṇṇikabaddhāni ekakkhaṇe uppajjituṃ samatthāni nāma natthi. Uppattikāle ekekameva cittaṃ uppajjati, tasmiṃ niruddhe puna ekekameva uppajjatīti ekacaraṃ nāma jātaṃ. Cittassa sarīrasaṇṭhānaṃ vā nīlādippakāro vaṇṇabhedo vā natthīti asarīraṃ nāma jātaṃ.
+    - makkaṭasutta: nt. spider's thread ✗
+    - makkaṭasuttamattakampi: even as much as a spider's thread
+    - disābhāga: masc. direction [disā + bhāga] ~
+    - cittassa hi makkaṭasuttamattakampi puratthimādidisābhāgena gamanāgamanaṃ nāma natthi: there is no such thing as what is called "going and coming" of the mind by the directions of east and so on not even as much as a spider's thread
+    - dūre santampi pana ārammaṇaṃ sampaṭicchatīti dūraṅgamaṃ nāma jātaṃ: and it accepts the object even it being far away, thus is the nature so called "far-ranging"
+    - sattaṭṭhacittāni pana ekato kaṇṇikabaddhāni ekakkhaṇe uppajjituṃ samatthāni nāma natthi: there is no such thing as 7 or 8 cittas that are able to arise in one moment together / as one (like) rafters bound to the pinnacle of a house
+    - kaṇṇikabaddhāni cittāni: cittas (like) rafters bound to the pinnacle of a house (tbc)
+    - kaṇṇika
+      - masc. rabbit; hare; lit. having ears [kaṇṇa + ika] ~
+      - 1 fem. pericarp, sheaf, house-top, ornament for the ear ✗
+      - 2 fem. fungus, mould ✗
+    - uppatti
+      - 1 fem. arising; appearance; occurrence [ud + √pad + ti] ✓
+      - 2 fem. origin; occasion; occurrence [ud + √pad + ti] ~
+      - 3 fem. rebirth ✗
+    - pakāra
+      - 1 masc. method; manner; way [pa + √kar + *a] ✓
+      - 2 masc. arrangement; construction; way something is put together [pa + √kar + *a] ~
+    - cittassa sarīrasaṇṭhānaṃ vā nīlādippakāro vaṇṇabhedo vā natthīti asarīraṃ nāma jātaṃ.: there is no bodily shape or classification according to color such as blue and so on, thus is the nature of being "incorporeal"
+    - vaṇṇabheda
+      - masc. changing the appearance; lit. breaking appearance [vaṇṇa + bheda] ~
+      - classification / division according to color
+- Paragraph 43
 <!--     - Guhā nāma catumahābhūtaguhā, idañca hadayarūpaṃ nissāya pavattatīti guhāsayaṃ nāma jātaṃ. Ye cittanti ye keci purisā vā itthiyo vā gahaṭṭhā vā pabbajitā vā anuppajjanakakilesassa uppajjituṃ ((?)) adentā satisammosena uppannakilesaṃ pajahantā cittaṃ saṃyamessanti saṃyataṃ avikkhittaṃ karissanti. Mokkhanti mārabandhanāti sabbete (sabbe ete) kilesabandhanābhāvena mārabandhanasaṅkhātā tebhūmakavaṭṭā muccissantīti ((why this iti here?)). Desanāpariyosāne bhāgineyyasaṅgharakkhitatthero sotāpattiphalaṃ pāpuṇi, aññepi bahū sotāpannādayo jātā, mahājanassa sātthikā dhammadesanā ahosīti. Saṅgharakkhitabhāgineyyattheravatthu catutthaṃ. () -->
 <!--       - (why are the mahābhūtās called guhā?) () -->
 - Uppajjanaka: adj. arising; appearing; coming into being [ud + √pad + ya + ana + ka]
-  - adenta: prp. not giving; not offering ✗
-    - anuppajjanakakilesassa uppajjituṃ adentā: not giving rise (to rise) to (of) non-arising defilement
-      - satisammosa: masc. loss of memory, forgetfulness
-      - satisammosena uppannakilesaṃ pajahantā: being one who is abandoning defilement(s) arisen due to forgetfulness
-      - sabbete kilesabandhanābhāvena (bandhana abhāva) mārabandhanasaṅkhātā tebhūmakavaṭṭā muccissantīti.: all of them will free (themselves) of the cycle of three realms, which is reckoned as the shackles of death, by the abscence / lack / non-existence of the bondages of defilements
+- Adenta: prp. not giving; not offering ✗
+- Anuppajjanakakilesassa uppajjituṃ adentā: not giving rise (to rise) to (of) non-arising defilement
+- Satisammosa: masc. loss of memory, forgetfulness
+- Satisammosena uppannakilesaṃ pajahantā: being one who is abandoning defilement(s) arisen due to forgetfulness
+- Sabbete kilesabandhanābhāvena (bandhana abhāva) mārabandhanasaṅkhātā tebhūmakavaṭṭā muccissantīti.: all of them will free (themselves) of the cycle of three realms, which is reckoned as the shackles of death, by the abscence / lack / non-existence of the bondages of defilements
 - Cittavagga (part IV)
   - Paragraph 44
     - 5.cittahatthattheravatthu
       - anavaṭṭhitacittassāti (ā iti) imaṃ dhammadesanaṃ satthā sāvatthiyaṃ viharanto cittahatthattheraṃ ārabbha kathesi. Eko kira sāvatthivāsī kulaputto naṭṭhagoṇaṃ pariyesanto araññaṃ pavisitvā majjhaṇhike kāle goṇaṃ disvā goyūthe vissajjetvā, “Avassaṃ ayyānaṃ santike āhāramattaṃ labhissāmī”ti khuppipāsāpīḷito vihāraṃ pavisitvā bhikkhūnaṃ santikaṃ gantvā vanditvā ekamantaṃ nisīdi. Tasmiṃ kho pana samaye bhikkhūnaṃ avakkārapātiyaṃ bhuttāvasesakaṃ bhattaṃ hoti,
-        - "anavaṭṭhitacittassa" means this Dhamma discourse, the Teacher, while dwelling in Sāvatthi, gave (talked, preached) concerning sb / about sb the elder Cittahattha. It is said that a certain son of a good famly, a dweller of Sāvatthi, searching for a lost cow, having entered a forest at noon time, having seen the cow, having released the cow herd, (he though): "Certainly, I'll get some (a measure of) food in the presence / vicinity of the masters (venerables)". Having entered the monastery oppressed by hunger and thirst, having gone to the vicinity / presence of the monks, having paid respect, he sat to a side. On that occasion, the leftover food of the monks was on a container for left-over food.
+
+        | singular | plural |
+        |---|---|
+        | "anavaṭṭhitacittassa" means this Dhamma discourse, the Teacher, while dwelling in Sāvatthi, gave (talked, preached) concerning sb | about sb the elder Cittahattha. It is said that a certain son of a good famly, a dweller of Sāvatthi, searching for a lost cow, having entered a forest at noon time, having seen the cow, having released the cow herd, (he though): " |
+        | Certainly, I'll get some (a measure of) food in the presence | vicinity of the masters (venerables)" |
+        | . Having entered the monastery oppressed by hunger and thirst, having gone to the vicinity | presence of the monks, having paid respect, he sat to a side. On that occasion, the leftover food of the monks was on a container for left-over food. |
+
         - goyūtha: masc. herd of cattle
         - yūtha: masc. herd; flock; troop; multitude [√yu + tha] ~
         - naṭṭhagoṇaṃ: a lost cow

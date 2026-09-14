@@ -29,583 +29,567 @@ permalink: /summaries/pali/niruttidipani-namakanda-notes
 <!--           - ((don't they also convey gender?)) () -->
 - Vibhattyattha
   - basic meaning of the vibhattis
-  - nāmagaṇa
-    - purisādigaṇa
-      - formation of the vibhattis (from original to final)
-        - general rules: (ov = original vibhatti; v = vibhatti) ov ⇒ final v if the final word is the same as the stem, the vibhatti is elided
-          - paṭhamavibhatti
+- Nāmagaṇa
+  - purisādigaṇa
+    - formation of the vibhattis (from original to final)
+      - general rules: (ov = original vibhatti; v = vibhatti) ov ⇒ final v if the final word is the same as the stem, the vibhatti is elided
+        - paṭhamavibhatti
+          - singular
+            - si ⇒ o (puriso) 107. sisso
+          - plural
+            - yo ⇒ ā (purisā) 108.ato yonaṃ ṭāṭe
+              - exception
+                - st, yo is retained (byappathayo, paripanthayo)
+                  - kyāssa byappathā assu = kyāssa byappathayo assu (sāriputtasutta, suttanipāta) ("What words might he have?")
+                    - byappatha [vi + ā + √path + a]: masc. way of speech; mode of speaking
+                  - bahū hi paripanthā = bahu hi paripanthayo (mahājanaka jātaka) ("There are many obstacles.")
+          - exception
+            - st, si / yo ⇒ e (purise) 113. Kvace vā
             - singular
-              - si ⇒ o (puriso) 107. sisso
+              - Vanappagumbo yathā phussitaggo ⇒ Vanappagumbe yathā phussitaggē (Ratana Sutta)
+              - Na hi + evaṃ vattabbo = Na hevaṃ vattabbe (Kathāvatthuppakaraṇa) ("It should not be said thus.")
+              - Natthi attakāro = Natthi attakāre (Makkhalīgosālavāda, Sāmaññaphala Sutta)("There is no action performed by oneself for one’s own benefit.")
             - plural
-              - yo ⇒ ā (purisā) 108.ato yonaṃ ṭāṭe
-                - exception
-                  - st, yo is retained (byappathayo, paripanthayo)
-                    - kyāssa byappathā assu = kyāssa byappathayo assu (sāriputtasutta, suttanipāta) ("What words might he have?")
-                      - byappatha [vi + ā + √path + a]: masc. way of speech; mode of speaking
-                    - bahū hi paripanthā = bahu hi paripanthayo (mahājanaka jātaka) ("There are many obstacles.")
-            - exception
-              - st, si / yo ⇒ e (purise) 113. Kvace vā
-              - singular
-                - Vanappagumbo yathā phussitaggo ⇒ Vanappagumbe yathā phussitaggē (Ratana Sutta)
-                - Na hi + evaṃ vattabbo = Na hevaṃ vattabbe (Kathāvatthuppakaraṇa) ("It should not be said thus.")
-                - Natthi attakāro = Natthi attakāre (Makkhalīgosālavāda, Sāmaññaphala Sutta)("There is no action performed by oneself for one’s own benefit.")
-              - plural
-                - Bāle ca paṇḍite ca sandhāvitvā saṃsaritvā dukkhassantaṃ karissanti. (makkhaligosālavāda, sāmaññaphalasutta) ("After running and wandering through births, the ignorant and the wise will achieve the end of suffering.")
-          - ālapana
-            - singular
-              - si is elided (bho / he purisa) 82.gasīnaṃ st, the ending vowel is lengthened (bho / he purisā) 63.ayunaṃ vā dīgho
-                - why is it sometimes lengthened?
-                  - sanskrit grammar: 'ā' is used to address someone far away
-                  - Pāḷi
-                    - rūpasiddhi: adūraṭṭhassālapanevāyaṃ (purisa is not used to address someone far away)
-                    - payogasiddhi: both can be used regardless of the distance
-            - plural
-              - yo ⇒ ā (bhonto / he purisā) 108.ato yonaṃ ṭāṭe
-                - why are bho / bhonto / he used? are they compulsory?
-                  - as emphasis and are optional
-                    - keci ālapanābhibyattiyā bhavantasaddaṃ vā hesaddaṃ vā payujjante. (rūpasiddhi, 47)
-            - exception
-              - ayya (master, noble one, gentleman) si ⇒ o (bho ayya ayyā ayyo) yo ⇒ o (bhonto ayyā ayyo)
-                - Manussā te ājīvakasāvake etadavocuṃ. Kissa tumhe ayyo āgatatthāti. Idha mayaṃ ayyo amukaṃ nāma gaṇakiṃ dhītaraṃ yācimhā. (pārājikapāḷi) ("The people said to the followers of the ascetics, 'Why have you, O masters, come here?' Here, we, O gentlemen, asked for the daughter from accountant’s wife, who is so named.")
-          - dutiyāvibhatti
-            - singular
-              - aṁ (purisaṁ)
-            - plural
-              - yo ⇒ e (purise) 108.ato yonaṃ ṭāṭe
-          - tatiyavibhatti
-            - singular
+              - Bāle ca paṇḍite ca sandhāvitvā saṃsaritvā dukkhassantaṃ karissanti. (makkhaligosālavāda, sāmaññaphalasutta) ("After running and wandering through births, the ignorant and the wise will achieve the end of suffering.")
+        - ālapana
+          - singular
+            - si is elided (bho / he purisa) 82.gasīnaṃ st, the ending vowel is lengthened (bho / he purisā) 63.ayunaṃ vā dīgho
+              - why is it sometimes lengthened?
+                - sanskrit grammar: 'ā' is used to address someone far away
+                - Pāḷi
+                  - rūpasiddhi: adūraṭṭhassālapanevāyaṃ (purisa is not used to address someone far away)
+                  - payogasiddhi: both can be used regardless of the distance
+          - plural
+            - yo ⇒ ā (bhonto / he purisā) 108.ato yonaṃ ṭāṭe
+              - why are bho / bhonto / he used? are they compulsory?
+                - as emphasis and are optional
+                  - keci ālapanābhibyattiyā bhavantasaddaṃ vā hesaddaṃ vā payujjante. (rūpasiddhi, 47)
+          - exception
+            - ayya (master, noble one, gentleman) si ⇒ o (bho ayya ayyā ayyo) yo ⇒ o (bhonto ayyā ayyo)
+              - Manussā te ājīvakasāvake etadavocuṃ. Kissa tumhe ayyo āgatatthāti. Idha mayaṃ ayyo amukaṃ nāma gaṇakiṃ dhītaraṃ yācimhā. (pārājikapāḷi) ("The people said to the followers of the ascetics, 'Why have you, O masters, come here?' Here, we, O gentlemen, asked for the daughter from accountant’s wife, who is so named.")
+        - dutiyāvibhatti
+          - singular
+            - aṁ (purisaṁ)
+          - plural
+            - yo ⇒ e (purise) 108.ato yonaṃ ṭāṭe
+        - tatiyavibhatti
+          - singular
 <!--               - nā ⇒ ena (purisena) 109.atena () -->
 - Plural
   - purisa + hi ⇒ purise + hi 110.suhisvasse st, hi ⇒ bhi (purisebhi) 86.smāhismiṃnaṃ mhābhimhi vā
-    - catutthīvibhatti
-      - singular
-        - purisa + sa ⇒ purisa + s + sa (purisassa) 111.suñ sassa
-          - plural
-            - purisa + naṁ ⇒ purisā + naṁ (purisānaṁ) 94.sunaṃhisu
-          - pañcamīvibhatti
-            - singular
-              - smā (purisasmā) st, smā ⇒ mhā (purisamhā) 86.smāhismiṃnaṃ mhābhimhi vā st, smā ⇒ ā (purisā) 112.smāsmiṃnaṃ
-            - plural (same as instrumental)
-          - chaṭṭhīvibhatti
-            - singular (as the dative + āya)
+- Catutthīvibhatti
+  - singular
+    - purisa + sa ⇒ purisa + s + sa (purisassa) 111.suñ sassa
+  - plural
+    - purisa + naṁ ⇒ purisā + naṁ (purisānaṁ) 94.sunaṃhisu
+- Pañcamīvibhatti
+  - singular
+    - smā (purisasmā) st, smā ⇒ mhā (purisamhā) 86.smāhismiṃnaṃ mhābhimhi vā st, smā ⇒ ā (purisā) 112.smāsmiṃnaṃ
+  - plural (same as instrumental)
+- Chaṭṭhīvibhatti
+  - singular (as the dative + āya)
 <!--               - st, āya (purisāya) ((isn't this under catutthī?)) () -->
 - ṭhapetvā āyādesaṃ sabbattha catutthīchaṭṭhīnaṃ samānaṃ rūpaṃ (rūpasiddhi, 50)
-  - plural (as the dative)
-    - sattamīvibhatti
-      - singular
-        - smiṁ (purisasmiṁ) st, smiṁ ⇒ mhi (purisamhi) 86. Smāhismiṃnaṃ mhābhimhi vā st, smiṁ ⇒ e (purise) 112. Smāsmiṃnaṃ
-          - exeption:
-            - smiṁ ⇒ i in words such as 'diva' (divasmiṁ divamhi dive divi) 114. Divādito nrtdpn: ādi includes "bhū (ground)" bhū + smiṁ (smiṁ ⇒ i) ⇒ bhui ⇒ bhavi
-              - bhavi: on the ground
-                - divi bhavattā dibbā (they are divine because they exist in heaven)
-            - plural
-              - su ⇒ purise su (purisesu) 110. Suhisvasse
-      - padamālā (declension): stating the various forms of a noun corresponding to cases and number
-      - examples of purisādigaṇa nāmas
-        - Evaṃ surāsuranaroraganāgayakkhā gandhabbakinnaramanussapisācapetā mātaṅgajaṅgamaturaṅgavarāhasīhā vyagghacchakacchapataracchamigassasoṇā ālokalokanilayānilacāgayoga vāyāmagāmanigamāgamadhammakāmā saṃghoghaghosapaṭighāsavakodhalobha sārambhathambhamadamānapamādamakkhā punnāgapūgapanasāsanacampakamba hintālatālavakulajjunakiṃsukā ca mandārakundapucimandakarañjarukkhā ñeyyo mayūrasakuṇaṇḍajakoñjahaṃsāti. (rūpasiddhi, payogasiddhi)
-          - jaṅgama [√gam + a + a]: adj. moving; going; walking; mobile
-          - turaṅga: masc. horse (sw t)
-          - varāha: masc. wild pig; hog; boar
-          - soṇa: masc. dog
-          - nilaya: masc. home, lair, habitation, dwelling place (sw n)
-          - anila [√an + ila]: masc. wind (s.with a)
-          - punnāga: masc. Alexandrian Laurel tree; Calophyllum inophyllum![image](https://remnote-user-data.s3.amazonaws.com/https://remnote-user-data.s3.amazonaws.com/GqXIWOH-OWJaotsdjlU8wvL6a8E-BOcRniRV3vP7zEE_Xka7DE-fGhq40khFni50e8FmBH8H3EXMGAdAWTSbbYUxodZsIp7l254D7g4p_V-KWiFAa8vDUyu8JyMGu_Fa.png)![image](https://remnote-user-data.s3.amazonaws.com/https://remnote-user-data.s3.amazonaws.com/W-QHwhr8HDcIZSJZW5ic7gbfobOe1m8IduLOWNLce7SG3ByiviVTh3h87of3o_X9iETGu4AthI1FxZu3Gv_pb2M45idgUeGIf_0u_P5bKaVnLFU02dAFTXSiYckm4Sy7.png)
-          - campaka: masc. tree with fragrant flowers; Magnolia champaca![image](https://remnote-user-data.s3.amazonaws.com/https://remnote-user-data.s3.amazonaws.com/4tmHOcqf3IEryPzwRLoPGbwOKYrgDUuSo6Gq28prrFKwTBLNoD3DVi8luXRC0YLHUdMNJ3qzUCBxoz3ygtX0sT6wvZy64QODsUTp1HZtWrIl1giECqfAYnkyZSY03Tct.png)
-          - hintāla: masc. marshy date palm![image](https://remnote-user-data.s3.amazonaws.com/https://remnote-user-data.s3.amazonaws.com/ySDlLF5T6v4x4BuFvYxvqBrkhFYjQ1m4DchJxeL748lSnrnYs832JgaLK3GKLWvfKltEJBkscZSmjz1bowYWc5QyTII-vLcn5Sz7V28yJCzZt-hvOCSLRXS21xSAT1jv.png)
-          - vakula: masc. tree Mimusops Elengi![image](https://remnote-user-data.s3.amazonaws.com/https://remnote-user-data.s3.amazonaws.com/4ieNdF1X0vX1c9gvtieo2phHAX3EYNSTeWJ80WCtfByxrF9i_uGjaaUoyW948W_GPZB3Erhbm1-mGjnnKrwC2qFnhOW7elm6JObl2VhrDpYsBKRDpFHhrffSdyEwdiq5.png)![image](https://remnote-user-data.s3.amazonaws.com/https://remnote-user-data.s3.amazonaws.com/bpZlL_--HIuGLcub8Um66cP9gbcPlXvfSbeOrqbGK183LTK-scL_Vaos4BwABMevqVWV0QBBrzTOBXoSnHakmINTxu6oKrBSRZe46LwWiIFczXdXvTVH1fJTCgCX5vrZ.png)![image](https://remnote-user-data.s3.amazonaws.com/https://remnote-user-data.s3.amazonaws.com/CKYVcHe9FJW5wYpw9TdXUOyNicjo3ign7TjldB4Oow2PupktNsLNEUGl01pqWlYFZfr3BBmamWMpGk1Ee0bcNw4bJ7RYm5Eur83YUdW-ppRPfLSyZmnT5nZ8vgE9EjJm.png)
-          - ajjuna: masc. tree Pentapatera Arjuna![image](https://remnote-user-data.s3.amazonaws.com/https://remnote-user-data.s3.amazonaws.com/Uz2X3OhUXkbSk1oKnhMGcLkByc7pV0lGIlDT4vm9M-oVK3cKaYwXjxPOkoFkXY-13YIghYt2Mf3-qsgAk8SmZSSg9B4NucVvP3UJSxGVAgiuhbOpuwCg1ClSWSF13TaX.png)
-          - kiṃsuka [ka + su + ka]: masc. Bastard Teak; Parrot tree; Butea Monosperma![image](https://remnote-user-data.s3.amazonaws.com/https://remnote-user-data.s3.amazonaws.com/vSpfHbZ4uTCxBUrqUfOEEQG1ikNPYsDpMtH7i_srb-N_bbjUqNaY7IvmUyC6YsZv2VLKrEuMqyKKSZ73LXQsHUJr-wbvqObCL0nWDQzJxAmV38Mxj97Ch-TG4Febw5JJ.png)
-          - mandāra: masc. name of a mountain
-          - kunda: nt. kind of jasmine![image](https://remnote-user-data.s3.amazonaws.com/https://remnote-user-data.s3.amazonaws.com/HT2l8JdveGOymrMc0ckj5DzV3TTdcH73R3VP0aDaQd9_RJca9McJuCR9vndrxnLECouCobQclOXQkKApnParsOVfTklNyFnNd-XG0NW5Ap4EohVb2mElPaH4iNkVwLBI.png)
-          - karañja: masc. Indian Beech; Pongamia galbra; Millettia pinnata![image](https://remnote-user-data.s3.amazonaws.com/https://remnote-user-data.s3.amazonaws.com/OQMjJw5HLJubHnSyMfeB4W-kFN9RBQR65XWhAFAfYInR0h8DpenCOvah1wh6E0CX_5GPDE68F5R_QMUYQ70mrpdBRCN18p2R3DcuqsQZ9i3pZow7UbqW0Fru4DoDrt8g.png)
+- Plural (as the dative)
+- Sattamīvibhatti
+  - singular
+    - smiṁ (purisasmiṁ) st, smiṁ ⇒ mhi (purisamhi) 86. Smāhismiṃnaṃ mhābhimhi vā st, smiṁ ⇒ e (purise) 112. Smāsmiṃnaṃ
+      - exeption:
+        - smiṁ ⇒ i in words such as 'diva' (divasmiṁ divamhi dive divi) 114. Divādito nrtdpn: ādi includes "bhū (ground)" bhū + smiṁ (smiṁ ⇒ i) ⇒ bhui ⇒ bhavi
+          - bhavi: on the ground
+        - divi bhavattā dibbā (they are divine because they exist in heaven)
+  - plural
+    - su ⇒ purise su (purisesu) 110. Suhisvasse
+- Padamālā (declension): stating the various forms of a noun corresponding to cases and number
+- Examples of purisādigaṇa nāmas
+  - Evaṃ surāsuranaroraganāgayakkhā gandhabbakinnaramanussapisācapetā mātaṅgajaṅgamaturaṅgavarāhasīhā vyagghacchakacchapataracchamigassasoṇā ālokalokanilayānilacāgayoga vāyāmagāmanigamāgamadhammakāmā saṃghoghaghosapaṭighāsavakodhalobha sārambhathambhamadamānapamādamakkhā punnāgapūgapanasāsanacampakamba hintālatālavakulajjunakiṃsukā ca mandārakundapucimandakarañjarukkhā ñeyyo mayūrasakuṇaṇḍajakoñjahaṃsāti. (rūpasiddhi, payogasiddhi)
+    - jaṅgama [√gam + a + a]: adj. moving; going; walking; mobile
+    - turaṅga: masc. horse (sw t)
+    - varāha: masc. wild pig; hog; boar
+    - soṇa: masc. dog
+    - nilaya: masc. home, lair, habitation, dwelling place (sw n)
+    - anila [√an + ila]: masc. wind (s.with a)
+    - punnāga: masc. Alexandrian Laurel tree; Calophyllum inophyllum![image](https://remnote-user-data.s3.amazonaws.com/GqXIWOH-OWJaotsdjlU8wvL6a8E-BOcRniRV3vP7zEE_Xka7DE-fGhq40khFni50e8FmBH8H3EXMGAdAWTSbbYUxodZsIp7l254D7g4p_V-KWiFAa8vDUyu8JyMGu_Fa.png)![image](https://remnote-user-data.s3.amazonaws.com/W-QHwhr8HDcIZSJZW5ic7gbfobOe1m8IduLOWNLce7SG3ByiviVTh3h87of3o_X9iETGu4AthI1FxZu3Gv_pb2M45idgUeGIf_0u_P5bKaVnLFU02dAFTXSiYckm4Sy7.png)
+    - campaka: masc. tree with fragrant flowers; Magnolia champaca![image](https://remnote-user-data.s3.amazonaws.com/4tmHOcqf3IEryPzwRLoPGbwOKYrgDUuSo6Gq28prrFKwTBLNoD3DVi8luXRC0YLHUdMNJ3qzUCBxoz3ygtX0sT6wvZy64QODsUTp1HZtWrIl1giECqfAYnkyZSY03Tct.png)
+    - hintāla: masc. marshy date palm![image](https://remnote-user-data.s3.amazonaws.com/ySDlLF5T6v4x4BuFvYxvqBrkhFYjQ1m4DchJxeL748lSnrnYs832JgaLK3GKLWvfKltEJBkscZSmjz1bowYWc5QyTII-vLcn5Sz7V28yJCzZt-hvOCSLRXS21xSAT1jv.png)
+    - vakula: masc. tree Mimusops Elengi![image](https://remnote-user-data.s3.amazonaws.com/4ieNdF1X0vX1c9gvtieo2phHAX3EYNSTeWJ80WCtfByxrF9i_uGjaaUoyW948W_GPZB3Erhbm1-mGjnnKrwC2qFnhOW7elm6JObl2VhrDpYsBKRDpFHhrffSdyEwdiq5.png)![image](https://remnote-user-data.s3.amazonaws.com/bpZlL_--HIuGLcub8Um66cP9gbcPlXvfSbeOrqbGK183LTK-scL_Vaos4BwABMevqVWV0QBBrzTOBXoSnHakmINTxu6oKrBSRZe46LwWiIFczXdXvTVH1fJTCgCX5vrZ.png)![image](https://remnote-user-data.s3.amazonaws.com/CKYVcHe9FJW5wYpw9TdXUOyNicjo3ign7TjldB4Oow2PupktNsLNEUGl01pqWlYFZfr3BBmamWMpGk1Ee0bcNw4bJ7RYm5Eur83YUdW-ppRPfLSyZmnT5nZ8vgE9EjJm.png)
+    - ajjuna: masc. tree Pentapatera Arjuna![image](https://remnote-user-data.s3.amazonaws.com/Uz2X3OhUXkbSk1oKnhMGcLkByc7pV0lGIlDT4vm9M-oVK3cKaYwXjxPOkoFkXY-13YIghYt2Mf3-qsgAk8SmZSSg9B4NucVvP3UJSxGVAgiuhbOpuwCg1ClSWSF13TaX.png)
+    - kiṃsuka [ka + su + ka]: masc. Bastard Teak; Parrot tree; Butea Monosperma![image](https://remnote-user-data.s3.amazonaws.com/vSpfHbZ4uTCxBUrqUfOEEQG1ikNPYsDpMtH7i_srb-N_bbjUqNaY7IvmUyC6YsZv2VLKrEuMqyKKSZ73LXQsHUJr-wbvqObCL0nWDQzJxAmV38Mxj97Ch-TG4Febw5JJ.png)
+    - mandāra: masc. name of a mountain
+    - kunda: nt. kind of jasmine![image](https://remnote-user-data.s3.amazonaws.com/HT2l8JdveGOymrMc0ckj5DzV3TTdcH73R3VP0aDaQd9_RJca9McJuCR9vndrxnLECouCobQclOXQkKApnParsOVfTklNyFnNd-XG0NW5Ap4EohVb2mElPaH4iNkVwLBI.png)
+    - karañja: masc. Indian Beech; Pongamia galbra; Millettia pinnata![image](https://remnote-user-data.s3.amazonaws.com/OQMjJw5HLJubHnSyMfeB4W-kFN9RBQR65XWhAFAfYInR0h8DpenCOvah1wh6E0CX_5GPDE68F5R_QMUYQ70mrpdBRCN18p2R3DcuqsQZ9i3pZow7UbqW0Fru4DoDrt8g.png)
+- Cittādigaṇa
+  - most nouns included in this group are: akāranta neuter nouns; however, 'gacchanta', when neuter, has a different declension
+  - 5 kāranta neuter nouns into 2 nāmagaṇas
     - cittādigaṇa
-      - most nouns included in this group are: akāranta neuter nouns; however, 'gacchanta', when neuter, has a different declension
-      - 5 kāranta neuter nouns into 2 nāmagaṇas
-        - cittādigaṇa
-          - akaranta (citta)
-        - rattādigaṇa
-          - ikaranta (aṭṭhi)
-          - īkaranta (sukhakārī [when it refers to a neuter noun])
-          - ukaranta (cakkhu)
-          - ūkaranta (gotrabhū)
-      - formation of the vibhattis (from original to final)
-        - note: nom, voc, and acc. are different from purisa
-        - nominative
-          - singular
-            - si ⇒ aṁ (cittaṁ) 195. Aṃ napuṃsake
-          - plural
-            - yo ⇒ ā (cittā) yo ⇒ ni and citta ⇒ cittā (cittāni) 196. Yonaṃ ni 91. Yolopanīsu dīgho
-          - note: in both nom. and acc., cittāni is more common than cittā or citte
-        - vocative
-          - same as nom. pl.
-          - note: in all declensions, nom. pl. and voc. pl. are identical
-          - exception
-            - bhikkhu (bhikkhave)
-        - accusative
-          - singular (same as purisa)
-          - plural
-            - yo ⇒ e (same as purisa)
-            - yo ⇒ ni and citta ⇒ cittā (cittāni) (same as nom. pl.)
-          - note: in both nom. and acc., cittāni is more common than cittā or citte
-        - exception
-          - kamma
-            - tatiyāvibhatti ekavacana
-              - nā (kammanā)
-              - nā ⇒ kammunā ‒ it becomes a 'fake' ukāranta and behaves like them
-                - what 'fake' ukāranta nouns are and which (5) nouns they are
-                  - akāranta that st have their ending 'a' changed to 'u' when followed by the suffixes nā / sa / smā
-                    - addha: addhunā, addhuno
-                    - puma: pumunā, pumuno
-                    - thāma: thāmunā, thāmuno
-                    - kamma: kammunā, kammuno
-                    - brahma: brahmunā, brahmuno
-                    - mem aid: with the passing of time (addha), he became a man (puma) and he was strong (thāma), so he made good deeds (kamma) and again became a brahma
-              - nā ⇒ ena (kammena)
-            - catutthī- / chaṭṭhī-vibhatti ekavacana
-              - sa ⇒ no (kammuno): 144. Jhalato sassa no
-                - to which nouns does this (sa ⇒ no) happen?
-                  - it happens to i-v- / u-v-kāranta nitthī (non-feminine i-vaṇṇa (i / ī) u-vaṇṇa (u / ū) kāranta)
-                    - aggi + sa ⇒ aggino (to/of the fire)
-                    - daṇḍī + sa ⇒ daṇḍino (to/of the stick-holding one),
-
-                    | singular | plural |
-                    |---|---|
-                    | bhikkhu + sa ⇒ bhikkhuno (to | of the monk), |
-                    | sabbaññū + sa ⇒ sabbaññuno (to | of the omniscient one) |
-
-            - pañcamīvibhatti
-              - smā ⇒ nā (kammunā) 167. Nā smāssa
-                - to which nouns does this (smā ⇒ nā) happen?
-                  - it happens to i-v- / u-v-kāranta nitthī nouns (non-feminine i-vaṇṇa (i / ī) u-vaṇṇa (u / ū) kāranta)
-                    - aggi + smā ⇒ agginā
-                    - daṇḍī + smā ⇒ daṇḍinā
-                    - bhikkhu + smā ⇒ bhikkhunā
-                    - sabbaññū + smā ⇒ sabbaññunā
-            - sattamīvibhatti
-              - smiṁ ⇒ ni (kammani) 199. Kammādito
-                - to which (6) nouns does this (smiṁ ⇒ ni) happen
-                  - cittādigaṇa
-                    - kamma: kammani
-                  - not cittādigaṇa
-                    - brahma: brahmani
-                    - atta: attani
-                    - ghamma (summer): ghammani
-                    - muddha: muddhani
-                    - addha (time, path): addhani
-                  - note: there may be others
-                  - mem aid: kamma made one a brahma who believes in atta and in the ghamma, he bent his muddha downwards and in no addha came down
-            - followed by which suffixes does kamma become (fake) ukāranta?
-              - nā: kammunā
-              - sa: kammuno
-              - smā: kammunā
-              - 160. Pumakammathāmaddhānaṃ vā sasmāsu ca
-      - declension
-      - examples of neuter nouns of cittādigaṇa
-        - Puññapāpaphalarūpasādhanaṃ sotaghāṇasukhadukkhakāraṇaṃ dānasīladhanajhānalocanaṃ mūlakūlabalajālamaṅgalaṃ nalinaliṅgamukhaṅgajalambujaṃ pulinadhaññahiraññapadāmataṃ padumapaṇṇasusānavanāyudhaṃ hadayacīvaravatthakulindriyaṃ nayanavadanayānodānasopānapānaṃ bhavanabhuvanalohālātatuṇḍaṇḍapīṭhaṃ kāraṇamaraṇañāṇārammaṇāraññatāṇaṃ tagaranagaratīracchattachiddodakāni (Rūpasiddhi, Payogasiddhi)
-        - sādhana: accomplishment
-        - kūla: bank/shore
-        - nalina: lotus (sw n)
-        - ambuja: lotus
-        - pulina: sand (sw p)
-        - vadana: face (sw v)
-        - bhuvana: world (sw bh)
-        - alāta: firebrand
-        - chidda: hole (sw ch)
+      - akaranta (citta)
+    - rattādigaṇa
+      - ikaranta (aṭṭhi)
+      - īkaranta (sukhakārī [when it refers to a neuter noun])
+      - ukaranta (cakkhu)
+      - ūkaranta (gotrabhū)
+  - formation of the vibhattis (from original to final)
+    - note: nom, voc, and acc. are different from purisa
+    - nominative
+      - singular
+        - si ⇒ aṁ (cittaṁ) 195. Aṃ napuṃsake
+      - plural
+        - yo ⇒ ā (cittā) yo ⇒ ni and citta ⇒ cittā (cittāni) 196. Yonaṃ ni 91. Yolopanīsu dīgho
+      - note: in both nom. and acc., cittāni is more common than cittā or citte
+    - vocative
+      - same as nom. pl.
+      - note: in all declensions, nom. pl. and voc. pl. are identical
+      - exception
+        - bhikkhu (bhikkhave)
+    - accusative
+      - singular (same as purisa)
+      - plural
+        - yo ⇒ e (same as purisa)
+        - yo ⇒ ni and citta ⇒ cittā (cittāni) (same as nom. pl.)
+      - note: in both nom. and acc., cittāni is more common than cittā or citte
+    - exception
+      - kamma
+        - tatiyāvibhatti ekavacana
+          - nā (kammanā)
+          - nā ⇒ kammunā ‒ it becomes a 'fake' ukāranta and behaves like them
+            - what 'fake' ukāranta nouns are and which (5) nouns they are
+              - akāranta that st have their ending 'a' changed to 'u' when followed by the suffixes nā / sa / smā
+                - addha: addhunā, addhuno
+                - puma: pumunā, pumuno
+                - thāma: thāmunā, thāmuno
+                - kamma: kammunā, kammuno
+                - brahma: brahmunā, brahmuno
+                - mem aid: with the passing of time (addha), he became a man (puma) and he was strong (thāma), so he made good deeds (kamma) and again became a brahma
+          - nā ⇒ ena (kammena)
+        - catutthī- / chaṭṭhī-vibhatti ekavacana
+          - sa ⇒ no (kammuno): 144. Jhalato sassa no
+            - to which nouns does this (sa ⇒ no) happen?
+              - it happens to i-v- / u-v-kāranta nitthī (non-feminine i-vaṇṇa (i / ī) u-vaṇṇa (u / ū) kāranta)
+                - aggi + sa ⇒ aggino (to/of the fire)
+                - daṇḍī + sa ⇒ daṇḍino (to/of the stick-holding one),
+                - bhikkhu + sa ⇒ bhikkhuno (to/of the monk),
+                - sabbaññū + sa ⇒ sabbaññuno (to/of the omniscient one)
+        - pañcamīvibhatti
+          - smā ⇒ nā (kammunā) 167. Nā smāssa
+            - to which nouns does this (smā ⇒ nā) happen?
+              - it happens to i-v- / u-v-kāranta nitthī nouns (non-feminine i-vaṇṇa (i / ī) u-vaṇṇa (u / ū) kāranta)
+                - aggi + smā ⇒ agginā
+                - daṇḍī + smā ⇒ daṇḍinā
+                - bhikkhu + smā ⇒ bhikkhunā
+                - sabbaññū + smā ⇒ sabbaññunā
+        - sattamīvibhatti
+          - smiṁ ⇒ ni (kammani) 199. Kammādito
+            - to which (6) nouns does this (smiṁ ⇒ ni) happen
+              - cittādigaṇa
+                - kamma: kammani
+              - not cittādigaṇa
+                - brahma: brahmani
+                - atta: attani
+                - ghamma (summer): ghammani
+                - muddha: muddhani
+                - addha (time, path): addhani
+              - note: there may be others
+              - mem aid: kamma made one a brahma who believes in atta and in the ghamma, he bent his muddha downwards and in no addha came down
+        - followed by which suffixes does kamma become (fake) ukāranta?
+          - nā: kammunā
+          - sa: kammuno
+          - smā: kammunā
+          - 160. Pumakammathāmaddhānaṃ vā sasmāsu ca
+  - Declension
+  - examples of neuter nouns of cittādigaṇa
+    - Puññapāpaphalarūpasādhanaṃ sotaghāṇasukhadukkhakāraṇaṃ dānasīladhanajhānalocanaṃ mūlakūlabalajālamaṅgalaṃ nalinaliṅgamukhaṅgajalambujaṃ pulinadhaññahiraññapadāmataṃ padumapaṇṇasusānavanāyudhaṃ hadayacīvaravatthakulindriyaṃ nayanavadanayānodānasopānapānaṃ bhavanabhuvanalohālātatuṇḍaṇḍapīṭhaṃ kāraṇamaraṇañāṇārammaṇāraññatāṇaṃ tagaranagaratīracchattachiddodakāni (Rūpasiddhi, Payogasiddhi)
+    - sādhana: accomplishment
+    - kūla: bank/shore
+    - nalina: lotus (sw n)
+    - ambuja: lotus
+    - pulina: sand (sw p)
+    - vadana: face (sw v)
+    - bhuvana: world (sw bh)
+    - alāta: firebrand
+    - chidda: hole (sw ch)
+- Kaññādigaṇa
+  - 6 kāranta feminine nouns
     - kaññādigaṇa
-      - 6 kāranta feminine nouns
-        - kaññādigaṇa
-          - ākāranta (kaññā)
-        - rattādigaṇa
-          - ikāranta (ratti)
-          - īkāranta (itthī)
-          - ukāranta (yāgu)
-          - ūkāranta (vadhū)
-          - okāranta (go)
-      - 3 itthijotakapaccaya and what they are
-        - suffixes -ā, -ī, -inī (but in nirutti, there are 7)
-        - they express the feminine gender
-        - st in the sense of atthaliṅga (gatā [a woman who has gone])
-        - other times in saddaliṅga (saññā, paññā, nāvā)
-        - note:
-          - their use acc. to kcyn grammar tradition
-            - ā: added to akāranta stems (gatā)
-            - ī: added to nouns like nada
-              - nadati sandatīti nadī (that which flows is called nadī) (√nad + a + ī)
-              - icchīyate kāmīyateti itthī (that who is desired is called itthī) (√is + ta ⇒ ittha + ī)
-              - kumārī, taruṇī, sāmaṇerī, pañcamī, chaṭṭhī, cātuddasī, guṇavantī, gacchantī
-            - inī: added to words like rāja + inī => rājinī (queen), yakkhinī (female demon), sīhinī (lioness), miginī (doe)
-      - 2 liṅgas (in general; not related to kaññadigaṇa)
-        - atthaliṅga: the sex of what the word refers to
-        - saddaliṅga: the gender of the word itself
-      - vācaka vs. jotaka suffixes
-        - vācaka (√vac): suffixes that add a new meaning
-          - vasiṭṭha + ṇa ⇒ vāseṭṭha (the son of vasiṭṭha [taddhita])
-          - nāvā + ṇika ⇒ nāvika (the one who travels by boat)
-        - jotaka (√jut): suffixes that make a meaning already present clear
-          - gata (can refer to any gender) + ā ⇒ gatā (feminine gender)
-          - purisa + ena ⇒ purisena
-          - rpsd: pakatyattha-jotakā itthippaccayā syādayo viya; ṇādayo paccayatthassa, sakatthassāpi vācakā
-      - 7 itthijotakapaccayas according to niruttidīpaṇī
-        - -ā 70. Itthiyamatvā 5 usages
-          - 3 compulsory
-            - exclusively feminine nouns: kaññā (√kan + ya + ā), paññā (pa + ñā + ā), nāvā, sālā, taṇhā, jivhā, vīsā (20), tiṁsā (30), cattālīsā (40), paññāsā (50)
-              - √kan ya ⇒ kañña ā ⇒ kaññā
-              - pa √ñā a ⇒ pañña ā ⇒ paññā
-            - feminine pronouns: sabbā (all women), katārā (which woman), itarā (the other woman)
-              - except
-                - amu (so called)
-
-                | person | singular | plural |
-                |---|---|---|
-                | 3rd pp. | dvi (two) | ti (three), catu (four) |
-                | 2nd pp. | tumha (you) | amha (we) |
-
-            - -tabba, -anīya, -ta-ending words when feminine: passitabbā (woman who should be seen), dassanīyā (woman who is worthy to be see), gatā (woman who has gone)
-          - 2 optional
-            - other akārantas when feminine: kalyāṇā / kalyāṇī (virtuous woman), sundarā / sundarī (beautiful woman), atthakāmā / atthakāmī / atthakāminī (woman desiring welfare)
-            - samāsas with mātu / dhītu: nandamātā, uttaramātā, devadhītā (daughter who is a goddess), rājadhītā (king’s daughter), asakyadhītarā (one who is not a daughter of the Buddha [here, the ending of dhītu is changed])
-              - if ā is added, they are declined as kaññā if not, as satthādigaṇa
-          - mem aid:
-            - sabbā āgatā kaññā passitabbā dassanīyā; nandamātā kalyāṇā ca kalyāṇī ca
-            - excl. fem., f. pron., tabba aniya ta, other akārantas, sms mātu / dhītu
-        - -ī ‒ 2 usages
-          - with words like nada: nadī (river), itthī (woman), kumārī, taruṇī, sāmaṇerī, pañcamī, chaṭṭhī, cātuddasī 71. Nadādīhi ṅī
-          - guṇavantī (also guṇavatī), gacchantī (also gacchatī) ‒ declined in both ways 72. Ntantūnaṃ ṅīmhi to vā
-          - the term go (ox): go + ī ⇒ gav + ī (gāvī) 73. goto vā
-          - note: for yakkha, etc., see next
-        - -inī ‒ 2 usages
-          - with akāranta nouns such as ārāmika 75. Ārāmikādīhi: ārāmika + inī ⇒ ārāmikinī (female resident), rāja + inī ⇒ rājinī (queen)
-          - yakkhādi + ī / inī ⇒ yakkhī / yakkhinī, sīhī / sīhinī, migī / miginī 74. Yakkhādīhinī ca
-          - mem aid: ārāmikinī yakkhinī
-        - -ānī ‒ 1 usage
-          - referring to the wife; it is used after words such as mātula 77. Mātulāditvānī bhariyāyaṃ: mātula + ānī ⇒ mātulānī (aunt [wife of the uncle]), gahapati + ānī ⇒ gahapatānī (housewife [wife of the householder])
-        - -nī ‒ 1 usage
-          - ivaṇṇa- / uvaṇṇa-kāranta 78. Yuvaṇṇehi ṇī: hatthi + nī ⇒ hatthinī, bhikkhunī
-        - -ti ‒ 1 usage
-          - with the stems yuva, vīsa, and tiṃsa 80. Yuvā ti: yuva + ti ⇒ yuvati (young woman), vīsati (twenty), tiṃsati (thirty)
-        - -ū ‒ 1 usage
-          - samāsas ending with ūru (thigh) 81. Upamāsaṃhita…: nāganāsūru + ū = nāganāsūrū (woman with an elephant-trunk-like thigh)
-      - inherently feminine words (without itthijotakapaccaya)
-        - taddhitas with -tā: sabbaññutā (omniscience), lahutā (lightness), mudutā (softness), devatā (goddess)
-        - kitakas with -ti: gati (movement), sati (mindfulness), diṭṭhi, vādhū, mātu, dhītu
-      - declension
-      - formation of the vibhattis (from original to final)
-        - paṭhamāvibhatti
-          - singular
+      - ākāranta (kaññā)
+    - rattādigaṇa
+      - ikāranta (ratti)
+      - īkāranta (itthī)
+      - ukāranta (yāgu)
+      - ūkāranta (vadhū)
+      - okāranta (go)
+  - 3 itthijotakapaccaya and what they are
+    - suffixes -ā, -ī, -inī (but in nirutti, there are 7)
+    - they express the feminine gender
+    - st in the sense of atthaliṅga (gatā [a woman who has gone])
+    - other times in saddaliṅga (saññā, paññā, nāvā)
+    - note:
+      - their use acc. to kcyn grammar tradition
+        - ā: added to akāranta stems (gatā)
+        - ī: added to nouns like nada
+          - nadati sandatīti nadī (that which flows is called nadī) (√nad + a + ī)
+          - icchīyate kāmīyateti itthī (that who is desired is called itthī) (√is + ta ⇒ ittha + ī)
+          - kumārī, taruṇī, sāmaṇerī, pañcamī, chaṭṭhī, cātuddasī, guṇavantī, gacchantī
+        - inī: added to words like rāja + inī => rājinī (queen), yakkhinī (female demon), sīhinī (lioness), miginī (doe)
+  - 2 liṅgas (in general; not related to kaññadigaṇa)
+    - atthaliṅga: the sex of what the word refers to
+    - saddaliṅga: the gender of the word itself
+  - vācaka vs. jotaka suffixes
+    - vācaka (√vac): suffixes that add a new meaning
+      - vasiṭṭha + ṇa ⇒ vāseṭṭha (the son of vasiṭṭha [taddhita])
+      - nāvā + ṇika ⇒ nāvika (the one who travels by boat)
+    - jotaka (√jut): suffixes that make a meaning already present clear
+      - gata (can refer to any gender) + ā ⇒ gatā (feminine gender)
+      - purisa + ena ⇒ purisena
+      - rpsd: pakatyattha-jotakā itthippaccayā syādayo viya; ṇādayo paccayatthassa, sakatthassāpi vācakā
+  - 7 itthijotakapaccayas according to niruttidīpaṇī
+    - -ā 70. Itthiyamatvā 5 usages
+      - 3 compulsory
+        - exclusively feminine nouns: kaññā (√kan + ya + ā), paññā (pa + ñā + ā), nāvā, sālā, taṇhā, jivhā, vīsā (20), tiṁsā (30), cattālīsā (40), paññāsā (50)
+          - √kan ya ⇒ kañña ā ⇒ kaññā
+          - pa √ñā a ⇒ pañña ā ⇒ paññā
+        - feminine pronouns: sabbā (all women), katārā (which woman), itarā (the other woman)
+          - except
+            - amu (so called)
+            - dvi (two), ti (three), catu (four)
+            - tumha (you), amha (we)
+        - -tabba, -anīya, -ta-ending words when feminine: passitabbā (woman who should be seen), dassanīyā (woman who is worthy to be see), gatā (woman who has gone)
+      - 2 optional
+        - other akārantas when feminine: kalyāṇā / kalyāṇī (virtuous woman), sundarā / sundarī (beautiful woman), atthakāmā / atthakāmī / atthakāminī (woman desiring welfare)
+        - samāsas with mātu / dhītu: nandamātā, uttaramātā, devadhītā (daughter who is a goddess), rājadhītā (king’s daughter), asakyadhītarā (one who is not a daughter of the Buddha [here, the ending of dhītu is changed])
+          - if ā is added, they are declined as kaññā if not, as satthādigaṇa
+      - mem aid:
+        - sabbā āgatā kaññā passitabbā dassanīyā; nandamātā kalyāṇā ca kalyāṇī ca
+        - excl. fem., f. pron., tabba aniya ta, other akārantas, sms mātu / dhītu
+    - -ī ‒ 2 usages
+      - with words like nada: nadī (river), itthī (woman), kumārī, taruṇī, sāmaṇerī, pañcamī, chaṭṭhī, cātuddasī 71. Nadādīhi ṅī
+      - guṇavantī (also guṇavatī), gacchantī (also gacchatī) ‒ declined in both ways 72. Ntantūnaṃ ṅīmhi to vā
+      - the term go (ox): go + ī ⇒ gav + ī (gāvī) 73. goto vā
+      - note: for yakkha, etc., see next
+    - -inī ‒ 2 usages
+      - with akāranta nouns such as ārāmika 75. Ārāmikādīhi: ārāmika + inī ⇒ ārāmikinī (female resident), rāja + inī ⇒ rājinī (queen)
+      - yakkhādi + ī / inī ⇒ yakkhī / yakkhinī, sīhī / sīhinī, migī / miginī 74. Yakkhādīhinī ca
+      - mem aid: ārāmikinī yakkhinī
+    - -ānī ‒ 1 usage
+      - referring to the wife; it is used after words such as mātula 77. Mātulāditvānī bhariyāyaṃ: mātula + ānī ⇒ mātulānī (aunt [wife of the uncle]), gahapati + ānī ⇒ gahapatānī (housewife [wife of the householder])
+    - -nī ‒ 1 usage
+      - ivaṇṇa- / uvaṇṇa-kāranta 78. Yuvaṇṇehi ṇī: hatthi + nī ⇒ hatthinī, bhikkhunī
+    - -ti ‒ 1 usage
+      - with the stems yuva, vīsa, and tiṃsa 80. Yuvā ti: yuva + ti ⇒ yuvati (young woman), vīsati (twenty), tiṃsati (thirty)
+    - -ū ‒ 1 usage
+      - samāsas ending with ūru (thigh) 81. Upamāsaṃhita…: nāganāsūru + ū = nāganāsūrū (woman with an elephant-trunk-like thigh)
+  - inherently feminine words (without itthijotakapaccaya)
+    - taddhitas with -tā: sabbaññutā (omniscience), lahutā (lightness), mudutā (softness), devatā (goddess)
+    - kitakas with -ti: gati (movement), sati (mindfulness), diṭṭhi, vādhū, mātu, dhītu
+  - Declension
+  - formation of the vibhattis (from original to final)
+    - paṭhamāvibhatti
+      - singular
 <!--             - kaññā + si (elided) ⇒ kaññā: ratthi ((confirm)), itthī, yāgu, vadhū, aggī, daṇḍī, bhikkhu, sayambhū, gho 82. Gasīnaṃ () -->
 - To what stems does the elision of the vibhatti 'si' happen?
   - to those whose nominative singular = the stem itself
-    - plural
-      - kaññā + yo (kaññāyo) st, yo is dropped (kaññā) 83. Jantuhetvīghapehi vā
-        - note: those not mentioned follow the predictable pattern: original vibhatti ⇒ final ending such as kaññā + nā ⇒ kaññā + ya (kaññāya)
-        - exceptions
-          - rarely in gāthā
-            - ya ⇒ yā ⇒ kaññayā 85. Ghapatekasmiṃ nādīnaṃ yayā note: can also be considered vipallāsasandhi (mgln)
-              - Tassa rukkhassa chāyayā (in the shade of that tree).
-              - Sakkaropamayā vade (it should be explained with the jaggery simile.
-          - vocative of ammā (and annā, ambā [only found in grammar books])
-            - ammā + si (dropped) (ammā) 88. Nambādīhi
-            - st, 'ā' is shortened (amma) 89. Rasso vā
-              - “ehi tvaṃ, tāta sudinna, hīnāyāvattitvā bhoge ca bhuñjassu puññāni ca karohī” ti. “Amma, na ussahāmi na visahāmi, abhirato ahaṃ brahmacariyaṃ carāmī” ti. (Pārājikā Pāḷi)
-          - sabhā (assembly) and parisā (group)
-            - st, smiṁ ⇒ ti / tiṁ (sabhati, parisati) 90. Ti sabhāparisāya
-              - parisāya, parisāyaṃ, parisati (, parisatiṁ) / parisāsu
-              - note: sabhati is only found in grammar books
-              - examples
-                - Samaṇo ayaṃ Gotamo parisati dhammaṃ deseti (This recluse Gotama teaches Dhamma in the group). Iti bhagavā tasmiṃ parisati suvaṇṇavaṇṇaṃ kāyaṃ vivari. (Thus, the blessed one revealed his golden colour body in that group)
-                - Tadā parisatiṃ nātho, catusaccapakāsako; sāvakaṃ sampakittesi, lūkhacīvaradhārakaṃ (mogharājattherāpadāna) jhāyiṃ jhānarataṃ vīraṃ, upasantaṃ anāvilaṃ; vaṇṇayanto parisatiṃ, tosesi janataṃ jino. (kaṅkhārevatattherāpadāna)
+- Plural
+  - kaññā + yo (kaññāyo) st, yo is dropped (kaññā) 83. Jantuhetvīghapehi vā
+- Note: those not mentioned follow the predictable pattern: original vibhatti ⇒ final ending such as kaññā + nā ⇒ kaññā + ya (kaññāya)
+- Exceptions
+  - rarely in gāthā
+    - ya ⇒ yā ⇒ kaññayā 85. Ghapatekasmiṃ nādīnaṃ yayā note: can also be considered vipallāsasandhi (mgln)
+      - Tassa rukkhassa chāyayā (in the shade of that tree).
+      - Sakkaropamayā vade (it should be explained with the jaggery simile.
+  - vocative of ammā (and annā, ambā [only found in grammar books])
+    - ammā + si (dropped) (ammā) 88. Nambādīhi
+    - st, 'ā' is shortened (amma) 89. Rasso vā
+      - “ehi tvaṃ, tāta sudinna, hīnāyāvattitvā bhoge ca bhuñjassu puññāni ca karohī” ti. “Amma, na ussahāmi na visahāmi, abhirato ahaṃ brahmacariyaṃ carāmī” ti. (Pārājikā Pāḷi)
+  - sabhā (assembly) and parisā (group)
+    - st, smiṁ ⇒ ti / tiṁ (sabhati, parisati) 90. Ti sabhāparisāya
+      - parisāya, parisāyaṃ, parisati (, parisatiṁ) / parisāsu
+      - note: sabhati is only found in grammar books
       - examples
-        - Saddhā medhā paññā vijjā, cintā mantā vīṇā taṇhā. Icchā mucchā ejā māyā, mettā mattā sikkhā bhikkhā. Jaṅghā gīvā jivhā vācā, chāyā āsā gaṅgānāvā. Gāthā senā lekhā sākhā, mālā velā pūjā khiḍḍā. Pipāsā vedanā saññā, cetanā tasiṇāpajā. Devatā vaṭṭakā godhā, balākā parisā sabhā. Ūkā sephālikā laṅkā, salākā vālikā sikhā. Visākhā visikhā sākhā, vacā vañjhā jaṭā ghaṭā. Jeṭṭhā soṇḍā vitaṇḍā ca, varuṇā vanitā latā. Kathā niddā sudhā rādhā, vāsanā sīsapā papā. Pabhā sīmā khamā jāyā, khattiyā sakkharā surā. Dolā tulā silā līlā, lāle’lā mekhalā kalā. Vaḷavā’lambusā mūsā, mañjūsā sulasā disā. Nāsā juṇhā guhā īhā, lasikā vasudhādayo.
-        - medhā: wisdom
-        - cintā: thought
-        - mantā: wisdom
-        - mucchā: fainting
-        - ejā: craving (sw e)
-        - māyā: illusion
-        - āsā: hope
-        - vaṭṭakā: quail
-        - godhā: monitor lizard![image](https://remnote-user-data.s3.amazonaws.com/https://remnote-user-data.s3.amazonaws.com/VO_Yl0hEfEJFWQaU1_Lsae2e7S6l7-p-0iDrFuXtXwxBYRtQ722nyJGtsUokFriklwR-56ViLdlcSihumBcDrHbhI-1S5OSyhQsZS_jOLgbBQwqc2HiFKcrj6dOsBXaM.png)
-        - balākā: heron![image](https://remnote-user-data.s3.amazonaws.com/https://remnote-user-data.s3.amazonaws.com/bDIiJ4nmQeVlZu4P76z-b0SkkhN1nClIPvGi9dT83bDtAtbg81TvE-CXpIRjtdGMYPfIvrSuUi04ehrD13aR3vwdbYUE2V68Ndh0cjdQyT1Ldt0pg7jhGXwf1rc2qEDH.png)
-        - ūkā: louse
-        - sephālikā: night jasmine tree![image](https://remnote-user-data.s3.amazonaws.com/https://remnote-user-data.s3.amazonaws.com/WLO0XNc5xHyvBDmJvOAMqTa3CXmdV29u0zAVHU39-7AlMxvHHkkVXPzczAU_X93gj8VvJLo7_4O9ewie52PMHuBBo7Ctm8db-JAfKS-f_Vwwugui4M2_DI_BrY_V529u.png)
-        - visikhā: street
-        - vacā: sweet fig plant![image](https://remnote-user-data.s3.amazonaws.com/https://remnote-user-data.s3.amazonaws.com/UzKlaO9NOnuG1csVApzI-5hTf0uMHtNIGxD427jFkhJzr94b9_utyMUyEie4gWvLfTSiDEv2cTr9QhTL1Z9GFtXajGCvP4C5y1m3UXT69Xr9v_V21pW15C_1RQyqybWu.png)
-        - ghaṭā: group (sw gh)
-        - jeṭṭhā: elder woman
-        - soṇḍā: elephant's trunk
-        - vitaṇḍā: frivolous discussion
-        - sudhā: ambrosia
-        - rādhā: progress
-        - siṃsapā: indian rosewood tree![image](https://remnote-user-data.s3.amazonaws.com/https://remnote-user-data.s3.amazonaws.com/h-jjWC4oDRgC2ak3aA59OeW8wABlhbBFp2lo0wQbfHdGcbgL42kuwksGUO-NfNjysONsbs-o6tA08zkvtQ_jhEuZ8n_fhtELseNb11C9zXUgC3wtZMbcv6rphZlk58J0.png)
-        - papā: tavern
-        - khamā: patience
-        - jāyā: wife
-        - sakkharā: stone piece
-        - dolā: swing
-        - tulā: scale
-        - līlā: playfulness
-        - lālā: saliva
-        - elā: cardamom
-        - mekhalā: girdle
-        - kalā: art
-        - vaḷavā: mare
-        - alambusā: alambusā deity
-        - mūsā: mouse
-        - mañjūsā: box
-        - sulasā: tulip tree![image](https://remnote-user-data.s3.amazonaws.com/https://remnote-user-data.s3.amazonaws.com/HUUSqUQ8Fek_NXeCLYlMkh7Xfb3pBK8fmifXPWC7rNaxaLEfwCkeoCrl0JNP_PdALF6Hv763wrbi4AUstkn-JSEFSBPN64SCCpn3vjyeaARI7n21KgNQZZBeSiHqv4iy.png)
-        - juṇhā: moon rays
-        - īhā: effort (sw ī)
-        - vasudhā: earth (sw v)
-    - manogaṇa
-      - formed by which type of stems?
-        - ākāranta
-        - nitthī (dviliṅgika (m. & nt.))
-          - saddanīti & abhidhānappadīpikā Pāḷi dictionary: mano nitthī (mano is non-feminine) ‒ this is preferred since they occur in both genders (mano anicco; santaṁ tassa manaṁ hoti)
-          - rūpasiddhi and niruttidīpanī: manādi are masculine
-          - Śabdārthastomamahānidhi Sanskrit dictionary: tapa is m., the remaining neuter; however, in Pāḷi, they are considered dviliṅgika
-          - jnkbvs: Pāḷi texts suggest a slight preference for neuter usage
-      - manādigaṇa chart
-        - 16 manogaṇa (with the 3 characteristics)
-          - mano, vaco (speech), vayo (age), tejo
-            - vayo (perishing) is m.
-
-          | person | singular | plural |
-          |---|---|---|
-          | 3rd pp. | tapo | ceto, tamo, yaso |
-          | 2nd pp. | ayo (iron) | payo, siro, chando |
-          | 1st pp. | saro (lake) | uro (chest), raho (secret place), aho (day) |
-
-            - sara (arrow, vowel) is m.
-          - mem aid: thinking (mano), a man speaks (vaco), he is old (vayo), he tends a fire (tejo) practicing his austerity (tapo), in his mind (ceto) there is darkness (tamo) and fame (yaso); he uses an iron (ayo) poker and drinks milk (payo) and on his head (siro) is written chanda (chando); he goes to the lake (saro), uncovers his chest (uro), enters a secret place (raho) and the day breaks (ahu).
-          - note:
-        - 14 manogaṇādi(ka) (with 2 or 1 characteristic)
-          - 1 with 2 features
-            - 1 stem with 2 characteristics (2nd and 3rd)
-              - raja (dust, dirt)
-                - rajasā channā (covered with dust)
-                - 3rd feature (no example)
-          - 13 with 1 feature
-            - 8 + 2 stems with the 2nd feature (sa, so, -, si) (in the book called the 1st feature)
-              - bilaṃ balaṃ damo vāho, thāmo thāmaṃ jaro jarā; padaṃ mukhantyaṭṭhādyaṅka, puṇṇo manogaṇādiko “these eight words, starting from bila and ending with mukha, are classified as manogaṇādi group, which has only the first feature.” (mukhaṃ iti aṭṭha ādi aṅka puṇṇo)
-                - neuter (those with -aṁ; declined as citta + sā so - si)
-                  - bilaṃ: cave/hole (st amanogaṇika)
-                  - padaṃ: step/foot/word (st amanogaṇika)
-                  - balaṃ: power/army
-                  - mukhaṃ: face/mouth
-                  - thāmaṃ: strength
-                - masculine (those with -o; declined as purisa + sa so - si)
-                  - damo: control/restraint
-                  - vāho: vehicle
-                  - thāmo: strength
-                  - jaro: fever
-                - feminine (the one with ā; declined as kaññā + sa so - si)
-                  - jarā
-                - note:
-                  - thāmo and thāmaṁ are one word; it is mentioned twice to show it has 2 genders; same for jaro and jarā
-              - + 2 others
-                - vega (m.) (speed): vegasā palāyiṃsu – “They fled with speed"
-                - āyu (nt.) (life): āyusā ekaputtam anurakkhe – “With her life, she protects her only son”
-                  - note: āyu (f.) is rattādigaṇa
-              - mem aid: in a cave (bilaṁ), an army (balaṁ) restrains (damo) a vehicle (vāho) with strength (thāmo) and effort (thāmaṁ) that causes a fever (jaro) and ageing (jarā); they step (padaṁ) into the entrance (mukhaṁ) (of the manogaṇa cave) with speed (vega), saving their lives (āyu)
-            - 3 stems with the 3rd feature ('o' in samāsas and taddhitas) (saddanīti, padamālā)
-              - āpa, vāya, and sarada (autumn)
-
-                | person | singular | plural |
-                |---|---|---|
-                | 3rd pp. | āpodhātu | āpomayaṃ |
-                | 2nd pp. | vāyodhātu | vāyomayaṃ |
-
-                - saradosataṃ (100 years)
-          - what manogaṇādi(ka) are
-            - stems that only have 1 or 2 of the features of manogaṇa (not fully qualified for being in the manogaṇa itself but are included under it)
-            - note: there doesn't seem to exist any stem with only the 1st feature
-        - amanogaṇa
-      - what amanogaṇa stems are
-        - stems that st resemble manogaṇa, but belong to other groups
-        - 4 types
-          - so
-            - nā ⇒ so (yoniso)
-              - atthaso (in terms of meaning), akkharaso (in terms of letters), suttaso (in terms of discourses), byañjanaso (in terms of consonants), hetuso (in terms of reasons), yoniso (in appropriate way), upāyaso (in terms of methods), ṭhānaso (at that moment), mattaso (in terms of measure)
-            - smā ⇒ so (dīghaso)
-              - dīghaso (from a long side)
-              - oraso (from this side)
-            - with taddhita affix -so (indicating manner, type) (sabbaso)
-              - sabbaso (in all ways or entirely)
-              - bilaso / padaso (showing vicchā)
-                - padaso dhammaṃ vāceyya (should one teach the Dhamma word by word)
-                - bilasō paṭivibhajitvā nisinno assa (he would sit after dividing (it) into parts)
-                - note: manogaṇādi in other cases
-          - sa
-            - manogaṇika / amanogaṇika in samāsa with ending -sa (becomes purisādi) (byāsattamanaso)
-              - byāsattamanaso (one with an attached mind)
-              - acetaso (one without consciousness)
-              - sumedhaso (one with excellent wisdom (Hitvā yāti sumedhaso))
-        - what differs bw manogaṇa, manogaṇādi and amanogaṇa?
-          - manogaṇa: 16 stems with 3 characteristics
+        - Samaṇo ayaṃ Gotamo parisati dhammaṃ deseti (This recluse Gotama teaches Dhamma in the group). Iti bhagavā tasmiṃ parisati suvaṇṇavaṇṇaṃ kāyaṃ vivari. (Thus, the blessed one revealed his golden colour body in that group)
+        - Tadā parisatiṃ nātho, catusaccapakāsako; sāvakaṃ sampakittesi, lūkhacīvaradhārakaṃ (mogharājattherāpadāna) jhāyiṃ jhānarataṃ vīraṃ, upasantaṃ anāvilaṃ; vaṇṇayanto parisatiṃ, tosesi janataṃ jino. (kaṅkhārevatattherāpadāna)
+- Examples
+  - Saddhā medhā paññā vijjā, cintā mantā vīṇā taṇhā. Icchā mucchā ejā māyā, mettā mattā sikkhā bhikkhā. Jaṅghā gīvā jivhā vācā, chāyā āsā gaṅgānāvā. Gāthā senā lekhā sākhā, mālā velā pūjā khiḍḍā. Pipāsā vedanā saññā, cetanā tasiṇāpajā. Devatā vaṭṭakā godhā, balākā parisā sabhā. Ūkā sephālikā laṅkā, salākā vālikā sikhā. Visākhā visikhā sākhā, vacā vañjhā jaṭā ghaṭā. Jeṭṭhā soṇḍā vitaṇḍā ca, varuṇā vanitā latā. Kathā niddā sudhā rādhā, vāsanā sīsapā papā. Pabhā sīmā khamā jāyā, khattiyā sakkharā surā. Dolā tulā silā līlā, lāle’lā mekhalā kalā. Vaḷavā’lambusā mūsā, mañjūsā sulasā disā. Nāsā juṇhā guhā īhā, lasikā vasudhādayo.
+  - medhā: wisdom
+  - cintā: thought
+  - mantā: wisdom
+  - mucchā: fainting
+  - ejā: craving (sw e)
+  - māyā: illusion
+  - āsā: hope
+  - vaṭṭakā: quail
+  - godhā: monitor lizard![image](https://remnote-user-data.s3.amazonaws.com/VO_Yl0hEfEJFWQaU1_Lsae2e7S6l7-p-0iDrFuXtXwxBYRtQ722nyJGtsUokFriklwR-56ViLdlcSihumBcDrHbhI-1S5OSyhQsZS_jOLgbBQwqc2HiFKcrj6dOsBXaM.png)
+  - balākā: heron![image](https://remnote-user-data.s3.amazonaws.com/bDIiJ4nmQeVlZu4P76z-b0SkkhN1nClIPvGi9dT83bDtAtbg81TvE-CXpIRjtdGMYPfIvrSuUi04ehrD13aR3vwdbYUE2V68Ndh0cjdQyT1Ldt0pg7jhGXwf1rc2qEDH.png)
+  - ūkā: louse
+  - sephālikā: night jasmine tree![image](https://remnote-user-data.s3.amazonaws.com/WLO0XNc5xHyvBDmJvOAMqTa3CXmdV29u0zAVHU39-7AlMxvHHkkVXPzczAU_X93gj8VvJLo7_4O9ewie52PMHuBBo7Ctm8db-JAfKS-f_Vwwugui4M2_DI_BrY_V529u.png)
+  - visikhā: street
+  - vacā: sweet fig plant![image](https://remnote-user-data.s3.amazonaws.com/UzKlaO9NOnuG1csVApzI-5hTf0uMHtNIGxD427jFkhJzr94b9_utyMUyEie4gWvLfTSiDEv2cTr9QhTL1Z9GFtXajGCvP4C5y1m3UXT69Xr9v_V21pW15C_1RQyqybWu.png)
+  - ghaṭā: group (sw gh)
+  - jeṭṭhā: elder woman
+  - soṇḍā: elephant's trunk
+  - vitaṇḍā: frivolous discussion
+  - sudhā: ambrosia
+  - rādhā: progress
+  - siṃsapā: indian rosewood tree![image](https://remnote-user-data.s3.amazonaws.com/h-jjWC4oDRgC2ak3aA59OeW8wABlhbBFp2lo0wQbfHdGcbgL42kuwksGUO-NfNjysONsbs-o6tA08zkvtQ_jhEuZ8n_fhtELseNb11C9zXUgC3wtZMbcv6rphZlk58J0.png)
+  - papā: tavern
+  - khamā: patience
+  - jāyā: wife
+  - sakkharā: stone piece
+  - dolā: swing
+  - tulā: scale
+  - līlā: playfulness
+  - lālā: saliva
+  - elā: cardamom
+  - mekhalā: girdle
+  - kalā: art
+  - vaḷavā: mare
+  - alambusā: alambusā deity
+  - mūsā: mouse
+  - mañjūsā: box
+  - sulasā: tulip tree![image](https://remnote-user-data.s3.amazonaws.com/HUUSqUQ8Fek_NXeCLYlMkh7Xfb3pBK8fmifXPWC7rNaxaLEfwCkeoCrl0JNP_PdALF6Hv763wrbi4AUstkn-JSEFSBPN64SCCpn3vjyeaARI7n21KgNQZZBeSiHqv4iy.png)
+  - juṇhā: moon rays
+  - īhā: effort (sw ī)
+  - vasudhā: earth (sw v)
+- Manogaṇa
+  - formed by which type of stems?
+    - ākāranta
+    - nitthī (dviliṅgika (m. & nt.))
+      - saddanīti & abhidhānappadīpikā Pāḷi dictionary: mano nitthī (mano is non-feminine) ‒ this is preferred since they occur in both genders (mano anicco; santaṁ tassa manaṁ hoti)
+      - rūpasiddhi and niruttidīpanī: manādi are masculine
+      - Śabdārthastomamahānidhi Sanskrit dictionary: tapa is m., the remaining neuter; however, in Pāḷi, they are considered dviliṅgika
+      - jnkbvs: Pāḷi texts suggest a slight preference for neuter usage
+  - manādigaṇa chart
+    - 16 manogaṇa (with the 3 characteristics)
+      - mano, vaco (speech), vayo (age), tejo
+        - vayo (perishing) is m.
+      - tapo, ceto, tamo, yaso
+      - ayo (iron), payo, siro, chando
+      - saro (lake), uro (chest), raho (secret place), aho (day)
+        - sara (arrow, vowel) is m.
+      - mem aid: thinking (mano), a man speaks (vaco), he is old (vayo), he tends a fire (tejo) practicing his austerity (tapo), in his mind (ceto) there is darkness (tamo) and fame (yaso); he uses an iron (ayo) poker and drinks milk (payo) and on his head (siro) is written chanda (chando); he goes to the lake (saro), uncovers his chest (uro), enters a secret place (raho) and the day breaks (ahu).
+      - note:
+    - 14 manogaṇādi(ka) (with 2 or 1 characteristic)
+      - 1 with 2 features
+        - 1 stem with 2 characteristics (2nd and 3rd)
+          - raja (dust, dirt)
+            - rajasā channā (covered with dust)
+            - 3rd feature (no example)
+      - 13 with 1 feature
+        - 8 + 2 stems with the 2nd feature (sa, so, -, si) (in the book called the 1st feature)
+          - bilaṃ balaṃ damo vāho, thāmo thāmaṃ jaro jarā; padaṃ mukhantyaṭṭhādyaṅka, puṇṇo manogaṇādiko “these eight words, starting from bila and ending with mukha, are classified as manogaṇādi group, which has only the first feature.” (mukhaṃ iti aṭṭha ādi aṅka puṇṇo)
+            - neuter (those with -aṁ; declined as citta + sā so - si)
+              - bilaṃ: cave/hole (st amanogaṇika)
+              - padaṃ: step/foot/word (st amanogaṇika)
+              - balaṃ: power/army
+              - mukhaṃ: face/mouth
+              - thāmaṃ: strength
+            - masculine (those with -o; declined as purisa + sa so - si)
+              - damo: control/restraint
+              - vāho: vehicle
+              - thāmo: strength
+              - jaro: fever
+            - feminine (the one with ā; declined as kaññā + sa so - si)
+              - jarā
+            - note:
+              - thāmo and thāmaṁ are one word; it is mentioned twice to show it has 2 genders; same for jaro and jarā
+          - + 2 others
+            - vega (m.) (speed): vegasā palāyiṃsu – “They fled with speed"
+            - āyu (nt.) (life): āyusā ekaputtam anurakkhe – “With her life, she protects her only son”
+              - note: āyu (f.) is rattādigaṇa
+          - mem aid: in a cave (bilaṁ), an army (balaṁ) restrains (damo) a vehicle (vāho) with strength (thāmo) and effort (thāmaṁ) that causes a fever (jaro) and ageing (jarā); they step (padaṁ) into the entrance (mukhaṁ) (of the manogaṇa cave) with speed (vega), saving their lives (āyu)
+        - 3 stems with the 3rd feature ('o' in samāsas and taddhitas) (saddanīti, padamālā)
+          - āpa, vāya, and sarada (autumn)
+            - āpodhātu, āpomayaṃ
+            - vāyodhātu, vāyomayaṃ
+            - saradosataṃ (100 years)
+      - what manogaṇādi(ka) are
+        - stems that only have 1 or 2 of the features of manogaṇa (not fully qualified for being in the manogaṇa itself but are included under it)
+        - note: there doesn't seem to exist any stem with only the 1st feature
+    - amanogaṇa
+  - what amanogaṇa stems are
+    - stems that st resemble manogaṇa, but belong to other groups
+    - 4 types
+      - so
+        - nā ⇒ so (yoniso)
+          - atthaso (in terms of meaning), akkharaso (in terms of letters), suttaso (in terms of discourses), byañjanaso (in terms of consonants), hetuso (in terms of reasons), yoniso (in appropriate way), upāyaso (in terms of methods), ṭhānaso (at that moment), mattaso (in terms of measure)
+        - smā ⇒ so (dīghaso)
+          - dīghaso (from a long side)
+          - oraso (from this side)
+        - with taddhita affix -so (indicating manner, type) (sabbaso)
+          - sabbaso (in all ways or entirely)
+          - bilaso / padaso (showing vicchā)
+            - padaso dhammaṃ vāceyya (should one teach the Dhamma word by word)
+            - bilasō paṭivibhajitvā nisinno assa (he would sit after dividing (it) into parts)
+            - note: manogaṇādi in other cases
+      - sa
+        - manogaṇika / amanogaṇika in samāsa with ending -sa (becomes purisādi) (byāsattamanaso)
+          - byāsattamanaso (one with an attached mind)
+          - acetaso (one without consciousness)
+          - sumedhaso (one with excellent wisdom (Hitvā yāti sumedhaso))
+    - what differs bw manogaṇa, manogaṇādi and amanogaṇa?
+      - manogaṇa: 16 stems with 3 characteristics
 <!--           - manogaṇādi: _ stems with 1 or 2 characteristics ((check how many)) () -->
 - Amanogaṇa: those that just resemble mano stems
-  - formation of the vibhattis (from original to final)
-    - most of them as purisa / citta, with the following differences
+- Formation of the vibhattis (from original to final)
+
+  | case | singular | plural |
+  |---|---|---|
+  | nom. | most of them as purisa | citta, with the following differences |
+  | acc. | aṁ ⇒ o |  |
+  | ins. | nā ⇒ sā |  |
+  | dat. / gen. | sa ⇒ so |  |
+  | dat. | na mayhaṃ manaso piyo (not dear to my mind) |  |
+  | gen. | labhetheva cetaso pasādaṃ (one should indeed attain clarity of mind) |  |
+  | loc. | smiṁ ⇒ si |  |
+  | loc. | manasi karotha (reflect in the mind) |  |
+
+    - cetasā ceto paricca pajānāti (with the mind, one discerns the mind) kassapassa vaco sutvā (gaving heard the word of Kassapa Buddha)
+    - manasā ca pasannena (with a clear mind)
+    - 115. manādīhi smiṃsaṃnāsmānaṃ sisoosāsā
+  - notes:
+    - form in samāsa and taddhita
+      - ending 'a' ⇒ o (rpsd)
+      - samāsa: manosetthā, vayovuḍḍho, tejodhātu, tapovanaṃ
+      - taddhita: manomayā, ayomayaṃ
+        - idaṃ manogaṇalakkhaṇaṃ: kriyākamme odanto, nādīnaṃ sāditā, samāsataddhitamajjhe odanto cāti (niruttidīpanī)
+- Declension
+  - how is mano declined?
+    - when masculine as purisa when neuter as citta + extra forms unique to manogaṇa: o, sa, so, -, si
+- Exceptions
+  - aha (day)
+    - st, smiṁ ⇒ ni / u (ahani, ahu)
+      - ahasmiṃ, ahamhi, ahe, ahasi, ahani, ahu / ahesu
+      - tadahu paṭiggahitaṃ (the food received that day)
+      - tadahūti tasmim ahani ('tadahu' means ‘on that day)
+  - raha (secluded place)
+    - st, smiṁ ⇒ o (raho [also considered a particle])
+
+      | case | singular | plural |
+      |---|---|---|
+      | loc. | rahasmiṃ, rahamhi, rahe, rahasi, raho | rahesu |
+
+        - raho paṭicchanne āsane (In a concealed seat at a secluded place)
+  - thāma
+
+    | case | singular |
+    |---|---|
+    | ins. | nā ⇒ thāmunā |
+    | dat. / gen. | sa ⇒ no ⇒ thāmuno |
+    | abl. | smā ⇒ nā ⇒ thāmunā |
+
+    - (fake ukāranta)
+- Guṇavādigaṇa
+  - characteristics (kāranta, suffixes, genders)
+    - ukāranta
+      - rūpasiddhi: akāranta because it does not look like ukāranta in its declension
+    - formed with the following 6 suffixes, which of them is kitaka / taddhita and example
+      - -vantu
+        - guṇa + vantu ⇒ guṇavantu
+      - -tavantu (kitaka)
+        - bhuj + tavantu ⇒ bhuttavanta (one who has eaten)
+      - -tāvantu
+        - kiṃ + tāvantu ⇒ kittāvantu (how much)
+        - eta + tāvantu ⇒ ettāvantu (that much)
+      - -āvantu
+        - ya + āvantu ⇒ yāvantu (how much)
+        - ta + āvant ⇒ tāvantu (that much)
+      - -mantu
+        - sati + mantu ⇒ satimantu
+      - -imantu
+        - canda + imantu ⇒ candimantu (moon-possessing deity)
+        - putta + imantu ⇒ puttimantu (possessing children)
+        - pāpa + imantu ⇒ pāpimantu (possessing sin, sinful)
+      - note: all others are taddhita suffixes
+    - 2 genders: masculine or neuter
+  - word formation (does not include all cases)
+    - masculine
+      - most cases follow purisa's declension: guṇavantu (ukāranta) ⇒ guṇavanta (akāranta) ⇒ purisa's declension
+        - other cases:
+          - general rule: (ntu + o.v.) ⇒ final ending
+            - nom. sg. guṇavā
+              - (ntu + si) ⇒ ā + pubbasaralopa (guṇavā) (sdnt 299. simhā niccaṃ)
+                - kcyn & mgln: guṇavantu: ntu ⇒ ā (guṇava + ā [pubbasaralopa])
+            - nom. / voc. pl. guṇavanto
+              - (ntu + yo) ⇒ nto (guṇavanto)
+              - rarely, the plural may appear as the singular: guṇavā ‒ word formation
+                - (ntu + yo) ⇒ ā (guṇavā)
+                - Atha kho te bhikkhū vaṇṇavā ahesum. ("Then those monks were having a good complexion.")
+                - Etha tumhe āvuso, silavā hotha. ("Come, friends, and be virtuous.")
+
+            | case | singular |
+            |---|---|
+            | voc. | sl. guṇavaṁ, guṇava, guṇavā |
+            | acc. | sl. guṇavaṁ and gen. sl. guṇavassa |
+            | ins. | sl. guṇavatā |
+            | dat. | sl. guṇavato and gen. pl. guṇavataṁ |
+
+              - (ntu + si) ⇒ aṃ, a, or ā (guṇavaṁ, guṇava, guṇavā)
+              - ntu + aṁ / sa ⇒ ntu is elided ⇒ guṇavaṁ, guṇavassa (relatively rare)
+              - (ntu + nā) ⇒ tā (guṇavatā)
+              - (ntu + sa) ⇒ to (guṇavato)
+              - (ntu + naṁ) ⇒ taṁ (guṇavataṁ)
+
+            | case | singular |
+            |---|---|
+            | abl. | sl. guṇavatā |
+            | loc. | sl. guṇavati |
+
+              - (ntu + smā) ⇒ tā (guṇavatā)
+              - (ntu + smiṁ) ⇒ ti (guṇavati)
+    - neuter
 
       | case | singular |
       |---|---|
-      | acc. | aṁ ⇒ o |
-      | ins. | nā ⇒ sā |
-      | dat. / gen. | sa ⇒ so |
-      | dat. | na mayhaṃ manaso piyo (not dear to my mind) |
-      | gen. | labhetheva cetaso pasādaṃ (one should indeed attain clarity of mind) |
-      | loc. | smiṁ ⇒ si |
-      | loc. | manasi karotha (reflect in the mind) |
+      | nom. | sl. guṇavaṁ |
+      | nom. / voc. / acc. | pl. guṇavanti |
 
-        - cetasā ceto paricca pajānāti (with the mind, one discerns the mind) kassapassa vaco sutvā (gaving heard the word of Kassapa Buddha)
-          - manasā ca pasannena (with a clear mind)
-          - 115. manādīhi smiṃsaṃnāsmānaṃ sisoosāsā
-        - notes:
-          - form in samāsa and taddhita
-            - ending 'a' ⇒ o (rpsd)
-            - samāsa: manosetthā, vayovuḍḍho, tejodhātu, tapovanaṃ
-            - taddhita: manomayā, ayomayaṃ
-              - idaṃ manogaṇalakkhaṇaṃ: kriyākamme odanto, nādīnaṃ sāditā, samāsataddhitamajjhe odanto cāti (niruttidīpanī)
-      - declension
-        - how is mano declined?
-          - when masculine as purisa when neuter as citta + extra forms unique to manogaṇa: o, sa, so, -, si
-      - exceptions
-        - aha (day)
-          - st, smiṁ ⇒ ni / u (ahani, ahu)
-            - ahasmiṃ, ahamhi, ahe, ahasi, ahani, ahu / ahesu
-            - tadahu paṭiggahitaṃ (the food received that day)
-            - tadahūti tasmim ahani ('tadahu' means ‘on that day)
-        - raha (secluded place)
-          - st, smiṁ ⇒ o (raho [also considered a particle])
-
-            | case | singular | plural |
-            |---|---|---|
-            | loc. | rahasmiṃ, rahamhi, rahe, rahasi, raho | rahesu |
-
-              - raho paṭicchanne āsane (In a concealed seat at a secluded place)
-        - thāma
-
-          | case | singular |
-          |---|---|
-          | ins. | nā ⇒ thāmunā |
-          | dat. / gen. | sa ⇒ no ⇒ thāmuno |
-          | abl. | smā ⇒ nā ⇒ thāmunā |
-
-          - (fake ukāranta)
-    - guṇavādigaṇa
-      - characteristics (kāranta, suffixes, genders)
-        - ukāranta
-          - rūpasiddhi: akāranta because it does not look like ukāranta in its declension
-        - formed with the following 6 suffixes, which of them is kitaka / taddhita and example
-          - -vantu
-            - guṇa + vantu ⇒ guṇavantu
-          - -tavantu (kitaka)
-            - bhuj + tavantu ⇒ bhuttavanta (one who has eaten)
-          - -tāvantu
-            - kiṃ + tāvantu ⇒ kittāvantu (how much)
-            - eta + tāvantu ⇒ ettāvantu (that much)
-          - -āvantu
-            - ya + āvantu ⇒ yāvantu (how much)
-            - ta + āvant ⇒ tāvantu (that much)
-          - -mantu
-            - sati + mantu ⇒ satimantu
-          - -imantu
-            - canda + imantu ⇒ candimantu (moon-possessing deity)
-            - putta + imantu ⇒ puttimantu (possessing children)
-            - pāpa + imantu ⇒ pāpimantu (possessing sin, sinful)
-          - note: all others are taddhita suffixes
-        - 2 genders: masculine or neuter
-      - word formation (does not include all cases)
-        - masculine
-          - most cases follow purisa's declension: guṇavantu (ukāranta) ⇒ guṇavanta (akāranta) ⇒ purisa's declension
-            - other cases:
-              - general rule: (ntu + o.v.) ⇒ final ending
-                - nom. sg. guṇavā
-                  - (ntu + si) ⇒ ā + pubbasaralopa (guṇavā) (sdnt 299. simhā niccaṃ)
-                    - kcyn & mgln: guṇavantu: ntu ⇒ ā (guṇava + ā [pubbasaralopa])
-                - nom. / voc. pl. guṇavanto
-                  - (ntu + yo) ⇒ nto (guṇavanto)
-                  - rarely, the plural may appear as the singular: guṇavā ‒ word formation
-                    - (ntu + yo) ⇒ ā (guṇavā)
-                    - Atha kho te bhikkhū vaṇṇavā ahesum. ("Then those monks were having a good complexion.")
-                    - Etha tumhe āvuso, silavā hotha. ("Come, friends, and be virtuous.")
-
-                | case | singular |
-                |---|---|
-                | voc. | sl. guṇavaṁ, guṇava, guṇavā |
-                | acc. | sl. guṇavaṁ and gen. sl. guṇavassa |
-                | ins. | sl. guṇavatā |
-                | dat. | sl. guṇavato and gen. pl. guṇavataṁ |
-
-                  - (ntu + si) ⇒ aṃ, a, or ā (guṇavaṁ, guṇava, guṇavā)
-                  - ntu + aṁ / sa ⇒ ntu is elided ⇒ guṇavaṁ, guṇavassa (relatively rare)
-                  - (ntu + nā) ⇒ tā (guṇavatā)
-                  - (ntu + sa) ⇒ to (guṇavato)
-                  - (ntu + naṁ) ⇒ taṁ (guṇavataṁ)
-
-                | case | singular |
-                |---|---|
-                | abl. | sl. guṇavatā |
-                | loc. | sl. guṇavati |
-
-                  - (ntu + smā) ⇒ tā (guṇavatā)
-                  - (ntu + smiṁ) ⇒ ti (guṇavati)
-        - neuter
-
-          | case | singular |
-          |---|---|
-          | nom. | sl. guṇavaṁ |
-          | nom. / voc. / acc. | pl. guṇavanti |
-
-            - (ntu + si) ⇒ aṁ (guṇavaṁ) napuṃsake aṃ vā (sdnt) nrt: guṇavantaṁ also exists
+        - (ntu + si) ⇒ aṁ (guṇavaṁ) napuṃsake aṃ vā (sdnt) nrt: guṇavantaṁ also exists
 <!--             - ntu + yo ⇒ i (guṇavanti) () -->
 - (feminine)
   - ntu + ī ⇒ nti (guṇavantī): declined like itthī / nadī (rattādigaṇa)
-    - notes:
-      - grammar opinions on nom. sl. guṇavanto (sdnt, kcyn, mgln, rpsd)
-        - kcyn, mgln, rpsd: only the word himavanta has it
-          - dūre santo pakāsenti, himavantova pabbato
-            - (preferred) sdnt: it can occur to any noun
-              - atulo nāma nāmena puññavanto jutindharo (buddhavaṁsa)
-              - gatimanto satimanto, dhitimanto ca yo isi (theragāthā)
-          - grammar opinions on voc. sl. guṇavaṁ (kcyn, mgln, sdnt)
-            - sdnt: no ṁ ending ālapana in tptk (but one example is found)
-            - (preferred) kcyn & mgln: exists
-          - grammar opinions on whether bhagavantu has voc. sl. bhagava
-            - nrt: bhagavanta only has bhagavā in voc. sl.
-            - (preferred) bhagava is also possible: "taggha, bhagava, bojjhangā" (buddhajayanti)
-              - bhagavā (chaṭṭhasaṅgāyana)
-          - grammar opinions on acc. sl. satimaṃ, bandhumaṃ dat./gen. sl. satimassa, bandhumassa (rpsd, rpsd-bhāsa-ṭ)
-            - rpsd: only the words satimanta and bandhumanta have these forms
-            - (preferred) rpsd-bhāsa-ṭ: found in other guṇavādī stems
-              - anāpatti iddhimassa iddhivisaye (there is no offense for one with supernormal powers in the domain of supernormal abilities)
-          - grammar opinions on which group maghavā belongs to
-            - kcyn: pumādigaṇa
-            - (preferred) sdnt: guṇavādigaṇa
-      - declension
-      - examples of guṇavādi nāmas
-        - gatimā: one who has intelligence
-        - dhitimā: one who has effort
-        - mutimā: one who has intelligence
-        - matimā: one who has intelligence
-        - ratimā: one who has attachment
-        - kasimā: one who has ploughing
-        - buddhimā: one who has wisdom
-        - bandhumā: one who has relatives
-        - hetumā: one who has causes
-        - bhānumā: one who has rays
-        - khāṇumā: one who has pillars
-        - vijjumā: one who has lightning
-  - extra notes:
-    - attho akkharasaññāto (kaccāyana begins with this) the meaning is well known by the words'
-      - some comm. of kaccāyana say the suttas are from arahat Kaccāyana
-      - it seems to have been composed later, not during the Buddha's time
-        - 2 names appear (Devanampiya Tissa and Mandhātu) that are from a later period
-    - in the meaning "to" as in homage to the Buddha, āya as a replacement for -sa is not used; except in subhodālaṅkāra "anantaguṇasārāya namo te..."; not in the tipitaka
-      - āya can be used in sanskrit
-      - it means "for", not "to"
-    - vanappagumbe yathā phussitagge ‒ this is vanappagumbo yathā phussitaggo‒an example for the replacement of the
-    - na hevaṁ vattabbe‒from vattabbo
-      - used by makkhali gosala; seems like from a dialect
+- Notes:
+  - grammar opinions on nom. sl. guṇavanto (sdnt, kcyn, mgln, rpsd)
+    - kcyn, mgln, rpsd: only the word himavanta has it
+      - dūre santo pakāsenti, himavantova pabbato
+    - (preferred) sdnt: it can occur to any noun
+      - atulo nāma nāmena puññavanto jutindharo (buddhavaṁsa)
+      - gatimanto satimanto, dhitimanto ca yo isi (theragāthā)
+  - grammar opinions on voc. sl. guṇavaṁ (kcyn, mgln, sdnt)
+    - sdnt: no ṁ ending ālapana in tptk (but one example is found)
+    - (preferred) kcyn & mgln: exists
+  - grammar opinions on whether bhagavantu has voc. sl. bhagava
+    - nrt: bhagavanta only has bhagavā in voc. sl.
+    - (preferred) bhagava is also possible: "taggha, bhagava, bojjhangā" (buddhajayanti)
+      - bhagavā (chaṭṭhasaṅgāyana)
+  - grammar opinions on acc. sl. satimaṃ, bandhumaṃ dat./gen. sl. satimassa, bandhumassa (rpsd, rpsd-bhāsa-ṭ)
+    - rpsd: only the words satimanta and bandhumanta have these forms
+    - (preferred) rpsd-bhāsa-ṭ: found in other guṇavādī stems
+      - anāpatti iddhimassa iddhivisaye (there is no offense for one with supernormal powers in the domain of supernormal abilities)
+  - grammar opinions on which group maghavā belongs to
+    - kcyn: pumādigaṇa
+    - (preferred) sdnt: guṇavādigaṇa
+- Declension
+- Examples of guṇavādi nāmas
+  - gatimā: one who has intelligence
+  - dhitimā: one who has effort
+  - mutimā: one who has intelligence
+  - matimā: one who has intelligence
+  - ratimā: one who has attachment
+  - kasimā: one who has ploughing
+  - buddhimā: one who has wisdom
+  - bandhumā: one who has relatives
+  - hetumā: one who has causes
+  - bhānumā: one who has rays
+  - khāṇumā: one who has pillars
+  - vijjumā: one who has lightning
+- Extra notes:
+  - attho akkharasaññāto (kaccāyana begins with this) the meaning is well known by the words'
+    - some comm. of kaccāyana say the suttas are from arahat Kaccāyana
+    - it seems to have been composed later, not during the Buddha's time
+      - 2 names appear (Devanampiya Tissa and Mandhātu) that are from a later period
+  - in the meaning "to" as in homage to the Buddha, āya as a replacement for -sa is not used; except in subhodālaṅkāra "anantaguṇasārāya namo te..."; not in the tipitaka
+    - āya can be used in sanskrit
+    - it means "for", not "to"
+  - vanappagumbe yathā phussitagge ‒ this is vanappagumbo yathā phussitaggo‒an example for the replacement of the
+  - na hevaṁ vattabbe‒from vattabbo
+    - used by makkhali gosala; seems like from a dialect
 
 {% include toc.html %}
