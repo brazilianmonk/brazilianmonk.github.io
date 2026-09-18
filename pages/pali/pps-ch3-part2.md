@@ -50,59 +50,18 @@ permalink: /summaries/pali/pps-ch3-part2
   - payojja = "combine"
 <!--         - (can the verbs also be called pajojja kiriyā pada and hetu kiriyā pada?) () -->
 - 4 causative suffixes used to construct kārita kiriyā pada (causative verbs):
-  - 1. (ṇ)e
-  - 2. (ṇ)aya
-  - 3. (ṇ)āpe
-  - 4. (ṇ)āpaya
+  - (ṇ)e
+  - (ṇ)aya
+  - (ṇ)āpe
+  - (ṇ)āpaya
   - note: (ṇ) is just the anubandha and acts as a sign that the radical vowel should be strengthened only āpe and āpaya are added to the roots belonging to the curādigaṇa (because e and aya are already vikaraṇa paccaya (conjugational signs) of this group)
 - √dhar + (r)amma = dhamma (r) is a sign that the final consonant of the root should be elided
 - Vuddhi is traditionally explained as being the vowels ā, e and o and modern teachers teach it as the act of strengthening a vowel: a ⇒ ā i, ī ⇒ e u, ū ⇒ o note: if followed by a double consonant, vuddhi does not occur
 <!--         - (even though long vowels do not change are they considered strengthened in such cases? is there a strengthening of a long vowel?) () -->
-- "Gahapati dāsaṃ bhattaṃ pāceti" | bhattaṃ is the object of the √pac, whereas dāsaṃ is the kārita kamma (causative object) of the causative suffix ‘e’. It is mostly written in accusative case but it could also be instrumental or genitive cases
+- "Gahapati dāsaṃ bhattaṃ pāceti": bhattaṃ is the object of the √pac, whereas dāsaṃ is the kārita kamma (causative object) of the causative suffix ‘e’. It is mostly written in accusative case but it could also be instrumental or genitive cases
 - √kar – kāreti, kārayati, kārāpeti, kārāpayati
 - √gam – gameti, gamayati, gamāpeti, gamāpayati
 <!--         - (why the radical vowel in this case is not vuddhi? it is an example of)(exceptions) () -->
-- Exercise 2
-  - 1). Rewrite the following sentences by changing the kārita kamma into other possible two cases and the verb into other possible causative forms.
-    - Question: Sāmiko sūdaṃ bhattaṃ pācayati.
-    - Answers: Sāmiko sūdena bhattaṃ pāceti. Sāmiko sūdassa bhattaṃ pācāpeti.
-    - i. Bhagavā sāriputtena dhammaṃ bhaṇayati.
-      - Bhagavā sāriputtena dhammaṃ bhaṇeti.
-      - Bhagavā sāriputtena dhammaṃ bhaṇāpeti.
-      - Bhagavā sāriputtena dhammaṃ bhaṇāpayati.
-      - Bhagavā sāriputtaṁ dhammaṃ bhaṇeti.
-      - Bhagavā sāriputtaṁ dhammaṃ bhaṇayati.
-      - Bhagavā sāriputtaṁ dhammaṃ bhaṇāpeti.
-      - Bhagavā sāriputtassa dhammaṃ bhaṇeti.
-      - Bhagavā sāriputtaṁ dhammaṃ bhaṇāpayati.
-      - Bhagavā sāriputtassa dhammaṃ bhaṇayati.
-      - Bhagavā sāriputtassa dhammaṃ bhaṇāpeti.
-      - Bhagavā sāriputtassa dhammaṃ bhaṇāpayati.
-  - ii. Sāriputto sāmaṇeraṃ gāmaṃ gāmāpayati.
-    - Sāriputto sāmaṇeraṃ gāmaṃ gāmeti.
-    - Sāriputto sāmaṇeraṃ gāmaṃ gāmayati.
-    - Sāriputto sāmaṇeraṃ gāmaṃ gāmāpeti.
-    - Sāriputto sāmaṇerena gāmaṃ gāmāpayati.
-    - Sāriputto sāmaṇeraṃ gāmaṃ gāmeti.
-    - Sāriputto sāmaṇeraṃ gāmaṃ gāmayati.
-    - Sāriputto sāmaṇeraṃ gāmaṃ gāmāpeti.
-    - Sāriputto sāmaṇerassa gāmaṃ gāmāpayati.
-    - Sāriputto sāmaṇeraṃ gāmaṃ gāmeti.
-    - Sāriputto sāmaṇeraṃ gāmaṃ gāmayati.
-    - Sāriputto sāmaṇeraṃ gāmaṃ gāmāpeti.
-  - iii. Pitā puttassa udakaṃ hāreti.
-    - Pitā puttassa udakaṃ hāreti.
-    - Pitā puttassa udakaṃ hāreti.
-    - Pitā puttassa udakaṃ hāreti.
-    - Pitā puttassa udakaṃ hāreti.
-    - Pitā puttassa udakaṃ hāreti.
-    - Pitā puttassa udakaṃ hāreti.
-    - Pitā puttassa udakaṃ hāreti.
-    - Pitā puttassa udakaṃ hāreti.
-    - Pitā puttassa udakaṃ hāreti.
-    - Pitā puttassa udakaṃ hāreti.
-    - Pitā puttassa udakaṃ hāreti.
-  - iv. Garu sissaṃ dhammaṃ vāceti.
 
 ### Niggahīta Sandhi
 - 2 types of niggahīta sandhi according to the letter that substitutes ṁ when followed by a vowel (ṁ + vowel)
@@ -140,9 +99,6 @@ permalink: /summaries/pali/pps-ch3-part2
 
 - Apart from the apādāna, pañcamī vibhatti also expresses a reason, a cause (avijjāpaccayā saṅkhārā (sambhavanti))
 - Sentences which have nouns in the place of verbs are called tulyattha liṅgattha vākya ("same meaning stem meaning sentences") It is also fine to say that they are sentences with either predicate nominatives (Tvaṃ paṇḍito) or predicate adjectives (Mayā dve koṭṭhāsā laddhabbā)
-- Exercise 2
-  - 1). Remove the verbs of the following sentences and make them liṅgattha tulyattha sentences.
-    - i. Ahaṃ samaṇo. ii. Tvaṃ buddhassa sāvako. iii. Tāya itthiyā dārakā vayappattā.
 
 ### Sarasandi
 - Yakārādi āgama sandhi (augmentation of consonants ‘y’ and so on):
@@ -186,60 +142,62 @@ permalink: /summaries/pali/pps-ch3-part2
   - "ar" forms first, then, "u" forms.
   - nouns that are made by adding -tu to a root are declined as here (dātu, kattu, vattu, bhottu)
 
-  - Declension of pitu (m.; satthādigaṇa)
+#### Declension of pitu (m.; satthādigaṇa)
 
-    | case | singular | plural |
-    |---|---|---|
-    | nom. | pitā | pitaro |
-    | voc. | (bho) pita, " | (bhonto) " |
-    | acc. | pitaraṃ, (pituṁ [nrtdpn]) | ", pitare |
-    | ins. | pitunā, pitarā, (petyā [gāthā]) | pitūhi, pitūbhi, pitarehi, pitarebhi |
-    | dat./gen. | pitu, pituno, pitussa | pitūnaṃ, pitānaṁ, pitarānaṁ, (pitunnaṁ [mgln]) |
-    | abl. | pitarā, pitunā | pitūhi, pitūbhi, pitarehi, pitarebhi |
-    | loc. | pitari, (pitusmiṁ, pitumhi [nrtdpn]) | pitūsu, pitaresu |
+| case | singular | plural |
+|---|---|---|
+| Nom. | pitā | pitaro |
+| Voc. | (bho) pita, " | (bhonto) " |
+| Acc. | pitaraṃ, (pituṁ [nrtdpn]) | ", pitare |
+| Ins. | pitunā, pitarā, (petyā [gāthā]) | pitūhi, pitūbhi, pitarehi, pitarebhi |
+| Dat/Gen. | pitu, pituno, pitussa | pitūnaṃ, pitānaṁ, pitarānaṁ, (pitunnaṁ [mgln]) |
+| Abl. | pitarā, pitunā | pitūhi, pitūbhi, pitarehi, pitarebhi |
+| Loc. | pitari, (pitusmiṁ, pitumhi [nrtdpn]) | pitūsu, pitaresu |
 
-    - mem aid: like satthu but the ending vowel of the stem remains short when followed by the consonant ‘r’ and the form pitūhi is added
-    - note:
-      - same for bhātā (brother)
-      - *word formation under rattādigaṇa
-  - Passive voice sentences
-    - In passive voice sentences the subject is written in the instrumental case whereas the object is written in the nominative case because the word that indicates the verb refers to the object. The object is utta kamma (as opposed to utta kattu). The word referred to by the verb or the verbal-word should always be written in the nominative case.
-    - if a word made in the passive meaning is in the place of a verb the question that should be asked must be passive. if a word made in the active meaning is in the place of a verb the question that should be asked must be active. One cannot ask an active voice question regarding a passively constructed word which is in the place of a verb and vice-versa.
-    - Sentences in which the object is expressed by either the verb or the verbal word are called passive voice sentences Sentences in which the subject is expressed either by the verb or by the verbal word are called active voice sentences
-    - Syntax
-      - Subject (kattu): Said by the verb or verbal-word (utta): nominative Unsaid by the verb or verbal-word (anutta): instrumental Object (kamma): Said by the verb or verbal-word (utta): nominative Unsaid by the verb or verbal-word (anutta): accusative
-    - Niggahīta sandhi
-      - Parassara lopa sandhi
-        - When niggahīta is followed by a vowel sometimes the vowel is elided (tvaṃ + asi > tvaṃsi (tvaṃsi ācariyo mama)
-      - vaggantādesa sandhi
-        - When a niggahīta is followed by a group-letter (vaggakkhara), the niggahīta is substituted by the ending letter of the group (vagganta byañjana) to which that group-consonant belongs. (taṇhaṅkaro > taṇhaṃ + karo)
+- Note:
+  - like satthu but the ending vowel of the stem remains short when followed by the consonant ‘r’ and the form pitūhi is added
+  - same for bhātā (brother)
+  - *word formation under rattādigaṇa
+
+### Passive voice sentences
+- In passive voice sentences the subject is written in the instrumental case whereas the object is written in the nominative case because the word that indicates the verb refers to the object. The object is utta kamma (as opposed to utta kattu). The word referred to by the verb or the verbal-word should always be written in the nominative case.
+- if a word made in the passive meaning is in the place of a verb the question that should be asked must be passive. if a word made in the active meaning is in the place of a verb the question that should be asked must be active. One cannot ask an active voice question regarding a passively constructed word which is in the place of a verb and vice-versa.
+- Sentences in which the object is expressed by either the verb or the verbal word are called passive voice sentences Sentences in which the subject is expressed either by the verb or by the verbal word are called active voice sentences
+- Syntax:
+  - Subject (kattu): Said by the verb or verbal-word (utta): nominative Unsaid by the verb or verbal-word (anutta): instrumental Object (kamma): Said by the verb or verbal-word (utta): nominative Unsaid by the verb or verbal-word (anutta): accusative
+
+### Niggahīta sandhi
+- Parassara lopa sandhi
+  - When niggahīta is followed by a vowel sometimes the vowel is elided (tvaṃ + asi > tvaṃsi (tvaṃsi ācariyo mama)
+- vaggantādesa sandhi
+  - When a niggahīta is followed by a group-letter (vaggakkhara), the niggahīta is substituted by the ending letter of the group (vagganta byañjana) to which that group-consonant belongs. (taṇhaṅkaro > taṇhaṃ + karo)
 
 ## Lesson 9 - manogaṇa, pumādigaṇa
 - 9.1. Reading: see the dedicated [reading & translation page](/summaries/pali/pps-ch3-reading).
 
 ### Manogaṇa
-- Declension of mana (manādigaṇa)
 
-  | case | singular | plural |
-  |---|---|---|
-  | Nom. | mano, manaṃ | manā, manāni |
-  | Voc. | (bho) mana, manā | (bhavantāni) manā, manāni |
-  | Acc. | mano, manaṃ | mane, manāni |
-  | Ins. | manasā, manena | manehi, manebhi |
-  | Dat/gen. | manaso, manassa | manānaṃ |
-  | Abl. | manasmā, manamhā, manā | manehi, manebhi |
-  | Loc. | manasi, manasmiṃ, manamhi, mane | manesu |
+#### Declension of mana (manādigaṇa)
 
-    - ahani, ahu, raho
-  - mem aid:
-    - simplified method: purisa + citta + o / sā / so / - / si
-    - exceptions:
-      - ahani, ahu
-      - raho
-      - thāma is fake ukāranta
-  - note:
-    - another list: "mano tamo tapo tejo rajo ojo uro siro ayo vayo payo vāso raho ceto saro yaso chando icchādayo nāma manogaṇo'ti vuccare"
-      - there are 2 lists, some words in this group do not share all 3 characteristics
+| case | singular | plural |
+|---|---|---|
+| Nom. | mano, manaṃ | manā, manāni |
+| Voc. | (bho) mana, manā | (bhavantāni) manā, manāni |
+| Acc. | mano, manaṃ | mane, manāni |
+| Ins. | manasā, manena | manehi, manebhi |
+| Dat/gen. | manaso, manassa | manānaṃ |
+| Abl. | manasmā, manamhā, manā | manehi, manebhi |
+| Loc. | manasi, manasmiṃ, manamhi, mane | manesu |
+
+- ahani, ahu, raho
+- mem aid: simplified method: purisa + citta + o / sā / so / - / si
+  - exceptions:
+    - ahani, ahu
+    - raho
+    - thāma is fake ukāranta
+- note:
+  - another list: "mano tamo tapo tejo rajo ojo uro siro ayo vayo payo vāso raho ceto saro yaso chando icchādayo nāma manogaṇo'ti vuccare"
+    - there are 2 lists, some words in this group do not share all 3 characteristics
       - vayo belongs to purisādi group when its meaning is destruction as in ‘udayavaya’
       - saro belongs to purisādi group when its meaning is arrow or vowel
       - raho is found as a nipāta as well
@@ -273,23 +231,21 @@ permalink: /summaries/pali/pps-ch3-part2
   - note:
 
 ### Pumādigaṇa
-- Declension of puma (m.) (pumādigaṇa)
 
-  | case | singular | plural |
-  |---|---|---|
-  | Nom. | pumo, pumā | pumā, pumāno |
-  | Voc. | (bho) pumaṃ, puma, pumā | (bhonto) pumā, pumāno |
-  | Acc. | pumaṃ, pumānaṃ | pume, pumāno |
-  | Ins. | pumunā, pumānā, pumena | pumānehi, bhi, pumehi, bhi |
-  | Dat/Gen. | pumuno, pumassa | pumānaṃ |
-  | Abl. | pumunā, pumānā, pumasmā, pumamhā, pumā | pumānehi, bhi, pumehi, bhi |
-  | Loc. | pumāne, pumasmiṃ, pumamhi, pume | pumānesu, pumāsu, pumesu |
+#### Declension of puma (m.) (pumādigaṇa)
 
-  - mem aid: purisa + atta (with u and other strengthened vowels) + special voc.
+| case | singular | plural |
+|---|---|---|
+| Nom. | pumo, pumā | pumā, pumāno |
+| Voc. | (bho) pumaṃ, puma, pumā | (bhonto) pumā, pumāno |
+| Acc. | pumaṃ, pumānaṃ | pume, pumāno |
+| Ins. | pumunā, pumānā, pumena | pumānehi, bhi, pumehi, bhi |
+| Dat/Gen. | pumuno, pumassa | pumānaṃ |
+| Abl. | pumunā, pumānā, pumasmā, pumamhā, pumā | pumānehi, bhi, pumehi, bhi |
+| Loc. | pumāne, pumasmiṃ, pumamhi, pume | pumānesu, pumāsu, pumesu |
+
+- mem aid: purisa + atta (with u and other strengthened vowels) + special voc.
 - Puma: male, masculine
-- Exercise
-  - 1). Write down the noun forms that are not found in purisa-declension but in mano-declension.
-  - 2). Write down the noun forms that are not found in purisa-declension but in pumā-declension.
 
 ## Lesson 10 - conjugation of root √as
 - 10.1. Reading: see the dedicated [reading & translation page](/summaries/pali/pps-ch3-reading).

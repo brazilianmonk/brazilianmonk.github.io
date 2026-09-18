@@ -155,13 +155,17 @@ permalink: /summaries/pali/pps-ch2-part1
 - When a letter is removed it is called (in English) elision (to elide)
 - Nouns stems can end in 8 letters: a, ā, i, ī, u, ū, o, ṁ
 - Declension of guṇavantu (m.) (guṇavādigaṇa)
-  - guṇavā, guṇavanto / guṇavanto, guṇavantā
-  - (bho) guṇavaṁ, guṇava, guṇavā / (bhonto) "
-  - guṇavaṁ, guṇavantaṁ / guṇavante
-  - guṇavatā, guṇavantena / guṇavantehi, guṇavantebhi
-  - guṇavato, guṇavassa, guṇavantassa / guṇavataṁ, guṇavantānaṁ
-  - guṇavatā, guṇavantasmā, guṇavantamhā, guṇavantā / guṇavantehi, guṇavantebhi
-  - guṇavati, guṇavantasmiṁ, guṇavantamhi, guṇavante / guṇavantesu
+
+  | singular | plural |
+  |---|---|
+  | guṇavā, guṇavanto | guṇavanto, guṇavantā |
+  | (bho) guṇavaṁ, guṇava, guṇavā | (bhonto) " |
+  | guṇavaṁ, guṇavantaṁ | guṇavante |
+  | guṇavatā, guṇavantena | guṇavantehi, guṇavantebhi |
+  | guṇavato, guṇavassa, guṇavantassa | guṇavataṁ, guṇavantānaṁ |
+  | guṇavatā, guṇavantasmā, guṇavantamhā, guṇavantā | guṇavantehi, guṇavantebhi |
+  | guṇavati, guṇavantasmiṁ, guṇavantamhi, guṇavante | guṇavantesu |
+
   - mem aid:
     - -vant + purisa
     - forms with va:

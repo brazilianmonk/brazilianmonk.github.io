@@ -872,55 +872,6 @@ Vocabulary groups extracted from the Semester I (Chapters 1–3) notes; kept for
 </details>
 
 <details>
-<summary>Some masculine nouns of ratti-group end… · 3.2. Grammar (vocab)</summary>
-
-- Aggi / gini / aggini (m.): fire (s.w. a)
-- Joti (m.): fire (s.w. j, not jātaveda)
-- Muṭṭhi (m.): fist
-- Kucchi (m.): stomach
-- Pāṇi (m.): hand
-- Gaṇṭi (m.): explanation on complicated issues in a certain subject
-- Sāli (m.): a type of rice (s.w. s)
-- Vīhi (m.): rice
-- Byādhi (m.): sickness
-- Rāsi (m.): heap, group
-- Dīpi (m.): leopard
-- Bodhi (m.): (f.) sabbaññutañāṇa, ariyamagga; (m., f.) Bodhi tree (assattha); (m.) name of a prince
-  - stanza about the use of the word bodhi
-    - bodhi sabbaññutañāṇe(a)riyamagge ca nāriyaṁ paññattiyaṁ pume(a)ssattharukkhamhi purisitthiyaṁ"
-- Isi (m.): sage, seer
-- Muni (m.): sage
-- Yati (m.): monk
-- Kapi (m.): monkey
-- Ahi (m.): serpent
-- Jaladhi (m.): sea
-- Gahapati (m.): householder
-- Samādhi (m.): concentration
-- Maṇi (m.): gem
-- Giri (m.): mountain (s.w. g)
-- Ravi (m.): sun
-- Asi (m.): khagga
-- Nidhi (m.): treasure
-- Kimi (m.): insect
-- Ari (m.): enemy
-- Atithi (m.): (m.) āgantuko, visitor
-
-</details>
-
-<details>
-<summary>some more nouns ending in ‘u’ of the gr… · 4.2. Grammar (vocab)</summary>
-
-- Setu (m.): bridge
-- Meru (m.): mount Meru
-- Jantu (m.): living being
-- Maccu (m.): death
-- Sattu (m.): enemy
-- Bandhu (m.): relative (s.w b)
-- Hetu (m.): cause
-
-</details>
-
-<details>
 <summary>4.2. Grammar · Lesson 4 - declension of 'daṇḍī', bhikk… (vocab)</summary>
 
 - Sayambhū: one who is self-awakened (the Buddha)

@@ -40,7 +40,7 @@ permalink: /summaries/pali/pps-ch1-part1
 ## Lesson 3 - Noun stems and case-endings
 - Noun stem (morpheme without a case ending): liṅga
   - Morpheme (not pāḷi grammar): a meaningful morphological unit of a language that cannot be further divided (e.g. in, come, -ing, forming incoming). A morphological element considered in respect of its functional relations in a linguistic system.
-- 7 Case-endings/nominal endings (nāma vibhatti) (suffixes added to a stem)
+- 7 Case-endings/nominal endings (**nāma vibhatti**) (suffixes added to a stem)
   - Paṭhamā vibhatti (nominative case)
   - Dutiyā vibhatti (accusative case)
   - Tatiyā vibhatti (instrumental case)

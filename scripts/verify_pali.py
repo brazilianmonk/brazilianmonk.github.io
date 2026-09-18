@@ -24,8 +24,8 @@ PALI = ROOT / "pages" / "pali"
 PAGE_MAP = {
     "pali-patha-sikkha-ch1-3": ["pps-ch*-part*.md", "pps-ch3-reading.md",
                                 "pps-vocab-archive.md", "vocabulary.md"],
-    "pali-semester-2": ["semester-2-part1.md", "semester-2-part2.md",
-                        "pps-final-exam-1st-year.md", "vocabulary.md"],
+    "pali-semester-2": ["pps-ch3-part3.md", "pps-ch3-part4.md",
+                        "pps-ch4-part1.md", "pps-ch4-part2.md", "vocabulary.md"],
     "pali-semester-3": ["niruttidipani-part-1.md", "dhammapada-atthakatha-1.md",
                         "itivuttaka-1.md", "anguttara-1.md", "nominal-declensions.md",
                         "semester-3-notes.md", "vocabulary.md"],

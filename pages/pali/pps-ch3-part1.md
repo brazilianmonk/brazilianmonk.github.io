@@ -19,8 +19,7 @@ permalink: /summaries/pali/pps-ch3-part1
   | Abl. | tasmā, nasmā, asmā, tamhā, namhā | tehi, tebhi, nehi, nebhi |
   | Loc. | tasmiṃ, nasmiṁ, asmiṃ, tamhi, namhi | tesu, nesu |
 
-  - memory aid:
-    - 1 - t ⇒ n
+  - mem aid: 1 - t ⇒ n
     - 2 - sa, sma, smiṁ: ta ⇒ a
 - Neuter declension
 
@@ -39,8 +38,7 @@ permalink: /summaries/pali/pps-ch3-part1
   | Dat/gen. | tāya, nāya - tassā, nassā, assā, tissā - tassāya, nassāya, assāya, tissāya | tāsaṃ, tāsānaṃ, nāsaṃ, nāsānaṃ |
   | Loc. | tāyaṃ, nāyaṃ, tassaṃ, nassaṃ, assaṃ, tissaṃ | tāsu, nāsu |
 
-  - memory aid:
-    - 1 - t ⇒ n
+  - mem aid: 1 - t ⇒ n
     - 2 - sa, smā, smiṁ, sā, saṁ: ta ⇒ a
     - 3 - dat. gen.: ending in sā: add ya
     - 4 - ta ⇒ ti, sa ⇒ saṁ
@@ -117,7 +115,8 @@ permalink: /summaries/pali/pps-ch3-part1
   - note: no 'i' form, 'a' takes over
 - If one does not know which gender the word kiṁ refers to the gender used is neuter kiṁ.
 
-### Sara sandhi is further divided into following categories.
+### Sara sandhi
+4 types of sara sandhi
 - 1). Lopa (elision) – Elision of a vowel
   - pubba sara lopa sandhi (elision of the previous vowel)
     - paññā + indriyaṁ ⇒ paññindriyaṁ
@@ -127,8 +126,8 @@ permalink: /summaries/pali/pps-ch3-part1
     - cattāro + ime ⇒ cattārome
     - saññā + iti ⇒ saññāti
 - 2) Ādesa – substitution
-- 4) Dīgha – lengthening
-- 3) Āgama – augmentation or insertion
+- 3) Dīgha – lengthening
+- 4) Āgama – augmentation or insertion
 
 ## Lesson 3 - declension of 'aggi', dhātugaṇa
 - 3.1. Reading: see the dedicated [reading & translation page](/summaries/pali/pps-ch3-reading).
@@ -145,33 +144,63 @@ permalink: /summaries/pali/pps-ch3-part1
 | Abl. | agginā, aggismā, aggimhā | aggīhi, aggībhi, aggihi, aggibhi |
 | Loc. | aggismiṃ, aggimhi | aggīsu, aggisu |
 
-- Mem aid:
-  - no aggini (as it is itself a noun)
+- Mem aid: no aggini (as it is itself a noun)
 - Note: aggini and gini (synonyms) are also so declined (saddanīti)
 - Some masculine nouns of ratti-group ending in ‘i’
+  - aggi / gini / aggini (m.): fire (s.w. a)
+  - joti (m.): fire (s.w. j, not jātaveda)
+  - muṭṭhi (m.): fist
+  - kucchi (m.): stomach
+  - pāṇi (m.): hand
+  - gaṇṭi (m.): explanation on complicated issues in a certain subject
+  - sāli (m.): a type of rice (s.w. s)
+  - vīhi (m.): rice
+  - byādhi (m.): sickness
+  - rāsi (m.): heap, group
+  - dīpi (m.): leopard
+  - bodhi (m.): (f.) sabbaññutañāṇa, ariyamagga; (m., f.) Bodhi tree (assattha); (m.) name of a prince
+    - stanza about the use of the word bodhi
+      - bodhi sabbaññutañāṇe(a)riyamagge ca nāriyaṁ paññattiyaṁ pume(a)ssattharukkhamhi purisitthiyaṁ"
+  - isi (m.): sage, seer
+  - muni (m.): sage
+  - yati (m.): monk
+  - kapi (m.): monkey
+  - ahi (m.): serpent
+  - jaladhi (m.): sea
+  - gahapati (m.): householder
+  - samādhi (m.): concentration
+  - maṇi (m.): gem
+  - giri (m.): mountain (s.w. g)
+  - ravi (m.): sun
+  - asi (m.): khagga
+  - nidhi (m.): treasure
+  - kimi (m.): insect
+  - ari (m.): enemy
+  - atithi (m.): (m.) āgantuko, visitor
 
-  - Dhātugaṇa (root groups)
-    - Roots (dhātu) are the fundamental sounds (morphemes) which have verbal meanings. Verbs are made by adding a vikaraṇa paccaya (conjugational sign) and a verbal termination to the roots. All the roots in Pāḷi are classified into eight groups called dhātugaṇa. They are classified according to conjugational signs (vikaraṇa paccaya).
-    - The suffix added between the dhātu and the verbal termination is called the conjugational sign – vikaraṇa paccaya. There are thirteen such signs in Pāḷi.
-    - Following are the eight dhātugaṇa together with their vikaraṇa paccaya
-      - 1. bhūvādigaṇa – a (most common)
-      - 2. rudhādigaṇa – ṃ … a
-      - 3. divādigaṇa – ya
-      - 4. svādigaṇa (√su) – ṇā, ṇu, uṇā
-      - 5. kiyādigaṇa – nā
-      - 6. gahādigaṇa – ṇhā, ppa
-      - 7. tanādigaṇa – o, yira
-      - 8. curādigaṇa – (ṇ)e, (ṇ)aya (2nd most common)
-      - mem aid: the ghost (bhū) cries (rudh), the deva (div) is happy (su), the kiṇṇara (ki) holds (gah) with stretched (tan) paws the thief (cur)
-    - Curādi group
-      - Though it is mentioned in traditional Pāḷi books that the conjugational sign of the curādi group is ‘ṇe’ and ‘ṇaya’ the actual signs are ‘e’ and ‘aya’. The lingual ‘ṇ’ is just an indicator called anubandha. It indicates that when the conjugational sign is added to the root the first vowel gets strengthened (vuddhi). After that the anubandha sign ‘ṇ’ is dropped.
-      - During the process of vowel strengthening (vuddhi) a light vowel turns into its corresponding heavy vowel: a > ā, i and ī > e, u and ū > o When a light vowel is followed by a double consonant (saññoga) vuddhi normally does not occur
-      - A few roots belonging to the curādigaṇa
-        - cinteti / cintayati: thinks
-        - peseti / pesayati: sends
-        - pāleti / pālayati √pāl: protects
-        - poseti / posayati: nourishes, brings up
-        - vedeti / vedayati: knows
+### Dhātugaṇa (root groups)
+- Roots (dhātu) are the fundamental sounds (morphemes) which have verbal meanings. Verbs are made by adding a vikaraṇa paccaya (conjugational sign) and a verbal termination to the roots. All the roots in Pāḷi are classified into eight groups called dhātugaṇa. They are classified according to conjugational signs (vikaraṇa paccaya).
+- The suffix added between the dhātu and the verbal termination is called the conjugational sign – vikaraṇa paccaya. There are thirteen such signs in Pāḷi.
+- Following are the eight dhātugaṇa together with their vikaraṇa paccaya
+  - bhūvādigaṇa – a (most common)
+  - rudhādigaṇa – ṃ … a
+  - divādigaṇa – ya
+  - svādigaṇa (√su) – ṇā, ṇu, uṇā
+  - kiyādigaṇa – nā
+  - gahādigaṇa – ṇhā, ppa
+  - tanādigaṇa – o, yira
+  - curādigaṇa – (ṇ)e, (ṇ)aya (2nd most common)
+  - mem aid: the ghost (bhū) cries (rudh), the deva (div) is happy (su), the kiṇṇara (ki) holds (gah) with stretched (tan) paws the thief (cur)
+
+#### Curādi group
+- Though it is mentioned in traditional Pāḷi books that the conjugational sign of the curādi group is ‘ṇe’ and ‘ṇaya’ the actual signs are ‘e’ and ‘aya’. The lingual ‘ṇ’ is just an indicator called anubandha. It indicates that when the conjugational sign is added to the root the first vowel gets strengthened (vuddhi). After that the anubandha sign ‘ṇ’ is dropped.
+- During the process of vowel strengthening (vuddhi) a light vowel turns into its corresponding heavy vowel: a > ā, i and ī > e, u and ū > o When a light vowel is followed by a double consonant (saññoga) vuddhi normally does not occur
+- A few roots belonging to the curādigaṇa
+  - cinteti / cintayati: thinks
+  - peseti / pesayati: sends
+  - pāleti / pālayati √pāl: protects
+  - poseti / posayati: nourishes, brings up
+  - vedeti / vedayati: knows
 
 ## Lesson 4 - declension of 'daṇḍī', bhikkhu, sayambhū
 - 4.1. Reading: see the dedicated [reading & translation page](/summaries/pali/pps-ch3-reading).
@@ -192,10 +221,9 @@ permalink: /summaries/pali/pps-ch3-part1
 | Ins./Abl. | daṇḍinā | daṇḍīhi, daṇḍībhi |
 | Dat/gen. | daṇḍino, daṇḍissa | daṇḍīnaṃ |
 | Loc. | daṇḍini, daṇḍismiṃ, daṇḍimhi | daṇḍīsu |
+| acc. | daṇḍinaṁ |  |
 
-- Mem aid:
-  - "i-karantayo aggi aggayo ī-karantino daṇḍī daṇḍino"
-  - acc. daṇḍinaṁ
+- Mem aid: "i-karantayo aggi aggayo ī-karantino daṇḍī daṇḍino"
 - Some other masculine nouns of the rattādigaṇa ending in ‘ī’
   - daṇḍī (m.): one who has a stick
   - hatthī (m.): elephant (s.w. h)
@@ -218,32 +246,40 @@ permalink: /summaries/pali/pps-ch3-part1
 | Dat./Gen. | bhikkhuno, bhikkhussa | bhikkhūnaṁ, bhikkhunaṁ |
 | Abl. | bhikkhunā, bhikkhusmā, bhikkhumhā | bhikkhūhi, bhikkhūbhi, bhikkhuhi, bhikkhubhi |
 | Loc. | bhikkhusmiṁ, bhikkhumhi | bhikkhūsu, bhikkhusu |
-| nom. | bhikkhavo, voc. bhikkhave |  |
 
-- Mem aid:
+- Mem aid: nom. bhikkhavo, voc. bhikkhave
 - Note:
   - hetu has nom./voc./acc.pl. hetuyo
   - jantu has nom./voc./acc.pl. jantuno, jantuyo
   - kuru as well
 - Some more nouns ending in ‘u’ of the group ratti
+  - setu (m.): bridge
+  - meru (m.): mount Meru
+  - jantu (m.): living being
+  - maccu (m.): death
+  - sattu (m.): enemy
+  - bandhu (m.): relative (s.w b)
+  - hetu (m.): cause
 
-  - Declension of sayambhū (m.) (rattādigaṇa)
+### Declension of sayambhū (m.) (rattādigaṇa)
 
-    | case | singular | plural |
-    |---|---|---|
-    | Nom. | sayambhū | sayambhū, sayambhuvo |
-    | Voc. | (bho) sayambhu | (bhonto) " |
-    | Acc | sayambhuṃ | " |
-    | Ins./Abl. | sayambhunā | sayambhūhi, sayambhūbhi |
-    | Dat/Gen. | sayambhuno, sayambhussa | sayambhūnaṃ |
-    | Loc. | sayambhusmiṃ, sayambhumhi | sayambhūsu |
+| case | singular | plural |
+|---|---|---|
+| Nom. | sayambhū | sayambhū, sayambhuvo |
+| Voc. | (bho) sayambhu | (bhonto) " |
+| Acc | sayambhuṃ | " |
+| Ins./Abl. | sayambhunā | sayambhūhi, sayambhūbhi |
+| Dat/Gen. | sayambhuno, sayambhussa | sayambhūnaṃ |
+| Loc. | sayambhusmiṃ, sayambhumhi | sayambhūsu |
 
-    - mem aid: no smā, mhā, uni
-    - note:
-      - sabbaññū has sabbaññuno instead of -uvo
-      - maggaññū, dhammaññū, atthaññū, kālaññū, rattaññū, mattaññū, kataññū, viññū, vidū, vedagū, pāragū etc. are declined as sabbaññū
+- Mem aid: no smā, mhā, uni
+- Note:
+  - sabbaññū has sabbaññuno instead of -uvo
+  - maggaññū, dhammaññū, atthaññū, kālaññū, rattaññū, mattaññū, kataññū, viññū, vidū, vedagū, pāragū etc. are declined as sabbaññū
 
-  - primary derivatives (kitaka) are the nouns formed by adding suffixes to roots/stems secondary derivatives (taddhita) are nouns formed by adding suffixes to nouns
+### Kitaka
+- Primary derivatives (kitaka) are the nouns formed by adding suffixes to roots/stems
+- Secondary derivatives (taddhita) are nouns formed by adding suffixes to nouns
 
 ## Lesson 5 - declension of 'atta', bhavalakkhaṇa, pubbasaradīghasandhi
 - 5.1. Reading: see the dedicated [reading & translation page](/summaries/pali/pps-ch3-reading).

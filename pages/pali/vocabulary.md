@@ -11,7 +11,7 @@ for each exercise; those stay next to the exercises.
 ## Pāḷi Pāṭha Sikkhā — Semester II (Chapters III–IV)
 
 <details>
-<summary>11.1 Reading · Lesson 11 (vocab) — <a href="/summaries/pali/semester-2-part2">↩ source</a></summary>
+<summary>11.1 Reading · Lesson 11 (vocab) — <a href="/summaries/pali/pps-ch3-part3">↩ source</a></summary>
 
 - Vejjo (m.): doctor
 - Bhisakko (m.): vejjo (s.w/ bh)
@@ -78,7 +78,7 @@ for each exercise; those stay next to the exercises.
 </details>
 
 <details>
-<summary>some neuter gender nouns ending in ‘i’: · 11.2 Grammar (vocab) — <a href="/summaries/pali/semester-2-part2">↩ source</a></summary>
+<summary>some neuter gender nouns ending in ‘i’: · 11.2 Grammar (vocab) — <a href="/summaries/pali/pps-ch3-part3">↩ source</a></summary>
 
 - Vāriṁ: water
 - Aṭṭhiṁ: bone
@@ -92,7 +92,7 @@ for each exercise; those stay next to the exercises.
 </details>
 
 <details>
-<summary>12.1. reading · Lesson 12 (vocab) — <a href="/summaries/pali/semester-2-part2">↩ source</a></summary>
+<summary>12.1. reading · Lesson 12 (vocab) — <a href="/summaries/pali/pps-ch3-part3">↩ source</a></summary>
 
 - Vañjhitthī (f.): barren, sterile woman
 - Vañjhā (f.): barren, sterile, infertile (used for ladies or rarely for trees)
@@ -128,7 +128,7 @@ for each exercise; those stay next to the exercises.
 </details>
 
 <details>
-<summary>13.1. reading · Lesson 13 (vocab) — <a href="/summaries/pali/semester-2-part2">↩ source</a></summary>
+<summary>13.1. reading · Lesson 13 (vocab) — <a href="/summaries/pali/pps-ch3-part3">↩ source</a></summary>
 
 - Atikkamati: goes beyond, passes over, overcomes; surpasses
 - Sakkoti: is able of, is capable of
@@ -154,14 +154,14 @@ for each exercise; those stay next to the exercises.
 </details>
 
 <details>
-<summary>dakārādi avasesa ādesa sandhi · 13.2 grammar (vocab) — <a href="/summaries/pali/semester-2-part2">↩ source</a></summary>
+<summary>dakārādi avasesa ādesa sandhi · 13.2 grammar (vocab) — <a href="/summaries/pali/pps-ch3-part3">↩ source</a></summary>
 
 - Avasesa [ava + √sis + *a]: adj. remaining; rest of
 
 </details>
 
 <details>
-<summary>14.1. reading · Lesson 14 (vocab) — <a href="/summaries/pali/semester-2-part2">↩ source</a></summary>
+<summary>14.1. reading · Lesson 14 (vocab) — <a href="/summaries/pali/pps-ch3-part3">↩ source</a></summary>
 
 - Dutiyaṃ: secondly, for the second time
 - Tatheva: in the same way
@@ -207,7 +207,7 @@ for each exercise; those stay next to the exercises.
 </details>
 
 <details>
-<summary>Lesson 15 · Chapter III (part II) (vocab) — <a href="/summaries/pali/semester-2-part2">↩ source</a></summary>
+<summary>Lesson 15 · Chapter III (part II) (vocab) — <a href="/summaries/pali/pps-ch3-part3">↩ source</a></summary>
 
 - Paccati: ripens
 - Nigacchati [ni + √gam + a + ti]: pr. (+acc) (of something bad) suffers; experiences; undergoes; falls (into)
@@ -219,7 +219,7 @@ for each exercise; those stay next to the exercises.
 </details>
 
 <details>
-<summary>16.1. reading · Lesson 16 (vocab) — <a href="/summaries/pali/semester-2-part2">↩ source</a></summary>
+<summary>16.1. reading · Lesson 16 (vocab) — <a href="/summaries/pali/pps-ch3-part3">↩ source</a></summary>
 
 - Vijātakālo (m.): the period during which a child is delivered
 - Puttako (m.): a small child
@@ -271,7 +271,7 @@ for each exercise; those stay next to the exercises.
 </details>
 
 <details>
-<summary>17.1. reading · Lesson 17 (vocab) — <a href="/summaries/pali/semester-2-part2">↩ source</a></summary>
+<summary>17.1. reading · Lesson 17 (vocab) — <a href="/summaries/pali/pps-ch3-part3">↩ source</a></summary>
 
 - Yo vā so vā: whoever person
 - Yaṁ vā taṁ vā: whatever there is
@@ -319,7 +319,7 @@ for each exercise; those stay next to the exercises.
 </details>
 
 <details>
-<summary>18 reading · Lesson 18 (vocab) — <a href="/summaries/pali/semester-2-part2">↩ source</a></summary>
+<summary>18 reading · Lesson 18 (vocab) — <a href="/summaries/pali/pps-ch3-part4">↩ source</a></summary>
 
 - Anuppanna (3.): unarisen, something that has not arisen
 - Rājagaha (m.): city of Rajagaha
@@ -374,7 +374,7 @@ for each exercise; those stay next to the exercises.
 </details>
 
 <details>
-<summary>19.1 reading · Lesson 19 (vocab) — <a href="/summaries/pali/semester-2-part2">↩ source</a></summary>
+<summary>19.1 reading · Lesson 19 (vocab) — <a href="/summaries/pali/pps-ch3-part4">↩ source</a></summary>
 
 - Niyāma (m.): way, certainty; fixed method; regular order
 - Paripākagata (3.): ripe, ripened, matured, developed
@@ -407,7 +407,7 @@ for each exercise; those stay next to the exercises.
 </details>
 
 <details>
-<summary>20.1. reading · Lesson 20 (vocab) — <a href="/summaries/pali/semester-2-part2">↩ source</a></summary>
+<summary>20.1. reading · Lesson 20 (vocab) — <a href="/summaries/pali/pps-ch3-part4">↩ source</a></summary>
 
 - Tena samayena (kālatthe tatiyā): at that time, on that occasion
 - Paribbājako (m.) [pari + √vaj + *aka]: homeless spiritual seeker; wandering ascetic; lit. who goes around
@@ -435,7 +435,7 @@ for each exercise; those stay next to the exercises.
 </details>
 
 <details>
-<summary>21.1. reading · Lesson 21 (vocab) — <a href="/summaries/pali/semester-2-part2">↩ source</a></summary>
+<summary>21.1. reading · Lesson 21 (vocab) — <a href="/summaries/pali/pps-ch3-part4">↩ source</a></summary>
 
 - Katikā (f.) [√kar + ta + ikā]: agreement; arrangement; promise; 2 talk, conversation
 - Vuttānukkama (m.): the order in which something was said
@@ -464,7 +464,7 @@ for each exercise; those stay next to the exercises.
 </details>
 
 <details>
-<summary>22.1. reading · Lesson 22 (vocab) — <a href="/summaries/pali/semester-2-part2">↩ source</a></summary>
+<summary>22.1. reading · Lesson 22 (vocab) — <a href="/summaries/pali/pps-ch3-part4">↩ source</a></summary>
 
 - Katabhattakicca (3.): one who has finished the meal (one who has finished things related to the meal)
 - Paṭisanthāra √thar (m.): friendly welcome; kind reception; lit. filling the gap
@@ -497,7 +497,7 @@ for each exercise; those stay next to the exercises.
 </details>
 
 <details>
-<summary>kammadhāraya samāsa has 2 main features · kammadhārayasamāsa (vocab) — <a href="/summaries/pali/semester-2-part2">↩ source</a></summary>
+<summary>kammadhāraya samāsa has 2 main features · kammadhārayasamāsa (vocab) — <a href="/summaries/pali/pps-ch3-part4">↩ source</a></summary>
 
 - Tulya [√tul + ya]: adj. equal; similar; of same kind; lit. balancing
 - Tulyādhikaraṇa [tulya + adhikaraṇa]: adj. (gram) having the same location
@@ -505,14 +505,14 @@ for each exercise; those stay next to the exercises.
 </details>
 
 <details>
-<summary>paṇḍito puriso ⇒ paṇḍitapuriso (wise ma… · examples of kammadhāraya samāsa (vocab) — <a href="/summaries/pali/semester-2-part2">↩ source</a></summary>
+<summary>paṇḍito puriso ⇒ paṇḍitapuriso (wise ma… · examples of kammadhāraya samāsa (vocab) — <a href="/summaries/pali/pps-ch3-part4">↩ source</a></summary>
 
 - Rattaṁ [√raj + ta] (nt.): day; night; 2.1 pp. dyed; coloured; 2.2 adj. red; crimson; 2.3 nt. blood; 3.1 pp. (+loc) infatuated (with); enamoured (with); fond (of); 3.2 masc. (+loc) who is infatuated (with); who is enamoured (with); fond (of); (f.) night; rattā (f.) time; lit. night
 
 </details>
 
 <details>
-<summary>kammadhārayasamāsa · Lesson 23 - samāsa (vocab) — <a href="/summaries/pali/semester-2-part2">↩ source</a></summary>
+<summary>kammadhārayasamāsa · Lesson 23 - samāsa (vocab) — <a href="/summaries/pali/pps-ch3-part4">↩ source</a></summary>
 
 - Acchariya [accharā + iya]: adj. wonderful; marvellous
 - Paṇḍu: pale-yellow, yellowish
@@ -521,7 +521,7 @@ for each exercise; those stay next to the exercises.
 </details>
 
 <details>
-<summary>2 types of digusamāsa · digusamāsas are the kammadhārayasamāsas… (vocab) — <a href="/summaries/pali/semester-2-part2">↩ source</a></summary>
+<summary>2 types of digusamāsa · digusamāsas are the kammadhārayasamāsas… (vocab) — <a href="/summaries/pali/pps-ch3-part4">↩ source</a></summary>
 
 - Samāhāra: (m.) (gram) copulative compound with plural meaning and singular termination
 - Asamāhāra: adj. (gram) copulative compound with plural meaning and plural termination
@@ -529,7 +529,7 @@ for each exercise; those stay next to the exercises.
 </details>
 
 <details>
-<summary>digusamāsas are the kammadhārayasamāsas… · digusamāsa (vocab) — <a href="/summaries/pali/semester-2-part2">↩ source</a></summary>
+<summary>digusamāsas are the kammadhārayasamāsas… · digusamāsa (vocab) — <a href="/summaries/pali/pps-ch3-part4">↩ source</a></summary>
 
 - Digu (m.) [di + go + u]: (gram) numerical (compound); lit. two cows
 - Samāsati [saṃ + √ās + a + ti] pr.: (+instr) associates (with); keeps close company (with); lit. sits together
@@ -540,14 +540,14 @@ for each exercise; those stay next to the exercises.
 </details>
 
 <details>
-<summary>i.Bhagavā sukhumañāṇena tilokaṃ viditvā… · 3).Categorize the kammadhāraya and digu… (vocab) — <a href="/summaries/pali/semester-2-part2">↩ source</a></summary>
+<summary>i.Bhagavā sukhumañāṇena tilokaṃ viditvā… · 3).Categorize the kammadhāraya and digu… (vocab) — <a href="/summaries/pali/pps-ch3-part4">↩ source</a></summary>
 
 - Veneyyasatta (m.): instructible being
 
 </details>
 
 <details>
-<summary>catutthī bahubbīhi · 7 types of bahubbīhi based on the nāmav… (vocab) — <a href="/summaries/pali/semester-2-part2">↩ source</a></summary>
+<summary>catutthī bahubbīhi · 7 types of bahubbīhi based on the nāmav… (vocab) — <a href="/summaries/pali/pps-ch3-part4">↩ source</a></summary>
 
 - Suṅka (m.): tax; toll; duty; customs
 - Upanīta [upa + √nī + ta]: adj. (+loc) led (into); brought (into); presented; lit. lead near; 2 pp. (+acc) (of a sacrifice) led (to); offered; presented; lit. lead near
@@ -555,14 +555,14 @@ for each exercise; those stay next to the exercises.
 </details>
 
 <details>
-<summary>sattamī bahubbīhi · 7 types of bahubbīhi based on the nāmav… (vocab) — <a href="/summaries/pali/semester-2-part2">↩ source</a></summary>
+<summary>sattamī bahubbīhi · 7 types of bahubbīhi based on the nāmav… (vocab) — <a href="/summaries/pali/pps-ch3-part4">↩ source</a></summary>
 
 - Sassaṁ (nt.): corn; grain; crop; harvest
 
 </details>
 
 <details>
-<summary>24.1. reading · Lesson 24 (vocab) — <a href="/summaries/pali/semester-2-part2">↩ source</a></summary>
+<summary>24.1. reading · Lesson 24 (vocab) — <a href="/summaries/pali/pps-ch3-part4">↩ source</a></summary>
 
 - Uparivisesa: higher distinction
 - Appavattante: while (something is) not happening
@@ -587,7 +587,7 @@ for each exercise; those stay next to the exercises.
 </details>
 
 <details>
-<summary>25.1. reading · Lesson 25 (vocab) — <a href="/summaries/pali/semester-2-part2">↩ source</a></summary>
+<summary>25.1. reading · Lesson 25 (vocab) — <a href="/summaries/pali/pps-ch3-part4">↩ source</a></summary>
 
 - Nāmesa: nāma eso [pubbassaralopa + lopāgamasandhi])
 - Bujjhamāna (3.): one who is realizing, one who is understanding
@@ -622,7 +622,7 @@ for each exercise; those stay next to the exercises.
 </details>
 
 <details>
-<summary>Lesson 2 - active and passive voice sen… · Chapter IV (vocab) — <a href="/summaries/pali/semester-2-part2">↩ source</a></summary>
+<summary>Lesson 2 - active and passive voice sen… · Chapter IV (vocab) — <a href="/summaries/pali/pps-ch4-part1">↩ source</a> · <a href="/summaries/pali/pps-ch4-part1#vocab-lesson-2">vocab</a></summary>
 
 - Vussati [√vas + ya + ti]: pr. (+loc) is lived; is lived (under)
 - Janakuhanatthaṃ (ind.) [jana + kuhana + attha + aṃ]: to deceive people; to create a false impression; lit. for the sake of deceiving people
@@ -634,49 +634,49 @@ for each exercise; those stay next to the exercises.
 </details>
 
 <details>
-<summary>bhavataddhita · -iya (vocab) — <a href="/summaries/pali/semester-2-part2">↩ source</a></summary>
+<summary>bhavataddhita · -iya (vocab) — <a href="/summaries/pali/pps-ch4-part2">↩ source</a> · <a href="/summaries/pali/pps-ch4-part2#lesson-12---anekatthataddhita">vocab</a></summary>
 
 - Pakkha: adj. associated with; connected to; siding with; lit. on the side of; 2 masc. side; flank; 3 masc. wing; 4 masc. cripple; lame; 5 masc. side; party; group; faction; 6 masc. lunar phase; fortnight; half-month
 
 </details>
 
 <details>
-<summary>note: · -maya (vocab) — <a href="/summaries/pali/semester-2-part2">↩ source</a></summary>
+<summary>note: · -maya (vocab) — <a href="/summaries/pali/pps-ch4-part2">↩ source</a> · <a href="/summaries/pali/pps-ch4-part2#lesson-12---anekatthataddhita">vocab</a></summary>
 
 - Pakata (pa + kata): made of
 
 </details>
 
 <details>
-<summary>pūraṇataddhita: a group of saṅkhyātaddh… · saṅkhyātaddhitapaccaya: taddhita suffix… (vocab) — <a href="/summaries/pali/semester-2-part2">↩ source</a></summary>
+<summary>pūraṇataddhita: a group of saṅkhyātaddh… · saṅkhyātaddhitapaccaya: taddhita suffix… (vocab) — <a href="/summaries/pali/pps-ch4-part2">↩ source</a> · <a href="/summaries/pali/pps-ch4-part2#lesson-132---saṅkhyātaddhita">vocab</a></summary>
 
 - Anena [ima + ena]: pron. with this; by this
 
 </details>
 
 <details>
-<summary>examples: · -dhā: vibhāgataddhita (vocab) — <a href="/summaries/pali/semester-2-part2">↩ source</a></summary>
+<summary>examples: · -dhā: vibhāgataddhita (vocab) — <a href="/summaries/pali/pps-ch4-part2">↩ source</a> · <a href="/summaries/pali/pps-ch4-part2#lesson-14---abyayataddhita-and-bhāvataddhita">vocab</a></summary>
 
 - Vibhāgo (m.) [vi + √bhaj + *a] ✓: (gram) classification; dissection; disjunction; lit. division
 
 </details>
 
 <details>
-<summary>kāla accantasaṃyoga · accantasaṃyogattha (ati + anta): &quot;invol… (vocab) — <a href="/summaries/pali/semester-2-part2">↩ source</a></summary>
+<summary>kāla accantasaṃyoga · accantasaṃyogattha (ati + anta): &quot;invol… (vocab) — <a href="/summaries/pali/pps-ch4-part2">↩ source</a> · <a href="/summaries/pali/pps-ch4-part2#lesson-18---kāraka">vocab</a></summary>
 
 - Sarado (m.): autumn; season following the rains
 
 </details>
 
 <details>
-<summary>meanings of tatiyā vibhatti · Lesson 19 - kāraka (II) (on emacs) (vocab) — <a href="/summaries/pali/semester-2-part2">↩ source</a></summary>
+<summary>meanings of tatiyā vibhatti · Lesson 19 - kāraka (II) (on emacs) (vocab) — <a href="/summaries/pali/pps-ch4-part2">↩ source</a> · <a href="/summaries/pali/pps-ch4-part2#lesson-19---kāraka-ii">vocab</a></summary>
 
 - Dāttaṁ nt.: sickle
 
 </details>
 
 <details>
-<summary>sāvatthiyaṃ (sattamī atthena dutiyā) ki… · 1. First four paragraphs of the Dhammap… (vocab) — <a href="/summaries/pali/semester-2-part2">↩ source</a></summary>
+<summary>sāvatthiyaṃ (sattamī atthena dutiyā) ki… · 1. First four paragraphs of the Dhammap… (vocab) — <a href="/summaries/pali/pps-ch4-part2">↩ source</a></summary>
 
 - Aḍḍha [ā + √idh + a]: 2.1: adj. wealthy; rich; loaded; (comm) with power
 - Natvā: having performed ablutions / having worshiped
@@ -688,7 +688,7 @@ for each exercise; those stay next to the exercises.
 </details>
 
 <details>
-<summary>athassa na cirasseva bhariyāya kucchiya… · 1. First four paragraphs of the Dhammap… (vocab) — <a href="/summaries/pali/semester-2-part2">↩ source</a></summary>
+<summary>athassa na cirasseva bhariyāya kucchiya… · 1. First four paragraphs of the Dhammap… (vocab) — <a href="/summaries/pali/pps-ch4-part2">↩ source</a></summary>
 
 - Parihāramadāsi: he gave protection / complete care
 - Pālita: pp. protected, guarded, preserved
@@ -707,7 +707,7 @@ for each exercise; those stay next to the exercises.
 </details>
 
 <details>
-<summary>tasmiṃ samaye satthā (nom.) pavattita-v… · 1. First four paragraphs of the Dhammap… (vocab) — <a href="/summaries/pali/semester-2-part2">↩ source</a></summary>
+<summary>tasmiṃ samaye satthā (nom.) pavattita-v… · 1. First four paragraphs of the Dhammap… (vocab) — <a href="/summaries/pali/pps-ch4-part2">↩ source</a></summary>
 
 - Pavattita-vara-dhamma-cakko: the excellent wheel of dhamma turned
 - Anupubbena [anu + pubba + ena]: ind. gradually; step-by-step; successively; stage-by-stage
@@ -731,7 +731,7 @@ for each exercise; those stay next to the exercises.
 </details>
 
 <details>
-<summary>anāthapiṇḍikopi visākhāpi mahāupāsikā n… · 1. First four paragraphs of the Dhammap… (vocab) — <a href="/summaries/pali/semester-2-part2">↩ source</a></summary>
+<summary>anāthapiṇḍikopi visākhāpi mahāupāsikā n… · 1. First four paragraphs of the Dhammap… (vocab) — <a href="/summaries/pali/pps-ch4-part2">↩ source</a></summary>
 
 - Dahara: adj. young; youthful; junior
 - Gatapubba: adj. gone to before; travelled to previously
@@ -743,7 +743,7 @@ for each exercise; those stay next to the exercises.
 </details>
 
 <details>
-<summary>tesu (niddhāraṇasattamī) anāthapiṇḍiken… · 1. First four paragraphs of the Dhammap… (vocab) — <a href="/summaries/pali/semester-2-part2">↩ source</a></summary>
+<summary>tesu (niddhāraṇasattamī) anāthapiṇḍiken… · 1. First four paragraphs of the Dhammap… (vocab) — <a href="/summaries/pali/pps-ch4-part2">↩ source</a></summary>
 
 - Na pucchitapubbo: had never been asked
 - Satthā pañhaṃ na pucchitapubbo: the teacher had never been asked a question
@@ -755,7 +755,7 @@ for each exercise; those stay next to the exercises.
 </details>
 
 <details>
-<summary>satthā pana tasmiṃ nisinnamatteyeva (bh… · 1. First four paragraphs of the Dhammap… (vocab) — <a href="/summaries/pali/semester-2-part2">↩ source</a></summary>
+<summary>satthā pana tasmiṃ nisinnamatteyeva (bh… · 1. First four paragraphs of the Dhammap… (vocab) — <a href="/summaries/pali/pps-ch4-part2">↩ source</a></summary>
 
 - Matta: adj. mere; simple; the fact of; by virtue of
 - "ayaṃ seṭṭhi maṃ arakkhitabbaṭṭhāne rakkhati": this magnate protects me in a state that does not need protection
@@ -769,7 +769,7 @@ for each exercise; those stay next to the exercises.
 </details>
 
 <details>
-<summary>tadā sāvatthiyaṃ (sattamī atthena dutiy… · 1. First four paragraphs of the Dhammap… (vocab) — <a href="/summaries/pali/semester-2-part2">↩ source</a></summary>
+<summary>tadā sāvatthiyaṃ (sattamī atthena dutiy… · 1. First four paragraphs of the Dhammap… (vocab) — <a href="/summaries/pali/pps-ch4-part2">↩ source</a></summary>
 
 - Pañcakoṭimattā: as many as five crores
 - Jātā: became

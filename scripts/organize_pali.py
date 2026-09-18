@@ -27,6 +27,7 @@ import html as html_mod
 import re
 import shutil
 import sys
+import unicodedata
 from pathlib import Path
 
 from bs4 import BeautifulSoup, NavigableString, Tag
@@ -54,7 +55,9 @@ def clean_text(s: str) -> str:
 
 
 def esc(t: str) -> str:
-    return t.replace("\u00a0", " ").replace("<", "&lt;")
+    # '|' must be escaped: kramdown starts a table cell at every '|' in body
+    # text, even inside bold/marks (rendered a stray bullet as a broken table).
+    return t.replace("\u00a0", " ").replace("<", "&lt;").replace("|", "\\|")
 
 
 def comment_safe(t: str) -> str:
@@ -204,7 +207,8 @@ def table_to_md(table: Tag) -> str:
             parts: list[str] = []
             for child in cell.children:
                 parts.extend(node_to_md(child, 0))
-            txt = " ".join("".join(parts).split()).replace("|", "\\|")
+            # '|' is already escaped by esc() in node_to_md.
+            txt = " ".join("".join(parts).split())
             cells.append(txt)
         if cells:
             rows.append(cells)
@@ -571,7 +575,16 @@ def process_vocab(lines: list[str], vkey: str, source_title: str, source_link: s
             if kept:
                 link = (anchor_links or {}).get(cur_anchor, source_link)
                 if CUR_SOURCE[0] == "pali-semester-2.html" and PART_TAG[0]:
-                    link = f"{source_link}-{PART_TAG[0]}"
+                    # semester 2 is split per chapter/part; pick the page that
+                    # now holds this lesson (Ch III: 11–17 / 18+,
+                    #  Ch IV: 1–10 / 11+)
+                    lm = re.match(r"[Ll]esson (\d+)", LAST_HEADING[0])
+                    ln = int(lm.group(1)) if lm else 0
+                    if PART_TAG[0] == "part1":          # still in Chapter III
+                        tag = "ch3-part3" if ln < 18 else "ch3-part4"
+                    else:                               # Chapter IV
+                        tag = "ch4-part1" if ln < 11 else "ch4-part2"
+                    link = f"/summaries/pali/pps-{tag}"
                 # every block is recorded; s1 blocks go to the archive page only
                 VOCAB_BLOCKS.append({
                     "vkey": vkey, "label": label,
@@ -1358,7 +1371,10 @@ def _frag_run(lines: list[str], i: int, j: int, indent: int) -> bool:
     """A candidate table run is 'fragmentary' when a same-indent sibling
     bullet follows it that is neither a row nor a table/heading. Such lists
     are partial mem-aids (e.g. guṇavantu 'forms with va:'), not declensions
-    - never tableize them."""
+    - never tableize them. Two siblings mark a COMPLETE run instead:
+    'forms with va:' (a per-case suffix recap of the rows above) and
+    'mem aid:'/'memory aid:' (a mnemonic following the full declension,
+    e.g. guṇavantu m.) - the rows above may become a table."""
     for k in range(j, min(j + 3, len(lines))):
         s = lines[k].strip()
         if not s:
@@ -1367,11 +1383,14 @@ def _frag_run(lines: list[str], i: int, j: int, indent: int) -> bool:
         if mm:
             if len(mm.group(1)) != indent:
                 return False
-            if lines[k].startswith(("#", "<", "|")):
+            # label checks must see the text WITH the '- ' bullet stripped
+            # (previously the dash defeated these patterns)
+            text = mm.group(2)
+            if re.match(r"^\*?\*?\s*forms with", text, re.I):
                 return False
-            if not re.match(r"^\*?\*?\s*forms with", s, re.I):
-                return True
-            return False
+            if re.match(r"^\*?\*?\s*(?:mem|memory)\s+aid\b\s*:", text, re.I):
+                return False
+            return True
         if not s.startswith(("#", "<", "|")):
             return False
     return False
@@ -1718,10 +1737,11 @@ def split_at_lessons(lines: list[str]) -> tuple[list[str], list[str]]:
     return lines[:mid], lines[mid:]
 
 
-def split_sem2(lines: list[str]) -> tuple[list[str], list[str]]:
-    """Split the semester-2 stream at the '# Chapter IV' heading."""
+def split_at_heading(lines: list[str], prefix: str) -> tuple[list[str], list[str]]:
+    """Split the stream at the first line starting with prefix (that line
+    begins the second half)."""
     for i, l in enumerate(lines):
-        if l.startswith("# Chapter IV"):
+        if l.startswith(prefix):
             return lines[:i], lines[i:]
     return lines, []
 
@@ -1791,6 +1811,219 @@ def fix_ch3_sannaa(lines: list[str]) -> list[str]:
             inside = False
         if inside:
             l = re.sub(r"^(\s*- )\d{1,2}[.)]\s*", r"\1", l)
+        out.append(l)
+    return out
+
+
+_SARA_TYPE_NUM = {
+    "lopa": "1", "adesa": "2", "digha": "3", "agama": "4",
+}
+
+
+def fix_ch3_sara_sandhi(lines: list[str]) -> list[str]:
+    """The 'Sara sandhi is further divided into following categories.'
+    bullet (already promoted to a '###' heading by fix_ch3_topics, or still
+    a raw bullet) becomes a plain '### Sara sandhi' section headed by a
+    '4 types of sara sandhi' bullet, and its type bullets are renumbered
+    1-4: the source listed 1) Lopa, 2) Ādesa, 4) Dīgha, 3) Āgama - a
+    numbering slip with Dīgha and Āgama swapped; the lopa/ādesa/dīgha/āgama
+    order follows the sandhi chart taught in semester 2. The examples under
+    each type stay in place (ASCII-folded type names make the mapping
+    diacritic-proof)."""
+    out: list[str] = []
+    inside = False
+    for l in lines:
+        head = re.match(r"^(?:###\s*|\s*- )Sara sandhi is further divided "
+                        r"into following categories\.?\s*$", l, re.I)
+        if head:
+            out.append("### Sara sandhi")
+            out.append("4 types of sara sandhi")
+            inside = True
+            continue
+        if inside and l.startswith("#"):
+            inside = False
+        m = re.match(r"^(\s*- )(\d+)(\)?\.?\s*)(\S+)(.*)$", l) if inside else None
+        if m:
+            word = re.sub(r"[^\w\u00c0-\u024f]", "",
+                          unicodedata.normalize("NFD", m.group(4))
+                          .encode("ascii", "ignore").decode("ascii").lower())
+            num = _SARA_TYPE_NUM.get(word)
+            if num:
+                l = m.group(1) + num + m.group(3) + m.group(4) + m.group(5).rstrip()
+        out.append(l)
+    return out
+
+
+_GAṆA_NAMES = ("bhūvādigaṇa", "rudhādigaṇa", "divādigaṇa", "svādigaṇa",
+              "kiyādigaṇa", "gahādigaṇa", "tanādigaṇa", "curādigaṇa")
+
+
+def fix_ch3_dhatugana(lines: list[str]) -> list[str]:
+    """Dhātugaṇa section (Chapter III, Lesson 3) clean-up, per user request:
+    the 'Dhātugaṇa (root groups)' bullet sits one level too deep under a
+    vocabulary tail ('Some masculine nouns of ratti-group ending in 'i'') -
+    promote it to a '### Dhātugaṇa (root groups)' heading (only the first
+    occurrence; the word is reused in Lesson 10); its children re-nest under
+    the heading, with 'Curādi group' promoted to a '#### Curādi group'
+    heading to give the group more weight. The hardcoded '1.'-'8.'
+    list-number prefixes of the eight gaṇa bullets are dropped (RemNote list
+    artifacts; the bullets render with their own numbering, as with the
+    saññā definitions)."""
+    gaṇa_num = re.compile(r"^(\s*- )\d{1,2}\. (?=(?:"
+                          + "|".join(_GAṆA_NAMES) + r")\b)")
+    out: list[str] = []
+    i, n = 0, len(lines)
+    while i < n:
+        line = lines[i]
+        if re.match(r"^\s*- Dhātugaṇa \(root groups\)\s*$", line):
+            out.append("")
+            out.append("### Dhātugaṇa (root groups)")
+            i += 1
+            # pull the block under the heading one level shallower; promote
+            # the 'Curādi group' bullet; drop the gaṇa list numbers
+            while i < n:
+                b = BULLET_LINE.match(lines[i])
+                if b and len(b.group(1)) > 2:
+                    text = b.group(2)
+                    if re.match(r"^Curādi\s+group\s*$", text, re.I):
+                        out.append("")
+                        out.append("#### Curādi group")
+                    else:
+                        text = gaṇa_num.sub(r"\1", "- " + text)
+                        out.append(" " * (len(b.group(1)) - 2) + text)
+                    i += 1
+                    continue
+                if not b and lines[i].strip() and not lines[i].lstrip().startswith(
+                        ("|", "<!--", "!")):
+                    break
+                out.append(lines[i])
+                i += 1
+            continue
+        out.append(line)
+        i += 1
+    return out
+
+
+VOCAB_LABEL_BULLET = re.compile(
+    r"^(?P<indent>\s*)- (?:vocab\b[^:]*|Vocabulary)\s*(?::|$)")
+
+
+def fix_ch3_ratti_vocab(lines: list[str]) -> list[str]:
+    """The two ratti-group word lists ('Some masculine nouns of ratti-group
+    ending in 'i'' and 'Some more nouns ending in 'u' of the group ratti')
+    are grammar content, not exercise vocabulary: they stay on the notes
+    page, directly under their lead bullet (the page previously showed only
+    the lead bullet - the list lived in an extracted vocab block). Their
+    'vocab:' label child is dropped; the words keep their glosses.
+    Word bullets are capitalized on output by capitalize_top_bullets."""
+    out: list[str] = []
+    inside = False
+    moved = 0
+    for l in lines:
+        if re.match(r"^\s*- some masculine nouns of ratti-group ending", l, re.I):
+            inside = True
+        elif re.match(r"^\s*- some more nouns ending in ‘u’ of the group ratti\s*$", l, re.I):
+            inside = True
+        elif inside:
+            s = l.strip()
+            if not s:
+                continue  # wrapper blanks
+            if s == VOCAB_END:
+                inside = False
+                continue
+            if s.startswith("<"):
+                continue  # <details open>, <summary>, <!-- VOCAB: ... -->
+            if s.startswith(("#", "|")):
+                inside = False  # heading/table: end of the block, keep it
+            elif not BULLET_LINE.match(l):
+                inside = False  # plain text: end of the block, keep it
+        if inside and VOCAB_LABEL_BULLET.match(l):
+            continue  # drop the 'vocab:' label bullet
+        if inside and l.strip():
+            moved += 1
+        out.append(l)
+    if moved:
+        print(f"fix_ch3_ratti_vocab: kept {moved} word bullets inline")
+    return out
+
+
+def fix_ch3_memaid_wraps(lines: list[str]) -> list[str]:
+    """A 'mem aid:'/'memory aid:' bullet whose mnemonic sits on a single
+    child bullet is rejoined ('mem aid: nom. bhikkhavo, voc. bhikkhave'):
+    RemNote wrapped the mnemonic, but as a child bullet it used to be
+    swallowed into the preceding declension table as a fake case row. Only
+    single-child wraps are touched - genuine mnemonic lists ('mem aid:'
+    followed by 2+ child bullets, e.g. daṇḍī) stay lists."""
+    out: list[str] = []
+    i, n = 0, len(lines)
+    while i < n:
+        m = re.match(r"^(?P<indent>\s*)- (?:mem|memory)\s+aid\s*:\s*$", lines[i])
+        nxt = lines[i + 1] if i + 1 < n else ""
+        cm = re.match(r"^(?P<i2>\s*)- (.+)$", nxt)
+        after = lines[i + 2] if i + 2 < n else ""
+        if (m and cm and len(cm.group("i2")) > len(m.group("indent"))
+                and (not after.strip()
+                     or len(after) - len(after.lstrip()) <= len(cm.group("i2")))):
+            out.append(m.group("indent") + "- mem aid: " + cm.group(2).strip())
+            i += 2
+            continue
+        out.append(lines[i])
+        i += 1
+    return out
+
+
+def fix_ch3_sayambhu_heading(lines: list[str]) -> list[str]:
+    """Standard for the notes pages: every declension table sits under a
+    '### Declension of <word>' heading. The sayambhū table was still
+    introduced by a plain text bullet - promote it to match bhikkhu,
+    daṇḍī, aggi, ... Its children re-nest one level up."""
+    out: list[str] = []
+    i, n = 0, len(lines)
+    while i < n:
+        m = re.match(r"^(?P<indent>\s*)- Declension of sayambhū "
+                     r"\(m\.\) \(rattādigaṇa\)\s*$", lines[i])
+        if not m:
+            out.append(lines[i])
+            i += 1
+            continue
+        indent = len(m.group("indent"))
+        out.append("")
+        out.append("### Declension of sayambhū (m.) (rattādigaṇa)")
+        i += 1
+        while i < n:
+            b = BULLET_LINE.match(lines[i])
+            if b and len(b.group(1)) > indent:
+                out.append(" " * max(0, len(b.group(1)) - 2) + "- " + b.group(2))
+                i += 1
+                continue
+            if (not lines[i].strip()
+                    or lines[i].lstrip().startswith(("|", "<!--", "!"))):
+                out.append(lines[i])
+                i += 1
+                continue
+            break
+    return out
+
+
+def fix_ch3_kitaka(lines: list[str]) -> list[str]:
+    """The word-formation definition bullet is two definitions smashed into
+    one line and reads as plain body text: give it a '### Kitaka' heading
+    (standard topic-heading style of these pages) and split the definitions
+    into separate bullets."""
+    out: list[str] = []
+    for l in lines:
+        m = re.match(r"^(?P<indent>\s*)- primary derivatives \(kitaka\) are "
+                     r"the nouns formed by adding suffixes to roots/stems "
+                     r"secondary derivatives \(taddhita\) are nouns formed by "
+                     r"adding suffixes to nouns\s*$", l, re.I)
+        if m:
+            out.append("")
+            out.append("### Kitaka")
+            out.append("- Primary derivatives (kitaka) are the nouns formed "
+                       "by adding suffixes to roots/stems")
+            out.append("- Secondary derivatives (taddhita) are nouns formed "
+                       "by adding suffixes to nouns")
+            continue
         out.append(l)
     return out
 
@@ -1986,6 +2219,12 @@ def pps() -> None:
             ch_lines = drop_heading_numbers(ch_lines)
             ch_lines = promote_grammar_headings(ch_lines)
             ch_lines = fix_ch3_topics(ch_lines)
+            ch_lines = fix_ch3_dhatugana(ch_lines)
+            ch_lines = fix_ch3_sara_sandhi(ch_lines)
+            ch_lines = fix_ch3_ratti_vocab(ch_lines)
+            ch_lines = fix_ch3_memaid_wraps(ch_lines)
+            ch_lines = fix_ch3_sayambhu_heading(ch_lines)
+            ch_lines = fix_ch3_kitaka(ch_lines)
         part1, part2 = split_at_lessons(ch_lines)
         for part, lines in ((1, part1), (2, part2)):
             if not lines:
@@ -2019,23 +2258,29 @@ def semester2() -> None:
     write_vocab_audit("s2", "vocab-moved-s2.txt")
     parts = split_anchored("\n".join(lines))
     main = parts.get(None, [])
-    part1, part2 = split_sem2(main)
-    write_page(PALI / "semester-2-part1.md",
-               "Pāḷi Pāṭha Sikkhā — Semester II, Part 1 (Chapter III, Lessons 11–17)",
-               "semester-2-part1", strip_anchors(part1), drop_first_h1=True)
-    write_page(PALI / "semester-2-part2.md",
-               "Pāḷi Pāṭha Sikkhā — Semester II, Part 2 (Lessons 18–25, Chapter IV)",
-               "semester-2-part2", strip_anchors(part2), drop_first_h1=True)
-    if "final" in parts:
-        write_page(PALI / "pps-final-exam-1st-year.md",
-                   "Pāḷi Pāṭha Sikkhā — Final Exam (1st Year)",
-                   "pps-final-exam-1st-year", strip_anchors(parts["final"]),
-                   drop_first_h1=True)
-    for old_name in ("semester-2.md",):
+    ch3, ch4 = split_at_heading(main, "# Chapter IV")
+    c3a, c3b = split_at_heading(ch3, "## Lesson 18")
+    c4a, c4b = split_at_heading(ch4, "## Lesson 11 - taddhitanāma")
+    write_page(PALI / "pps-ch3-part3.md",
+               "Pāḷi Pāṭha Sikkhā — Chapter 3, Part 3",
+               "pps-ch3-part3", strip_anchors(c3a), drop_first_h1=True)
+    write_page(PALI / "pps-ch3-part4.md",
+               "Pāḷi Pāṭha Sikkhā — Chapter 3, Part 4",
+               "pps-ch3-part4", strip_anchors(c3b), drop_first_h1=True)
+    write_page(PALI / "pps-ch4-part1.md",
+               "Pāḷi Pāṭha Sikkhā — Chapter 4, Part 1",
+               "pps-ch4-part1", strip_anchors(c4a), drop_first_h1=True)
+    write_page(PALI / "pps-ch4-part2.md",
+               "Pāḷi Pāṭha Sikkhā — Chapter 4, Part 2",
+               "pps-ch4-part2", strip_anchors(c4b), drop_first_h1=True)
+    # final-exam page retired: its unique practice sets were merged into
+    # pps-ch3-part4 (Lesson 23) and pps-ch4-part2 (Lessons 15 & 17)
+    for old_name in ("semester-2.md", "semester-2-part1.md",
+                     "semester-2-part2.md", "pps-final-exam-1st-year.md"):
         old = PALI / old_name
         if old.exists():
             old.unlink()
-            print(f"removed {old_name} (superseded by semester-2-part1/2)")
+            print(f"removed {old_name} (superseded by pps-ch3/ch4 part pages)")
 
 
 def semester3() -> None:
@@ -2219,9 +2464,6 @@ def build_vocab_page() -> None:
 # ---------------------------------------------------------------- summaries.md
 
 NEW_SUMMARIES_BLOCK = """#### Notes on "Pāḷi Pāṭha Sikkhā" by Ven. Vijitānanda
-{pps_links}- [Semester II, Part 1 — Chapter III (Lessons 11–17)](/summaries/pali/semester-2-part1)
-- [Semester II, Part 2 — Chapters III & IV (Lessons 18–25, IV 1–19)](/summaries/pali/semester-2-part2)
-- [Final exam, 1st year](/summaries/pali/pps-final-exam-1st-year)
 - [Chapter III — readings & translation](/summaries/pali/pps-ch3-reading)
 
 #### Niruttidīpaṇī — class notes
@@ -2269,10 +2511,11 @@ NEW_SUMMARIES_BLOCK = """#### Notes on "Pāḷi Pāṭha Sikkhā" by Ven. Vijit�
 
 
 def pps_summary_lines() -> str:
-    """One link per part, with the lesson topics of that part beneath."""
+    """One collapsible block per part: the link is the <summary>, the lesson
+    topics collapse beneath it (details/summary, closed on load)."""
     out: list[str] = []
-    for n in (1, 2, 3):
-        for part in (1, 2):
+    for n in (1, 2, 3, 4):
+        for part in (1, 2, 3, 4):
             fp = PALI / f"pps-ch{n}-part{part}.md"
             if not fp.exists():
                 continue
@@ -2282,8 +2525,12 @@ def pps_summary_lines() -> str:
             lo = re.search(r"Lesson (\d+)", lessons[0]).group(1) if lessons else "?"
             hi = re.search(r"Lesson (\d+)", lessons[-1]).group(1) if lessons else "?"
             rng = f" (Lessons {lo}–{hi})" if lessons else ""
-            out.append(f"- [Chapter {n}, Part {part}{rng}](/summaries/pali/pps-ch{n}-part{part})")
-            out.extend(f"  - {l}" for l in lessons)
+            out.append('<details markdown="1">')
+            out.append(f'<summary><a href="/summaries/pali/pps-ch{n}-part{part}">'
+                       f"Chapter {n}, Part {part}{rng}</a></summary>")
+            out.append("")
+            out.extend(f"- {l}" for l in lessons)
+            out.append("</details>")
             out.append("")
     return "\n".join(out)
 

@@ -10,53 +10,115 @@ Here, you'll find my Dhamma notes and summaries (most still unformatted). These 
 
 ## Pāḷi Language
 #### Notes on "Pāḷi Pāṭha Sikkhā" by Ven. Vijitānanda
-- [Chapter 1, Part 1 (Lessons 1–5)](/summaries/pali/pps-ch1-part1)
-  - Lesson 1 - Alphabet
-  - Lesson 2 - Agent & Action
-  - Lesson 3 - Noun stems and case-endings
-  - Lesson 4 - Object
-  - Lesson 5 - Instrument
+<details markdown="1">
+<summary><a href="/summaries/pali/pps-ch1-part1">Chapter 1, Part 1 (Lessons 1–5)</a></summary>
 
-- [Chapter 1, Part 2 (Lessons 6–10)](/summaries/pali/pps-ch1-part2)
-  - Lesson 6 - Gender and Addressing
-  - Lesson 7 - Dative & Ablative
-  - Lesson 8 - Genitive and Location
-  - Lesson 9 - Purisa
-  - Lesson 10 - Verbs
+- Lesson 1 - Alphabet
+- Lesson 2 - Agent & Action
+- Lesson 3 - Noun stems and case-endings
+- Lesson 4 - Object
+- Lesson 5 - Instrument
+</details>
 
-- [Chapter 2, Part 1 (Lessons 1–7)](/summaries/pali/pps-ch2-part1)
-  - Lesson 1 - Cittādigaṇa
-  - Lesson 2 - Past Tense Verbs
-  - Lesson 3 - Adjectives
-  - Lesson 4 - Kaññādigaṇa
-  - Lesson 5 - Gerund
-  - Lesson 6 - Imperative mood
-  - Lesson 7 - Guṇavādigaṇa
+<details markdown="1">
+<summary><a href="/summaries/pali/pps-ch1-part2">Chapter 1, Part 2 (Lessons 6–10)</a></summary>
 
-- [Chapter 2, Part 2 (Lessons 8–13)](/summaries/pali/pps-ch2-part2)
-  - Lesson 8 - Future tense
-  - Lesson 9 - Missaka kiriyā and gacchantādigaṇa
-  - Lesson 10 - Infinitive and pronouns
-  - Lesson 11 - Optative mood
-  - Lesson 12 - Rattādigaṇa
-  - Lesson 13 - Nominal groups of nadī (nadādigaṇa) and gahapatānī (gahapatādi gaṇa)
+- Lesson 6 - Gender and Addressing
+- Lesson 7 - Dative & Ablative
+- Lesson 8 - Genitive and Location
+- Lesson 9 - Purisa
+- Lesson 10 - Verbs
+</details>
 
-- [Chapter 3, Part 1 (Lessons 1–5)](/summaries/pali/pps-ch3-part1)
-  - Lesson 1 - declension of 'ta', sandhi
-  - Lesson 2 - declension of 'kiṁ', sarasandhi
-  - Lesson 3 - declension of 'aggi', dhātugaṇa
-  - Lesson 4 - declension of 'daṇḍī', bhikkhu, sayambhū
-  - Lesson 5 - declension of 'atta', bhavalakkhaṇa, pubbasaradīghasandhi
+<details markdown="1">
+<summary><a href="/summaries/pali/pps-ch2-part1">Chapter 2, Part 1 (Lessons 1–7)</a></summary>
 
-- [Chapter 3, Part 2 (Lessons 6–10)](/summaries/pali/pps-ch3-part2)
-  - Lesson 6 - declension of 'eta', causative, niggahītasandhi
-  - Lesson 7 - saṅkhyānāma, tulyatthaliṅgatthavākya, yākārādi āgamasandhi, dvebhāvasandhi
-  - Lesson 8 - declension of 'satthu', 'pitu', passive voice
-  - Lesson 9 - manogaṇa, pumādigaṇa
-  - Lesson 10 - conjugation of root √as
-- [Semester II, Part 1 — Chapter III (Lessons 11–17)](/summaries/pali/semester-2-part1)
-- [Semester II, Part 2 — Chapters III & IV (Lessons 18–25, IV 1–19)](/summaries/pali/semester-2-part2)
-- [Final exam, 1st year](/summaries/pali/pps-final-exam-1st-year)
+- Lesson 1 - Cittādigaṇa
+- Lesson 2 - Past Tense Verbs
+- Lesson 3 - Adjectives
+- Lesson 4 - Kaññādigaṇa
+- Lesson 5 - Gerund
+- Lesson 6 - Imperative mood
+- Lesson 7 - Guṇavādigaṇa
+</details>
+
+<details markdown="1">
+<summary><a href="/summaries/pali/pps-ch2-part2">Chapter 2, Part 2 (Lessons 8–13)</a></summary>
+
+- Lesson 8 - Future tense
+- Lesson 9 - Missaka kiriyā and gacchantādigaṇa
+- Lesson 10 - Infinitive and pronouns
+- Lesson 11 - Optative mood
+- Lesson 12 - Rattādigaṇa
+- Lesson 13 - Nominal groups of nadī (nadādigaṇa) and gahapatānī (gahapatādi gaṇa)
+</details>
+
+<details markdown="1">
+<summary><a href="/summaries/pali/pps-ch3-part1">Chapter 3, Part 1 (Lessons 1–5)</a></summary>
+
+- Lesson 1 - declension of 'ta', sandhi
+- Lesson 2 - declension of 'kiṁ', sarasandhi
+- Lesson 3 - declension of 'aggi', dhātugaṇa
+- Lesson 4 - declension of 'daṇḍī', bhikkhu, sayambhū
+- Lesson 5 - declension of 'atta', bhavalakkhaṇa, pubbasaradīghasandhi
+</details>
+
+<details markdown="1">
+<summary><a href="/summaries/pali/pps-ch3-part2">Chapter 3, Part 2 (Lessons 6–10)</a></summary>
+
+- Lesson 6 - declension of 'eta', causative, niggahītasandhi
+- Lesson 7 - saṅkhyānāma, tulyatthaliṅgatthavākya, yākārādi āgamasandhi, dvebhāvasandhi
+- Lesson 8 - declension of 'satthu', 'pitu', passive voice
+- Lesson 9 - manogaṇa, pumādigaṇa
+- Lesson 10 - conjugation of root √as
+</details>
+
+<details markdown="1">
+<summary><a href="/summaries/pali/pps-ch3-part3">Chapter 3, Part 3 (Lessons 11–17)</a></summary>
+
+- Lesson 11 - declension of 'akkhi'
+- Lesson 12 - declension of 'mātā'
+- Lesson 13 - sabbanāmas (pronouns)
+- Lesson 14 - 5 types of nāma, vyañjana sandhi
+- Lesson 15 - sarasandhi (ādesa, dīgha, āgama)
+- Lesson 16 - declension of the pronoun 'sabba'
+- Lesson 17 - kālātipatti (conditional mode)
+</details>
+
+<details markdown="1">
+<summary><a href="/summaries/pali/pps-ch3-part4">Chapter 3, Part 4 (Lessons 18–23)</a></summary>
+
+- Lesson 18 - 'yāva' with the ablative
+- Lesson 20 - 'kho pana'
+- Lesson 21 - atthavatthu compounds
+- Lesson 23 - samāsa
+</details>
+
+<details markdown="1">
+<summary><a href="/summaries/pali/pps-ch4-part1">Chapter 4, Part 1 (Lessons 1–10)</a></summary>
+
+- Lesson 1–3 - active and passive voice sentences
+- Lesson 4 - hīyattanī and parokkhā ākhyāta vibhatti
+- Lesson 5 - conjugation of the bhūvādigaṇa
+- Lesson 6 - conjugation of the rudhādigaṇa
+- Lesson 7 - conjugation of divādigaṇa
+- Lesson 8 - kiyādigaṇa and gahādigaṇa
+- Lesson 9 - tanoti
+- Lesson 10 - curādigaṇa
+</details>
+
+<details markdown="1">
+<summary><a href="/summaries/pali/pps-ch4-part2">Chapter 4, Part 2 (Lessons 11–19)</a></summary>
+
+- Lesson 11 - taddhitanāma and apaccataddhita
+- Lesson 12 - anekatthataddhita
+- Lesson 13 - assatthitaddhita, saṅkhyātaddhita
+- Lesson 14 - abyayataddhita and bhāvataddhita
+- Lesson 15 - svatthataddhita / sakatthataddhita
+- Lesson 16 - kitaka and sādhana
+- Lesson 17 - kitakapaccayas in various sādhana, itthijotikapaccaya
+- Lesson 18–19 - kāraka
+</details>
 - [Chapter III — readings & translation](/summaries/pali/pps-ch3-reading)
 
 #### Niruttidīpaṇī — class notes
