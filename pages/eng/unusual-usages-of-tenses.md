@@ -64,10 +64,26 @@ Sometimes, non-future tenses are used to express future actions, especially if t
     - *She said she **would call** later.* (from "I will call later")
     - *I thought he **was going to arrive** yesterday.* (from "He is going to arrive today," said yesterday)
 
+#### Less common but grammatically correct tenses
+
+While not strictly "unusual" in terms of deviation from time reference, these tenses are less frequently encountered in everyday speech due to their complex structure or specific meaning.
+
+- **Future Perfect Continuous**: describes an action that will have been ongoing up to a specific point in the future.
+    - *By Christmas, I **will have been studying** French for five years.*
+
+#### Present Perfect in past meaning
+
+With modal verbs of deduction, the present perfect form refers to past time:
+
+- *He **might have taken** the other train yesterday.*
+- *She **must have been** there an hour ago.*
+
 #### "Could" in present meaning
 
 - *He **could** be hurt (now). Maybe he is hurt.*
 - *If only I **could** go now.* (expressing a wish)
+
+
 
 #### In conditionals
 

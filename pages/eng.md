@@ -77,6 +77,7 @@ Organized by level, following the [grammar contents of Test-English.com](https:/
 - [**Present Simple vs. Perfect in Future Time Clauses**](/summaries/eng/present-simple-vs-perfect-in-future-time-clauses)
 - [**Article Position with Pretty, Fairly, Rather, and Quite**](/summaries/eng/article-position-with-pretty-fairly-rather-quite)
 - [**Adverb Position**](/summaries/eng/adverb-position)
+- [**B1+ vs B2 Lessons: Shared, Unique, and What Gets Added**](/summaries/eng/b1-plus-vs-b2-lessons)
 
 ### B2 Level
 
@@ -84,9 +85,16 @@ Organized by level, following the [grammar contents of Test-English.com](https:/
 - [**Participial Clauses**](/summaries/eng/participial-clauses)
 - [**Absolute Phrases**](/summaries/eng/absolute-phrases)
 
+### Specific Levels
+
+- [**All Conditionals: 0, 1st, 2nd, 3rd, and Mixed**](/summaries/eng/all-conditionals)
+
 ### C1 Level
+
 ### C2 Level
+
 - [**May well vs. May as well**](/summaries/eng/may-well-vs-may-as-well)
+
 ### Specific Topics
 
 Notes that cover a topic across several levels.
@@ -105,8 +113,10 @@ Notes that cover a topic across several levels.
 - [**Most vs. Mostly**](/summaries/eng/most-vs-mostly)
 - [**Comma with "Sometimes"**](/summaries/eng/comma-with-sometimes)
 - [**"In common with" vs. "Common to"**](/summaries/eng/common-with-vs-common-to)
+- [**Base vs. Basis**](/summaries/eng/base-vs-basis)
 - [**Some Confusing Verbs**](/summaries/eng/confusing-verbs)
 - [**Refining Common Adjectives**](/summaries/eng/refining-common-adjectives)
+- [**Common Sayings / Expressions / Proverbs**](/summaries/eng/common-sayings)
 - [**Animals and Their Onomatopoeia**](/summaries/eng/onomatopoeia)
 - [**Expressions with Infinitive and -Ing**](/summaries/eng/expressions-with-infinitive-and-ing)
 
