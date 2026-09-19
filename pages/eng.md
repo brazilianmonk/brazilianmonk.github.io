@@ -43,6 +43,16 @@ This is a website / app that can help you learn the basics and get exposed to th
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
+### **Oxford Vocabulary Lists**
+
+The official word lists used in the course, hosted by [Oxford Learner's Dictionaries](https://www.oxfordlearnersdictionaries.com/):
+
+- [**Oxford 3000 and 5000**](https://www.oxfordlearnersdictionaries.com/wordlists/oxford3000-5000): the most important words to learn in English, organized according to the CEFR levels.
+- [**Oxford Phrase List**](https://www.oxfordlearnersdictionaries.com/wordlists/oxfordphraselist): the most important phrases to learn in English.
+- [**OPAL -- Oxford Phrasal Academic Lexicon**](https://www.oxfordlearnersdictionaries.com/wordlists/opal): the most important and useful words and phrases for academic English, in four lists (written single words, written phrases, spoken single words, and spoken phrases). This is the list used in the higher semesters of the course, at ~150 items per week.
+
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+
 ## Quizzes
 
 - [📈 **Practice Irregular Verbs**](/assets/irregular_verbs.html)
@@ -85,20 +95,15 @@ Organized by level, following the [grammar contents of Test-English.com](https:/
 - [**Participial Clauses**](/summaries/eng/participial-clauses)
 - [**Absolute Phrases**](/summaries/eng/absolute-phrases)
 
-### Specific Levels
-
-- [**All Conditionals: 0, 1st, 2nd, 3rd, and Mixed**](/summaries/eng/all-conditionals)
-
 ### C1 Level
-
-### C2 Level
 
 - [**May well vs. May as well**](/summaries/eng/may-well-vs-may-as-well)
 
 ### Specific Topics
-
+	
 Notes that cover a topic across several levels.
 
+- [**All Conditionals: 0, 1st, 2nd, 3rd, and Mixed**](/summaries/eng/all-conditionals)
 - [**Structure of All Tenses**](/summaries/eng/all-tenses)
 - [**Unusual Usages of Tenses**](/summaries/eng/unusual-usages-of-tenses)
 - [**Present Perfect Continous Passive**: not used](/summaries/eng/present-perfect-continuous-passive)
@@ -120,10 +125,30 @@ Notes that cover a topic across several levels.
 - [**Animals and Their Onomatopoeia**](/summaries/eng/onomatopoeia)
 - [**Expressions with Infinitive and -Ing**](/summaries/eng/expressions-with-infinitive-and-ing)
 
---- 
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
-### Pronunciation
+## Pronunciation
+
 - [**Tongue Twisters**](/summaries/eng/tongue-twisters)
 - [**Difficult Words**](/summaries/eng/difficult-words)
 
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+
+## The IIT English Language Course
+
+The English language course taught at the International Institute of Theravāda (IIT): a structured program that takes students from the basics (A1) to an advanced level (C1), following the Common European Framework of Reference for Languages (CEFR), with grammar, vocabulary, reading, listening, writing, speaking, and pronunciation.
+
+- [📖 **Student Handbook**](/summaries/eng/e): everything students need to know about the course -- the course outline per semester, the grading method (how writings are graded, participation, passing grade, and the repeat-protocol), serious writing mistakes to avoid, taboo words, writing topics per level, the OPAL vocabulary schedule, and the listening homework.
+
 {% include toc.html %}
+
+
+
+| 1 |   |    |
+|   |   |    |
+|   |   | df |
+|   |   |    |
+|   |   |    |
+|   |   |    |
+|   |   |    |
+|   |   |    |
