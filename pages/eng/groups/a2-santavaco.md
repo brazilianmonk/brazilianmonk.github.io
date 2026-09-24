@@ -1,10 +1,10 @@
 ---
 layout: page
 title: A2 Group -- Thailand Santavāco
-permalink: /summaries/eng/for-english-teachers/groups/a2-santavaco
+permalink: /english/for-english-teachers/groups/a2-santavaco
 ---
 
-[← Resources for English Teachers](/summaries/eng/for-english-teachers)
+[← Resources for English Teachers](/english/for-english-teachers)
 
 {% include toc.html %}
 
@@ -55,12 +55,12 @@ Students with an A2 level are listed here; confirm the current composition of th
     -   Paviveko
     -   Katapuñño
 
-Both students also attend the [A2 lessons with Bhante Sumitto](/summaries/eng/for-english-teachers/groups/a2-sumitto). Confirm the current composition in class.
+Both students also attend the [A2 lessons with Bhante Sumitto](/english/for-english-teachers/groups/a2-sumitto). Confirm the current composition in class.
 
 ## Grades
 
 -   **Current semester**: *(to be filled in)*
--   **Past grades**: [3rd year, 2nd semester -- final grades](/summaries/eng/3y-2s-final-grades) (this group's grades are in the main body of the tables)
+-   **Past grades**: [3rd year, 2nd semester -- final grades](/english/for-english-teachers/3y-2s-final-grades) (this group's grades are in the main body of the tables)
 
 ## Group-Specific Information
 
@@ -90,6 +90,6 @@ Use one table per month/semester for attendance; duplicate it for homework track
 
 ## Other Groups
 
--   [B1+ Group -- Brazil Ariyañāṇa](/summaries/eng/for-english-teachers/groups/b1-plus)
--   [A2 Group -- Laos Sumitto](/summaries/eng/for-english-teachers/groups/a2-sumitto)
--   [A Group (Vocabulary) -- Laos Abhaddharo](/summaries/eng/for-english-teachers/groups/a-abhaddharo)
+-   [B1+ Group -- Brazil Ariyañāṇa](/english/for-english-teachers/groups/b1-plus)
+-   [A2 Group -- Laos Sumitto](/english/for-english-teachers/groups/a2-sumitto)
+-   [A Group (Vocabulary) -- Laos Abhaddharo](/english/for-english-teachers/groups/a-abhaddharo)

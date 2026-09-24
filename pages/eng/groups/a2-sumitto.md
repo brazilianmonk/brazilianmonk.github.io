@@ -1,10 +1,10 @@
 ---
 layout: page
 title: A2 Group -- Laos Sumitto
-permalink: /summaries/eng/for-english-teachers/groups/a2-sumitto
+permalink: /english/for-english-teachers/groups/a2-sumitto
 ---
 
-[← Resources for English Teachers](/summaries/eng/for-english-teachers)
+[← Resources for English Teachers](/english/for-english-teachers)
 
 {% include toc.html %}
 
@@ -64,7 +64,7 @@ The roster recorded in class for these lessons:
 </tbody>
 </table>
 
-Most of these students also attend the [B1+ group with Brazil Ariyañāṇa](/summaries/eng/for-english-teachers/groups/b1-plus); Katapuñño and Paviveko also attend the [A2 lessons with Āvuso Santavāco](/summaries/eng/for-english-teachers/groups/a2-santavaco). Confirm the current composition in class.
+Most of these students also attend the [B1+ group with Brazil Ariyañāṇa](/english/for-english-teachers/groups/b1-plus); Katapuñño and Paviveko also attend the [A2 lessons with Āvuso Santavāco](/english/for-english-teachers/groups/a2-santavaco). Confirm the current composition in class.
 
 ## Grades
 
@@ -90,6 +90,6 @@ Use one table per month/semester for attendance; duplicate it for homework track
 
 ## Other Groups
 
--   [B1+ Group -- Brazil Ariyañāṇa](/summaries/eng/for-english-teachers/groups/b1-plus)
--   [A2 Group -- Thailand Santavāco](/summaries/eng/for-english-teachers/groups/a2-santavaco)
--   [A Group (Vocabulary) -- Laos Abhaddharo](/summaries/eng/for-english-teachers/groups/a-abhaddharo)
+-   [B1+ Group -- Brazil Ariyañāṇa](/english/for-english-teachers/groups/b1-plus)
+-   [A2 Group -- Thailand Santavāco](/english/for-english-teachers/groups/a2-santavaco)
+-   [A Group (Vocabulary) -- Laos Abhaddharo](/english/for-english-teachers/groups/a-abhaddharo)

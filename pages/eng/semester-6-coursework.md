@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Semester 6 Coursework (3rd Year, 2nd Semester)
-permalink: /summaries/eng/semester-6-coursework
+permalink: /english/for-english-students/semester-6-coursework
 ---
 
-The coursework of the 6th semester -- the final semester of the [Foundational Course](/summaries/eng/e#foundational-course-3-years--6-semesters). Dates and full instructions are announced in class.
+The coursework of the 6th semester -- the final semester of the [Foundational Course](/english/for-english-students#foundational-course-3-years--6-semesters). Dates and full instructions are announced in class.
 
 ## Creative Writing
 

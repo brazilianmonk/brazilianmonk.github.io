@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /summaries/eng/so-that
+permalink: /english/summaries/so-that
 ---
 
 ### "So that..."

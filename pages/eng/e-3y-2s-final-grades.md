@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /summaries/eng/3y-2s-final-grades
+permalink: /english/for-english-teachers/3y-2s-final-grades
 ---
 
 # Year 3 Semester 2 -- Final Grades -- IIT English Language Course

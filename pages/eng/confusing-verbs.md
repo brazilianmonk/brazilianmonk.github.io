@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /summaries/eng/confusing-verbs
+permalink: /english/summaries/confusing-verbs
 ---
 
 ### Some Confusing Verbs

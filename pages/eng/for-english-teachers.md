@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Resources for English Teachers
-permalink: /summaries/eng/for-english-teachers
+permalink: /english/for-english-teachers
 ---
 
 A collection of resources for the teachers of the IIT English Language Course: suggestions on how to teach and how to make tests, the exam heading, the question bank, listening material, student lists, past grades, and the class groups.
 
-Student-facing material (course handbook, writing topics, taboo words, OPAL schedule) lives on the [**Student Handbook**](/summaries/eng/e) page.
+Student-facing material (course handbook, writing topics, taboo words, OPAL schedule) lives on the [**Student Handbook**](/english/for-english-students) page.
 
 {% include toc.html %}
 
@@ -24,8 +24,8 @@ Student-facing material (course handbook, writing topics, taboo words, OPAL sche
 - Gradually increase the difficulty and speed
 
 #### Resources
-- [**Tongue Twisters**](/summaries/eng/tongue-twisters)
-- [**Difficult Words**](/summaries/eng/difficult-words)
+- [**Tongue Twisters**](/english/summaries/tongue-twisters)
+- [**Difficult Words**](/english/summaries/difficult-words)
 
 ### Speaking
 
@@ -36,9 +36,9 @@ Student-facing material (course handbook, writing topics, taboo words, OPAL sche
 
 ### Writing
 
-- Teach structure first: sentence → paragraph → text; use the [**Serious Writing Mistakes**](/summaries/eng/serious-writing-mistakes) list as a core correction reference.
-- Choose topics according to the student's level: see [Writing Topics According to Level](/summaries/eng/e#writing-topics-according-to-level) in the Student Handbook.
-- Enforce the [**Tabooed Words**](/summaries/eng/e#tabooed-words) for the student's level to push vocabulary sophistication.
+- Teach structure first: sentence → paragraph → text; use the [**Serious Writing Mistakes**](/english/summaries/serious-writing-mistakes) list as a core correction reference.
+- Choose topics according to the student's level: see [Writing Topics According to Level](/english/for-english-students#writing-topics-according-to-level) in the Student Handbook.
+- Enforce the [**Tabooed Words**](/english/for-english-students#tabooed-words) for the student's level to push vocabulary sophistication.
 - Grade writings with the rubric in [How to Grade a Writing](#how-to-grade-a-writing).
 
 ---
@@ -46,7 +46,7 @@ Student-facing material (course handbook, writing topics, taboo words, OPAL sche
 
 ### How to Grade a Writing
 
-Evaluate grammar **according to the student's level** (a B1 student is not penalized for not using C1 structures). The components below are the same at every level; the **weights vary per level** -- A levels emphasize grammar (50%), and the weight gradually shifts toward structure, reasoning, insight, and originality as students advance -- as defined in the [Writing Grading System](/summaries/eng/e#writing-grading-system) of the Student Handbook:
+Evaluate grammar **according to the student's level** (a B1 student is not penalized for not using C1 structures). The components below are the same at every level; the **weights vary per level** -- A levels emphasize grammar (50%), and the weight gradually shifts toward structure, reasoning, insight, and originality as students advance -- as defined in the [Writing Grading System](/english/for-english-students#writing-grading-system) of the Student Handbook:
 
 | Component | Weight | What is evaluated |
 |---|---|---|
@@ -70,7 +70,7 @@ If a student does not reach the ideal passing grade:
 
 ### An Example of Final Grade Composition
 
-How the global result is composed in practice (3rd year, 2nd semester): Participation /100 → ×40%; Academic Total (vocab tests, listening, mid-term, final exam) /100 → ×60%; Bonus +1–3% for exceptional work; ideal passing grade 70%. Per-component weights vary per student according to join date and attendance frequency (e.g. late joiners: mid-term 30% + final 70%). Full tables: [3rd year 2nd semester final grades](/summaries/eng/3y-2s-final-grades).
+How the global result is composed in practice (3rd year, 2nd semester): Participation /100 → ×40%; Academic Total (vocab tests, listening, mid-term, final exam) /100 → ×60%; Bonus +1–3% for exceptional work; ideal passing grade 70%. Per-component weights vary per student according to join date and attendance frequency (e.g. late joiners: mid-term 30% + final 70%). Full tables: [3rd year 2nd semester final grades](/english/for-english-teachers/3y-2s-final-grades).
 
 ---
 ## Suggested Exams by Type
@@ -81,10 +81,10 @@ How the global result is composed in practice (3rd year, 2nd semester): Particip
     -   Spelling (as in a Spelling Bee).
     -   For higher levels: phrasal verbs and idiomatic phrases.
 -   **Grammar Test**
-    -   Draw questions from the [Question Bank](/summaries/eng/for-english-teachers/question-bank) according to level and lesson.
+    -   Draw questions from the [Question Bank](/english/for-english-teachers/question-bank) according to level and lesson.
     -   Mid-term: half of the semester's lessons; Final: all of them.
 -   **Writing Test**
-    -   One topic according to the student's level (see [Writing Topics According to Level](/summaries/eng/e#writing-topics-according-to-level)).
+    -   One topic according to the student's level (see [Writing Topics According to Level](/english/for-english-students#writing-topics-according-to-level)).
     -   Minimum length required; graded with the [writing rubric](#how-to-grade-a-writing).
 -   **Speaking Test**
     -   Lower levels: reading aloud, describing a picture, answering simple questions.
@@ -185,7 +185,7 @@ Heading to be used **at the beginning of each exam paper**. The example below is
 </table>
 
 ---
-## [Question Bank](/summaries/eng/for-english-teachers/question-bank)
+## [Question Bank](/english/for-english-teachers/question-bank)
 
 Question bank organized according to level and lesson, based on the test-english.com lesson structure. More exercises are collected in `more-questions-for-the-question-bank.md` (repo source: [pages/eng/more-questions-for-the-question-bank.md](https://github.com/brazilianmonk/brazilianmonk.github.io/blob/gh-pages/pages/eng/more-questions-for-the-question-bank.md)).
 
@@ -255,17 +255,17 @@ Students are organized into four groups according to the name of the teacher. Ea
 
 | Group | Level | Teacher | Group Page |
 |---|---|---|---|
-| B1+ | B1+ / B2+ | **Brazil Ariyañāṇa** | [B1+ Group](/summaries/eng/for-english-teachers/groups/b1-plus) |
-| A2 (Thailand) | A2 | **Thailand Santavāco** | [A2 Group -- Thailand Santavāco](/summaries/eng/for-english-teachers/groups/a2-santavaco) |
-| A2 (Laos) | A2 | **Laos Sumitto** | [A2 Group -- Laos Sumitto](/summaries/eng/for-english-teachers/groups/a2-sumitto) |
-| A | A vocabulary | **Laos Abhaddharo** | [A Group -- Laos Abhaddharo](/summaries/eng/for-english-teachers/groups/a-abhaddharo) |
+| B1+ | B1+ / B2+ | **Brazil Ariyañāṇa** | [B1+ Group](/english/for-english-teachers/groups/b1-plus) |
+| A2 (Thailand) | A2 | **Thailand Santavāco** | [A2 Group -- Thailand Santavāco](/english/for-english-teachers/groups/a2-santavaco) |
+| A2 (Laos) | A2 | **Laos Sumitto** | [A2 Group -- Laos Sumitto](/english/for-english-teachers/groups/a2-sumitto) |
+| A | A vocabulary | **Laos Abhaddharo** | [A Group -- Laos Abhaddharo](/english/for-english-teachers/groups/a-abhaddharo) |
 
 ---
 ## Past Class Grades
 
 -   **3rd year, 1st semester**: [grades](https://rb.gy/yvxb04)
--   **3rd year, 2nd semester**: [final grades](/summaries/eng/3y-2s-final-grades) -- participation (attendance & attitude), vocabulary tests, listening, mid-term, final exam (vocabulary, writing, grammar), academic results, and global results.
--   **4th year, 1st semester**: [final grades](/summaries/eng/4y-1s-final-grades) -- vocabulary, reading comprehension ("The Boy in the Striped Pajamas", John Boyne), writing, grammar, and global totals (10% Vocab + 10% R.C. + 10% Writing + 70% Grammar), with a passing grade of 60.
+-   **3rd year, 2nd semester**: [final grades](/english/for-english-teachers/3y-2s-final-grades) -- participation (attendance & attitude), vocabulary tests, listening, mid-term, final exam (vocabulary, writing, grammar), academic results, and global results.
+-   **4th year, 1st semester**: [final grades](/english/for-english-teachers/4y-1s-final-grades) -- vocabulary, reading comprehension ("The Boy in the Striped Pajamas", John Boyne), writing, grammar, and global totals (10% Vocab + 10% R.C. + 10% Writing + 70% Grammar), with a passing grade of 60.
 -   Per-group summaries are on each [group page](#english-groups).
 
 ---

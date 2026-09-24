@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /summaries/eng/refining-common-adjectives
+permalink: /english/summaries/refining-common-adjectives
 ---
 
 ### Refining Common Adjectives

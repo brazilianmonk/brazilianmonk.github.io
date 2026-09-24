@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /summaries/eng/absolute-phrases
+permalink: /english/summaries/absolute-phrases
 ---
 
 ## What is an Absolute Phrase?

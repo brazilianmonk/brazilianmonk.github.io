@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /summaries/eng/lay-down-vs-lie-down
+permalink: /english/summaries/lay-down-vs-lie-down
 ---
 
 ### Lay down vs. Lie down

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /summaries/eng/gerund-vs-present-participle
+permalink: /english/summaries/gerund-vs-present-participle
 ---
 
 ## Gerund vs Present Participle

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: A Group (Vocabulary) -- Laos Abhaddharo
-permalink: /summaries/eng/for-english-teachers/groups/a-abhaddharo
+permalink: /english/for-english-teachers/groups/a-abhaddharo
 ---
 
-[← Resources for English Teachers](/summaries/eng/for-english-teachers)
+[← Resources for English Teachers](/english/for-english-teachers)
 
 {% include toc.html %}
 
@@ -47,7 +47,7 @@ This group is dedicated to **A vocabulary**. Students are listed below; confirm 
 -   **Students**:
     -   Paviveko
 
-Paviveko also attends the [A2 lessons with Bhante Sumitto](/summaries/eng/for-english-teachers/groups/a2-sumitto) and the [A2 lessons with Āvuso Santavāco](/summaries/eng/for-english-teachers/groups/a2-santavaco). Confirm the current composition in class.
+Paviveko also attends the [A2 lessons with Bhante Sumitto](/english/for-english-teachers/groups/a2-sumitto) and the [A2 lessons with Āvuso Santavāco](/english/for-english-teachers/groups/a2-santavaco). Confirm the current composition in class.
 
 ## Grades
 
@@ -73,6 +73,6 @@ Use one table per month/semester for attendance; duplicate it for homework or vo
 
 ## Other Groups
 
--   [B1+ Group -- Brazil Ariyañāṇa](/summaries/eng/for-english-teachers/groups/b1-plus)
--   [A2 Group -- Thailand Santavāco](/summaries/eng/for-english-teachers/groups/a2-santavaco)
--   [A2 Group -- Laos Sumitto](/summaries/eng/for-english-teachers/groups/a2-sumitto)
+-   [B1+ Group -- Brazil Ariyañāṇa](/english/for-english-teachers/groups/b1-plus)
+-   [A2 Group -- Thailand Santavāco](/english/for-english-teachers/groups/a2-santavaco)
+-   [A2 Group -- Laos Sumitto](/english/for-english-teachers/groups/a2-sumitto)

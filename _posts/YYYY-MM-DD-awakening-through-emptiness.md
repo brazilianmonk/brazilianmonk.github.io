@@ -1,0 +1,64 @@
+---
+layout: post
+title: "Awakening Through Emptiness"
+author: Brazil Ariyañāṇa Bhikkhu
+categories: Meditation
+tags: [Samatha (concentration), Vipassanā (insight), Emptiness (suññatā), Nibbāna, Space (ākāsa), Absence]
+image: 
+---
+
+
+{% include youtube.html id="vs3AihUmb0k" list="PLGXmpHceJ17dZ2OxbXs1vvhEJW5AlVCfx" title="Awakening Through Emptiness" %}
+
+## 🇬🇧 Awakening Through Emptiness: A Path to Liberation
+
+In this talk, I anchor myself on the term "emptiness" and I apply it in various ways, with some flexibility, in order to show the different stages of meditative development. Emptiness here is taken in a broader sense, as the absence of something, be it a reality or a concept, and is not limited to the usual topics of the non-self characteristic or of Nibbāna.
+
+### The Training in Concentration
+#### 1. "Emptiness" of Materiality
+
+The absence of material things, in an ordinary sense, constitutes the concept of space (**ākāsa**). This concept of space can be used as a meditation subject to develop concentration in order to remove the mental hindrances. This includes:
+* **Ākāsa Kasiṇa:** By attending to ordinary empty spaces such as wells, windows, caves, etc. as "space", we are able to develop and attain the fine-material absorptions (*rūpajhāna*).
+* **Kasiṇugghāṭimākāsa:** Through kasiṇas other than space itself, a meditator is able to attend to the space occupied by the counterpart-sign of the kasiṇa (*kasiṇapaṭibhāganimitta*) and acquire a new type of space as object called **kasiṇugghātimākāsa**, allowing the meditator to progress to the base of infinite space (*ākāsānañcāyatana), the first immaterial attainment (*arūpajhāna*). 
+* **Absence of a previous consciousness:** After the base of infinite consciousness (*viññāṇañcāyatana*), by attending to the absence of consciousness that constitutes the first immaterial attainment, the meditator can acquired a new object based on that absence and achieve the third immaterial attainment, the *ākiñcaññāyatana*. This is the absence of a previous consciousness.
+
+### The Training in Wisdom
+#### 2. Analytical Insight (*Vipassanā*)
+
+* **Ākāsadhātu:** Entering the training of wisdom, one must analyze material realities, which include the the element of space (*ākāsadhātu*). This is the space that exists between material particles (*rūpakalāpas*). This type of space is not a concept but a derived materiality.
+
+* **Conditional Absence:** Understanding that for one mental state to arise, the absence of the previous one is a necessary condition. The previous mental state must vanish and be absent in order for the next to occur. This is discussed under the conditional relationships as Absence Condition (*natthipaccaya*)  and Dissappearance Condition (*vigatapaccaya*).
+
+#### 3. The Characteristic of Non-Self (*Anattā*)
+
+This is the core Buddhist meaning of emptiness: all phenomena are marked by the characteristic of being empty or void of a self (*atta: self; anattā: non-self*). Self here would be a permanent, stable entity that does, feels, decides, and acts. No phenomena is such.
+
+#### 4. Misinterpretations of Emptiness
+
+Emptiness, being a subtle and abstruse characteristic, can be easily misunderstood. One of its misinterpretations was proposed by Nagarjuna, around 7-8 centuries after the Buddha's passing, stating that realities are void of existence altogether. This conclusion took him out of the Buddha's teachings into a wrong pernicious view that survived until today in some Buddhist traditions. According to the Buddha, realities do exist, suffering does exist, the cause of suffering does exist, the cessation of suffering does exist, and the path leading to the cessation of suffering does exist. Only what exists can be understood penetratively with pariññā. Only what exists can be eradicated. Only what exists can be experienced through wisdom. Only what exists can be aroused, strengthened, and developed. Realities are empty of a permanent, unchanging self, not of existence.
+
+#### 5. The Highest Emptiness: *Nibbāna*
+
+Ultimately, *Nibbāna* is the highest emptiness, since it is empty of:
+* **Defilements** and **craving**.
+* **Hardships** and **difficulties** (*palibodha*).
+* **Impermanence** and **suffering**.
+
+
+### Concluding Remarks
+
+Therefore, "emptiness" or "absence":
+- of ordinary spatial objects is the Concept of Space (*ākāsakasiṇa*)
+- of the counterpart-sign is the Concept of Space Acquired by Removing the Kasiṇa (**kasiṇugghāṭimākāsa**)
+- of the previous consciousness is the Concept Of Nothingness (*ākiñcaññāyatana*)
+- of rūpakalāpas is the Element Of Space (*ākāsadhātu*)
+- of previous mental states is the Absence Condition (*natthipaccaya*) or Disappearance Condition (*vigatapaccaya*)
+- of a permanent, unchanging self is the Characteristic of Non-self (*anattalakkhaṇa*)
+- of hardships is a Characteristic of Nibbāna (*suññatā*)
+
+By means of proper self-development, it is possible to personally realize and verify these types of emptiness and reach the most superior one, Nibbāna, upon which defilements are completely abandoned and the suffering of the round of rebirths is put to a halt once and for all. 
+
+   
+   
+   
+   

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /summaries/eng/how-come
+permalink: /english/summaries/how-come
 ---
 ### How come
 

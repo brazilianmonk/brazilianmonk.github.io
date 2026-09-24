@@ -1,7 +1,7 @@
 ---
 layout: page
 title: May well vs. May as well
-permalink: /summaries/eng/may-well-vs-may-as-well
+permalink: /english/summaries/may-well-vs-may-as-well
 ---
 
 ### 1. "May Well"

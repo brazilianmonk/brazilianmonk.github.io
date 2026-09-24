@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /summaries/eng/meanings-of-for
+permalink: /english/summaries/meanings-of-for
 ---
 
 ### Meanings of "for"

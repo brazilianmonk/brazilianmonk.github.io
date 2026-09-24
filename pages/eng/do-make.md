@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /summaries/eng/do-make
+permalink: /english/summaries/do-make
 ---
 
 ### Do, make, make do, do make!

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Difficult Words
-permalink: /summaries/eng/difficult-words
+permalink: /english/summaries/difficult-words
 ---
 
 ## A level

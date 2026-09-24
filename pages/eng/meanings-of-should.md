@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /summaries/eng/meanings-of-should
+permalink: /english/summaries/meanings-of-should
 ---
 
 ### Meanings of "Should"

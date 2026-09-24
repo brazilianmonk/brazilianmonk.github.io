@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Article Position with Pretty, Fairly, Rather, and Quite
-permalink: /summaries/eng/article-position-with-pretty-fairly-rather-quite
+permalink: /english/summaries/article-position-with-pretty-fairly-rather-quite
 ---
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">

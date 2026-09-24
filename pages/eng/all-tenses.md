@@ -1,7 +1,7 @@
 ---
 layout: page
 title: All Tenses
-permalink: /summaries/eng/all-tenses
+permalink: /english/summaries/all-tenses
 ---
 
 # Structure of all tenses in both active and passive voices

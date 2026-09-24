@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Adverb Position
-permalink: /summaries/eng/adverb-position
+permalink: /english/summaries/adverb-position
 ---
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">

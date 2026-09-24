@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /summaries/eng/comma-with-sometimes
+permalink: /english/summaries/comma-with-sometimes
 ---
 
 ### Comma with "sometimes"

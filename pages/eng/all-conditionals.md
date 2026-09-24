@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /summaries/eng/all-conditionals
+permalink: /english/summaries/all-conditionals
 ---
 
 ## All Conditionals

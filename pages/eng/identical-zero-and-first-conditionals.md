@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /summaries/eng/identical-zero-and-first-conditionals
+permalink: /english/summaries/identical-zero-and-first-conditionals
 ---
 
 ### Identical Zero and 1st Conditional

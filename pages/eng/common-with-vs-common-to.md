@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /summaries/eng/common-with-vs-common-to
+permalink: /english/summaries/common-with-vs-common-to
 ---
 
 ### "In common with" vs. "Common to"

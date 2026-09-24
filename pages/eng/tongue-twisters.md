@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tongue Twisters
-permalink: /summaries/eng/tongue-twisters
+permalink: /english/summaries/tongue-twisters
 ---
 
 ## T

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /summaries/eng/unusual-usages-of-tenses
+permalink: /english/summaries/unusual-usages-of-tenses
 ---
 
 ### Unusual Usages of Tenses

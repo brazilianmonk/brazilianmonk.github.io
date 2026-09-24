@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /summaries/eng/serious-writing-mistakes
+permalink: /english/summaries/serious-writing-mistakes
 ---
 
 ## Serious Writing Mistakes

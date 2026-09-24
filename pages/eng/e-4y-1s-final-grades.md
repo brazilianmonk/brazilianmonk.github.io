@@ -1,11 +1,11 @@
 ---
 layout: page
-permalink: /summaries/eng/4y-1s-final-grades
+permalink: /english/for-english-teachers/4y-1s-final-grades
 ---
 
 # 4th Year, 1st Semester -- Final Grades -- IIT English Language Course
 
-[← Resources for English Teachers](/summaries/eng/for-english-teachers)
+[← Resources for English Teachers](/english/for-english-teachers)
 
 ## Vocabulary
 

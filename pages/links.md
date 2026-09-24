@@ -99,7 +99,7 @@ Un proyecto de traducción del Digital Pāḷi Dictionary (Bhante Sri Lanka Bodh
 Esta pagina ofrece traducciones de suttas al Español.
 
 ## 🏛️ Theravāda Monasteries
-
+	
 📊 **[View complete Theravāda Monastery Directory](/monasteries)** -- filter by country, language, and area of focus.
 
 Theravāda Buddhist Monasteries known to maintain the Theravāda Vinaya and traditional Tipiṭaka heritage.

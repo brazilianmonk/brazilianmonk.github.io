@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Present Simple vs Perfect in Future Time Clauses
-permalink: /summaries/eng/present-simple-vs-perfect-in-future-time-clauses
+permalink: /english/summaries/present-simple-vs-perfect-in-future-time-clauses
 ---
 
 Future Time Clauses have a structure similar to that of the 1st Conditional (Present → Future/Modal/Imperative) and can be formed with the Present Simple, Present Continuous, or Present Perfect.

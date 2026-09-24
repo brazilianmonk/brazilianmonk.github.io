@@ -1,10 +1,10 @@
 ---
 layout: page
 title: B1+ Group -- Brazil Ariyañāṇa
-permalink: /summaries/eng/for-english-teachers/groups/b1-plus
+permalink: /english/for-english-teachers/groups/b1-plus
 ---
 
-[← Resources for English Teachers](/summaries/eng/for-english-teachers)
+[← Resources for English Teachers](/english/for-english-teachers)
 
 {% include toc.html %}
 
@@ -55,8 +55,8 @@ permalink: /summaries/eng/for-english-teachers/groups/b1-plus
 
 -   **Current semester**: *(to be filled in)*
 -   **Past grades**:
-    -   [4th year, 1st semester -- final grades](/summaries/eng/4y-1s-final-grades) -- vocabulary, reading comprehension ("The Boy in the Striped Pajamas"), writing, grammar, and totals (10% Vocab + 10% R.C. + 10% Writing + 70% Grammar).
-    -   [3rd year, 2nd semester -- final grades](/summaries/eng/3y-2s-final-grades)
+    -   [4th year, 1st semester -- final grades](/english/for-english-teachers/4y-1s-final-grades) -- vocabulary, reading comprehension ("The Boy in the Striped Pajamas"), writing, grammar, and totals (10% Vocab + 10% R.C. + 10% Writing + 70% Grammar).
+    -   [3rd year, 2nd semester -- final grades](/english/for-english-teachers/3y-2s-final-grades)
     -   [3rd year, 1st semester](https://rb.gy/yvxb04)
 
 ## Group-Specific Information
@@ -93,6 +93,6 @@ Use one table per month/semester for attendance; duplicate it for homework track
 
 ## Other Groups
 
--   [A2 Group -- Thailand Santavāco](/summaries/eng/for-english-teachers/groups/a2-santavaco)
--   [A2 Group -- Laos Sumitto](/summaries/eng/for-english-teachers/groups/a2-sumitto)
--   [A Group (Vocabulary) -- Laos Abhaddharo](/summaries/eng/for-english-teachers/groups/a-abhaddharo)
+-   [A2 Group -- Thailand Santavāco](/english/for-english-teachers/groups/a2-santavaco)
+-   [A2 Group -- Laos Sumitto](/english/for-english-teachers/groups/a2-sumitto)
+-   [A Group (Vocabulary) -- Laos Abhaddharo](/english/for-english-teachers/groups/a-abhaddharo)

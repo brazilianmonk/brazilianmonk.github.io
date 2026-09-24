@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /summaries/eng/to-ing-cases
+permalink: /english/summaries/to-ing-cases
 ---
 
 ### To + ing cases

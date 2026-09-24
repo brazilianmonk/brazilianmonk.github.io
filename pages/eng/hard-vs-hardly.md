@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /summaries/eng/hard-vs-hardly
+permalink: /english/summaries/hard-vs-hardly
 ---
 
 ### Hard vs. Hardly

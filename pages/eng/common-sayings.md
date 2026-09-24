@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /summaries/eng/common-sayings
+permalink: /english/summaries/common-sayings
 ---
 
 ## Common Sayings / Expressions / Proverbs

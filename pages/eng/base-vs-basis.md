@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /summaries/eng/base-vs-basis
+permalink: /english/summaries/base-vs-basis
 ---
 
 ## Base vs. Basis

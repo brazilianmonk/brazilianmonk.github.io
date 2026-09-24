@@ -55,15 +55,15 @@ The official word lists used in the course, hosted by [Oxford Learner's Dictiona
 
 ## Quizzes
 
-- [📈 **Practice Irregular Verbs**](/assets/irregular_verbs.html)
-- [**𝕒 / 𝕒𝕟 / 𝕥𝕙𝕖 -- Practice Articles**](/assets/practice_articles.html)
-- [**Practice Relative Pronouns**](/assets/practice_relative_clauses.html)
-- [📝 **B2 Phrases – Column 1** (49 phrases)](/pages/eng/B2-phrases-column-1.1.html)
-- [📝 **B2 Phrases – Column 2.1** (24 phrases)](/pages/eng/B2-phrases-column-2.1.html)
-- [📝 **B2 Phrases – Column 2.2** (31 phrases)](/pages/eng/B2-phrases-column-2.2.html)
-- [📝 **B2 Phrases – Column 3** (29 phrases)](/pages/eng/B2-phrases-column-3.html)
-- [📝 **B2 Words – Column 1** (18 words)](/pages/eng/B2-words-column-1.html)
-- [📝 **B2 Words – Column 2** (70 words)](/pages/eng/B2-words-column-2.html)
+- [📈 **Practice Irregular Verbs**](/english/quizzes/irregular_verbs.html)
+- [**𝕒 / 𝕒𝕟 / 𝕥𝕙𝕖 -- Practice Articles**](/english/quizzes/practice_articles.html)
+- [**Practice Relative Pronouns**](/english/quizzes/practice_relative_clauses.html)
+- [📝 **B2 Phrases – Column 1** (49 phrases)](/english/quizzes/B2-phrases-column-1.1.html)
+- [📝 **B2 Phrases – Column 2.1** (24 phrases)](/english/quizzes/B2-phrases-column-2.1.html)
+- [📝 **B2 Phrases – Column 2.2** (31 phrases)](/english/quizzes/B2-phrases-column-2.2.html)
+- [📝 **B2 Phrases – Column 3** (29 phrases)](/english/quizzes/B2-phrases-column-3.html)
+- [📝 **B2 Words – Column 1** (18 words)](/english/quizzes/B2-words-column-1.html)
+- [📝 **B2 Words – Column 2** (70 words)](/english/quizzes/B2-words-column-2.html)
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
@@ -73,64 +73,65 @@ Organized by level, following the [grammar contents of Test-English.com](https:/
 
 ### A Level
 
-- [**How Come**](/summaries/eng/how-come)
-- [**Pronunciation of the Number 0**](/summaries/eng/zero)
-- [**Serious Writing Mistakes**](/summaries/eng/serious-writing-mistakes)
+- [**How Come**](/english/summaries/how-come)
+- [**Pronunciation of the Number 0**](/english/summaries/zero)
+- [**Serious Writing Mistakes**](/english/summaries/serious-writing-mistakes)
 
 ### B1–B1+ Level
 
-- [**Present Perfect Simple vs. Continuous**](/summaries/eng/present-perfect-simple-vs-continuous)
-- [**Identical Zero and 1st Conditional**](/summaries/eng/identical-zero-and-first-conditionals)
-- [**"So that..."**](/summaries/eng/so-that)
-- [**Adjective Order**](/summaries/eng/adjective-order)
-- [**Gradable vs. Non-gradable Adjectives**](/summaries/eng/gradable-vs-non-gradable-adjectives)
-- [**Present Simple vs. Perfect in Future Time Clauses**](/summaries/eng/present-simple-vs-perfect-in-future-time-clauses)
-- [**Article Position with Pretty, Fairly, Rather, and Quite**](/summaries/eng/article-position-with-pretty-fairly-rather-quite)
-- [**Adverb Position**](/summaries/eng/adverb-position)
-- [**B1+ vs B2 Lessons: Shared, Unique, and What Gets Added**](/summaries/eng/b1-plus-vs-b2-lessons)
+- [**Present Perfect Simple vs. Continuous**](/english/summaries/present-perfect-simple-vs-continuous)
+- [**Identical Zero and 1st Conditional**](/english/summaries/identical-zero-and-first-conditionals)
+- [**"So that..."**](/english/summaries/so-that)
+- [**Adjective Order**](/english/summaries/adjective-order)
+- [**Gradable vs. Non-gradable Adjectives**](/english/summaries/gradable-vs-non-gradable-adjectives)
+- [**Present Simple vs. Perfect in Future Time Clauses**](/english/summaries/present-simple-vs-perfect-in-future-time-clauses)
+- [**Article Position with Pretty, Fairly, Rather, and Quite**](/english/summaries/article-position-with-pretty-fairly-rather-quite)
+- [**Adverb Position**](/english/summaries/adverb-position)
+- [**B1+ vs B2 Lessons: Shared, Unique, and What Gets Added**](/english/summaries/b1-plus-vs-b2-lessons)
 
 ### B2 Level
 
-- [**Gerund vs. Present Participle**](/summaries/eng/gerund-vs-present-participle)
-- [**Participial Clauses**](/summaries/eng/participial-clauses)
-- [**Absolute Phrases**](/summaries/eng/absolute-phrases)
+- [**Gerund vs. Present Participle**](/english/summaries/gerund-vs-present-participle)
+- [**Participial Clauses**](/english/summaries/participial-clauses)
+- [**Absolute Phrases**](/english/summaries/absolute-phrases)
+- [**Active Infinitives with Passive Meaning**](/english/summaries/active-infinitives-with-passive-meaning)
 
 ### C1 Level
 
-- [**May well vs. May as well**](/summaries/eng/may-well-vs-may-as-well)
+- [**May well vs. May as well**](/english/summaries/may-well-vs-may-as-well)
 
 ### Specific Topics
 	
 Notes that cover a topic across several levels.
 
-- [**All Conditionals: 0, 1st, 2nd, 3rd, and Mixed**](/summaries/eng/all-conditionals)
-- [**Structure of All Tenses**](/summaries/eng/all-tenses)
-- [**Unusual Usages of Tenses**](/summaries/eng/unusual-usages-of-tenses)
-- [**Present Perfect Continous Passive**: not used](/summaries/eng/present-perfect-continuous-passive)
-- [**Relative Clauses in depth**](/assets/relative_clauses_summary.pdf)
-- [**To + ing Cases**](/summaries/eng/to-ing-cases)
-- [**Participial Adjective vs. Passive Voice**](/summaries/eng/participial-adjective-vs-passive)
-- [**Do, make, do make, make do**](/summaries/eng/do-make)
-- [**Meanings of "Should"**](/summaries/eng/meanings-of-should)
-- [**Meanings of "for"**](/summaries/eng/meanings-of-for)
-- [**Lay down vs. Lie down**](/summaries/eng/lay-down-vs-lie-down)
-- [**Hard vs. Hardly**](/summaries/eng/hard-vs-hardly)
-- [**Most vs. Mostly**](/summaries/eng/most-vs-mostly)
-- [**Comma with "Sometimes"**](/summaries/eng/comma-with-sometimes)
-- [**"In common with" vs. "Common to"**](/summaries/eng/common-with-vs-common-to)
-- [**Base vs. Basis**](/summaries/eng/base-vs-basis)
-- [**Some Confusing Verbs**](/summaries/eng/confusing-verbs)
-- [**Refining Common Adjectives**](/summaries/eng/refining-common-adjectives)
-- [**Common Sayings / Expressions / Proverbs**](/summaries/eng/common-sayings)
-- [**Animals and Their Onomatopoeia**](/summaries/eng/onomatopoeia)
-- [**Expressions with Infinitive and -Ing**](/summaries/eng/expressions-with-infinitive-and-ing)
+- [**All Conditionals: 0, 1st, 2nd, 3rd, and Mixed**](/english/summaries/all-conditionals)
+- [**Structure of All Tenses**](/english/summaries/all-tenses)
+- [**Unusual Usages of Tenses**](/english/summaries/unusual-usages-of-tenses)
+- [**Present Perfect Continous Passive**: not used](/english/summaries/present-perfect-continuous-passive)
+- [**Relative Clauses in depth**](/pages/eng/summaries/relative_clauses_summary.pdf)
+- [**To + ing Cases**](/english/summaries/to-ing-cases)
+- [**Participial Adjective vs. Passive Voice**](/english/summaries/participial-adjective-vs-passive)
+- [**Do, make, do make, make do**](/english/summaries/do-make)
+- [**Meanings of "Should"**](/english/summaries/meanings-of-should)
+- [**Meanings of "for"**](/english/summaries/meanings-of-for)
+- [**Lay down vs. Lie down**](/english/summaries/lay-down-vs-lie-down)
+- [**Hard vs. Hardly**](/english/summaries/hard-vs-hardly)
+- [**Most vs. Mostly**](/english/summaries/most-vs-mostly)
+- [**Comma with "Sometimes"**](/english/summaries/comma-with-sometimes)
+- [**"In common with" vs. "Common to"**](/english/summaries/common-with-vs-common-to)
+- [**Base vs. Basis**](/english/summaries/base-vs-basis)
+- [**Some Confusing Verbs**](/english/summaries/confusing-verbs)
+- [**Refining Common Adjectives**](/english/summaries/refining-common-adjectives)
+- [**Common Sayings / Expressions / Proverbs**](/english/summaries/common-sayings)
+- [**Animals and Their Onomatopoeia**](/english/summaries/onomatopoeia)
+- [**Expressions with Infinitive and -Ing**](/english/summaries/expressions-with-infinitive-and-ing)
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
 ## Pronunciation
 
-- [**Tongue Twisters**](/summaries/eng/tongue-twisters)
-- [**Difficult Words**](/summaries/eng/difficult-words)
+- [**Tongue Twisters**](/english/summaries/tongue-twisters)
+- [**Difficult Words**](/english/summaries/difficult-words)
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
 
@@ -138,17 +139,6 @@ Notes that cover a topic across several levels.
 
 The English language course taught at the International Institute of Theravāda (IIT): a structured program that takes students from the basics (A1) to an advanced level (C1), following the Common European Framework of Reference for Languages (CEFR), with grammar, vocabulary, reading, listening, writing, speaking, and pronunciation.
 
-- [📖 **Student Handbook**](/summaries/eng/e): everything students need to know about the course -- the course outline per semester, the grading method (how writings are graded, participation, passing grade, and the repeat-protocol), serious writing mistakes to avoid, taboo words, writing topics per level, the OPAL vocabulary schedule, and the listening homework.
+- [📖 **Student Handbook**](/english/for-english-students): everything students need to know about the course -- the course outline per semester, the grading method (how writings are graded, participation, passing grade, and the repeat-protocol), serious writing mistakes to avoid, taboo words, writing topics per level, the OPAL vocabulary schedule, and the listening homework.
 
 {% include toc.html %}
-
-
-
-| 1 |   |    |
-|   |   |    |
-|   |   | df |
-|   |   |    |
-|   |   |    |
-|   |   |    |
-|   |   |    |
-|   |   |    |

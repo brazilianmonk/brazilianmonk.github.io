@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gradable vs. Non-gradable Adjectives
-permalink: /summaries/eng/gradable-vs-non-gradable-adjectives
+permalink: /english/summaries/gradable-vs-non-gradable-adjectives
 ---
 
 ## Gradable Adjectives

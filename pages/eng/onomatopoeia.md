@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /summaries/eng/onomatopoeia
+permalink: /english/summaries/onomatopoeia
 ---
 
 ### Animals and Their Onomatopoeia

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /summaries/eng/b1-plus-vs-b2-lessons
+permalink: /english/summaries/b1-plus-vs-b2-lessons
 ---
 
 ## B1+ vs B2 Lessons

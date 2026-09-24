@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Expressions with Infinitive and -Ing
-permalink: /summaries/eng/expressions-with-infinitive-and-ing
+permalink: /english/summaries/expressions-with-infinitive-and-ing
 ---
 
 # Expressions with "to + infinitive"

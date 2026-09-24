@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /summaries/eng/present-perfect-simple-vs-continuous
+permalink: /english/summaries/present-perfect-simple-vs-continuous
 ---
 
 ### Present Perfect Simple vs Continuous

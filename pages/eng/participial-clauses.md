@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /summaries/eng/participial-clauses
+permalink: /english/summaries/participial-clauses
 ---
 
 ## Participle Clauses

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: English Language Course -- Student Handbook
-permalink: /summaries/eng/e
+permalink: /english/for-english-students
 ---
 
 This page collects the material that is useful for **students** of the IIT English Language Course: how the course works (outline and grading), how writing is graded, which words to avoid, what to write at each level, and how vocabulary is studied.
@@ -124,7 +124,7 @@ The empty cells are components still **under construction** 🚧.
 </tbody>
 </table>
 
-Per-semester details for the current semester: see [**Semester 6 Coursework**](/summaries/eng/semester-6-coursework) -- creative writing (research + story), academic writing (research + paper), grammar review, and the ongoing listening program.
+Per-semester details for the current semester: see [**Semester 6 Coursework**](/english/for-english-students/semester-6-coursework) -- creative writing (research + story), academic writing (research + paper), grammar review, and the ongoing listening program.
 
 ### Advanced Course (2 years)
 
@@ -261,7 +261,7 @@ If a student does not reach the ideal passing grade (70% Global Total):
 
 ### Serious Writing Mistakes
 
-These mistakes are heavily penalized in all writing. The full list with explanations lives [**here**](/summaries/eng/serious-writing-mistakes).
+These mistakes are heavily penalized in all writing. The full list with explanations lives [**here**](/english/summaries/serious-writing-mistakes).
 
 -   **Incomplete Sentence**: main clause left incomplete.
     -   Wrong: *The man, whom I met yesterday.*
@@ -396,12 +396,11 @@ OPAL contains **2,420 words/phrases**, studied at approximately **150 items per 
 ### Alternative Vocabulary Source
 
 -   [4,000 words with definitions and stories (YouTube playlist)](https://www.youtube.com/playlist?list=PL1NJRI7LTSZfB-TWTs6fhFn25eN5YRkyF)
--   [Oxford 3000/5000 word lists by level](https://www.oxfordlearnersdictionaries.co.uk/wordlists/oxford3000-5000)
 
 ## See Also
 
 -   [**English Language Studies**](/english) -- resources, quizzes, and grammar notes for everyone.
--   [**Serious Writing Mistakes**](/summaries/eng/serious-writing-mistakes) -- the full reference.
--   [**Tongue Twisters**](/summaries/eng/tongue-twisters) and [**Difficult Words**](/summaries/eng/difficult-words) -- pronunciation practice.
+-   [**Serious Writing Mistakes**](/english/summaries/serious-writing-mistakes) -- the full reference.
+-   [**Tongue Twisters**](/english/summaries/tongue-twisters) and [**Difficult Words**](/english/summaries/difficult-words) -- pronunciation practice.
 
 {% include toc.html %}

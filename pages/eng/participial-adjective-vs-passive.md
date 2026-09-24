@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /summaries/eng/participial-adjective-vs-passive
+permalink: /english/summaries/participial-adjective-vs-passive
 ---
 
 ### Participial Adjective vs. Passive Voice

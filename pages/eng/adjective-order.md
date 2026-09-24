@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /summaries/eng/adjective-order
+permalink: /english/summaries/adjective-order
 ---
 
 ## Adjective Order

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /summaries/eng/most-vs-mostly
+permalink: /english/summaries/most-vs-mostly
 ---
 
 ### Most vs. Mostly
