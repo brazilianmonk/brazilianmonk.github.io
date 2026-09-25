@@ -24,4 +24,4 @@ permalink: /calendar
   }
 </style>
 
-<iframe src="https://calendar.google.com/calendar/embed?src=a1bcfe88779056a9026d7680251aa785bb8cf6e9167fb7f437b9c4d65b667967%40group.calendar.google.com&ctz=Asia%2FColombo&mode=AGENDA&showTitle=0&showNav=0&showPrint=0&showTabs=0" style="border: 0; width: 100%; height: 600px; display: block; margin: 0 auto;" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=a1bcfe88779056a9026d7680251aa785bb8cf6e9167fb7f437b9c4d65b667967%40group.calendar.google.com&ctz=Asia%2FColombo&mode=MONTH&showTitle=0&showNav=1&showDate=1&showPrint=0&showTabs=1" style="border: 0; width: 100%; height: 800px; display: block; margin: 0 auto;" frameborder="0" scrolling="no"></iframe>
