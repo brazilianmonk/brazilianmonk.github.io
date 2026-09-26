@@ -1,0 +1,57 @@
+<!--
+  Newsletter signup
+  ------------------------------------------------------------------
+  PROVIDER PRIORITY (first non-empty wins):
+    1. custom_html   — paste the ENTIRE embed snippet your provider gives
+                       you (Kit: Grow > Landing Pages & Forms > your form >
+                       Embed > JavaScript). Most reliable path.
+    2. kit_form_id   — Kit form UID; renders the standard inline embed:
+                       <script async data-uid="ID" src="https://f.convertkit.com/ckjs/ck.js"></script>
+                       If nothing renders, use custom_html instead.
+    3. embed_url     — EmailOctopus embed script (legacy, during migration)
+    4. emailoctopus_list_key — native POST to EmailOctopus (legacy)
+    5. nothing       — inert preview form
+-->
+{% assign nl_custom = site.data.settings.newsletter.custom_html %}
+{% assign nl_kit_id = site.data.settings.newsletter.kit_form_id %}
+{% assign nl_eo_embed = site.data.settings.newsletter.embed_url %}
+{% assign nl_eo_key = site.data.settings.newsletter.emailoctopus_list_key %}
+
+{% if nl_custom and nl_custom != empty %}
+  {{ nl_custom }}
+{% elsif nl_kit_id and nl_kit_id != empty %}
+  <script async data-uid="{{ nl_kit_id }}"
+          src="https://f.convertkit.com/ckjs/ck.js"></script>
+{% elsif nl_eo_embed and nl_eo_embed != empty %}
+  <script async src="{{ nl_eo_embed }}"
+          data-form="{{ nl_eo_embed | split: '/form/' | last | split: '.js' | first }}"></script>
+{% elsif nl_eo_key and nl_eo_key != empty %}
+  <form class="newsletter-form"
+        action="https://eocampaign1.com/form/{{ nl_eo_key }}"
+        method="post"
+        data-eo-form="true">
+    <p class="newsletter-form__text">{{ site.data.settings.newsletter.text | default: 'Subscribe to receive updates on new posts, talks, and Dhamma resources.' }}</p>
+    <div class="newsletter-form__row">
+      <input type="email"
+             name="email"
+             placeholder="{{ site.data.settings.newsletter.placeholder | default: 'Your email address' }}"
+             aria-label="Email address"
+             required>
+      <button type="submit">{{ site.data.settings.newsletter.button | default: 'Subscribe' }}</button>
+    </div>
+    <p class="newsletter-form__note">No spam — only updates from {{ site.title }}. Unsubscribe anytime.</p>
+  </form>
+{% else %}
+  <form class="newsletter-form newsletter-form--preview" action="#" method="post" onsubmit="return false;">
+    <p class="newsletter-form__text">{{ site.data.settings.newsletter.text | default: 'Subscribe to receive updates on new posts, talks, and Dhamma resources.' }}</p>
+    <div class="newsletter-form__row">
+      <input type="email"
+             name="email"
+             placeholder="{{ site.data.settings.newsletter.placeholder | default: 'Your email address' }}"
+             aria-label="Email address"
+             required>
+      <button type="submit">{{ site.data.settings.newsletter.button | default: 'Subscribe' }}</button>
+    </div>
+    <p class="newsletter-form__note">No spam — only updates from {{ site.title }}. Unsubscribe anytime.</p>
+  </form>
+{% endif %}

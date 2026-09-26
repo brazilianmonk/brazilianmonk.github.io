@@ -1,0 +1,72 @@
+/* Newsletter signup card (footer) */
+
+.newsletter {
+  max-width: 520px;
+  margin: 0 auto 18px;
+  padding: 18px 20px;
+  background: #f9f9f9;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.newsletter-form__text {
+  margin: 0 0 12px;
+  font-weight: bold;
+  color: $brand-color;
+}
+
+.newsletter-form__row {
+  display: flex;
+  gap: 8px;
+
+  input {
+    flex: 1 1 auto;
+    min-width: 0;
+    margin-top: 0; // override global form styles
+    font-weight: normal;
+  }
+
+  button {
+    flex: 0 0 auto;
+    margin-top: 0; // override global form styles
+    padding: 10px 18px;
+    background: #AD6100; // site accent, matches contact button
+    white-space: nowrap;
+  }
+
+  button:hover {
+    background: #8a4e00;
+  }
+}
+
+.newsletter-form__note {
+  margin: 10px 0 0;
+  font-size: 0.8em;
+  color: #777;
+}
+
+// Once the official EmailOctopus embed script is active it injects its
+// own markup; make it fill the card nicely too.
+.newsletter iframe,
+.newsletter form[id^="eo-"],
+.newsletter div[class^="eo-"],
+.newsletter .inline-container {
+  max-width: 100%;
+}
+
+.newsletter .inline-container,
+.newsletter .form-container,
+.newsletter .emailoctopus-form-wrapper {
+  width: 100%;
+}
+
+@media (max-width: $phone-width) {
+  .newsletter-form__row {
+    flex-direction: column;
+
+    button {
+      width: 100%;
+    }
+  }
+}

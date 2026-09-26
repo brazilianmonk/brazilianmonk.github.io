@@ -23,6 +23,24 @@ social:
 - {icon: 'rss-square', link: '/rss-feed.xml'}
 - {icon: 'envelope', link: '/contact'}
 
+# Newsletter signup (EmailOctopus). See _includes/newsletter.html for setup.
+# Paste your form ID from the "</> Add to your website" snippet here:
+newsletter:
+  # Raw HTML snippet (any provider) — wins over everything if set.
+  # ACTIVE: Kit (ConvertKit) JavaScript embed, form UID e5b2f356e4.
+  custom_html: '<script async data-uid="e5b2f356e4" src="https://ariyana-a-thera.kit.com/e5b2f356e4/index.js"></script>'
+  # Kit (ConvertKit) form UID — from your form's Embed > JavaScript snippet
+  # (<script async data-uid="THIS-ID" ...>). Kit free plan: 10,000 subscribers,
+  # native RSS automation (Grow > RSS) with automatic sending.
+  kit_form_id: "e5b2f356e4"
+  # LEGACY (EmailOctopus) — keep set during migration so the old form still works.
+  embed_url: "https://eomail5.com/form/80a12968-b995-11f1-a558-6544085eadb8.js"
+  # Optional fallback: native list key for a plain HTML form (see _includes/newsletter.html)
+  emailoctopus_list_key: ""
+  text: "Subscribe to receive updates on new posts, talks, and Dhamma resources."
+  placeholder: "Your email address"
+  button: "Subscribe"
+
 # Customize site text
 pagination:
   next_page: 'Newer'
