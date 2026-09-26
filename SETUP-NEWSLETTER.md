@@ -1,109 +1,92 @@
-# Newsletter setup guide — Kit (ConvertKit)
+# Newsletter setup guide — Kit (ConvertKit) + GitHub Action
 
 This site's footer signup form is powered by **Kit** (formerly ConvertKit).
-The free plan covers **10,000 subscribers** with unlimited email sends,
-includes double opt-in, and its RSS automation can email subscribers
-automatically every time you publish a post.
+The free plan covers **10,000 subscribers** with unlimited email sends and
+includes double opt-in.
 
-The footer form is **live and pointing at your Kit form** (UID
-`e5b2f356e4`, form 9964785) — new subscribers already land in Kit.
-What remains is the RSS automation (section 4) and migrating any
-existing EmailOctopus subscribers (section 5).
+**The form is live** (UID `e5b2f356e4`, form 9964785) — new subscribers
+already land in Kit.
+
+**Automatic post-emails** are provided by a GitHub Action in this repo
+(`.github/workflows/newsletter.yml`) rather than Kit's paid RSS feature:
+
+- Kit's built-in RSS automation requires the paid Creator plan.
+- But Kit's V4 **Broadcast API is available on every plan** — including free
+  (Kit's own docs: "V3 and V4 API keys are not restricted... creators on any
+  plan").
+- So after each push, the Action builds the site, checks `rss-feed.xml` for
+  posts that haven't been announced, and schedules a Kit broadcast for each
+  via `POST https://api.kit.com/v4/broadcasts`. Subscribers get an email
+  with the post title and a link. Fully automatic, no paid plan.
 
 ---
 
-## 1. Create the account and list
+## 1. One-time Kit configuration (~5 minutes)
 
-1. Sign up free at <https://kit.com> (no card needed).
-2. Grow > Subscribers — your list lives here. Nothing to configure.
+1. **Create an email template** (Send > Email Templates > New). Keep it
+   minimal — the broadcast content (title + link) is inserted into it.
+   Note its **numeric ID** (visible in the template URL or API).
+2. **Create a V4 API key**: avatar > **Developer settings** > V4 Keys >
+   "Add a new key". Copy it immediately — it's shown once.
+3. **Add two GitHub secrets** (repo > Settings > Secrets and variables >
+   Actions > New repository secret):
+   - `KIT_API_KEY` — the V4 key
+   - `KIT_EMAIL_TEMPLATE_ID` — the numeric template id
+4. **Commit and push everything.** On the next push, the Action runs:
+   check the Actions tab for a green "Newsletter" run.
 
-## 2. Create the signup form
+The Action stores which posts were announced in
+`scripts/newsletter_state.json` and commits it back, so nothing is ever
+emailed twice. It announces at most 3 posts per run and schedules each
+~5 minutes ahead. Want a safety net instead of auto-send? Change the
+script's `make_broadcast` to set `"send_at": null` — broadcasts then sit
+as drafts you approve in Kit.
 
-1. Grow > Landing Pages & Forms > **Create** > choose **Form**.
-2. Pick any simple template (or start blank).
-3. Keep it to a single **Email** field. Optionally add first name.
-4. Turn on **Incentive email > double opt-in** if offered — subscribers
-   must click a confirmation link before joining (matches the privacy page).
-5. **Publish** the form.
+## 2. Testing without spamming anyone
 
-## 3. Wire the form into this site
+```bash
+bundle exec jekyll build
+python scripts/send_newsletter.py --dry-run     # what would be announced
+python scripts/send_newsletter.py --init-state  # mark current posts as announced
+```
 
-1. Open the published form > **Embed** (top right) > **JavaScript**.
-2. Copy the whole snippet. It looks like:
+Then publish a test post, push, and watch the Action. Your own
+subscription should receive: "New post: <title>".
 
-   ```html
-   <script async data-uid="XXXXXXXXXX" src="https://f.convertkit.com/ckjs/ck.ck.js"></script>
-   ```
-
-3. Preferred: paste the **entire snippet** into `_data/settings.yml`:
-
-   ```yaml
-   newsletter:
-     custom_html: "<script async data-uid=\"XXXXXXXXXX\" src=\"https://f.convertkit.com/ckjs/ck.ck.js\"></script>"
-   ```
-
-   (Alternative: copy just the `data-uid` value into `kit_form_id: "XXXXXXXXXX"`.
-   If the form doesn't render that way, use `custom_html`.)
-
-4. Commit, push, and the footer form is Kit-powered on every page.
-
-## 4. Turn on automatic post-emails (the goal!)
-
-1. In Kit: **Grow > RSS** (under Automations).
-2. **+ Add feed** > Feed URL: `https://www.brazilianmonk.org/rss-feed.xml`
-3. Choose:
-   - **Single** — one email per new post (recommended), or
-   - **Digest** — a weekly/monthly roundup of new posts.
-4. Enable **Send automatically** — otherwise emails sit as drafts.
-5. Pick the sending address and recipients, then choose a template.
-   Make sure the template contains the **Post content** block — Kit
-   refuses to enable the connection without it.
-6. Use `{{ title }}` in the subject line so it reads as the post title.
-7. **Save / enable.** Kit checks the feed periodically; when a new post
-   appears, an email goes out on its own (~30 min after drafting).
-8. Tip: enable **Skip old items** so your 4 existing feed items aren't
-   blasted to subscribers the moment you connect the feed.
-
-## 5. Migrate existing EmailOctopus subscribers
+## 3. Migrating existing EmailOctopus subscribers
 
 1. EmailOctopus > your list > **Export** as CSV.
 2. Kit > Grow > Subscribers > **Import** the CSV.
-3. Important: imported contacts skip double opt-in, and that's fine —
-   they already confirmed with EmailOctopus. Ask Kit support to confirm
-   import compliance if you want belt-and-braces.
-4. After a week of smooth running, delete the old EmailOctopus list (or
-   keep it dormant) so both lists don't diverge.
+3. Imported contacts skip double opt-in — fine, they already confirmed
+   with EmailOctopus.
+4. After a week of smooth running, delete or archive the EmailOctopus
+   list so the two don't diverge.
 
-## 6. Cleanup (after migration works)
+## 4. If you'd rather have provider-native RSS (alternatives)
 
-In `_data/settings.yml`, empty out the legacy keys:
+The Action is free and keeps you on Kit's 10k-subscriber free plan. If
+you ever prefer the provider to handle it natively instead:
 
-```yaml
-newsletter:
-  custom_html: "<script ... ></script>"   # keep — the live form
-  kit_form_id: ""
-  embed_url: ""                            # clear — EmailOctopus gone
-  emailoctopus_list_key: ""                # clear
-```
+| Provider | Free tier | RSS-to-email on free |
+| --- | --- | --- |
+| **Kit** (current) | 10,000 subscribers | ❌ paid (Creator) — but **API path works free** (this repo's Action) |
+| **Sender** | 2,500 subs / 15,000 emails/mo | ✅ included |
+| **Brevo** | 300 emails/day | ✅ included (cap makes it impractical past ~300 subscribers) |
+| **Zoho Campaigns** | 2,000 contacts / 6,000 emails/mo | ✅ included |
+| **EmailOctopus** | 2,500 subs / 10,000 emails/mo | ❌ none; API can't send campaigns either |
 
-Then close your EmailOctopus account if you're not using it elsewhere.
+Switching later means pasting that provider's embed snippet into
+`custom_html` in `_data/settings.yml` — one line, no code changes.
 
----
-
-## Current site files involved
+## 5. Files involved
 
 | File | Role |
 | --- | --- |
-| `_data/settings.yml` | `newsletter:` block — provider keys and wording |
+| `_data/settings.yml` | `newsletter:` block — provider embed + wording |
 | `_includes/newsletter.html` | Renders the right form for the configured provider |
 | `_includes/footer.html` | Shows the form on every page |
-| `_sass/_newsletter.scss` | Styling (Kit's own styles override inside its embed) |
-| `pages/privacy.md` | Data-processing disclosure (already updated to Kit) |
-
-## Notes
-
-- Kit's free plan has no RSS-to-email limit — sends are unlimited; only
-  the subscriber count (10,000) matters.
-- Unsubscribes and bounces are handled by Kit automatically.
-- If you ever switch providers again, `custom_html` accepts any embed
-  snippet — no code changes needed beyond that one line.
+| `_sass/_newsletter.scss` | Styling (Kit's own styles apply inside its embed) |
+| `.github/workflows/newsletter.yml` | Runs the auto-sender after every push |
+| `scripts/send_newsletter.py` | Detects new feed posts, schedules Kit broadcasts |
+| `scripts/newsletter_state.json` | Which posts were already announced (auto-committed) |
+| `pages/privacy.md` | Data-processing disclosure (updated to Kit) |
