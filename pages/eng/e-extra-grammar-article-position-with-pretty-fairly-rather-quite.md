@@ -50,5 +50,10 @@ permalink: /english/summaries/article-position-with-pretty-fairly-rather-quite
 </tbody>
 </table>
 
+## Practice
+
+- [**𝕒 / 𝕒𝕟 / 𝕥𝕙𝕖 -- Practice Articles**](/english/quizzes/practice_articles.html) — includes exercises on article position with *pretty, fairly, rather,* and *quite* (mixed in with general article practice).
+- [**Practice Relative Pronouns**](/english/quizzes/practice_relative_clauses.html)
+
 
 

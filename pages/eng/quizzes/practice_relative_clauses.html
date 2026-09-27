@@ -46,16 +46,22 @@ permalink: /english/quizzes/practice_relative_clauses.html
         }
         .pronoun-option {
             display: inline-block;
-            padding: 5px 10px;
+            padding: 8px 14px;
             margin: 5px;
             background-color: #007bff;
             color: white;
+            border: none;
             border-radius: 5px;
-            cursor: move;
+            font-family: inherit;
+            font-size: inherit;
+            cursor: pointer;
             user-select: none;
+            -webkit-tap-highlight-color: transparent;
+            touch-action: manipulation;
         }
-        .pronoun-option.dragging {
-            opacity: 0.5;
+        .pronoun-option:disabled {
+            opacity: 0.35;
+            cursor: default;
         }
         .feedback {
             margin-top: 10px;
@@ -65,10 +71,24 @@ permalink: /english/quizzes/practice_relative_clauses.html
         .correct { color: #28a745; }
         .incorrect { color: #dc3545; }
         #score {
-            text-align: center;
             font-size: 20px;
-            margin: 20px 0;
             color: #2c3e50;
+        }
+        .score-bar {
+            position: sticky;
+            bottom: 0;
+            z-index: 10;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 24px;
+            padding: 10px 16px;
+            background-color: #e9ecef;
+            border-top: 1px solid #d3d7dc;
+        }
+        .score-bar button {
+            display: inline-block;
+            margin: 0;
         }
         button {
             display: block;
@@ -88,21 +108,23 @@ permalink: /english/quizzes/practice_relative_clauses.html
         @media (max-width: 600px) {
             .sentence { font-size: 16px; }
             .drop-zone { width: 60px; height: 25px; line-height: 25px; }
-            .pronoun-option { padding: 4px 8px; font-size: 14px; }
+            .pronoun-option { padding: 8px 12px; font-size: 14px; }
         }
     </style>
 <script src="/assets/js/external-links.js" defer></script>
 </head>
 <body>
-    <h1>Drag-and-Drop Relative Clause Practice</h1>
+    <h1>Relative Clause Practice</h1>
     <div class="disclaimer">
     <p><strong>Disclaimer:</strong>This app accepts more than one correct answer per question, but in some cases, other relative pronouns may also be grammatically correct.</p>
 </div>
     <div id="quiz">
         <!-- Questions will be dynamically inserted here -->
     </div>
-    <div id="score">Score: 0 / 0</div>
-    <button onclick="resetQuiz()">New Quiz</button>
+    <div class="score-bar">
+        <div id="score">Score: 0 / 0</div>
+        <button onclick="resetQuiz()">New Quiz</button>
+    </div>
 
     <script>
         const questionBank = [
@@ -336,6 +358,14 @@ permalink: /english/quizzes/practice_relative_clauses.html
         let total = 20; // Number of questions per quiz
         let currentQuestions = [];
         const options = ["who", "which", "that", "whose", "whom", "Ø"];
+        const BEST_SCORE_KEY = 'bestScore-relativeClauses';
+
+        let bestScore = 0;
+        try {
+            bestScore = parseInt(localStorage.getItem(BEST_SCORE_KEY), 10) || 0;
+        } catch (e) {
+            // localStorage unavailable (e.g. private browsing) — start at 0
+        }
 
         function getRandomQuestions() {
             const shuffled = questionBank.sort(() => 0.5 - Math.random());
@@ -352,37 +382,31 @@ permalink: /english/quizzes/practice_relative_clauses.html
                 questionDiv.innerHTML = `
                     <div class="sentence">${q.sentence.replace('___', '<span class="drop-zone" id="drop' + index + '"></span>')}</div>
                     <div class="options">
-                        ${options.map(opt => `<span class="pronoun-option" draggable="true">${opt}</span>`).join('')}
+                        ${options.map(opt => `<button type="button" class="pronoun-option">${opt}</button>`).join('')}
                     </div>
                     <div class="feedback" id="feedback${index}"></div>
                 `;
                 quizDiv.appendChild(questionDiv);
             });
-            addDragAndDropListeners();
+            addClickListeners();
             updateScore();
         }
 
-        function addDragAndDropListeners() {
-            document.querySelectorAll('.pronoun-option').forEach(option => {
-                option.addEventListener('dragstart', (e) => {
-                    e.dataTransfer.setData('text', e.target.textContent);
-                    e.target.classList.add('dragging');
-                });
-                option.addEventListener('dragend', (e) => {
-                    e.target.classList.remove('dragging');
-                });
-            });
-
-            document.querySelectorAll('.drop-zone').forEach(zone => {
-                zone.addEventListener('dragover', (e) => {
-                    e.preventDefault();
-                });
-                zone.addEventListener('drop', (e) => {
-                    e.preventDefault();
-                    const pronoun = e.dataTransfer.getData('text');
-                    const index = zone.id.replace('drop', '');
-                    zone.textContent = pronoun;
-                    checkAnswer(index, pronoun);
+        function addClickListeners() {
+            document.querySelectorAll('.question').forEach(questionDiv => {
+                const zone = questionDiv.querySelector('.drop-zone');
+                const index = zone.id.replace('drop', '');
+                questionDiv.querySelectorAll('.pronoun-option').forEach(option => {
+                    option.addEventListener('click', () => {
+                        if (questionDiv.dataset.locked) return;
+                        questionDiv.dataset.locked = 'true';
+                        const pronoun = option.textContent.trim();
+                        zone.textContent = pronoun;
+                        checkAnswer(index, pronoun);
+                        questionDiv.querySelectorAll('.pronoun-option').forEach(btn => {
+                            if (btn !== option) btn.disabled = true;
+                        });
+                    });
                 });
             });
         }
@@ -391,7 +415,7 @@ permalink: /english/quizzes/practice_relative_clauses.html
     const feedback = document.getElementById(`feedback${index}`);
     const correctAnswers = currentQuestions[index].answers;
     if (correctAnswers.includes(pronoun)) {
-        feedback.className = 'feedback correct';
+        feedback.className = 'feedback correct';
         feedback.innerHTML = `Correct! ${currentQuestions[index].explanation}`;
         if (!feedback.dataset.answered) {
             score++;
@@ -409,7 +433,15 @@ permalink: /english/quizzes/practice_relative_clauses.html
 }
 
         function updateScore() {
-            document.getElementById('score').innerHTML = `Score: ${score} / ${total}`;
+            if (score > bestScore) {
+                bestScore = score;
+                try {
+                    localStorage.setItem(BEST_SCORE_KEY, bestScore);
+                } catch (e) {
+                    // ignore write errors — keep the session best in memory
+                }
+            }
+            document.getElementById('score').innerHTML = `Score: ${score} / ${total} &middot; Best: ${bestScore}`;
         }
 
         function resetQuiz() {
@@ -419,6 +451,7 @@ permalink: /english/quizzes/practice_relative_clauses.html
                 if (feedback) feedback.dataset.answered = false;
             });
             loadQuiz();
+            window.scrollTo({ top: 0, behavior: 'smooth' });
         }
 
         // Load quiz on page load
