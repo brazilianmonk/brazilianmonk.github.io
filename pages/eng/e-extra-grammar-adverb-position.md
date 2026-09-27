@@ -88,5 +88,9 @@ permalink: /english/summaries/adverb-position
 	- in most cases: manner + place + time: e.g., They met by chance in England in 2012.
 	- with verbs of movement: place + manner + time: e.g., They go to school by bus every day. 
 
+## Related lessons on Test-English
+
+- [**Position of adverbs and adverb phrases (B1+)**](https://test-english.com/grammar-points/b1-b2/position-of-adverbs/)
+
 
 

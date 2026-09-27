@@ -86,3 +86,8 @@ Quick rule:
 -   Result / how many → Simple
 -   Process / how long / recent activity → Continuous
 
+## Related lessons on Test-English
+
+- [**Present perfect simple and present perfect continuous (B1)**](https://test-english.com/grammar-points/b1/present-perfect-simple-present-perfect-continuous/)
+- [**Present perfect simple or continuous (B1+)**](https://test-english.com/grammar-points/b1-b2/present-perfect-simple-continuous/)
+

@@ -55,5 +55,11 @@ permalink: /english/summaries/article-position-with-pretty-fairly-rather-quite
 - [**𝕒 / 𝕒𝕟 / 𝕥𝕙𝕖 -- Practice Articles**](/english/quizzes/practice_articles.html) — includes exercises on article position with *pretty, fairly, rather,* and *quite* (mixed in with general article practice).
 - [**Practice Relative Pronouns**](/english/quizzes/practice_relative_clauses.html)
 
+## Related lessons on Test-English
+
+- [**Pretty, rather, quite, fairly: Adverbs of degree (B1+)**](https://test-english.com/grammar-points/b1-b2/pretty-rather-quite-fairly-intensifiers/)
+- [**A/an, the, no article (A1)**](https://test-english.com/grammar-points/a1/a-an-the-no-article/)
+- [**A(n), the, no article (B1)**](https://test-english.com/grammar-points/b1/an-the-no-article/)
+
 
 
