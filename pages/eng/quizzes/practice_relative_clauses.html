@@ -33,9 +33,16 @@ permalink: /english/quizzes/practice_relative_clauses.html
             margin-bottom: 15px;
             display: inline-block;
         }
+        .prompt {
+            font-size: 15px;
+            font-style: italic;
+            color: #555;
+            margin-bottom: 8px;
+        }
         .drop-zone {
             display: inline-block;
-            width: 80px;
+            min-width: 80px;
+            padding: 0 6px;
             height: 30px;
             border: 2px dashed #007bff;
             border-radius: 5px;
@@ -107,7 +114,7 @@ permalink: /english/quizzes/practice_relative_clauses.html
         }
         @media (max-width: 600px) {
             .sentence { font-size: 16px; }
-            .drop-zone { width: 60px; height: 25px; line-height: 25px; }
+            .drop-zone { min-width: 60px; height: 25px; line-height: 25px; }
             .pronoun-option { padding: 8px 12px; font-size: 14px; }
         }
     </style>
@@ -351,7 +358,28 @@ permalink: /english/quizzes/practice_relative_clauses.html
     { sentence: "The lake ___ we fished in was calm.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
     { sentence: "My jacket, ___ is warm, is my favorite.", answers: ["which"], explanation: "'Which' is used for things in a non-defining relative clause." },
     { sentence: "The teacher ___ lessons are engaging is loved.", answers: ["whose"], explanation: "'Whose' shows possession for a person in a defining relative clause." },
-    { sentence: "The film ___ we reviewed was short.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." }
+    { sentence: "The film ___ we reviewed was short.", answers: ["that", "which", "Ø"], explanation: "'That,' 'which,' or zero pronoun can be used for the object in a defining relative clause." },
+    // Preposition + relative pronoun
+    { sentence: "The colleague to ___ I reported has resigned.", answers: ["whom"], explanation: "When the preposition comes BEFORE the pronoun (fronted), only 'whom' (people) or 'which' (things) can be used — never 'that', 'who', or zero." },
+    { sentence: "The painting at ___ we were looking turned out to be a fake.", answers: ["which"], explanation: "Fronted preposition + 'which' for things: at which we were looking. 'That' cannot follow a preposition." },
+    { sentence: "The platform on ___ the train arrives is number three.", answers: ["which"], explanation: "Fronted preposition + 'which' for things: on which the train arrives." },
+    { sentence: "The friend about ___ I told you is arriving tonight.", answers: ["whom"], explanation: "Fronted preposition + 'whom' for people: about whom I told you." },
+    { sentence: "The candidate in ___ we invested has won the election.", answers: ["whom"], explanation: "Fronted preposition + 'whom' (formal) for people; 'who' and 'that' cannot follow a preposition." },
+    { sentence: "The melody to ___ I was listening is from a Japanese film.", answers: ["which"], explanation: "Fronted preposition + 'which' for things: to which I was listening." },
+    { sentence: "The reason for ___ he resigned remains unclear.", answers: ["which"], explanation: "Fronted preposition + 'which': for which he resigned. ('That' is impossible after a preposition.)" },
+    { sentence: "The village ___ I grew up in has changed a lot.", options: ["that", "which", "who", "Ø"], answers: ["that", "which", "Ø"], explanation: "When the preposition stays at the end (stranded: 'in which I grew up' / 'which I grew up in'), 'that' and zero are also fine — but 'who' never works for a thing." },
+    { sentence: "The lawyer ___ I spoke to was reassuring.", answers: ["whom", "who", "that", "Ø"], explanation: "With the preposition stranded at the end ('spoke to'), whom/who/that/zero are all possible; only a fronted preposition forces 'whom'." },
+    // Defining vs. non-defining identification
+    { prompt: "Is the relative clause in this sentence defining or non-defining?", sentence: "My neighbour, who has three dogs, walks them every morning.", options: ["Defining", "Non-defining"], answers: ["Non-defining"], explanation: "The clause is set off by commas and only adds extra information about an already-identified neighbour — it does not tell us which neighbour." },
+    { prompt: "Is the relative clause in this sentence defining or non-defining?", sentence: "The woman who has three dogs lives next door.", options: ["Defining", "Non-defining"], answers: ["Defining"], explanation: "No commas: the clause identifies which woman we mean, so it is defining (restrictive)." },
+    { prompt: "Is the relative clause in this sentence defining or non-defining?", sentence: "Paris, which I visited last spring, is beautiful.", options: ["Defining", "Non-defining"], answers: ["Non-defining"], explanation: "'Paris' is already unique, so the clause only adds extra information — set off by commas, non-defining." },
+    { prompt: "Is the relative clause in this sentence defining or non-defining?", sentence: "The city which I visited last spring is beautiful.", options: ["Defining", "Non-defining"], answers: ["Defining"], explanation: "The clause tells us which city we mean — no commas, defining." },
+    { prompt: "Is the relative clause in this sentence defining or non-defining?", sentence: "Mr Rossi, whose son is in my class, teaches history.", options: ["Defining", "Non-defining"], answers: ["Non-defining"], explanation: "'Mr Rossi' is already identified; the whose-clause just adds information and is set off by commas." },
+    { prompt: "Is the relative clause in this sentence defining or non-defining?", sentence: "The teacher whose son is in my class is from Rome.", options: ["Defining", "Non-defining"], answers: ["Defining"], explanation: "The clause identifies which teacher — no commas, defining." },
+    { prompt: "Is the relative clause in this sentence defining or non-defining?", sentence: "My laptop, which I bought in 2020, still works perfectly.", options: ["Defining", "Non-defining"], answers: ["Non-defining"], explanation: "'My laptop' is already specific; the comma-set clause only adds a detail — non-defining." },
+    { prompt: "Is the relative clause in this sentence defining or non-defining?", sentence: "The laptop that I bought in 2020 broke.", options: ["Defining", "Non-defining"], answers: ["Defining"], explanation: "The clause picks out one laptop among others — defining. Note: 'that' is only possible in defining clauses." },
+    { prompt: "Is the relative clause in this sentence defining or non-defining?", sentence: "The man that I met yesterday was kind.", options: ["Defining", "Non-defining"], answers: ["Defining"], explanation: "The clause identifies which man — defining. 'That' here also signals a defining clause." },
+    { prompt: "Is the relative clause in this sentence defining or non-defining?", sentence: "Elephants, which are the largest land animals, are herbivores.", options: ["Defining", "Non-defining"], answers: ["Non-defining"], explanation: "The comma-set clause adds general information about elephants; it does not distinguish one elephant from another — non-defining." }
 ];
 
         let score = 0;
@@ -379,10 +407,17 @@ permalink: /english/quizzes/practice_relative_clauses.html
             currentQuestions.forEach((q, index) => {
                 const questionDiv = document.createElement('div');
                 questionDiv.className = 'question';
+                questionDiv.dataset.index = index;
+                const opts = q.options || options;
+                const sentenceHtml = q.sentence
+                    ? q.sentence.replace('___', '<span class="drop-zone" id="drop' + index + '"></span>')
+                    : '';
+                const promptHtml = q.prompt ? `<div class="prompt">${q.prompt}</div>` : '';
                 questionDiv.innerHTML = `
-                    <div class="sentence">${q.sentence.replace('___', '<span class="drop-zone" id="drop' + index + '"></span>')}</div>
+                    ${promptHtml}
+                    <div class="sentence">${sentenceHtml}</div>
                     <div class="options">
-                        ${options.map(opt => `<button type="button" class="pronoun-option">${opt}</button>`).join('')}
+                        ${opts.map(opt => `<button type="button" class="pronoun-option">${opt}</button>`).join('')}
                     </div>
                     <div class="feedback" id="feedback${index}"></div>
                 `;
@@ -395,13 +430,13 @@ permalink: /english/quizzes/practice_relative_clauses.html
         function addClickListeners() {
             document.querySelectorAll('.question').forEach(questionDiv => {
                 const zone = questionDiv.querySelector('.drop-zone');
-                const index = zone.id.replace('drop', '');
+                const index = questionDiv.dataset.index;
                 questionDiv.querySelectorAll('.pronoun-option').forEach(option => {
                     option.addEventListener('click', () => {
                         if (questionDiv.dataset.locked) return;
                         questionDiv.dataset.locked = 'true';
                         const pronoun = option.textContent.trim();
-                        zone.textContent = pronoun;
+                        if (zone) zone.textContent = pronoun;
                         checkAnswer(index, pronoun);
                         questionDiv.querySelectorAll('.pronoun-option').forEach(btn => {
                             if (btn !== option) btn.disabled = true;
