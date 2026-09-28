@@ -25,7 +25,7 @@ Website where you can practice typing, spelling, listening, and also learn the m
 
 {% include youtube.html id="knTcEjCX5SQ" %}
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ### [**Test-English.com**](https://test-english.com/)
 
@@ -33,7 +33,7 @@ Website where you can practice typing, spelling, listening, and also learn the m
 
 After a good amount of research, this is the grammar source I settled for. There are accessible level-based lessons with exercises. It's particularly good for grammar (up to B2), but also offers good resources for other aspects of the language such as writing exercises. 
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ### [**Busuu**](https://www.busuu.com/)
 
@@ -41,7 +41,7 @@ After a good amount of research, this is the grammar source I settled for. There
 
 This is a website / app that can help you learn the basics and get exposed to the language in general. As a sole tool for learning a language, it is not enough, so I recommend it as a supplement for brainsoaking.
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ### **Oxford Vocabulary Lists**
 
@@ -51,7 +51,7 @@ The official word lists used in the course, hosted by [Oxford Learner's Dictiona
 - [**Oxford Phrase List**](https://www.oxfordlearnersdictionaries.com/wordlists/oxfordphraselist): the most important phrases to learn in English.
 - [**OPAL -- Oxford Phrasal Academic Lexicon**](https://www.oxfordlearnersdictionaries.com/wordlists/opal): the most important and useful words and phrases for academic English, in four lists (written single words, written phrases, spoken single words, and spoken phrases). This is the list used in the higher semesters of the course, at ~150 items per week.
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ## Quizzes
 
@@ -65,7 +65,7 @@ The official word lists used in the course, hosted by [Oxford Learner's Dictiona
 - [📝 **B2 Words – Column 1** (18 words)](/english/quizzes/B2-words-column-1.html)
 - [📝 **B2 Words – Column 2** (70 words)](/english/quizzes/B2-words-column-2.html)
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ## Grammar Notes
 
@@ -126,14 +126,14 @@ Notes that cover a topic across several levels.
 - [**Animals and Their Onomatopoeia**](/english/summaries/onomatopoeia)
 - [**Expressions with Infinitive and -Ing**](/english/summaries/expressions-with-infinitive-and-ing)
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ## Pronunciation
 
 - [**Tongue Twisters**](/english/summaries/tongue-twisters)
 - [**Difficult Words**](/english/summaries/difficult-words)
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ## The IIT English Language Course
 

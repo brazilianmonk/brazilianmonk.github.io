@@ -23,7 +23,7 @@ Lifespan relative to each realm.
 -   lifespan at the Buddha's time: 100 years
     -   AN: etarahi, bhikkhave, yo ciraṃ jīvati so vassasataṃ appaṃ vā bhiyyo
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ### lifespan of Buddhas
 
@@ -42,7 +42,7 @@ Lifespan relative to each realm.
     -   Prd.: … ye loke manvantara-kappā’ti vuccanti. Ekamekena manunāmakena mahāsammatarājena upalakkhitā antarakappā’ti vuttaṃ hoti
 
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ### 3 antarakappas (sattavināsa)
 
@@ -90,7 +90,7 @@ Lifespan relative to each realm.
     -   in the darker periods of humanity, those who kill their parents are praised
 
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ### aggañña- and cakkavattisīhanāda- suttas
 
@@ -102,7 +102,7 @@ they explain the beginning of the world and how it evolves
     -   in the next antarakappa, when the human lifespan drops down to 80,000, the Buddha Metteyya will appear in a Kingdom called Ketumatī in Jambudīpa
 
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ### period of appearance of Buddhas
 
@@ -110,7 +110,7 @@ they explain the beginning of the world and how it evolves
 -   Buddhas always appear in successive antarakappas (tbc)
 
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ### ratio of drop in human lifespan
 
@@ -119,7 +119,7 @@ they explain the beginning of the world and how it evolves
     -   it seems that it may vary, because if only 1 year drops every 100, during the period in which the lifespan of humans is asaṅkheyya, it would be a too-big difference between generations
 
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ### when the next sattavināsa will occur
 
@@ -143,7 +143,7 @@ at a ratio of 1 year drop every 100 years, it will happen 9.000 years after the 
     -   number of papers to the moon: 10\*23
 
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ### length
 
@@ -156,7 +156,7 @@ measured in antarakappas
 -   note: all 4 asaṅkheyyakappas are of equal duration, generally speaking
 
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ### 2 mahāmeghas
 
@@ -165,7 +165,7 @@ measured in antarakappas
 -   &#x2026;VMM ‒ EX EL ‒ SMM ‒  S & M - VMM&#x2026;
 
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ### 4 types
 
@@ -316,7 +316,7 @@ period of time of 4 asaṅkheyyakappas that takes for an āṇakkhetta of cakkav
 -   sāsapasutta: the 1 cubic yojana iron city (surrounded with an iron wall 1-yojana long, wide and high) filled with mustard seeds; 1 seed is removed every 100 years
 
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ### # of kappas in the past &#x2013; 2 similes
 
@@ -324,7 +324,7 @@ period of time of 4 asaṅkheyyakappas that takes for an āṇakkhetta of cakkav
 -   **gaṅgāsutta**: there are more kappas in the past than grains of sand in the Ganges
 
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ### 5 (+1) types acc. to # of Buddhas
 
@@ -346,7 +346,7 @@ period of time of 4 asaṅkheyyakappas that takes for an āṇakkhetta of cakkav
         etesu pañcakappesu, uppajjanti vināyakā**
 
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ### chronicle of the 24 most recent Buddhas
 

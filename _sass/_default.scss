@@ -15,9 +15,19 @@
   margin: auto;
   display: block;
   width: $container-width - 20px;
+  /* Text sitting directly on the dark backdrop stays legible. Content that
+     lives on light cards ($parchment/$tile) overrides back to dark ink. */
+  color: $gold-soft;
 }
 .content-wrapper h1 {
   margin: 20px 0px 5px;
+  color: $gold-soft;
+}
+.content-wrapper a {
+  color: $gold-soft;
+}
+.content-wrapper a:hover {
+  color: #fbe9c6;
 }
 @media (max-width: $container-width) {
   .container {

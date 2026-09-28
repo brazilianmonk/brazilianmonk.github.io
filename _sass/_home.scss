@@ -17,8 +17,8 @@
   color: white;
   font: bold 18px/45px Helvetica, Sans-Serif;
   letter-spacing: -1px;
-  background: rgb(0, 0, 0); /* fallback color */
-  background: rgba(0, 0, 0, 0.7);
+  background: rgb(59, 31, 16); /* fallback color */
+  background: rgba(59, 31, 16, 0.85);
   padding: 10px;
 }
 .featured-post span a {
@@ -30,21 +30,46 @@
 
 .home-resources {
   margin: 2.5rem 10px 2rem;
+  /* Heading/intro sit directly on the dark backdrop — use light gold text */
+  color: $gold-soft;
+}
+
+/* Placeholder hero image filling the first viewport on the home page.
+   Swap the <img> src in _layouts/home.html when a real image is chosen. */
+.home-hero {
+  margin: 0 0 1rem;
+}
+
+.home-hero__img {
+  /* Viewport height minus the fixed header so the hero fills the first screen */
+  height: calc(100vh - #{$header-thickness});
+  min-height: 320px;
+  width: 100%;
+  object-fit: cover;
+  display: block;
+  border-radius: 0;
+  box-shadow: none;
+  margin: 0;
 }
 
 .featured-resources-title,
 .recent-posts-title {
   margin: 0;
+  color: $gold-soft; /* both sit on the dark backdrop */
+}
+
+.recent-posts-title {
+  margin-top: 2.5rem;
 }
 
 .resources-intro {
-  color: #575757;
+  color: #cbb38f; /* light gold-brown, readable on the dark backdrop */
   line-height: 1.55;
 }
 
 .home-resources__eyebrow,
 .resource-card__label {
-  color: #9a5500;
+  color: $rust;
   font-size: .76rem;
   font-weight: bold;
   letter-spacing: .08em;
@@ -63,10 +88,10 @@
 
 .resource-card {
   align-items: center;
-  background: #fff;
-  border: 1px solid #e2ddd6;
+  background: $parchment;
+  border: 1px solid $tile-border;
   border-radius: 10px;
-  color: #222;
+  color: $rust;
   display: flex;
   gap: 1rem;
   padding: 1rem;
@@ -74,16 +99,28 @@
   transition: border-color .2s ease, box-shadow .2s ease, transform .2s ease;
 }
 
+/* Card links read as tiles, not inline text — no underline (email-tile style).
+   Extra specificity beats the gold `.content-wrapper a` rule from _default. */
+.container a.resource-card,
+.container a.resource-card:hover {
+  text-decoration: none;
+}
+
+.content-wrapper a.resource-card,
+.content-wrapper a.resource-card:hover {
+  color: $rust;
+}
+
 .resource-card:hover,
 .resource-card:focus {
-  border-color: #ad6100;
-  box-shadow: 0 4px 14px rgba(87, 48, 0, .12);
-  color: #222;
+  border-color: $gold;
+  box-shadow: 0 4px 14px rgba(90, 36, 16, .14);
+  color: $rust;
   transform: translateY(-2px);
 }
 
 .resource-card--featured {
-  background: #fffaf3;
+  background: $tile;
   border-color: #d7a35d;
 }
 
@@ -118,7 +155,7 @@
   align-items: center;
   background: #f3e6d4;
   border-radius: 50%;
-  color: #8a4a00;
+  color: $rust;
   display: inline-flex;
   flex: 0 0 2.5rem;
   font-size: 1.25rem;
@@ -138,12 +175,12 @@
 }
 
 .resource-card__content > span:not(.resource-card__label) {
-  color: #5b5b5b;
+  color: $muted;
   line-height: 1.4;
 }
 
 .resource-card__arrow {
-  color: #8a4a00;
+  color: $rust;
   font-size: 1.35rem;
 }
 
@@ -168,7 +205,7 @@
 
 .resource-featured-post {
   align-items: flex-end;
-  background-color: #5a4030;
+  background-color: $brown-mid;
   background-position: center;
   background-size: cover;
   border-radius: 10px;
@@ -181,7 +218,7 @@
 }
 
 .resource-featured-post::before {
-  background: linear-gradient(0deg, rgba(0, 0, 0, .82), rgba(0, 0, 0, .08) 75%);
+  background: linear-gradient(0deg, rgba(43, 20, 8, .85), rgba(43, 20, 8, .08) 75%);
   content: "";
   inset: 0;
   position: absolute;
@@ -207,7 +244,7 @@
 }
 
 .resource-featured-post small {
-  color: #f5c982;
+  color: $gold-soft;
   font-size: .75rem;
   font-weight: bold;
   letter-spacing: .08em;
@@ -228,7 +265,7 @@
 .resource-featured-post--recitation { background-image: url('/assets/img/youtube-channel.jpg'); }
 
 .resources-secondary-title {
-  border-top: 1px solid #e2ddd6;
+  border-top: 1px solid $tile-border;
   padding-top: 1.75rem;
 }
 
@@ -250,8 +287,8 @@
   text-decoration: none;
 }
 .pagination-button {
-  color: #999;
-  border: 1px solid #e0e0e0;
+  color: $gold-soft;
+  border: 1px solid rgba(232, 201, 140, 0.45);
   padding: 15px 45px;
   margin-top: 10px;
   margin-bottom: 10px;
@@ -259,9 +296,14 @@
   font-size: 16px;
   font-weight: bold;
 }
-.pagination-active {
-  color: black;
+/* Anchor + hover specificity beats .content-wrapper a:hover */
+a.pagination-button,
+a.pagination-button:hover {
+  color: $gold-soft;
+  text-decoration: none;
 }
-.pagination-active:hover {
-  background-color: #e0e0e0;
+a.pagination-button.pagination-active:hover {
+  background-color: $rust;
+  border-color: $rust;
+  color: #fff;
 }

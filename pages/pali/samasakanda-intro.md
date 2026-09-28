@@ -42,7 +42,7 @@ rājapuriso
 
 <a id="org296fbd3"></a>
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 ### 2 payojana (purposes) of samāsa
 
 
@@ -55,7 +55,7 @@ rājapuriso
 
 <a id="org4df53fe"></a>
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 ### samāsa-forming words
 
 
@@ -95,7 +95,7 @@ rājapuriso
 
 <a id="org21f48eb"></a>
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 ### construction of a samāsa
 
 
@@ -109,7 +109,7 @@ rājapuriso
 
 <a id="org36e8092"></a>
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 ### 2 samasana
 
 
@@ -122,7 +122,7 @@ rājapuriso
 
 <a id="org3996099"></a>
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 ### samāsa vs sandhi
 
 
@@ -147,7 +147,7 @@ rājapuriso
 
 <a id="orgc9c404b"></a>
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 ### samāsa vs taddhita
 
 
@@ -163,7 +163,7 @@ rājapuriso
 
 <a id="orgf676786"></a>
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 ### samāsa types
 
 -   acc. to elision
@@ -200,7 +200,7 @@ rājapuriso
 
 <a id="org30ff7b3"></a>
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 ### viggahavākya
 
 

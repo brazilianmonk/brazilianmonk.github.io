@@ -9,7 +9,7 @@ permalink: /summaries/abhidhamma/citta-intro
 - citta
 - mano
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ### Viññāṇa
 #### 4 Main Functions of Consciousness
@@ -29,7 +29,7 @@ Meanings:
 
 **Word formation:** vi √ñā > ññā + ana > aṇa > viññaṇa — vi: visesa (unique nature)
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 **2. Ārammaṇa-upaladdhi, -vibhāvana, and -upadhāraṇa**
 
@@ -39,13 +39,13 @@ Meanings:
 
 **Simile of the mūlaṭīka:** Like a guard of a city, the function of consciousness is to make the object evident, to investigate it, and to obtain it.
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 **3. Ārammaṇa vijānana**
 - *Vijānanalakkhaṇaṃ viññāṇaṃ* — the characteristic of viññāṇa is vijānana.
 - All cittas, of all bhūmis, have this characteristic.
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 **4. Sandahana**
 Cittas arise and vanish, and their cintanakiriyāvega produces the subsequent citta immediately after them, connecting conscious moments in a mental flux without any interval between them until parinibbāna.
@@ -54,7 +54,7 @@ Cittas arise and vanish, and their cintanakiriyāvega produces the subsequent ci
 
 Why the flux of cittas is perceived as one single continuous thing: because as soon as one citta passes away, a new consciousness arises connected to it.
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ### Mano
 
@@ -63,7 +63,7 @@ Why the flux of cittas is perceived as one single continuous thing: because as s
 1. √mi / √mā (to measure): *ārammaṇaṃ minamānaṃ jānantīti mano* — it knows the object measuring it.
 2. √man (to know): *manate iti mano* — it knows.
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ### Citta
 
@@ -86,7 +86,7 @@ The third shows the ultimate representation of citta; the others help overcome d
 1. *Attano santānaṃ cinotīti cittaṃ* — it builds up / develops / strengthens its own lineage.
 2. *Kammakilesehi citantipi cittaṃ* — the reality that is built by kamma and kilesa is also called citta.
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ### Lifespan of Citta
 
@@ -98,19 +98,19 @@ The third shows the ultimate representation of citta; the others help overcome d
 **Why does citta not last long?**
 *Arūpadhammā hi sārammaṇā cittapubbaṅgamā, te yathābalaṃ attano ārammaṇavibhāvanavasena pavattantīti tadatthanipphattisamanantarameva nirujjhanato lahuparivattino.*
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ### How Many Objects Can One Citta Cognize?
 Only one object or a group of similar objects at a time.
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ### 3 Reasons Why It Is Difficult to Apprehend the Nature of Consciousness
 1. Due to its subtleness (it cannot be experienced by the physical senses)
 2. Rapidness (it arises and ceases rapidly)
 3. Consciousness can only be known by consciousness itself.
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ### What is Cittasantati?
 The mental continuum / continuity / stream. One citta arises, performs its function, and ceases, being immediately followed by another citta, one generation after the other, creating a continuity.

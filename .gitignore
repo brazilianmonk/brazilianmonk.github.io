@@ -9,3 +9,4 @@ Gemfile.lock
 # agent working dirs (not part of the site)
 build/
 raw/
+_site-test/

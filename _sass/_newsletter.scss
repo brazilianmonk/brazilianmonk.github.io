@@ -4,8 +4,8 @@
   max-width: 520px;
   margin: 0 auto 18px;
   padding: 18px 20px;
-  background: #f9f9f9;
-  border: 1px solid #e0e0e0;
+  background: rgba(255, 250, 241, 0.08);
+  border: 1px solid rgba(232, 201, 140, 0.35);
   border-radius: 8px;
   text-align: center;
 }
@@ -13,7 +13,7 @@
 .newsletter-form__text {
   margin: 0 0 12px;
   font-weight: bold;
-  color: $brand-color;
+  color: $gold-soft;
 }
 
 .newsletter-form__row {
@@ -31,19 +31,29 @@
     flex: 0 0 auto;
     margin-top: 0; // override global form styles
     padding: 10px 18px;
-    background: #AD6100; // site accent, matches contact button
+    background: $gold; // site accent, matches email CTA tones
     white-space: nowrap;
   }
 
   button:hover {
-    background: #8a4e00;
+    background: #b87a1a;
   }
 }
 
 .newsletter-form__note {
   margin: 10px 0 0;
   font-size: 0.8em;
-  color: #777;
+  color: #cbb38f;
+}
+
+// Kit's embed sets its submit button inline; override to the site accent.
+.newsletter .formkit-submit {
+  background-color: $rust !important;
+  color: #fff !important;
+}
+
+.newsletter .formkit-submit:hover {
+  background-color: $rust-dark !important;
 }
 
 // Once the official EmailOctopus embed script is active it injects its

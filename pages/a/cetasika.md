@@ -9,7 +9,7 @@ permalink: /summaries/abhidhamma/cetasika
 
 Renderings: mental factors, mentalities, immaterial dhammas, mental elements.
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ### 4 Main Activities Done by Cetasikas
 - Bodily acts
@@ -17,7 +17,7 @@ Renderings: mental factors, mentalities, immaterial dhammas, mental elements.
 - Mental acts
 - Cognizing objects
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ### Sampayogalakkhaṇas of Cetasikas
 - **Ekuppāda**: they arise together with the associated citta
@@ -27,30 +27,30 @@ Renderings: mental factors, mentalities, immaterial dhammas, mental elements.
 
 > *Ekuppāda nirodhā ca / ekālambaṇavatthukā / cetoyuttā dvipaññāsa / dhammā cetasikā matā*
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ### How Many Cetasikas in Total?
 52
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ### What is Cittuppāda?
 - One citta together with its concomitant cetasikas are collectively called cittuppāda or nāmakalāpa
 - In some places, maggacittuppāda or phalacittuppāda is used referring to the totality of dhammas that occur together. E.g., 29 maggacittuppāda: citta and 28 cetasikas that belong to saccavinnimuttadhammas according to Dhammasaṅgaṇī method.
 
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ### Nāma — Definition
 *Namatīti nāmaṃ* — they are called nāma since they bend towards an object.
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ### Minimum / Maximum Cetasikas in One Cittuppāda
 - Min: 7
 - Max: 36
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ### Minimum Number of Nāmas / Rūpas Occurring Together
 - 8 nāmas

@@ -27,6 +27,6 @@ To see where I'll be speaking, teaching, or holding retreats, check the [upcomin
     <label for="message">Message:</label>
     <textarea id="message" name="message" rows="5" required></textarea>
 
-    <button type="submit" style="background-color: #AD6100; border: none; color: white; padding: 8px 16px;">Send Message</button>
+    <button type="submit" style="background-color: #8a3b12; border: none; color: white; padding: 8px 16px; border-radius: 6px;">Send Message</button>
 </form>
 

@@ -163,7 +163,7 @@ Here, you'll find my Dhamma notes and summaries (most still unformatted). These 
   - [Introduction](/summaries/pali/samasakanda-intro)
   - [Abyayībhāvasamāsa](/summaries/pali/samasakanda-abyayibhava)
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ## Abhidhamma
 
@@ -186,7 +186,7 @@ Here, you'll find my Dhamma notes and summaries (most still unformatted). These 
   - [Introduction](/summaries/abhidhamma/cetasika)
 - [Kappas: 4 types](/summaries/abhidhamma/kappa) 
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ## Vinaya
 

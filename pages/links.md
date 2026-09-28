@@ -14,7 +14,7 @@ Here are some links to reliable resources for Theravāda Buddhism that I'm fairl
 
 This is a new project with the entire Tipiṭaka, commentaries, and sub-commentaries translated by AI. The entre system was put together by Ven. Vietnam Dhammañāṇa. It uses several resources as reference, including the Myanmar Nissaya texts (detailed translations). It is **not** 100% reliable but quite good, especially the root texts (mūla) and first-level commentaries (aṭṭhakathā). It is great for someone who is learning Pāḷi or for research as it includes commentarial definitions of words, AI search limited to the Tipiṭaka, and more. It also has some unique features of linking key words to their commentarial passages, as well as TTS. It also offers a system to make your own translations of the Tipiṭaka in your target language. 
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ### [**Open Tipiṭaka**](https://opentipitaka.org/?lang=es) (website, app)
 <img src="/assets/img/opentipitaka.png" alt="description" style="width: 50%;">
@@ -23,7 +23,7 @@ This is a new project with the entire Tipiṭaka, commentaries, and sub-commenta
 
 This is a translation project led by [Ven. PRC Sumana](https://www.facebook.com/uppala.putta) and the Pa Auk Society that includes the content of the Tipiṭaka in several languages translated by AI. Though **not** very reliable, well structured AI translations like this can be very useful for research and learning Pāḷi. It has several functions such as multiple-language TTS. 
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ### [**Tipiṭaka Pāḷi Reader**](https://americanmonk.org/tipitaka-pali-reader/) (app)
 <img src="/assets/img/tpr.png" alt="description" style="width: 35%;">
@@ -32,7 +32,7 @@ This is a translation project led by [Ven. PRC Sumana](https://www.facebook.com/
 
 This is an app made by Bhante USA Subhūti Thera. It contains most Pāḷi texts, English translations, dictionaries, and the content of the e-piṭaka (above) as well with a modern UI.
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ### [**Digital Pāḷi Reader**](https://www.digitalpalireader.online/_dprhtml/index.html) (website, app)
 <img src="/assets/img/dpr.png" alt="description" style="width: 50%;">
@@ -41,21 +41,21 @@ This is an app made by Bhante USA Subhūti Thera. It contains most Pāḷi texts
 
 Study tool designed by Bhante Yuttadhammo for reading, searching within, and analyzing the Pāḷi Canon. It includes the Digital Pāḷi Dictionary, a staple for Pāḷi learners. It can be downloaded locally.
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ### [**Ancient Buddhist Texts**](https://ancient-buddhist-texts.net/index.htm) (website)
 <img src="/assets/img/abt.png" alt="description" style="width: 50%;">
 
 An extensive repository of Buddhist literature. Curated and maintained by Bhante Malaysia Ānandajoti.
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ## 🇧🇷 No Brasil
 #### [**Sociedade Buddhista do Brasil**](https://sociedadebudistadobrasil.org/) (organization)
 <img src="/assets/img/sbb.png" alt="description" style="width: 50%;">
 Grupo de praticantes Theravāda no RJ. 
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 #### [**Mosteiro Suddhavāri**](https://suddhavari.org/) (monastery)
 
@@ -73,7 +73,7 @@ Centro de meditação e estudo Theravāda em São Paulo, Brasil.
 
 Esse site liderado por [Michael Beisert](https://www.acessoaoinsight.net/arquivo_textos_theravada/beisert.php.html) tem bastante material traduzido ao Português. 
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ## 🇪🇸🇲🇽🇺🇾 En Español
 #### [**Asociación Hispana de Buddhismo**](https://buddhismohispano.org/) (organization)
@@ -91,7 +91,7 @@ Un forum online de comunidades sin fines comerciales ni lucrativos y monásticos
 
 Un proyecto de traducción del Digital Pāḷi Dictionary (Bhante Sri Lanka Bodhirasa) al Español liderado por Bhante Rāhula del [Monasterio Paññabhūmi](https://dhamma-pb.org/).
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 #### [**Karuṇapura**](https://www.karunapura.com/sutta) (website)
 <img src="/assets/img/karunapura.png" alt="description" style="width: 50%;">
@@ -113,21 +113,21 @@ This is the Pa Auk monastery in Maymyo, Myanmar, where I ordained and spent abou
 
 [**List of Pa Auk Branches** 🌐](https://www.paaukthailand.org/en/paaukbranches/?hl=en-US)
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ### [**International Institute of Theravāda**](https://www.theravado.com/)
 <img src="/assets/img/iit.jpg" alt="" style="width: 40%;">
 
 Monastery/Institute for study. The level is quite rigorous (as per 2026) and includes all traditional topics of study such as Pāḷi, Abhidhamma, Suttanta, Vinaya, etc. with 24 45-minute classes and 2 exams a week. Lessons are given in either English or Sinhala medium. The Institute is planned to also give academic recognition (BA and possibly MA). There are 2 courses: the 6-year long Nissayamuttaka Course (BA) and the 2-year long Parisupaṭṭhāpaka Course (MA). The first covers all requirements for a monk to be independent, and considerably more. The latter prepares monks further and allow them to teach. 
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ### [**Na Uyana Forest Monastery**](https://nauyana.org/)
 <img src="/assets/img/nauyana.png" alt="" style="width: 70%;">
 
 This important Dhamma center in Sri Lanka is mainly for meditation with some optional classes, Dhamma talks, etc., mainly in Sinhalese. It's a large area that includes 3 sections with different environments (from more to less secluded). There is also a nearby monastery for study. I recommend Bhante Ariyadassana as guide.
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ### [**Wat Khao Sanam Chai**](https://web.facebook.com/watkhaosanamchai)
 <img src="/assets/img/wat-khao-sanam-chai.png" alt="" style="width: 80%;">
@@ -152,27 +152,27 @@ Though not personally familiarized with their work, I'll keep here a list of som
 ### [**Harvard / MGH Meditation Research Program**](https://meditation.mgh.harvard.edu/)
 Focuses on the neurobiology of advanced meditation, mapping deep states of consciousness and profound psychological transformations using advanced neuroimaging.
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ### [**Center for Healthy Minds**](https://centerhealthyminds.org) (University of Wisconsin–Madison)
 Foundational institute in contemplative neuroscience that famously maps the brain activity and sustained gamma wave oscillations of long-term practitioners.
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ### [**The Mindfulness Center at Brown University**](https://www.brown.edu/public-health/mindfulness)
 Houses major projects on the clinical implementation of mindfulness, neurofeedback targeting the Default Mode Network, and the study of difficult contemplative experiences.
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ### [**Oxford Mindfulness Foundation & Research Centre**](https://www.oxfordmindfulness.org)
 A global leader in integrating Mindfulness-Based Cognitive Therapy (MBCT) into mainstream psychological treatments and public health systems.
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ### [**Max Planck Institute for Human Cognitive and Brain Sciences**](https://www.cbs.mpg.de)
 Conducts large-scale longitudinal studies mapping the long-term physiological and structural brain impacts of mental training and meditation.
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ### [**University of Virginia: The Division of Perceptual Studies**](https://med.virginia.edu/perceptual-studies/)
 Scientific studies on past-lives and extraordinary human experiences and capacities. 

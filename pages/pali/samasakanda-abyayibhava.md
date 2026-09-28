@@ -37,7 +37,7 @@ permalink: /summaries/pali/samasakanda-abyayibhava
 
 <a id="org491a92e"></a>
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 ### abyaya &#x2013; definition
 
 
@@ -52,7 +52,7 @@ permalink: /summaries/pali/samasakanda-abyayibhava
 
 <a id="orgb58f9f9"></a>
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 ### 2 viggahas acc. to the words it uses
 
 
@@ -76,7 +76,7 @@ permalink: /summaries/pali/samasakanda-abyayibhava
 
 <a id="org345f7ef"></a>
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 ### substitutes for upasaggas
 
 
@@ -102,7 +102,7 @@ permalink: /summaries/pali/samasakanda-abyayibhava
 
 <a id="org72dcf91"></a>
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 ### upasaggas that do not require substitute
 
 
@@ -112,7 +112,7 @@ permalink: /summaries/pali/samasakanda-abyayibhava
 
 <a id="orgbef2788"></a>
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 ### from viggaha to samāsa
 
  
@@ -136,7 +136,7 @@ permalink: /summaries/pali/samasakanda-abyayibhava
 
 <a id="org042206c"></a>
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 ### abyayībhāva's gender & declension
 
 
@@ -305,7 +305,7 @@ permalink: /summaries/pali/samasakanda-abyayibhava
 
 <a id="org7016559"></a>
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 ### 2 types acc. to first word
 
 
@@ -318,7 +318,7 @@ permalink: /summaries/pali/samasakanda-abyayibhava
 
 <a id="org2246d60"></a>
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 ### upasaggapubbaka examples
 
 
@@ -368,7 +368,7 @@ permalink: /summaries/pali/samasakanda-abyayibhava
 
 <a id="orgc4fd8ac"></a>
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 ### nipātapubbaka examples
 
 

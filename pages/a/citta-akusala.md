@@ -10,7 +10,7 @@ permalink: /summaries/abhidhamma/citta-akusala
 - **Arūpabhūmi** (4 arūpa realms)
 - **Lokuttarabhūmi** (maggacitta, phalacitta, their associated cetasikas, and Nibbāna)
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ### Meaning of Loka here
 Refers to the Lokiya Saṅkhata Dhammas (mundane conditioned phenomena)
@@ -29,7 +29,7 @@ Refers to the Lokiya Saṅkhata Dhammas (mundane conditioned phenomena)
 - **Arūpāvacaracitta** (consciousness of the immaterial sphere)
 - **Lokuttaracitta** (supramundane consciousness): consciousness that transcends (magga) or has transcended (phala) the conditioned world
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ---
 ## Kāmāvacaracittas
@@ -39,14 +39,14 @@ The association with cetasikas such as lobha, dosa, and moha which produce bad r
 
 Association with cetasikas such as alobha, adosa, amoha, faith, mindfulness, wisdom, lovingkindness, and so on, which produce good results, satisfy and develop the mind and body, makes a citta **wholesome**.
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 #### 4 Definitions of Akusala
 1. **Association**: associates lobha, dosa, or moha
 2. **Immediate effects**: disturbs mental peace (1), oppresses the body (2)
 3. **Results**: produces bad results in the future
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 #### 4 Definitions of Kusala
 1. **Association**: associates alobha, adosa, or amoha
@@ -58,13 +58,13 @@ Association with cetasikas such as alobha, adosa, amoha, faith, mindfulness, wis
 #### Hetu (root)
 The cetasikas which firmly take the object or that have a firm footing on the object. The cetasikas that facilitate vedanā to feel the object well.
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 
 ##### 3 Akusala Hetus
 Lobha, dosa, and moha
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ##### 3 Kusala (Sobhana) Hetus
 Alobha, adosa, and amoha
@@ -74,7 +74,7 @@ Note: they can be kusala, vipāka, or kiriya.
 #### How are Akusalacittas Classified?
 According to the 3 akusalahetus, resulting in 3 types as lobhamūla, dosamūla, and mohamūla.
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 #### Lobhamūlacittas
 ##### Lobha
@@ -85,7 +85,7 @@ According to the 3 akusalahetus, resulting in 3 types as lobhamūla, dosamūla, 
 
 **How are lobhamūlacittas classified?** According to vedanā (somanassa or upekkhā), sampayoga (diṭṭhi sam/vipayutta), and saṅkhāra (sa/asaṅkhārika).
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ##### Prompted (Sasaṅkhārika) or Unprompted (Asaṅkhārika)
 
@@ -97,7 +97,7 @@ Prompted can be bodily, verbal, or mental. Prompted means there is reluctance. P
 Asaṅkhārika ⇒ sasaṅkhārika: possible
 Sasaṅkhārika ⇒ asaṅkhārika: not possible
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ##### 3 Types of Ārammaṇarasa (Flavor of the Object)
 - **Iṭṭha** (desirable): ati iṭṭha, iṭṭhamajjhatta
@@ -106,7 +106,7 @@ Sasaṅkhārika ⇒ asaṅkhārika: not possible
 
 Ārammaṇarasa is **objective**, but a wise being can cognize according to his will.
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ##### Vedanā
 
@@ -125,17 +125,17 @@ There are **22 indriyas**.
 
 Dosa is that which opposes, resists, dislikes, fears, or hates the object. Dosa is also called 'paṭigha' (ill-will) because of the nature of clashing.
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ##### Dosamūlacittas are classified according to what?
 Saṅkhāra (prompted or unprompted)
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ##### What other cetasikas occasionally associate dosamūlacittas?
 Issā (envy), macchariya (stinginess), or kukkucca (remorse).
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ##### Dosamūlacittas arise when committing seven of the ten courses of unwholesome actions:
 - Pāṇātipāta (killing)
@@ -152,19 +152,19 @@ Issā (envy), macchariya (stinginess), or kukkucca (remorse).
 
 **Moha (Delusion):** that which darkens the mind making it incapable of realizing the object properly. Moha is an akusalasādhāraṇa cetasika — present in all unwholesome consciousnesses but very strongly in delusion rooted ones.
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ##### 2 cetasikas that help classify mohamūlacittas
 Vicikicchā (skeptical doubt) and uddhacca (restlessness).
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ##### 3 reasons for mohamūlacitta being always accompanied by neutral feeling
 - Moha conceals the nature of the object
 - Vicikicchā has no certainty about the object
 - Uddhacca shakes due to excessive restlessness
 
-<hr style="width: 40%; margin: 1rem auto; border: 1px solid #AD6100;">
+<hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
 ##### prompted or unprompted?
 According to Ledi: they are never prompted but always unprompted since they naturally/spontaneously occur in beings.

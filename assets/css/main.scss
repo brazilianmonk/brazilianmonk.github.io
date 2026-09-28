@@ -5,7 +5,23 @@ $base-font-family: 'Roboto', sans-serif;
 $body-font-family: 'Roboto', sans-serif;
 $code-font-family: "Source Code Pro", monospace;
 
-$brand-color: black;
+/* Palette shared with the newsletter template (light, warm, forest-monk) */
+$cream:        #f6efe3;  // inner content backdrop (email body)
+$parchment:    #fffaf1;  // cards & content (email card)
+$tile:         #fbf1de;  // soft tile background (email tiles)
+$tile-border:  #eadbbd;  // tile/hairline borders
+$hairline:     #e6d9c6;  // separators (email hr)
+$ink:          #4a3526;  // body text — the monasteries-page dark brown
+$brown-dark:   #3b1f10;  // headings, footer & outer backdrop (email footer)
+$brown-mid:    #5a2410;  // header band & accents (email header)
+$rust:         #8a3b12;  // links & buttons (email link color)
+$rust-dark:    #6d2e0d;  // link hover
+$gold:         #d9962b;  // accents (email divider)
+$gold-soft:    #e8c98c;  // gold on dark backgrounds
+$forest:       #2e4a33;  // occasional dark green accent
+$muted:        #6b5744;  // secondary text (email muted)
+
+$brand-color: $rust;
 
 $container-width: 800px;
 $tablet-width: 600px;
@@ -13,8 +29,9 @@ $phone-width: 480px;
 
 $header-thickness: 56px;
 
+$header-bg: #ffffff;  // pure white header bar (logo visibility)
 $icon-transition-time: 1.0s;
-$envelope-color: #f39c12;
+$envelope-color: #d9962b;
 $twitter-color: #00aced;
 $instagram-color: #375989;
 $github-color: #343434;
@@ -29,9 +46,10 @@ form {
     max-width: 500px;
     margin: 20px auto;
     padding: 20px;
-    background: #f9f9f9;
+    background: $tile;
+    border: 1px solid $tile-border;
     border-radius: 8px;
-    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 4px 10px rgba(59, 31, 16, 0.08);
 }
 
 label {
@@ -40,26 +58,28 @@ label {
     font-weight: bold;
 }
 
-input, textarea {
+input, textarea, select {
     width: 100%;
     padding: 10px;
     margin-top: 5px;
-    border: 1px solid #ccc;
+    border: 1px solid $tile-border;
     border-radius: 5px;
+    background: #fffdf8;
+    color: $rust;
 }
 
 button {
     margin-top: 15px;
     padding: 10px;
-    background: #007bff;
-    color: white;
+    background: $rust;
+    color: #fff;
     border: none;
     cursor: pointer;
     border-radius: 5px;
 }
 
 button:hover {
-    background: #0056b3;
+    background: $rust-dark;
 }
 
 .social-links {

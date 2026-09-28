@@ -5,8 +5,9 @@
   position: fixed;
   top: 0;
   left: 0;
-  background-color: white;
-  box-shadow: 0 5px 6px -6px #bbb;
+  background-color: $header-bg;
+  border-bottom: 1px solid $hairline;
+  box-shadow: 0 5px 6px -6px rgba(59, 31, 16, 0.25);
   z-index: 100;
   display: flex; 
   justify-content: space-between; 
@@ -75,14 +76,14 @@
   left: 6px;
   top: 50%;
   transform: translateY(-50%);
-  color: #ccc;
+  color: $muted;
   font-size: 0.65rem;
   z-index: 2;
   transition: color 0.3s ease;
 }
 
 .nav-search:focus-within .search-icon {
-  color: #999;
+  color: $rust;
 }
 
 #nav-search-input {
@@ -105,7 +106,7 @@
 }
 
 #nav-search-input::placeholder {
-  color: #ccc;
+  color: #b3a18c;
   font-size: 0.7rem;
 }
 
@@ -139,8 +140,8 @@
   display: flex;
   flex-direction: column;
   padding: 12px 15px;
-  border-bottom: 1px solid #f0f0f0;
-  color: #333;
+  border-bottom: 1px solid $hairline;
+  color: $rust;
 }
 
 #results-container li:last-child a {
@@ -149,13 +150,13 @@
 
 #results-container li a:hover,
 #results-container li a.is-active {
-  background-color: #f9f9f9;
+  background-color: $tile;
 }
 
 .search-no-results {
   padding: 12px 15px;
   font-size: 0.8rem;
-  color: #888;
+  color: $muted;
 }
 
 /* --- Clear Button --- */
@@ -176,14 +177,14 @@
 }
 
 .search-clear.is-visible { display: block; }
-.search-clear:hover { color: #333; }
+.search-clear:hover { color: $ink; }
 
 .res-t { font-weight: 600; font-size: 0.9rem; }
-.res-d { font-size: 0.75rem; color: #9a9a9a; }
+.res-d { font-size: 0.75rem; color: $muted; }
 
 /* Highlighted query matches in result snippets */
 .res-hl {
-  background: #fff3bf;
+  background: #f7e3b8;
   color: inherit;
   padding: 0 1px;
   border-radius: 2px;
@@ -191,18 +192,18 @@
 
 /* Query matches highlighted on the target page (via #hl= fragment) */
 mark.hl-target {
-  background: #fff3bf;
+  background: #f7e3b8;
   color: inherit;
   padding: 0 1px;
   border-radius: 2px;
 }
 mark.hl-first {
-  background: #ffd54d;
+  background: $gold;
   animation: hl-pulse 1.2s ease-in-out 2;
 }
 @keyframes hl-pulse {
-  0%, 100% { background: #ffd54d; }
-  50% { background: #ffb3b3; }
+  0%, 100% { background: $gold; }
+  50% { background: #f5d9a0; }
 }
 
 /* --- Desktop Menu (Right) --- */
@@ -215,13 +216,13 @@ mark.hl-first {
 
 .menu-link {
   padding: 0 10px;
-  color: #333;
+  color: $brown-dark;
   font-size: 16px;
   font-weight: 500;
 }
 
 .menu-link:hover {
-  color: #AF6100;
+  color: $rust;
 }
 
 /* --- Mobile Responsiveness --- */
@@ -254,7 +255,7 @@ mark.hl-first {
   /* Dropdown Toggle Button */
   .dropbtn {
     background: none;
-    color: black;
+    color: $brown-dark;
     padding: 0 10px; /* Reduced vertical padding */
     font-size: 20px;
     border: none;
@@ -264,7 +265,7 @@ mark.hl-first {
 
   /* Hover color */
   .dropbtn:hover {
-    color: #AF6100; /* your desired color */
+    color: $rust;
     background: none;
   }
 
@@ -276,19 +277,19 @@ mark.hl-first {
   .dropdown-content {
     display: none;
     position: absolute;
-    background-color: white;
+    background-color: $header-bg;
     min-width: 200px;
-    box-shadow: 0px 8px 16px rgba(0,0,0,0.1);
+    box-shadow: 0px 8px 16px rgba(59, 31, 16, 0.15);
     z-index: 101;
     right: 0;
     border-radius: 8px;
   }
 
   .dropdown-content a {
-    color: black;
+    color: $rust;
     padding: 12px 16px;
     display: block;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid $hairline;
   }
 
   .dropdown:hover .dropdown-content {

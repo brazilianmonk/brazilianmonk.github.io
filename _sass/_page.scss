@@ -4,9 +4,28 @@
   display: block;
   margin: 2rem auto;
   padding: 0 1rem 2rem;
-  background-color: #fff;
+  background-color: $parchment;
+  /* Light card on the dark backdrop: dark brown text like the rest of the site */
+  color: $rust;
   border-radius: 12px;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  box-shadow: 0 1px 3px rgba(59, 31, 16, 0.12);
+}
+
+/* Links inside the light card read as rust, overriding the gold
+   backdrop-link style (.content-wrapper a) */
+.page-content a,
+.page-content a:hover {
+  color: $rust;
+}
+.page-content a:hover {
+  color: $rust-dark;
+  text-decoration: underline;
+}
+
+/* Headings inside the light card: dark brown (beats .content-wrapper h1 gold) */
+.page-content h1, .page-content h2, .page-content h3,
+.page-content h4, .page-content h5, .page-content h6 {
+  color: $brown-dark;
 }
 
 /* Responsive page content */
