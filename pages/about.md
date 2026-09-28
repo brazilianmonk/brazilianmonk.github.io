@@ -6,7 +6,7 @@ permalink: /about
 
 ## the Author: Bhikkhu Brazil Ariyañāṇa Thera
 
-<img src="/assets/img/round-me-214.jpg" alt="description" class="no-effect" style="width: 40%;">
+<img src="/assets/img/round-me-no-background.png" alt="description" class="no-effect" style="width: 35%;">
 
 **1991**: born in Brazil as Stefano Domit Cervo. 
 
