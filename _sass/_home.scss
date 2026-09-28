@@ -37,12 +37,22 @@
 /* Placeholder hero image filling the first viewport on the home page.
    Swap the <img> src in _layouts/home.html when a real image is chosen. */
 .home-hero {
-  margin: 0 0 1rem;
+  /* Full-bleed: stretch to every side of the viewport (the vw trick escapes
+     the centered content column). body has overflow-x hidden to absorb the
+     scrollbar-width overshoot. */
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  /* Flush against the fixed header: content-wrapper pads an extra 10px. */
+  margin-top: -10px;
+  margin-bottom: 0;
 }
 
-.home-hero__img {
-  /* Viewport height minus the fixed header so the hero fills the first screen */
+/* Extra specificity beats the base `body img:not(.no-style)` margin rule. */
+.content-wrapper .home-hero__img {
+  /* Viewport height minus the fixed header so the hero fills the first screen
+     exactly, touching the header at top and the fold at bottom */
   height: calc(100vh - #{$header-thickness});
+  height: calc(100dvh - #{$header-thickness});
   min-height: 320px;
   width: 100%;
   object-fit: cover;

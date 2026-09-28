@@ -76,6 +76,8 @@ body {
   /* Furthest background: the footer's dark brown (email footer tone), so the
      page flows seamlessly into the footer. Light content cards sit on top. */
   background-color: $brown-dark;
+  /* Absorbs the ~scrollbar-width overshoot of the full-bleed home hero (100vw). */
+  overflow-x: hidden;
 }
 
 /* Responsive Images */
