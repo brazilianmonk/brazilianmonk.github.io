@@ -19,11 +19,15 @@ jobs:
           ruby-version: '3.3'
           bundler-cache: false
 
-      - name: Install Jekyll
-        run: gem install jekyll --no-document
+      # The theme (millennial.gemspec) pulls in jekyll-feed, jekyll-seo-tag,
+      # etc. With a Gemfile present, a bare `gem install jekyll` + `jekyll`
+      # makes the binary defer to Bundler and fail before rendering anything.
+      # Always build through the Gemfile environment.
+      - name: Install site dependencies
+        run: bundle install
 
       - name: Build site
-        run: jekyll build
+        run: bundle exec jekyll build
 
       - name: Announce new posts to Kit subscribers
         env:
