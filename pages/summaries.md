@@ -123,6 +123,7 @@ Here, you'll find my Dhamma notes and summaries (most still unformatted). These 
 
 #### Niruttidīpaṇī — class notes
 - [Part I: saññārāsi, saṅketarāsi, sandhividhāna (Semester III)](/summaries/pali/niruttidipani-part-1)
+- [Part I Vocabulary — saññārāsi, saṅketarāsi, sandhividhāna](/summaries/pali/niruttidipani-part-1-vocab)
 - [Part II: sandhi by type (Semester IV)](/summaries/pali/niruttidipani-part-2)
 - [Nāmakaṇḍa (Semester V notes)](/summaries/pali/niruttidipani-namakanda-notes)
 
@@ -145,9 +146,11 @@ Here, you'll find my Dhamma notes and summaries (most still unformatted). These 
 - [Pāḷi Vocabulary — all semesters, grouped](/summaries/pali/vocabulary)
 
 #### Elaborated study pages (from the notes above)
-- [Saññarāsi](/summaries/pali/niruttidipani-sannarasi)
+- [Saññārāsi 1 — Garusaññārāsi](/summaries/pali/niruttidipani-sannarasi)
+- [Saññārāsi 2 — Byañjanavuttirāsi & Lahusaññārāsi](/summaries/pali/niruttidipani-sannarasi-2)
 - [Saṅketarāsi](/summaries/pali/niruttidipani-sanketarasi)
-- [Sandhividhāna](/summaries/pali/niruttidipani-sandhividhana)
+- [Sandhividhāna 1 — the 8 sandhis & Saralopa](/summaries/pali/niruttidipani-sandhividhana)
+- [Sandhividhāna 2 — Byañjanalopa & Bindulopa](/summaries/pali/niruttidipani-sandhividhana-2)
 - [Nāmakaṇḍa](/summaries/pali/namakanda)
 - Kārakakaṇḍa
   - [Introduction](/summaries/pali/karakakanda-intro)

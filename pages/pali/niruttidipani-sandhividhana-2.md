@@ -1,0 +1,171 @@
+---
+layout: page
+title: "Niruttidīpaṇī Part I · Sandhividhāna 2 — Loparāsi: Byañjanalopa & Bindulopa (suttas 30–31)"
+permalink: /summaries/pali/niruttidipani-sandhividhana-2
+---
+
+*Part of [Niruttidīpaṇī — Part I](/summaries/pali/niruttidipani-part-1); continues [Sandhividhāna 1 — the 8 sandhis & Saralopa](/summaries/pali/niruttidipani-sandhividhana).*
+
+## <i><b>30. saṃyogādi lopo.</b></i> (elision of the first consonant of a conjunct)
+
+- <i><b>saṃyogassa ādibhūto byañjano kvaci lopo hoti vā.</b></i>
+- First consonant of a conjunct is alternatively elided in some places.
+- suttavutti: saṁyogassa, ādibhūto, lopo
+- anuvattanavutti: kvaci, vā
+- pakkhipanavutti: byañjano, hoti
+- note:
+- 3 vutti
+- <i><b>suttavutti </b></i>(words directly mentioned in the sutta)
+- <i><b>anuvattanavutti </b></i>(words that are implied in the sutta - tbc)
+- <i><b>pakkhipanavutti </b></i>(words added by the grammarian)
+- <i><b>pupphaṃsā uppajjati – idha pubbasuttena saralopo,</b></i>
+- pupphaṃ + assā ⇒ Her menstrual flux appears – Here, elision of the vowel happens by the previous rule.
+- <i><b>evaṃsa te āsavā pahīnā honti,</b></i>
+- evaṃ + assa Thus, those defilements of his are eliminated
+- <i><b>sace bhutto bhaveyyāhaṃ, sājīvo garahito mama - assa+ājīvoti chedo, bhaveyyāti attho.</b></i>
+- Bhaveyyāhaṃ + assa + ājīvo ⇒ bhaveyyāhaṁ ssa ājīvo ⇒ bhaveyyāhaṁ sa ājīvo<br>mama ājīvo garahito assa (optative to be - as eyya ⇒ as sa<br>If I become the one who has eaten, my livelihood would be blamed. (If I ate that, my livelihood would have become blameworthy). Cu ng (disjoining) should be done as assa + ājīvo. Bhaveyya (may be/would be) is the meaning (of assa).
+- <i><b>note</b></i>:
+- <i><b>sandhi</b></i> can happen between the <i><b>first and second</b></i>, or <i><b>third and fourth</b></i> lines of a verse<br>not between the second and third
+- <i><b>tīsu byañjanesu sarūpānaṃ dvinnaṃ ādibyañjanassa lopo – agyāgāraṃ, agyāhito, vutyassa, vityānubhūyate, ekasataṃ khatyā, ratyo, ratyā, ratyaṃ, sakvāhaṃ mārisa devānamindo, iccādi.</b></i>
+- Among three consonants, elision happens to the first consonants of the two similar consonants -
+- agyāgāraṃ: aggi + āgāraṃ (room for sacrificial fire) ⇒ aggyāgāraṁ ⇒ agyāgāraṁ
+- agyāhito: aggi + āhito (kindled fire)
+- vutyassa: vutti + assa (should be a person who has practice)
+- vityānubhūyate: vitti + anubhūyate (wealth is enjoyed)
+- ekasataṃ khatyā (one hundred and one men of ruling caste): khattiyā
+- ratyo: rattiyo (nights)
+- ratyā: rattiyā (by night)
+- ratyaṃ: rattiyaṃ (in the night)
+- sakvāhaṃ mārisa devānamindo, iccādi. (sir, I am the sakka, who is the king of deites, and so on): Sakko + ahaṃ ⇒ sakkvahaṁ ⇒ sakvāhaṁ
+- <i><b>sarūpānanti kiṃ? titthyā puthuso vadanti, catutthyantaṃ, chaṭṭhuntaṃ, cakkhvābādhaṃ, vatthvettha. iti byañjanaloparāsi.</b></i>
+- Why is the term ‘sarūpānaṃ’ there? (when three dissimilar consonants, no elision occurs)
+- Ti<i><b>tthy</b></i>ā puthuso vadanti (people of other sects diversely say): Ti<i><b>tth</b></i>iyā
+- catu<i><b>tthy</b></i>antaṃ: catuṭṭhī + antaṃ (a term ending with da ve case)
+- cha<i><b>ṭṭhy</b></i>antaṃ: chaṭṭhī + antaṃ (a term ending with genitive case)
+- in burmese scripts it is wrongly given as chaṭṭhy<i><b>un</b></i>taṁ
+- ca<i><b>kkhv</b></i>ābādhaṃ: cakkhu + ābādhaṃ (disease of the eye)
+- va<i><b>tthv</b></i>ettha (here, the land):  Vatthu + ettha
+- <i><b>Iti byañjanaloparāsi.</b></i>
+- This is the collection of elision of consonants.
+- **vocab:** see the [Part I Vocabulary](/summaries/pali/niruttidipani-part-1-vocab) page
+## <i><b>bindu</b></i>lopa
+
+### <i><b>31. lopo</b></i> (elision of niggahīta)
+
+- <i><b>Niggahītassa kvaci lopo hoti vā.</b></i>
+- In some places, elision of niggahīta happens alternatively. (not compulsory)
+- <i><b>Sare pare tāva</b></i> –
+- First, when a vowel is succeeding (following are the examples) –
+- <i><b>evāhaṃ cintayitvāna</b></i>
+- (evaṃ + ahaṃ ⇒ eva ahaṁ (lopo) ⇒ avāhaṁ)
+- I, having thought like this
+- <i><b>pupphadānaṃ adāsahaṃ - adāsiṃ + ahanti chedo, bindulopo, puna pubbasaralopo</b></i>
+- (adāsiṃ + ahaṃ ⇒ adāsi ahaṁ ⇒ adāsahaṁ)
+- I offered (made) a flower offering. Separation should be done as adāsiṃ + ahaṃ, elision of the  niggagīta happens, Again, elision of the preceeding vowel happens
+- <i><b>Tuyhatthāya mahāmuni</b></i>
+- (tuyhaṃ + atthāya (lopo) ⇒ tuyha atthāya (saro lopo sare) ⇒ tuyh atthāya)
+- O great sage, for your benefit
+- <i><b>tuyhevetaṃ dukkaṭaṃ</b></i>
+- (tuyhaṃ + eva [lopo] ⇒ tuyha eva [saro lopo sare] ⇒ tuyh eva)
+- This is indeed your fault
+- <i><b>Tāsāhaṃ santike</b></i>
+- (tāsaṃ + ahaṃ [lopo] ⇒ tāsa ahaṁ [paro lopo sare] ⇒ tās ahaṁ [dīgha])
+- I, in the vicinity of them (fem.)
+- <i><b>tesāhaṃ evaṃ vadāmi</b></i>
+- (tesaṃ + ahaṃ)
+- I tell them thus.
+- <i><b>Pañcannetaṃ dhammānaṃ adhivacanaṃ</b></i>
+- (pañcannaṃ + etaṃ)
+- This is a name of those five natures
+- **vocab:** see the [Part I Vocabulary](/summaries/pali/niruttidipani-part-1-vocab) page
+- <i><b>Channetaṃ dhammānaṃ adhivacanaṃ</b></i>
+- (channaṃ + etaṃ)
+- This is a name of those six natures
+- <i><b>Samaṇa tveva pucchāmi</b></i>
+- (tvaṃ + eva)
+- O monk, I ask you indeed
+- <i><b>Brāhmaṇa tveva pucchāmi</b></i> - <i><b>tvaṃ+evāti chedo</b></i>,
+- (tvaṃ + eva)
+- O brahmin, I ask you indeed. Separation should be done as tvaṃ + eva.
+- <i><b>Vidūnaggamiti</b></i>.
+- (vidūnaṃ + aggamiti)
+- Great among the wise ones
+- <i><b>Byañjane pare –</b></i>
+- When a consonant is succeeding (following are the examples)
+- <i><b>taṃ tuyhamūle paṭidesemi</b></i>.
+- (tuyhaṃ + mūle)
+- I confess it in the vicinity of you
+- <i><b>note</b></i>: with a gap "tuyha mūle" is also correct because the preceding letter is a vowel and does not need to be attached while in loka aggo ⇒ lok aggo - there is the need for attaching them because 'k' has no vowel
+- <i><b>Gāthāyaṃ</b></i> –  In gāthā (following are the examples)
+- <i><b>ariyasaccāna dassanaṃ</b></i>
+  - (ariyasaccānaṃ + dassanaṃ)
+  - Seeing the noble truths
+- <i><b>etaṃ buddhāna sāsanaṃ</b></i>
+  - (buddhānaṃ + sāsanaṃ)
+  - This is the admonishment of the Buddhas.
+- <i><b>Khandhānañca paṭipāṭi, dhātuāyatanāna ca.</b></i>
+  - (dhātuāyatanānaṃ + ca)
+  - The order of khandha, āyatana and dhātu
+  - **vocab:** see the [Part I Vocabulary](/summaries/pali/niruttidipani-part-1-vocab) page
+- <i><b>māgame pare –</b></i>
+- When inserted ‘m’ is succeeding (following are the examples)
+- <i><b>garuḷo uragāmiva</b></i>
+  - (uragaṃ + iva ⇒ uragaṁ miva (āgama sandhi) ⇒ uraga miva)
+  - As a garuḍa (catches) a snake
+- <i><b>dhammo arahatāmiva</b></i>
+  - (arahataṃ + iva ⇒ arahataṁ miva ⇒ arahata miva ⇒ arahatā miva)
+  - As dhamma (is pleasing) to the arahants
+- <i><b>āloko passatāmiva</b></i>
+  - (passataṃ + iva)
+  - As light, (Nibbāna becomes clear), for the ones who see (with insight)
+- <i><b>bako kakkaṭakāmiva</b></i>
+  - (kakkaṭakaṃ + iva)
+  - As a crane, crab
+- <i><b>nabhaṃ tārakitāmiva</b></i>
+  - (tārakitaṃ + iva)
+  - As the sky with stars
+- <i><b>padumaṃ hatthagatāmiva</b></i> <i><b>- etesu māgame bindulopo, byañjane pubbasaradīgho ca.</b></i>
+  - (hatthagataṃ + iva)
+  - As a lotus that is in (that is rubbed by) one’s hand.
+  - In these examples, niggahita is dropped when ‘m’ is inserted. And the preceeding vowel is lengthened when a consonant is succeeding.
+- <i><b>Tathā saṃupasaggassa bindulope antasaradīgho</b></i> –
+  - Apart from that, when the niggahīta of prefix ‘saṃ’ is dropped, its ending vowel is lengthened.
+  - <i><b>Sārāgo</b></i>
+    - (saṃ + rāgo)
+    - Extreme lust
+  - <i><b>sāratto</b></i>
+    - (saṃ + ratto)
+    - one who is extremely impassioned.
+  - <i><b>avisāhāro</b></i>
+    - (avisaṃ + hāro)
+    - That which does not carry the mental factors here and there.
+  - <i><b>sārambho</b></i>
+    - (saṃ + rambho)
+    - Intense heat
+  - <i><b>sāraddho</b></i>
+    - (saṃ + raddho)
+    - That which is intensely heat
+  - <i><b>sāketaṃ nagaraṃ</b></i>
+    - (saṃ + keta)
+  - <i><b>sādhāraṇaṃ</b></i>
+    - (saṃ + dhāraṇaṃ)
+    - That which has a similar holding; common
+  - <i><b>saṃ assa atthīti sāmī.</b></i>
+    - (saṃ + āmī)
+    - One who has property is called sāmī
+- <i><b>Samāse tumantamhi niccaṃ</b></i> –
+  - In samāsa, bindulopa always happens in the term ending with ‘tuṃ’ suffix.
+  - <i><b>kattukāmo, gantukāmo iccādi.</b></i>
+    - (kattuṃ + kāmo, gantuṃ + kāmo)
+    - The one who likes to do, the one who likes to go etc.
+- <i><b>iti binduloparāsi.</b></i>
+  - This is the collection of the elision of niggahita.
+- <i><b>note</b></i>:
+- sare pare
+- byañjane pare
+- in prose
+- in gāthā
+- "m" āgame
+- "saṁ" upasagga
+- tumanta in samāsa
+{% include toc.html %}
