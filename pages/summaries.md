@@ -134,7 +134,6 @@ Here, you'll find my Dhamma notes and summaries (most still unformatted). These 
 - [Cittavagga, parts III–IV (Semester VI)](/summaries/pali/semester-6-reading)
 - [Itivuttaka I (Semester III)](/summaries/pali/itivuttaka-1)
 - [Aṅguttara Nikāya I (Semester III)](/summaries/pali/anguttara-1)
-- [Notes on translation approach](/summaries/pali/translation-notes)
 - [Semester III — class notes & exam info](/summaries/pali/semester-3-notes)
 
 #### Reference
