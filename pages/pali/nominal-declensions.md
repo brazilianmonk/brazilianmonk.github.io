@@ -60,15 +60,15 @@ permalink: /summaries/pali/nominal-declensions
       - rūpasiddhi gives a different declension and says that paccakkhadhammā and gāṇḍīvadhanvā are declined as this
   - Declension of go (m.) (rattādigaṇa - only this word)
 
-| case | singular | plural |
-|---|---|---|
-| nom. | go | gāvo, gavo |
-| voc. | (he) go | (he) gāvo, gavo |
-| acc. | gāvaṁ, gavaṁ, gāvuṁ | gāvo, gavo |
-| ins. | gāvena, gavena | gohi, gobhi |
-| dat./gen. | gāvassa, gavassa | gavaṁ, gonaṁ, gunnaṁ |
-| abl. | gāvasmā, gāvamhā, gāvā, gavasma, gavamhā, gavā | gohi, gobhi |
-| loc. | gāvasmiṁ, gāvamhi, gāve, gavasmiṁ, gavasmiṁ, gave | gāvesu, gavesu, gosu |
+    | case | singular | plural |
+    |---|---|---|
+    | nom. | go | gāvo, gavo |
+    | voc. | (he) go | (he) gāvo, gavo |
+    | acc. | gāvaṁ, gavaṁ, gāvuṁ | gāvo, gavo |
+    | ins. | gāvena, gavena | gohi, gobhi |
+    | dat./gen. | gāvassa, gavassa | gavaṁ, gonaṁ, gunnaṁ |
+    | abl. | gāvasmā, gāvamhā, gāvā, gavasma, gavamhā, gavā | gohi, gobhi |
+    | loc. | gāvasmiṁ, gāvamhi, gāve, gavasmiṁ, gavasmiṁ, gave | gāvesu, gavesu, gosu |
 
     - mem aid:
       - both ā and a versions

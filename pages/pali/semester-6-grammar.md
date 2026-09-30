@@ -64,8 +64,7 @@ permalink: /summaries/pali/semester-6-grammar
 
   | case | singular | plural |
   |---|---|---|
-  | nom. | ![image](https: | remnote-user-data.s3.amazonaws.com, qTyzPs6GBstIU6b502AOrcZXh_JKAVC-GzNwL79oImfqyCdZ-faG_gWZOk7Etok_NI_PpWRp98Ui5YhhnNYhM5elQsXK9mIzNFfhOtaZPkpEbOs3gXJoIx_6ug0jypIx.png) |
-  | Nom. | karaṃ, karonto | karontā, karonto |
+  | nom. | karaṃ, karonto | karontā, karonto |
   | Voc. | (bho) karonta, karontā | (bhonto) " |
   | Acc. | karontaṃ | karonte |
   | Ins. | karotā, karontena | karontehi, karontebhi |
@@ -73,16 +72,17 @@ permalink: /summaries/pali/semester-6-grammar
 - 6.7. The Word bhavanta (one who is existing, sir, noble one)
   - 6.7.1. The nominative singular form is bhavaṃ only — not bhavanto.7 So, the nominative declension is: Bhavaṃ bhavanto, bhavantā The rest of the declension is the same as that of gacchanta.
   - 6.7.2. In all other cases (except nominative singular), bhavanta is replaced by bhonta.8 The full declension for bhonta is:
-    - ![image](https://remnote-user-data.s3.amazonaws.com/BB0cy35hGPQ_h3-2KpPeryPta_NFQXO3tgWPiPvr3Ju-ZZiWhaRELkphldD1AVXGgcmKBZW80XxF-3mze82vyfvOUVE8mrGaQgWy-RmesKDCrk4bR1JunYPRUQP2-Qp2.png)
-      - Case | Singular | Plural
-      - -----------|-------------------------------------|--------------------------
-      - Nominative | bhavaṃ | bhonto, bhontā
-      - Vocative | bhonta, bhontā | bhonto, bhontā
-      - Accusative | bhontaṃ | bhonte
-      - Instrumental| bhotā, bhontena | bhontehi, bhontebhi
-      - Genitive | bhoto, bhontassa | bhotaṃ, bhontānaṃ
-      - Ablative | bhotā, bhontasmā, bhontamhā, bhontā | bhontehi, bhontebhi
-      - Locative | bhoti, bhontasmiṃ, bhontamhi, bhonte| bhontesu
+
+  | Case | Singular | Plural |
+  |---|---|---|
+  | Nominative | bhavaṃ | bhonto, bhontā |
+  | Vocative | bhonta, bhontā | bhonto, bhontā |
+  | Accusative | bhontaṃ | bhonte |
+  | Instrumental | bhotā, bhontena | bhontehi, bhontebhi |
+  | Genitive | bhoto, bhontassa | bhotaṃ, bhontānaṃ |
+  | Ablative | bhotā, bhontasmā, bhontamhā, bhontā | bhontehi, bhontebhi |
+  | Locative | bhoti, bhontasmiṃ, bhontamhi, bhonte | bhontesu |
+
   - 6.7.3. Special Vocative Forms
     - In vocative singular, bhavanta together with the vibhatti becomes bho.9 This ‘bho’ is the vocative marker we find in each declention. (bhavanta + si > bho)
     - Bhante (venerable sir) is also a vocative singular form of bhavanta according to Kaccāyana. (bhavanta + si > bhante)
@@ -99,12 +99,14 @@ permalink: /summaries/pali/semester-6-grammar
     - 3. A vocative singular form of bhadanta.
 - 6.8. The Word santa (one who is existing, virtuous person)
   - When the plural vibhatti hi is replaced with bhi, the stem santa can change to sa. Then, asadisa dvebhāva sandhi occurs, forming sabbhi.14 Thus, sabbhi appears as an instrumental and ablative plural forms. Following is a part of the declension of santa:
-  - Case | Singular | Plural
-  - ------------|------------------------------------|-----------------------------------
-  - Nominative | saṃ, santo | santā, santo
-  - Vocative | (bho) saṃ, sa, sā, santa, santā | (bhonto) santā, santo
-  - Accusative | saṃ, santaṃ | sante
-  - Instrumental| satā, santena | santehi, santebhi, sabbhi
+
+  | Case | Singular | Plural |
+  |---|---|---|
+  | Nominative | saṃ, santo | santā, santo |
+  | Vocative | (bho) saṃ, sa, sā, santa, santā | (bhonto) santā, santo |
+  | Accusative | saṃ, santaṃ | sante |
+  | Instrumental | satā, santena | santehi, santebhi, sabbhi |
+
   - Examples where sabbhi is found:
   - footnotes
     - 10 “Bhadanteti..., ekassa dakarassa lopaṃ katvā vuccati guṇavisesayutto” — Theragāthā Aṭṭhakathā 2, 169 (“‘Bhadante’... is said after omitting one 'd' from the original word, and it refers to one endowed with special qualities.”)
