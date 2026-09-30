@@ -38,9 +38,9 @@ permalink: /summaries/pali/niruttidipani-part-1
 - <i><b>vutti</b></i>: the description
 - <i><b>udāharaṇa</b></i>: the example
 - 3 <i><b>vutti</b></i>
-- suttavutti: what is mentioned in the sutta
-- anuvattanavutti: what is not mentioned in the sutta
-- pakkhipanavutti: what is added by the grammarian to explain
+  - suttavutti: what is mentioned in the sutta
+  - anuvattanavutti: what is not mentioned in the sutta
+  - pakkhipanavutti: what is added by the grammarian to explain
 - isn't gacchanto - that can be use to refer to another noun - a pronoun? no, it is a kitaka noun, pronouns are not made out of root, suffix, etc.
 - numbers starting from 5 are not taken as pronouns, no reason known
 {% include toc.html %}

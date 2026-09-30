@@ -36,7 +36,7 @@ permalink: /summaries/pali/niruttidipani-sannarasi
 - <i><b>tattha e., o. iti dve ekapadasaṃyoge pare kvaci labbhanti</b></i>
   - ekapadasaṁyoga
     - ettha
-  - padantara- / nānā-saṁyoga
+  - <i><b>padantara- / nānā-</b></i><i><b>saṁyoga</b></i>
     - maṁ ce tvaṁ nikhaṇaṁ vane
 ##### <i><b>dīgho</b></i>
 
@@ -74,7 +74,7 @@ permalink: /summaries/pali/niruttidipani-sannarasi
 #### 2.<i><b>dasādo sarā</b></i>
 
 - <i><b>Tesu vaṇṇesu ādimhi dasa vaṇṇā sarā nāma honti. </b></i><u><i><b>Sa</b></i></u><i><b>yameva laddhasarūpā hutvā </b></i><i>(having gained their own sound)</i> <u><i><b>rā</b></i></u><i><b>janti virocantīti</b></i>
-- ratti (f.) (loc. sg.) rattiyaṁ, rattiyā, ratyaṁ, <i><b>ratto</b></i><br>ādi (m.) ⇒ (loc. sg.) ādimhi, ādismiṁ, <i><b>ādo</b></i>
+  - ratti (f.) (loc. sg.) rattiyaṁ, rattiyā, ratyaṁ, <i><b>ratto</b></i><br>ādi (m.) ⇒ (loc. sg.) ādimhi, ādismiṁ, <i><b>ādo</b></i>
 - short version: <i><b>sayameva</b></i> (sa) <i><b>rājantīti</b></i> (rā) <i><b>sarā</b></i> (sa + rā)
 - **vocab:** see the [Part I Vocabulary](/summaries/pali/niruttidipani-part-1-vocab) page
 #### 3.<i><b>dve dve</b></i>
@@ -97,8 +97,8 @@ permalink: /summaries/pali/niruttidipani-sannarasi
 - <i><b>note</b></i>:
   - when can short e and o be found in pāḷi?
 - when vaggantas or y / r / l / v are succeeding, the vowel is long - such as bhās<i><b>ey</b></i>ya (controversial)
-- in kaccāyana if a conjunct succeeds, the e / o are short
-- acaritvā brahmacariyaṁ<br>aladdhā yobbane dhanaṁ<br>senti cāpā'tikhīṇāva<br>purāṇāni anutthunaṁ
+  - in kaccāyana if a conjunct succeeds, the e / o are short
+  - acaritvā brahmacariyaṁ<br>aladdhā yobbane dhanaṁ<br>senti cāpā'tikhīṇāva<br>purāṇāni anutthunaṁ
 - **vocab:** see the [Part I Vocabulary](/summaries/pali/niruttidipani-part-1-vocab) page
 #### 5. <i><b>paro dīgho</b></i>
 
@@ -121,13 +121,13 @@ permalink: /summaries/pali/niruttidipani-sannarasi
 - <i><b>tesu byañjanesu kādi-mantā </b></i>(starting with k and ending with m) <i><b>pañcabyañjanapañcakā </b></i>(5 pentads of consonants)<i><b> vaggā nāma honti. kādi pañcako kavaggo, cādi cavaggo, ṭādi ṭavaggo, tādi tavaggo, pādi pavaggo. sesā avaggāti siddhaṃ </b></i>(18)<i><b>. vaṇṇuddese ekaṭṭhānikānaṃ byañjanānaṃ vagge samūhe niyuttāti </b></i>(those which are combined into a group)<i><b> vaggā</b></i>
 - **vocab:** see the [Part I Vocabulary](/summaries/pali/niruttidipani-part-1-vocab) page
 - <i><b>note</b></i>:
-- why each letter can be called vagga? they can be called so for being part of the vagga (in the sense of 'part of the group')
-- when the meaning of a term is not clear, grammarians add another term to clarify it (atthaṁ vaṇṇenti <i><b>pakāsentī</b></i>ti vaṇṇā)
+  - why each letter can be called vagga? they can be called so for being part of the vagga (in the sense of 'part of the group')
+  - when the meaning of a term is not clear, grammarians add another term to clarify it (atthaṁ vaṇṇenti <i><b>pakāsentī</b></i>ti vaṇṇā)
 #### 8. <i><b>bindu niggahītaṃ</b></i>
 
 - <i><b>ante </b></i>(at the end)<i><b> bindumatto </b></i>(mere dot)<i><b> vaṇṇo niggahītaṃ nāma. niggayha gayhati uccāriyatīti niggahītaṃ </b></i><i>(</i><i><b>exam</b></i><i>)</i><i><b>. garusaññārāsi niṭṭhito.</b></i>
-- in kaccāyana niggahīta is "aṁ" - it is older than moggallāna
-- niggahita uses the nose, ṅ uses throat + nose (confusing)
-- <i>buddha</i><i><b>ṁ gh</b></i><i>ana - sa</i><i><b>ṅgh</b></i><i>a</i>
+  - in kaccāyana niggahīta is "aṁ" - it is older than moggallāna
+  - niggahita uses the nose, ṅ uses throat + nose (confusing)
+    - <i>buddha</i><i><b>ṁ gh</b></i><i>ana - sa</i><i><b>ṅgh</b></i><i>a</i>
 - **vocab:** see the [Part I Vocabulary](/summaries/pali/niruttidipani-part-1-vocab) page
 {% include toc.html %}
