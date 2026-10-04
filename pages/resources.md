@@ -20,9 +20,6 @@ permalink: /resources
   <a class="resource-featured-post resource-featured-post--english" href="/english">
     <span><strong>English Language Studies</strong><em>Study tools, interactive quizzes, and my own grammar notes for English learners.</em></span>
   </a>
-  <a class="resource-featured-post resource-featured-post--recitation" href="https://www.youtube.com/playlist?list=PLGXmpHceJ17dymOCLeTfbYcVFTX-LA12v">
-    <span><strong>Recitation of Buddhist Texts</strong><em>Chanting and recitation of Pāḷi texts, from protective verses (paritta) to suttas.</em></span>
-  </a>
 </div>
 
 <h2 class="resources-secondary-title">More resources</h2>
