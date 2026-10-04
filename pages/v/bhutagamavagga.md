@@ -326,14 +326,19 @@ This is **sacittaka**, **saññāvimokkha** offence.
 
 ### Background
 
-The Buddha was residing at the **Veḷuvana** monastery in the city of **Rājagaha**. During this time Venerable **Dabbamallaputta** Thera was preparing lodgings for the Saṅgha (**senāsana paññāpaka**). He was also in charge of distribution of meals (**bhattuddesaka**). Two monks named **Mettiya** and **Bhummajaka**, who were among the group of **Chabbaggiya** monks, at the time were juniors and lacked good kamma to obtain good lodgings and food. They received inferior lodgings and food of the Saṅgha. Then **they got other bhikkhus to think and say, "Dabbamallaputta Thera favours when preparing quarters. He also favours, when distributing food"**. Based on this incident the Buddha imposed the ujjhāpanaka training rule prohibiting monks from getting other monks to think and say bad things about officials appointed by the Saṅgha.
+- Buddha: Veḷuvana, Rājagaha
+- V. Dabbamallaputta Thera was senāsana paññāpaka and bhattuddesaka
+- Mettiya and Bhummajaka, of the Chabbaggiyas, at the time were juniors and lacked good kamma to obtain good lodgings and food
+- Then made other monks think and say that V. Dabbamallaputta acted out of favoritism when preparing quarters and distributing food
+- Buddha imposed the ujjhāpanaka rule
+- Mettiya and Bhummajaka started accusing V. Dabbamallaputta in the presence of the other bhikkhus
+- Buddha amended the rule prohibiting monks from speaking ill about Saṅgha officials in the presence of other monks
+    - this amendment, too, is like another training rule.   
 
-When this rule was imposed, Mettiya and Bhummajaka bhikkhus started **accusing** Dabbamallaputta Thera in the presence of the other bhikkhus saying, "Dabbamallaputta Thera favours when preparing lodgings and distributing food". Having known this, the Buddha added an amendment to this rule prohibiting monks from speaking ill about Saṅgha officials in the presence of other monks. This amendment, too, is like another training rule.
-
-**Types of anuppaññatti:**
-- **anāpattikara:** creates an exception
-- **daḷhīkaraṇa:** makes it stricter
-- **āpattikara:** makes another offense, extends the scope of the rule (vihesaka under aññavādaka and this one)
+- 3 Types of anuppaññatti
+	- anāpattikara: creates an exception
+    - daḷhīkaraṇa: makes it stricter
+	- āpattikara: makes another offense, extends the scope of the rule (vihesaka under aññavādaka and this one)
 
 ---
 
@@ -370,34 +375,34 @@ When this rule was imposed, Mettiya and Bhummajaka bhikkhus started **accusing**
 1. **sammata upasampanna:** an upa who was authorized as one of the 6 officials
 2. **asammata upasampanna:** an upa who voluntarily attends the functions of the position - in most monasteries this is what happens
 3. **sammata anupasampanna:** an upa who was an authorized official and directly became a sāmaṇera by saying "Sāmaṇeroti maṃ dhārehi"
-   > Anupasampannaṃ saṅghena sammataṃ vā asammataṃ vāti ettha pana kiñcāpi anupasampannassa terasa sammutiyo dātuṃ na vaṭṭanti. Atha kho upasampannakāle laddhasammutiko pacchā anupasampannabhāve ṭhito, taṃ sandhāya "saṅghena sammataṃ vā"ti vuttaṃ. (V-a. III. 37). Sāmaṇero hotīti upasampannabhāvaṃ jahitvā sāmaṇerabhāvaṃ upagacchati. Tattha pārājikappattabhāvena vā "gihīti maṃ dhārethā"tiādinā sikkhāpaccakkhānena vā gihī hoti. Tesu paṭhamena puna upasampadāya abhabbattā puna parivāso na ruhatiyeva, dutiyena pana puna upasampadāya bhabbattā "so ce puna upasampajjatī"ti vuttaṃ. Itaro pana pārājikappattabhāvena sāmaṇero na hoti. Kasmā? Saraṇagamanādīnaṃ vinassanato. Vuttañhi vimativinodaniyaṃ "upasampannānampi pārājikasamaāpattiyā saraṇagamanādisāmaṇerabhāvassapi vinassanato senāsanaggāho ca paṭippassambhati, saṅghalābhampi tena labhantīti veditabba"nti, gihī pana hutvā puna sāmaṇerabhāvamattaṃ laddhabbaṃ hoti. "sāmaṇeroti maṃ dhārethā"tiādinā pana sikkhāpaccakkhāne kate siyā sāmaṇerabhāvo, tatopi puna upasampajjitukāmatāya sati siyā upasampannabhāvo. "gihīti maṃ dhārethā"tiādinā sikkhāpaccakkhānaṃ katvā gihibhāvaṃ upagatepi puna sāmaṇerapabbajjaṃ pabbajitvā sāmaṇero hoti. Tato puna upasampajjituṃ laddhabbattā "puna upasampajjatī"ti vutto. (Vnl. II. 254-5).
+   > Anupasampannaṃ saṅghena sammataṃ vā asammataṃ vāti ettha pana kiñcāpi... Tato puna upasampajjituṃ laddhabbattā "puna upasampajjatī"ti vutto. (Vnl. II. 254-5).
 4. **asammata anupasampanna:** a sāmaṇera who voluntarily attends the functions of the official positions
 
 ---
 
 ### Offenses
 
-**An upa criticizes a sammata upa to an upa:** **pc**
+- An upa criticizes a sammata upa to an upa: **pc**
 
-**All other scenarios:** **dkṭ**
+- All other scenarios: **dkṭ**
 
-**The upa does ujjhāpanaka / khīyanaka to a sammata upasampanna:**
-- dhammakammasaññī: **pc**
-- vematiko: **pc**
-- adhammakammasaññī: **pc**
+- The upa does ujjhāpanaka / khīyanaka to a sammata upasampanna:
+	- dhammakammasaññī: **pc**
+	- vematiko: **pc**
+	- adhammakammasaññī: **pc**
 
-**The upa does ujjhāpanaka / khīyanaka to an asammata upasampanna:**
-- dhammakammasaññī: **dkṭ**
-- vematiko: **dkṭ**
-- adhammakammasaññī: **dkṭ**
+- The upa does ujjhāpanaka / khīyanaka to an asammata upasampanna:
+	- dhammakammasaññī: **dkṭ**
+	- vematiko: **dkṭ**
+	- adhammakammasaññī: **dkṭ**
 
-Therefore this is a **tika**-pācittiya and **tika**-dukkaṭa offence
+(**tika**-pācittiya and **tika**-dukkaṭa offence)
 
 ---
 
 ### Anāpatti
 
-- **with a base:** if the appointed individual does his tasks out of any of the wrong courses (agati) - chanda, dosa, moha and bhaya - it is fine to make another upasampanna to think low of him or to criticize his activities in front of another upasampanna
+- **With a base:** if the appointed individual does his tasks out of any of the wrong courses (agati) - chanda, dosa, moha and bhaya - it is fine to make another upasampanna to think low of him or to criticize his activities in front of another upasampanna
 
 ---
 
