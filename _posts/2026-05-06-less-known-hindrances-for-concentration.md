@@ -60,6 +60,8 @@ Altough no specific kammaṭṭhāna is given to develop this quality in particu
 
 Taking the opportunity, I'd like to personally show my gratitude to my parents and teachers, in particular V. Pa Auk Sayadaw Bhaddanta Āciṇṇa and V. Sayaday Kumārābhivaṁsa who have given me assistence in my seven or so years in Pa Auk Maymyo and have been great examples of stability, emotional skills, effort, knowledge, patience, and much more than I can express here.
 
+{% include youtube.html id="ivFraXH7VSE" title="Happiness of Freedom From the Hindrances" %}
+
 ### Footnotes
 
 <sup><a id="fn.1" href="#fnr.1">1</a></sup> AN, ekakanipātaaṭṭhakathā, Nīvaraṇappahānavaggavaṇṇanā, Paragraph 16
@@ -122,6 +124,8 @@ Aunque no se da un *kammaṭṭhāna* específico para desarrollar esta cualidad
 ### Gratitud Personal
 
 Aprovechando la oportunidad, quisiera expresar personalmente mi gratitud a mis padres y maestros, en particular al V. Pa Auk Sayadaw Bhaddanta Āciṇṇa y al V. Sayaday Kumārābhivaṁsa, quienes me han brindado asistencia durante mis aproximadamente siete años en Pa Auk Maymyo y han sido grandes ejemplos de estabilidad, habilidades emocionales, esfuerzo, conocimiento, paciencia y mucho más de lo que puedo expresar aquí.
+
+{% include youtube.html id="uLqvF7Ky16E" title="Los 5 niveles de felicidad en la meditación" %}
 
 ### Notas
 

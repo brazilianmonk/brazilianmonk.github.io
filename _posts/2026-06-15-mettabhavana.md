@@ -16,6 +16,8 @@ In ultimate terms, it represent *Adosa-cetasika*, the mental factor of non-avers
 
 This mental state of wishing well can be intensified with the proper practice left by the Buddha, leading to deep states of concentration (*samādhi*), often refered to as *Mettācetovimutti* (liberation of the mind through benevolence). Here is a look at how you can develop this practice.
 
+{% include youtube.html id="WAYRbM8NVYE" title="Mettā: o estado de um amigo de verdade" %}
+
 ### Easy at First
 
 In the beginning, the practice usually starts by picking a **dear person** (*piya puggala*)—someone you already find it easy to wish happiness for and who meets the following criteria:
@@ -134,6 +136,8 @@ Além de apenas se sentir melhor, *Mettā* tem benefícios *sérios*:
 Embora *Mettā* seja uma ferramenta poderosa para a paz, para alcançar a meta final da libertação (*Nibbāna*), deve-se eventualmente transitar de *Samatha* para **Vipassanā** (meditação de insight).
 
 Usando a mente calma e concentrada desenvolvida através de *Mettā*, você pode começar a ver as realidades mentais e materiais últimas que compõem você e o mundo, bem como suas relações condicionais, como elas realmente são — impermanentes, sofrimento e "não-eu".
+
+{% include youtube.html id="XAwKtMq7uJU" title="Nem todos tipos de felicidade sao bons -- palestra em Bento, 2025" %}
 
 ---
 

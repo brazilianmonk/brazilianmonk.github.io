@@ -37,6 +37,7 @@ If we compare it to a **movie roll**, the entire roll as a unity is like the *ci
 ### Is the mind not just neurons activating in the brain?
 Material (physical) phenomena are not capable of fulfilling these functions of cognition, feeling, understanding, etc. What actually happens is that the physical body acts as a basis for these mental phenomena. Therefore, yes, there is an important connection between the mind and the body, in which one affects the other, but they are not the same.
 
+{% include youtube.html id="wbVgNHggHsM" title="Taxonomy of Consciousness - Abhidhamma lesson" %}
 
 ---
 
@@ -67,6 +68,7 @@ Si lo comparamos con un **rollo de película**, todo el rollo como unidad es com
 ### ¿No es la mente solo neuronas activándose en el cerebro?
 Los fenómenos materiales (físicos) no son capaces de cumplir estas funciones de cognición, sentimiento, entendimiento, etc. Lo que sucede, en realidad, es que el cuerpo físico actúa como base para estos fenómenos mentales. Por lo tanto, sí, existe una conexión importante entre la mente y el cuerpo, en la que uno afecta al otro, pero no son lo mismo.
 
+{% include youtube.html id="wfvCVL_SKKE" title="Las tres raíces: apego, aversión e ignorancia" %}
 
 ---
 

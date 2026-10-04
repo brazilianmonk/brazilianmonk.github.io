@@ -38,6 +38,8 @@ While giving is wonderful, I encourage you to look even higher: taking the **_ti
 
 Finally, use these merits to support your meditation practice of samatha and vipassanā. May your **_dāna_** remove the obstacles in your meditation so that you may discern **_nāma-rūpa_** (mind and matter), see their true nature as **_anicca_** (impermanent), **_dukkha_** (suffering), and **_anattā_** (non-self), and finally realize the cessation of all suffering: **_Nibbāna_**.
 
+{% include youtube.html id="q8MovzsuFMM" title="Mérito e Meditação: Transformando Estados Mentais Negativos" %}
+
 ---
 ## 🇪🇸 Español
 
