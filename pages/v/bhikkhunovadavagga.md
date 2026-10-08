@@ -709,9 +709,22 @@ the <b>saññā</b> involved being <b>saṃvidahita-/asaṁvidahita-saññā</b>
 </li>
 <li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>background</b></mark></h3>
 <ul>
-<li>The Tathāgata was residing in the Veḷuvana monastery in the city of Rājagaha. During this time, the  Bhiikkhunī named Venerable Thullanandā was in the habit of visiting a certain household for meals.  One day, the head of the house invited bhikkhus for a meal. Venerable Thullanandā, having visited the  house that morning was informed of this donation of food, and she inquired about the bhikkhus who  had been invited. Then the head of the house replied with a list of names of the bhikkhus: Sāriputta,  Mahāmoggallāna, Mahākaccāna, Mahākotthita, Mahākappina, Mahācunda, Anuruddha, Revata, Upāli,  Ānanda and Rāhula. Then Venerable Thullanandā asked why he invited such worthless monks (ceṭaka)  when he could invite great men (mahānāga). The man then asked who these mahānāgas are, and to this  Venerable Thullanandā replied saying, “Venerable Devadatta, Venerable Kokālika, Venerable  Katamodakatissa, Venerable Khaṇḍadeviyāputta and Venerable Samuddadatta”. Venerable Sāriputta  and the rest of the bhikkhus arrived at the residence when this conversation was taking place. Then  Venerable Thullanandā told the head of the house, “It is true that you have invited mahānāgas”. The  man got angry and said: “You just called these bhikkhus worthless and now you are saying that they are  great men”. He immediately got her to leave his house and cancelled the regular meals he had been  offering her.   </li>
-<li>The bhikkhus began criticizing Venerable Devadatta saying, “How dare Venerable Devadatta consumes  meals that bhikkhunīs had instructed lay people to prepare”. The Buddha then called Venerable  Devadatta and inquired after this matter after which he accepted the claim. The Tathāgata reprimanded  Devadatta and declared the paripācita training rule.  </li>
-<li>One day, a bhikkhu who had got ordained in Rājagaha was travelling to a relative’s house. The relative  prepared dāna for him. A bhikkhunī who is frequently visiting this household, told them “Please offer  alms to the Noble monk”. Then the bhikkhu, being suspicious if the dāna had been cooked under the  instruction of that bhikkhunī, refused to accept the alms. He could not have his meal that day as he was  unable to go on piṇḍapāta as well. The Tathāgata who got to know about this incident from other  bhikkhus, redeclared the training rule including a sub-charter allowing monks to have a meal initially  organized by the lay devotees even if a nun asks the lay devotees to offer the meal to a monk.</li>
+<li>
+    - 1st rule
+        - Buddha: Veḷuvana, Rājagaha 
+        - Bhikkhunī Thullanandā was in the habit of visiting a certain household for meals
+        - the head of the house invited bhikkhus for a meal
+        - she was informed and inquired about the invited bhikkhus, who were Vs. Sāriputta,  Mahāmoggallāna, Mahākaccāna, Mahākotthita, Mahākappina, Mahācunda, Anuruddha, Revata, Upāli,  Ānanda and Rāhula
+        - she asked why he invited such worthless monks (ceṭaka) when he could invite great men (mahānāga) like Vs. Devadatta, Kokālika,  Katamodakatissa, Khaṇḍadeviyāputta and  Samuddadatta
+        - Vs arrived and she then called them mahānāgas
+        - The man got angry with her behavior, send her away and cancelled her regular meals
+        - bhikkhus criticized V. Devadatta's consumption of meals that bhikkhunīs had instructed lay people to prepare”
+        - Buddha questioned and reprimanded him and declared the rule
+    - amendment
+        - a Rājagahika bhikkhu was travelling to a relative’s house for a meal
+        - a bhikkhunī who frequently visited that household told them to offer it to the monk
+        - the monk rejected out of suspicion and couldn't eat
+        - Buddha amended with the exception </li>
 </ul>
 </li>
 <li><h3 data-toc-injected="true" style="display:inline; font-size:inherit; font-weight:inherit; font-style:inherit; font-family:inherit; color:inherit; margin:0; padding:0; line-height:inherit;"><mark remnotemark="true" style="background-color: yellow; color: inherit;"><b>description</b></mark></h3>
