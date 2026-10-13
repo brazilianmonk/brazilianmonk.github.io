@@ -6,7 +6,7 @@ permalink: /summaries/samatha/anussatibhavana
 
 # 10 Anussatis
 
-[
+
 
 -   **Buddhānussati**: sati taking the (qualities of the) Buddha as object (arahaṁ…)
     -   Buddhaṃ ārabbha uppannā anussati Buddhānussati: Buddhaguṇārammaṇāya satiyā etamadhivacanaṃ
@@ -35,7 +35,7 @@ permalink: /summaries/samatha/anussatibhavana
     -   of the anussatis, only kāyagatāsati and ānāpāna have nimitta
         -   that's why nimitta appears in their description
 
-]
+
 
 
 <a id="org4ff54d4"></a>
@@ -47,7 +47,7 @@ permalink: /summaries/samatha/anussatibhavana
 
 ## General Steps
 
-[
+
 
 -   Understand the qualities of the Buddha correctly
 -   **Aveccappasāda**: develop unshakable confidence in these qualities, which arises from correctly understanding them
@@ -61,7 +61,7 @@ permalink: /summaries/samatha/anussatibhavana
 
 > **Iti pi so Bhagavā Arahaṃ Sammāsambuddho Vijjācaraṇasampanno Sugato Lokavidū Anuttaro Purisadammasārathi Satthā Devamanussānaṃ Buddho Bhagavā**
 
-]
+
 
 
 <a id="orgd50d0d5"></a>
@@ -80,7 +80,7 @@ MN abhayarājasutta: took refuge in the Buddha "3 times"
 
 ## Recollections
 
-[
+
 **So Bhagavā iti pi Arahaṁ&#x2026;Bhagavā**
 
 -   So: Buddha, one who completed the pāramīs, etc.
@@ -89,7 +89,7 @@ MN abhayarājasutta: took refuge in the Buddha "3 times"
 -   last Bhagavā: expresses a particular quality
 -   pi: sampiṇḍa (inclusion): shows each title expresses many aspects of the Buddha’s qualities
 
-]
+
 
 
 <a id="orgaa40bbe"></a>
@@ -101,7 +101,7 @@ MN abhayarājasutta: took refuge in the Buddha "3 times"
 
 ### Vsm: 5 ways
 
-[
+
 
 1.  **Ārakattā hatattā**: very far from the faults of defilements because He destroyed them together with their vāsanā through the Ariyamagga
     -   So tato ārakā nāma – yassa yenāsamaṅgitā,
@@ -131,11 +131,11 @@ MN abhayarājasutta: took refuge in the Buddha "3 times"
 > Hatasaṃsāracakkāro, paccayādīna cāraho,**
 > **Na raho karoti pāpāni, Arahaṃ tena vuccatīti.**
 
-]
+
 
 1.  Hatasaṁsāracakka
 
-    [
+    
     **Hatasaṁsāracakka**: Having Broken the Wheel of Saṃsāra 
     
     -   **Hata**: knowing through dhammaṭṭhitiñāṇa the true nature of dhammas, becoming disenchanted toward, detached from, and liberated from them
@@ -150,11 +150,11 @@ MN abhayarājasutta: took refuge in the Buddha "3 times"
             -   dhammaṭṭhiti: fem. real nature of the Dhamma
     -   **Saṁsāracakka**: paṭiccasamuppāda with 4 saṅkhepas, 3 addhās, 20 ākāras, 3 sandhis
     
-    ]
+    
     
     1.  Beginningless Saṁsāracakka
     
-        [
+        
         
         -   Method 1
             -   Hub: avijjā and taṇhā
@@ -302,11 +302,11 @@ MN abhayarājasutta: took refuge in the Buddha "3 times"
             -   rūpāvacarakusalakammabhava => upapattibhava in rūpabhava => jātijarāmaraṇa => āsava => avijjā…
             -   arūpāvacarakusalakammabhava => upapattibhava in arūpabhava => jātijarāmaraṇa => āsava => avijjā…
         
-        ]    
+            
     
     2.  7 Aspects
     
-        [
+        
         
         -   3 Addhās
             -   atīta addhā: first saṅkhepa
@@ -338,7 +338,7 @@ MN abhayarājasutta: took refuge in the Buddha "3 times"
         
         > **Tattha tayo addhā dvādasaṅgāni vīsatākārā tisandhi catusaṅkhepā tīṇi vaṭṭāni dve mūlāni ca veditabbāni.**
         
-        ]
+        
     
     3.  Notes
     
@@ -355,7 +355,7 @@ MN abhayarājasutta: took refuge in the Buddha "3 times"
 
 ### Vsm-ṭ: 6 other ways
 
-[
+
 
 1.  **Ārakā mandabuddhīnaṁ**: very far from an evil person, even if they follow His every step behind Him while holding the corner of His robe
 2.  **Ārakā ca vijānataṁ**: close to a good person even if a hundred yojanas away
@@ -374,11 +374,11 @@ Notes:
 -   some add additional ways
 -   rarely is it used as araho istead of arahaṁ
 
-]
+
 
 1.  Ārakā mandabuddhīnaṁ ārakā ca vijānataṁ
 
-    [
+    
     **Ārakāti Arahaṃ, suvidūrabhāvato icceva attho**: because He is extremely distant from those:
     
     -   whose body, conduct, mind, and wisdom are untrained
@@ -403,11 +403,11 @@ Notes:
     > **Ye sammā paṭipajjanti – suppaṇītādhimuttikā,
     > Ārakā tehi āsanne – tenāpi Arahaṃ Jino.** 
     
-    ]
+    
 
 2.  Rahānaṃ suppahīnattā
 
-    [
+    
     
     -   **Rahitabbo raho**: what should be kept far away, abandoned is raha &#x2013; defilements
     -   **Suppahīnattā**: because He completely abandoned and destroyed them through ariyamagga
@@ -417,11 +417,11 @@ Notes:
     > **Pāpadhammā rahā nāma – sādhūhi rahitabbato,
     > tesaṃ suṭṭhu pahīnattā – bhagavā arahaṃ mato.**
     
-    ]
+    
     
     1.  Arasarūpādi
     
-        [
+        
         
         > V-p: **Atthi khvesa, brāhmaṇa, pariyāyo yena maṃ pariyāyena sammā vadamāno vadeyya — ‘Arasarūpo Samaṇo Gotamo’ti. Ye te, Brāhmaṇa, rūparasā saddarasā gandharasā rasarasā phoṭṭhabbarasā te Tathāgatassa pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṃkatā āyatiṃ anuppādadhammā…**
         
@@ -477,11 +477,11 @@ Notes:
             -   note: does NOT mean some rūparasādi still exist in Him      
                 -   Tathāgatassa kho, Brāhmaṇa, rāgo pahīno doso moho, sabbepi pāpakā akusalā dhammā pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṃkatā āyatiṃ anuppādadhammā.
         
-        ]
+        
 
 3.  Vidūnamaraheyyato
 
-    [
+    
     
     -   **Na santi etassa rahā pariccajanakā**: there is no (wise) one who abandons Him
     -   **Natthi etassa raho sādhūhi pariccajitabbatāti Arahaṃ**: there is no nature of the Tathāgata due to which he should be abandoned by righteous persons
@@ -515,11 +515,11 @@ Notes:
     
     -   note: suddhagocara: Nibbāna as object
     
-    ]
+    
 
 4.  Bhavesu ca rahābhāvā
 
-    [
+    
     
     -   **Raho**:
         -   going, journeying
@@ -535,17 +535,17 @@ Notes:
     > **Raho vā gamanaṃ yassa – saṃsāre natthi sabbaso,
     > Pahīnajātimaraṇo – arahaṃ sugato mato.**
     
-    ]
+    
 
 5.  Pasaṁsā
 
-    [
+    
     **Araha**: being worthy of praise unlike any other because
     
     -   yathābhuccaguṇādhigamana: the qualities He attained truly exist in Him
         -   yathābhucca
             -   1 adj. conformity with the truth
-            -   2 adj. sincere; genuine; true; real [yathā + bhūta + ya]
+            -   2 adj. sincere; genuine; true; real yathā + bhūta + ya
     -   even Sammāsambuddhas cannot fully describe His qualities or reach the end of their praise, let alone others
     -   **Asama**: unequalled because no one can equal Him in unsurpassed sīla, samādhi, paññā, vimutti, and vimuttiñāṇadassana
     -   **Asamasama**: He is equal only by another Sammāsambuddha who is likewise unequalled
@@ -556,20 +556,20 @@ Notes:
     > **Guṇehi sadiso natthi – yasmā loke sadevake,
     > Tasmā pāsaṃsiyattāpi – arahaṃ dvipaduttamo.**
     
-    ]
+    
 
 
 <a id="org08c94ac"></a>
 
 ### Dhammāṇacakkaṁ pavattetuṁ arahati ("Sūvisi Mahā Guṇaya" by V. Cdvm)
 
-[
+
 **Anuttaraṃ dhammacakkañca āṇācakkañca pavattetuṃ arahatīti arahā**: worthy and capable of setting in motion the unsurpassed Dhamma wheel and the wheel of authority
-]
+
 
 1.  Dhammacakka
 
-    [
+    
     
     -   **Paṭivedha Dhammacakka** (Dhamma-Wheel of Realization): dhammas that destroy defilements set in motion at the bodhimaṇḍa
         -   Buddha cut down 1.500 defilements with the cakka of Dhamma by means of magga and bodhipakkhiyadhammas under the Bodhimaṇḍa
@@ -605,11 +605,11 @@ Notes:
         -   countless beings become free from suffering such as jāti, jarā, illness, and maraṇa, and attain the happiness of Nibbāna
     -   **Appaṭivattiyaṁ**: cannot be reasonably rejected (dukkha as not dukkha, etc.)
     
-    ]
+    
 
 2.  Āṇācakka
 
-    [
+    
     Scope of Authority:
     
     -   **Ordinary kings**:
@@ -631,7 +631,7 @@ Notes:
     > Sela, I am a king. I am the unsurpassed Dhamma King.
     > By Dhamma I set in motion in the world a wheel that cannot be turned back by anyone. 
     
-    ]
+    
 
 3.  Extra Notes
 
@@ -665,7 +665,7 @@ Notes:
 
 ## Sammāsambuddho
 
-[
+
 **Sammā sāmañca sabbadhammānaṃ buddhattā pana Sammāsambuddho**: because He understood all dhammas
 
 -   **Avabodha**: He understood them correctly and by Himself
@@ -779,14 +779,14 @@ He became Sammāsambuddha by
 
 -   bhāvetabbañca: "ca" includes sacchikātabba dhammas
 
-]
+
 
 
 <a id="orgf9986ca"></a>
 
 ### Acc. to each dhamma
 
-[
+
 
 -   Cakkhu:
     -   dukkhasacca: cakkhu
@@ -836,23 +836,23 @@ He became Sammāsambuddha by
     -   taṇhā as upanissaya for kusaladhammas: previous taṇhā
     -   taṇhā conditions kiriyadhammas by producing the existence in which those kiriya dhammas arise
 
-]
+
 
 
 <a id="org31c9e6c"></a>
 
 ## Vijjācaraṇasampanno
 
-[
+
 **Vijjāhi pana caraṇena ca sampannattā vijjācaraṇasampanno**: because He is fully endowed, in a complete way without deficiency, with vijjā and caraṇa, he is so called
-]
+
 
 
 <a id="org906b471"></a>
 
 ### Vijjā
 
-[
+
 **Vijjā**: paññā
 
 -   because it pierces and destroys the dhammas opposed to it (the darkness of moha)
@@ -877,14 +877,14 @@ He became Sammāsambuddha by
 -   **Dibbacakkhuñāṇa**
 -   **Āsavakkhayakarañāṇa**
 
-]
+
 
 
 <a id="org00f27da"></a>
 
 ### Caraṇa
 
-[
+
 **Yasmā etehi carati ariyasāvako gacchati amataṃ disaṃ, tasmā caraṇanti vuttā**: dhammas by means of which an Ariya disciple travels towards the direction of the Deathless
 
 -   simile: like wings
@@ -913,14 +913,14 @@ He became Sammāsambuddha by
     -   **Paññā** (other than vijjās)
 -   Notes: encompasses the 3 sikkhās (except vipassanāpaññā and abhiññās)
 
-]
+
 
 
 <a id="orgd426dc5"></a>
 
 ### Vijjācaraṇasampanna Reveals the Following Qualities
 
-[
+
 
 -   **Vijjā, vijjāsampadā**: fulfils sabbaññutañāṇa, due to which He knows what is beneficial and harmful
 -   **Caraṇa, caraṇasampadā**: fulfils mahākaruṇā, due to which He removes beings from what is harmful and establishes them in what is beneficial
@@ -935,14 +935,14 @@ If the teacher is
     -   parantapa: one who torments others
     -   attantapaparantapa: one who torments both oneself and others
 
-]
+
 
 
 <a id="orgd39f8ee"></a>
 
 ### The Greatness of Paññā and Karuṇā
 
-[
+
 
 -   Attainment
     -   great paññā: shows His attainment of the kingdom of Dhamma
@@ -998,7 +998,7 @@ If the teacher is
     -   yasodhara in the beginning
     -   due to karuna he doesnt encourage others to wait until he attains buddhahood to attain nibbāna
 
-]
+
 
 
 <a id="orge15af4e"></a>
@@ -1022,7 +1022,7 @@ If the teacher is
 
 ## Sugato
 
-[
+
 Vsm: so called because
 
 -   **Sobhanagamanattā sugato**: His way of going is beautiful and excellent
@@ -1032,14 +1032,14 @@ Vsm: so called because
 -   **Sammā gatoti sugato**: He has gone in the right manner
 -   **Sammā suṭṭhu gadanatoti sugato**: He speaks well and properly
 
-]
+
 
 
 <a id="org51765c7"></a>
 
 ### Sobhana gamanattā
 
-[
+
 **Sobhanagamanattā sugato / Sobhanaṃ gataṃ gamanaṃ etassāti sugato**: because His way of going or journey (ariyamagga), through which He went to the secure destination of Nibbāna without being obstructed, is beautiful, pure, and faultless
 
 -   **Gamana, gata**: here, going, journey &#x2013; ariyamagga
@@ -1050,14 +1050,14 @@ Vsm: so called because
         -   **Kāyagamana**: because of His mahāpurisalakhaṇas and anybyañjanas, His kāyagamana (bodily movement) is free from faults
         -   **Ñāṇagamana**: from abhinīhāra until Mahābodhi, His ñāṇa was adorned with great and pure qualities and brought welfare to beings
 
-]
+
 
 
 <a id="orgf3c2829"></a>
 
 ### Sammā gato
 
-[
+
 **Sammā gatoti sugato**: He went / proceeded rightly
 
 -   without ever returning to the defilements that have been abandoned by each magga
@@ -1124,14 +1124,14 @@ Vsm-ṭ (√gam > buj (understanding)): gatoti avagato atīto adhigato paṭipan
 
 -   completely understood whatever is diṭṭha, suta, muta, viññāta, patta (attained), pariyesita (examined) as clearly as an āmalaka on the palm of the hand
 
-]
+
 
 
 <a id="org9d76548"></a>
 
 ### Suṭṭhu gadanato
 
-[
+
 **Sammā suṭṭhu gadanato sugato**: so called because He always speaks properly, truthfully, beneficially, and at the appropriate time
 
 -   d => t
@@ -1248,14 +1248,14 @@ Summary: He only speaks: true, beneficial, agreeable/disagreeable, at the right 
 
 -   disagreeable: not clearly defined; like "moghapurisa"
 
-]
+
 
 
 <a id="orgb38120b"></a>
 
 ## Lokavidū
 
-[
+
 **Sabbathāpi viditalokattā pana lokavidū**: knows world of formations, beings, and space in every way
 
 -   Penetrated per
@@ -1280,7 +1280,7 @@ Summary: He only speaks: true, beneficial, agreeable/disagreeable, at the right 
 > **Lokassa antaṃ samitāvi ñatvā,
 > Nāsīsati lokamimaṃ parañca.**
 
-]
+
 
 
 <a id="org924ecc9"></a>
@@ -1289,7 +1289,7 @@ Summary: He only speaks: true, beneficial, agreeable/disagreeable, at the right 
 
 1.  Saṅkhāra Loka
 
-    [
+    
     
     <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
     
@@ -1388,11 +1388,11 @@ Summary: He only speaks: true, beneficial, agreeable/disagreeable, at the right 
         -   sattāvāsa: 7 viññāṇaṭṭhiti + asaññasatta + 4th arūpa = 9
         -   abiding groups taken as saṅkhāra
     
-    ]
+    
 
 2.  Satta Loka
 
-    [
+    
     Buddha knows
     
     -   **Āsaya** (disposition)
@@ -1413,11 +1413,11 @@ Summary: He only speaks: true, beneficial, agreeable/disagreeable, at the right 
     >  
     > **Sabbasattesu Buddhassa bhagavato ñāṇaṃ pavattati, sabbesaṃ ca sattānaṃ bhagavā āsayaṃ jānāti anusayaṃ jānāti caritaṃ jānāti adhimuttiṃ jānāti. Apparajakkhe mahārajakkhe tikkhindriye mudindriye svākāre dvākāre suviññāpaye duviññāpaye bhabbābhabbe satte pajānāti. Sadevako loko samārako sabrahmako sassamaṇabrāhmaṇī pajā sadevamanussā antobuddhañāṇe parivattati**
     
-    ]
+    
 
 3.  Okāsa Loka
 
-    [
+    
     One cakkavāḷa:
     
     -   Length/breadth: 1,203,450 yojanas
@@ -1485,14 +1485,14 @@ Summary: He only speaks: true, beneficial, agreeable/disagreeable, at the right 
         -   other systems same.
     -   3 bowls juxtaposed gap = Lokantarika hell; bottom = earth-supporting water.
     
-    ]
+    
 
 
 <a id="orgcc1da6d"></a>
 
 ## How Buddhānussati Succeeds
 
-[
+
 
 -   Reflecting thus, pariyuṭṭhāna nīvaraṇas do not occur and are suppressed
 -   Jhānaṅgas are strengthened
@@ -1509,26 +1509,26 @@ Summary: He only speaks: true, beneficial, agreeable/disagreeable, at the right 
             -   me: no, it must be upacāra to succeed
     -   is the image of the Buddha necessary? no, the focus is on the quality, not image; sometimes, images may appear of past buddhas one has seen
 
-]   
+   
 
 
 <a id="org011b653"></a>
 
 ## Why only upacāra
 
-[
+
 
 -   because the qualities of the Buddha are profound
 -   because the mind inclines toward recollecting the qualities of the Buddha in many different ways
 
-]
+
 
 
 <a id="org462156e"></a>
 
 ## Benefits
 
-[
+
 
 -   **Satthari sagāravo hoti sappatisso**: great reverence and respect toward the Teacher
 -   **Saddhāvepullaṃ satisampadaṃ paññāvepullaṃ puññavepullaṃ ca adhigacchati**:
@@ -1543,7 +1543,7 @@ Summary: He only speaks: true, beneficial, agreeable/disagreeable, at the right 
         -   Dhajagga Sutta: “Anussaretha Sambuddhaṃ, bhayaṃ tumhāka no siyā”
     -   capable of enduring bodily painful feelings because physical pain subsides through the power of Buddhānussati like drops of water rolling from a lotus leaf
 
-]
+
 
 
 <a id="org172df54"></a>
