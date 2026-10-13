@@ -113,7 +113,8 @@ Here, you'll find my Dhamma notes and summaries (still being formatted). These a
 
 ## Samatha
 
-- [Samatha (Semester V) – bhante Siddhatthālaṅkāra](/summaries/samatha/semester-5)
+- [**Samatha (Semester V)**](/summaries/samatha/semester-5)
+- [**Anussati Bhāvanā**](/summaries/samatha/anussatibhavana)
 
 {% include toc.html %}
 	

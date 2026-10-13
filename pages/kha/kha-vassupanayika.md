@@ -4,7 +4,6 @@ title: Vassūpanāyika Khandhaka — Introduction & Main Allowance
 permalink: /summaries/vinaya/khandhaka/vassupanayika
 ---
 
-
 ## Introduction
 
 -   All Buddhas practice spending vassāvāsa
