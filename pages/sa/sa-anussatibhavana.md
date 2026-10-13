@@ -4,7 +4,7 @@ title: "Anussati Bhāvanā"
 permalink: /summaries/samatha/anussatibhavana
 ---
 
-# 10 Anussatis
+# DONE 10 Anussatis
 
 
 
@@ -38,12 +38,12 @@ permalink: /summaries/samatha/anussatibhavana
 
 
 
-<a id="org4ff54d4"></a>
+<a id="org6d62a8a"></a>
 
 # Buddhānussati
 
 
-<a id="orgdec9c5a"></a>
+<a id="org9714e3e"></a>
 
 ## General Steps
 
@@ -64,7 +64,7 @@ permalink: /summaries/samatha/anussatibhavana
 
 
 
-<a id="orgd50d0d5"></a>
+<a id="org1250e25"></a>
 
 ### Extra Notes on Refuge
 
@@ -76,7 +76,7 @@ MN abhayarājasutta: took refuge in the Buddha "3 times"
 -   becoming buddhist: diṭthujukamma
 
 
-<a id="org07aa4e5"></a>
+<a id="org9687406"></a>
 
 ## Recollections
 
@@ -92,12 +92,12 @@ MN abhayarājasutta: took refuge in the Buddha "3 times"
 
 
 
-<a id="orgaa40bbe"></a>
+<a id="org3cef562"></a>
 
 ## Arahaṃ
 
 
-<a id="org8ca6b2d"></a>
+<a id="orgbf390df"></a>
 
 ### Vsm: 5 ways
 
@@ -351,7 +351,7 @@ MN abhayarājasutta: took refuge in the Buddha "3 times"
             -   real compassion doen't deny one's own benefit, self-inclusive
 
 
-<a id="org6764c0f"></a>
+<a id="orgcee2f9a"></a>
 
 ### Vsm-ṭ: 6 other ways
 
@@ -376,7 +376,7 @@ Notes:
 
 
 
-1.  Ārakā mandabuddhīnaṁ ārakā ca vijānataṁ
+1.  DONE Ārakā mandabuddhīnaṁ ārakā ca vijānataṁ
 
     
     **Ārakāti Arahaṃ, suvidūrabhāvato icceva attho**: because He is extremely distant from those:
@@ -559,53 +559,111 @@ Notes:
     
 
 
-<a id="org08c94ac"></a>
+<a id="orgbc04a2c"></a>
 
-### Dhammāṇacakkaṁ pavattetuṁ arahati ("Sūvisi Mahā Guṇaya" by V. Cdvm)
+### DONE Dhammāṇacakkaṁ pavattetuṁ arahati ("Sūvisi Mahā Guṇaya" by V. Cdvm)
 
 
-**Anuttaraṃ dhammacakkañca āṇācakkañca pavattetuṃ arahatīti arahā**: worthy and capable of setting in motion the unsurpassed Dhamma wheel and the wheel of authority
+**Anuttaraṃ dhammacakkañca āṇācakkañca pavattetuṃ arahatiīti arahā**: capable of setting in motion the unsurpassed Wheel of Dhamma & of authority
 
 
 1.  Dhammacakka
 
+    1.  2 Types
     
+        
+        
+        -   **Paṭivedha Dhammacakka** (Dhamma-Wheel of Realization): wheel of dhammas (maggadhammas & bodhipakkhiyadhammas)
+            -   set in motion, made arise, at the Bodhimaṇḍa
+            -   through it, He destroyed 1.500 of his own defilements
+            -   could be said to have 38 spokes based on the bodhipakkhiyas
+        -   **Desanā Dhammacakka** (Dhamma-Wheel of Teaching): the act of teaching or the teaching itself
+            -   set rolling (the act of teaching) at Isipatana in Bārāṇasī
+            -   through it, He destroyed others' defilements
+                -   like with the cakkāyudha: a weapon that when whirled, cuts nearby enemies
+            -   due to His wisdom, He could teach without impediments, hesitation, etc., like a river pouring from the sky, and make the Dhamma enter the mind of beings like no other
+                -   even 100 yojanas away, one could hear Him as if sitting nearby
+            -   note: any of Buddha's teachings could be called Dhammacakka in this sense
+            -   24 spokes of the desanādhammacakka
+        
+        <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+        
+        
+        <colgroup>
+        <col  class="org-left" />
+        
+        <col  class="org-left" />
+        
+        <col  class="org-left" />
+        </colgroup>
+        <thead>
+        <tr>
+        <th scope="col" class="org-left">&#xa0;</th>
+        <th scope="col" class="org-left">Paṭivedha</th>
+        <th scope="col" class="org-left">Desanā</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+        <td class="org-left">Refers to</td>
+        <td class="org-left">38 bodhipakkhiyadhammas</td>
+        <td class="org-left">act of teaching or teaching itself</td>
+        </tr>
+        
+        <tr>
+        <td class="org-left">Set in motion</td>
+        <td class="org-left">made arise in the bodhimaṇḍa</td>
+        <td class="org-left">taught at Isipatana (initially)</td>
+        </tr>
+        
+        <tr>
+        <td class="org-left">Destroys</td>
+        <td class="org-left">His own defilements</td>
+        <td class="org-left">others' defilements</td>
+        </tr>
+        
+        <tr>
+        <td class="org-left">Number of Spokes</td>
+        <td class="org-left">38</td>
+        <td class="org-left">24</td>
+        </tr>
+        
+        <tr>
+        <td class="org-left">Simile</td>
+        <td class="org-left">&#xa0;</td>
+        <td class="org-left">cakkāyudha, sky river</td>
+        </tr>
+        </tbody>
+        </table>
+        
+        
     
-    -   **Paṭivedha Dhammacakka** (Dhamma-Wheel of Realization): dhammas that destroy defilements set in motion at the bodhimaṇḍa
-        -   Buddha cut down 1.500 defilements with the cakka of Dhamma by means of magga and bodhipakkhiyadhammas under the Bodhimaṇḍa
-    -   **Desanā Dhammacakka** (Dhamma-Wheel of Teaching): by means of preaching, He cuts off others' defilements like the cakkāyudha
-        -   set rolling at Isipatana in Bārāṇasī
-            -   set rolling: teaching
-            -   that teaching is also called Dhammacakka
-                -   note: any of Buddha's teachings could be called Dhammacakka in this sense
-        -   due to His wisdom, He could teach without impediments, hesitation, etc., like a river pouring from the sky, and make the Dhamma enter the mind of beings like no other
-            -   even 100 yojanas away, one could hear Him as if sitting nearby
-    -   Notes:
-        -   cakkāyudha / cakkāvudha: a weapon like a wheel spinned to cut down enemies
-        -   24 spokes desanā cakka
-        -   28 pativedha cakka (tbc)
-        -   10 spokes of saṁsāra
+    2.  "Etaṃ Bhagavatā Bārāṇasiyaṃ Isipatane Migadāye&#x2026;"
     
-    > **Etaṃ Bhagavatā Bārāṇasiyaṃ Isipatane Migadāye anuttaraṃ Dhammacakkaṃ pavattitaṃ appaṭivattiyaṃ samaṇena vā brāhmaṇena vā devena vā Mārena vā Brahmunā vā kenaci vā lokasmiṃ.** (Dhammacakkappavattanasutta)
-    
-    -   **Anuttaraṁ dhammacakkaṁ pavattitaṁ**: shows the unsurpassed nature of the Tathāgata’s Dhammacakka
-        -   anuttara: supreme, above all; of tremendous power
-        -   even extremely violent people such as Aṅgulimāla become gentle
-        -   extremely miserly people who are unwilling to give even what they would otherwise throw away become generous
-        -   those who engage in sexual misconduct become good people
-        -   liars become truthful
-        -   drunkards and gamblers become respectable people
-        -   lazy people become energetic
-        -   those sunk in the mud of the five sensual pleasures rise out of it
-        -   laypeople go forth into homelessness
-        -   non-Arahants become Arahants
-        -   the sick may become healthy
-        -   those in danger of death may survive
-        -   those heading towards an apāya may reach a good destination
-        -   countless beings become free from suffering such as jāti, jarā, illness, and maraṇa, and attain the happiness of Nibbāna
-    -   **Appaṭivattiyaṁ**: cannot be reasonably rejected (dukkha as not dukkha, etc.)
-    
-    
+        
+        
+        > **Etaṃ Bhagavatā Bārāṇasiyaṃ Isipatane Migadāye Anuttaraṃ Dhammacakkaṃ pavattitaṃ appaṭivattiyaṃ samaṇena vā brāhmaṇena vā devena vā Mārena vā Brahmunā vā kenaci vā lokasmiṃ.** (Dhammacakkappavattanasutta)
+        
+        -   **Anuttaraṁ Dhammacakkaṁ pavattitaṁ**: shows the unsurpassed nature and power of the Tathāgata’s Dhammacakka
+            -   extremely violent people become gentle
+                -   e.g., Aṅgulimāla
+            -   extremely miserly people become generous
+            -   sexual offenders become good people
+            -   liars become truthful
+            -   drunkards and gamblers become respectable
+            -   the lazy become energetic
+            -   those sunk in the mud of sensual pleasures rise out of it
+            -   laypeople go forth into homelessness
+            -   non-Arahants become Arahants
+            -   the sick may become healthy
+            -   those in danger of death may survive
+            -   those heading towards an apāya may reach a good destination
+            -   countless beings become free from suffering such as jāti, jarā, illness, and maraṇa, and attain the happiness of Nibbāna
+        -   **Appaṭivattiyaṁ**: cannot be reasonably rejected (dukkha as not dukkha, etc.)
+            -   me:
+                -   paṭivedhadhammacakka cannot be undone (defilements cannot return) in Himself and in others who attain it
+        
+        
 
 2.  Āṇācakka
 
@@ -618,9 +676,10 @@ Notes:
     -   **Cakkavattirāja**: king for whom the cakkaratana appears through the power of his merit, through which he can travel throughout the whole earth without obstruction and regional kings receive him respectfully and follow his authority
         -   scope: 4 continents
     -   **Dhammacakkavattirājā**: Buddha who sets the Dhamma wheel in motion, without obstruction from anyone in the world
-        -   scope: āṇācakka 100.000 koṭi (1 T) cakkavāḷas
-            -   area protective discourses are effective: Ratanasutta, Dhajagga, Khandha, Mora, and others
-        -   consequences: authority, if disobeyed, necessarily leads to suffering
+        -   scope: āṇācakka: koṭisatasahassa cakkavāḷa (100.000 koṭi = 1 T cakkavāḷas)
+            -   1 koṭi = 10 M
+            -   area in which protective discourses are effective: Ratanasutta, Dhajagga, Khandha, Mora, and others
+        -   consequences in disobeyance: necessarily leads to suffering
             -   e.g.,
                 -   not answering to the Buddha 3 times leads to head being split in to 7 pieces (debate with Saccaka)
                 -   ehibhikkhūpasampadā
@@ -635,22 +694,26 @@ Notes:
 
 3.  Extra Notes
 
-    -   no ehibhikkhunī upasampadā
-    -   V-a: number of ehibhikkhus: 27.340
-        -   250 srp mgl
-        -   30 baddhavaggiya
-        -   341 angulimala
-        -   60 yasa
-        -   10.000
-        -   Sattavīsasahassāni – tīṇi yeva satāni ca,
-            Ete hi sabbe saṅkhātā – sabbe te ehibhikkhukā.
-    -   devas in 10.000 cakkavāḷas can get awakening
-    -   humans have to be born in this Cakkavāḷa
-    -   Dhammasenāpati: V. Sāriputta
-    -   Dhammapurohita: V. Moggallāna
-    -   Dhammabaṇḍhāgārika: V. Ānanda
-    -   mantas for vasī: controlling others
-    -   brahmins would say the Buddha had a mantra to control others
+    -   ehibhikkhūpasampadā
+        -   No ehibhikkhunī upasampadā
+        -   V-a: number of ehibhikkhus: 27.340
+            -   250 srp mgl
+            -   30 baddhavaggiya
+            -   341 angulimala
+            -   60 yasa
+            -   10.000
+            -   Sattavīsasahassāni – tīṇi yeva satāni ca,
+                Ete hi sabbe saṅkhātā – sabbe te ehibhikkhukā.
+    -   awakening opportunity
+        -   devas in 10.000 cakkavāḷas can get awakening
+        -   humans have to be born in this Cakkavāḷa to get awakening
+    -   positions in the sāsana
+        -   Dhammasenāpati: V. Sāriputta
+        -   Dhammapurohita: V. Moggallāna
+        -   Dhammabaṇḍhāgārika: V. Ānanda
+    -   manta
+        -   mantas for vasī: controlling others
+        -   brahmins would say the Buddha had a mantra to control others
     
     1.  2 reasons a listener with potential for awakening may not attain during a talk (Kandarakasuttavaṇṇanā)
     
@@ -661,7 +724,7 @@ Notes:
             -   e.g., Ajātasattu
 
 
-<a id="org7bcc935"></a>
+<a id="org0047845"></a>
 
 ## Sammāsambuddho
 
@@ -782,7 +845,7 @@ He became Sammāsambuddha by
 
 
 
-<a id="orgf9986ca"></a>
+<a id="org30904dc"></a>
 
 ### Acc. to each dhamma
 
@@ -839,7 +902,7 @@ He became Sammāsambuddha by
 
 
 
-<a id="org31c9e6c"></a>
+<a id="org25f40cc"></a>
 
 ## Vijjācaraṇasampanno
 
@@ -848,7 +911,7 @@ He became Sammāsambuddha by
 
 
 
-<a id="org906b471"></a>
+<a id="org39eefda"></a>
 
 ### Vijjā
 
@@ -880,7 +943,7 @@ He became Sammāsambuddha by
 
 
 
-<a id="org00f27da"></a>
+<a id="org6a59bfd"></a>
 
 ### Caraṇa
 
@@ -916,7 +979,7 @@ He became Sammāsambuddha by
 
 
 
-<a id="orgd426dc5"></a>
+<a id="org8b42bee"></a>
 
 ### Vijjācaraṇasampanna Reveals the Following Qualities
 
@@ -938,70 +1001,253 @@ If the teacher is
 
 
 
-<a id="orgd39f8ee"></a>
+<a id="org5387f71"></a>
 
-### The Greatness of Paññā and Karuṇā
+### DONE The Greatness of Paññā and Karuṇā
 
 
 
--   Attainment
-    -   great paññā: shows His attainment of the kingdom of Dhamma
-        great karuṇā: shows His sharing of that Dhamma with beings
-    -   great paññā: shows the attainment of Buddhahood
-        great karuṇā: shows the performance of the duties of a Buddha
--   Saṁsāra
-    -   great paññā: shows His disenchantment with the suffering of saṃsāra
-        great karuṇā: shows His willingness to endure the suffering of saṃsāra for the sake of others
-    -   great paññā: show His complete understanding of the suffering of others
-        great karuṇā: shows His effort to provide a remedy for the suffering of others
-    -   great paññā: shows His own crossing beyond the suffering of saṃsāra
-        great karuṇā: shows His helping others to cross beyond the suffering of saṃsāra
-    -   great paññā: shows His lack of delight in saṃsāra
-        great karuṇā: shows His turning towards saṃsāra during the Bodhisatta period for the sake of beings
--   Nibbāna
-    -   great paññā: shows His inclination towards Parinibbāna
-        great karuṇā: shows His delaying of that attainment for the benefit of others
--   Fear
-    -   great paññā: shows He Himself is not afraid because of others
-        great karuṇā: shows He does not cause fear in others
--   Protection
-    -   great paññā: shows that while protecting Himself, He protects others
-        great karuṇā: shows that while protecting others, He protects Himself
-    -   great paññā: shows He is anattantapa, one who does not torment Himself
-        great karuṇā: shows He is aparantapa, one who does not torment others
-        -   He belongs to the 4th individual: nevattantapa naparantapa
--   Refuge
-    -   great paññā: shows His quality of being Attanātha, one who is a refuge to Himself
-        great karuṇā: shows His quality of being Lokanātha, the refuge of the world
--   Unattached compassion
-    -   great paññā: shows He is not attached to any being or dhamma
-        great karuṇā: shows He has compassion and concern for all beings
-        -   since His karuṇā always follows paññā
-    -   great paññā: shows He is completely unattached to all dhammas
-        great karuṇā: shows He never fails to work for the welfare of all beings
-        -   because His paññā is always accompanied by karuṇā
--   great paññā: free from ahaṅkāra and mamaṅkāra
-    great karuṇā: free from affection and sorrow
-    -   paññā and karuṇā purify and balance each other
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Category</th>
+<th scope="col" class="org-left">Quality</th>
+<th scope="col" class="org-left">Reason</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Attainment</td>
+<td class="org-left">paññā</td>
+<td class="org-left">His attainment of the kingdom of Dhamma</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">karuṇā</td>
+<td class="org-left">His sharing of that Dhamma with beings</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">paññā</td>
+<td class="org-left">The attainment of Buddhahood</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">karuṇā</td>
+<td class="org-left">The performance of the duties of a Buddha</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">Saṃsāra</td>
+<td class="org-left">paññā</td>
+<td class="org-left">His disenchantment with the suffering of saṃsāra</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">karuṇā</td>
+<td class="org-left">His willingness to endure the suffering of saṃsāra for the sake of others</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">paññā</td>
+<td class="org-left">His complete understanding of the suffering of others</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">karuṇā</td>
+<td class="org-left">His effort to provide a remedy for the suffering of others</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">paññā</td>
+<td class="org-left">His own crossing beyond the suffering of saṃsāra</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">karuṇā</td>
+<td class="org-left">His helping others to cross beyond the suffering of saṃsāra</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">paññā</td>
+<td class="org-left">His lack of delight in saṃsāra</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">karuṇā</td>
+<td class="org-left">His turning towards it during the Bodhisatta period for beings</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">Nibbāna</td>
+<td class="org-left">paññā</td>
+<td class="org-left">His inclination towards Parinibbāna</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">karuṇā</td>
+<td class="org-left">His delaying of that attainment for the benefit of others</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">Fear</td>
+<td class="org-left">paññā</td>
+<td class="org-left">He Himself is not afraid because of others</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">karuṇā</td>
+<td class="org-left">He does not cause fear in others</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">Protection</td>
+<td class="org-left">paññā</td>
+<td class="org-left">While protecting Himself, He protects others</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">karuṇā</td>
+<td class="org-left">While protecting others, He protects Himself</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">paññā</td>
+<td class="org-left">He is anattantapa (one who does not torment Himself)</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">karuṇā</td>
+<td class="org-left">He is aparantapa (one who does not torment others)</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">note:</td>
+<td class="org-left">He belongs to the 4th individual: nevattantapa naparantapa</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">Refuge</td>
+<td class="org-left">paññā</td>
+<td class="org-left">His quality of being Attanātha</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">karuṇā</td>
+<td class="org-left">His quality of being Lokanātha</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">Unattached Compassion</td>
+<td class="org-left">paññā</td>
+<td class="org-left">He is not attached to any being or dhamma</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">karuṇā</td>
+<td class="org-left">He has compassion and concern for all beings</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">note:</td>
+<td class="org-left">since His karuṇā always follows paññā</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">paññā</td>
+<td class="org-left">He is completely unattached to all dhammas</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">karuṇā</td>
+<td class="org-left">He never fails to work for the welfare of all beings</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">note:</td>
+<td class="org-left">since his pañña is always accompanied by karuṇā</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">Purity of Mind</td>
+<td class="org-left">paññā</td>
+<td class="org-left">Free from ahaṃkāra and mamaṃkāra</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">karuṇā</td>
+<td class="org-left">Free from affection and sorrow</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">note:</td>
+<td class="org-left">paññā and karuṇā purify and balance each other</td>
+</tr>
+</tbody>
+</table>
+
 -   Notes:
-    -   attain due to wisdom
-    -   do buddhakicca due to karuna
     -   embraces samsara due to karuna without delighting in it
         -   me: like one who stays in a concentration camp to help others escape it
             -   Witold Pilecki: a Polish cavalry officer. He voluntarily infiltrated Auschwitz to gather intelligence, organize a resistance movement among prisoners, and prepare for a potential uprising or mass escape. He stayed for over two years, actively helping others within the camp before he himself eventually escaped to report on the atrocities
     -   religions put restrictions in their lay disciples; Buddha did not do that (tisaraṇa is enough)
-        -   only within the sangha he did that
+        -   only within the sangha did He do that
         -   beyond the sangha, only recommendations and showing the results of their actions
-        -   would such rules be beneficial?
     -   tisaraṇa is higher than pañcasīla, but both together is even higher
-    -   of the disciples, most join him at a later stage of his bodhisatta career
-    -   yasodhara in the beginning
-    -   due to karuna he doesnt encourage others to wait until he attains buddhahood to attain nibbāna
+    -   of the disciples, most join Him at a later stage of his bodhisatta career
+    -   Yasodhara in the beginning
+    -   due to karuna he doesnt encourage others to wait until he attains buddhahood to attain Nibbāna
 
 
 
 
-<a id="orge15af4e"></a>
+<a id="orgddeaa85"></a>
 
 ### Extra Notes
 
@@ -1018,7 +1264,7 @@ If the teacher is
                 -   wrong views also use such argument: if there is no god, you're ok believing in god; if there is god, you're safe believing in god
 
 
-<a id="org796add5"></a>
+<a id="org8e9e5bb"></a>
 
 ## Sugato
 
@@ -1035,9 +1281,9 @@ Vsm: so called because
 
 
 
-<a id="org51765c7"></a>
+<a id="org6457356"></a>
 
-### Sobhana gamanattā
+### DONE Sobhana gamanattā
 
 
 **Sobhanagamanattā sugato / Sobhanaṃ gataṃ gamanaṃ etassāti sugato**: because His way of going or journey (ariyamagga), through which He went to the secure destination of Nibbāna without being obstructed, is beautiful, pure, and faultless
@@ -1053,7 +1299,7 @@ Vsm: so called because
 
 
 
-<a id="orgf3c2829"></a>
+<a id="orgdaf2eba"></a>
 
 ### Sammā gato
 
@@ -1127,7 +1373,7 @@ Vsm-ṭ (√gam > buj (understanding)): gatoti avagato atīto adhigato paṭipan
 
 
 
-<a id="org9d76548"></a>
+<a id="org366d483"></a>
 
 ### Suṭṭhu gadanato
 
@@ -1251,7 +1497,7 @@ Summary: He only speaks: true, beneficial, agreeable/disagreeable, at the right 
 
 
 
-<a id="orgb38120b"></a>
+<a id="orgdaeb404"></a>
 
 ## Lokavidū
 
@@ -1283,7 +1529,7 @@ Summary: He only speaks: true, beneficial, agreeable/disagreeable, at the right 
 
 
 
-<a id="org924ecc9"></a>
+<a id="orgd0d04ef"></a>
 
 ### 3 Lokas
 
@@ -1488,45 +1734,131 @@ Summary: He only speaks: true, beneficial, agreeable/disagreeable, at the right 
     
 
 
-<a id="orgcc1da6d"></a>
+<a id="orgf7b0e6d"></a>
 
-## How Buddhānussati Succeeds
+## Anuttaro Purisadammasārathī
+
+
+<a id="org58cfa45"></a>
+
+### 3 Readings
+
+
+
+-   Anuttaro
+-   Purisadammasārathi
+-   Anuttarapurisadammasārathi
+
+
+
+
+<a id="org6f687a7"></a>
+
+### DONE Anuttaro
+
+
+**Attanā pana guṇehi visiṭṭhatarassa kassaci abhāvato natthi etassa uttaroti anuttaro**: there is no one more distinguished in qualities that Him
+
+-   not even sadisakappa (merely resembling), let alone sadisa (equal), let alone visiṭṭha (superior)
+
+  
+
+1.  5 Abhibhavanas: Surpassing of the whole sadevakaloka in 5 khandhas
+
+    
+    
+    -   **Sīla** (Virtue): Perfected via:
+        -   **upanissayapaccayas**: highest degree of hiri, ottappa, mettā, and karuṇā
+        -   **savāsanapahāna**: eradication of defilements along with their residual latencies/habitual tendencies
+        -   **visesapaccayas**: highest degree of saddhā, sati, viriya, and paññā
+    -   **Samādhi**: unsurpassed and unshakeable mastery over all meditative states
+    -   **Paññā**: direct knowledge penetrating all dhammas like a myrobalan on the palm
+    -   **Vimutti**: lokuttara release from all saṃyojana
+    -   **Vimuttiñāṇadassana**: paccavekkhaṇañāṇa
+    -   Notes:
+        -   1st 4: lokiyalokuttaramissakā (can be both lokiya and lokuttara)
+        -   last one: only lokiya and kāmāvacara
+    
+    
+    
+    1.  How Lokiya Kāmāvacara Vimuttiñāṇadassana Surpasses the World
+    
+        
+        Vsm-ṭ:
+        
+        -   **Visayato** (in terms of object): anaññasādhāraṇaṃ satthu vimuttiguṇaṃ ārabbha: its object is the Buddha's vimutti, which is unique (and highest)
+        -   **Pavattito**: because all opposing mental factors have been eradicated with vāsanās, it is:
+            -   **atakkāvacara**: beyond conjecture
+            -   **paramagambhīra**: most profound
+            -   **saṇhasukhuma**: subtle
+            -   **suṭṭhu**: exceedingly distinct
+            -   **pākaṭaṃ**: exceedingly clear
+            -   **vibhūtataraṃ**: exceedingly powerful
+        -   **Pavattiākārato**: due to vasībhāva, the bhavaṅgaparivāsa is extraordinarily brief, allowing Javanas to occur very rapidly (lahuṃ lahuṃ pavattati)
+        
+        
+
+2.  5 Unrivaled Epithets
+
+    
+    
+    -   **Asamo**: unequalled by anyone living during the contemporary era of his life
+    -   **Asamasamo**: equal only to the unequalled past and future Sammāsambuddhas
+    -   **Appaṭimo**: incomparable; no one can serve even as a poetic comparison to him
+    -   **Appaṭibhāgo**: counterpartless; no one can be matched as his opposite or equivalent
+    -   **Appaṭipuggalo**: an unrivaled, peerless individual
+    
+    > **Na… attanā sīlasampannataraṃ**
+    
+    > **Yāvatā, bhikkhave, sattā apadā vā dvipadā vā catuppadā vā bahuppadā vā rūpino vā arūpino vā saññino vā asaññino vā nevasaññināsaññino vā, tathāgato tesaṃ aggamakkhāyati arahaṃ sammāsambuddho.**  
+    > - “Whatever beings there are—footless, or two-footed, or four-footed, or many-footed, or having form, or formless, or percipient, or non-percipient, or neither-percipient-nor-non-percipient—the Tathāgata is declared the foremost among them, the Arahant, the Perfectly Self-Awakened One.
+    
+    > said to Upaka: **Na me ācariyo atthi, sadiso me na vijjati.**
+    
+    
+
+
+<a id="org48a521e"></a>
+
+## DONE How Buddha-/Dhamma-/Saṅgha- anussati Succeeds
 
 
 
 -   Reflecting thus, pariyuṭṭhāna nīvaraṇas do not occur and are suppressed
 -   Jhānaṅgas are strengthened
     -   vitakkavicāra > pīti > passaddhi > sukha > samādhi > paññā
-        -   mixture of jhānaṅgas and bojjhaṅgas
-            -   if indriyas were added: bhante: saddhā > vīriya > vitakkavicāra > sati > pīti > passaddhi > samādhi > paññā
         -   notes:
+            -   mixture of jhānaṅgas and bojjhaṅgas
+                -   if indriyas were added: bhante: saddhā > vīriya > vitakkavicāra > sati > pīti > passaddhi > samādhi > paññā
             -   don't ask the beginner to have pīti, just apply vitakka on the object and pīti will arise at its time
             -   ledi: if mettā, karuṇā and muditā could not arise without somanassa, beginners in such meditations would not experience it with upekkhā and would be able to meditate easily, but it is not so
-    -   note: the jhāna (group of cetasikas) that arises through this recollection is called Buddhānussati
 -   Notes:
+    -   the jhāna (group of cetasikas) that arises through this recollection is called Buddha/Dhamma/Saṅghānussati
     -   stay with one clearer quality until upacāra
         -   bhante says: reflecting on the 9 is enough concentration
             -   me: no, it must be upacāra to succeed
-    -   is the image of the Buddha necessary? no, the focus is on the quality, not image; sometimes, images may appear of past buddhas one has seen
+    -   is the image of the Buddha necessary?
+        -   no, the focus is on the quality, not image
+        -   sometimes, images of Buddhas one have seen in the past may appear
 
    
 
 
-<a id="org011b653"></a>
+<a id="orgad92123"></a>
 
-## Why only upacāra
-
-
-
--   because the qualities of the Buddha are profound
--   because the mind inclines toward recollecting the qualities of the Buddha in many different ways
+### Why Only Upacāra
 
 
 
+-   Because the qualities of the Buddha/Dhamma/Saṅgha are profound
+-   Because the mind inclines toward recollecting those qualities in many different ways
 
-<a id="org462156e"></a>
 
-## Benefits
+
+
+<a id="org067700b"></a>
+
+## DONE Benefits
 
 
 
@@ -1546,7 +1878,7 @@ Summary: He only speaks: true, beneficial, agreeable/disagreeable, at the right 
 
 
 
-<a id="org172df54"></a>
+<a id="org5a38722"></a>
 
 ## Extra Notes
 
@@ -1557,259 +1889,314 @@ Summary: He only speaks: true, beneficial, agreeable/disagreeable, at the right 
     -   beings associate and like those of similar adhimutti
 
 
-<a id="org4412dd1"></a>
+<a id="org224c2f5"></a>
 
 # Dhammānussati
 
-A yogi who wishes to develop Dhammānussati should, while dwelling in a suitable residence, remain
-in seclusion (rahogatena) and withdraw from various external objects (paṭisallīnena). He should
-recollect the qualities of both the Pariyatti Dhamma and the nine supramundane Dhammas in the
-following manner:
 
-“The Dhamma taught by the Blessed One is Svākkhāta, Sandiṭṭhika, Ehipassika, Opanayika, and
-Paccattaṃ Veditabbo Viññūhi.”
+<a id="orga6e4613"></a>
 
-Here a question arises: Why, in the explanation of Dhammānussati, is it not stated, as in Buddhānussati,
-that the meditation should be developed by “a yogi endowed with unshakable confidence”?
-Although all six recollections are taught primarily with reference to Noble Disciples, the expression
-aveccappasādasamannāgatena – “by one endowed with unshakable confidence” – is not used in the
-explanation of Dhammānussati and the remaining five recollections in order to show that these
-recollections may also be successfully developed by ordinary persons who possess such qualities as
-purified virtue.1
-Among the six qualities of the Dhamma, the term Svākkhāta includes both the Pariyatti Dhamma and
-the supramundane Dhamma. The remaining five qualities beginning with Sandiṭṭhika, in the strict and
-direct sense, refer only to the supramundane Dhamma.2 However, it should be understood that, in a
-secondary or extended sense, these five qualities can also apply to the Pariyatti Dhamma.3
-
-1 Kasmā panettha buddhānussatiyaṃ viya "aveccappasādasamannāgatenā"ti na vuttaṃ. Nanu etā paṭipāṭiyā
-cha anussatiyo ariyasāvakānaṃ vasena desanaṃ āruḷhāti? Saccametaṃ, evaṃ santepi
-"parisuddhasīlādiguṇānaṃ puthujjanānampi ijjhantī"ti dassanatthaṃ "aveccappasādasamannāgatenā"ti
-idha na vuttaṃ, ariyasāvakānaṃ pana sukhena ijjhantīti. Tathāpi pāḷiyaṃ āgatattā ca buddhānussatiniddese
-vuttanti daṭṭhabbaṃ, ayañca vicāro parato āgamissateva. (Vsm-ṭ. I. 267.).
-
-2 Svākkhātoti imasmiṃ hi pade pariyattidhammopi saṅgahaṃ gacchati, itaresu lokuttaradhammova. (Vsm. I. 206.).
-
-3 Pariyattidhammopīti pi-saddena lokuttaradhammaṃ sampiṇḍeti. Itaresūti sandiṭṭhikādipadesu.
-Lokuttaradhammovāti avadhāraṇaṃ nippariyāyena sandiṭṭhikādiatthaṃ sandhāya vuttaṃ, pariyāyato panete
-pariyattidhammepi sambhavanteva. (Vsm-ṭ. I. 267.).
+## Introduction
 
 
-<a id="org4124d9c"></a>
+<a id="org851b952"></a>
 
-## Svākkhāta
-
-Both the Pariyatti Dhamma and the nine supramundane Dhammas (Paṭivedha Dhamma) are Svākkhāta.
-Let us first understand the quality of Svākkhāta as it applies to the Pariyatti Dhamma.
-
-The Quality of “Svākkhāta” in the Pariyatti Dhamma
-
-It was widely known in ancient India that the Tathāgata teaches a well-proclaimed Dhamma in the
-following manner:
-
-**So dhammaṃ deseti ādikalyāṇaṃ majjhekalyāṇaṃ pariyosānakalyāṇaṃ sātthaṃ sabyañjanaṃ, kevalaparipuṇṇaṃ parisuddhaṃ brahmacariyaṃ pakāseti.**
-
-The Blessed One teaches a Dhamma that is good in the beginning, good in the middle, and good
-in the end, . He proclaims a holy life that is complete in meaning and expression entirely complete and pure.
+### 6 Qualities And Their Referent
 
 
-<a id="org6b87822"></a>
 
-### 3 Kalyāṇa
+> **Svākkhāto Bhagavatā Dhammo Sandiṭṭhiko Akāliko Ehipassiko Opanayiko Paccattaṃ Veditabbo Viññūhi**
 
-<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-
-
-<colgroup>
-<col  class="org-left" />
-
-<col  class="org-left" />
-
-<col  class="org-left" />
-
-<col  class="org-left" />
-</colgroup>
-<thead>
-<tr>
-<th scope="col" class="org-left">&#xa0;</th>
-<th scope="col" class="org-left">Verse</th>
-<th scope="col" class="org-left">1-Anusandhi Discourse</th>
-<th scope="col" class="org-left">Multiple-Anusandhi Discourse</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td class="org-left">Ādikalyāṇaṁ</td>
-<td class="org-left">1st line</td>
-<td class="org-left">nidāna</td>
-<td class="org-left">1st section</td>
-</tr>
-
-<tr>
-<td class="org-left">Majjhekalyāṇaṁ</td>
-<td class="org-left">2nd,3rd line</td>
-<td class="org-left">remaning</td>
-<td class="org-left">intermediary sections</td>
-</tr>
-
-<tr>
-<td class="org-left">Pariyosānakalyāṇaṁ</td>
-<td class="org-left">final line</td>
-<td class="org-left">nigamana</td>
-<td class="org-left">final section</td>
-</tr>
-</tbody>
-</table>
-
--   Anusandhi: connection
--   Nidāna: introduction
--   Nigamana: conclusion
-
-<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+-   Vsm:
+    -   Svākkhāta: refers to both **pariyattidhamma and lokuttaradhamma**
+    -   Other 5:
+        -   in a strict sense, only **lokuttaradhamma**
+        -   Vsm-ṭ: in an extended sense, **both**
+            -   lokuttaradhammovāti avadhāraṇaṃ nippariyāyena sandiṭṭhikādiatthaṃ sandhāya vuttaṃ, pariyāyato panete pariyattidhammepi sambhavanteva
 
 
-<colgroup>
-<col  class="org-left" />
-
-<col  class="org-left" />
-
-<col  class="org-left" />
-</colgroup>
-<thead>
-<tr>
-<th scope="col" class="org-left">&#xa0;</th>
-<th scope="col" class="org-left">Vinaya</th>
-<th scope="col" class="org-left">Sāsana (Pariyatti)</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td class="org-left">Ādikalyāṇaṁ</td>
-<td class="org-left">origin</td>
-<td class="org-left">teaching of sīla</td>
-</tr>
-
-<tr>
-<td class="org-left">Majjhekalyāṇaṁ</td>
-<td class="org-left">appropriate for trainees</td>
-<td class="org-left">teaching of samatha,</td>
-</tr>
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">because the meaning is correct</td>
-<td class="org-left">vipassanā, magga, phala</td>
-</tr>
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">supported by reasons and examples</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-<tr>
-<td class="org-left">Pariyosānakalyāṇaṁ</td>
-<td class="org-left">bring about attainment of faith;</td>
-<td class="org-left">Nibbāna</td>
-</tr>
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">proper conclusion</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-</tbody>
-</table>
-
-<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
-<colgroup>
-<col  class="org-left" />
+<a id="org0517ec6"></a>
 
-<col  class="org-left" />
-
-<col  class="org-left" />
-
-<col  class="org-left" />
-</colgroup>
-<thead>
-<tr>
-<th scope="col" class="org-left">&#xa0;</th>
-<th scope="col" class="org-left">Sāsana (Pariyatti)</th>
-<th scope="col" class="org-left">Sāsana (Pariyatti)</th>
-<th scope="col" class="org-left">Sāsana (Pariyatti)</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td class="org-left">Ādikalyāṇaṁ</td>
-<td class="org-left">sīla, samādhi</td>
-<td class="org-left">Buddhasubuddhatā</td>
-<td class="org-left">Sammāsambodhi</td>
-</tr>
-
-<tr>
-<td class="org-left">Majjhekalyāṇaṁ</td>
-<td class="org-left">vipassanā, magga</td>
-<td class="org-left">Dhammasudhammatā</td>
-<td class="org-left">Paccekabodhi</td>
-</tr>
-
-<tr>
-<td class="org-left">Pariyosānakalyāṇaṁ</td>
-<td class="org-left">phala, Nibbāna</td>
-<td class="org-left">Saṅghasupaṭipatti</td>
-<td class="org-left">Sāvakabodhi</td>
-</tr>
-</tbody>
-</table>
-
--   Buddhasubuddhatā: perfect enlightenment of the Tathāgata as a Sammāsambuddha
--   Dhammasudhammatā: excellence and completeness of the Dhamma, which consists of the purification brought about by the abandonment of all defilements
--   Saṅghasuppaṭipatti: the good practice of the Saṅgha of disciples in accordance with the instruction of the Tathāgata
-    -   owing to which, the Sāsana of the Tathāgata is well established in the world
-
-<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+### TODO Why Aveccappasāda is Not Mentioned
 
 
-<colgroup>
-<col  class="org-left" />
 
-<col  class="org-left" />
-</colgroup>
-<thead>
-<tr>
-<th scope="col" class="org-left">&#xa0;</th>
-<th scope="col" class="org-left">Heard Pariyatti</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td class="org-left">Ādikalyāṇaṁ</td>
-<td class="org-left">brings benefit through suppression of hindrances</td>
-</tr>
-
-<tr>
-<td class="org-left">Majjhekalyāṇaṁ</td>
-<td class="org-left">brings happiness of samathavipassanā through practice</td>
-</tr>
-
-<tr>
-<td class="org-left">Pariyosānakalyāṇaṁ</td>
-<td class="org-left">brings tādi through the fruit of the practice</td>
-</tr>
-</tbody>
-</table>
+-   All 6 anussatis are taught primarily with reference to Noble Disciples
+-   **Aveccappasādasamannāgatena**: only mentioned in Buddhānussati
+    -   in order to show that these other recollections may also be successfully developed by puthujjanas who possess such qualities as purified virtue
+        -   **ariyasāvakānaṁ sukhena ijjhanti**: ariyas succeed in them easily
+        -   Buddhānussati, etc. can also be developed by such puthujjanas
+    -   Vsm-ṭ: nanu etā paṭipāṭiyā cha anussatiyo ariyasāvakānaṃ vasena desanaṃ āruḷhāti? Saccametaṃ, evaṃ santepi "parisuddhasīlādiguṇānaṃ puthujjanānampi ijjhantī"ti dassanatthaṃ "aveccappasādasamannāgatenā"ti idha na vuttaṃ, ariyasāvakānaṃ pana sukhena ijjhantīti. Tathāpi pāḷiyaṃ āgatattā ca buddhānussatiniddese vuttanti daṭṭhabbaṃ, ayañca vicāro parato āgamissateva
 
 
-<a id="orgadaca8e"></a>
 
-### 2 Brahmacariyaṁ
 
--   **Sāsana brahmacariya** (practice of the holy life)
--   **Magga brahmacariya** (the path of the holy life)
+<a id="org39f5bb1"></a>
 
--   **Sāttha** (endowed with meaning)
+## TODO Svākkhāta
+
+
+<a id="org569d9e2"></a>
+
+### of Pariyattidhamma
+
+
+
+> **So dhammaṃ deseti ādikalyāṇaṃ majjhekalyāṇaṃ pariyosānakalyāṇaṃ sātthaṃ sabyañjanaṃ, kevalaparipuṇṇaṃ parisuddhaṃ brahmacariyaṃ pakāseti.**  
+> The Blessed One teaches a Dhamma that is good in the beginning, good in the middle, and good  
+> in the end. He proclaims a holy life that is complete in meaning and expression entirely complete and pure.
+
+Svākkhāta because it has been well proclaimed without any distortion of meaning
+
+-   Durakkhāta teachings:
+    -   antarāyikadhammas, things declared by them to be obstructive, are not truly so
+    -   niyyānikadhammas, things declared by them to be leading outward from suffering, are not truly so
+-   Svakkhāta teachings:
+    -   antarāyikadhamma are truly so
+    -   niyyānikadhammas are truly so
+
+
+
+1.  DONE 3 Kalyāṇa Applied to Verses, Vinaya, & Pariyatti
+
+    
+    Applied to verses and discourses:
+    
+    <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+    
+    
+    <colgroup>
+    <col  class="org-left" />
+    
+    <col  class="org-left" />
+    
+    <col  class="org-left" />
+    
+    <col  class="org-left" />
+    </colgroup>
+    <thead>
+    <tr>
+    <th scope="col" class="org-left">&#xa0;</th>
+    <th scope="col" class="org-left">Verse</th>
+    <th scope="col" class="org-left">1-Anusandhi Discourse</th>
+    <th scope="col" class="org-left">Multiple-Anusandhi Discourse</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+    <td class="org-left">Ādi</td>
+    <td class="org-left">1st line</td>
+    <td class="org-left">nidāna</td>
+    <td class="org-left">1st section</td>
+    </tr>
+    
+    <tr>
+    <td class="org-left">Majjhe</td>
+    <td class="org-left">2nd &amp; 3rd line</td>
+    <td class="org-left">remaning</td>
+    <td class="org-left">intermediary sections</td>
+    </tr>
+    
+    <tr>
+    <td class="org-left">Pariyosāna</td>
+    <td class="org-left">final line</td>
+    <td class="org-left">nigamana</td>
+    <td class="org-left">final section</td>
+    </tr>
+    </tbody>
+    </table>
+    
+    -   Anusandhi: connection
+    -   Nidāna: introduction
+    -   Nigamana: conclusion
+    
+    Applied to Vinaya:  
+    
+    <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+    
+    
+    <colgroup>
+    <col  class="org-left" />
+    
+    <col  class="org-left" />
+    </colgroup>
+    <thead>
+    <tr>
+    <th scope="col" class="org-left">&#xa0;</th>
+    <th scope="col" class="org-left">Vinaya</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+    <td class="org-left">Ādi</td>
+    <td class="org-left">origin (nidāna)</td>
+    </tr>
+    
+    <tr>
+    <td class="org-left">Majjhe</td>
+    <td class="org-left">appropriate for trainees</td>
+    </tr>
+    
+    <tr>
+    <td class="org-left">&#xa0;</td>
+    <td class="org-left">because the meaning is correct</td>
+    </tr>
+    
+    <tr>
+    <td class="org-left">&#xa0;</td>
+    <td class="org-left">supported by reasons and examples</td>
+    </tr>
+    
+    <tr>
+    <td class="org-left">Pariyosāna</td>
+    <td class="org-left">bring about attainment of faith;</td>
+    </tr>
+    
+    <tr>
+    <td class="org-left">&#xa0;</td>
+    <td class="org-left">proper conclusion</td>
+    </tr>
+    </tbody>
+    </table>
+    
+    Applied to the Pariyattisāsana:
+    
+    <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+    
+    
+    <colgroup>
+    <col  class="org-left" />
+    
+    <col  class="org-left" />
+    
+    <col  class="org-left" />
+    </colgroup>
+    <thead>
+    <tr>
+    <th scope="col" class="org-left">&#xa0;</th>
+    <th scope="col" class="org-left">Sāsana (Pariyatti)</th>
+    <th scope="col" class="org-left">Sāsana (Pariyatti)</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+    <td class="org-left">Ādi</td>
+    <td class="org-left">teaching of sīla</td>
+    <td class="org-left">teaching of sīla &amp; samādhi</td>
+    </tr>
+    
+    <tr>
+    <td class="org-left">Majjhe</td>
+    <td class="org-left">teaching of samatha,</td>
+    <td class="org-left">teaching of vipassanā &amp; magga</td>
+    </tr>
+    
+    <tr>
+    <td class="org-left">Pariyosāna</td>
+    <td class="org-left">teaching of vipassanā,</td>
+    <td class="org-left">teaching of phala &amp; Nibbāna</td>
+    </tr>
+    
+    <tr>
+    <td class="org-left">&#xa0;</td>
+    <td class="org-left">magga,phala,Nibbāna</td>
+    <td class="org-left">&#xa0;</td>
+    </tr>
+    </tbody>
+    </table>
+    
+    <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+    
+    
+    <colgroup>
+    <col  class="org-left" />
+    
+    <col  class="org-left" />
+    
+    <col  class="org-left" />
+    </colgroup>
+    <thead>
+    <tr>
+    <th scope="col" class="org-left">&#xa0;</th>
+    <th scope="col" class="org-left">Sāsana (Pariyatti)</th>
+    <th scope="col" class="org-left">Sāsana (Pariyatti)</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+    <td class="org-left">Ādi</td>
+    <td class="org-left">Buddhasubuddhatā</td>
+    <td class="org-left">Sammāsambodhi</td>
+    </tr>
+    
+    <tr>
+    <td class="org-left">Majjhe</td>
+    <td class="org-left">Dhammasudhammatā</td>
+    <td class="org-left">Paccekabodhi</td>
+    </tr>
+    
+    <tr>
+    <td class="org-left">Pariyosāna</td>
+    <td class="org-left">Saṅghasupaṭipatti</td>
+    <td class="org-left">Sāvakabodhi</td>
+    </tr>
+    
+    <tr>
+    <td class="org-left">&#xa0;</td>
+    <td class="org-left">&#xa0;</td>
+    <td class="org-left">&#xa0;</td>
+    </tr>
+    </tbody>
+    </table>
+    
+    -   Buddhasubuddhatā: perfect enlightenment of the Tathāgata as a Sammāsambuddha
+    -   Dhammasudhammatā: excellence and completeness of the Dhamma, which consists of the purification brought about by the abandonment of all defilements
+    -   Saṅghasuppaṭipatti: the good practice of the Saṅgha of disciples in accordance with the instruction of the Tathāgata
+        -   owing to which, the Sāsana of the Tathāgata is well established in the world
+    
+    Applied to heard pariyatti:
+    
+    <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+    
+    
+    <colgroup>
+    <col  class="org-left" />
+    
+    <col  class="org-left" />
+    </colgroup>
+    <thead>
+    <tr>
+    <th scope="col" class="org-left">&#xa0;</th>
+    <th scope="col" class="org-left">Heard Pariyatti</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+    <td class="org-left">Ādi</td>
+    <td class="org-left">brings benefit through nīvaraṇavikkhambaṇa</td>
+    </tr>
+    
+    <tr>
+    <td class="org-left">Majjhe</td>
+    <td class="org-left">brings samathavipassanāsukha through practice</td>
+    </tr>
+    
+    <tr>
+    <td class="org-left">Pariyosāna</td>
+    <td class="org-left">brings tādi through arahattaphala</td>
+    </tr>
+    </tbody>
+    </table>
+    
+    
+
+2.  Sāttha
+
+    
+    Endowed with meaning:
+    
     -   because its meaning is complete
     -   because it possesses the meaningful modes of exposition known as saṅkāsana, pakāsana, vivaraṇa, vibhajana, and uttānīkaraṇa
     -   because its meaning is profound and its penetration (paṭivedha) is profound
@@ -1817,7 +2204,18 @@ in the end, . He proclaims a holy life that is complete in meaning and expressio
     -   because it is to be known by the wise and produces confidence in those who investigate what is wholesome
     -   because it possesses profound intention (adhippāya)
     -   because it gives rise to adhigamaveyyattiya, proficiency in attainment through practice
--   **Sabyañjana** (endowed with expression):
+    -   Notes:
+        -   artha > attha: meaning
+        -   astha > attha: go down, get destroyed
+            -   suriyo attham gacchati
+    
+    
+
+3.  Sabyañjana
+
+    
+    Endowed with expression:
+    
     -   because its verbal expression is complete
     -   because it is complete in letters, words, expressions, forms of exposition, etymology, and detailed explanation
     -   because the Dhamma is profound and its exposition (desanā) is profound
@@ -1825,53 +2223,70 @@ in the end, . He proclaims a holy life that is complete in meaning and expressio
     -   because it is to be accepted with faith and gives rise to confidence in ordinary people
     -   because its words are clear
     -   because through learning it gives rise to āgamaveyyattiya, proficiency based on wide learning and mastery of the textual teaching
--   **Kevalaparipuṇṇa** (entirely complete)
+    
+    
+
+4.  Kevalaparipuṇṇa
+
+    
+    Entirely complete:
+    
     -   because nothing needs to be added to it
     -   because it is endowed with the five Dhamma aggregates: virtue, concentration, wisdom, liberation, and the knowledge and vision of liberation
--   **Parisuddha** (pure):
+    
+    
+
+5.  Parisuddha
+
+    
+    Pure:
+    
     -   because nothing needs to be removed from it and because it is free from defects
     -   because it is free from corrupting impurities
     -   because it leads out from the suffering of the round of existence
     -   because it does not depend upon craving for worldly gain (lokāmisa)
--   Notes:
-    -   artha > attha: meaning
-    -   astha > attha: go down, get destroyed
-        -   suriyo attham gacchati
-    -   bahussutas
+    
+    
+
+6.  Brahmacariyaṁ
+
+    
+    
+    -   **Sāsana brahmacariya** (practice of the noble life)
+    -   **Magga brahmacariya** (the path of the noble life)
+    
+    
+
+7.  Extra notes
+
+    -   Bahussutas
         -   nissaya bahussuta
-        -   parisu bahussuta
-        -   bhikkhunova bahussuta
-        -   sabbatthakara bahussuta
-        -   adhigama bahussuta: ariyas
+        -   parisupaṭṭhāpaka bahussuta
+        -   bhikkhunovādaka bahussuta
+        -   sabbatthakāra bahussuta
+        -   adhigamabahussuta: ariyas
         -   dhammadhara: one who hold the dhamma, either in terms of study, or in terms of possessing maggaphalas
-    -   5 khandhas
-        -   kilesa (cause) (mainly avijjā; taṇhā is the most powerful) > lead to
+    -   5 Dhammakkhandhas
+        -   kilesa (cause) (mainly avijjā; but taṇhā is the most powerful) lead to
             -   kilesadukkha in present life
             -   khandhadukkha in future life
         -   to attain vimutti from dukkha, remove avijjā with vijjā
         -   for vijjā, you need samādhi
         -   for samādhi, you need sīla
-        -   note: pañña is the center
-            -   leads to vimutti, then vimuttiñāṇadassana
-    -   lokuttara maggas and 3 lower phalas are neither with anusaya (sānusaya), nor with it anusaya
-
-Pariyatti Dhamma is Svākkhāta because it has been well proclaimed without any distortion of meaning
-
--   durakkhāta teachings:
-    -   antarāyikadhammas, things declared by them to be obstructive, are not truly so
-    -   niyyānikadhammas, things declared by them to be leading outward from suffering, are not truly so
--   svakkhāta
-    -   antarāyikadhamma are truly so
-    -   niyyānikadhammas are truly so
+        -   notes:
+            -   pañña is the center
+                -   leads to vimutti, then vimuttiñāṇadassana
+    -   Maggas and 3 lower phalas are technically neither with nor without anusaya
 
 
-<a id="orgb202801"></a>
+<a id="org878c2d7"></a>
 
-### Lokuttaradhammas' Svākkhāta
+### TODO of Lokuttaradhamma
+
 
 **Lokuttaradhammas**: 4 magga, 4 phala, Nibbāna
 
-So called because:
+Svākkhāta because:
 
 -   Nibbāna has been taught in conformity with the practice leading to it, and the practice has been taught in conformity with Nibbāna
     -   Sakka: Supaññattā kho pana tena bhagavatā sāvakānaṃ nibbānagāminī paṭipadā saṃsandati nibbānañca paṭipadā ca. Seyyathāpi nāma gaṅgodakaṃ yamunodakena saṃsandati sameti, evameva supaññattā tena bhagavatā sāvakānaṃ nibbānagāminī paṭipadā saṃsandati nibbānañca paṭipadā ca.
@@ -1883,7 +2298,7 @@ Magga:
 
 -   because, being in reality the Middle Way that does not approach either self-mortification or indulgence in sensual pleasure, it has been taught precisely as the “Middle Way” (majjhimā paṭipadā)
 
-Phala, aka samaññaphala:
+Phala, aka sāmaññaphala:
 
 -   because, being states in which the defilements have in fact become tranquillized, they have been taught as states of the tranquillization of defilements (paṭippassaddhakilesa)
 
@@ -1892,12 +2307,60 @@ Nibbāna:
 -   because, being by nature permanent (sassata), deathless (amata), a refuge (tāṇa), and a shelter (leṇa), it has been taught precisely as “permanent,” “deathless,” “a refuge,” “a shelter,” and so forth
 
 
-<a id="org5573e42"></a>
+
+
+<a id="orgbf6c9be"></a>
+
+## Akālika
+
+
+<a id="org34bd963"></a>
+
+### DONE of Lokuttaradhamma
+
+
+Vsm: **Lokuttaramaggas**: Attano phaladānaṃ sandhāya nāssa kāloti akālo. Akāloyeva akāliko: that (lokuttaramagga) which has no period of time to be awaited in order to give its own fruit (lokuttaraphala)
+
+-   aka Samanantaraphaladhamma: dhamma whose fruit follows immediately
+    -   samādhi in ariyamagga: ānantarikasamādhi
+-   Notes:
+    -   kālika:
+        -   lokiyakusalakamma: kālika, that which has a delayed (dūre) period of time (lit: to whom the delayed period of time has arrived) in relation to the giving of its fruit
+            -   immediate fruits of lokiyadhammas
+                -   e.g., pabbajjā: free from the gihī suffering (kāmarāga, maintaining wife and children, etc)
+        -   Cdvm:
+            -   like sowing seeds that take time to produce fruit
+            -   like learning a craft / branch of knowledge
+            -   like performing some service (salary)
+
+Cdvm:
+
+-   **Sotāpattimagga's** immediate benefits
+    -   sotāpattiphala
+    -   becoming ariya
+    -   removing
+        -   diṭṭhi & vicikicchā
+        -   apāyagāmī dhammas
+        -   kammasatti of past akusalakammas of producing results in apāya
+        -   saṁsāric suffering beyond 7 lives
+    -   Notes: applies to other maggas accordingly
+-   **Lokuttaraphalas & Nibbāna**: akālikaphalas (fruits produced by akālika ariyamagga)
+    -   phalas: in the sense of being its direct result
+    -   Nibbāna: in the sense that it is a fruit directly realized by it
+    -   Notes:
+        -   not akālika in terms of producing immediate results
+        -   kālikaphala: result obtained only after some time (and uncertain)
+        -   akālikaphala: result obtained immediately (certain)
+
+
+
+
+<a id="org02135f8"></a>
 
 ## Ehipassiko
 
 
-<a id="orgd9ba38b"></a>
+<a id="orge473ef6"></a>
 
 ### Lokuttaradhamma & Pariyattidhamma's
 
@@ -1921,7 +2384,7 @@ Pariyattidhamma:
 -   for the multiple benefits of the Dhamma, it is suitable for even cakkavattirājas to renounce and practice it
 
 
-<a id="org1c0a0e4"></a>
+<a id="org7f46099"></a>
 
 ### Related Stories
 
@@ -1950,26 +2413,380 @@ Pariyattidhamma:
 -   Stream-entry frees one from the four lower realms.
 
 
-<a id="org0a69f64"></a>
+<a id="org35c631f"></a>
 
-## How the Meditation on the Qualities of the Dhamma Becomes Successful
-
-meditating so > removes hindrances > vitakkavicāra arise > pīti > kāya/mano distress subsides through passaddhi > kāya/manasika sukha > samādhi
+## DONE Opaneyyiko
 
 
-<a id="orgb53ae16"></a>
+<a id="org0072685"></a>
 
-### Why only upacāra
-
--   because the qualities of the Dhamma are profound
--   because the mind tends to recollect the qualities of the Dhamma in various ways
-
-Since this jhāna arises through recollecting the qualities of the Dhamma, it is called Dhammānussati.
+### of Lokuttaradhamma
 
 
-<a id="org7bea576"></a>
+**Upanetabboti upaneyyo, upaneyyova opaneyyiko**: that which is suitable to be "brought near" into one's mind by means of meditation, which is so utterly vital that one would focus on it even if one's clothes or head were on fire
 
-### Benefits
+-   Upanayana / Upanaya: “bringing near” or “bringing to”
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-left">Meaning of Upanayana</th>
+<th scope="col" class="org-left">Dabbattha</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Vsm</td>
+<td class="org-left">producing in one's santati</td>
+<td class="org-left">lokuttarasaṅkhatadhammas</td>
+</tr>
+
+<tr>
+<td class="org-left">Vsm-ṭ</td>
+<td class="org-left">taking as object</td>
+<td class="org-left">all lokuttaradhammas</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">reaching, touching (phusana) through realization</td>
+<td class="org-left">Nibbāna</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">leads to Nibbāna</td>
+<td class="org-left">lokuttaramaggas</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">to be brought to the state of being realized</td>
+<td class="org-left">lokuttaraphalas and Nibbāna</td>
+</tr>
+</tbody>
+</table>
+
+-   Notes:
+    -   opanayika = opaneyyika = upaneyya
+        -   Thai & Sinhalese: Opanayika
+        -   Chaṭṭha Saṅgāyanā: Opaneyyika
+
+1.  Sacrifice to attain the Dhamma
+
+    
+    
+    > **Appaṭivāni sudāhaṃ, bhikkhave, padahāmi: kāmaṃ taco ca nhāru ca aṭṭhi ca avasissatu, upasussatu sarīre maṃsalohitaṃ; yaṃ taṃ purisathāmena purisavīriyena purisaparakkamena pattabbaṃ, na taṃ apāpuṇitvā vīriyassa saṇṭhānaṃ bhavissatīti. Tassa mayhaṃ, bhikkhave, appamādādhigatā bodhi (maggañāṇas and sabbaññutaññāṇa), appamādādhigato anuttaro yogakkhemo (arahattaphala & Nibbāna).**  
+    >  
+    > **Tumhe cepi, bhikkhave, appaṭivānaṃ padaheyyātha: kāmaṃ taco ca&#x2026; Tumhepi, bhikkhave, na cirasseva yassatthāya kulaputtā sammādeva agārasmā anagāriyaṃ pabbajanti, tadanuttaraṃ brahmacariyapariyosānaṃ (arahattaphala) diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharissatha.**  
+    >  
+    > **Tasmātiha, bhikkhave, evaṃ sikkhitabbaṃ: “Appaṭivānaṃ padahissāma: kāmaṃ&#x2026; Evañhi vo,  
+    > bhikkhave, sikkhitabbaṃ.**
+    
+    
+    
+    1.  Related Stories
+    
+        1.  The Bhikkhu Who Broke His Thighs
+        
+            
+            
+            -   Sāvatthi; a wealthy man becomes bhikkhu, renouncing 40 koṭis, lives in a forest.
+            -   Sister-in-law sends robbers to kill him for inheritance.
+            -   Bhikkhu asks for one night to practice.
+            -   Robbers demand a guarantee.
+            -   Bhikkhu breaks his own thighs with a stone.
+            -   Robbers leave him for the night.
+            -   Despite pain, bhikkhu meditates intensely.
+            -   Attains Arahantship by dawn.
+            
+            
+        
+        2.  Three Bhikkhus Who Practiced at the Risk of Their Lives
+        
+            
+            
+            -   Three bhikkhus practice in a forest after Kassapa Buddha.
+            -   Initially visit city, then commit to staying in forest.
+            -   No special realization; decide to abandon attachment to life.
+            -   Build a ladder, climb a mountain, push ladder down.
+            -   Senior Thera attains Arahantship the same day.
+            -   Arahant offers food from Himalayas; others refuse, fearing impediment.
+            -   Second Thera attains Non-returning in a few days, also acts similarly.
+            -   Third Thera dies as an ordinary worldling on the seventh day.
+            -   Reborn in heavenly world; eventually becomes Sabhiya in our Buddha's time.
+            -   Sabhiya meets Buddha, ordains, and practices.
+            
+            
+
+
+<a id="org8ebfd34"></a>
+
+### of Pariyattidhamma
+
+
+So called because
+
+-   to cross beyond saṁsāradukkha, one should bring it into their own minds (learn it) even if enduring great hardships
+-   it is suitable to direct the mind toward it
+-   by relying upon it, all lokiya and lokuttara samāpattis may be obtained
+
+
+
+1.  Related Stories
+
+    
+    
+    -   King Dhammasoṇḍa's Sacrifice: He sacrificed both his kingdom and his life for the sake of hearing the Dhamma.
+    -   Gavaravāḷa-aṅgaṇa:
+        -   A bhikkhu who was listening to the Dhamma in darkness was bitten by a venomous snake
+        -   Without informing anyone, he caught the snake, placed it in a pouch and tied it up.
+        -   Without seeking any treatment, he continued listening to the Dhamma until daybreak.
+    -   Tissamahāvihāra:
+        -   a young bhikkhu heard the Mahājātakabhāṇaka Thera at Dīghavāpi was preaching the Vessantara Jātaka of 1.000 verses
+        -   in a single day he travelled nine yojanas on foot to listen to that Dhamma discourse
+    -   Ullabhakolakaṇṇikā village
+        -   A woman heard the Dīghabhāṇaka Mahā Abhaya Thera was preaching the Ariyavaṁsa
+        -   She travelled five yojanas on foot, arrived there during the daytime, and listened to the Dhamma from then until dawn the following day.
+    -   Kāḷumbara village
+        -   A woman went to Cittalapabbata to listen to the Dhamma
+        -   She put her child to sleep beneath a tree and remained standing while listening to the discourse
+        -   While she watched, a snake came and bit her child
+        -   She did not create any disturbance
+        -   She continued listening to the Dhamma until dawn, attained the Fruition of Stream-entry, and then, by an asseveration of truth (saccakiriyā), restored her child to health
+    
+    
+
+2.  The Root of the Sāsana
+
+    
+    3 aspects of the sāsana:
+    
+    -   **Pariyatti**
+    -   **Paṭipatti**
+    -   **Paṭivedha**
+    
+    Without pariyatti, paṭipatti cannot be fulfilled
+    Without paṭipatti, paṭivedha cannot be attained
+    
+    > **Pariyatti Sāsanassa Mūlaṃ**
+    
+    
+    
+    1.  Related Story
+    
+        
+        
+        -   Sri Lanka, a great calamity known as Caṇḍālatissa Mahābhaya arose
+        -   Sakka, to preserve the Dhamma, created a great raft and informed the bhikkhus of the danger
+        -   60 monks stayed to preserve it here
+            -   went to the Southern Malaya region
+            -   when strong, recited the Tipiṭaka
+            -   when weak, laid on sand and recollected it mentally
+            -   for 12 years
+        -   700 crossed and preserved it
+            -   returned to SL, went to Maṇḍalārāma Monastery in the Kallagāma region
+        -   the 60 joined them
+        -   both groups recited it and had not even a single word different
+        -   Question arose: What is the root of the sāsana: pariyatti or paṭipatti?
+            -   Paṃsukūlika Theras: paṭipatti
+            -   Dhamma preachers: pariyattti
+            -   other Theras: give your arguments based on the Dhamma
+            -   Paṃsukūlika Theras:
+                
+                > **Ime ca, Subhadda, bhikkhū sammā vihareyyuṃ, asuñño loko arahantehi.**  
+                > If these bhikkhus, Subhadda, were to live rightly, the world would not be empty of Arahants.
+            -   Dhamma preachers:
+                
+                > **Yāva tiṭṭhanti suttantā – vinayo yāva dippati,  
+                > Tāva dakkhinti ālokaṃ – sūriye abbhuggate yathā.**  
+                > **Suttantesu asantesu – pammuṭṭhe vinayamhi ca,  
+                > Tamo bhavissati lokassa – sūriye atthaṅgate yathā.**  
+                > **Suttante rakkhite sante – paṭipatti hoti rakkhitā;  
+                > Paṭipattiyaṃ ṭhito dhīro – yogakkhemā na dhaṃsati.**  
+                > As long as the discourses remain and the Vinaya shines forth, people will see the light, just as when the sun has arisen. When the discourses no longer remain and the Vinaya has been forgotten, darkness will descend upon the world, just as when the sun has set. When the discourses are preserved, practice is also preserved. The wise person established in practice does not fall away from security from bondage.
+            -   Paṃsukūlika Theras: remained silent, and the position of the Dhamma preachers prevailed
+        
+        
+
+
+<a id="org3239f5f"></a>
+
+### Notes
+
+-   Culapadumajataka
+-   bodhisatta
+    -   deva held him when he fell
+    -   because he never betrayed his friends
+        -   cuto patiṭṭhaṁ labhati, yo mittānaṁ na dubbhati
+        -   dhajaggasutta as well
+            -   one who fell and 2 bricks held him
+-   sanditthika: sanditthika st translated as experiencing results in this very life; but it is to see it with one's own wisdom; ajātasattu: what are the sanditthikasāmaññaphala?
+
+
+<a id="org43f26d6"></a>
+
+## TODO Paccattaṁ Veditabbo Viññūhi
+
+**Paccattaṃ Veditabbo Viññūhi**: that to be known personally by the wise (ugghaṭitaññū, etc.) who have penetrated the Truths
+
+-   "magga / phala / nirodha has been developed by me"
+-   only seen and experienced by the wise in their own mind
+
+-   paccattaṃ: pati attani (loc.)
+    -   pati attani: attani attani (in each person individually) (vicchā)
+-   veditabbo: lokuttaradhammas are to be known to be developed in oneself
+
+-   **nissaraṇapariyatti**: learning the Dhamma with liberation as one’s aim; understanding it is for one's liberation
+    -   through it, the wise distinctly experience atthaveda and dhammaveda
+        -   **Atthaveda**:
+            -   joy depending upon the meaning of the words of the Tipiṭaka, through understanding their explanations – for example, understanding the meanings of such terms as bhava and jāti
+            -   Alternatively, it is the joy that arises through understanding the results produced by their respective causes. Thus, it is joy based upon the relationship between cause and result.
+        -   **Dhammaveda**:
+            -   joy depending upon the Pāḷi words of the Tipiṭaka through knowing those words.
+            -   joy through understanding the causes of the respective Dhammas. Thus, it is joy based upon the cause itself.
+
+
+<a id="org4ccfe83"></a>
+
+### Sūvisi Mahā Guṇaya
+
+experienced by the wise, each having produced and directly realized them within himself, and enjoyed
+
+rūpārūpa jhānas as well
+
+-   not seen by abhabbapuggalas
+
+**viññūhi**: those possessing innate wisdom, or wisdom established from birth (jātiñāṇa). They are three-rooted persons who were reborn through one
+of the following great resultant consciousnesses:
+(1). Consciousness accompanied by joy, associated with knowledge, unprompted;
+(2). Consciousness accompanied by joy, associated with knowledge, prompted;
+(3). Consciousness accompanied by equanimity, associated with knowledge, unprompted;
+(4). Consciousness accompanied by equanimity, associated with knowledge, prompted.
+The innate wisdom of three-rooted persons is very sharp and highly developed. Therefore, they are
+capable of understanding subtle and profound matters.
+Even some three-rooted persons who have never studied any branch of knowledge and have not even
+learned to read can, if they have the opportunity to hear the Dhamma, understand and directly realize
+the Four Noble Truths, attain the supramundane Paths and Fruitions, and realize Nibbāna. During the
+lifetime of the Buddha, many people who had never even learned to read attained realization of the
+Dhamma merely by listening to His teachings.
+Two-rooted persons who do not possess such innate wisdom can also become learned through the study
+of arts and sciences. However, the learning they acquire through education is not sufficient wisdom for
+attaining jhānas and similar Dhammas.
+In the case of three-rooted persons, however, it should be said that the wisdom acquired through study
+can also assist to some degree in realizing the Dhamma. Nevertheless, learning “wrong teachings” may
+sometimes become an obstacle to the realization of the Dhamma even for a three-rooted person.
+Persons possessing the innate wisdom necessary to attain the Paths and Fruitions in the present existence
+are also divided into three kinds.
+(1). Ugghaṭitaññū Persons
+Those who, after hearing a Dhamma teaching stated briefly, are able through their own wisdom
+to understand it in detail, realize the Four Noble Truths, and attain the Paths and Fruitions are
+called ugghaṭitaññū persons.
+The two wanderers Kolita and Upatissa heard the verse:
+Ye dhammā hetuppabhavā – tesaṃ hetuṃ tathāgato āha,
+Tesañca yo nirodho – evaṃvādī mahāsamaṇo.
+From this brief teaching, they extended their understanding, realized the Four Noble Truths,
+and attained Stream-entry. Therefore, they were ugghaṭitaññū persons.
+(2). Vipañcitaññū Persons
+3
+In order to bring different persons to realization of the Dhamma, the Tathāgata teaches in detail
+about generosity (dāna kathā), virtue (sīla kathā), heaven (sagga kathā), the dangers of sensual
+pleasures, the inferiority of sensual pleasures, and the defilement of beings (kāmānaṃa ādīvaṃ
+okāraṃ saṃkilesaṃ), benefits of renunciation (nekkhamme ānisaṃsa) and finally teaches the
+Four Noble Truths in detail.
+Many attain the Paths and Fruitions after listening to such extended Dhamma discourses. They
+are called vipañcitaññū persons.
+(3). Neyya Persons
+Those who attain the Paths and Fruitions after striving for some time by repeatedly listening to
+the Dhamma, associating with good friends, discussing with good friends, repeatedly asking
+about what they do not understand, repeatedly reflecting, and practicing meditation are called
+neyya persons.
+Those who are unable to attain jhānas or the Paths and Fruitions in that existence, however
+much they strive, are called padaparama persons. Among padaparama persons there are threerooted persons as well as two-rooted and rootless persons.
+The Dhamma they hear, the Dhamma they learn, and the meditation they practice in that life become a
+powerful supporting condition for realizing the Dhamma in a future life.
+The Superior Happiness of Mundane and Supramundane Attainments
+The superior human dhammas known as jhāna attainment (jhāna samāpatti), fruition attainment (phala
+samāpatti), and attainment of cessation (nirodha samāpatti) are accompanied by extremely sublime
+happiness. Those who have not attained them do not know their superior flavour or sweetness.
+Ordinary people regard sensual pleasure as supreme because they do not know a happiness sweeter than
+sensual pleasure. Even the sensual pleasures of the deva worlds, which are praised as far superior to
+human sensual pleasure, are merely a treatment for the disease called craving for sensual pleasures.
+They are not genuine happiness.
+For a person afflicted by an itching disease spread throughout the body, scratching the body with the
+fingernails and heating it near a fire may feel pleasurable. But for a person without such a disease,
+scratching and heating the body would be unpleasant rather than pleasurable. Similarly, for one who
+has suppressed sensual craving and attained even the first jhāna, sensual pleasure is something harmful,
+a disease, an affliction, and something repulsive. Sensual pleasure is unpleasant to one who has attained
+jhāna because it is not genuine happiness.
+If the happiness of the first jhāna were compared to the food of a Universal Monarch, even the highest
+sensual pleasure would have to be compared to a heap of straw, the food of cattle. Just as a Universal
+Monarch would have no desire to eat straw, a person who has attained jhāna has no desire for sensual
+pleasure.
+Buddhist texts record that kings and extremely wealthy people who possessed magnificent sensual
+pleasures abandoned them, went forth, attained the happiness of the Dhamma, and exclaimed, “Ah,
+happiness! Ah, happiness!” (“aho sukhaṃ, aho sukhaṃ”).
+However great a person’s wealth may be, and however excellent his sensual pleasures may be, he cannot
+remain completely happy by continuously enjoying sensual pleasure for a long period. Even a person
+possessing abundant sensual pleasures spends most of the day either in equanimous feeling or
+experiencing bodily and mental suffering. The period during which he actually enjoys pleasure is small.
+A person who has attained jhāna, however, can enter jhāna and remain in undisturbed happiness
+throughout an entire day. He can enter jhāna and dwell continuously in happiness for two days, three
+days, four days, five days, six days, or even seven days. Those who have attained Fruition attainment
+can similarly dwell in the happiness of Fruition attainment. They can also dwell in the happiness
+associated with cessation attainment. This is the situation in the human world.
+4
+In Brahma worlds, Brahmās may live for hundreds of years continuously experiencing the happiness of
+jhāna.
+There is no other sweetness in the world comparable to the sublime sweetness found in the jhānas and
+the nine supramundane dhammas. Therefore, the wise abandon sensual pleasures, produce within their
+own mental continua the jhānas and similar dhammas, experience the flavour of the Dhamma, and bring
+suffering to an end.
+
+notes: cūḷadukkhakkhandhasutta
+
+
+<a id="org9092eda"></a>
+
+### of Pariyatti Dhamma
+
+For those who possess wisdom, there is also immense delight in the Pariyatti Dhamma. Those who lack
+sufficient wisdom to understand the Dhamma, as well as those established in wrong views, cannot
+experience the flavour of the Pariyatti Dhamma.
+If one studies the Dhamma until its flavour begins to emerge and repeatedly investigates its meanings,
+one will be able to experience the flavour of the Dhamma.
+Because this Dhamma is Svākkhāta, well proclaimed, it can be directly seen by each person for himself
+(Sandiṭṭhika). Because its results can be obtained without delay, it is Akālika. It is worthy of being
+shown to others with the invitation, “Come and see”; therefore, it is Ehipassika. It is suitable to be
+brought into one’s own mind; therefore, it is Opanayika. And it can be directly known by the wise
+within their own mental continua; therefore, it is “Paccattaṃ Veditabbo Viññūhi.”
+The Mutual Relationship Among the Qualities Beginning with Svākkhāta
+The relationship among the qualities of the Dhamma beginning with Svākkhātatā is explained in the
+Visuddhimagga as follows.
+Why is the Dhamma Svākkhāta? Because it is Sandiṭṭhika. Why is the Dhamma sandiṭṭhika? Because
+it is Akālika. Why is the Dhamma Akālika? Because it is Ehipassika. Whatever is Ehipassika is also
+Opaneyyika.
+Because It Is Sandiṭṭhika, It Is Svākkhāta: The Dhamma is to be personally known by oneself. Through
+praised right view, the defilements are overcome. It is worthy of being seen and directly realized.
+Therefore, the Dhamma is Svākkhāta, well proclaimed.
+The reason is that the badly proclaimed teachings of other religions (durakkhāta dhamma) do not
+possess such a quality of direct seeing and realization.
+The relationship among the remaining qualities should be understood in the same manner.
+
+
+<a id="org049b974"></a>
+
+## DONE Benefits
 
 -   **Evaṃ opaneyyikassa dhammassa desetāraṃ imināpaṅgena samannāgataṃ satthāraṃ neva atītaṃse samanupassāmi, na panetarahi aññatra tena bhagavatā”ti evaṃ dhammaguṇadassaneneva satthari sagāravo hoti sappatisso**: respect for the Teacher
 -   **Dhamme garucittīkāro saddhādivepullaṃ adhigacchati**: growth of faith; He develops reverence for the Dhamma and attains great development in faith and the other wholesome qualities
@@ -1986,6 +2803,12 @@ Since this jhāna arises through recollecting the qualities of the Dhamma, it is
 > **Tasmā have appamādaṃ – kayirātha sumedhaso,  
 > Evaṃ mahānubhāvāya – dhammānussatiyā sadāti.**  
 > Therefore, the wise should always practice diligently the recollection of the Dhamma, which is of such great power.
+
+	
+
+
+
+
 
 
 {% include toc.html %}
