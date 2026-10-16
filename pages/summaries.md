@@ -85,7 +85,7 @@ Here, you'll find my Dhamma notes and summaries (still being formatted). These a
 - [Reference](/summaries/pali/pali-reference)
 - [Vocabulary](/summaries/pali/pali-vocabulary)
 - [Elaborated study pages](/summaries/pali/pali-study-pages)
-- [**IIT - NmC - 4y 2s - Final Exam**](/summaries/pali/4y-2s-final-exam) [PDF](~/pali/p-4y-2s-final-exam.pdf)
+- [**IIT - NmC - 4y 2s - Final Exam**](/summaries/pali/4y-2s-final-exam)
 
 <hr style="width: 40%; margin: 1rem auto; border: 1px solid #8a3b12;">
 
