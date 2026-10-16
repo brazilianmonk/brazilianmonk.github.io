@@ -4,17 +4,17 @@ title: 4y 2s Final Exam
 permalink: /summaries/pali/4y-2s-final-exam
 ---
 
-# Samāsa
+## Samāsa
 
 
 <a id="org3d034b5"></a>
 
-## Tappurisasamāsa
+### Tappurisasamāsa
 
 
 <a id="org427e709"></a>
 
-### Definition
+#### Definition
 
 
 
@@ -94,7 +94,7 @@ permalink: /summaries/pali/4y-2s-final-exam
 
 <a id="org2494215"></a>
 
-### 6 types
+#### 6 types
 
 
 acc. to the vibhatti of the first term:
@@ -123,7 +123,7 @@ acc. to the vibhatti of the first term:
 
 <a id="orgc744bf2"></a>
 
-### Gender, Number, and Declension
+#### Gender, Number, and Declension
 
 
 Determined by the **2nd term**
@@ -143,7 +143,7 @@ Determined by the **2nd term**
 
 <a id="orga3b56a4"></a>
 
-### Viggaha
+#### Viggaha
 
 
 
@@ -162,7 +162,7 @@ Determined by the **2nd term**
 
 <a id="org39f9c1d"></a>
 
-### Kitanta Upapada Samāsa
+#### Kitanta Upapada Samāsa
 
 
 **kitanta tappurisa / kitanta samāsa / upapadasamāsa**: compound in which
@@ -201,7 +201,7 @@ Determined by the **2nd term**
 
 <a id="org987a24d"></a>
 
-### Forms That Do Not Form Compounds
+#### Forms That Do Not Form Compounds
 
 
 forms ending in the following as the 2nd member do NOT form compounds
@@ -234,7 +234,7 @@ forms ending in the following as the 2nd member do NOT form compounds
 
 <a id="orgbaf7c86"></a>
 
-### Dutiyatappurisasamāsa &#x2013; e.g.:
+#### Dutiyatappurisasamāsa &#x2013; e.g.:
 
 
 
@@ -254,7 +254,7 @@ forms ending in the following as the 2nd member do NOT form compounds
 
 <a id="org7a7e52b"></a>
 
-### Tatiyātappurisasamāsa &#x2013; e.g.:
+#### Tatiyātappurisasamāsa &#x2013; e.g.:
 
 
 
@@ -364,7 +364,7 @@ forms ending in the following as the 2nd member do NOT form compounds
 
 <a id="org40c2b67"></a>
 
-### Catutthītappurisa &#x2013; e.g.:
+#### Catutthītappurisa &#x2013; e.g.:
 
 
 
@@ -432,7 +432,7 @@ forms ending in the following as the 2nd member do NOT form compounds
 
 <a id="org7b72fbc"></a>
 
-### Pañcamītappurisasamāsa
+#### Pañcamītappurisasamāsa
 
 
 **pañcamī apagamana bhaya-virati-mocanatthādīhi** (rpsd): formed with second members that convey meanings expressed by the pañcamīvibhatti
@@ -478,7 +478,7 @@ forms ending in the following as the 2nd member do NOT form compounds
 
 <a id="orged4fab5"></a>
 
-### Chaṭṭhītappurisasamāsa
+#### Chaṭṭhītappurisasamāsa
 
 1.  e.g.:
 
@@ -589,7 +589,7 @@ forms ending in the following as the 2nd member do NOT form compounds
 
 <a id="org8a853f7"></a>
 
-### Sattamītappurisasamāsa
+#### Sattamītappurisasamāsa
 
 1.  e.g.
 
@@ -671,7 +671,7 @@ forms ending in the following as the 2nd member do NOT form compounds
 
 <a id="orge000bcf"></a>
 
-### Amādipara Tappurisa
+#### Amādipara Tappurisa
 
 -   1st member with aṁ-ādi vibhatti (tappurisa characteristic)
 -   inversion: 1st member becomes the 2nd member (particular characteristic)
@@ -776,7 +776,7 @@ forms ending in the following as the 2nd member do NOT form compounds
 
 <a id="orgf96b6da"></a>
 
-### Alutta Tappurisa Compounds
+#### Alutta Tappurisa Compounds
 
 -   Dutiyā Tappurisa 
     -   • Pabhaṁ karotīti pabhaṅkaro (“one who produces light”)
@@ -811,12 +811,12 @@ forms ending in the following as the 2nd member do NOT form compounds
 
 <a id="org293dc64"></a>
 
-## Dvandasamāsa
+### Dvandasamāsa
 
 
 <a id="orga7f72cc"></a>
 
-### Definition
+#### Definition
 
 **nāmanaṁ samuccayo dvando** (kcyn): compound formed by combining two or more nouns that are not in a qualifier-qualified (visesana-visesya) relationship is called a dvanda samāsa
 
@@ -834,7 +834,7 @@ aka: copulative compound
 
 <a id="org3aae8e2"></a>
 
-### Viggaha
+#### Viggaha
 
 -   put terms in the paṭhamāvibhatti
 -   add "ca" after each
@@ -860,7 +860,7 @@ aka: copulative compound
 
 <a id="org614cdf5"></a>
 
-### Number of Coumpounded Terms
+#### Number of Coumpounded Terms
 
 
 No limit
@@ -877,7 +877,7 @@ e.g.:
 
 <a id="orgc83aaf2"></a>
 
-### 2 Types
+#### 2 Types
 
 
 
@@ -948,7 +948,7 @@ e.g.:
 
 <a id="orgbbacbb2"></a>
 
-### Member Order
+#### Member Order
 
 
 
@@ -963,7 +963,7 @@ e.g.:
 
 <a id="org9b0db85"></a>
 
-### Categories that Generally Form Samāhāra Dvanda Samāsas
+#### Categories that Generally Form Samāhāra Dvanda Samāsas
 
 -   **Parts of living beings**
     -   cakkhu ca sotañca cakkhusotaṁ (eye and ear) 5
@@ -1026,7 +1026,7 @@ in a dvandva compound, the honoured word and the word with fewer vowels are plac
 
 <a id="orgb4caa59"></a>
 
-### Non-neuter Samāhāradvanda e.g.
+#### Non-neuter Samāhāradvanda e.g.
 
 -   Ādhipaccaṁ ca parivāro ca ādhipaccaparivāro (authority and retinue)
 -   Chando ca pārisuddhi ca chandapārisuddhi (consent and purity)
@@ -1035,7 +1035,7 @@ in a dvandva compound, the honoured word and the word with fewer vowels are plac
 
 <a id="orgabc4ef6"></a>
 
-### Dvanda &#x2013; Meaning
+#### Dvanda &#x2013; Meaning
 
 The word dvandva is formed by combining two occurrences of the word dvi (“two”). 
 A dvandva, in Sanskrit, is anything that occurs in pairs. Thus, a duel between two persons is 
@@ -1048,12 +1048,12 @@ more coordinate words, such as Sāriputta + Moggallāna, are called Dvandva comp
 
 <a id="org3ca1e11"></a>
 
-## Bahubbīhisamāsa
+### Bahubbīhisamāsa
 
 
 <a id="org3099fc9"></a>
 
-### Definition
+#### Definition
 
 **aññapadatthesu bahubbīhi** (kcyn): expresses the meaning of another word, which is different from the meaning of the two compounded words
 e.g., āgatā samaṇā imanti āgatasamaṇo (saṅghārāmo) (the monastery to which monks have come)
@@ -1069,7 +1069,7 @@ aka: Relative Compound or Attributive Compound
 
 <a id="orgb7231de"></a>
 
-### Bahubbīhi: Meaning
+#### Bahubbīhi: Meaning
 
 **bahavo vīhayo yassa so bahubbīhi**: he who has much rice is called bahubbīhi
 
@@ -1079,7 +1079,7 @@ aka: Relative Compound or Attributive Compound
 
 <a id="orgdb58695"></a>
 
-### 9 Types
+#### 9 Types
 
 -   **Dvipada-tulyādhikaraṇa**
 -   **Dvipada-bhinnādhikaraṇa**
@@ -1503,7 +1503,7 @@ aka: Relative Compound or Attributive Compound
 
 <a id="org08fdb4e"></a>
 
-## Various Substitutions Found in Compounds
+### Various Substitutions Found in Compounds
 
 Based on Nānādesa-rāsi (Niruttidīpanī)
 
@@ -1558,17 +1558,17 @@ Based on Nānādesa-rāsi (Niruttidīpanī)
 
 <a id="org939445a"></a>
 
-# Taddhita
+## Taddhita
 
 
 <a id="orgf5108ab"></a>
 
-## Introduction
+### Introduction
 
 
 <a id="org62b7ec7"></a>
 
-### Definition
+#### Definition
 
 
 
@@ -1589,7 +1589,7 @@ e.g., nominal base + taddhitapaccaya + vibhattipaccaya
 
 <a id="orga038e57"></a>
 
-### 5 Nāmas
+#### 5 Nāmas
 
 
 
@@ -1604,7 +1604,7 @@ e.g., nominal base + taddhitapaccaya + vibhattipaccaya
 
 <a id="org642362c"></a>
 
-### Taddhita &#x2013; Meaning
+#### Taddhita &#x2013; Meaning
 
 
 
@@ -1636,7 +1636,7 @@ primary denotation of the word taddhita: the taddhita suffixes such as ṇa
 
 <a id="org575d849"></a>
 
-### Paccaya &#x2013; Meaning
+#### Paccaya &#x2013; Meaning
 
 
 **Paṭicca etasmā attho etīti paccayo** (rpsd): called paccaya because, depending on them, a meaning arises
@@ -1648,7 +1648,7 @@ primary denotation of the word taddhita: the taddhita suffixes such as ṇa
 
 <a id="orge710069"></a>
 
-### Usage
+#### Usage
 
 
 Main: to express concisely a meaning otherwise expressed in two or three words 
@@ -1663,7 +1663,7 @@ Main: to express concisely a meaning otherwise expressed in two or three words
 
 <a id="org97f9f3f"></a>
 
-### Samāsa vs. Taddhita
+#### Samāsa vs. Taddhita
 
 
 
@@ -1682,7 +1682,7 @@ which a word and a suffix have been combined. Their difference should be underst
 
 <a id="orgee0775a"></a>
 
-### How Taddhita Words Are Formed
+#### How Taddhita Words Are Formed
 
 
 
@@ -1707,7 +1707,7 @@ which a word and a suffix have been combined. Their difference should be underst
 
 <a id="org294c158"></a>
 
-### Anubandha (Ṇ)
+#### Anubandha (Ṇ)
 
 
 
@@ -1726,7 +1726,7 @@ The indicatory ṇ is attached to a suffix to show that vuddhi is to take place 
 
 <a id="orgb46db22"></a>
 
-### Vuddhi
+#### Vuddhi
 
 
 Vuddhi: strengthening
@@ -1755,7 +1755,7 @@ vuddhi doesn't happen
 
 <a id="org40b52d2"></a>
 
-### 3 Vidhis of Vuddhi
+#### 3 Vidhis of Vuddhi
 
 
 
@@ -1776,7 +1776,7 @@ This vuddhi is obligatory in words such as Vāsiṭṭha, optional in instances 
 
 <a id="org330e5e6"></a>
 
-### Gender
+#### Gender
 
 
 
@@ -1792,7 +1792,7 @@ This vuddhi is obligatory in words such as Vāsiṭṭha, optional in instances 
 
 <a id="org9644cbd"></a>
 
-### 3/6 Types
+#### 3/6 Types
 
 
 
@@ -1825,12 +1825,12 @@ Taddhita is threefold: general-function taddhita, abstract taddhita, and indecli
 
 <a id="org672846c"></a>
 
-## Apacca Taddhita
+### Apacca Taddhita
 
 
 <a id="org8a0546a"></a>
 
-### Meaning
+#### Meaning
 
 
 **Apaccaṃ** (nt.; na √pat ṇya): son, child, descendent, offspring of
@@ -1845,7 +1845,7 @@ Taddhita is threefold: general-function taddhita, abstract taddhita, and indecli
 
 <a id="orgde9450f"></a>
 
-### Viggaha
+#### Viggaha
 
 
 
@@ -1864,7 +1864,7 @@ Taddhita is threefold: general-function taddhita, abstract taddhita, and indecli
 
 <a id="orge5c11c5"></a>
 
-### 9 Apacca Taddhita Paccayas
+#### 9 Apacca Taddhita Paccayas
 
 
 
@@ -1892,7 +1892,7 @@ Taddhita is threefold: general-function taddhita, abstract taddhita, and indecli
 
 <a id="orga181cd2"></a>
 
-### -ṇa
+#### -ṇa
 
 
 
@@ -1923,7 +1923,7 @@ Taddhita is threefold: general-function taddhita, abstract taddhita, and indecli
 
 <a id="org2acc528"></a>
 
-### Gender & Declension
+#### Gender & Declension
 
 
 
@@ -1963,7 +1963,7 @@ Taddhita is threefold: general-function taddhita, abstract taddhita, and indecli
 
 <a id="org77d702c"></a>
 
-### E.g. With & Without Vuddhi
+#### E.g. With & Without Vuddhi
 
 
 
@@ -1981,7 +1981,7 @@ Taddhita is threefold: general-function taddhita, abstract taddhita, and indecli
 
 <a id="org51e05e4"></a>
 
-### -ṇāyana & -ṇāna
+#### -ṇāyana & -ṇāna
 
 
 "Child of, descendent of": used with clan names
@@ -2001,7 +2001,7 @@ e.g.,
 
 <a id="orgf3ecf58"></a>
 
-### -ṇeyya
+#### -ṇeyya
 
 
 Used with feminine-denoting words such as Kattikā, Vinatā, and Rohiṇī 
@@ -2024,7 +2024,7 @@ e.g.
 
 <a id="org5305320"></a>
 
-### -ṇi
+#### -ṇi
 
 
 The suffix ṇi is added in the apacca sense to certain stems ending in a. 
@@ -2055,7 +2055,7 @@ Further Examples
 
 <a id="org7ad6455"></a>
 
-### -ṇya
+#### -ṇya
 
 The suffix ṇya is applied in the apacca sense to certain words such as Aditi. 
 Aditiyā putto Ādicco (the sun-god, the son of the goddess Aditi) 
@@ -2096,7 +2096,7 @@ Bhātu + ṇya => Bhātavya => Bhātabya.
 
 <a id="org247054e"></a>
 
-### -ṇava
+#### -ṇava
 
 The suffix ṇava is applied in the apacca sense to names ending in u, such as Upagu and Manu. 
 Upagussa apaccaṃ Opagavo (the child or descendant of Upagu) 
@@ -2114,7 +2114,7 @@ Manu + ṇa => Mānu + a => Mānu + s + a => Mānusa.
 
 <a id="orgd966c8c"></a>
 
-### -ṇera
+#### -ṇera
 
 The suffix ṇera is applied in the apacca sense to words such as vidhavā. 
 • Vidhavāya10 apaccaṃ Vedhavero (the son of a widow) 
@@ -2129,7 +2129,7 @@ pavattinī)12
 
 <a id="org3a23ec3"></a>
 
-## Anekattha Taddhita
+### Anekattha Taddhita
 
 
 **Anekattha**: having various meanings: group of taddhita suffixes that is not confined to a single sense, but is used in many different senses
@@ -2143,7 +2143,7 @@ pavattinī)12
 
 <a id="orgee0338e"></a>
 
-### 24 Main Anekataddhitapaccayas
+#### 24 Main Anekataddhitapaccayas
 
 
 
@@ -2170,7 +2170,7 @@ pavattinī)12
 
 <a id="org17552f8"></a>
 
-### Taddhitas Acc. to Sense Expressed
+#### Taddhitas Acc. to Sense Expressed
 
 
 To identify it: examine the word omitted from the viggaha 
@@ -2187,7 +2187,7 @@ e.g.,
 
 <a id="orgb3ca35f"></a>
 
-### -ṇika
+#### -ṇika
 
 1.  Yena Saṁsaṭṭhaṁ
 
@@ -2631,7 +2631,7 @@ e.g.,
 
 <a id="orge9464a6"></a>
 
-### -ṇa
+#### -ṇa
 
 1.  Tena Rattaṁ
 
@@ -2875,7 +2875,7 @@ e.g.,
 
 <a id="orge64b3eb"></a>
 
-### -ṇeyya
+#### -ṇeyya
 
 **jāta-vasati-hita-arahati**
 
@@ -2913,7 +2913,7 @@ e.g.,
 
 <a id="org7a3e414"></a>
 
-### -ima, -iya, & -ika
+#### -ima, -iya, & -ika
 
 **jāta-bhava-niyutta**
 
@@ -3014,7 +3014,7 @@ e.g.,
 
 <a id="orge0f17d4"></a>
 
-### -ya
+#### -ya
 
 1.  Tamhi sādhu
 
@@ -3071,7 +3071,7 @@ e.g.,
 
 <a id="org76dbccf"></a>
 
-### -ṇya
+#### -ṇya
 
 If -ya with vuddhi, it is ṇya
 
@@ -3104,7 +3104,7 @@ If -ya with vuddhi, it is ṇya
 
 <a id="orgab19809"></a>
 
-### -kaṇ & -ṇa
+#### -kaṇ & -ṇa
 
 1.  Tesānaṁ samūho
 
@@ -3129,7 +3129,7 @@ If -ya with vuddhi, it is ṇya
 
 <a id="org2f0921b"></a>
 
-### -tā
+#### -tā
 
 
 **Gāmajanabandhusahāyādīhi tā** (Kcyn): added to words such as gāma, jana, bandhu, and sahāya
@@ -3164,7 +3164,7 @@ If -ya with vuddhi, it is ṇya
 
 <a id="orgf57127c"></a>
 
-### -āyitatta
+#### -āyitatta
 
 1.  So viya dissatīti
 
@@ -3179,7 +3179,7 @@ If -ya with vuddhi, it is ṇya
 
 <a id="org70bbc5f"></a>
 
-### -la
+#### -la
 
 1.  Taṁ nissitaṁ / Tassa ṭhānaṁ
 
@@ -3201,7 +3201,7 @@ If -ya with vuddhi, it is ṇya
 
 <a id="orgb96c43e"></a>
 
-### -ālu
+#### -ālu
 
 1.  So assa pakatīti / So assa bahuloti
 
@@ -3224,7 +3224,7 @@ If -ya with vuddhi, it is ṇya
 
 <a id="org8a6fb4f"></a>
 
-### -ka
+#### -ka
 
 
 Used in the following senses: 
@@ -3280,7 +3280,7 @@ khuddake ca sakatthe ko, gāmakoccevamādīsu**
 
 <a id="org42c689c"></a>
 
-### -ttaka
+#### -ttaka
 
 1.  "Kiññatetaṁ" parimāṇaṁ assāti
 
@@ -3299,7 +3299,7 @@ khuddake ca sakatthe ko, gāmakoccevamādīsu**
 
 <a id="orgbc22b61"></a>
 
-### -vantu
+#### -vantu
 
 1.  "yatetaṁ" parimāṇaṁ assāti
 
@@ -3319,7 +3319,7 @@ khuddake ca sakatthe ko, gāmakoccevamādīsu**
 
 <a id="orgae2d384"></a>
 
-### -maya
+#### -maya
 
 1.  Tena pakato
 
@@ -3361,7 +3361,7 @@ khuddake ca sakatthe ko, gāmakoccevamādīsu**
 
 <a id="org57ea285"></a>
 
-### -tara, -tama, -isika, -iya, and -iṭṭha
+#### -tara, -tama, -isika, -iya, and -iṭṭha
 
 **Visese taratamisikiyiṭṭhā** (Kcyn)
 
@@ -3466,7 +3466,7 @@ Distinctive or Comparative sense: "more than", "the most"
 
 <a id="org8b3bc7c"></a>
 
-### Mem Aid
+#### Mem Aid
 
 1.  Mem Aid: -ṇika
 
@@ -3524,7 +3524,7 @@ Distinctive or Comparative sense: "more than", "the most"
 
 <a id="orgdca61ed"></a>
 
-# Translation Assignment
+## Translation Assignment
 
 -   translate into english
 -   write the viggaha and identify the type and sub-type of numbered compounds
@@ -3532,7 +3532,7 @@ Distinctive or Comparative sense: "more than", "the most"
 
 <a id="org8ccd347"></a>
 
-## 29 July
+### 29 July
 
 1.  **Dvemāni, bhikkhave, sukhāni. Katamāni dve? (1) Gihisukhañca (2) pabbajjāsukhañca. Etadaggaṁ, bhikkhave, imesaṁ dvinnaṁ sukhānaṁ yadidaṁ pabbajjāsukhaṁ. (Aṅguttara Nikāya, Duka Nipāta)**
     -   Monks, there are these two kinds of happiness. Which two? The happiness of a householder and the happiness of renunciation. The foremost, monks, among these two kinds of happiness is the happiness of renunciation.
@@ -3565,7 +3565,7 @@ Distinctive or Comparative sense: "more than", "the most"
 
 <a id="org09156f5"></a>
 
-## 30 July
+### 30 July
 
 1.  **Puna caparaṁ, bhikkhave, bhikkhu (7) bhāvanārāmo hoti (8) bhāvanārato. (9) Pahāṇārāmo hoti (10) pahāṇarato.**
     -   And what is more, monks, a monk is one who delights in meditation, one who enjoys meditation. He is one who delights in abandonment, one who enjoys abandonment.
@@ -3595,7 +3595,7 @@ Distinctive or Comparative sense: "more than", "the most"
 
 <a id="org877e387"></a>
 
-## 31 July
+### 31 July
 
 1.  **Katame dhammā dukkhāya vedanāya (13) sampayuttā? Dve (14) domanassasahagatacittuppādā, (15) dukkhasahagataṁ (16) kāyaviññāṇaṁ; etthuppannaṁ dukkhaṁ vedanaṁ ṭhapetvā—ime dhammā dukkhāya vedanāya sampayuttā. (Abhidhamma Piṭaka—Dhammasaṅgaṇīpakaraṇa)**
     -   What are the phenomena associated with painful feeling? Two "mind-arisings" associated with unpleasantness and a body-consciousness associated with pain/displeasure. Here, having put aside the arisen painful feeling, these are the phenomena associated with painful feeling.
@@ -3634,7 +3634,7 @@ Distinctive or Comparative sense: "more than", "the most"
 
 <a id="orgff23a61"></a>
 
-## 1 August
+### 1 August
 
 1.  **Katame dhammā (21) sahetukā? (22) Vicikicchāsahagataṁ uddhaccasahagataṁ mohaṁ ṭhapetvā avasesaṁ akusalaṁ, catūsu bhūmīsu kusalaṁ, kāmāvacarassa vipākato ahetuke cittuppāde ṭhapetvā catūsu bhūmīsu vipāko, kāmāvacarakiriyato ahetuke cittuppāde ṭhapetvā tīsu bhūmīsu kiriyābyākataṁ—ime dhammā sahetukā. (Abhidhamma Piṭaka—Dhammasaṅgaṇīpakaraṇa)**
     -   What phenomena are (associated) with roots?
@@ -3655,7 +3655,7 @@ Distinctive or Comparative sense: "more than", "the most"
 
 <a id="org42a63cb"></a>
 
-## 2 August
+### 2 August
 
 1.  **Bodhisatto pana dhammāsanato otaranto dhammakathiko viya … dve hatthe dve pāde ca pasāretvā … kāsikavatthe (24) nikkhittamaṇiratanaṁ viya jotanto (25) mātukucchito nikkhami. (Jātaka Aṭṭhakathā)**
     -   But The Buddha-to-be (Awakening-being), like a Dhamma-preacher coming down from the Dhamma-seat … stretched both hands and feet (two hands and two feet) … like gems and jewels laid down on a Kāsi-cloth (cloth from the country of Kāsi), exited (from) the mother's womb shining.
@@ -3684,7 +3684,7 @@ Distinctive or Comparative sense: "more than", "the most"
 
 <a id="orgc6473cc"></a>
 
-## 3 August
+### 3 August
 
 1.  **(28) Suranaramahito satthā (29) bhikkhusahassaparivuto (30) ākiṇṇamanussaṁ Rājagahanagaraṁ pāvisi.**
     -   The Teacher, honoured by devas and men, accompanied by a thousand monks, entered the City of Rājagaha crowded with people.
@@ -3714,7 +3714,7 @@ Distinctive or Comparative sense: "more than", "the most"
 
 <a id="orgdb0ffc9"></a>
 
-## 4 August
+### 4 August
 
 1.  **(34) Saparivāro rājā (35) anvaḍḍhamāsaṁ (36) antopurā nikkhamitvā (37) nānātarusaṇḍamaṇḍitaṁ (38) dijagaṇakūjitaṁ uyyānaṁ gacchati.**
     -   The king together with his retinue leaves (having left) from within the castle every half a month, (and) goes to the park decorated with various groves of trees (and) resounding with the singing of flocks of birds.
@@ -3762,7 +3762,7 @@ Distinctive or Comparative sense: "more than", "the most"
 
 <a id="orgc8e0b64"></a>
 
-## 5 August
+### 5 August
 
 1.  **Bahavo brāhmaṇā (40) bahinagarato antonagaraṁ pavisitvā (41) yāvadatthaṁ bhuñjitvā sakasakagehāni agamiṁsu.**
     -   Many brahmanas (, having) entered (within) the city (coming) from outside the city, ate as much as (they) needed, (and) each went to their own houses.
@@ -3794,7 +3794,7 @@ Distinctive or Comparative sense: "more than", "the most"
 
 <a id="org103c003"></a>
 
-## 6 August
+### 6 August
 
 1.  **(46) Sambuddhaparinibbānato (47) vassasataccayena Vesālīvāsino Vajjiputtakā bhikkhū sāsane abbudaṁ uppādesuṁ.**
     -   With the elapse of a hundred years from the Final Extinction of the Self-Awakened One, Vajjians monks, dwellers of Vesālī, gave rise to a disruption/cancer in the dispensation.
@@ -3830,7 +3830,7 @@ Distinctive or Comparative sense: "more than", "the most"
 
 <a id="orgd3b7572"></a>
 
-## 7 August
+### 7 August
 
 1.  **(49) Chaḷabhiññāppattā (50) pañcasatakhīṇāsavā (51) antovassaṁ Rājagahasamīpe vasantā Dhammavinayasaṅgītiṁ akaṁsu.**
     -   Five hundred Canker-freed Ones, accomplished in the six Higher Knowledges, dwelling in the neighborhood of Rājagaha during the rainy season, made the Council of the Doctrine and Discipline.
@@ -3875,7 +3875,7 @@ Distinctive or Comparative sense: "more than", "the most"
 
 <a id="orgd8186b6"></a>
 
-## 8 August
+### 8 August
 
 1.  **Udenassa rañño tayo pāsādā ahesuṁ: eko (56) tibhūmako, eko catubhūmako, itaro pañcabhūmako.**
     -   There were three palaces for King Udena: one with three floors, one with four floors, and another with five floors.
@@ -3906,7 +3906,7 @@ Distinctive or Comparative sense: "more than", "the most"
 
 <a id="org0ea3b32"></a>
 
-## 9 August
+### 9 August
 
 1.  **So rājā dvirattaṁ vā tirattaṁ vā ekasmiṁ pāsāde (60) nāṭakitthiparivuto sampattiṁ anubhavanto vasati, na pana dīgharattaṁ ekasmiṁ vasati.**
     -   That king dwelt two or three nights in one palace, surrounded by dancing girls, experiencing prosperity. Moreover, he did not dwell in one for a long time.
@@ -3937,7 +3937,7 @@ Distinctive or Comparative sense: "more than", "the most"
 
 <a id="orga7cde94"></a>
 
-## 10 August
+### 10 August
 
 1.  **Rājā yojanantare jaṇṇumattena odhinā (64) pañcavaṇṇāni pupphāni okirāpetvā (65) dhajapaṭākakadalīādīni ussāpetvā … pūjaṁ karonto … Gaṅgātīraṁ pāpetvā … Vesālikānaṁ sāsanaṁ pahiṇi. (Dhammapada Aṭṭhakathā)**
     -   The king, having strewn flowers of five colors up to the knees in the distance of a yojana, having hoisted flags, banners, buntings, etc. … doing honour … having caused to reach / let go of the shore of the Ganges … sent the dispensation to the dwellers of Vesālī.
@@ -3967,7 +3967,7 @@ Distinctive or Comparative sense: "more than", "the most"
 
 <a id="org7305029"></a>
 
-## 11 August
+### 11 August
 
 1.  **Te suvaṇṇarajatamaṇimayā nāvāyo māpetvā suvaṇṇarajatamaṇimaye pallaṅke paññāpetvā (67) pañcavaṇṇapadumasañchannaṁ udakaṁ karitvā … attano attano nāvābhirūhanatthāya satthāraṁ yāciṁsu. (Dhammapada Aṭṭhakathā)**
     -   They, having made boats made of gold, silver, and gems, prepared sofas made of gold, silver, and gems, having made the water (to be) covered with lotuses of five colors … each one requested the Teacher to embark (for the sake of embarking) on the boats.
@@ -3992,7 +3992,7 @@ Distinctive or Comparative sense: "more than", "the most"
 
 <a id="org4d9a31f"></a>
 
-## 12 August
+### 12 August
 
 1.  **So “Sādhu, devā”ti assabhaṇḍakaṁ gahetvā assasālaṁ gantvā (70) gandhatelappadīpesu jalantesu sumanapaṭṭavitānassa heṭṭhā ramaṇīye bhūmibhāge ṭhitaṁ Kanthakaṁ assarājānaṁ … kappesi. (Dhammapada Aṭṭhakathā)**
     -   He (said) thus, "Excellent, king,", having taken the horse-trappings, having gone to the horse stable, and while the scented oil lamps were shining, he harnessed the king of horses, Kanthaka, who was standing on a charming piece of land under a Sumana-silk canopy.
@@ -4020,7 +4020,7 @@ Distinctive or Comparative sense: "more than", "the most"
 
 <a id="orge2aa353"></a>
 
-## 13 August
+### 13 August
 
 1.  **Yāvatā Bhagavā loke, tiṭṭheyya tava sāsanaṁ;
     Tāvatā paṭigaṇhātu, pūjā (72) lokānukampayā.**
@@ -4053,7 +4053,7 @@ Distinctive or Comparative sense: "more than", "the most"
 
 <a id="orgd79614e"></a>
 
-## 14 August
+### 14 August
 
 1.  **(76) Tilokamahitaṁ Sambuddhaṁ, dīpena pūjayāmahaṁ;
     Tena dhammena saṁsāre, cakkhu sujjhatu sabbadā.**
@@ -4087,7 +4087,7 @@ Distinctive or Comparative sense: "more than", "the most"
 
 <a id="org18f81c5"></a>
 
-## 15 August
+### 15 August
 
 1.  **Iminā (79) puññakammena, paññavā sīlavā sadā;
     Bhavitvāhaṁ labhe sīghaṁ, dhammacakkhuṁ anuttaraṁ.**
@@ -4104,7 +4104,7 @@ Distinctive or Comparative sense: "more than", "the most"
 
 <a id="org1538b5f"></a>
 
-## 16 August
+### 16 August
 
 1.  **Nivedayāmi Sambuddhaṁ, vītarāgaṁ mahāmuniṁ;
     Nimantayāmi Sugataṁ, lokajeṭṭhaṁ (80) narāsabhaṁ.**
@@ -4131,7 +4131,7 @@ Distinctive or Comparative sense: "more than", "the most"
 
 <a id="org1296269"></a>
 
-## 17 August
+### 17 August
 
 -   **Yassa mūle nisinnova, (82) sabbārivijayaṁ akā; Patto sabbaññutaṁ Satthā, vande taṁ (83) bodhipādapaṁ.**
     -   Sitting at the root of which, the Teacher indeed made victory over all enemies,
@@ -4188,7 +4188,7 @@ Distinctive or Comparative sense: "more than", "the most"
 
 <a id="orgb37dca3"></a>
 
-## 18 August
+### 18 August
 
 1.  **Cattāro pañca ālope, abhutvā udakaṁ pive;
     Alaṁ phāsuvihārāya, (87) pahitattassa bhikkhuno.**
