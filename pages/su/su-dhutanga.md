@@ -1,0 +1,3743 @@
+---
+layout: page
+title: Dhutaṅgas (Austere Practices)
+permalink: /summaries/suttanta/dhutanga
+---
+
+## Introduction
+
+
+<a id="orga94ae63"></a>
+
+### 3 Definitions
+
+
+
+-   √dhū (shake, smoke) + ta
+    -   nt. ascetic practice; lit. shaken off; removed
+    -   pp. shaken off; removed
+    -   adj. ascetic
+-   3 definitions
+    -   **dhuta (bhikkhu) aṅga (cetanā)**: tena tena samādānena dhutakilesattā dhutassa bhikkhuno aṅgāni dhutaṅgāni\*
+        -   dhuta: the dhuta bhikkhu, who has eliminated impurities (temporarily)
+        -   aṅga: cetanā that causes a bhikkhu to be known as dhuta
+        -   dhutaṅga: cetanā of a dhuta monk because of having shaken off defilements by undertaking and fulfilling austere practices (vatta)
+    -   **dhuta (ñāṇa) aṅga (cetanā)**: kilesadhunanato vā dhutanti laddhavohāraṃ ñāṇaṃ aṅgaṃ etesanti dhutaṅgāni
+        -   dhuta: knowledge, since it shakes off defilements
+        -   aṅga: cetanā that has this knowledge (dhuta) as a factor and that undertakes and fulfils austerities
+            -   note: this shows the samādāna is preceded by wisdom
+                -   ñāṇaṃ aṅgaṃ etesa"nti iminā ñāṇapubbakataṃ tesaṃ samādānassa vibhāveti
+    -   **dhuta (ñāṇā-preceded cetanā) aṅga (causal cetanā)**: dhutāni ca tāni paṭipakkhaniddhunanato aṅgāni ca paṭipattiyātipi dhutaṅgāni
+        -   dhuta: cetanā that is preceded by knowledge and that
+            -   observes and fulfils austere practices
+            -   shakes off (dhuta) opposing states
+        -   aṅga: cetanā that is a cause (aṅga) of correct practices
+        -   note: here, both dhuta and aṅga refer to the cetanā
+-   mem aid:
+    -   dhuta: bhikkhu / ñāṇa / cetanā
+    -   aṅga: cetanā
+
+
+
+
+<a id="orgf7b32f4"></a>
+
+### Purpose
+
+
+
+-   **further purify and complete sīla** by developing apicchatā, etc. that keep away opposing states
+-   generate and fulfil the **dhutadhammmas / vatas**
+-   establish the first 3 **ariyavaṁsa** and making one worthy of attaining the 4th ariyavaṁsa &#x2013; bhāvanārāmatā
+
+    
+
+
+<a id="org32a2656"></a>
+
+#### 4 ariyavaṁsa
+
+
+
+-   **itarītara cīvara santosa**: being content with whatever robe
+-   **itarītara piṇdapāta santosa**: same for food
+-   **itarītara senāsana santosa**: same for dwelling
+-   **bhāvanārāmatā**: delighting in meditation
+
+  
+
+
+<a id="orgf4dc0bb"></a>
+
+#### extra notes
+
+-   **suparisuddha sīla**: very purified sīla by means of developing these qualities
+-   senāsanadhutaṅga: brings kāyaviveka
+-   anulomapaṭipadā: sequential practice (*:q: clarify*)
+
+
+<a id="org782fefa"></a>
+
+### 5 Dhutadhamma / Vata
+
+
+
+-   (alobha)
+    -   **appicchatā**
+    -   **santuṭṭhitā**
+-   (alobha and amoha)
+    -   **sallekhatā**
+    -   **pavivekatā**
+-   (amoha)
+    -   **idamatthitā** (having this as the purpose / the presence of this): minimalism; knowledge "
+        -   imehi kusaladhammehi atthi idamaṭṭhi: 'minimalism' because one exists in these wholesome states
+        -   yena ñāṇena "pabbajitena nāma paṃsukūlikaṅgādīsu patiṭṭhitena bhavitabban"ti yathānusiṭṭhaṃ dhutaguṇe samādiyati ceva pariharati ca, taṃ ñāṇaṃ idamaṭṭhitā: the knowledge by which one undertakes and maintains the ascetic practices as instructed, thinking, 'a renunciant who is established in practices such as the rag-robe practice must behave thus,' is 'minimalism' (idamaṭṭhitā)
+        -   idamaṭṭhitā ñāṇamevāti: Minimalism is simply knowledge
+-   notes:
+    -   they follow the dhutaṅgacetanā, thus it is said that the cetanā depends on them
+    -   alobha:
+        -   shakes off lobha for the paṭikkhepavatthu
+        -   shakes off kāmasukhānuyoga when using allowed things
+    -   amoha:
+        -   shakes off moha that hides their ādīnava
+        -   shakes off attakilamathānuyoga when being overly austere
+
+
+
+
+<a id="org889dd4a"></a>
+
+### 9 Qualities &#x2013; Appicchatādi
+
+
+
+-   (4 first dhutadhammas)
+    -   **appicchatā**: the state of having few desires for requisites
+    -   **santuṭṭhitā**: the state of
+        -   being content with the requisites without wishing for something else
+            -   requisites that
+                -   one has
+                -   are available at present
+                -   are obtained through righteous means
+        -   abandoning unsuitable or uneven (visama) greed for them
+    -   **sallekha**: proper eradication and lessening of impurities
+    -   **paviveka**: vivekaṭṭhakāyatā (bodily seclusion), living in solitude without associating groups of people, the means to attain mental seclusion through the 8 samāpatti
+-   **apacaya**: abandoning, not accumulating, dispersing, discarding impurities
+-   **vīriyārambha**: exertion of sammappadhāna
+-   as in karaṇīyamettasutta
+    -   **subharatā**: state of being easily provided for by others due to few wishes
+    -   **appakiccatā**: state of having few duties
+    -   **sallahukavutti**: light simple way of living
+
+  
+
+
+<a id="org2f6271f"></a>
+
+#### dhutaṅga appicchatā and example story
+
+
+
+-   **dhutaṅga appicchatā**: modesty with regard to austerities; practicing privately without making it public
+    -   **dhutaṅga appiccho**: the person with such characteristic
+-   story:
+    -   Cetiyapabbata monastery (Mihintala)
+    -   two sibling theras
+    -   the elder observed nesajjikaṅga privately
+    -   the younger brother, when the flash of a lightning illuminated the elder, happened to see him sitting
+    -   the younger asked the elder about it
+    -   the elder, wishing to keep his practice private, laid down in bed in front of the younger one
+    -   later he again undertook the practice
+
+
+
+
+<a id="org38874d7"></a>
+
+### 13 Dhutaṅgas
+
+
+
+-   2 related to **cīvara**
+    -   1. **paṃsukūlikaṅgaṃ** (wearing rag-robes)
+    -   2. **tecīvarikaṅgaṃ** (wearing only 3 robes)
+-   5 related to **piṇḍapāta**
+    -   3. **piṇḍapātikaṅgaṃ** (only consuming piṇḍapāta food)
+    -   4. **sapadānacārikaṅgaṃ** (not skipping houses during piṇḍapāta)
+    -   5. **ekāsanikaṅgaṃ** (eating in one session)
+    -   6. **pattapiṇḍikaṅgaṃ** (eating only from one bowl)
+    -   7. **khalupacchābhattikaṅgaṃ** (refusing further food)
+-   5 related to **senāsana**
+    -   8. **āraññikaṅgaṃ** (dwelling in the forest)
+    -   9. **rukkhamūlikaṅgaṃ** (dwelling at the root of a tree)
+    -   10. **abbhokāsikaṅgaṃ** (dwelling in the open air)
+    -   11. **sosānikaṅgaṃ** (dwelling in a cemetery)
+    -   12. **yathāsanthatikaṅgaṃ** (accepting any dwelling)
+-   1 related to **iriyāpatha / vīriya**
+    -   13. **nesajjikaṅgaṁ** (sitter's practice)
+-   mem aid: first 3 requisites and iriyāpatha; 2, 5, 5 and 1; in the order it happens
+
+  
+
+
+<a id="org67b6ecd"></a>
+
+#### Acc. to each puggala
+
+
+
+-   13 for **bhikkhus**
+-   8 for **bhikkhunīs**: except the following because of difficulties
+    -   khalupacchābhattikaṅga
+    -   āraññikaṅga
+    -   rukkhamūlikaṅga
+    -   abbhokāsikaṅga
+    -   sosānikaṅga
+-   12 (/11) for **sāmaṇeras**: except tecīvarikaṅga
+    -   some also exclude khalupacchābhattikaṅga for not having pavāraṇasikkhāpada
+-   7 for **sāmaṇerī and sikkhamāna**: bhikkhunīs' 8 minus tecīvarikaṅga
+-   2 for **lay people**: ekāsanikaṅga and pattapiṇḍikaṅga
+-   total: 42
+
+  
+
+
+<a id="org9172dc8"></a>
+
+### 11 Vinicchayas
+
+
+
+-   **attha**: meaning
+-   **lakkhaṇādi**: characteristic, etc
+-   **samādāna**: observance
+-   **vidhāna**: performance
+-   **pabheda**: classification &#x2013; 3 levels (ukkaṭṭhaka, majjhimaka, muduka)
+-   **bheda**: breaking
+-   **ānisaṁsa**: benefits
+-   **kusalattika**: classification acc. to kusala, akusala, kiriya
+    -   note: if akusala motivation, not dhutaṅga
+-   **dhutavibhāga**: classification acc. to
+    -   dhuta
+    -   dhutadhamma
+    -   dhutavāda
+    -   dhutaṅga
+    -   kassa dhutaṅga sevanā sappāyā (suitability)
+-   **samāsa**: in summary, in groups
+-   **byāsa**: in detail
+-   summary verse:
+    **atthato lakkhaṇādīhi, samādānavidhānato**
+    **pabhedato bhedato ca, tassa tassānisaṃsato**
+    **kusalattikato ceva, dhutādīnaṃ vibhāgato**
+    **samāsabyāsato cāpi, viññātabbo vinicchayo**
+
+  
+
+
+<a id="org207c441"></a>
+
+### Lakkhaṇādi
+
+
+
+-   **Lakkhaṇa**: samādānacetanā (and pariharaṇacetanā) &#x2013; volition to observe (and fulfil) the austerity
+-   **Rasa**: loluppaviddhaṁsana &#x2013; diminishing and destroying loluppa (strong greed) which is the existence of desire (taṇhācāra)
+-   **Paccupaṭṭhāna**: nilloluppabhāva &#x2013; non-existence of greed
+-   **Padaṭṭhāna**: appicchatādiariyadhamma &#x2013; noble qualities like fewness of wishes
+-   Notes:
+    -   ancient comm.:
+        -   yo samādiyati, so puggalo (one who observes it is the person, dhutaṅgadhārī)
+        -   yena samādiyati, cittacetasikā ete dhammā (that through which he observes it is the nāmadhammas; karaṇa)
+        -   yā samādānacetanā, taṃ dhutaṅgaṃ (the volition of observing it is the dhutaṅga since the practice is based on it)
+        -   yaṃ paṭikkhipati, taṃ vatthu (what is rejected is the vatthu)
+    -   2 cetanās involved
+        -   samādānacetanā
+        -   pariharaṇacetanā
+    -   taṇhācāra: the existence of desire (*:q: clarify*)
+    -   (*:q: clarify ariyadhammas*)
+
+    
+
+
+<a id="org65b3906"></a>
+
+### Samādāna
+
+
+<a id="org075c573"></a>
+
+#### Definition and Sentences
+
+**Sammā ādānaṁ gahaṇaṁ samādānaṁ**: right acceptance, undertaking (of a practice) by means of prior determination such as "I'll abstain from killing"
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Vatthu + Paṭikkhipāmi</th>
+<th scope="col" class="org-left">Dhutaṅga + Samādiyāmi</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">gahapati(dāna)cīvaraṁ</td>
+<td class="org-left">paṁsukūlikaṅgaṁ</td>
+</tr>
+
+<tr>
+<td class="org-left">catutthakacīvaraṁ</td>
+<td class="org-left">tecīvarikaṅgaṁ</td>
+</tr>
+
+<tr>
+<td class="org-left">atirekalābhaṁ</td>
+<td class="org-left">piṇḍapātikaṅgaṁ</td>
+</tr>
+
+<tr>
+<td class="org-left">loluppacāraṁ</td>
+<td class="org-left">sapadānacārikaṅgaṁ</td>
+</tr>
+
+<tr>
+<td class="org-left">nānāsanabhojanaṃ</td>
+<td class="org-left">ekāsanikaṅgaṃ</td>
+</tr>
+
+<tr>
+<td class="org-left">dutiyakabhājanaṃ</td>
+<td class="org-left">pattapiṇḍikaṅgaṃ</td>
+</tr>
+
+<tr>
+<td class="org-left">atirittabhojanaṃ</td>
+<td class="org-left">khalupacchābhattikaṅgaṃ</td>
+</tr>
+
+<tr>
+<td class="org-left">gāmantasenāsanaṃ</td>
+<td class="org-left">āraññikaṅgaṃ</td>
+</tr>
+
+<tr>
+<td class="org-left">channaṃ</td>
+<td class="org-left">rukkhamūlikaṅgaṃ</td>
+</tr>
+
+<tr>
+<td class="org-left">channañca rukkhamūlañca</td>
+<td class="org-left">abbhokāsikaṅgaṃ</td>
+</tr>
+
+<tr>
+<td class="org-left">na susānaṃ</td>
+<td class="org-left">sosānikaṅgaṃ</td>
+</tr>
+
+<tr>
+<td class="org-left">senāsanaloluppaṃ</td>
+<td class="org-left">yathāsanthatikaṅgaṃ</td>
+</tr>
+
+<tr>
+<td class="org-left">seyyaṃ</td>
+<td class="org-left">nesajjikaṅgaṃ</td>
+</tr>
+</tbody>
+</table>
+
+-   Note: one of the two sentences is enough for samādāna to take place
+
+
+<a id="org18cc36f"></a>
+
+#### At whose presence?
+
+
+In the presence of (in order of priority):
+
+-   **Buddha**
+-   One of 80 **mahāsāvakās**
+-   Ariyas
+    -   **khīṇāsava**
+    -   **anāgāmī**
+    -   **sakadāgāmī**
+    -   **sotāpanna**
+-   Bahussuta
+    -   **tipiṭaka**
+    -   **dvipiṭaka**
+    -   **ekapiṭaka**
+    -   **ekasaṅgītika**: one who bears at least one nikāya of the suttanta
+        -   (*:q: why is nikāya called saṅgīti?*)
+    -   **aṭṭhakathācariya**: one who has mastered the commentaries
+-   **Dhutaṅgadhara**: (*:q: add definition*)
+-   **Shrine**: sweep the cetiyaṅgaṇa (shrine courtyard), squat, and undertake it verbally as if in the presence of the Sammāsambuddha
+-   By **oneself**
+-   Notes:
+    -   general principle: someone more virtuous to avoid it being broken like one who makes a pledge to a king
+    -   resembles the list of priority of whom to take kammaṭṭhāna from
+        -   kammaṭṭhāna list:
+            -   jhānalābhī is put before a tipiṭaka
+
+    
+
+
+<a id="org06059cd"></a>
+
+### Compulsory or Optional?
+
+
+
+-   Dhutaṅgas are not compulsory, but recommended
+-   One should try them and:
+    -   if by practicing a certain dhutaṅga meditation improves: practice it
+    -   if meditation goes down: don't practice it
+    -   if meditation remains the same: practice it out of compassion for future generations
+
+    
+
+
+<a id="org79075be"></a>
+
+### Etadagga &#x2013; Pāḷi
+
+
+**Etadaggaṁ bhikkhave mama sāvakānaṁ bhikkhūnaṁ dhutavādānaṁ yadidaṁ mahākassapo.**
+
+
+
+<a id="org4042a14"></a>
+
+### 4 Individuals &#x2013; dhuta vs. dhutavāda
+
+
+
+-   **Atthi dhuto na dhutavādo ca**: one practices but does not advocate austerities
+-   **Na dhuto dhutavādo ca**: one does not pracice but advocates austerities
+-   **Neva dhuto na dhutavādo**: one does neither
+-   **Dhuto ceva dhutavādo**: one does both
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left"><b>Dhuto</b></th>
+<th scope="col" class="org-left"><b>Dhutavādo</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">yes</td>
+<td class="org-left">no</td>
+</tr>
+
+<tr>
+<td class="org-left">no</td>
+<td class="org-left">yes</td>
+</tr>
+
+<tr>
+<td class="org-left">no</td>
+<td class="org-left">no</td>
+</tr>
+
+<tr>
+<td class="org-left">yes</td>
+<td class="org-left">yes</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+<a id="org98d935a"></a>
+
+### Extra Notes
+
+-   to remove defilements toward unallowable objects, **sikkhāpadas** were laid down
+-   to remove defilements toward allowable objects, **dhutaṅgas** were encouraged
+-   related suttas:
+    -   ariyavaṁsasutta AN 4.28
+    -   sukhasomanassasutta AN 6.78
+-   (*:q: minimum 3 dhutaṅgas to be considered a dhutaṅga monk; confirm*)
+-   (*:q: check if mahākassapa's rejection of food coming from a house he already passed is true or not*)
+
+
+<a id="org8d0b125"></a>
+
+## 1 &#x2013; Paṁsukūlikaṅga
+
+
+<a id="orgc3d9f00"></a>
+
+### Attha (vacanattha)
+
+
+
+-   **paṁsukūla** &#x2013; 3 meanings
+    1.  the top (kūṭa) of a refuse heap (paṁsu)
+        -   paṁsu: dust, dirt, soil, ground, refuse
+        -   kūla (from kūṭa): top
+    2.  the cloth found on refuse heaps &#x2013; 2 reasons for its name
+        1.  for being on top of refuse heaps (paṁsu + kūṭa > kūla)
+            -   **rathikasusānasaṅkārakūṭādīnaṃ yattha katthaci paṁsūnaṁ upari ṭhitattā abbhuggataṭṭhena tesu tesu paṁsukūlamiva**: cloth called so for ending up and being on top of a refuse heap on roads, cemeteries, rubbish heaps, etc
+        2.  for going to a despised state like dirt (paṁsu + ku + √ula)
+            -   **paṁsu viya kucchitabhāvaṁ ulati gacchati**
+    3.  the practice of wearing such robes
+        -   **paṁsukūlassa dhāraṇaṁ paṁsukūlaṁ**
+-   **paṁsukūlika**: one who has this sīla
+    -   paṃsukūlassa dhāraṇaṃ paṃsukūlaṃ, **taṃ sīlamassāti paṃsukūliko**
+-   **paṁsukūlikaṅga**: reason (cetanā) for one being identified as paṁsukūlika
+    -   cetanā of undertaking and bearing the practice of paṁsukūla
+    -   aṅga: factor, component, cause
+
+
+
+
+<a id="orgd5e001d"></a>
+
+### Samādāna
+
+-   see
+
+
+
+-   **gahapatidānacīvara**: robes directly offered by laity
+    -   vsm-ṭ: if left for renunciates to take, thinking "pabbajito gaṇhissati": gahapaticīvara, not gahapatidānacīvara for not being directly given
+    -   if left at the feet thinking: "I give this to him": gahapatidānacīvara
+-   **paṭikkhipāmi**: rejecting gahapatidānacīvara includes the intention of only wearing paṁsukūla robes
+
+
+
+
+<a id="orgfb1b990"></a>
+
+### Vidhāna
+
+
+
+-   find paṁsukūla cloth
+-   take the usable parts out, wash them, and sew them according to vinaya
+-   there is no limit of layers for paṁsukūla robes
+-   relinquish gahapatidānacīvaras
+-   observe the practice
+
+  
+
+
+<a id="org029f729"></a>
+
+#### 23 types of paṁsukūla cīvara
+
+
+
+-   (related to death)
+    -   **sosānikaṃ**: discarded at a cemetery
+    -   **gatapaccāgataṃ**: discarded after being worn in a funeral
+-   **saṅkhāracoḷaṃ**: discarded on a garbage dump
+-   **pāpaṇikaṃ**: discarded at shops or fairs
+-   (roads)
+    -   **rathiyacoḷaṃ**: discarded on roads from windows by those who wish to earn merit
+    -   **panthikaṃ**: fallen off on the road
+        -   if not intentionally discarded:
+            -   wait a while and if the owner does not come, take it
+            -   some: wait several days
+            -   others: 2-3 days
+-   (cleaning)
+    -   **sotthiyaṃ**: discarded after cleaning childbirth impurities (gabbha mala) like Minister Tissa's mother
+    -   **nhānacoḷaṃ**: discarded by patients being bathed by an exorcist; considered unlucky
+    -   **titthacoḷaṃ**: discarded at a bathing place
+-   (eaten)
+    -   **gokhāyitaṃ**: discarded after being partially eaten by cattle
+    -   **upacikākhāyitaṃ**: discarded after being partially eaten by termites
+    -   **undūrakhāyitaṃ**: discarded after being partially eaten by mice
+-   (torn)
+    -   **antacchinnaṃ**: discarded for having its edges torn
+    -   **dasācchinnaṃ**: discarded due to the borders being cut off
+-   (events)
+    -   **dhajāhaṭaṃ**: flags left by sailors on the shore before departing or left on battlefields; once the ships / armies are beyond visibility, it can be taken
+    -   **ābhisekikaṃ**: left behind at the king’s coronation premises
+-   (pūjā)
+    -   **thūpacīvaraṃ**: left covering anthills (vammika) as a pūjā
+        -   (*:q: not a cetiya?*)
+    -   **devadattiyaṃ**: given by devas as to V. Anuruddha
+        -   produced for oneself with iddhi: no (*:q: find reference*)
+-   (monks)
+    -   **samaṇacīvaraṃ**: owned by bhikkhus
+        -   (*:q: what about a titthiyacīvara?*)
+    -   **iddhimayaṃ**: received by bhikkhus who have obtained ehi-bhikkhu upasampadā
+-   (elements)
+    -   **aggidaḍḍhaṃ**: partially burnt
+    -   **vātāhaṭaṃ**: blown away by the wind
+        -   owners not around: take it
+        -   like the panthika cloth (fallen without the owner's knowledge): wait a while, if no owners, take it
+    -   **sāmuddiyaṃ**: washed ashore by sea waves
+
+  
+
+
+<a id="orgbe22927"></a>
+
+#### apaṁsukūla cīvara
+
+
+
+-   **gahapatidānacīvara**
+    -   if given directly
+    -   if given indirectly &#x2013; even if at his feet
+        -   thinking: "I give this to him"
+        -   thinking: "may he take it if he needs it": **gahapaticīvara** &#x2013; can be **paṁsukūla**
+-   **some types of samaṇacīvara**
+    -   offered to the **saṅgha**
+    -   received in **cīvarapiṇḍapāta** (coḷakabhikkhāya caramānehi laddhaṁ)
+    -   2 bhikkhudattiya
+        -   offered by a bhikkhu to the saṅgha / gaṇa (*:q: same as above?*)
+            1.  distributing it acc. to vassa (vassaggena gāhetvā dīyati)
+                -   if not acc. to vassa: **paṁsukūla**
+            2.  as a senāsanacīvara
+-   note:
+    -   even if given to another monk, they are not paṁsukūla
+        -   (*:q: confirm this statement; is the origin of the robe before it comes to the pamsukulika monk or before it comes to the sangha in general that matters? acc. to the 4 types of bhikkhudattiya, a gahapatidānacīvara can be pamsukula if given to another monk*)
+
+      
+
+
+<a id="org317bd42"></a>
+
+#### bhikkhu dattiya cīvara &#x2013; definition
+
+
+
+-   samaṇacīvara given by one monk to another: paṁsukūla
+    -   2 exceptions: see 2.3.2(#orgbe22927)
+
+      
+
+1.  4 types of bhikkhu dattiya paṁsukūla samaṇa cīvara
+
+    
+    
+    -   2 **ekato suddhika** paṁsukūla cīvara
+        -   offered by a gahapati at the feet of a monk, who offers it to the hands of a paṁsukūlika bhikkhu
+        -   offered by a gahapati at the hands of a monk, who offers it at the feet of a paṁsukūlika bhikkhu
+    -   **ubhato suddhika** paṁsukūla cīvara: offered by a gahapati at the feet of a monk, who offers it at the feet of a paṁsukūlika bhikkhu
+    -   **anukkaṭṭha** paṁsukūla cīvara: offered by a gahapati at the hands of a monk, who offers it at the hands of a paṁsukūlika bhikkhu
+    -   note:
+        -   2nd and 3rd cases: it is gahapatidānacīvara for the 1st monk
+    
+    <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+    
+    
+    <colgroup>
+    <col  class="org-left" />
+    
+    <col  class="org-left" />
+    
+    <col  class="org-left" />
+    </colgroup>
+    <thead>
+    <tr>
+    <th scope="col" class="org-left">type</th>
+    <th scope="col" class="org-left">gahapati &gt; bhikkhu</th>
+    <th scope="col" class="org-left">bhikkhu &gt; paṁsukūlika</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+    <td class="org-left">ekato suddhika</td>
+    <td class="org-left">feet</td>
+    <td class="org-left">hand</td>
+    </tr>
+    
+    <tr>
+    <td class="org-left">&#xa0;</td>
+    <td class="org-left">hand</td>
+    <td class="org-left">feet</td>
+    </tr>
+    
+    <tr>
+    <td class="org-left">ubhato suddhika</td>
+    <td class="org-left">feet</td>
+    <td class="org-left">feet</td>
+    </tr>
+    
+    <tr>
+    <td class="org-left">anukkaṭṭha</td>
+    <td class="org-left">hand</td>
+    <td class="org-left">hand</td>
+    </tr>
+    </tbody>
+    </table>
+    
+      
+
+2.  senāsanacīvara
+
+    
+    offered by devotees (including by a monk) upon the offering of a dwelling (probably at any time) intending it to be used by whoever resides there
+    
+
+
+<a id="orgd1d6554"></a>
+
+### Pabheda
+
+
+
+-   **ukkaṭṭha** (strict): only sosānika cīvara
+    -   even a samaṇacīvara is not accepted here for the samaṇa being like the gahapati in the sense of having the nature of a donor (dāyakabhāva)
+-   **majjhima** (moderate): uses cloth left behind by someone thinking: "pabbajitā gaṇhissanti"
+-   **mudu** (mild): any paṁsukūla cīvara, even the one left at his feet
+    -   acc. to the apaṁsukūla section, it should be done thinking: "he will take it if he needs it"
+
+  
+
+
+<a id="orgd38dea9"></a>
+
+### Bheda
+
+
+willingly accepting a gahapatidānacīvara (or any apaṁsukūlacīvara) breaks the practice
+
+
+
+<a id="org1502e27"></a>
+
+### 12 Ānisaṁsas
+
+
+
+-   (mind)
+    -   **paribhogataṇhāya abhāvo**: no craving for the robe when using it
+    -   **appicchatādīnaṃ phalanipphatti**: occurrence of the fruit of fewness of wishes, etc.
+-   (practices it fulfils)
+    -   **paṭhame ariyavaṁse patiṭṭhānaṁ**: establishes the 1st ariyavaṁsa (itarītara cīvara santosa)
+    -   **paṁsukūlacīvaraṁ nissāya pabbajjāti vacanato nissayānurūpapaṭipattisabbhāvo**: fulfills the second nissaya
+    -   **sammāpaṭipattiyā anubrūhanaṃ**: developing correct practice
+-   (qualities of the robe)
+    -   **samaṇasāruppaparikkhāratā**: being a suitable requisite for a recluse
+    -   **"appāni ceva sulabhāni ca tāni ca anavajjānī"ti bhagavatā saṃvaṇṇitapaccayatā**: being a requisite (paccaya) that is praised by the Tathāgata as being minimalist, easily available, and blameless
+        -   (*:q: what is meant by appāni?*)
+-   (connected to others)
+    -   **ārakkhadukkhābhāvo**: freedom from the suffering of safeguarding valuable robes
+    -   **corabhayena abhayatā**: no fear from thieves
+    -   **aparāyattavuttitā**: one becomes a person who does not rely on others
+    -   **pāsādikatā**: being pleasing to others or having a lifestyle pleasing to others
+    -   **pacchimāya janatāya diṭṭhānugatiāpādanaṃ**: causes future generations to follow this example (out of compassion)
+
+  
+
+
+<a id="org40c708d"></a>
+
+#### 4 ariyavaṁsa
+
+
+
+-   **itarītara cīvarasantoso** (being content with whatever robe)
+-   **itarītara piṇḍapātasantoso** (being content with whatever food)
+-   **itarītara senāsanasantoso** (being content with whatever dwelling)
+-   **bhāvanārāmatā** (delighting in meditation)
+
+  
+
+
+<a id="orgcc826ca"></a>
+
+#### cīvarasantosa &#x2013; purpose and 20 types (extra)
+
+
+
+-   **purpose**: removing attachment for robes
+-   basic principles of possession
+    -   **yathālābha santosa** (contentment with what is obtained)
+    -   **yathābala santosa** (contentment according to strength): knowing one's own physical capacity and living with what allows one to maintain health and practice
+    -   **yathāsāruppa santosa** (contentment according to suitability): giving away a "pleasing" or high-quality item to another and being satisfied with whatever remains for oneself
+-   before getting the robe
+    -   **vitakka santosa** (contentment in thought): planning for a robe without obsession for a limited period of half a month during the cīvaramāsa
+    -   **gamana santosa** (contentment in going): not thinking where a good robe can be found like going shopping but giving priority to the meditation subject
+    -   **pariyesana santosa** (contentment in searching): going with a lajji pesala monk and searching with integrity
+    -   **loluppavivajjana santosa** (contentment in avoiding greed): walking from door to door in order (dvārapaṭipāṭiyā), accepting whatever comes without favoritism or greed
+-   the moment of receipt
+    -   **paṭilābha santosa** (contentment in acquisition): not speculating about its quality before and when receiving it
+    -   **mattapaṭiggahaṇa santosa** (contentment in moderate receiving): accepting only what is sufficient for oneself
+-   contentment in the crafting process
+    -   **udaka santosa** (contentment with water): being satisfied with whatever suitable washing water is availableea
+    -   **dhovana santosa** (contentment in washing): washing by hand rather than with tools unless absolutely necessaryd
+    -   **karaṇa santosa** (contentment in making): being satisfied with the materials available
+    -   **parimāṇa santosa** (contentment with measurement): being satisfied with a size enough to cover the "three circles"
+    -   **sutta santosa** (contentment with thread): being satisfied with whatever thread is available
+    -   **sibbana santosa** (contentment in sewing): following the proper technical standards for stiching (7 stitches per aṅgula)
+    -   **rajana santosa** (contentment with dyeing): being satisfied with whatever dye is available or even leftover dye
+    -   **kappa santosa** (contentment with the 'kappa' mark): being satisfied with a simple and efficient mark
+-   contentment in use and disposal
+    -   **paribhoga santosa** (contentment in usage): using it for the purposes in paccavekkhaṇa
+    -   **sannidhiparivajjana santosa** (contentment in avoiding hoarding): avoiding hoarding cloth
+        -   if one lacks material, keep it temporarily, but once obtained, the robe must be made
+        -   if it's meant for another, give it as soon as they arrive
+        -   mahasivatthera: an item becomes a "hoard" only if it is not properly determined (adhitthana) for use
+    -   **vissajjana santosa** (contentment in giving away): giving it away without favoritism, based on saranīyadhamma
+
+  
+
+1.  vitakka santosa &#x2013; story of Pācinakhaṇḍarāji thera
+
+    
+    
+    -   a thera traveled to the Mahāvihāra thinking he would find cloth for a new robe
+    -   he realized his thoughts were "impure" because he was specifically seeking out places where wealthy people live to get "pleasing" cloth
+    -   he turned back several times until his mind was pure
+    -   he eventually found a cloth discarded in a rubbish heap, covered in blue flies and filth
+    -   he saw the "noble heritage of his father (the Buddha)" and realized that the Buddha had done something much harder — taking rags from cemeteries
+    -   by maintaining this pure thought, he developed insight right there, attained the first three stages of enlightenment, and eventually reached arahatship
+    
+    
+
+
+<a id="org4a07792"></a>
+
+### Vocab
+
+
+<a id="orgcb40963"></a>
+
+#### byāma
+
+
+masc. fathom; measure of length; from head to foot, or two arms extended vi + √yam + \*a ✓
+
+
+
+<a id="org8891414"></a>
+
+#### loluppa
+
+
+nt. strong greed; intense desire √luḷ + a + ta + ya ~
+
+
+
+<a id="org48fc890"></a>
+
+#### bhūta vejja
+
+exorcist
+
+
+<a id="orgbb31ace"></a>
+
+#### upacikā
+
+fem. termite; white ant ✓
+
+
+<a id="org28cac96"></a>
+
+#### undūra
+
+masc. rat ✗
+
+
+<a id="orgdfd0e80"></a>
+
+#### diṭṭhānugati
+
+
+fem. (+gen) imitation; following the example (of); lit. imitation of seen
+
+
+
+<a id="org3041681"></a>
+
+#### āpādana
+
+
+nt. production ✗
+
+
+
+<a id="org4f76edc"></a>
+
+## 2 &#x2013; Tecīvarikaṅga
+
+
+<a id="org7645c3e"></a>
+
+### Attha
+
+
+
+-   **ticīvara**:
+    -   saṅghāṭi, uttarāsaṅga, antaravāsaka
+    -   the practice of wearing only these 3 robes
+        -   (*:q: dictionary names the ika as practice*)
+-   **tecīvarika** (ticīvara + ṇika): one who observes such practice
+-   **tecīvarikaṅga**: the factor / cause (cetanā of observing ticīvara) that identifies one as a tecīvarika
+
+
+
+
+<a id="orgb1e7f52"></a>
+
+### Samādāna
+
+
+
+-   see
+-   **catutthakacīvaraṁ**: a 4th nivāsanapārupanūpagacīvara
+    -   allowable exceptions under each pabheda are not included
+
+
+
+
+<a id="org6fa884a"></a>
+
+### Vidhāna
+
+
+
+-   when receiving a new cloth:
+    -   allowed to keep as long as one is unable to make into a robe due to unsuitability (aphāsukabhāvena), lack of seamster (vicāraka), or other needed tools like needles, etc
+    -   after dyed, it should not be kept aside
+        -   doing so is **dhutaṅgacora**
+-   when receiving a 4th robe: dhutaṅga is broken
+
+
+
+
+<a id="orge6d030d"></a>
+
+### Pabheda
+
+
+
+-   **ukkaṭṭha**:
+    -   in village monasteries:
+        -   dye one at a time: antara / uttara first, wear it as antara, dye the other, wear it as uttara, dye saṅghāṭi
+            -   saṅghāṭi shouldn't be worn as antara &#x2013; nivāsetuṁ na vaṭṭati
+            -   (*:q: can 2 be washed together while only uttara / saṅghāṭi covers the body?*)
+    -   in forest monasteries:
+        -   can dye two together
+            -   sit in a secluded place close to a robe so that if someone comes, one can cover the body with it
+            -   is he naked at that time?
+                -   bhante: seems so, otherwise he wouldn't have to cover himself when someone comes
+                -   (*:q: but what about the 3 coverings in vinaya? is this an exception? if he can be naked, couldn't he wash all 3 together?*)
+    -   can also wear aṁsakāsāva
+-   **majjhima**:
+    -   can wear rajanakāsāva as antara / uttara to do the dyeing work
+    -   can wear aṁsakāsāva
+-   **mudu**:
+    -   can wear other monk's robes occasionally (for any purpose)
+    -   tatraṭṭhakapaccattharaṇa is allowed
+        -   to be determined as paccattharaṇa
+    -   aṁsakāsāva is allowed
+        -   to be determined as parikkhāracoḷa
+
+
+<a id="org781647f"></a>
+
+#### for whom is the aṁsakāsāva allowed?
+
+for all 3 levels &#x2013; dhutaṅgatecīvarikassa pana catutthaṃ vattamānaṃ aṃsakāsāvameva vaṭṭati
+      
+
+
+<a id="orgbf878c9"></a>
+
+#### rajanakāsāva
+
+
+common robe that stays in the dyeing shed
+
+
+
+<a id="org0a0a3b1"></a>
+
+#### tatraṭṭhakapaccattharaṇa
+
+
+a paccattharaṇa that remains where it is, that one does not travel with (pariharituṁ na vaṭṭati)
+
+
+
+<a id="org6993f12"></a>
+
+#### aṁsakāsāva
+
+
+shoulder-cloth: 1 vidatthi x 3 hattha &#x2013; vitthārato vidatthi, dīghato tihatthameva vaṭṭati
+
+
+
+<a id="orgf05480d"></a>
+
+### Bheda
+
+
+accepting a 4th robe that is not the aṁsakāsāva or tatraṭṭhakapaccattharaṇa
+
+
+
+<a id="orgf384e29"></a>
+
+### Ānisaṁsa
+
+
+
+-   mental
+    -   **santuṭṭho kāyaparihārikena cīvarena**: contentment with robes just to cover the body
+    -   **atirekacīvaraloluppappahānaṃ**: abandoning greed for extra robes
+    -   **appicchatādīnaṃ phalanipphattīti evamādayo guṇā sampajjanti**: the fulfillment of virtues like fewness of wishes
+-   light way of life
+    -   **tenassa pakkhino viya samādāyeva gamanaṃ**: travels lightly like a bird with only its wings
+    -   **sallahukavuttitā**: having a light way of life
+    -   **kappiye mattakāritāya sallekhavuttitā**: having an austere way of life by being moderate in what is permissible
+-   no accumulation
+    -   **vatthasannidhiparivajjanaṃ**: avoiding the accumulation of cloth
+    -   **appasamārambhatā**: having few tasks (related to robes)
+
+  
+
+
+<a id="org4a1b060"></a>
+
+### Vocab
+
+
+<a id="org3214e45"></a>
+
+#### loluppa
+
+
+nt. strong greed; intense desire √luḷ + a + ta + ya
+
+
+
+<a id="org92cb7ab"></a>
+
+## 3 &#x2013; Piṇḍapātikaṅga
+
+
+<a id="org04355b4"></a>
+
+### Attha
+
+
+
+-   **piṇḍapāta**:
+    -   lumps of food (yāvakālika) offered by others that are dropped into the bowl &#x2013; almsfood, bhikkhā
+        -   piṇḍa: lump
+        -   pāta: fall, causing to fall
+    -   the practice of relying on such food obtained by going from house to house
+-   **piṇḍapātika / piṇḍapātī**: one who has the sīla of only consuming almsfood by going from house to house
+-   **piṇḍapātikaṅga**: the cause / reason for identifying someone as one who follows such practice &#x2013; the cetanā behind
+
+
+
+
+<a id="org2f726d2"></a>
+
+### Samādāna
+
+-   see
+
+
+<a id="org225d3fe"></a>
+
+### Vidhāna &#x2013; 14 bhattas
+
+
+
+-   piṇḍapātika should not accept 14 (+3) bhattas:
+    -   7 recipient
+        -   **saṅghabhattaṃ**: offered to the entire saṅgha
+            -   **guļakabhattam**: when a large group cannot feed the whole Sangha, they give pieces of jaggery (guļaka) to count the monks before preparing the food &#x2013; **allowed**
+                -   (*:q: what is allowable is the jaggery given or the meal itself?*)
+        -   **uddesabhattaṃ**: offered to a predetermined number of monks
+            -   **aṭṭhaka- & catukka- bhattam**: meals for 8 or 4 monks
+        -   **āgantukabhattaṃ**: offered to visitor monks
+        -   **gamikabhattaṃ** offered to monks going on a journey
+        -   **gilānabhattaṃ**: offered to sick monks
+        -   **gilānupaṭṭhākabhattaṃ**: offered to nursing monks
+        -   **vihārabhattaṃ**: offered to a monastery / grown on monastery land
+            -   **vihārapakkabhatta**: rice cooked inside the monastery by devotees for all monks &#x2013; **allowed**
+    -   2 method
+        -   **nimantanabhattaṃ**: offered mentioning bhojana
+        -   **salākabhattaṃ**: distributed by drawing lots
+            -   **nirāmisa salāka**: drawing lots for non-food items like medicine &#x2013; **allowed**
+                -   some: should be free of yāvakālika
+    -   5 when
+        -   **pakkhikaṃ**: offered every fortnight
+        -   **uposathikaṃ**: offered by 8-preceptors on uposatha day
+        -   **pāṭipadikaṃ**: offered every day after uposatha
+        -   **dhura- / nicca- bhattaṁ**: offered daily
+        -   **vārakabhatta**: offered by villagers in turns
+            -   common during famines
+    -   other case
+        -   **guḷhakabhattam**: a bowl filled with cakes hidden
+            under a cover
+    -   notes:
+        -   invitation
+            -   if offered as bhatta (meal): **not ok**
+                -   e.g.: "saṅghabhattaṃ gaṇhatha"
+            -   if offered as bhikkha (food): **ok**
+                -   e.g.: "amhākaṃ gehe saṅgho bhikkhaṃ gaṇhātu, tumhepi bhikkhaṃ gaṇhathā"
+            -   if the invitation was accepted as bhikkha and later the donor calls it bhatta: **ok, no problem**
+
+
+
+
+<a id="org74869f2"></a>
+
+#### saṅghabhattādianujānanaṃ
+
+"**anujānāmi, bhikkhave, saṅghabhattaṃ uddesabhattaṃ nimantanaṃ salākabhattaṃ pakkhikaṃ uposathikaṃ pāṭipadikaṁ**"
+
+
+<a id="org04c6173"></a>
+
+### Pabheda
+
+
+
+-   **ukkaṭṭha**
+    -   ok
+        -   **āhaṭabhikkhā**: brought from both front and back
+        -   **pattavissajjana**: handing the patta to the donor at the door
+        -   **paṭikkamanaṃ āharitvā dinnabhikkhampi**: almsfood brought to the paṭikkamana
+    -   not ok
+        -   **taṁ divasaṁ nisīditvā bhikkhaṁ**: being made to sit for a meal on the same day
+            -   "being made to sit": being made to wait for a meal later on the day
+        -   **being made to stay back**: if devotee says "don't go for alms; we'll bring it to the vihāra"
+    -   example:
+        -   V. Mahā Kassapatthera
+        -   V. Raṭṭhapālatthera
+        -   V. Sudinnatthera
+-   **majjhima**
+    -   ok
+        -   all above
+        -   **taṃ divasaṃ nisīditvā bhikkhaṃ**: being made to sit (wait) for a meal on the same day
+    -   not ok
+        -   being made to sit for the next day ("tomorrow, we'll bring alms")
+-   **muduka**:
+    -   all above, for the next day, and the day after
+-   note: only ukkaṭṭha experiences **serivihārasukha**
+
+
+
+
+<a id="org2b77684"></a>
+
+#### seri vihāra sukha
+
+
+
+-   happiness of dwelling independently
+    -   only **ukkaṭṭha** experiences it
+        -   e.g.:
+            -   3 piṇḍapātika bhikkhus
+            -   ukkaṭṭha went on almsround and heard Dhamma sermon
+            -   majjhima was "made to sit" and couldn't go
+            -   mudu had accepted next-day invitation and couldn't go
+
+
+
+
+<a id="org98b148c"></a>
+
+### Bheda
+
+
+accepting any of the 14 formal meals
+
+-   ukkaṭṭha: accepting invitations to stay at the monastery and wait for food
+
+  
+
+
+<a id="orgc0f0030"></a>
+
+### 15 Ānisaṃsas
+
+
+
+-   7 practice
+    -   **1st nissaya** is fulfilled (monkhood depends on going for alms)
+    -   **2nd ariyavaṃsa** is established (itarītara piṇḍapāta santosa)
+    -   **pure livelihood** is kept (parisuddhājīvatā)
+    -   **sekhiyā training rules** are observed
+    -   **offences** from gaṇabhojana, paramparabhojana, and cāritta training rules are avoided
+    -   **correct practice** is developed (sammā paṭipatti)
+    -   praised by Tathāgata as **little, easily available, and appropriate**
+-   2 independence
+    -   not **dependent** on others (aparāyattavuttitā)
+    -   not **taken care** by others (aparapositā)
+-   4 mental
+    -   defilements
+        -   **kosajjanimmaddanatā**: laziness is removed
+        -   **mānappahānaṃ**: pride is abandoned
+        -   **rasataṇhānivāraṇaṃ**: desire for taste is hindered
+    -   **appicchatā** etc. already produced within him
+-   2 for others
+    -   **parānuggahakiriyā**: act that supports others
+    -   causes future generations to adopt almsround → **compassion for future sabrahmacārīs**
+
+
+
+
+<a id="org3bc84b3"></a>
+
+## 4 &#x2013; Sapadānacārikaṅga
+
+
+<a id="orgf683003"></a>
+
+### Atthato
+
+
+
+-   **dāna**: interruption, hiatus &#x2013; avakhaṇḍanaṁ
+-   **apadāna**: without hiatus, uninterruptedly, in order (anavakhaṇḍanaṁ) &#x2013; apetaṃ danatoti apadānaṃ
+-   **sapadāna**: saha apadānena sapadānaṁ &#x2013; "together with being uninterrupted" &#x2013; going from house to house without hiatus, uninterruptedly, without breaking the order &#x2013; sapadānanti sapadānacāraṃ sampattagharaṃ anukkamma paṭipāṭiyā caranto
+    -   each and every house avoiding hiatus (avakhaṇḍanarahitaṃ anugharanti vuttaṁ hoti)
+    -   sapadānaṁ as an adverb
+-   **sapadānacārī / sapadānacārika**: one who has this practice of wandering without interruption
+-   **sapadānacārikaṅga**: the factor / cause (cetanā) that identifies one as sapadānacārika
+
+  
+
+
+<a id="orgad1955e"></a>
+
+### Samādāna
+
+
+
+-   see
+-   **loluppacāra**: going on piṇḍapāta selecting house / village out of greed for food
+
+
+
+
+<a id="orgb74e665"></a>
+
+### Vidhāna
+
+
+
+-   go early morning to the village
+-   look out for obstacles at the village entrance
+-   ok to skip
+    -   if there is a danger
+    -   if one normally does not receive any piṇḍapāta at a certain house / road / village: considering it agāmakasaññā (not a village)
+    -   areas difficult to access
+-   if devotees met on the way take the bowl and offer alms: ok
+-   happening to visit a village during kāla: should go piṇḍapāta in that village before going to the next
+-   not receiving enough food in one village, going to other villages in order: ok
+
+
+
+
+<a id="orgc911351"></a>
+
+### Pabheda
+
+
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-left">ukkaṭṭha</th>
+<th scope="col" class="org-left">majjhima</th>
+<th scope="col" class="org-left">mudu</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">purato / pacchato āhaṭa bhikkhā</td>
+<td class="org-left">no</td>
+<td class="org-left">ok</td>
+<td class="org-left">ok</td>
+</tr>
+
+<tr>
+<td class="org-left">paṭikkamanaṁ āhaṭa bhikkhā</td>
+<td class="org-left">no</td>
+<td class="org-left">ok</td>
+<td class="org-left">ok</td>
+</tr>
+
+<tr>
+<td class="org-left">pattadvāre pattavissajjana</td>
+<td class="org-left">ok</td>
+<td class="org-left">ok</td>
+<td class="org-left">ok</td>
+</tr>
+
+<tr>
+<td class="org-left">bhikkhāpekkhanissajjā</td>
+<td class="org-left">no</td>
+<td class="org-left">no</td>
+<td class="org-left">ok (same day)</td>
+</tr>
+</tbody>
+</table>
+
+-   note: majjhima here is similar to the ukkaṭṭha piṇḍapātikaṅga in this regard
+
+ 
+
+
+<a id="org7e980d9"></a>
+
+#### purato-, pacchato-, paṭikkamanaṁ- āhaṭabhikkhā, pattavissajjana, bhikkhāpekkhanissajjā
+
+
+
+-   **purato āhaṭa bhikkha**: food offered "from the front"; while one is walking for piṇḍapāta, a donor comes from a house one has not yet reached (from ahead) and offers food
+-   **pacchato āhaṭa bhikkhā**: food offered "from behind", from a house one has already past
+-   **paṭikkamanaṁ āhaṭa bhikkha** &#x2013; paṭikkamanaṁ āharitvā dīyamānaṁ: food brought to the dānasālā while going in search of alms
+-   **pattadvāre pattavissajjana**: when standing by the door of a house, giving the bowl for the donor to serve food
+-   **bhikkhāpekkhanissajjā** &#x2013; na bhikkhaṃ āgamayamāno nisīdati / taṁ divasaṁ nisīditvā āgameti: sitting waiting for a meal accepting the invitation: “venerable, please don’t go in search of alms; we will bring today’s piṇḍapāta"; he seems to stay in the monastery
+-   note: these are terms I made up based on the Pāḷi
+
+ 
+
+
+<a id="orgf4a76f5"></a>
+
+#### sakkudānasutta (udānapāḷi)
+
+
+
+-   Sakka, as an old weaver, was waiting for V. Mahākassapa at the weavers’ street
+-   the thera stood in front of Sakka’s house and gave his bowl (pattavissajjana) thinking he was a weaver
+-   Sakka went inside the house and filled the bowl with heavenly food and offered it back to the thera
+-   ṭikās: Vs. Raṭṭhapāla and Sudinna theras also practiced thus
+
+
+
+
+<a id="orgedd5965"></a>
+
+### Bheda
+
+
+doing loluppacāra breaks the practice 
+
+
+
+<a id="org75a33f3"></a>
+
+### Ānisaṁsa
+
+
+
+-   2 association
+    -   **kulesu niccanavakatā** (being always a newcomer)
+    -   **kulūpakādīnavābhāvo** (absence of dangers of kulūpaka): approaching repeatedly the same family (kulūpaka) leads to
+        -   kusalasaṅgaha (special treatment by the monk)
+        -   kulasaṁsaṭṭha (close association)
+-   6 mental
+    -   4 akusala
+        -   **candūpamatā** (being like the moon): not being attached to any place and being gentle (*:q: clarify gentle*)
+        -   **kulamaccherappahānaṃ** (abandoning kulamacchariya): not holding to donors' families as his
+        -   **avhānānabhinandanā** (not rejoicing in invitations for meals): not accepting them
+        -   **abhihārena anatthikatā** (no need of what is brought): having no use for alms that is brough exclusively for oneself
+    -   2 kusala
+        -   **samānukampitā**: equal compassion toward all families for not differentiating out of affection; not showing special cordiality towards some families and not others
+        -   **appicchatādīnaṃ anulomavuttitā** (behavior in acc. with fewness of wishes, etc)
+
+ 
+
+
+<a id="orge764074"></a>
+
+### Vocabulahry
+
+
+<a id="org82361ec"></a>
+
+#### avhāna
+
+nt. invitation (to eat at a house); lit. calling; invoking ā + √vhe + \*ana ✓
+
+
+<a id="org09e6844"></a>
+
+### Candūpamasutta (SN) &#x2013; summary
+
+-   in Sāvatthi, the Buddha says to approach families like the moon, drawing back the body and mind, always a newcomer and respectful, like one looking down at a well, and sayd Mahākassapa does like that
+-   who is worthy of approaching families?
+    -   one that is like a hand in space, without getting stuck, without delighting and sorrowing with the gain and loss of the people
+-   what teaching is pure and what is impure?
+    -   wishing others to listen and have faith in oneself: **impure**
+    -   wishing others to listen, understand, and practice accordingly (out of compassion, kindness and sympathy): **pure** &#x2013; Mahākassapa teaches like that
+-   how should one approach families?
+    -   **apakasseva kāyaṃ** (drawing back the body)
+    -   **apakassa cittaṃ**
+    -   **niccanavakā** (always a newcomer)
+    -   **kulesu appagabbhā** (prudent / respectful among families)
+-   4 monks according to whether they draw back the body / mind or not
+    -   **neva kāyaṁ apakassati na cittaṁ**: dwells in the village and thinks thoughts of lust, etc
+    -   **kāyameva apakassati na cittaṁ**: dwells in the forest, but thinks thoughts of lust, etc
+    -   **cittameva apakassati na kāyaṁ**:  dwells in the village, but doesn't think thoughts of lust, etc
+    -   **ubhayampi apakassati**: both dwells in the forest and does not think thoughts of lust, etc 
+        -   like the moon, like one looking down a deep well, rugged cliff, or steep riverbank
+
+
+<a id="orgf4c0f4d"></a>
+
+## 5 &#x2013; Ekāsanikaṅga
+
+
+<a id="orge16865e"></a>
+
+### Attha
+
+
+
+-   **eka**: one
+-   **āsana**: sitting
+-   **ekāsana**:
+    -   one sitting
+    -   **ekāsane bhojanaṃ ekāsanaṃ**: consuming the meal in one sitting, in the same seated posture without changing it
+-   **ekāsanika**: one who practices this
+-   **ekāsanikaṅga**: the reason / cause (cetanā) for referring to one as ekāsanika
+
+
+
+
+<a id="org670c1be"></a>
+
+### Samādāna
+
+
+
+-   see
+-   **nānāsanabhojana**: consuming food in more than one sitting
+
+
+
+
+<a id="orgda6a54e"></a>
+
+### Vidhāna
+
+
+
+-   sit on a suitable anuṭṭhāpanīya seat
+    -   avoid sitting on a senior's seat to avoid having to stand later
+        -   vsm: tena pana ekāsanikena āsanasālāyaṃ nisīdantena therāsane anisīditvā "idaṃ mayhaṃ pāpuṇissatī"ti patirūpaṃ āsanaṃ sallakkhetvā nisīditabbaṃ
+            -   vsm-ṭ: patirūpanti yuttarūpaṃ anuṭṭhāpanīyaṃ
+-   if ācariya / upajjhāya arrives while one is eating, one should rise and perform the duties
+    -   vsm-ṭ: vattaṃ kātuṃ vaṭṭatīti vattaṃ kātuṃ yujjati. vattaṃ nāma garuṭṭhānīye kattabbameva
+    -   tipiṭaka cūḷābhaya:
+        -   one should either protect the seat or the bhojana
+            -   āsanarakkhana: not standing up from after having started eating until finished
+            -   bhojanarakkhana: not starting the meal
+        -   if one rises with an unfinished meal, one should not eat it anymore until the next day
+
+
+
+
+<a id="org1f6df70"></a>
+
+### Pabheda
+
+
+
+-   **ukkaṭṭha**
+    -   does not accept more food after having started eating
+    -   when offered sattāhakālika: ok to accept and consume as bhesajjattha
+-   **majjhima**
+    -   accepts food until the rice in the bowl is finished &#x2013; bhojana pariyantika
+-   **mudu**
+    -   accepts food until he gets up / until his bowl is taken to be washed &#x2013; āsana pariyantika / udaka pariyantika
+
+
+
+
+<a id="orgb6043fa"></a>
+
+### Bheda
+
+
+consuming a nānāsanabhojana
+
+
+
+<a id="org4536b43"></a>
+
+### Ānisaṁsa
+
+
+
+-   5 freedom from the discomforts of overeating
+    -   **appābādhatā** (few ailments)
+    -   **appātaṅkatā** (few sicknesses)
+        -   (*:q: clarify ābādha vs ātaṅka*)
+    -   **lahuṭṭhānaṃ** (lahu uṭṭhāna; agility)
+    -   **balaṃ** (strength)
+    -   **phāsuvihāro** (living comfortably)
+-   1 freedom from offense
+    -   **anatirittapaccayā anāpatti**: no offense due to pavāraṇasikkhāpada
+-   mental
+    -   1 freedom from desire
+        -   **rasataṇhāvinodanaṃ**: eliminating the desire for taste
+    -   **appicchatādīnaṃ anulomavuttitā**
+
+
+
+
+<a id="orgc228889"></a>
+
+## 6 &#x2013; Pattapiṇḍikaṅga
+
+
+<a id="org50836a5"></a>
+
+### Attha
+
+
+
+-   **pattapiṇḍa** (bowl food): the food in only one bowl due to the rejection of a second vessel
+    -   dutiyabhājanassa paṭikkhittattā kevalaṃ ekasmiṃyeva patte piṇḍo pattapiṇḍo
+-   **pattapiṇḍika**: one who has the virtue of accepting food in only one container
+    -   idāni pattapiṇḍagahaṇe pattapiṇḍasaññaṃ katvā pattapiṇḍo sīlamassāti pattapiṇḍiko.
+        -   pattapiṇḍagahaṇa: accepting food that is in the same bowl
+-   **pattapiṇḍikaṅgaṃ**: tassa aṅgaṃ pattapiṇḍikaṅgaṃ &#x2013; his factor (cetanā) / cause for being called such
+
+
+
+
+<a id="orgd3698a2"></a>
+
+### Samādana
+
+
+
+-   see
+-   dutiyakabhājana: second container for food apart from the primary container
+
+
+
+
+<a id="org245389a"></a>
+
+### Vidhāna
+
+
+
+-   when drinking gruel in one container and condiments are received separately
+    -   if together they would not make the gruel repulsive (such as honey): consume them together
+        -   accept only the suitable amount of food
+    -   if together they would make the gruel repulsive:  consume them separately
+        -   otherwise, one may not digest well or even vomit
+-   taking raw vegetables with the hand and eating them: allowable
+    -   if not, it should be put into the bowl itself
+        -   as the hand being considered a second container (*:q: clarify*)
+-   even another tree leaf is not allowable as a second container
+
+
+
+
+<a id="orgeb1a821"></a>
+
+### Pabheda
+
+
+
+-   **ukkaṭṭha**
+    -   cannot even discard waste, except the kasaṭa of the sugarcane
+    -   cannot take bites at rice, meat, fish, and cakes or even break them with the hand
+        -   implies that the food must be broken before eating
+-   **majjhima**: can break food using one hand and consume it &#x2013; hence called **hatthayogī**
+-   **mudu**
+    -   can break food with the hands or mouth &#x2013; hence called **pattayogī**
+        -   but he should observe the sekhiya 45 &#x2013; kabalāvacchedakasikkhāpadaṁ: morsels of rice cannot be broken by the mouth and consumed
+
+
+
+
+<a id="org4ae554e"></a>
+
+### Bheda
+
+
+accepting food in a second container breaks the determination
+
+
+
+<a id="org74b0766"></a>
+
+### Ānisaṁsa
+
+
+
+-   4 mental
+    -   **nānārasataṇhāvinodanaṃ**: eliminating the craving for various flavors
+    -   **āhāre payojanamattadassitā**: seeing only the righteous purpose of food acc. to the Dhamma (neva davāya, etc.)
+    -   **atricchatāya pahānaṃ**: abandoning the state of atricchatā
+        -   atricchatā: here, the state of one who has desire of various flavors set out in various containers
+    -   **appicchatādīnaṃ anulomavuttitā**: conducting oneself according to the qualities of fewness of wishes, etc
+-   2 practical
+    -   **thālakādipariharaṇakhedābhāvo**: absence of the inconvenience caused by using small plates, cups, etc
+    -   **avikkhittabhojitā**: freedom from the state of a "scattered meal"
+        -   vikkhittabhojī: one who eats in a scattered way, eating from various containers
+
+
+
+
+<a id="orgf9ad6df"></a>
+
+## 7 &#x2013; Khalupacchābhattikaṅga
+
+
+<a id="org4dc3d69"></a>
+
+### Attha
+
+
+
+-   **khalu** (nipāta): prevention
+    -   ancient comm: khalu: type of bird that does not take up food that he has dropped
+-   **pacchābhatta**
+    -   meal received after having refused a bhojana &#x2013; atirittabhojana
+    -   act of consuming such meal
+    -   **pacchābhattabhojana**: eating such meal that was received later
+-   **pacchābhattika**: one who has the nature of consuming meals that were accepted after refusing bhojana
+-   **khalupacchābhattika**
+    -   one who is not a pacchābhattika
+    -   bhikkhu who has observed the virtue of rejecting (restraining from) the consumption of atiritta bhojana after having refused bhojana
+    -   ancient comm: monk that behaves like the khalu bird
+    -   notes:
+        -   pavāritasikkhāpada: consuming anataritta meals after having refused bhojana
+            -   this rule prevents eating anatiritta, while this dhutaṅga prevents eating atiritta
+-   **khalupacchābhattikaṅga**: cause, reason (cetanā) for a khalupacchābhattika being called so
+
+
+
+
+<a id="org0713511"></a>
+
+### Samādāna
+
+
+
+-   see
+-   **atirittabhojana**: remaining food that is appropriate to be consumed after having been served and refused 2
+    -   lit. food that is in excess &#x2013; **atirekaṃ ricati gacchatīti atirittaṃ**
+
+
+
+
+<a id="orgc20506c"></a>
+
+#### 2 atirittabhojana
+
+
+
+-   **gilānātiritta bhojana**
+    -   food that remains after having been consumed by an ill bhikkhu
+    -   or leftover food that is brought for an ill bhikkhu
+-   **vinayakammātiritta bhojana**: food made leftover through a vinayakamma
+-   note: both are rejected by a khalupacchābhattika
+
+
+
+
+<a id="org9a7e3e4"></a>
+
+### Vidhāna
+
+
+
+-   after refusing a bhojana: do not consume another yāvakālika made atiritta that day (depending on the pabheda)
+    -   vsm: puna bhojanaṃ kappiyaṃ kāretvā na bhuñjitabbaṃ &#x2013; bhojana must not be consumed again after having made it allowable &#x2013; this applies to any type of yāvakālika, not only to bhojana
+
+  
+
+
+<a id="org61123df"></a>
+
+### Pabheda
+
+
+
+-   **ukkaṭṭha**: after becoming pavārita (refusing a bhojana after having consumed a bhojana), he does not consume any more food
+-   **majjhima**: after becoming pavārita, he only consumes the food he already has
+-   **mudu**: after becoming pavārita, he consumes food, including atiritta, until he breaks his posture, not after that
+
+
+
+
+<a id="org82d0acb"></a>
+
+### Bheda
+
+
+consuming a yāvakālika that is made atiritta after the refusal of bhojana breaks the practice (depending on the pabheda)
+
+-   what if an ukkaṭṭha does what a majjhima does? does that break the practice or simply brings it to a lower level?
+    -   this is only mentioned under the araññikaṅga, so in other dhutaṅgas it seems to just degrade the practice, not break it
+
+
+
+
+<a id="org9a8df43"></a>
+
+### Ānisaṃsa
+
+
+
+-   1 offense
+    -   **anatirittabhojanāpattiyā dūrabhāvo**: one is far from the offences related to the consumption of anatirittabhojana
+-   mental
+    -   **odarikattābhāvo**: absence of gluttony
+        -   odarika / ghasmara: gluttonous; greedy for food
+    -   **appicchatādīnaṃ anulomavuttitā**: conducting oneself according to fewness of wishes, etc
+-   practical
+    -   **nirāmisasannidhitā**: lack of accumulation of food since he does not keep food after becoming pavārita intending to make it allowable
+    -   **puna pariyesanāya abhāvo**: lack of further search for food after pavāraṇa intending to make it allowable
+
+
+
+
+<a id="org82b96bc"></a>
+
+## 8 &#x2013; Āraññikaṅga
+
+
+<a id="org8b21cab"></a>
+
+### Attha
+
+
+
+-   **arañña**: area apart from the village
+    -   (*:q: can it be the practice as well?*)
+-   **āraññika (arañña + ṇika)**: one who lives away from the village as a practice
+-   **araññikaṅga**: cause / reason &#x2013; cetanā &#x2013; for calling someone aand āraññika
+
+
+
+
+<a id="orgcaaafb5"></a>
+
+### Samādāna
+
+
+
+-   see
+-   **gāmantasenāsana**: village and its vicinity &#x2013; tattha saddhiṃ upacārena gāmoyeva gāmantasenāsanaṃ
+-   one should not be at gāmantasenāsana during dawn break
+
+
+
+
+<a id="org82b7437"></a>
+
+### Vidhāna
+
+
+<a id="orgc7e2b40"></a>
+
+### Geha, gāma, pariccheda, and upacāra
+
+see vikālegāmapavisanasikkhāpada
+
+
+<a id="orgdcb0aad"></a>
+
+### Pabheda
+
+
+
+-   **ukkaṭṭha**: must always be at an arañña at dawn break
+-   **majjhima**: can reside in a village during the 4 months of the vassāna season
+-   **mudu**: can reside in a village during vassāna and hemanta
+
+
+
+
+<a id="org57bed29"></a>
+
+### Bheda
+
+
+being at the gāmantasenāsana at dawn break during the wrong period (depending on the pabheda), except:
+
+-   if one comes from the arañña to a village monastery to listen to the Dhamma and dawn breaks: **practice not broken**
+    -   note: likely also not broken for Vinaya acts such as uposatha
+    -   (*:q: only monastery or any place in the village?*)
+-   if dawn breaks while one is returning from listening to the Dhamma: **not broken**
+-   but if one stays to rest after the talk even for a moment and dawn breaks: **broken**
+-   if one stays after the talk and dawn breaks: **broken**
+
+
+<a id="org8fbbbae"></a>
+
+#### what happens if an ukkaṭṭha / majjhima does what a majjhima / mudu does
+
+-   vsm-ṭ: practice is broken, not debased
+-   note: such a strict measure is not seen in other dhutaṅgas
+
+
+<a id="orgb62a8b3"></a>
+
+### Ānisaṁsa
+
+
+
+-   mental
+    -   **jīvitanikantiṃ jahati**: he abandons attachment to life for the forest has many dangers
+    -   **vigatasantāso hoti**: he is without fear for being accustomed to living alone
+    -   **pantasenāsanavāsino cassa asappāyarūpādayo cittaṃ na vikkhipanti**: unsuitable sights do not distract him
+    -   **āraññiko bhikkhu araññasaññaṃ manasikaronto bhabbo aladdhaṃ vā samādhiṃ paṭiladdhuṃ laddhaṃ vā rakkhituṃ**: attending to the araññasañña, he can produce and protect concentration
+        -   araññasaññaṁ manasikaronto: "i am living in seclusion. I must make this seclusion fruitful"
+    -   **pavivekasukharasaṃ assādeti**: he enjoys the pleasure of seclusion for not mixing with people
+-   practice
+    -   **satthāpissa attamano hoti. yathāha "tenāhaṃ, nāgita, tassa bhikkhuno attamano homi araññavihārenā"ti**: the Teacher is pleased with him based on AN
+    -   **paṃsukūlikādibhāvopi cassa patirūpo hoti**: the wearing of paṃsukūla robes, etc. is also suitable for him
+
+
+
+
+<a id="org2c2f4fb"></a>
+
+### footnotes
+
+2 Abhinavaniviṭṭho ekakuṭikādigāmo yāva manussā pavisitvā vāsaṃ na kappenti, tāva gāmasaṅkhyaṃ na gacchatī"ti vadanti, tasmā tattha gāmappavesanāpucchādikiccampi natthi. (Srd-ṭ. II. 123.). 
+
+3Vsm. I. 69. 
+
+4 Yakkhapariggahabhūtoti saupaddavavasena vuttaṃ, yakkhanagarādiṃ vā saṅgaṇhāti. Yakkhanagarampi 
+āpaṇādīsu dissamānesu gāmasaṅkhyaṃ gacchati, adissamānesu na gacchati, tasmā yakkhanagarampi 
+pavisantena āpaṇādīsu dissamānesu sabbaṃ gāmappavesanavattaṃ kātabbaṃ, adissamānesu na kātabbanti 
+vadanti. (Srd-ṭ. II. 123-4.). 
+
+5 Amanusso nāma yo sabbaso vā manussānaṃ abhāvena yakkhapariggahabhūto, yato vā manussā kenaci 
+kāraṇena punapi āgantukāmā eva apakkantā. (Pj-a. I. 259.). 
+Punapi āgantukāmāti iminā tesaṃ tattha sāpekkhabhāvaṃ dasseti. Yato pana nirapekkhāva hutvā pakkamanti, so 
+gāmasaṅkhyaṃ na gacchati, tasmā tattha gāmappavesanāpucchādikiccampi natthi. (Srd-ṭ. II. 124.). 
+
+6 Gonisādiniviṭṭho nāma vīthisannivesādivasena anivisitvā yathā gāvo tattha tattha dve tayo nisīdanti, evaṃ tattha 
+tattha dve tīṇi gharāni katvā niviṭṭho. (Pj-a. I. 259.). 
+
+7Balamajjhimassa purisassa hatthaṃ pasāretvā attano balappamāṇena khittassa muṭṭhiyā gahitapāsāṇassa 
+patanaṭṭhānaṃ vihārūpacāro nāma, tadeva pākārādīhi parikkhepārahaṭṭhānaṃ nāma. (V.vinicch-ṭ. I. 251.). 
+
+8  Abbhantaro upacāro ca nāma parikkhepo, parikkhepārahaṭṭhānañca hoti. (Kaṅkhā-pu-ṭī. 39.).  
+
+9 Tesu bāhirabbhantarabhedabhinnesu dvīsu upacāresu avippavāsasīmādhikāre "ṭhapetvā gāmañca 
+gāmūpacārañcā"ti ettha gāmūpacāro nāma abbhantarūpacāro adhippeto, na bāhiro. (Kaṅkhā-pu-ṭ. 39-40.). 
+
+10  Bāhiro upacāro nāma parikkhepato, parikkhepārahaṭṭhānato vā eko leḍḍupāto. (Kaṅkhā-pu-ṭī. 39.). 
+
+11 Kaṅkhā-pu-ṭ. 41-10. 
+
+12 Under the sabhojana training rule, the word ‘Ghara’ means a room. Accordingly, it refers to a sleeping room 
+(sayanighara). 
+
+13 Dve leḍḍupāte atikkammāti yojanā. Leḍḍupātadvayassa avadhiṃ dasseti "parikkhepato bahī"ti, "aparikkhittato 
+parikkhepārahaṭṭhānā bahī"ti ca. Parikkhepārahaṭṭhānaṃ nāma katamanti? Visuddhimagge (visuddhi. 1.31) 
+dhutaṅganiddese "majjhimaṭṭhakathāyaṃ pana vihārassāpi gāmasseva upacāraṃ nīharitvā ubhinnaṃ 
+leḍḍupātānaṃ abbhantarā minitabba’nti vuttaṃ. Idametthapamāṇa"nti vuttattā aparikkhittassa 
+paṭhamaleḍḍupātaṃ hoti, gāme vuttena vidhinā vihārapariyante ṭhitabhattasālagilānasālādisenāsane ce 
+parikkhepo 
+atthi, 
+tattha 
+vā, 
+natthi 
+ce, 
+nibbakosassa 
+udakapātaṭṭhāne 
+ṭhitena 
+mātugāmena 
+chaḍḍitabhājanadhovanodakapatanaṭṭhāne vā senāsanato dūre cetiyaṅgaṇe, bodhiyaṅgaṇe vā ṭhatvā 
+balamajjhimassa purisassa hatthaṃ pasāretvā attano balappamāṇena khittassa muṭṭhiyā gahitapāsāṇassa 
+patanaṭṭhānaṃ vihārūpacāro nāma, tadeva pākārādīhi parikkhepārahaṭṭhānaṃ nāma. Tattha ṭhatvā tatheva 
+khittassa pāsāṇassa patanaṭṭhānaṃ eko leḍḍupāto, tatthāpi ṭhatvā tatheva khittassa pāsāṇassa patanaṭṭhānaṃ 
+eko leḍḍupātoti evaṃ dve leḍḍupātā gahetabbā. (V.vicch-ṭ. I. 251.). 
+
+14 Abbhantaro upacāro ca nāma parikkhepo, parikkhepārahaṭṭhānañca hoti. (Kaṅkhā-pu-ṭ. 39.). 
+
+15 Abbhantaro upacāro ca nāma parikkhepo, parikkhepārahaṭṭhānañca hoti. (Kaṅkhā-pu-ṭ. 39.). 
+
+16 Vinayapariyāyena araññalakkhaṇaṃ adinnādānapārājike (pārā. 92) āgataṃ. Tattha hi "gāmā vā araññā vā"ti 
+anavasesato avahāraṭṭhānapariggahe tadubhayaṃ asaṅkarato dassetuṃ "ṭhapetvā gāmañcā"tiādi vuttaṃ. 
+Gāmūpacāro hi loke gāmasaṅkhameva gacchatīti. (Vsm-ṭ. I. 97.). 
+
+17 Nippariyāyato pana gāmavinimuttaṃ ṭhānaṃ araññameva hotīti abhidhamme gāmā "nikkhamitvā bahi 
+indakhīlā, sabbametaṃ arañña"nti vuttaṃ. (Vsm. I. 97.). 
+
+18 Upavassaṃ kho pana kattikapuṇṇamaṃ yāni kho pana tāni āraññakāni senāsanāni sāsaṅkasammatāni 
+sappaṭibhayāni tathārūpesu bhikkhu senāsanesu viharanto ākaṅkhamāno&#x2026; (Pj. 377.). 
+
+19 Pj. 377. 
+
+20 "Ācariyadhanu nāma pakatihatthena knavavidatthippamāṇaṃ, jiyāya pana āropitāya catuhatthappamāṇa"nti 
+vadanti. (Srd-ṭ. II. 126.). 
+
+21 පාරා.අ. ii. 308. 
+
+22 සා. . . ii. 446. 
+
+23 M-ṭ. III. 142. 
+
+24 It appears that the āraññika dhutaṅga should not be broken by coming for Vinaya acts such as the uposatha and 
+causing the dawn to rise there, just as it is not broken when listening to the Dhamma 
+
+
+<a id="org025029e"></a>
+
+## 9 &#x2013; Rukkhamūlikaṅga
+
+
+<a id="orgf8dd620"></a>
+
+### Attha
+
+
+
+-   **rukkhamūlanivāsa / rukkhamūla**: dwelling at the base of a tree
+-   **rukkhamūlika**: one whose nature is to dwell at the base of a tree
+-   **rukkhamūlikaṅga**: reason (cetanā) for one being known as rukkhamūlika
+
+
+
+
+<a id="orgf91a17f"></a>
+
+### Samādāna
+
+
+
+-   see
+-   **channa**: dwelling roofed using 5 chadanas
+-   **cīvarakuṭi**: dwelling made out of cloth
+    -   not considered a channa here
+
+  
+
+
+<a id="orgcddbd08"></a>
+
+#### 5 chadanas
+
+
+
+-   tiṇa
+-   paṇṇa
+-   iṭṭhakā
+-   silā
+-   sudhā
+
+
+
+
+<a id="org89aef44"></a>
+
+### Vidhāna
+
+
+<a id="org7b4433a"></a>
+
+#### 7 Trees to be Avoided and 1 Used
+
+
+
+-   7 avoid
+    -   **sīmantarikarukkha** (boundary tree): tree between two countries where armies may battle or thieves gather
+    -   **cetiyarukkha**: known to be inhabited by a deity; constant visitors, no seclusion
+    -   **niyyāsarukkha** (gum tree)
+    -   **phalarukkha** (fruit tree): tree that has fruits at that moment
+    -   **vaggulirukkha** (bat-dwelling tree)
+    -   **susirarukkha** (hollow tree)
+    -   **vihāramajjhe ṭhitarukkha**: in the middle of a monastery
+-   1 use
+    -   **vihārapaccante ṭhitarukkha**: tree located at the edge of the monastery
+-   notes:
+    -   forbidden due to danger, trouble, or lack of seclusion
+
+
+
+
+<a id="orgac9f781"></a>
+
+#### Permitted Entries into Roofed Dwellings
+
+
+
+-   **uposathāgāra**:
+    -   to perform uposatha vinayakamma
+    -   to listen to Dhamma
+    -   to deliver Dhamma talk if invited
+-   **aggisāla** (dining hall/fire house):
+    -   to perform duties
+    -   to serve elders
+    -   to inquire about elders' needs
+-   **to teach / learn Dhamma**
+-   **to protect properties**:
+    -   may take beds, chairs, etc. left outdoors inside
+    -   if it rains on the road when carrying seniors' requisites: may quickly enter a roadside hall directly accessible without deviating from path
+        -   vsm-ṭ: these halls existed in ancient Sri Lanka
+    -   when not carrying seniors' requisites:
+        -   not suitable to rush
+        -   proceed at normal pace to hall
+        -   stay until rain stops, then leave
+    -   note: vsm: mentioned under abbhokāsikaṅga but applicable here: rukkhamūlikassāpi eseva nayo
+-   if it begins to rain while inside a building: may stay until it stops
+
+
+
+
+<a id="org0a027fb"></a>
+
+#### Rukkhamūlikaṅga During Vassāvāsa
+
+
+
+-   rukkhamūlika must also observe vassāvāsa in a dwelling with one of 5 chadanas (roof, covering) and door with locks &#x2013; **channeyeva sadvārabandhe senāsane** (pj-a)
+    -   Na, bhikkhave, asenāsanikena vassaṃ upagantabbaṃ. Yo upagaccheyya, āpatti dukkaṭassa.
+    -   also applies to those observing nālaka paṭipadā
+-   exception: may observe vassa in a
+    -   **vaja** (cow pen)
+        -   anujānāmi, bhikkhave, nāvāyaṃ vassaṃ upagantuṁ (mv)
+    -   **sattha** (caravan)
+    -   **nāvā** (ship/boat)
+-   without suitable dwelling: seek help from lay people to build one
+    -   if no support: build one alone without violating Vinaya
+
+
+
+
+<a id="orgeb68166"></a>
+
+### Pabheda
+
+
+
+-   **Ukkaṭṭha:**
+    -   Must NOT have the base of the tree arranged by another person
+    -   Must dwell there after removing fallen leaves using **his own foot**
+-   **Majjhima:**
+    -   May have the base arranged only by those who happen to visit that location, not others
+-   **Mudu:**
+    -   May call fellow sāmaṇeras or ārāmikas (lay monastery attendants) to:
+        -   Clean the place
+        -   Level the ground
+        -   Spread sand
+        -   Build a wall around the space
+        -   Fix a door if needed
+-   All types: on days many bhikkhus gather or days of great offerings, should not sit there but at a concealed place to conceal the rukkhamūlika status
+
+
+
+
+<a id="org14ecb5a"></a>
+
+### Bheda
+
+
+The practice is broken when:
+
+-   **channe vāsaṃ kappitakkhaṇe**: when entering a roofed dwelling to reside (vsm)
+-   **janitvā channe aruṇaṁ uṭṭhāpitamatte** (AN Bhāṇakas): knowingly allowing dawn to break under a roof
+    -   even having entered to listen to Dhamma
+    -   vsm-ṭ abbhokāsikaṅga: jānitvāti dhammassavanādiatthaṃ channaṃ rukkhamūlaṃ pavisitvā nisinno 'idāni aruṇo uṭṭhahatī'ti jānitvā
+-   Bentara Saddhātissa Thera:
+    -   first teacher: the moment one dwells in roofed dwelling without valid reason
+
+
+
+
+<a id="org5feb48f"></a>
+
+### Ānisaṁsa
+
+
+
+-   **rukkhamūlasenāsanaṃ nissāya pabbajjāti vacanato nissayānurūpapaṭipattisabbhāvo** (Mv): practice in line with the 3rd dependency
+-   **appāni ceva sulabhāni ca tāni ca anavajjānīti  bhagavatā saṃvaṇṇitapaccayatā** (AN, Itv): state of being praise by the Buddha as minimalist, easily obtainable, and blameless
+-   **abhiṇhaṃ tarupaṇṇavikāradassanena aniccasaññāsamuṭṭhāpanatā**: arising of the perception of impermanence through constantly witnessing the momentary destruction (khaṇa bhaṅga) of the changing tree leaves
+-   **senāsanamaccherakammārāmatānaṃ abhāvo**: absence of stinginess regarding dwelling places and attachment to new construction
+-   **devatāhi sahavāsitā**: dwelling in the company of deities
+-   **appicchatādīnaṃ anulomavuttitāti**: the conformity to contentment and other such virtues
+
+
+
+
+<a id="orged7e661"></a>
+
+### Notes
+
+-   At the dawn time, if the tree is "eka kula " then it's ok to keep ticivara anywhere under the tree but if tree is "nana kula" then it should be within hatthapāsa
+
+
+<a id="orge45fc01"></a>
+
+## 10 &#x2013; Abbhokāsikaṅga
+
+
+<a id="org1dda201"></a>
+
+### Attha
+
+-   **Abbhokāsa** = open space (outdoor)
+-   **Abbhokāsanivāsa** = living outside in open space; also called
+    "abbhokāsa"
+-   **Abbhokāsika** = one whose nature is to live outdoors
+-   **Abbhokāsikaṅga** = cetanā behind observing the practice of residing
+    outdoors
+
+
+<a id="org020c753"></a>
+
+### Samādāna
+
+-   Recite either or both:
+    -   *"Channañca rukkhamūlañca paṭikkhipāmi"* &#x2013; I reject both roofed
+        dwellings AND tree bases
+    -   *"Abbhokāsikaṅgaṃ samādiyāmi"* &#x2013; I observe the abbhokāsikaṅga
+-   Both **channa** and **rukkhamūla** must be rejected because the
+    observation of a dhutaṅga is complete only when **all opposing objects**
+    are rejected
+-   "Dhutaṅgassa sabbaso paṭiyogipaṭikkhepena hi samādānaṃ ijjhati, no
+    aññathā"
+
+
+<a id="org7e98e26"></a>
+
+### Permitted Entries (same rules as rukkhamūlikaṅga apply)
+
+-   **Uposatha hall** (or area beneath a tree): may enter to listen to
+    Dhamma or perform uposatha vinayakamma
+    -   If rain starts → must NOT leave until rain stops
+-   **Invited to deliver Dhamma**: may enter roofed dwelling or tree base on
+    uposatha/special days
+-   **Dining hall/aggi sālā**: may enter to perform duties; serve rice to
+    Theras or inquire about their needs
+-   **Teaching or learning Dhamma**: may enter a roofed dwelling
+-   **Improperly stored items**: may take beds, chairs etc. kept improperly
+    outdoors, inside a dwelling
+-   **Carrying seniors' requisites on road**: if rain → may enter roadside
+    hall (directly accessible, no deviation)
+-   If NOT carrying seniors' requisites → must NOT rush; proceed at normal
+    pace; leave after rain stops
+-   Note: wherever abbhokāsika is allowed to go under a roof → also
+    allowed to go to foot of a tree
+
+
+<a id="orgec4bec9"></a>
+
+### Pabheda
+
+-   **Ukkaṭṭha:**
+    -   Must NOT dwell near a **tree, rock, or house**
+        -   bhante: close enough to get its support against the weather
+    -   Must prepare a **cīvara kuṭi** outdoors and reside in it
+    -   **Cīvara kuṭi(kā)** = kuṭi made using robes; also called **makasa
+        kuṭi(kā)** (protection from mosquitos)
+-   **Majjhima:**
+    -   May dwell **near** a tree, rock, or house
+    -   Must NOT **enter** any of those
+-   **Mudu:**
+    -   May use cīvara kuṭi PLUS four additional places:
+        1.  **Acchannamariyādaṃ pabbhāraṃ** &#x2013; rocky overhang/cave where
+            rainwater enters (not fully covered)
+        2.  **Sākhāmaṇḍapo** &#x2013; pavilion that is sparsely/thinly roofed (with
+            gaps)
+        3.  **Pīṭhapaṭo** &#x2013; "khalitthaddha sāṭaka" = cloth made coarse by
+            paste/gum (khali); used as a covering to dwell beneath
+        4.  **Khettarakkhakādīhi chaḍḍitā tatraṭṭhakakuṭikā** &#x2013; immobile kuṭi
+            abandoned by paddy field protectors
+-   notes:
+    -   rukkamula is the preparation of the place
+    -   here distance from other structures
+
+
+<a id="org96923de"></a>
+
+### Bheda
+
+-   Broken when the bhikkhu **enters a roofed dwelling or tree base to
+    reside**
+-   **Aṅguttara Bhāṇaka opinion**: broken simply by **knowingly breaking the
+    dawn** under a roofed dwelling or under a tree
+-   Same interpretation as rukkhamūlikaṅga bheda applies here
+
+
+<a id="org34b6843"></a>
+
+### Ānisaṃsa
+
+1.  **Āvāsapalibodhupacchedo** &#x2013; cuts off the "dwelling obstacle" (āvāsa
+    paḷibodha = expectation/desire for dwelling comfort); even
+    tree-dwelling can create some attachment; open air does not
+2.  **Thinamiddhapanūdanaṃ** &#x2013; eliminates sloth and torpor
+3.  **Worthy of the praise**: "Bhikkhus are residing without housing like
+    deer who behave without attachment" (Sambahula Sutta, Saṃyutta
+    Nikāya)
+4.  **Nissaṅgatā** &#x2013; no attachment toward a dwelling as no dwelling has
+    been willingly grasped with mind
+5.  **Cātuddisatā** &#x2013; ability to visit any region without thinking "there
+    is no dwelling in that direction"
+6.  **Appicchatādīnaṃ anulomavuttitā** &#x2013; conducts oneself in alignment
+    with qualities such as being minimalistic
+
+
+<a id="org7345ef8"></a>
+
+#### sambahulasutta SN-Sagāthāvaggo
+
+<https://epitaka.org/book/S-i?para=2892&line=1>
+
+**Magā viya asaṅgacārino, aniketā viharanti bhikkhavo**
+bhikkhus wander unattached like deer, homeless they dwell
+
+-   magā: deer, wild animal
+
+
+<a id="orgd1dd06b"></a>
+
+## 11 &#x2013; Sosānikaṅga
+
+
+<a id="org2733a8f"></a>
+
+### Attha
+
+-   **Susāna** (cemetery)
+    -   cemetery
+        -   chavānaṁ sayanaṁ chavasayanaṁ susānaṁ (sdnt)
+        -   chavassa sayanaṁ susānaṁ (mgln)
+        -   chavānaṁ sayanaṭṭhānaṁ susānaṁ
+        -   chavasayanaṁ hi susānaṁ (vsm-ṭ)
+            -   chava (corpse) -> ch > s, ava > o > u -> su
+                -   chava + sayana -> su + sāna
+            -   sayana (bed, lying down) -> sana -> sāna
+    -   living in a cemetery
+-   **Susānanivāsa**: living in a cemetery; also called "susāna"
+-   **Sosānika** (susāna + ṇika): one whose sīla is to live in a cemetery
+-   **Sosānikaṅga**: reason (cetanā) for being known as a sosānika
+
+
+<a id="orga8983ff"></a>
+
+#### Susāna
+
+-   at least one corpse
+    -   has been cremated there (vsm)
+    -   includes merely discarded there (vsm-ṭ)
+    -   includes buried
+        -   not all dead bodies are burnt
+        -   āmaka susāna: charnel ground without burning
+-   note: mere designation doesn't make it susāna
+-   even if the area is abandoned for 12 years, it is still a susāna
+
+
+<a id="orgf2807f2"></a>
+
+### Samādāna
+
+-   see
+-   **Na susānaṃ / asusāna**: a dwelling that has NO characteristics of a cemetery
+    -   here, aññattha nakāra: "susānalakkhaṇarahitaṃ vasanaṭṭhānaṃ" (dwelling lacking cemetery characteristics)
+    -   "na" negates susāna, not the followig verb (NOT susānaṁ na paṭikkhipāmi)
+
+
+<a id="org67701ba"></a>
+
+### Vidhāna
+
+-   **Don't**
+    -   build walking paths or pavilions there
+    -   place beds or chairs there
+    -   teach Dhamma making others keep drinking/consuming water in vessels nearby
+    -   hit non-humans with stones, etc. even if they walk making noise at night
+    -   stay without going to the cemetery for even a single day
+        -   **aṅguttara bhāṇaka theras**: suitable to spend the **middle watch of the night** in the cemetery and leave during the **last watch**
+    -   consume food items favoured by non-humans: sesame seed paste, lablab bean rice, meat, fish, milk, oil, jaggery, balls made of sesame flour
+    -   visit houses of lay people:
+        -   body is scented by smoke of burning corpse
+        -   bad spirits follow such scents
+-   **Do**
+    -   inform
+        -   the most senior Thera of the Saṅgha
+        -   the head of the village appointed by the king
+        -   reason: not to be taken as a criminal: they may leave stolen good there and people may think it was the monk
+    -   during walking meditation
+        -   okkhittacakkhu: here, even if in a village, one is allowed (no offense) to look at the burning place (āḷahana) even when not directly facing it to arouse saṃvega
+            -   vsm: caṅkamantena addhakkhikena āḷāhanaṃ olokentena caṅkamitabbaṃ
+    -   commute
+        -   use secondary roads to and from the cemetery to keep sosānika status private
+    -   during daytime:
+        -   get acquainted with all physical objects in the area (anthill, tree, post, etc.) to prevents fright at night
+
+
+<a id="orgd3f83da"></a>
+
+### Pabheda
+
+-   **Ukkaṭṭha:** Must reside in a cemetery with **all 3** characteristics:
+    -   Dead bodies cremated **daily**
+    -   Corpses present **every day**
+    -   People coming to **mourn dead relatives daily**
+-   **Majjhima:** at least 1 of these characteristics
+-   **Mudu:**: any place qualified as cemetery
+
+
+<a id="org42d0727"></a>
+
+### Bheda
+
+residing in a place other than a cemetery
+
+-   AN bhāṇaka theras: a day the cemetery is not visited &#x2013; susānaṃ agatadivase
+    -   pacchimayāme paṭikkamituṃ vaṭṭati: suitable to return (leave the cemetery) on the last watch of night (not broken)
+-   first teacher: broken if one is not at the cemetery at dawn
+
+
+<a id="orgf7e244c"></a>
+
+### Ānisaṃsa
+
+1.  **Maraṇassatipaṭilābho**: gains mindfulness of death (maraṇassati) from frequently seeing dead bodies
+2.  **Appamādavihāritā**: diligent mode of life owing to mindfulness of death
+3.  **Asubhanimittādhigamo**: development of asubha nimitta (sign of foulness) from seeing dead bodies
+4.  **Kāmarāgavinodanaṃ**: elimination of kāma raga (sensual desire) through asubha nimitta
+5.  **Abhiṇhaṃ kāyasabhāvadassanaṃ**: frequent seeing of the reality of the physical body (impurity, foul smell, disgusting nature)
+6.  **Saṃvegabahulatā**:  prevalence of spiritual urgency from seeing true nature of body and cultivating maraṇassati
+7.  **Ārogyamadādippahānaṃ**: eliminates intoxication of health ("I'm healthy") from seeing people who died of illness, old age, and decay
+8.  **Bhayabheravasahanatā**: ability to tolerate slight and intense fears
+9.  **Amanussānaṃ garubhāvanīyatā**: respected by non-humans saying "This is a person who has attained spiritual urgency and strives with wisdom"
+10. **Appicchatādīnaṃ anulomavuttitā**: conducts oneself in alignment with qualities such as being minimalistic
+
+mem aid: cemetery remember one of death -> diligence -> one who is diligent looks for a meditation subject (asubhanimitta) -> one develops it and abandons lust -> one does that frequently -> sense of urgency -> remove health-related māna -> 
+
+
+<a id="org811280a"></a>
+
+### 8 Tāpasā
+
+Aṭṭhavidhā hi tāpasā (sīlakkhandhavagga-aṭṭhakathā)
+
+-   saputtabhariyā: those with wives and children; like Keṇiyajatiḷa
+-   uñchācariyā: renounce wives and children and live by collecting paddy, mung beans, black gram, sesame seeds, and the like from threshing and winnowing places, cooking them, and partaking of them
+-   anaggipakkikā: renounce all the above and take alms of rice from villages and towns, cook it, and partake of it
+-   asāmapākā: renounces all the above and do not cooking for themselves
+-   asmamuṭṭhikā: those living on pounded bark
+-   dantavakkalikā: those living on bark peeled with teeth
+-   pavattaphalabhojanā: those eating fallen fruits
+-   paṇḍupalāsikā: those eating yellow leaves
+
+
+<a id="orgf7b7107"></a>
+
+## 12 &#x2013; Yathāsanthatikaṅga
+
+
+<a id="org53c53e7"></a>
+
+### Attha
+
+
+
+-   **Yathāsanthata**: something that is spread out/laid down; a senāsana allotted by a senāsanagāhāpakabhikkhu or the Saṅgha with the intention "May you receive this"
+    -   vsm-ṭ: yathāsanthataṃ viya yathāsanthataṃ &#x2013; the first assigned dwelling is called yathāsanthata as it is similar to something laid out
+    -   yadevasanthataṁ
+    -   idaṁ tuyhaṁ pāpuṇātīti evaṁ paṭhamaṁ uddiṭṭhasenāsanāssetaṁ adhivacanaṁ
+    -   ādito yathā uddiṭṭhaṁ
+-   **Yathāsanthatika**: one whose nature is to live in the first/assigned senāsana
+-   **Yathāsanthatikaṅga**: cetanā behind observing the practice of residing in the first senāsana received
+
+
+
+
+<a id="orgcddccf2"></a>
+
+### Samādāna
+
+
+
+-   see
+-   **Senāsanaloluppa**: obtaining a senāsana by:
+    -   causing another bhikkhu to vacate his senāsana
+    -   inquiring/inspecting by comparing: "this senāsana is good, this is bad", etc.
+
+
+
+
+<a id="org0dde380"></a>
+
+### Vidhāna
+
+
+
+-   **yaṁ senāsanaṁ gāhitaṁ teneva tuṭṭhabbaṁ**: should be satisfied with whatever the senāsanagāhāpakabhikkhu alots to oneself
+-   **na añño uṭṭhāpetabbo**: must not ask another bhikkhu to vacate a senāsana to obtain a different one
+
+
+
+
+<a id="org8df3a28"></a>
+
+### Pabheda
+
+
+
+-   **Ukkaṭṭha:**
+    -   must not inquire about the assigned senāsana (pattasenāsana) at all regarding:
+        -   dūreti: whether it is too far away (at the very end of the monastery)
+        -   accāsanneti: whether too close to a place where many people gather
+        -   amanussadīghajātikādīhi upaddutanti: whether there is trouble from non-humans or serpents
+        -   uṇhanti vā sītalanti vā: whether the senāsana is cold or warm
+    -   must reside in whatever senāsana is received
+    -   merely **inquiring** = stains the austerity practice
+-   **Majjhima:**
+    -   May **inquire** whether senāsana is far/near, trouble from non-humans/serpents, cold/warm etc.
+    -   Must NOT go and **inspect** the senāsana in a loluppa manner thinking "I will take it if good; if not I won't"
+-   **Mudu:**
+    -   May **inquire** about the senāsana
+    -   May also go and **inspect** it
+    -   If disliked due to discomfort → may obtain a **different senāsana**
+    -   After receiving another senāsana → must NOT have expectations for yet another
+
+
+
+
+<a id="orgcf86b0a"></a>
+
+### Bheda
+
+
+
+-   vsm: senāsanaloluppe uppannamatte dhutaṅgaṃ bhijjati: breaks the moment senāsanaloluppa arises
+    -   loluppa for each type:
+        -   Ukkaṭṭha: merely **inquiring** after the received senāsana
+        -   Majjhima: **going to inspect** the received senāsana
+        -   Mudu: **obtaining another senāsana** while not ill, abandoning the received one
+        -   All: causing another bhikkhu to vacate his senāsana
+-   vsm-ṭ: senāsanaloluppa: asking (pucchanā) and going to look (olokanā)
+-   Bentara Saddhātissa Thera:
+    -   breaks only when requesting a particular senāsana or causing another to vacate
+    -   merely inquiring (ukkaṭṭha) or inspecting (majjhima): practice stained but not broken
+    -   note: requires further examination
+
+
+
+
+<a id="org19fbb93"></a>
+
+### Ānisaṃsa
+
+
+
+1.  **"Yaṃ laddhaṃ tena tuṭṭhabba"nti vuttovādakaraṇaṃ**: follows Tathāgata's advice "One must be happy with what one receives" (see Suvaṇṇahaṃsa Jātaka and Pācittiyapāḷi §793)
+    -   **Yaṃ laddhaṃ tena tuṭṭhabbaṃ, atilobho hi pāpako;
+        Haṃsarājaṃ gahetvāna, suvaṇṇā parihāyatha.**
+        With whatever is obtained, one should be content, for excessive greed is evil;
+        Having seized the king of the mallards, they lost the gold.
+2.  **Sabrahmacārīnaṃ hitesitā**: wishes welfare of fellow sabrahmacārīs by not making them vacate their senāsana; conduct in harmony with **karuṇā vihāra**
+3.  **Hīnapāṇītavikappapariccāgo**: makes no distinction between fine and inferior; conduct accords with **tādi quality**
+4.  **Anurodhavirodhappahānaṃ**: abandons unwholesome tendency of favouring good objects and opposing bad ones; conduct accords with tādi quality
+    -   anurodha: favour through attachment
+    -   virodha: opposition through aversion
+    -   tādino: lābhālābhādīhi ekasadisassa: 'Stable one' means one who is the same in the face of gain and loss
+        -   tādilakkhaṇa
+5.  **Atricchatāya dvārapidhānaṃ**: closes the door to "atricchatā" (craving for various senāsanas in various places); gives it no opportunity
+6.  **Appicchatādīnaṃ anulomavuttitā**: conducts oneself in alignment with qualities such as being minimalistic
+
+
+
+
+<a id="orgca0d853"></a>
+
+## 13 &#x2013; Nesajjikaṅga
+
+
+<a id="org797be93"></a>
+
+### Attha
+
+
+
+-   **Nisajja**:
+    -   sitting down
+    -   sitting place
+-   **Nesajjika**:
+    -   one who lives rejecting the act of lying down
+    -   one whose nature/sīla is to live being seated
+    -   here: one who has rejected lying down and lives being seated as his virtue
+-   **Nesajjikaṅga**: cetanā behind observing the practice of denying oneself the act of lying down
+-   Notes:
+    -   Only the posture of **lying down** is rejected; sitting and walking are not
+    -   Lying down is more conducive to laziness → hence the practice targets it specifically
+    -   Impossible to live by rejecting standing and walking
+
+
+
+
+<a id="orgceeb63a"></a>
+
+### Samādāna
+
+
+
+-   see
+-   **Seyya**: the posture of lying down (iriyāpathalakkhaṇaṃ seyyaṃ)
+-   Rejecting the posture implicitly rejects bed, mattresses, etc
+    -   tappaṭikkhepeneva hi tadatthā mañco bhisī evamādikā seyyā paṭikkhittā eva honti
+
+
+
+
+<a id="orge1fa0e3"></a>
+
+### Vidhāna
+
+
+
+-   **rattiyā tīsu yāmesu ekaṃ yāmaṃ uṭṭhāya caṅkamitabbaṃ**: should rise and walk up and down during one of the three watches of the night
+-   Must not be seated throughout the entire night thinking "I am a nesajjika"
+-   **Iriyāpathesu hi nipajjitumeva na vaṭṭati**: only lying is rejected
+    -   Postures apart from lying and change of posture in general is suitable for meditation
+
+
+
+
+<a id="orgd324f35"></a>
+
+### 6 Objects Used by Nesajjika Bhikkhus
+
+
+
+1.  **Apassena** &#x2013; a plank to lean on
+2.  **Dussa pallatthikā** &#x2013; sitting on floor/low seat with knees bent in 'V' shape; robe tightly wrapped around to prevent falling to sides
+3.  **Āyogapaṭṭa / Āyoga pallatthikā** &#x2013; sitting like dussa pallatthikā but knees **bound to waist** using bandage cloth; since not in Vinaya Piṭaka → included under dussa pallatthikā
+4.  **Bibbohana** &#x2013; pillow
+5.  **Pañcaṅga** &#x2013; chair with **five parts**: four legs + one plank as backrest (some teachers: four sides of frame + backrest plank)
+6.  **Sattaṅga** &#x2013; chair with **seven elements**: four legs + backrest plank + two planks on either side
+
+
+
+
+<a id="orgd506cea"></a>
+
+### Pabheda
+
+
+
+-   **Ukkaṭṭha:**
+    -   none of the 6 objects are appropriate
+        -   neva apassenaṃ, na dussapallatthikā, na āyogapaṭṭo vaṭṭati
+    -   must sit without any support whatsoever
+-   **Majjhima:** may use the first 3 objects only
+    -   imesu tīsu yaṃkiñci vaṭṭati
+-   **Mudu:**
+    -   can use all 6 objects
+    -   Notes:
+        -   do not
+            -   underestimate a mudu nesajjika
+            -   think there is not difference between a mudu nesajjika and a non-nesajjika
+        -   related story: **Miḷābhaya Thera** had a sattaṅga prepared; observed nesajjikaṅga in mild manner; using the sattaṅga attained anāgāmīhood and Parinibbāna
+
+
+
+
+<a id="orgf605759"></a>
+
+### Bheda
+
+
+**Seyyaṃ kappitamatte**: broken the moment one lies down
+
+
+
+<a id="org0e41b7e"></a>
+
+### Ānisaṃsa
+
+
+
+1.  **Upacchedanaṃ of cetaso vinibandha**: cuts off the mental bond (vinibandha) of craving for three kinds of lying-down comfort
+2.  **Sabbakammaṭṭhānānuyogasappāyatā**: possesses suitability for **all meditation subjects** because seated posture is not conducive to laziness or restlessness
+3.  **Pāsādikairiyāpathatā**: having postures that are **pleasing to others**
+4.  **Vīriyārambhānukūlatā**: has suitability to **balance viriya with samādhi** (viriya samatā yojana)
+5.  **Sammāpaṭipattiyā anubrūhanaṃ**: cultivates correct practices due to balancing effort with concentration (viriya samatā)
+
+
+
+
+<a id="org335ed5b"></a>
+
+#### 3 Sukhas and Mental Bond
+
+Nesajjikaṅga is an antidote to 3 sukhas that bind the mind to saṁsāra:
+
+-   **Seyyasukha** (Pleasure of Reclining): Soft beds, couches, or climatic comfort (utusukha). The elders neutralized this by remaining upright
+-   **Passasukha** (Pleasure of Rolling Side to Side): The physical luxury of shifting from right side to left side (**dakkhiṇapassa vāmapassānaṁ**) in bed
+-   **Middhasukha** (Pleasure of Drowsiness): The heavy lethargy that follows overeating (**udarāvadehakaṁ bhuñjitvā**)
+
+They make the mind sluggish like a stall-fed hog (nivāpapuṭṭho mahāvarāho)
+
+cetasovinibandha destroys
+
+-   ātappa (ardor)
+-   sātacca (continuity)
+-   padhāna (striving)
+
+
+<a id="orged16bc2"></a>
+
+### Wrong & Right Purpose
+
+
+Bodily exertion and difficult postures are never undertaken for attakilamathānuyoga, but for āsakakkhaya
+
+
+
+<a id="orgdfe16ac"></a>
+
+### 3 Criteria for Phoṭṭhabba
+
+
+**Phoṭṭhabba**: here, posture, physical exertion, and ascetic endurance
+
+-   **Āsavakkhaya** (Eradication of Taints): The posture must directly support the destruction of mental defilements (sensual desire, existence-clinging, ignorance)
+-   **Viriya-supaggahita** (Arousal of Energy): The exertion must actively dispel thīnamiddha, keeping energetic effort unflagging
+-   **Pacchimā Janatā** (Compassion for Posterity): the practice sets a heroic living model that inspires future disciples to practice earnestly
+
+ 
+
+
+<a id="org3fd8164"></a>
+
+### Nesajjika Mahāsāvakas
+
+
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Venerable Elder</th>
+<th scope="col" class="org-left">Period of Observance</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Ven. Sāriputta</td>
+<td class="org-left">30 Years</td>
+</tr>
+
+<tr>
+<td class="org-left">Ven. Mahā Moggallāna</td>
+<td class="org-left">30 Years</td>
+</tr>
+
+<tr>
+<td class="org-left">Ven. Mahā Kassapa</td>
+<td class="org-left">120 Years</td>
+</tr>
+
+<tr>
+<td class="org-left">Ven. Anuruddha</td>
+<td class="org-left">50 Years</td>
+</tr>
+
+<tr>
+<td class="org-left">Ven. Bhaddiya</td>
+<td class="org-left">30 Years</td>
+</tr>
+
+<tr>
+<td class="org-left">Ven. Soṇa</td>
+<td class="org-left">12 Years</td>
+</tr>
+
+<tr>
+<td class="org-left">Ven. Ānanda</td>
+<td class="org-left">15 Years</td>
+</tr>
+
+<tr>
+<td class="org-left">Ven. Rāhula</td>
+<td class="org-left">12 Years</td>
+</tr>
+
+<tr>
+<td class="org-left">Ven. Bākula</td>
+<td class="org-left">80 Years</td>
+</tr>
+
+<tr>
+<td class="org-left">Ven. Nāḷaka</td>
+<td class="org-left">18 Years (Until Parinibbāna)</td>
+</tr>
+
+<tr>
+<td class="org-left">Ven. Raṭṭhapāla</td>
+<td class="org-left">Sustained practice</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+<a id="org6206200"></a>
+
+### Notes
+
+**Anuruddhagāthā**
+Pañcapaññāsavassāni, yato nesajjiko ahaṃ;
+Pañcavīsativassāni, yato middhaṃ samūhataṃ.
+For fifty-five years, I have been a continuous sitter;
+for twenty-five years, drowsiness has been eradicated.
+
+**pubaratta**: 12-10 pm 
+**aparatta**: 2 am-12 pm
+
+**pubbaṇha**: 6-10 pm
+**majjhaṇha**: 10 pm-2 am
+**aparaṇha**: 2-6 am
+
+**asupanabhāvassa anuyogaṁ**: jagariyānuyoga, only sleeping in the middle watch and practicing the rest of the time
+
+AN Seyyasutta:
+
+-   petaseyyā: uttanā senti
+    -   corpse / hungry ghosts since they mostly lie facing up
+    -   hungry ghosts are so called for having little flesh and blood and are held together by framework of bones
+-   kāmabhogiseyyā: vāmena passena senti
+-   sīhaseyyā:
+    -   dakkhiṇena passena senti
+    -   pāde pādaṁ accadhāya: overlapping one foot on the other
+    -   antarasatthimhi naṅguṭṭhaṃ anupakkhipitvā: tail tucked between the thighs
+    -   checks his lower body upon waking, if in disorder, he is displeased, if not, he is glad
+-   tathāgataseyyā: ānāpāna catutthajjhānaseyyā
+    -   base for his arahattamagga
+
+-   Practical Jāgariyānuyoga
+    -   method 1: not lying down
+        -   1st month: 8 pm-4 am
+        -   2nd month: 10 pm-2 am
+        -   3rd month: always (like nesajjikaṅga)
+
+
+<a id="orgdec31ad"></a>
+
+### Related Passages
+
+**Criterion for Bodily Discipline & Effort**
+"Yaṁ pana phusato Sāriputtatherādīnaṁ viya āsavakkhayo ceva, viriyañca supaggahitaṁ, pacchimā ca janatā diṭṭhānugatiṁ āpādanena anuggahitā hoti, evarūpaṁ phoṭṭhabbaṁ sevitabbaṁ. Sāriputtathero kira tiṁsa vassāni mañce piṭṭhiṁ na pasāresi. Tathā Mahāmoggallānathero." 
+
+**Exemplars of Nesajjikaṅga - The Sitter's Practice**
+"Mahākassapathero vīsavassasataṁ mañce piṭṭhiṁ na pasāresi. Anuruddhathero paññāsa vassāni. Bhaddiyathero tiṁsa vassāni. Soṇathero dvādasa. Ānandathero pannarasa. Rāhulathero dvādasa. Bākulathero asīti vassāni. Nāḷakathero yāvaparinibbānā mañce piṭṭhiṁ na pasāresīti aṭṭhāra savassāni. Raṭṭhapālathero&#x2026;" 
+
+**3 Pleasures & The 4th Mental Bond - Cetasovinibandha**
+"Middhasukhaṁ anuyutto viharati. Yo so, bhikkhave, bhikkhu yāvadatthaṁ udarāvadehakaṁ bhuñjitvā seyyasukhaṁ passasukhaṁ middhasukhaṁ anuyutto viharati, tassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya. Yassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya, evamassāyaṁ catuttho cetosovinibandho asamucchinno hoti."
+
+"Seyyasukhanti mañcapiṭhasukhaṁ, utusukhaṁ vā. Passasukhanti yathā samparivattakaṁ sayantassa dakkhiṇapassa vāmapassānaṁ sukhaṁ hoti, evaṁ uppannasukhaṁ." 
+
+**Commentary on Pasenadi Vatthu - Dangers of Sloth**
+"Tattha middhīti thinamiddhābhibhūto&#x2026; nivāpapuṭṭho mahāvarāho viya ca aññena iriyāpathena yāpetuṁ asakkonto niddāyanasīlo samparivattasāyī, tadā so 'aniccaṁ dukkhaṁ anattā'ti tīṇi lakkhaṇāni manasikātuṁ na sakkoti. Tesaṁ amanasikārā mandapañño punappunaṁ gabbhamupeti, gabbhavāsato na parimuccatīti&#x2026;" 
+
+-   Pts: Etymological Explanation 
+    -   **Jāgariyānuyoganti divasassa tīsu koṭṭhāsesu, rattiyā paṭhamapacchimakoṭṭhāsesu ca jāgaratina niddāyati, samaṇadhammameva ca karotīti jāgaro, jāgarassa bhāvo, kammaṃ vā jāgariyaṃ, jāgariyassa anuyogo jāgaraiyānuyogo. Taṃ jāgaraiyānuyogaṃ.**
+    -   Devotion to wakefulness” means one is awake and not sleeping during the three segments of the day and the first and last segments of the night, practicing only the holy life; thus he is “awake,” the state of being awake or the act of being awake is “wakefulness,” and the exertion of the awake person is “devotion to wakefulness.”
+-   Vibhaṅgapakaraṇa: Canonical Formula 
+    -   **Kathañca bhikkhu pubbarattāpararattaṃ jāgaraiyānuyogamanuyutto hoti? Idha bhikkhu divasaṃ caṅkamena nisajjāya āvaraṇīyehi dhammehi cittaṃ parisodheti, rattiyā paṭhamayāmaṃ caṅkamena nisajjāya āvaraṇīyehi dhammehi cittaṃ parisodheti, rattiyā majjhimayāmaṃ dakkhiṇena passena sīhaseyyaṃ kappeti pāde pādaṃ accādhāya sato sampajāno uṭṭhānasaññaṃ manasikaritvā, rattiyā pacchimayāmaṃ paccuṭṭhāya caṅkamena nisajjāya āvaraṇīyehi dhammehi cittaṃ parisodheti. Evaṃ bhikkhu pubbarattāpararattaṃ jāgariyānuyogamanuyutto.**
+-   Vibhaṅgapakaraṇa-Aṭṭhakathā: Commentarial Explanation 
+    -   Jāgariyānuyoga niddese pubbarattāpararattanti ettha aḍḍharattasaṅkhātāya rattiyā pubbe pubbarattaṃ; iminā paṭhamayāmañceva pacchābhattañca gaṇhāti. Rattiyā pacchā apararattaṃ; iminā pacchimayāmañceva purebhattañca gaṇhāti. Majjhimayāmo panassa bhikkhuno niddākilamathavinodanokāsoti na gahito.
+        -   In the exposition on “the practice of wakefulness”, regarding “the early and later phases of the night” (pubbarattāpararatta): here, “the early phase of the night” (pubbaratta) refers to the part of the night before the middle of the night (known as midnight); by this, he includes both the first watch of the night and the period after the midday meal. And 'the later phase of the night' (apararatta) is the part after the middle of the night; by this, he includes both the last watch of the night and the period before the midday meal. But the middle watch is not included, as it is this bhikkhu's opportunity for dispelling sleepiness and fatigue.
+    -   **Jāgaraiyānuyoganti jāgariyassa asupanabhāvassa anuyogaṃ. Anuyutto hotīti taṃ anuyogasaṅkhātaṃ āsevanaṃ bhāvanaṃ anuyutto hoti sampayutto. Niddese panassa idha bhikkhu divasanti pubbaṇho, majjhanho, sāyanhoti tayopi divasakoṭṭhāsā gahitā. Caṅkamena nisajjāyāti sakalampi divasaṃ iminā iriyāpathadvayeneva viharanto. Cittassa āvaraṇato āvaraṇīyehi dhammehi pañcahipi nīvaraṇehi sabbākusaladhammehi vā cittaṃ parisodheti. Tehi dhammehi visodheti parimoceti. Ṭhānaṃ panettha kiñcāpi na gahitaṃ, caṅkamanisajjāsannissitaṃ pana katvā gahetabbameva. Paṭhamayāmanti sakalasmimpi paṭhamayāme. Majjhimayāmanti rattindivassa chaṭṭhakoṭṭhāsasaṅkhāte majjhimayāme.**
+    -   **Sīhaseyyanti ettha kāmabhogīseyyā, petaseyyā, sīhaseyyā, tathāgataseyyāti catasso seyyā. Tattha “yebhuyyena, bhikkhave, kāmabhogī vāmena passena sentī”ti ayaṃ kāmabhogīseyyā. “Yebhuyyena, bhikkhave, petā uttānā sentī”ti ayaṃ petaseyyā. “Sīho, bhikkhave, migarājā dakkhiṇena passena seyyaṃ kappeti … attamano hotī”ti ayaṃ sīhaseyyā. Tejussadattā hi sīho migarājā dve purimapāde ekasmiṃ ṭhāne dve pacchimapāde ekasmiṃ ṭhāne ṭhapetvā naṅguṭṭhaṃ antarasatthimhi pakkhipitvā purimapādapacchimapādanaṅguṭṭhānaṃ ṭhitokāsaṃ sallakkhetvā dvinnaṃ purimapādānaṃ matthake sīsaṃ ṭhapetvā sayati. Divasampi sayitvā pabujjhamāno na uttasanto pabujjhati, sīsaṃ pana ukkhipitvā purimapādādīnaṃ ṭhitokāsaṃ sallakkheti. Sace kiñci ṭhānaṃ vijahitvā ṭhitaṃ hoti “nayidaṃ tuyhaṃ jātiyā na sūrabhāvassa anurūpa”nti anattamano hutvā tattheva sayati, na gocarāya pakkamati. Avijahitvā ṭhite pana “tuyhaṃ jātiyā ca sūrabhāvassa ca anurūpamida”nti haṭṭhatuṭṭho uṭṭhāya sīhavijambhitaṃ vijambhitvā kesarabhāraṃ vidhunitvā tikkhattuṃ sīhanādaṃ naditvā gocarāya pakkamati.**
+    -   **Tathāgataseyyāti: seti abyāvaṭabhāvena pavattati etthāti seyyā, catutthajjhānameva seyyā. Kiṃ pana taṃ catutthajjhānanti? Ānāpānacatutthajjhānaṃ. Tattha hi ṭhatvā vipassanaṃ vaḍḍhetvā bhagavā anukkamena aggamaggaṃ adhigato tathāgato jātoti keci, tayidaṃ padaṭṭhānaṃ nāma na seyyā. Apare pana “catutthajjhānasamanantarā bhagavā parinibbāyī”ti vuttapadaṃ gahetvā “lokiyacatutthajjhānasamāpatti tathāgataseyyā”ti vadanti. Tathā sati parinibbānakālikā tathāgataseyyāti āpajjati, na ca bhagavā catutthajjhānaṃ samāpajjanabahulo vihāsi, aggaphalajjhānaṃ panettha “catutthajjhāna”nti adhippetaṃ. Tattha yathā sattānaṃ niddupagamanalakkhaṇā seyyā bhavaṅgacittavāravasena hoti, tañca tesaṃ paṭhamajātisamanvayaṃ yebhuyyavuttikaṃ, evaṃ bhagavato ariyajātisamanvayaṃ yebhuyyavuttikaṃ aggaphalabhūtaṃ catutthajjhānaṃ “tathāgataseyyā”ti veditabbaṃ.**
+    -   **Pāde pādanti dakkhiṇapāde vāmapādaṃ. Accādhāyāti atiādhāya īsakaṃ atikkamma ṭhapetvā. Gopphakena hi gopphake jāṇunā vā jāṇumhi saṅghaṭṭiyamāne abhiṇhaṃ vedanā uppajjati, cittaṃ ekaggaṃ na hoti, seyyā aphāsukā hoti. Yathā pana na saṅghaṭṭeti, evaṃ atikkamma ṭhapite vedanā nuppajjati, cittaṃ ekaggaṃ hoti, seyyā phāsukā hoti. Tena vuttaṃ “pāde pādaṃ accādhāyā”ti. Sato sampajānoti satiyā ceva sampajānapaññāya ca samannāgato hutvā. Iminā supariggāhakaṃ satisampajaññaṃ kathitaṃ. Uṭṭhānasaññaṃ manasikaritvāti asukavelāya nāma uṭṭhahissāmīti evaṃ uṭṭhānavelāparicchedakaṃ uṭṭhānasaññaṃ citte upetvā. Evaṃ katvā nipanno hi yathāparicchinnakāleyeva uṭṭhātuṃ yutto.**
+
+Introduction 
+Jāgaraiyānuyoga is a foundational ascetic discipline in Theravāda Buddhism concerned with the deliberate cultivation of wakefulness, mindfulness, and mental purity. It describes how a spiritual practitioner (bhikkhu) structures the day and night to guard against sleepiness, abandon unwholesome states (akusaladhammā), and sustain continuous practice through walking, sitting, mindful rest, and renewed effort. This document presents a concise study of Jāgaraiyānuyoga by drawing together its etymological explanation from the Paṭisambhidāmaggatṭhakathā, its canonical formulation in the Vibhaṅgapakaraṇa, and the commentarial details that clarify its practical application. The sections that follow move from definition and textual basis to the division of daily practice, the classification of sleep postures, and the disciplined mechanics of the Lion’s Posture (Sīhaseyyā). 
+
+1.  Etymological & Etiquette Definition (Paṭisambhidāmaggatṭhakathā)
+
+• Meaning of Jāgara: One who remains awake throughout the three parts of the day and 
+the first/last portions of the night, choosing not to sleep, but instead actively practicing 
+recluse-ship (samaṇadhamma). 
+• Derivation: 
+Jāgara → Jāgariya (state or action of wakefulness)
+→Jāgaraiyānuyoga (devotion to wakefulness) 
+• Application (Anuyutta): Refers to repeated practice, habituation (āsevanā), and 
+dynamic application (bhāvanā) of non-sleeping mental presence. 
+
+1.  The Canonical Formula (Vibhaṅgapakaraṇa)
+
+"How does a monk remain devoted to wakefulness during the former and latter parts of the 
+night? Here, a monk purifies his mind from obstructive mental states by walking and sitting 
+during the day. During the first watch of the night, he purifies his mind by walking and sitting. 
+During the middle watch of the night, he lies down on his right side in the Lion’s Posture, 
+placing foot over foot, mindful, fully aware, and having fixed the intention of rising. During the 
+last watch of the night, having risen, he purifies his mind from obstructive mental states by 
+walking and sitting." 
+
+1.  Division of Time and Practice (Vibhaṅgapakaraṇa-Aṭṭhakathā)
+
+The commentary divides the 24-hour cycle into distinct periods, prescribing specific activities 
+for each: 
+Time Period 
+Specific 
+Division 
+Activity / Method 
+Daytime 
+(Divasa) 
+Morning 
+(pubbaṇha), 
+Noon 
+(majjhanha), 
+Afternoon 
+(sāyanha) 
+Purpose 
+Continuous walking 
+meditation 
+(caṅkama) and 
+sitting meditation 
+(nisajjā). 
+First Watch 
+(Paṭhamayāma) 
+Early Night 
+(6:00 PM – 
+10:00 PM) 
+Cleansing the mind of the 
+5 hindrances (pañca
+nīvaraṇā). 
+Walking and sitting 
+meditation. 
+Middle Watch 
+(Majjhimayāma) 
+Midnight 
+(10:00 PM – 
+2:00 AM) 
+Purification from all 
+unwholesome states 
+(sabbākusaladhammā). 
+Rest 
+in Sīhaseyyā (Lion's 
+Posture). 
+Relief of physical fatigue 
+(niddākilamathavinodana). 
+Time Period 
+Specific 
+Division 
+Activity / Method 
+Last Watch 
+(Pacchimayāma) 
+Late Night / 
+Pre-Dawn 
+(2:00 AM – 
+6:00 AM) 
+Purpose 
+Rising up 
+(paccuṭṭhāya) to 
+walk and sit. 
+Resuming active mental 
+purification. 
+Note on Standing (Ṭhāna): Although standing is not explicitly listed alongside walking and 
+sitting, the commentary clarifies that it is implicitly included as part of these postures. 
+
+1.  Classification of Sleep Postures (Seyyā)
+
+The commentary contrasts four ways beings lie down: 
+
+1.  Kāmabhogīseyyā (Sensualist Posture): Lying on the left side, typical of those
+
+immersed in sense pleasures. 
+
+1.  Petaseyyā (Preta Posture): Lying flat on the back (supine). Due to extreme emaciation
+
+(lack of flesh and blood), ghost-beings cannot bear pressure on their sides. 
+
+1.  Sīhaseyyā (Lion's Posture): Lying on the right side with complete control, presence,
+
+and fiery energy (tejusada). This is the prescribed posture for monastic vigilance. 
+
+1.  Tathāgataseyyā (Tathāgata Posture): Resting while remaining absorbed in the Fourth
+
+Jāna (catutthajjhāna). 
+
+1.  “The Fourth Jhāna itself is the resting posture (or sleep). But what is that Fourth
+
+Jhāna? Some say it is the Ānāpāna Fourth Jhāna (Fourth Jhāna based on 
+mindfulness of breathing), for standing upon that and developing insight (vipassanā), 
+the Blessed One progressively attained the highest path (aggamagga—Arahantship) 
+and became a Tathāgata. However, this Ānāpāna Fourth Jhāna is called the 
+proximate cause (padaṭṭhāna), not the resting posture itself (seyyā). 
+
+1.  Others, taking the text that says: ‘Immediately after the Fourth Jhāna, the Blessed
+
+One passed into Parinibbāna’, claim that ‘The attainment of mundane Fourth Jhāna 
+is the Tathāgata-resting-posture (Tathāgataseyyā)’. If that were so, it would imply 
+that the Tathāgata-resting-posture occurs only at the time of Parinibbāna; moreover, 
+the Blessed One did not mostly abide in the mundane Fourth Jhāna. 
+
+1.  Therefore, here in this context, the highest fruition-jhāna (aggaphala-jhāna—the
+
+Fruition Attainment of Arahantship as Enlightenment) is intended by the term ‘Fourth 
+Jhāna’. 
+
+1.  Just as for ordinary beings, sleep characterized by falling asleep occurs by way of the
+
+process of the life-continuum consciousness (bhavaṅga-citta-vāra), which is mostly 
+their habit bound up with their initial birth (ordinary life); even so, for the Blessed 
+One, the Fourth Jhāna—which is the highest fruition (aggaphala) belonging to the 
+Noble Birth (ariyajāti) and is his regular abiding state—should be understood as 
+the ‘Tathāgata-resting-posture’ (Tathāgataseyyā).” 
+
+1.  Mechanics of the Lion's Posture (Sīhaseyyā)
+
+The Lion Metaphor (Sīho Migarājā) 
+The commentary draws an analogy from the king of beasts: 
+• Posture: The lion rests on its right side, places its front paws together and back paws 
+together, tucks its tail between its thighs, and lays its head on its front paws. 
+• Awareness upon Waking: Upon waking, the lion does not startle. It checks if its limbs 
+or tail shifted. 
+o If shifted, it chastises itself ("This is unworthy of your noble lineage and 
+courage!"), refuses to hunt, and remains lying down out of disappointment. 
+o If unshifted, it approves ("This is worthy of your lineage and courage!"), shakes 
+its mane, roars three times, and goes forth proudly. 
+• Monastic Parallel: A monk adopting the Lion's Posture maintains dignity, discipline, 
+and unshaken posture throughout rest. 
+Physical Technique & Mental Setup 
+• Foot Positioning (Paāde pādaṃ accādhāya): The left foot is placed slightly past the 
+right foot (īsakaṃ atikkammā). Direct contact of ankles (gopphaka) or knees (jāṇu) 
+causes pressure, pain, and loss of concentration (ekagga). Offsetting them ensures 
+painless, comfortable, and focused rest. 
+• Mindfulness & Clear Comprehension (Sato Sampajāno): Sleep is entered with intact 
+mindfulness (sati) and wisdom (sampajañña-paññā). 
+• Perception of Rising (Uṭṭhānasaññaṃ manasikaritvā): Setting a firm mental resolve 
+on the exact time to wake up (e.g., "I will wake up at 2:00 AM"). This mental clock 
+enables the practitioner to awaken spontaneously at the pre-determined time. 
+
+
+<a id="org14b77f3"></a>
+
+### Vīriya
+
+-   cetanā vs vīriya
+-   vīriya
+    -   related terms
+        -   chandaṁ janeti vāyamati vīriyaṁ ārabhati cittaṁ paggaṇhāti padahati
+    -   vīriyiddhipāda
+    -   paggahaṇalakkhaṇa
+    -   ussāhanalakkhaṇa
+    -   similes:
+        -   like props holding a house keeping it from falling
+    -   related stories
+        -   janakajātaka
+        -   V. Soṇa: foremost in Viriya
+    -   2 types
+        -   kāyikavīriya: kāyaviññatti, vāyodhātu
+        -   cetasikavīriya: cetasika
+    -   3 levels
+        -   initiative
+        -   lauching
+        -   persistance
+    -   4 kinds
+        -   remove arisen akusala
+        -   keep away unarisen akusala
+        -   give rise to unarisen kusala
+        -   strengthen arisen kusala
+    -   2 kinds
+        -   remove akusala
+        -   develop kusala
+    -   4 acc. to jāti
+        -   akusalavīriya
+        -   kusalavīriya
+        -   vipākavīriya
+        -   kiriyavīriya
+    -   4 acc. to bhūmi
+        -   kāmāvacaravīriya
+        -   rūpāvacaravīriya
+        -   arūpāvacaravīriya
+        -   lokuttaravīriya
+    -   categories
+        -   indriya
+        -   bala
+        -   iddhipāda
+        -   bojjhaṅga
+        -   maggaṅga
+
+**13. Katamaṃ tasmiṃ samaye vīriyindriyaṃ hoti?**
+**Yo tasmiṃ samaye cetasiko vīriyārambho nikkamo parakkamo uyyāmo vāyāmo ussāho ussoḷhī thāmo dhiti asithilaparakkamatā anikkhittachandatā anikkhittadhuratā dhurasampaggāho vīriyaṃ vīriyindriyaṃ vīriyabalaṃ sammāvāyāmo – idaṃ tasmiṃ samaye vīriyindriyaṃ hoti.**
+
+**Word by word breakdown:**
+
+-   **vīriyārambho** = arousing of energy
+-   **nikkamo** = exertion
+-   **parakkamo** = striving
+-   **uyyāmo** = endeavor
+-   **vāyāmo** = effort
+-   **ussāho** = initiative
+-   **ussoḷhī** = vigor
+-   **thāmo** = strength
+-   **dhiti** = persistence
+-   **asithilaparakkamatā** = unfaltering effort
+-   **anikkhittachandatā** = not laying down desire
+-   **anikkhittadhuratā** = not laying down the burden
+-   **dhurasampaggāho** = taking up the burden
+-   **vīriyabalaṃ** = power of energy
+-   **sammāvāyāmo** = Right Effort
+
+This is from the <span class="underline">Dhammasaṅgaṇī</span> / <span class="underline">Abhidhamma</span> definition of **Vīriyindriya** = Faculty of Energy.
+
+apica ekādasa dhammā vīriyasambojjhaṅgassa uppādāya saṃvattanti apāyabhayapaccavekkhaṇatā ānisaṃsadassāvitā gamanavīthipaccavekkhaṇatā piṇḍapātāpacāyanatā dāyajjamahattapaccavekkhaṇatā satthumahattapaccavekkhaṇatā jātimahattapaccavekkhaṇatā sabrahmacārimahattapaccavekkhaṇatā kusītapuggalaparivajjanatā āraddhavīriyapuggalasevanatā tadadhimuttatāti. Mahvvg.Aṭk.378
+
+Apica cha dhammā thinamiddhassa pahānāya saṃvattanti – atibhojane nimittaggāho, iriyāpathasamparivattanatā, ālokasaññāmanasikāro, abbhokāsavāso, kalyāṇamittatā, sappāyakathāti.
+Furthermore, six qualities conduce to the abandonment of sloth and torpor: grasping the sign in food that is too heavy, changing postures, attending to the perception of light, living in the open air, good friendship, and relevant discussion.
+
+Sv-ii vri p333
+
+
+<a id="orga7a4bf5"></a>
+
+### Adhiṭṭhāna
+
+-   pāramī, but doesn't appear in bojjhaṅgas
+-   dabbattha
+    -   bhante:
+        -   more than adhimokkha
+        -   entire kusalacittuppāda
+-   kusala, akusala, abyākata
+-   notes:
+    -   khanti: also multiple qualities (tbc)
+    -   amnesty
+
+
+<a id="orgae03568"></a>
+
+### TODO Tika
+
+3.Seyyanti iriyāpathalakkhaṇaṃ seyyaṃ.36. ‘Lying down’ (seyyaṃ) refers to lying down as a characteristic of posture.Tappaṭikkhepeneva hi tadatthā ‘‘ mañco bhisī ’’ ti evamādikā (cūḷava.321,322) seyyā paṭikkhittā eva honti.For it is precisely by rejecting this posture that beds, cushions, and so on, which have that lying down as their purpose, are rejected.‘‘ Nesajjiko ’’ ti ca sayanaṃ paṭikkhipitvā nisajjāya eva viharituṃ sīlamassāti imassa atthassa idha adhippetattā seyyā evettha paṭiyoginī, na itare tathā aniṭṭhattā, asambhavato ca.Because the meaning meant here is that the ‘sitter’ is one who has the habit of dwelling only by sitting, having rejected lying down, the posture of lying down is the only opposing factor here; the others are not, as there is no intention for them, and it is impossible to use them while sitting.Kosajjapakkhiyo hi iriyāpatho idha paṭiyogibhāvena icchito, na itare.For the posture connected with sloth is what is intended here as the opposing factor, not the others.Na ca sakkā ṭhānagamanehi vinā nisajjāya eva yāpetuṃ tathā pavattetunti seyyāvettha paṭiyoginī.And it is not possible to subsist only by sitting without standing and walking, so the posture of lying down is the only opposing factor here.Tenāha ‘‘ tena panā ’’tiādi.Therefore, he said ‘Regarding that, then…’ and so on.Caṅkamitabbaṃ na ‘‘ nesajjiko ahan ’’ ti sabbarattiṃ nisīditabbaṃ.One should walk up and down, not sit for the whole night thinking, ‘I am a sitter.’Iriyāpathantarānuggahito hi kāyo manasikārakkhamo hoti.For the body, supported by another posture, is capable of mental focus.Cattāro pādā, piṭṭhiapassayo cāti imehi pañcahi aṅgehi pañcaṅgo.A five-limbed chair is one with these five factors: four legs and a support for the back.Translation noteCatūhi aṭṭanīhi, piṭṭhiapassayena ca pañcaṅgoti apare.Others say it is five-limbed with four legs and a support for the back.Ubhosu passesu piṭṭhipasse ca yathāsukhaṃ apassāya viharato nesajjikassa ‘‘ anesajjikato ko viseso ’’ ti gāhaṃ nivāretuṃ abhayatthero nidassito ‘‘ thero anāgāmī hutvā parinibbāyī ’’ti.To prevent someone from taking an item by assuming that a sitter who dwells leaning comfortably on both sides and the back of a chair has ‘what difference is there from a non-sitter?’, the Elder Abhaya is cited, who ‘became a non-returner and attained final Nibbāna.’Upacchedīyati etenāti upacchedananti vinibandhupacchedassa sādhakatamabhāvo daṭṭhabbo.‘Breach’ (upacchedanaṃ) is what is cut off by this; it should be seen as the quality of being most effective for the severing of the mental shackle.Sabbakammaṭṭhānānuyogasappāyatā alīnānuddhaccapakkhikattā nisajjāya.‘Being suitable for devotion to any meditation subject’ is due to the sitter’s practice not being on the side of torpor or agitation.Tato eva pāsādikairiyāpathatā.For that very reason, there is ‘having an inspiring deportment.’Vīriyārambhānukūlatā vīriyasamatāyojanassa anucchavikatā.‘Being favorable to the arousal of energy’ is the suitability for joining with the balance of energy.Tato eva sammāpaṭipattiyā anubrūhanatā.For that very reason, there is ‘fostering the right practice.’Paṇidhāyāti ṭhapetvā.‘Having sat’ means having placed the body.Tanunti uparimakāyaṃ.‘Body’ means the upper body.Vikampetīti cāleti, icchāvighātaṃ karotīti adhippāyo.‘Makes tremble’ means shakes; the intention is that he destroys Māra's desire.Vatanti dhutaṅgaṃ.‘Practice’ (vatan) refers to the ascetic practice.Iti nesajjikaṅgakathāvaṇṇanā.Thus ends the explanation of the discourse on the sitter’s practice.
+
+
+<a id="org992bf7a"></a>
+
+## Pakiṇṇaka-kathā
+
+
+<a id="org676099f"></a>
+
+### Dhutadhammas &#x2013; Named List
+
+The following are the **dhutadhammas** (qualities that shake off impurities):
+
+1.  Appicchatā &#x2013; having few wishes
+2.  Santuṭṭhitā &#x2013; contentment
+3.  Sallekha &#x2013; eradication of impurities
+4.  Paviveka &#x2013; seclusion
+5.  Apacaya &#x2013; non-accumulation of impurities
+6.  Viriyārambha &#x2013; initiation of effort
+7.  Subharatā &#x2013; being easily nourished
+8.  Appakiccatā &#x2013; having minimal duties
+9.  Sallahukavutti &#x2013; light way of living
+
+
+<a id="org36e1584"></a>
+
+### All 13 Dhutaṅgas
+
+1.  Paṃsukūlikaṅga
+2.  Tecīvarikaṅga
+3.  Piṇḍapātikaṅga
+4.  Sapadānacārikaṅga
+5.  Ekāsanikaṅga
+6.  Pattapiṇḍikaṅga
+7.  Khalupacchābhattikaṅga
+8.  Āraññikaṅga
+9.  Rukkhamūlikaṅga
+10. Abbhokāsikaṅga
+11. Sosānikaṅga
+12. Yathāsanthatikaṅga
+13. Nesajjikaṅga
+
+
+<a id="org6bbf354"></a>
+
+### Samāsa &#x2013; Classifications
+
+The 13 dhutaṅgas are classified into **three groups** according to the
+requisite (paccaya) they relate to:
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Group</th>
+<th scope="col" class="org-left">Dhutaṅgas</th>
+<th scope="col" class="org-left">Relates to</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left"><b>Cīvara</b> (Robe)</td>
+<td class="org-left">Paṃsukūlikaṅga, Tecīvarikaṅga</td>
+<td class="org-left">Robe requisite</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Piṇḍapāta</b> (Food)</td>
+<td class="org-left">Piṇḍapātikaṅga, Sapadānacārikaṅga, Ekāsanikaṅga, Pattapiṇḍikaṅga, Khalupacchābhattikaṅga</td>
+<td class="org-left">Food requisite</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Senāsana</b> (Dwelling)</td>
+<td class="org-left">Āraññikaṅga, Rukkhamūlikaṅga, Abbhokāsikaṅga, Sosānikaṅga, Yathāsanthatikaṅga, Nesajjikaṅga</td>
+<td class="org-left">Dwelling/posture requisite</td>
+</tr>
+</tbody>
+</table>
+
+
+<a id="org4ff7db8"></a>
+
+### Sīsaṅga and Asambhinnaṅga
+
+-   **Sīsaṅga** (leading/head practice) = a dhutaṅga that, when observed, automatically includes another dhutaṅga within it
+    -   e.g., **Abbhokāsikaṅga** is a sīsaṅga because it includes rukkhamūlikaṅga within it (one who rejects both roofed dwelling AND tree base has automatically also rejected a roofed dwelling alone)
+    -   observing abbhokāsikaṅga = observing rukkhamūlikaṅga as well
+    -   3 sapadānacārikaṅga, abbhokāsikaṅga, ekāsanikaṅga
+-   **Asambhinnaṅga** (non-combined/independent practice) = a dhutaṅga that stands on its own and is not included within another
+    -   e.g., **Rukkhamūlikaṅga** is asambhinnaṅga because it can be observed independently without being included in another dhutaṅga
+    -   one who observes only rukkhamūlikaṅga has NOT observed abbhokāsikaṅga
+    -   5: paṁsukūlika ,tecivarikaga, arannikanga, sosanikanga, nesajjikanga
+
+
+<a id="orgedfa6bb"></a>
+
+### Four Paṭisaṃyuttāni (Classification According to Relation)
+
+1.  **Cīvarapaṭisaṃyutta** (related to robes): paṃsukūlikaṅga, tecīvarikaṅga
+2.  **Piṇḍapātapaṭisaṃyutta** (related to food/alms): piṇḍapātikaṅga, sapadānacārikaṅga, ekāsanikaṅga, pattapiṇḍikaṅga, khalupacchābhattikaṅga
+3.  **Senāsanapaṭisaṃyutta** (related to dwelling): āraññikaṅga, rukkhamūlikaṅga, abbhokāsikaṅga, sosānikaṅga, yathāsanthatikaṅga
+4.  **Vīriyapaṭisaṃyutta** (related to effort/energy): nesajjikaṅga
+
+
+<a id="orgebc2709"></a>
+
+### Vyāsa &#x2013; Expansion of 13 Dhutaṅgas
+
+The 13 dhutaṅgas expand into **more detailed practices** when studied individually under the 11 topics:
+
+1.  Attha (word meaning)
+2.  Lakkhaṇādi (characteristics etc.)
+3.  Samādāna (how to observe)
+4.  Vidhāna (how to uphold/perfect)
+5.  Pabheda (types: ukkaṭṭha/majjhima/mudu)
+6.  Bheda (how it breaks)
+7.  Ānisaṃsa (benefits)
+8.  Kusalattika (triad of kusala)
+9.  Dhutādivibhāga (five sections)
+10. Samāsa (brief/grouped study)
+11. Byāsa (detailed study)
+
+
+<a id="org58c5a20"></a>
+
+### Dhutaṅgas According to Five Monastic Categories
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-right" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-right">#</th>
+<th scope="col" class="org-left">Dhutaṅga</th>
+<th scope="col" class="org-left">Bhikkhu</th>
+<th scope="col" class="org-left">Bhikkhunī</th>
+<th scope="col" class="org-left">Sikkhamānā</th>
+<th scope="col" class="org-left">Sāmaṇera</th>
+<th scope="col" class="org-left">Sāmaṇerī</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-right">1</td>
+<td class="org-left">Paṃsukūlikaṅga</td>
+<td class="org-left">✓</td>
+<td class="org-left">✓</td>
+<td class="org-left">✓</td>
+<td class="org-left">✓</td>
+<td class="org-left">✓</td>
+</tr>
+
+<tr>
+<td class="org-right">2</td>
+<td class="org-left">Tecīvarikaṅga</td>
+<td class="org-left">✓</td>
+<td class="org-left">✓</td>
+<td class="org-left">✗</td>
+<td class="org-left">✗</td>
+<td class="org-left">✗</td>
+</tr>
+
+<tr>
+<td class="org-right">3</td>
+<td class="org-left">Piṇḍapātikaṅga</td>
+<td class="org-left">✓</td>
+<td class="org-left">✓</td>
+<td class="org-left">✓</td>
+<td class="org-left">✓</td>
+<td class="org-left">✓</td>
+</tr>
+
+<tr>
+<td class="org-right">4</td>
+<td class="org-left">Sapadānacārikaṅga</td>
+<td class="org-left">✓</td>
+<td class="org-left">✓</td>
+<td class="org-left">✓</td>
+<td class="org-left">✓</td>
+<td class="org-left">✓</td>
+</tr>
+
+<tr>
+<td class="org-right">5</td>
+<td class="org-left">Ekāsanikaṅga</td>
+<td class="org-left">✓</td>
+<td class="org-left">✓</td>
+<td class="org-left">✓</td>
+<td class="org-left">✓</td>
+<td class="org-left">✓</td>
+</tr>
+
+<tr>
+<td class="org-right">6</td>
+<td class="org-left">Pattapiṇḍikaṅga</td>
+<td class="org-left">✓</td>
+<td class="org-left">✓</td>
+<td class="org-left">✓</td>
+<td class="org-left">✓</td>
+<td class="org-left">✓</td>
+</tr>
+
+<tr>
+<td class="org-right">7</td>
+<td class="org-left">Khalupacchābhattikaṅga</td>
+<td class="org-left">✓</td>
+<td class="org-left">✓</td>
+<td class="org-left">✓</td>
+<td class="org-left">✓</td>
+<td class="org-left">✓</td>
+</tr>
+
+<tr>
+<td class="org-right">8</td>
+<td class="org-left">Āraññikaṅga</td>
+<td class="org-left">✓</td>
+<td class="org-left">✗</td>
+<td class="org-left">✗</td>
+<td class="org-left">✓</td>
+<td class="org-left">✗</td>
+</tr>
+
+<tr>
+<td class="org-right">9</td>
+<td class="org-left">Rukkhamūlikaṅga</td>
+<td class="org-left">✓</td>
+<td class="org-left">✗</td>
+<td class="org-left">✗</td>
+<td class="org-left">✓</td>
+<td class="org-left">✗</td>
+</tr>
+
+<tr>
+<td class="org-right">10</td>
+<td class="org-left">Abbhokāsikaṅga</td>
+<td class="org-left">✓</td>
+<td class="org-left">✗</td>
+<td class="org-left">✗</td>
+<td class="org-left">✓</td>
+<td class="org-left">✗</td>
+</tr>
+
+<tr>
+<td class="org-right">11</td>
+<td class="org-left">Sosānikaṅga</td>
+<td class="org-left">✓</td>
+<td class="org-left">✗</td>
+<td class="org-left">✗</td>
+<td class="org-left">✓</td>
+<td class="org-left">✗</td>
+</tr>
+
+<tr>
+<td class="org-right">12</td>
+<td class="org-left">Yathāsanthatikaṅga</td>
+<td class="org-left">✓</td>
+<td class="org-left">✓</td>
+<td class="org-left">✓</td>
+<td class="org-left">✓</td>
+<td class="org-left">✓</td>
+</tr>
+
+<tr>
+<td class="org-right">13</td>
+<td class="org-left">Nesajjikaṅga</td>
+<td class="org-left">✓</td>
+<td class="org-left">✓</td>
+<td class="org-left">✓</td>
+<td class="org-left">✓</td>
+<td class="org-left">✓</td>
+</tr>
+
+<tr>
+<td class="org-right">Total</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">13</td>
+<td class="org-left">9</td>
+<td class="org-left">8</td>
+<td class="org-left">12</td>
+<td class="org-left">8</td>
+</tr>
+</tbody>
+</table>
+
+
+<a id="explanation-of-the-five-categories"></a>
+
+### Explanation of the Five Categories
+
+1.  **Bhikkhu** = fully ordained male monk; has received upasampadā;
+    subject to all Vinaya rules
+2.  **Bhikkhunī** = fully ordained female nun; has received upasampadā
+    through dual Saṅgha ordination
+3.  **Sikkhamānā** = female trainee; a sāmaṇerī who is undergoing 2-year
+    training in 6 precepts before full ordination as bhikkhunī
+4.  **Sāmaṇera** = male novice monk; has received pabbajjā; observes 10
+    precepts; not yet fully ordained
+5.  **Sāmaṇerī** = female novice nun; has received pabbajjā; observes 10
+    precepts; not yet fully ordained
+
+
+<a id="reason-why-five-dhutaṅgas-are-not-relevant-to-bhikkhunī"></a>
+
+### Reason Why Five Dhutaṅgas Are Not Relevant to Bhikkhunī
+
+Five dhutaṅgas are **not applicable to bhikkhunīs** (and sikkhamānās and
+sāmaṇerīs):
+
+-   Tecīvarikaṅga, Āraññikaṅga, Rukkhamūlikaṅga, Abbhokāsikaṅga,
+    Sosānikaṅga
+
+**Reasons:**
+
+-   **Tecīvarikaṅga**: Bhikkhunīs are required by Vinaya to wear **five
+    robes** (pañca cīvara), not three; the three-robe rule does not apply
+    to them; therefore this practice is impossible for bhikkhunīs
+-   **Āraññikaṅga, Rukkhamūlikaṅga, Abbhokāsikaṅga, Sosānikaṅga**: These
+    four involve dwelling in **remote, isolated, or dangerous places**
+    (forest, tree roots, open air, cemetery)
+    -   The **Vinaya prohibits bhikkhunīs** from residing alone in isolated
+        places for **safety reasons** (protection from physical danger,
+        assault etc.)
+    -   Bhikkhunīs must reside **near a bhikkhu community**
+    -   Therefore these four dwelling-related practices are **incompatible
+        with bhikkhunī Vinaya rules**
+
+
+<a id="to-whom-tecīvarikaṅga-is-allowable-and-not"></a>
+
+### To Whom Tecīvarikaṅga Is Allowable and Not
+
+**Allowable (can observe tecīvarikaṅga):**
+
+-   **Bhikkhus only**
+-   Because only bhikkhus are prescribed three robes (ticīvara) as their
+    standard robe requisite under the Vinaya
+
+**NOT allowable:**
+
+-   **Bhikkhunīs**: prescribed five robes under Vinaya (saṅghāṭi,
+    uttarāsaṅga, antaravāsaka + two additional robes); cannot restrict to
+    three
+-   **Sikkhamānās**: follow bhikkhunī robe rules; five robes apply
+-   **Sāmaṇeras**: although they follow simpler rules, the three-robe
+    practice as a formal dhutaṅga with its specific samādāna and vidhāna
+    is a practice designated specifically for bhikkhus
+-   **Sāmaṇerīs**: follow female novice rules; five-robe standard applies
+
+**Key reason**: The tecīvarikaṅga is directly linked to the bhikkhu's
+**second nissaya** ("monkhood depends on paṃsukūla robes") and the
+standard three-robe requisite of bhikkhu Vinaya; since other categories
+have different robe requirements, this practice cannot be meaningfully
+undertaken by them
+
+
+<a id="orgf41faba"></a>
+
+### Sevitabba / Asevitabba
+
+-   meditation grows: practice it
+-   meditation remains the same: practice it out of compassion for the next generation
+-   meditation drops: stop it
+
+
+<a id="org879a4ee"></a>
+
+## Other Practices
+
+
+<a id="org70e4097"></a>
+
+### Moneyya Paṭipadā
+
+aka Nālakapaṭipadā
+
+
+<a id="orged09597"></a>
+
+#### SN Nālakasutta
+
+-   **Hermit Asita (Kaṇhasiri)**: dreadlocked ascetic
+    -   used to spend the day in Tāvatiṁsa
+    -   saw Tāvatiṁsa devas celebrating exceedingly and inquired about it
+    -   learned that the bodhisatta had been born at Lumbinī among the Sakyans and would become a Buddha and turn the Dhamma-wheel
+    -   rushed to Suddhodana’s palace wishing to see the prince
+    -   saw the infant bodhisatta, radiant and beautiful
+    -   recognized him as the supreme being among humans
+    -   received the prince and examined him according to the marks
+    -   became joyful after seeing the prince
+    -   then began to weep
+    -   Sakyans got worried
+    -   explained that he was not worried about the prince
+    -   knew that the prince would attain perfect Enlightenment, turn the Dhammacakka, and establish a widespread noble life for the welfare of many
+    -   wept because he himself would die before hearing the Buddha’s Dhamma
+    -   encouraged the Sakyans not to worry
+-   **Asita instructs his nephew Nālaka**
+    -   told Nālaka that the Buddha would eventually arise
+    -   instructed him to listen for the proclamation that a Buddha had appeared
+    -   told him to go to the Buddha, question him, and practise the brahmacariya under Him
+    -   Nālaka waited for the Buddha while guarding his senses
+-   **Nālaka meets the Buddha**
+    -   heard that the Buddha had begun turning the Dhamma-wheel
+    -   went to see the Buddha
+    -   approached him with confidence
+    -   asked about the highest **moneyya**, the state of a true sage
+    -   referred to Asita’s prediction as true
+-   **The Buddha teaches moneyya**
+    -   moneyya is difficult to practise and to master
+    -   in the village
+        -   equanimity toward
+            -   praise and blame
+            -   honor and disregard
+            -   much or little gain
+        -   regard all beings equally
+    -   guard the mind against
+        -   irritation
+            -   regard other beings as oneself "As I am, so are they; as they are, so am I"
+            -   remain without hostility
+            -   do not kill or cause killing
+        -   arrogance
+        -   sensual temptation
+            -   refrain completely from sexual activity
+            -   abandon sensual pleasures
+    -   remain without hostility or attachment toward beings
+    -   remain calm
+    -   **Renunciation and simplicity**
+        -   abandon craving and greed
+        -   live with few desires
+        -   eat moderately
+        -   remain free from greed
+        -   having gone for alms, return to the forest
+        -   sit at the foot of a tree
+        -   devote oneself to jhāna
+        -   delight in solitude
+    -   **Conduct in the village**
+        -   return to the village at the end of the night for alms
+        -   do not become attached to
+            -   invitations
+            -   abundant offerings
+            -   particular families
+            -   social interaction
+        -   do not wander carelessly among households
+        -   enter the village simply to seek food, not socializing
+        -   avoid unnecessary conversation
+    -   tādi
+        -   accept gain and loss equally: "good that I have gained; good that I have not"
+        -   avoid excitement when receiving something and disappointment when receiving nothing
+    -   do not despise even a small gift
+    -   do not look down on the giver
+    -   the nature of true silence: silence does not simply mean saying nothing
+        -   be so restrained in speech that people might think him silent
+            -   avoid unnecessary conversation
+            -   speak appropriately when there is a meaningful reason to speak
+            -   a wise person may speak much when necessary to teach Dhamma. But one who knows and remains restrained in speech has attained the true monī/muni, the sage who possesses moneyya
+    -   practise restraint like the edge of a razor
+    -   restrain the tongue and stomach
+    -   do not be mentally sluggish
+    -   do not indulge in excessive thinking
+    -   remain devoted to the noble life
+    -   practise solitude
+    -   **ekattaṃ** —singleness/solitude—is called **moneyya**
+    -   develop faith and modesty by hearing the wise
+-   **The simile of water**
+    -   small streams make noise
+    -   great rivers and the ocean are comparatively silent
+    -   what is incomplete makes noise
+    -   what is full is calm
+    -   the foolish person is like a half-filled pot
+    -   the wise person is like a full lake
+-   **True muni**
+    -   speaking much is not necessarily wrong
+    -   when a monk knows Dhamma, he may speak much to teach it
+    -   the important quality is self-restraint
+    -   one who knows and speaks appropriately is worthy of **moneyya**
+    -   the true **muni** is one who has attained this inner silence and restraint.
+    -   the real criterion is ****wisdom and restraint****, not simply the quantity of words
+    -   sense restraint → simplicity → solitude → meditation → equanimity → freedom from craving → careful speech → compassion toward beings → wisdom
+    -   not merely someone who does not speak, but one whose mind is restrained, whose craving has been cut off, whose conduct is pure, and whose speech is governed by wisdom
+
+**Nālaka Sutta teaches that the true sage lives with few desires, restrained senses and speech, solitude and meditation, complete equanimity toward gain and loss, harmlessness toward all beings, and freedom from craving; this is the highest “silence” or moneyya.**
+
+-   Āsāḷhapuṇṇamā: Dhammacakkappavattana Sutta
+-   7th day: Ascetic Nāḷaka approach the Buddha and learned the Moneyyapaṭipadā
+
+Srtd-ṭ:
+
+-   should not allow any defiled state of mind to arise
+-   V. Nāḷaka: 3 appicchatā
+    -   **dassane appicchatā**: he learned, paid respects, entered the forest, and thereafter did not give rise to longing for seeing the Buddha again
+    -   **savane appicchatā**: did not give rise to longing for hearing another discourse of the Buddha
+    -   **paripucchāya appicchatā**: did not give rise to longing for asking more questions about the moneyyapaṭipadā
+-   went to himavanta
+-   did not
+    -   spend 2 days in the same forest thicket
+    -   sit 2 days at the foot of the same tree
+    -   go for alms 2 days in the same village
+-   attained Arahantship
+-   only 1 bhikkhu per sāsana fulfils it
+-   3 intensities
+    -   ukkaṭṭha: 7 months
+        -   V. Nāḷaka
+    -   majjhima: 7 years
+    -   mudu: 16 years
+-   knowing his life formations had come to an end, he bathed, donned the robes, faced the direction of the Buddha, paid respect, and in añjali, stood leaning against a golden mountain called Hiṅgulaka and attained Parinibbāna
+    -   Apadāna-a: so paramābhisambodhippattaṃ tathāgataṃ upasaṅkamitvā nālakapaṭipadaṃ kathāpetvā puna himavantaṃ pavisitvā arahattaṃ patvā ukkaṭṭhapaṭipadaṃ paṭipanno satteva māse āyuṃ pāletvā ekaṃ suvaṇṇapabbataṃ nissāya ṭhitakova anupādisesāya nibbānadhātuyā parinibbāyi
+-   Buddha went there with the Bhikkhusaṅgha
+-   cremated his body
+-   built a cetiya with the relics
+-   cdvm: 1st Arahant to attain Parinibbāna in the sāsana
+
+paṭivipassanā: ñātañāṇa
+
+There are therefore two closely connected ascetics in the traditional account: 
+Asita / Kāḷadevila 
+→ elder ascetic and seer 
+→ saw the newborn Bodhisatta 
+→ examined him and predicted his future Buddhahood 
+→ became Nālaka’s maternal uncle according to the Nālaka narrative 
+→ instructed Nālaka to follow the future Buddha. 
+
+Nālaka 
+→ Asita’s nephew 
+→ received the prediction/instruction while the Buddha was still to appear 
+→ waited for the Buddha 
+→ approached Him after the first turning of the Dhamma Wheel 
+→ received the teaching on moneyya-paṭipadā 
+→ practised the highest form 
+→ attained arahantship 
+→ attained Parinibbāna after seven months. 
+
+The Nālaka Sutta (Snp 3.11) is the primary canonical source for this fascinating account, while 
+the Suttanipāta-aṭṭhakathā and ṭīkā provide the detailed explanation of the moneyya practice 
+and Nālaka’s seven-month observance.  
+
+
+<a id="org447f98d"></a>
+
+### Gatapaccāgatavatta
+
+
+<a id="org1e321f6"></a>
+
+#### 4 Qualities of Practice Under Gocarasampajañña
+
+
+
+-   **Idhekacco bhikkhu harati, na paccāharati**
+    -   does jāgariyānuyoga
+    -   does duties
+    -   meditates
+        -   dve tayo pallaṅke usumaṃ gāhāpento kammaṭṭhānaṃ anuyuñjitvā
+    -   goes piṇḍapāta with the kammaṭṭhāna
+    -   close to the cetiya/bodhi, undertakes buddhānussati (if carrying other kammaṭṭhānas)
+    -   people welcome and serve him and ask Dhamma questions after the meal
+    -   after receiving food, gives Dhamma talk (considered part of the kammaṭṭhāna)
+        -   dhammakathā hi kammaṭṭhānavinimuttā nāma natthi
+        -   -a: even if they do not ask him to speak, the elders say one should give a Dhamma talk to encourage the people
+    -   consumes the food and gives anumodanā with kammaṭṭhāna
+    -   while returning, people follow him
+    -   novices and juniors receive and serve him
+        -   porāṇakabhikkhū kira amhākaṃ upajjhāyo ācariyoti na mukhaṃ oloketvā vattaṃ karonti, sampattaparicchedeneva karonti
+            -   The bhikkhus of old, thinking, “This is our preceptor, this is our teacher,” would not look at his face to perform duties; they would do so only by the extent of what had arrived
+    -   they ask if the people are his relatives
+    -   he praises their virtues
+        -   **āvuso, yaṃ mātāpitūhipi dukkaraṃ, taṃ ete amhākaṃ karonti, pattacīvarampi no etesaṃ santakameva, etesaṃ ānubhāvena neva bhaye bhayaṃ, na chātake chātakaṃ jānāma**: friends, these people do for us what is difficult even for a mother and father; even our bowl and robes belong to them; through their power, we do not know fear in times of danger, nor do we know hunger in times of famine; there are no helpers for us like these people
+-   **Ekacco paccāharati, na harati**:
+    -   has overheated digestion
+    -   does the duties in a hurry
+    -   goes and enters the village early without bringing the kammaṭṭhāna
+    -   begins to consume yāgu and then is able to get and keep the kammaṭṭhāna from then onwards
+    -   keeps it during the time between meals, going for piṇḍapāta, returning to the monastery
+    -   Note:
+        -   many attained arahatship like this
+        -   in SL, there was no seat in such āsanasālas in which arahatship had not been attained after having eaten yāgu
+-   **Ekacco pana neva harati, na paccāharati**: pamādavihāri nikkhittadhuro sabbavattāni bhinditvā pañcavidhacetokhīlavinibandhacitto viharanto
+    -   negligent, breaks duties, mind with 5 cetokhīlas
+    -   does his activities without even thinking that there is a meditation subject
+    -   mixes with lay people
+-   **Ekacco harati ca, paccāharati ca**: this is the actual gatapaccāgatavatta
+    -   reflect on the purpose for ordination: na iṇaṭṭā, na bhayaṭṭā, na jīvikāpakatā pabbajitā, dukkhā muccitukāmā panettha pabbajitā
+    -   decide to restrain defilement immediately in the posture in which they arise: tasmā gamane uppannakilesaṃ gamaneyeva niggaṇhatha, tathā ṭhāne, nisajjāya, sayane uppannakilesaṃ sayaneva niggaṇhatha
+    -   do so even during piṇḍapāta
+    -   stones mark the distances
+    -   if a kilesa arises, he suppress it right there as he walks
+    -   if he can't, he stops walking and stands and those behind him stop
+    -   he admonishes himself, thinking others know of his kilesa
+    -   sometimes, he is able to attain ariyahood there standing
+    -   if they can't, they sit and the others also sit
+    -   having suppressed the kilesa, he recovers the kammaṭṭhāna and continues on his way with the others
+    -   he doesn't lift/places down his foot with a mind dissociated from the meditation subject
+    -   if he does, he returns to where he lost the object
+
+
+
+
+<a id="orgd11e0ae"></a>
+
+#### Related Stories
+
+-   V. Mahāphussadeva, the dweller in Ālinda:
+    -   live 19 years doing the gatapaccāgatavatta
+    -   people observed him going back repeatedly during parts of the way and thought he was lost or had lost something
+    -   attained arahatship during the 20th vassa
+    -   a deva at the end of his caṅkamana stood lighting a lamp with her fingers
+    -   the 4 Great Kings, Sakka, Brahmā Sahampati came
+    -   V. Mahātissatthero inquired about the light the next day
+    -   being evasive, he began listing the types of light (of a candle, of a gem, etc.)
+    -   being pressed, he revealed it
+-   V. Mahānāgatthero, dweller in the Kāḷavalli Pavilion
+    -   honouring the mahāpadhāna of the Blessed One, he practiced gatapaccāgata only walking and standing for 7 years
+    -   then after 16 years, he became an arahat
+    -   he kept water in his mouth to avoid disturbance to the meditation subject even when well-wishing those who pay respect
+    -   if asked the day, the uposatha, the number of monks, a problem, he would swallow and answer
+    -   otherwise, he would spit the water coming out of the village
+-   50 bhikkhus dwellers of Kalambatitthavihāra
+    -   made a kattika in āsaḷhipuṇṇamā "Without attaining arahantship, we will not speak to one another"
+    -   they kept water in their mouths during alms
+    -   they answered questions when asked
+    -   people could count the number of monks by looking at the spits
+    -   people wandered if they were angry at them or at each other
+    -   to reconcile them, they came to the monastery and didn't see even 2 together
+    -   a wise one noticed everything was in place and clean and concluded they were not quarreling
+    -   they returned
+    -   they all attained arahatship during the residence and did the visuddhipavāraṇā
+-   V. Mahānāgatthero, dweller of the Kāḷavalli Pavilion and the bhikkhus who spent the rains in the Kalambatittha Monastery
+    -   practiced the duty, kept water in their mouths, did not enter street with drunkards, profligates, or ferocious elephants and horses
+    -   did not go swiftly as if in a rush
+        -   **na hi javena piṇḍapātiyadhutaṅgaṃ nāma kiñci atthi**
+        -   **visamabhūmibhāgappattaṃ pana udakasakaṭaṃ viya niccalo hutvā gacchati**: he goes steadily, like a water-cart reaching uneven ground
+    -   before eating, they reflected on
+        -   āhārapaṭikkūlasaññā
+        -   vaṇalepana-puttamaṃs-ūpamavasena paccavekkhanto: the analogies of the axle-oil, the medicine for a wound, and the flesh of a child
+        -   aṭṭhaṅgasamannāgataṃ āhāraṃ āhāreti: neva davāya na madāya&#x2026;
+    -   after eating, relieved the fatigue from the meal (bhattakilamathaṃ paṭippassambhetvā)
+    -   all keeping the meditation subject
+
+
+<a id="orga3be951"></a>
+
+#### Results
+
+Idaṃ pana haraṇapaccāharaṇasaṅkhātaṃ gatapaccāgatavattaṃ pūrento yadi upanissayasampanno hoti, paṭhamavaye eva arahattaṃ pāpuṇāti.Now, if a person fulfilling this going-and-returning duty—known as bringing and fetching—is endowed with sufficient support, he attains arahantship in the first stage of life.No ce paṭhamavaye pāpuṇāti, atha majjhimavaye;If he does not attain it in the first stage, then in the middle stage;no ce majjhimavaye pāpuṇāti, atha maraṇasamaye;if he does not attain it in the middle stage, then at the time of death;no ce maraṇasamaye pāpuṇāti, atha devaputto hutvā;if he does not attain it at the time of death, then as a deva-son;no ce devaputto hutvā pāpuṇāti, anuppanne buddhe nibbatto paccekabodhiṃ sacchikaroti.if he does not attain it as a deva-son, he is reborn before a Buddha has arisen and realizes Paccekabuddhahood.No ce paccekabodhiṃ sacchikaroti, atha buddhānaṃ sammukhībhāve khippābhiñño hoti;If he does not realize Paccekabuddhahood, then in the presence of Buddhas, he becomes one of swift knowledge;seyyathāpi thero bāhiyo dārucīriyo mahāpañño vā, seyyathāpi thero sāriputto mahiddhiko vā, seyyathāpi thero mahāmoggallāno dhutavādo vā, seyyathāpi thero mahākassapo dibbacakkhuko vā, seyyathāpi thero anuruddho vinayadharo vā, seyyathāpi thero upāli dhammakathiko vā, seyyathāpi thero puṇṇo mantāṇiputto āraññiko vā, seyyathāpi thero revato bahussuto vā, seyyathāpi thero ānando bhikkhākāmo vā, seyyathāpi thero rāhulo buddhaputtoti.just like the elder Bāhiya Dāruciriya who was wise, or like the elder Sāriputta who had great psychic power, or like the elder Mahāmoggallāna who was an advocate of ascetic practices, or like the elder Mahākassapa who had the divine eye, or like the elder Anuruddha who was an expert on the discipline, or like the elder Upāli who was a speaker on the Dhamma, or like the elder Puṇṇa Mantāṇiputta who lived in seclusion, or like the elder Revata who was learned, or like the elder Ānanda who desired alms, or like the elder Rāhula who was a Buddha's son.Iti imasmiṃ catukke yvāyaṃ harati ca paccāharati ca, tassa gocarasampajaññaṃ sikhāpattaṃ hoti.Thus, in this fourfold group, whoever brings and fetches, his clear comprehension of domain is perfected.
+
+-   Notes:
+    -   here, it is shown explicitly monks would consume yāgu as breakfast, spend some time in the village, and then go for piṇḍapāta for lunch
+    -   here, staying with the kammaṭṭhāṇa is put as carrying something
+    -   one who observes it attains, if not becomes paccekabuddha (tbc)
+    -   observed by all bodhisattas (tbc)
+
+
+<a id="org57bf457"></a>
+
+#### Notes
+
+-   cetiya/bodhi behavior
+    -   3 circumambulations
+    -   vandana
+        -   at 4 places if large
+        -   at 8 places if small
+-   bhikkhus of old would not look at his face to perform duties
+    -   porāṇakabhikkhū kira amhākaṃ upajjhāyo ācariyoti na mukhaṃ oloketvā vattaṃ karonti, sampattaparicchedeneva karonti
+
+
+
+{% include toc.html %}

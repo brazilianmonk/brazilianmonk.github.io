@@ -66,6 +66,7 @@ Here, you'll find my Dhamma notes and summaries (still being formatted). These a
 - [Suttanta (Semester IV) – bhante Devānanda](/summaries/suttanta/semester-4)
 - [Suttanta (Semester V) – bhante Devānanda](/summaries/suttanta/semester-5)
 - [Suttanta (Semester VI) – bhante Devānanda](/summaries/suttanta/semester-6)
+- [**Dhutaṅga (Austere Practices)**](/summaries/suttanta/dhutanga)
 
 ## Khuddaka Nikāya
 
