@@ -1356,7 +1356,6 @@ questions-and-answers; catechism; one of the nine kinds of suttas; lit. to be sp
 ## Tikanipāta
 ### Dutiyavedanāsuttaṃ
 
-
 <a id="org2854538"></a>
 
 #### Vedanās and Their Respective Anusaya, etc.
@@ -1836,7 +1835,7 @@ All beings are:
 
 <a id="org33ee180"></a>
 
-### Caykkkhusuttaṃ
+### Cakkhusuttaṃ
 
 
 <a id="org773320c"></a>
