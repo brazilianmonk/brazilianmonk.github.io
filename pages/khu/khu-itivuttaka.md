@@ -11,16 +11,16 @@ permalink: /summaries/khuddaka/itivuttaka
 
 ### Itivuttaka &#x2013; meaning
 
-[
+
 the text beginning with "thus (it was) said" &#x2013; **vuttaṃ hetaṃ bhagavatā vuttamarahatāti me suttaṃ** (this indeed was said by the Blessed One, said by the Arahant, thus was heard by me)
-]
+
 
 
 <a id="org9e66935"></a>
 
 ### Composition Style
 
-[
+
 
 -   mixture of prose and verse
 -   verses rephrase what was said in the prose resembling the SN sagāthāvagga
@@ -33,14 +33,14 @@ the text beginning with "thus (it was) said" &#x2013; **vuttaṃ hetaṃ bhagava
         -   some: remaining suttas may have been added later
         -   theravāda: all of them are authentic
 
-]      
+      
 
 
 <a id="org0ba223b"></a>
 
 #### general structure
 
-[
+
 
 -   intro: vuttañhetaṁ bhagavatā vuttamarahatāti me sutaṁ (by Kujjuttarā)
     -   preaching place: not mentioned since they were all preched in Kosambī
@@ -51,7 +51,7 @@ the text beginning with "thus (it was) said" &#x2013; **vuttaṃ hetaṃ bhagava
 -   verse: normally rephrasing the prose
 -   conclusion
 
-]      
+      
 
 
 <a id="org6701bf2"></a>
@@ -75,7 +75,7 @@ the text beginning with "thus (it was) said" &#x2013; **vuttaṃ hetaṃ bhagava
 
 ### # Of Suttas, Nipātas, And Vaggas
 
-[
+
 
 -   **suttas**: 112
 -   **nipātas**: 4
@@ -90,14 +90,14 @@ the text beginning with "thus (it was) said" &#x2013; **vuttaṃ hetaṃ bhagava
     -   **catukkanipāta**: 13 suttas in 1 vagga
 
 mem aid: vaggas of 10 and if more than 5 is left, a new vagga is made
-]  
+  
 
 
 <a id="org64b1532"></a>
 
 ### Transmitter, Etadagga Title, Etc
 
-[
+
 Female lay devotee **Khujuttarā**
 
 -   she had a curved back for having mocked a pckb in the past
@@ -110,7 +110,7 @@ Female lay devotee **Khujuttarā**
     -   (*:q: V. ānanda did not mention source in his explanation of where the 84k dhammakkhandha came from*)
 -   she introduced all the suttas with the introductory words (vuttaṁ hetaṁ bhagavatā…), which were preserved by V. Ānanda in the 1st council
 
-]
+
 
 
 <a id="orgb93a433"></a>
@@ -161,7 +161,7 @@ questions-and-answers; catechism; one of the nine kinds of suttas; lit. to be sp
 
     1.  Meaning
     
-        [
+        
         -a:
         
         -   **Hiri**: that which feels or by which one feels shame of what one should be ashamed of (akusala, misconduct)
@@ -202,11 +202,11 @@ questions-and-answers; catechism; one of the nine kinds of suttas; lit. to be sp
         -   moral shame and moral dread/fear
         -   conscientiousness/conscience and embarrassment
         
-        ]
+        
     
     2.  Hiri vs. Ottappa: 4 Differences
     
-        [
+        
         
         -   **Samuṭṭhāna** (origin)
             -   **ajjhattasamuṭṭhānā hirī** (internal / self-reflection): based on 4 considerations
@@ -326,22 +326,22 @@ questions-and-answers; catechism; one of the nine kinds of suttas; lit. to be sp
         </tbody>
         </table>
         
-        ]
+        
     
     3.  4 Epithets
     
-        [
+        
         
         -   **Sukkadhamma**: bright dhammas
             -   **Sukkamūla**: root of brightness (kusala)
         -   **Lokapāladhamma**: protectors of the world
         -   **Devadhamma**: dhammas that lead to the 3 devas
         
-        ]
+        
         
         1.  Sukkadhamma
         
-            [
+            
             Hiriottappa are called **sukkadhamma** because they:
             
             -   produce sukka (brightness)
@@ -373,11 +373,11 @@ questions-and-answers; catechism; one of the nine kinds of suttas; lit. to be sp
                     -   hiriottappa => brahmacariya
                     -   simile: hiriottappa (sprout) => growth of the other factors (tree)
             
-            ]
+            
         
         2.  Lokapāladhamma
         
-            [
+            
             So called because they
             
             -   safeguard
@@ -390,11 +390,11 @@ questions-and-answers; catechism; one of the nine kinds of suttas; lit. to be sp
             -   garucittakāra: mental respect (for social and family roles such as mother, aunt, teacher’s wife, etc)
             -   bhinnamariyādā: broken (moral) boundaries
             
-            ]
+            
             
             1.  Gradual Decrease in Morality
             
-                [
+                
                 Cakkavattisutta:
                 
                 -   80-40 k
@@ -435,11 +435,11 @@ questions-and-answers; catechism; one of the nine kinds of suttas; lit. to be sp
                         -   sharp swords appear in their hands
                         -   they kill each other seeing others as animals
                 
-                ]
+                
                 
                 1.  Adhammarāga, Visamalobha, Micchādhamma
                 
-                    [
+                    
                     
                     -   **adhammarāga**: illicit/unrighteous/incestuous sexual desire for unsuitable individuals like mother, aunt, uncle's wife, etc
                         -   adhammarāgoti mātā mātucchā pitucchā mātulānītiādike ayuttaṭṭhāne rāgo
@@ -565,7 +565,7 @@ questions-and-answers; catechism; one of the nine kinds of suttas; lit. to be sp
         
         3.  Devadhamma
         
-            [
+            
             So called since they lead to the state of 3 types of devas:
             
             -   **sammutideva** (deva by convention): kings, etc
@@ -580,11 +580,11 @@ questions-and-answers; catechism; one of the nine kinds of suttas; lit. to be sp
                         santo sappurisā loke, devadhammāti vuccare**
                         those endowed with moral shame and moral dread, established in wholesome qualities, peaceful and virtuous persons in the world, are called 'devadhamma'
             
-            ]
+            
     
     4.  Kākasūra vs. Sīhasūra
     
-        [
+        
         
         -   **Kākasūra** (crow-boldness): those who are bold in shameless things (lack hiriottappa) like a crow
             -   kāka: stays close to the food, behaves as if not looking, as if preoccupied with something else, or even as if drowsy, and steals when the opportunity allows
@@ -618,7 +618,7 @@ questions-and-answers; catechism; one of the nine kinds of suttas; lit. to be sp
                     yo nindaṃ apabodheti, asso bhadro kasāmiva**
                     a person who refrains from doing evil out of shame is rare in the world and avoids reproach as a thoroughbred horse avoids the whip
         
-        ]      
+              
 
 
 <a id="orgfa39f1e"></a>
@@ -627,18 +627,18 @@ questions-and-answers; catechism; one of the nine kinds of suttas; lit. to be sp
 
 1.  Purposes for Classifications of Nibbāna
 
-    [
+    
     In the ultimate sense, Nibbāna is indivisible, just one, so its classification into types is a figurative didactic tool to explain:
     
     -   those who attain it according to the way it is experienced
     -   various properties of Nibbāna itself
     -   note:
     
-    ]
+    
 
 2.  2 Nibbānadhātus
 
-    [
+    
     
     -   **Saupādisesā nibbānadhātu** (element of Nibbāna with remaning khandhas): arahat's extinguishing of defilements leaving remaning khandhas, which allows undefiled sensory experience
         -   **idha, bhikkhave, bhikkhu arahaṃ hoti… tassa tiṭṭhanteva pañcindriyāni yesaṃ avighātattā manāpāmanāpaṃ paccanubhoti, sukhadukkhaṃ paṭisaṃvedeti. tassa yo rāgakkhayo, dosakkhayo, mohakkhayo**
@@ -682,7 +682,7 @@ questions-and-answers; catechism; one of the nine kinds of suttas; lit. to be sp
             anupādisesa: commonly used
         -   this classification of Nibbāna explains the beings who attain it, not Nibbāna itself
     
-    ]    
+        
     
     1.  Parinibbuta
     
@@ -707,7 +707,7 @@ questions-and-answers; catechism; one of the nine kinds of suttas; lit. to be sp
 
 3.  Saupādisesa- and Anupādisesa- Puggala
 
-    [
+    
     AN Navanipāta: classification of puggalas according to upādi (here, upādāna)
     
     -   9 saupādisesapuggala
@@ -796,7 +796,7 @@ questions-and-answers; catechism; one of the nine kinds of suttas; lit. to be sp
     </tbody>
     </table>
     
-    ]
+    
 
 
 <a id="org907a288"></a>
@@ -807,7 +807,7 @@ questions-and-answers; catechism; one of the nine kinds of suttas; lit. to be sp
 
     1.  Sikkhānisaṃsā
     
-        [
+        
         AN sikkhānisaṃsasutta:
         
         -   **Ādibrahmacariyika-sikkhā**: training in mahāsīlas, which are fundamental to the Noble Path
@@ -827,11 +827,11 @@ questions-and-answers; catechism; one of the nine kinds of suttas; lit. to be sp
         -   Itv-a: adhisīla-, adhicitta-, and adhipaññā-sikkhā
         
         One should live the Noble Life for the purpose of the threefold training, not for the sake of gain, fame, honour, and so forth
-        ]
+        
     
     2.  Paññuttarā
     
-        [
+        
         AN Sikkhānisaṃsasutta:
         
         -   purpose of the teaching: utter destruction of suffering
@@ -841,11 +841,11 @@ questions-and-answers; catechism; one of the nine kinds of suttas; lit. to be sp
                 -   the forerunner of the entire path
                 -   the guide for all the other factors from beginning to end
         
-        ]
+        
     
     3.  Vimuttisārā
     
-        [
+        
         AN Sikkhānisaṃsasutta:
         
         -   purpose of the teaching: utter destruction of suffering
@@ -856,11 +856,11 @@ questions-and-answers; catechism; one of the nine kinds of suttas; lit. to be sp
         -   vimutti (liberation): the goal or essence (sāra) of the Dhammavinaya: here, arahattaphala or Nibbāna
         -   Uposathasutta: ocean has one taste: salt; Dhammavinaya has one taste: vimutti (liberation)
         
-        ]
+        
     
     4.  Satādhipateyyā
     
-        [
+        
         AN Sikkhānisaṃsasutta: sati as dependence by being well established internally in 3 aspects in order to carry them out:
         
         -   related to sikkhā (under sikkhānisaṁsā)
@@ -921,7 +921,7 @@ questions-and-answers; catechism; one of the nine kinds of suttas; lit. to be sp
         </tbody>
         </table>
         
-        ]
+        
 
 
 <a id="org19adb2a"></a>
@@ -932,7 +932,7 @@ questions-and-answers; catechism; one of the nine kinds of suttas; lit. to be sp
 
     1.  Jāgara, Jāgariya, and Jāgariyānuyoga
     
-        [
+        
         
         -   **jāgara**: one who is awake, devoid of sleep, engaged in wakefulness, or engaged in the contemplation of a meditation object day and night
             -   Pṭs: one who remains awake and does not sleep:
@@ -947,11 +947,11 @@ questions-and-answers; catechism; one of the nine kinds of suttas; lit. to be sp
         -   **jāgariya**: state or act of being awake
         -   **jāgariyānuyoga**: application or devotion to that wakefulness
         
-        ]
+        
         
         1.  Real Jāgariya
         
-            [
+            
             AN 9, Saupādisesasutta:
             
             -   Deva asked:
@@ -980,7 +980,7 @@ questions-and-answers; catechism; one of the nine kinds of suttas; lit. to be sp
                 -   asleep with nīvaraṇas => dust
                 -   awake with indriyas => purity
             
-            ]
+            
 
 
 <a id="org1dca1c2"></a>
@@ -989,7 +989,7 @@ questions-and-answers; catechism; one of the nine kinds of suttas; lit. to be sp
 
 1.  Āpāyikā Nerayikā
 
-    [
+    
     **Āpāyikā** (apāya + ṇika) **Nerayikā** (niraya + ṇika): one destined to apāya / niraya if one does not abandon those evil deeds (idamappahāya)
     
     -   AN Parivāra and Tikanipāta: 3 types (below)
@@ -997,11 +997,11 @@ questions-and-answers; catechism; one of the nine kinds of suttas; lit. to be sp
         -   parikuppā: lesions, sth with an irritating nature, similar to an old wound
         -   atekicchā: incurable
     
-    ]
+    
     
     1.  3 Types
     
-        [
+        
         
         -   **Abrahmacārī brahmacāripaṭiñño**: one who does not practice the Noble Life but claims to
             -   abrahmacārī / brahmacāripaṭirūpaka: one who does not practice the brahmacariya but conduces himself like good standing monks and declare to practice it
@@ -1032,11 +1032,11 @@ questions-and-answers; catechism; one of the nine kinds of suttas; lit. to be sp
                 -   Cūḷasamādānasutta: 4 ways of undertaking things
                 -   Mahādukkhakkhandhasutta: āsāda ādīnava and nissaraṇa of kāma: appāsādā kāmā&#x2026;
             
-            ]
+            
         
         1.  Cūḷasamādānasutta: 4 ways of undertaking things
         
-            [
+            
             
             <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
             
@@ -1096,7 +1096,7 @@ questions-and-answers; catechism; one of the nine kinds of suttas; lit. to be sp
                 -   it envelops the tree and forms a canopy above it and eventually kills it
                 -   the deva then realizes the danger
             
-            ]
+            
 
 
 <a id="org49716e4"></a>
@@ -1105,7 +1105,7 @@ questions-and-answers; catechism; one of the nine kinds of suttas; lit. to be sp
 
 1.  Taṇhā & Diṭṭhi's Connection
 
-    [
+    
     **Taṇhā & Diṭṭhi** are often connected for being closely related and interdependent
     
     -   mechanism: one views something favorably, desires to acquire it (taṇhā), sees it as worthy of acquisition (diṭthi), clings to it (taṇhā) or forms various opinions about it (diṭṭhi)
@@ -1113,11 +1113,11 @@ questions-and-answers; catechism; one of the nine kinds of suttas; lit. to be sp
         -   bhavataṇhā => bhavadiṭṭhi
         -   vibhavataṇhā => vibhavadiṭṭhi
     
-    ]   
+       
 
 2.  3 Individuals
 
-    [
+    
     
     -   **Olīyanti eke**: some crave for and have eternalist views about existence, don't delight in Dhamma, which is to end existence, and get stuck wandering in saṁsāra
         -   **bhavataṇhā**: bhavārāma, bhavarata, bhavasammudita
@@ -1175,11 +1175,11 @@ questions-and-answers; catechism; one of the nine kinds of suttas; lit. to be sp
     </tbody>
     </table>
     
-    ]
+    
     
     1.  Vibhava vs Bhavanirodha
     
-        [
+        
         
         -   **Vibhava** (non-existence): diṭthi or Nibbāna
             -   if about self: vibhavadiṭṭhi, ucchedadiṭṭhi; non-existence, anihilation of a self
@@ -1190,14 +1190,14 @@ questions-and-answers; catechism; one of the nine kinds of suttas; lit. to be sp
             -   neither of the 2 extremes of sassata or uccheda and lies in the middle
             -   attained throug the N8P / Majjhimā paṭipadā
         
-        ]
+        
     
     2.  Causation Links: Vinaya to Parinibbāna
     
-        [
+        
         Vmtv, Vmtv-a:
         vinaya > saṃvara > appaṭisāra > pāmujja > pīti > passaddhi > sukha > samādhi > yathābhūtañāṇadassana (taruṇavipassanā in udayabbayañāṇa) > nibbidā (leads to emergence from saṅkhāras) > virāga > vimutti (arahantship) > vimuttiñāṇadassana > anupādāparinibbāna
-        ]
+        
 
 
 <a id="org4207674"></a>
@@ -1211,7 +1211,7 @@ questions-and-answers; catechism; one of the nine kinds of suttas; lit. to be sp
 
 1.  Khemavitakka
 
-    [
+    
     **Khemavitakka**: thought of safety / that brings safety (for beings): abyāpāda- and avihiṁsā- vitakkas that precede (pubbaṅgama) and associate (sampayutta) the 1st jhāna
     
     -   connected with **karuṇā** (mainly), **mettā**, and **muditā**
@@ -1265,22 +1265,22 @@ questions-and-answers; catechism; one of the nine kinds of suttas; lit. to be sp
     </tbody>
     </table>
     
-    ]
+    
 
 2.  Pavivekavitakka
 
-    [
+    
     **Pavivekavitakka**: thought of seclusion: nekkhammavitakka
     
     -   yaṃ akusalaṃ taṃ pahīnaṁ (whatever is unwholesome, that has been abandoned)
     -   kiṁ akusalaṁ, kiṁ appahīnaṁ, kiṁ pahāmāti: what is unwholesome? what has not been abandoned? what will we abandoned?"
     -   **pubbaṅgama and sampayutta** of phalasamāpatti (mainly) and dibbavihāras
     
-    ]
+    
 
 3.  Summary
 
-    [
+    
     
     <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
     
@@ -1349,7 +1349,7 @@ questions-and-answers; catechism; one of the nine kinds of suttas; lit. to be sp
     </tbody>
     </table>
     
-    ]
+    
 
 
 <a id="org5be0483"></a>
@@ -1366,7 +1366,7 @@ questions-and-answers; catechism; one of the nine kinds of suttas; lit. to be sp
 
 #### Vedanās and Their Respective Anusaya, etc.
 
-[
+
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -1480,14 +1480,14 @@ questions-and-answers; catechism; one of the nine kinds of suttas; lit. to be sp
     -   aniṭṭha (aniṭṭhamajjhatta, aniṭṭha)
 -   **Vimokkha**: type of Nibbāna achieved depending on the anupassanā
 
-]      
+      
 
 
 <a id="orge5d09c5"></a>
 
 #### Sukhāvedanā dukkhato daṭṭhabbā
 
-[
+
 **Dukkhato**: should be seen as suffering due to change &#x2013; vipariṇāmadukkha
 
 > **Sukhā vedanā ṭhitisukhā vipariṇāmadukkhā** (MN)  
@@ -1506,14 +1506,14 @@ All beings are:
     -   **nicca or sukha**: one cannot see it as dukkha or remove rāga
     -   **anicca or dukkha**: can see it as dukkha and remove rāga
 
-]  
+  
 
 
 <a id="org6bf0f71"></a>
 
 #### Dukkhāvedanā sallato daṭṭhabbā
 
-[
+
 **Sallato**: dart, spike, thorn, that which pierces &#x2013; dukkhadukkha
 
 -   -a: simile: a dart causes agony when entering, remaining lodged in, and being removed from the body, so too dukkhavedanā
@@ -1532,14 +1532,14 @@ All beings are:
     -   escaping dukkhavedanā by seeking kāmasukha, which leads to rāgānusaya
         -   dukkha -> dosa -> seeking for sukha -> rāga
 
-] 
+ 
 
 
 <a id="orgf4506ce"></a>
 
 #### Adukkhamasukhā vedanā aniccato daṭṭhabbā
 
-[
+
 **Aniccato**: as impermanent &#x2013; saṅkhāradukkha (suffering due to formations)
 
 -   Cūḷavedalla Sutta:
@@ -1570,14 +1570,14 @@ All beings are:
 -   Why only upekkhā as anicca
     -   all three are anicca, dukkha, anattā but here anicca is emphasized for upekkhā's inconspicuousness
 
-]
+
 
 
 <a id="orgfb694eb"></a>
 
 #### Purpose of Contemplation
 
-[
+
 
 -   to remove the respective
     -   anusaya
@@ -1587,14 +1587,14 @@ All beings are:
     -   type of ārammaṇa
 -   to achieve the respective liberation
 
-]
+
 
 
 <a id="orgc56ee13"></a>
 
 #### Qualities of a Sammaddasa
 
-[
+
 
 -   **Ariyo**: noble
 -   **Sammaddaso**: who has seen rightly (feelings as they are)
@@ -1614,14 +1614,14 @@ All beings are:
 > That monk, who sees rightly, indeed is thereby well released.   
 > Accomplished in knowledge, at peace, the sage has overcome all bonds.”
 
-]
+
 
 
 <a id="org177a27d"></a>
 
 #### 3 Dukkhas vs. 3 Vedanās
 
-[
+
 
 -   **Dukkhadukkhatā** (intrinsic suffering)
     -   Suffering that is painful by its very nature
@@ -1641,7 +1641,7 @@ All beings are:
 > - **Sukhā vedanā vipariṇāmena dukkhuppattihetuto vipariṇāmadukkhaṃ.**  
 > - **Upekkhāvedanā ceva avasesā ca tebhūmakasaṅkhārā udayabbayapaṭipīḷitattā saṅkhāradukkhaṃ.**
 
-]
+
 
 
 <a id="org3c2143e"></a>
@@ -1653,7 +1653,7 @@ All beings are:
 
 #### 3 Esanās
 
-[
+
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -1724,11 +1724,11 @@ All beings are:
 -   SN Esanā Vagga: N8P is to be developed for abhiññā, pariññā, parikkhaya, and pahāna of these 3 esanās
 -   Samavayasaṭṭhesana: one who has renounced the 3 esanās &#x2013; arahat
 
-]
+
 
 1.  Kāmesanā
 
-    [
+    
     
     -   **Kāmarāga**: craving for sense pleasures
         -   Ab-Vib: yo kāmesu kāmacchando kāmarāgo kāmanandī kāmataṇhā kāmasineho kāmapariḷāho kāmamucchā kāmajjhosānaṃ – ayaṃ vuccati kāmesanā 
@@ -1739,11 +1739,11 @@ All beings are:
         -   kāmarāgo tadekaṭṭhaṃ akusalaṃ kāyakammaṃ vacīkammaṃ manokammaṃ
     -   e.g. bodhisatta while in the lay life
     
-    ]
+    
 
 2.  Bhavesanā
 
-    [
+    
     
     -   **Bhavarāga**: rūparāga and arūparāga
         -   Ab-Vib: yo bhavesu bhavachando bhavarāgo bhavanandī bhavataṇhā bhavasineho bhavapariḷāho bhavamucchā bhavajjhosānaṃ – ayaṃ vuccati bhavesanā
@@ -1753,11 +1753,11 @@ All beings are:
         -   bhavarāgo tadekaṭṭhaṃ akusalaṃ kāyakammaṃ vacīkammaṃ manokammaṃ
     -   e.g. bodhisatta during the practices of jhānas
     
-    ]  
+      
 
 3.  Brahmacariyesanā
 
-    [
+    
     
     -   **10 Antaggāhika Diṭṭhi** (sassato loko…) and whatever similar wrong view, grasping at wrong view, desert of wrong view, contortion of wrong view, writhing of wrong views, fetter of wrong view, grasping, establishment of wrong view, adherence, seizing, wrong way, wrongness, and distorted grasp of a wrong doctrine
         -   the wrong search for a holy life, which is formulated or propounded by theorists
@@ -1769,7 +1769,7 @@ All beings are:
         -   DN-a: diṭṭhigatikasammatassa brahmacariyassa gavesanadiṭṭhi.
         -   SN-a: diṭṭhigatikaparikappitassa brahmacariyassa nimittabhāvato micchādiṭṭhi "brahmacariya"nti adhippetā.
     
-    ]
+    
 
 
 <a id="org594c556"></a>
@@ -1838,12 +1838,12 @@ All beings are:
 > **Yassa cakkhussa paṭilābhā, sabbadukkhā pamuccati.**  
 > The arising of the fleshly eye is the path to the divine eye.   
 > When knowledge arises, the wisdom eye is unsurpassed.   
-> Through the attainment of the wisdom eye of that [noble person], one is liberated from all   
+> Through the attainment of the wisdom eye of that noble person, one is liberated from all   
 > suffering
 
 1.  2 Maṃsacakkhus
 
-    [
+    
     
     -   **Sasambhāracakkhu** (physiological eye)
         -   lump of flesh situated in the eye socket, circumscribed underneath by the eye-socket bone, above by the brow bone, laterally by the corners of the eye, internally by the brain, and externally by the eyelashes
@@ -1874,11 +1874,11 @@ All beings are:
         -   supported by the 4 mahābhūtās (upholding, cohering, maturing, and moving) like a prince attended by 4 nurses who hold, bathe, dress, and fan him
         -   acts as vatthu and dvāra for cakkhuviññāṇa and cakkhudāravīthicittas
     
-    ]
+    
     
     1.  Buddha's Maṁsacakkhu
     
-        [
+        
         
         -   5 colors: 
             -   nīla: where the eyelashes are established
@@ -1896,9 +1896,9 @@ All beings are:
                 -   4 factored night: no sun, waning fortnight, dense forest, and cloudy weather
             -   wall, doors, rampart, mountain, thicket, or creeper cannot obstruct his vision
                 -   able to pick out a marked sesame seed from a cartload of such seeds
-        -   [image](https://www.google.com/search?q=sweet+eye+buddha&client=tablet-android-samsung-ss&hs=pUdV&sca_esv=856d4ba1f97ab2d0&udm=2&biw=1128&bih=1611&sxsrf=APpeQntNM_rISEc8QxA8GCFe6Mu2mOz2CQ%3A1784691486935&ei=HjtgaoLUOMfG4-EPp7TeOQ&ved=0ahUKEwiC2_LwreWVAxVH4zgGHSeaNwcQ4dUDCBE&uact=5&oq=sweet+eye+buddha&gs_lp=Egtnd3Mtd2l6LWltZyIQc3dlZXQgZXllIGJ1ZGRoYUj1aFCADVijZnADeACQAQGYAYwGoAHAMaoBDjAuMS4yMC4xLjAuMS4xuAEDyAEA-AEBmAIPoALSGKgCA8ICBxAjGMkCGCfCAgYQABgHGB7CAgoQABiABBiKBRhDwgIQEAAYgAQYigUYQxixAxiDAcICChAjGMkCGOoCGCfCAgUQABiABMICCBAAGIAEGLEDwgILEAAYgAQYigUYsQPCAgsQABiABBixAxiDAcICDRAAGIAEGIoFGEMYsQPCAgQQABgDwgIEEAAYHsICBhAAGAgYHsICCBAAGAgYHhgKmAMHiAYBkgcIMi4wLjEyLjGgB95jsgcGMi0xMi4xuAe0GMIHBjItMS4xNMgHsQGACAE&sclient=gws-wiz-img)
+        -   image(https://www.google.com/search?q=sweet+eye+buddha&client=tablet-android-samsung-ss&hs=pUdV&sca_esv=856d4ba1f97ab2d0&udm=2&biw=1128&bih=1611&sxsrf=APpeQntNM_rISEc8QxA8GCFe6Mu2mOz2CQ%3A1784691486935&ei=HjtgaoLUOMfG4-EPp7TeOQ&ved=0ahUKEwiC2_LwreWVAxVH4zgGHSeaNwcQ4dUDCBE&uact=5&oq=sweet+eye+buddha&gs_lp=Egtnd3Mtd2l6LWltZyIQc3dlZXQgZXllIGJ1ZGRoYUj1aFCADVijZnADeACQAQGYAYwGoAHAMaoBDjAuMS4yMC4xLjAuMS4xuAEDyAEA-AEBmAIPoALSGKgCA8ICBxAjGMkCGCfCAgYQABgHGB7CAgoQABiABBiKBRhDwgIQEAAYgAQYigUYQxixAxiDAcICChAjGMkCGOoCGCfCAgUQABiABMICCBAAGIAEGLEDwgILEAAYgAQYigUYsQPCAgsQABiABBixAxiDAcICDRAAGIAEGIoFGEMYsQPCAgQQABgDwgIEEAAYHsICBhAAGAgYHsICCBAAGAgYHhgKmAMHiAYBkgcIMi4wLjEyLjGgB95jsgcGMi0xMi4xuAe0GMIHBjItMS4xNMgHsQGACAE&sclient=gws-wiz-img)
         
-        ]   
+           
 
 2.  Dibbacakkhu
 
@@ -1906,7 +1906,7 @@ All beings are:
     
     1.  Buddha's Dibbacakkhu
     
-        [
+        
         All standard qualities of dibbacakkhu with the following additions:
         
         -   **Yāvatakaṃ vā pana ākaṅkheyya tāvatakaṃ passeyya**: he sees as much as he wishes
@@ -1931,11 +1931,11 @@ All beings are:
                 -   ratanaparitta
             -   Visayakkhetta: no limit
         
-        ]
+        
 
 3.  Paññācakkhu
 
-    [
+    
     **Paññā**: here, **āsavakkhayañāṇa**
     
     -   discerns the 4 NT
@@ -1948,11 +1948,11 @@ All beings are:
         -   paccupaṭṭhāna: non-confusion, like a reliable guide in a forest
     -   Dhammacakkappavattanasutta: cakkhuṃ udapādi, ñāṇaṃ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi
     
-    ]
+    
 
 4.  Dhammacakkhu
 
-    [
+    
     **Dhammacakkhu**: the Eye of Truth
     
     -   Virajaṃ vītamalaṃ dhammacakkhuṁ udapādi: arose in the V. Koṇḍañña
@@ -1971,11 +1971,11 @@ All beings are:
             -   catutthamaggañāṇampi
         -   SN-a: 4 maggas and 4 phalas
     
-    ]    
+        
 
 5.  Buddha's Paññācakkhu
 
-    [
+    
     Mahāniddesa, Cūḷaniddesa (summary): qualities of the Buddha's wisdom
     
     -   **Nature**: great, wide, joyous, swift, sharp, and penetrating wisdom
@@ -1993,7 +1993,7 @@ All beings are:
             -   as far as the knowable extends, so far extends his knowledge
             -   like 2 perfectly fitted halves of a casket meet exactly at their boundaries
     
-    ]
+    
 
 6.  Verse
 
@@ -2020,7 +2020,7 @@ All beings are:
 
 #### 3 Puggalas Acc. to Giving
 
-[
+
 
 -   **Avuṭṭhikasamo**: like a rainless cloud that thunders and flashes but doesn't rain; one who doesn't give anything to anyone
     -   stingy; gathers vast and abundant wealth but dies without giving anything away
@@ -2039,14 +2039,14 @@ All beings are:
 > Āmodamāno pakireti, detha dethāti bhāsati**  
 > A person whose speech readily inspires others to give food, compassionate toward all beings, rejoicing, bestows gifts, saying, ‘Give! Give!’”
 
-]
+
 
 
 <a id="orge216fbb"></a>
 
 #### 3 Khettas of Giving
 
-[
+
 
 -   **Guṇakkhetta** (field of virtue): samaṇabrāhmaṇa
 -   **Upakārikkhetta** (field of helpers): ?
@@ -2056,7 +2056,7 @@ All beings are:
     -   vanibbaka: mendicants
     -   yācakānaṃ: beggard
 
-]  
+  
 
 
 <a id="org51f7f6c"></a>
@@ -2079,7 +2079,7 @@ All beings are:
 
 #### 4 Bhāvitatta
 
-[
+
 **Bhāvitatta**: SN-a: bhāvitattoti attānaṃ bhāvetvā vaḍḍhetvā ṭhito: one who developed and cultivated himself &#x2013; arahats
 
 -   note: most frequently found in verses
@@ -2172,14 +2172,14 @@ All beings are:
 </tbody>
 </table>
 
-]
+
 
 
 <a id="org68b5a20"></a>
 
 ### Dhātusosaṃsandanasuttaṃ
 
-[
+
 
 > **Dhātuso, bhikkhave, sattā sattehi saddhiṃ saṃsandanti samenti. … Atītampi… Anāgatampi… Etarahipi…**  
 > Acc. to dispositions, monks, beings associate each other (true in the 3 times)  
@@ -2194,14 +2194,14 @@ All beings are:
     -   **Ajjhāsaya**: disposition
     -   **Adhimutti**: temperament
 
-]
+
 
 
 <a id="org18ea415"></a>
 
 #### Related Passages
 
-[
+
 
 -   SN
     -   Caṅkama Sutta: mahāpaññās, etc. associate each other
@@ -2237,21 +2237,21 @@ All beings are:
     -   Just as foul things associate with their own kind (excrement with excrement, etc), so too hīnajjhāsaya beings associate each other in the 3 times
     -   Just as pure things associate with their own kind (honey with honey, etc.), so too kalyāṇajjhāsaya beings associate each other in the 3 times
 
-]  
+  
 
 
 <a id="orge69a617"></a>
 
 #### Saṃsaggā vanatho jāto asaṃsaggena chijjati
 
-[
+
 
 -   **Saṁsaggā**: due to the 5 types of association; e.g., seeing, hearing
 -   **Vanatho** jāto: the forest of defilement is born
 -   **Asaṁsaggena**: by non-association, rejection of the 5 associations, by kāya- and citta- viveka
 -   **Chijjati**: it is cut off by samucchedaviveka
 
-]
+
 
 
 <a id="org4290a05"></a>
@@ -2299,7 +2299,7 @@ All beings are:
 
 #### 3 Sekhaparihānasaṃvattanadhammas
 
-[
+
 Dhammas that lead to the decline of sekhas
 
 -   **Kammārāmo kammarato kammārāmatamanuyutto**: enjoys work, spends the entire day making or repairing requisites
@@ -2325,7 +2325,7 @@ Dhammas that lead to the decline of sekhas
             -   obstacles to the attainment of all paths
     -   3 dhammā sekhassa bhikkhuno aparihānāya saṃvattanti (lead to the non-decline of a sekha): their negatives
 
-> **Kammārāmo bhassārāmo [bhassarato (sabbatha)], niddārāmo ca uddhato,  
+> **Kammārāmo bhassārāmo bhassarato (sabbatha), niddārāmo ca uddhato,  
 > Abhabbo tādiso bhikkhu, phuṭṭhuṃ sambodhimuttamaṃ**  
 > A monk who delights in work, talk, and sleep, and is restless,   
 > is incapable of attaining the supreme enlightenment  
@@ -2335,14 +2335,14 @@ Dhammas that lead to the decline of sekhas
 > Therefore, a monk who has few duties, sleeps little, and is free from restlessness   
 > is capable of attaining the supreme enlightenment
 
-]
+
 
 
 <a id="orga46346b"></a>
 
 #### Other Sekhaparihānasaṁvattanadhammas
 
-[
+
 Complete list: 26
 
 -   **Kammārāmo kammarato kammārāmatamanuyutto**
