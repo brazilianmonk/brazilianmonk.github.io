@@ -68,7 +68,7 @@ Here, you'll find my Dhamma notes and summaries (still being formatted). These a
 - [Suttanta (Semester VI) – bhante Devānanda](/summaries/suttanta/semester-6)
 - [**Dhutaṅga (Austere Practices)**](/summaries/suttanta/dhutanga)
 
-## Khuddaka Nikāya
+### Khuddaka Nikāya
 
 - [**Khuddaka Nikāya**](/summaries/khuddaka/khuddaka-nikaya)
 - [Khuddaka Nikāya (Semester II) – āvuso Sumana](/summaries/khuddaka/semester-2)
@@ -76,7 +76,7 @@ Here, you'll find my Dhamma notes and summaries (still being formatted). These a
 - [Khuddaka Nikāya (Semester IV) – āvuso Sumana](/summaries/khuddaka/semester-4)
 - [Khuddaka Nikāya (Semester V) – āvuso Sumana](/summaries/khuddaka/semester-5)
 - [Khuddaka Nikāya (Semester VI) – āvuso Sumana](/summaries/khuddaka/semester-6)
-
+- [**Itivuttaka**](/summaries/khuddaka/itivuttaka)
 
 ## Pāḷi Language
 
