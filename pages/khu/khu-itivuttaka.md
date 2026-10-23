@@ -6,7 +6,6 @@ permalink: /summaries/khuddaka/itivuttaka
 
 ## Introduction
 
-
 <a id="orga7c59bd"></a>
 
 ### Itivuttaka &#x2013; meaning
@@ -1355,14 +1354,10 @@ questions-and-answers; catechism; one of the nine kinds of suttas; lit. to be sp
 <a id="org5be0483"></a>
 
 ## Tikanipāta
-
-
-<a id="org55d2c15"></a>
-
 ### Dutiyavedanāsuttaṃ
 
 
-<a id="org10d7e53"></a>
+<a id="org2854538"></a>
 
 #### Vedanās and Their Respective Anusaya, etc.
 
@@ -1483,7 +1478,7 @@ questions-and-answers; catechism; one of the nine kinds of suttas; lit. to be sp
       
 
 
-<a id="orge5d09c5"></a>
+<a id="org906a9ff"></a>
 
 #### Sukhāvedanā dukkhato daṭṭhabbā
 
@@ -1509,7 +1504,7 @@ All beings are:
   
 
 
-<a id="org6bf0f71"></a>
+<a id="orgc219ee4"></a>
 
 #### Dukkhāvedanā sallato daṭṭhabbā
 
@@ -1535,7 +1530,7 @@ All beings are:
  
 
 
-<a id="orgf4506ce"></a>
+<a id="org80d3723"></a>
 
 #### Adukkhamasukhā vedanā aniccato daṭṭhabbā
 
@@ -1573,7 +1568,7 @@ All beings are:
 
 
 
-<a id="orgfb694eb"></a>
+<a id="org29491c9"></a>
 
 #### Purpose of Contemplation
 
@@ -1590,7 +1585,7 @@ All beings are:
 
 
 
-<a id="orgc56ee13"></a>
+<a id="org861b619"></a>
 
 #### Qualities of a Sammaddasa
 
@@ -1617,7 +1612,7 @@ All beings are:
 
 
 
-<a id="org177a27d"></a>
+<a id="orgfa0a8ed"></a>
 
 #### 3 Dukkhas vs. 3 Vedanās
 
@@ -1644,12 +1639,12 @@ All beings are:
 
 
 
-<a id="org3c2143e"></a>
+<a id="org2e081ab"></a>
 
 ### Dutiyaesanāsuttaṃ
 
 
-<a id="orga67eb1b"></a>
+<a id="org642ba6a"></a>
 
 #### 3 Esanās
 
@@ -1726,104 +1721,125 @@ All beings are:
 
 
 
-1.  Kāmesanā
 
-    
-    
-    -   **Kāmarāga**: craving for sense pleasures
-        -   Ab-Vib: yo kāmesu kāmacchando kāmarāgo kāmanandī kāmataṇhā kāmasineho kāmapariḷāho kāmamucchā kāmajjhosānaṃ – ayaṃ vuccati kāmesanā 
-            -   whatever sensual desire for sensual pleasures, sensual lust, sensual affection, sensual passion, sensual infatuation, and sensual attachment
-        -   DN-ṭ: kāme esati gavesati etāyāti kāmesanā (that by which one searches or seeks for sensual pleasures is called kāmesanā)
-            -   rāga arises by way of longing for, seeking, and enjoying sensual pleasure 7
-    -   **Kāmarāga with its associated akusala kāya-, vacī, mano- kammas**
-        -   kāmarāgo tadekaṭṭhaṃ akusalaṃ kāyakammaṃ vacīkammaṃ manokammaṃ
-    -   e.g. bodhisatta while in the lay life
-    
-    
+<a id="orga198c39"></a>
 
-2.  Bhavesanā
-
-    
-    
-    -   **Bhavarāga**: rūparāga and arūparāga
-        -   Ab-Vib: yo bhavesu bhavachando bhavarāgo bhavanandī bhavataṇhā bhavasineho bhavapariḷāho bhavamucchā bhavajjhosānaṃ – ayaṃ vuccati bhavesanā
-            -   whatever desire for existence, lust for existence, affection for existence, passion for existence, infatuation for existence, and attachment for existence
-        -   way of longing for existence, by way of delight in existence, and by way of clinging to existence
-    -   **Bhavarāga with its associated akusala kāya-, vācī, mano- kammas**
-        -   bhavarāgo tadekaṭṭhaṃ akusalaṃ kāyakammaṃ vacīkammaṃ manokammaṃ
-    -   e.g. bodhisatta during the practices of jhānas
-    
-      
-
-3.  Brahmacariyesanā
-
-    
-    
-    -   **10 Antaggāhika Diṭṭhi** (sassato loko…) and whatever similar wrong view, grasping at wrong view, desert of wrong view, contortion of wrong view, writhing of wrong views, fetter of wrong view, grasping, establishment of wrong view, adherence, seizing, wrong way, wrongness, and distorted grasp of a wrong doctrine
-        -   the wrong search for a holy life, which is formulated or propounded by theorists
-        -   brahmacariya: here, diṭṭhi because it serves as the basis for the holy life devised by theorists
-        -   this is called diṭṭhibrahmacariyesanā (wrong search for holy life)
-    -   **Antaggāhikādiṭṭhi with the akusala kāya-, vacī-, and mano- kammas** 
-        -   antaggāhikā diṭṭhi tadekaṭṭhaṃ akusalaṃ kāyakammaṃ vacīkammaṃ manokammaṃ
-    -   Notes:
-        -   DN-a: diṭṭhigatikasammatassa brahmacariyassa gavesanadiṭṭhi.
-        -   SN-a: diṭṭhigatikaparikappitassa brahmacariyassa nimittabhāvato micchādiṭṭhi "brahmacariya"nti adhippetā.
-    
-    
+##### Kāmesanā
 
 
-<a id="org594c556"></a>
+
+-   **Kāmarāga**: craving for sense pleasures
+    -   Ab-Vib: yo kāmesu kāmacchando kāmarāgo kāmanandī kāmataṇhā kāmasineho kāmapariḷāho kāmamucchā kāmajjhosānaṃ – ayaṃ vuccati kāmesanā 
+        -   whatever sensual desire for sensual pleasures, sensual lust, sensual affection, sensual passion, sensual infatuation, and sensual attachment
+    -   DN-ṭ: kāme esati gavesati etāyāti kāmesanā (that by which one searches or seeks for sensual pleasures is called kāmesanā)
+        -   rāga arises by way of longing for, seeking, and enjoying sensual pleasure 7
+-   **Kāmarāga with its associated akusala kāya-, vacī, mano- kammas**
+    -   kāmarāgo tadekaṭṭhaṃ akusalaṃ kāyakammaṃ vacīkammaṃ manokammaṃ
+-   e.g. bodhisatta while in the lay life
+
+
+
+
+<a id="org232b07e"></a>
+
+##### Bhavesanā
+
+
+
+-   **Bhavarāga**: rūparāga and arūparāga
+    -   Ab-Vib: yo bhavesu bhavachando bhavarāgo bhavanandī bhavataṇhā bhavasineho bhavapariḷāho bhavamucchā bhavajjhosānaṃ – ayaṃ vuccati bhavesanā
+        -   whatever desire for existence, lust for existence, affection for existence, passion for existence, infatuation for existence, and attachment for existence
+    -   way of longing for existence, by way of delight in existence, and by way of clinging to existence
+-   **Bhavarāga with its associated akusala kāya-, vācī, mano- kammas**
+    -   bhavarāgo tadekaṭṭhaṃ akusalaṃ kāyakammaṃ vacīkammaṃ manokammaṃ
+-   e.g. bodhisatta during the practices of jhānas
+
+  
+
+
+<a id="org49ebec2"></a>
+
+##### Brahmacariyesanā
+
+
+
+-   **10 Antaggāhika Diṭṭhi** (sassato loko…) and whatever similar wrong view, grasping at wrong view, desert of wrong view, contortion of wrong view, writhing of wrong views, fetter of wrong view, grasping, establishment of wrong view, adherence, seizing, wrong way, wrongness, and distorted grasp of a wrong doctrine
+    -   the wrong search for a holy life, which is formulated or propounded by theorists
+    -   brahmacariya: here, diṭṭhi because it serves as the basis for the holy life devised by theorists
+    -   this is called diṭṭhibrahmacariyesanā (wrong search for holy life)
+-   **Antaggāhikādiṭṭhi with the akusala kāya-, vacī-, and mano- kammas** 
+    -   antaggāhikā diṭṭhi tadekaṭṭhaṃ akusalaṃ kāyakammaṃ vacīkammaṃ manokammaṃ
+-   Notes:
+    -   DN-a: diṭṭhigatikasammatassa brahmacariyassa gavesanadiṭṭhi.
+    -   SN-a: diṭṭhigatikaparikappitassa brahmacariyassa nimittabhāvato micchādiṭṭhi "brahmacariya"nti adhippetā.
+
+
+
+
+<a id="orgaf6d1ec"></a>
 
 #### Related Passages
 
-1.  2 Pariyesanās
 
-    -   **Anariya-pariyesanā** (ignoble search): someone subject to jāti, jarā, byādhi, maraṇa, soka, and saṁkilesa seeking what is also subject to these dhammas &#x2013; upadhi: acquisitions for sensual pleasures
-        -   e.g. of what is subject to all 6: wives and children, slaves, goats and sheep, chickens and pigs, elephants, cattle, horses and mares
-        -   e.g. of what is subject to jāti, jarā, and saṁkilesa: gold and silver
-    -   **Ariya-pariyesanā** (noble search): someone subject to these 6 dhammas, having seen their danger, seeking what is not subject to them &#x2013; Nibbāna
+<a id="orgb7b1d40"></a>
 
-2.  2 Pariyesanās in Sakkapañhā
+##### 2 Pariyesanās
 
-    -   **Sevitabbā pariyesanā**: increases kusala and decreases akusala
-    -   **Asevitabbā pariyesanā**: increases akusala and decreases kusala
-
-3.  Bodhisatta's renounciation
-
-    -   bodhisatta renounced when young
-    -   in quest of the wholesome (kusala-gavesī) and seeking the supreme state of sublime peace (anuttara-santivarapada), he eventually approached Āḷāra Kālāma and Uddaka Rāmaputta
-
-4.  10 Ariyavāsas
-
-    -   **Ekārakkha**: one who has a single guard &#x2013; sati
-    -   **Anāvilasaṅkappa**: one who has purified his thought &#x2013; 3 micchāsaṅkappa
-    -   **Samavayasaṭṭhesana**: one who has renounced the 3 esanās &#x2013; arahat
-        -   sammā avayā saṭṭhā esanā assāti samavayasaṭṭhesano, sammā vissaṭṭhasabbaesanoti attho: one whose seeking has been thoroughly relinquished and released, one who has completely abandoned all seeking
-        -   saṃ: well, thoroughly
-        -   avaya: relinquished
-        -   saṭṭha: released
-        -   esanā: search
-    -   **Caturāpassena**: one who has 4 supports
-        -   he uses certain things
-        -   patiently endures certain things
-        -   avoids certain things
-        -   and dispels certain things
-    -   **Pañcaṅgavippahīna**: one who has abandoned 5 factors &#x2013; nīvaraṇas
-    -   **Chalaṅgasamannāgata**: one who is endowed with 6 factors &#x2013; chalaṅgupekkhā
-    -   **Paṇunnapaccekasacca**: one who has dispelled personal truths
-        -   10 antaggāhika-diṭṭhi
-    -   **Passaddhakāyasaṅkhāra**: one who has tranquilized bodily formation &#x2013; 4th jhāna
-    -   **Suvimuttacitta**: one whose mind is liberated from lobha, dosa and moha
-    -   **Suvimuttapaññā**: one who understands that lobha, dosa and moha have been removed and will not arise again, like a palm stump cut off at the root
-    -   Notes: DN Dasuttara Sutta: dasa dhammā duppaṭivijjha: 10 things difficult to penetrate (the above 10)
+-   **Anariya-pariyesanā** (ignoble search): someone subject to jāti, jarā, byādhi, maraṇa, soka, and saṁkilesa seeking what is also subject to these dhammas &#x2013; upadhi: acquisitions for sensual pleasures
+    -   e.g. of what is subject to all 6: wives and children, slaves, goats and sheep, chickens and pigs, elephants, cattle, horses and mares
+    -   e.g. of what is subject to jāti, jarā, and saṁkilesa: gold and silver
+-   **Ariya-pariyesanā** (noble search): someone subject to these 6 dhammas, having seen their danger, seeking what is not subject to them &#x2013; Nibbāna
 
 
-<a id="orgc133798"></a>
+<a id="orgf8c49b9"></a>
+
+##### 2 Pariyesanās in Sakkapañhā
+
+-   **Sevitabbā pariyesanā**: increases kusala and decreases akusala
+-   **Asevitabbā pariyesanā**: increases akusala and decreases kusala
+
+
+<a id="org72fff32"></a>
+
+##### Bodhisatta's renounciation
+
+-   bodhisatta renounced when young
+-   in quest of the wholesome (kusala-gavesī) and seeking the supreme state of sublime peace (anuttara-santivarapada), he eventually approached Āḷāra Kālāma and Uddaka Rāmaputta
+
+
+<a id="org8e3b6f0"></a>
+
+##### 10 Ariyavāsas
+
+-   **Ekārakkha**: one who has a single guard &#x2013; sati
+-   **Anāvilasaṅkappa**: one who has purified his thought &#x2013; 3 micchāsaṅkappa
+-   **Samavayasaṭṭhesana**: one who has renounced the 3 esanās &#x2013; arahat
+    -   sammā avayā saṭṭhā esanā assāti samavayasaṭṭhesano, sammā vissaṭṭhasabbaesanoti attho: one whose seeking has been thoroughly relinquished and released, one who has completely abandoned all seeking
+    -   saṃ: well, thoroughly
+    -   avaya: relinquished
+    -   saṭṭha: released
+    -   esanā: search
+-   **Caturāpassena**: one who has 4 supports
+    -   he uses certain things
+    -   patiently endures certain things
+    -   avoids certain things
+    -   and dispels certain things
+-   **Pañcaṅgavippahīna**: one who has abandoned 5 factors &#x2013; nīvaraṇas
+-   **Chalaṅgasamannāgata**: one who is endowed with 6 factors &#x2013; chalaṅgupekkhā
+-   **Paṇunnapaccekasacca**: one who has dispelled personal truths
+    -   10 antaggāhika-diṭṭhi
+-   **Passaddhakāyasaṅkhāra**: one who has tranquilized bodily formation &#x2013; 4th jhāna
+-   **Suvimuttacitta**: one whose mind is liberated from lobha, dosa and moha
+-   **Suvimuttapaññā**: one who understands that lobha, dosa and moha have been removed and will not arise again, like a palm stump cut off at the root
+-   Notes: DN Dasuttara Sutta: dasa dhammā duppaṭivijjha: 10 things difficult to penetrate (the above 10)
+
+
+<a id="org33ee180"></a>
 
 ### Caykkkhusuttaṃ
 
 
-<a id="org027e8ee"></a>
+<a id="org773320c"></a>
 
 #### 3 Cakkhus
 
@@ -1841,182 +1857,203 @@ All beings are:
 > Through the attainment of the wisdom eye of that noble person, one is liberated from all   
 > suffering
 
-1.  2 Maṃsacakkhus
+
+<a id="orgd699b8c"></a>
+
+##### 2 Maṃsacakkhus
+
+
+
+-   **Sasambhāracakkhu** (physiological eye)
+    -   lump of flesh situated in the eye socket, circumscribed underneath by the eye-socket bone, above by the brow bone, laterally by the corners of the eye, internally by the brain, and externally by the eyelashes
+        -   14/44 components:
+            -   8 avinibbhogarūpa
+            -   jīvitindriya
+            -   bhāvarūpa
+            -   kāya-pasāda
+            -   cakkhuppasāda
+            -   sambhava (collocation): productive liquid; semen
+            -   saṇṭhāna (shape)
+                -   if x 4 samuṭṭhāna: 40
+    -   white, round, broad, extended, large eye
+    -   physical basis: a mass of flesh situated in the eye socket and connected to the brain by sinew-like cords, containing white, black, and red parts together with the earth, water, fire, and air elements
+        -   white: predominant phlegm
+        -   black: predominant bile
+        -   red: predominant blood
+        -   stiffness: predominant paṭhavī
+        -   oozing: predominant āpo
+        -   warmth: predominant tejo
+        -   movement: predominant vāyo
+-   **Pasādacakkhu** (the sensitivity-eye)
+    -   the size of a mere louse's head
+    -   location:
+        -   at the centre of the iris (the black circle), which is surrounded by the white sclera (the white circle)
+        -   it permeates the 7 ocular membranes, like oil on 7 layers of cotton
+        -   located in the pupil, or visual disc (diṭṭhimaṇḍala), where the images of the bodies of those standing in front of it appear
+    -   supported by the 4 mahābhūtās (upholding, cohering, maturing, and moving) like a prince attended by 4 nurses who hold, bathe, dress, and fan him
+    -   acts as vatthu and dvāra for cakkhuviññāṇa and cakkhudāravīthicittas
+
+
+
+1.  Buddha's Maṁsacakkhu
 
     
     
-    -   **Sasambhāracakkhu** (physiological eye)
-        -   lump of flesh situated in the eye socket, circumscribed underneath by the eye-socket bone, above by the brow bone, laterally by the corners of the eye, internally by the brain, and externally by the eyelashes
-            -   14/44 components:
-                -   8 avinibbhogarūpa
-                -   jīvitindriya
-                -   bhāvarūpa
-                -   kāya-pasāda
-                -   cakkhuppasāda
-                -   sambhava (collocation): productive liquid; semen
-                -   saṇṭhāna (shape)
-                    -   if x 4 samuṭṭhāna: 40
-        -   white, round, broad, extended, large eye
-        -   physical basis: a mass of flesh situated in the eye socket and connected to the brain by sinew-like cords, containing white, black, and red parts together with the earth, water, fire, and air elements
-            -   white: predominant phlegm
-            -   black: predominant bile
-            -   red: predominant blood
-            -   stiffness: predominant paṭhavī
-            -   oozing: predominant āpo
-            -   warmth: predominant tejo
-            -   movement: predominant vāyo
-    -   **Pasādacakkhu** (the sensitivity-eye)
-        -   the size of a mere louse's head
-        -   location:
-            -   at the centre of the iris (the black circle), which is surrounded by the white sclera (the white circle)
-            -   it permeates the 7 ocular membranes, like oil on 7 layers of cotton
-            -   located in the pupil, or visual disc (diṭṭhimaṇḍala), where the images of the bodies of those standing in front of it appear
-        -   supported by the 4 mahābhūtās (upholding, cohering, maturing, and moving) like a prince attended by 4 nurses who hold, bathe, dress, and fan him
-        -   acts as vatthu and dvāra for cakkhuviññāṇa and cakkhudāravīthicittas
+    -   5 colors: 
+        -   nīla: where the eyelashes are established
+            -   like a blue flax flower (umā-puppha)
+        -   pīta: beyond the eyelash area
+            -   like a kaṇikārapuppha
+        -   lohita: both corners of the eyes
+            -   like a ruby-coloured insect (indagopaka)
+        -   kaṇha: the middle
+            -   like polished black stone (addāriṭṭha)
+        -   odāta: beyond the middle
+            -   like the morning star (osadhitāraka)
+    -   vision:
+        -   1 yojana all around both by day and even 4-factored night
+            -   4 factored night: no sun, waning fortnight, dense forest, and cloudy weather
+        -   wall, doors, rampart, mountain, thicket, or creeper cannot obstruct his vision
+            -   able to pick out a marked sesame seed from a cartload of such seeds
+    -   image(https://www.google.com/search?q=sweet+eye+buddha&client=tablet-android-samsung-ss&hs=pUdV&sca_esv=856d4ba1f97ab2d0&udm=2&biw=1128&bih=1611&sxsrf=APpeQntNM_rISEc8QxA8GCFe6Mu2mOz2CQ%3A1784691486935&ei=HjtgaoLUOMfG4-EPp7TeOQ&ved=0ahUKEwiC2_LwreWVAxVH4zgGHSeaNwcQ4dUDCBE&uact=5&oq=sweet+eye+buddha&gs_lp=Egtnd3Mtd2l6LWltZyIQc3dlZXQgZXllIGJ1ZGRoYUj1aFCADVijZnADeACQAQGYAYwGoAHAMaoBDjAuMS4yMC4xLjAuMS4xuAEDyAEA-AEBmAIPoALSGKgCA8ICBxAjGMkCGCfCAgYQABgHGB7CAgoQABiABBiKBRhDwgIQEAAYgAQYigUYQxixAxiDAcICChAjGMkCGOoCGCfCAgUQABiABMICCBAAGIAEGLEDwgILEAAYgAQYigUYsQPCAgsQABiABBixAxiDAcICDRAAGIAEGIoFGEMYsQPCAgQQABgDwgIEEAAYHsICBhAAGAgYHsICCBAAGAgYHhgKmAMHiAYBkgcIMi4wLjEyLjGgB95jsgcGMi0xMi4xuAe0GMIHBjItMS4xNMgHsQGACAE&sclient=gws-wiz-img)
     
-    
-    
-    1.  Buddha's Maṁsacakkhu
-    
-        
-        
-        -   5 colors: 
-            -   nīla: where the eyelashes are established
-                -   like a blue flax flower (umā-puppha)
-            -   pīta: beyond the eyelash area
-                -   like a kaṇikārapuppha
-            -   lohita: both corners of the eyes
-                -   like a ruby-coloured insect (indagopaka)
-            -   kaṇha: the middle
-                -   like polished black stone (addāriṭṭha)
-            -   odāta: beyond the middle
-                -   like the morning star (osadhitāraka)
-        -   vision:
-            -   1 yojana all around both by day and even 4-factored night
-                -   4 factored night: no sun, waning fortnight, dense forest, and cloudy weather
-            -   wall, doors, rampart, mountain, thicket, or creeper cannot obstruct his vision
-                -   able to pick out a marked sesame seed from a cartload of such seeds
-        -   image(https://www.google.com/search?q=sweet+eye+buddha&client=tablet-android-samsung-ss&hs=pUdV&sca_esv=856d4ba1f97ab2d0&udm=2&biw=1128&bih=1611&sxsrf=APpeQntNM_rISEc8QxA8GCFe6Mu2mOz2CQ%3A1784691486935&ei=HjtgaoLUOMfG4-EPp7TeOQ&ved=0ahUKEwiC2_LwreWVAxVH4zgGHSeaNwcQ4dUDCBE&uact=5&oq=sweet+eye+buddha&gs_lp=Egtnd3Mtd2l6LWltZyIQc3dlZXQgZXllIGJ1ZGRoYUj1aFCADVijZnADeACQAQGYAYwGoAHAMaoBDjAuMS4yMC4xLjAuMS4xuAEDyAEA-AEBmAIPoALSGKgCA8ICBxAjGMkCGCfCAgYQABgHGB7CAgoQABiABBiKBRhDwgIQEAAYgAQYigUYQxixAxiDAcICChAjGMkCGOoCGCfCAgUQABiABMICCBAAGIAEGLEDwgILEAAYgAQYigUYsQPCAgsQABiABBixAxiDAcICDRAAGIAEGIoFGEMYsQPCAgQQABgDwgIEEAAYHsICBhAAGAgYHsICCBAAGAgYHhgKmAMHiAYBkgcIMi4wLjEyLjGgB95jsgcGMi0xMi4xuAe0GMIHBjItMS4xNMgHsQGACAE&sclient=gws-wiz-img)
-        
-           
+       
 
-2.  Dibbacakkhu
 
-    See Dibbacakkhu section in Samatha
-    
-    1.  Buddha's Dibbacakkhu
-    
-        
-        All standard qualities of dibbacakkhu with the following additions:
-        
-        -   **Yāvatakaṃ vā pana ākaṅkheyya tāvatakaṃ passeyya**: he sees as much as he wishes
-            -   sahassī cūḷanikā lokadhātu: 1.000 lokadhātu/cakkavāḷa
-            -   dvisahassī majjhimikā lokadhātu: 1.000.000
-                -   jātikkhetta
-            -   tisahassī mahāsahassī lokadhātu: 1.000.000.000
-                -   acc. to guṇāputtatissatthera: dasakoṭisatasahassa : 10 x 10.000 x 100.000 = 10.000.000.000
-                -   āṇakkhetta
-            -   yāvatakaṃ vā pana ākaṅkheyya tāvatakaṃ passeyya: he sees as much as he wishes
-                -   visayakkhetta
-        -   3 Khettas
-            -   Jātikkhetta: dasasatasahassa
-            -   Āṇākkhetta: dasakoṭisatasahassa
-                -   āṭānātiyaparitta
-                -   isigiliparitta
-                -   dhajaggaparitta
-                -   bojjhaṅgaparitta
-                -   khandhaparitta
-                -   moraparitta
-                -   mettaparitta
-                -   ratanaparitta
-            -   Visayakkhetta: no limit
-        
-        
+<a id="orgcfff0be"></a>
 
-3.  Paññācakkhu
+##### Dibbacakkhu
+
+See Dibbacakkhu section in Samatha
+
+1.  Buddha's Dibbacakkhu
 
     
-    **Paññā**: here, **āsavakkhayañāṇa**
+    All standard qualities of dibbacakkhu with the following additions:
     
-    -   discerns the 4 NT
-    -   -a: causes one to discern (paññāpeti) anicca, dukkha, and anattā
-    -   lakkhaṇādi:
-        -   lakkhaṇa:
-            -   penetrating phenomena according to their own nature
-            -   unfaltering penetration, like an arrow shot by a skilled archer
-        -   rasa: illuminate its objective field, like a lamp
-        -   paccupaṭṭhāna: non-confusion, like a reliable guide in a forest
-    -   Dhammacakkappavattanasutta: cakkhuṃ udapādi, ñāṇaṃ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi
+    -   **Yāvatakaṃ vā pana ākaṅkheyya tāvatakaṃ passeyya**: he sees as much as he wishes
+        -   sahassī cūḷanikā lokadhātu: 1.000 lokadhātu/cakkavāḷa
+        -   dvisahassī majjhimikā lokadhātu: 1.000.000
+            -   jātikkhetta
+        -   tisahassī mahāsahassī lokadhātu: 1.000.000.000
+            -   acc. to guṇāputtatissatthera: dasakoṭisatasahassa : 10 x 10.000 x 100.000 = 10.000.000.000
+            -   āṇakkhetta
+        -   yāvatakaṃ vā pana ākaṅkheyya tāvatakaṃ passeyya: he sees as much as he wishes
+            -   visayakkhetta
+    -   3 Khettas
+        -   Jātikkhetta: dasasatasahassa
+        -   Āṇākkhetta: dasakoṭisatasahassa
+            -   āṭānātiyaparitta
+            -   isigiliparitta
+            -   dhajaggaparitta
+            -   bojjhaṅgaparitta
+            -   khandhaparitta
+            -   moraparitta
+            -   mettaparitta
+            -   ratanaparitta
+        -   Visayakkhetta: no limit
     
     
 
-4.  Dhammacakkhu
+
+<a id="org09d0b78"></a>
+
+##### Paññācakkhu
+
+
+**Paññā**: here, **āsavakkhayañāṇa**
+
+-   discerns the 4 NT
+-   -a: causes one to discern (paññāpeti) anicca, dukkha, and anattā
+-   lakkhaṇādi:
+    -   lakkhaṇa:
+        -   penetrating phenomena according to their own nature
+        -   unfaltering penetration, like an arrow shot by a skilled archer
+    -   rasa: illuminate its objective field, like a lamp
+    -   paccupaṭṭhāna: non-confusion, like a reliable guide in a forest
+-   Dhammacakkappavattanasutta: cakkhuṃ udapādi, ñāṇaṃ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi
+
+
+
+
+<a id="org96b4a0b"></a>
+
+##### Dhammacakkhu
+
+
+**Dhammacakkhu**: the Eye of Truth
+
+-   Virajaṃ vītamalaṃ dhammacakkhuṁ udapādi: arose in the V. Koṇḍañña
+    -   Yaṃ kiñci samudayadhammaṃ sabbaṃ taṃ nirodhadhammaṃ
+-   arose to Kolita with the verse "Ye dhammā hetuppabhavā&#x2026;"
+-   arose to countless others with longer teachings (anupubbikathā ending in sāmukkaṃsika-dhamma)
+-   -a: meanings
+    -   V-a: sotāpattimaggañāṇaṃ
+    -   DN-a:
+        -   sotāpattimaggo
+        -   tiṇṇaṃ maggānaṃ
+        -   āsavakkhaya
+    -   Cnd-a:
+        -   paṭhamamaggañāṇaṃ
+        -   ādīni tīṇi maggañāṇāni
+        -   catutthamaggañāṇampi
+    -   SN-a: 4 maggas and 4 phalas
 
     
-    **Dhammacakkhu**: the Eye of Truth
-    
-    -   Virajaṃ vītamalaṃ dhammacakkhuṁ udapādi: arose in the V. Koṇḍañña
-        -   Yaṃ kiñci samudayadhammaṃ sabbaṃ taṃ nirodhadhammaṃ
-    -   arose to Kolita with the verse "Ye dhammā hetuppabhavā&#x2026;"
-    -   arose to countless others with longer teachings (anupubbikathā ending in sāmukkaṃsika-dhamma)
-    -   -a: meanings
-        -   V-a: sotāpattimaggañāṇaṃ
-        -   DN-a:
-            -   sotāpattimaggo
-            -   tiṇṇaṃ maggānaṃ
-            -   āsavakkhaya
-        -   Cnd-a:
-            -   paṭhamamaggañāṇaṃ
-            -   ādīni tīṇi maggañāṇāni
-            -   catutthamaggañāṇampi
-        -   SN-a: 4 maggas and 4 phalas
-    
-        
-
-5.  Buddha's Paññācakkhu
-
-    
-    Mahāniddesa, Cūḷaniddesa (summary): qualities of the Buddha's wisdom
-    
-    -   **Nature**: great, wide, joyous, swift, sharp, and penetrating wisdom
-    -   **Perfection**: paṭisambhidāpatta, visārajja, dasabala; answers clearly the questions of even the wisest people
-    -   **Function**:
-        -   guide, trainer, persuader, instructor, one who causes understanding, observer, one who inspires faith
-        -   "ariser" of the unarisen path
-        -   producer of the unproduced path
-        -   declarer of the undeclared path
-        -   knower, discoverer, master of the path
-    -   **Scope**:
-        -   all realities across the three times
-        -   all beings (asaya, anusaya, carita, adhimutti…)
-        -   knowledge vs knowable
-            -   as far as the knowable extends, so far extends his knowledge
-            -   like 2 perfectly fitted halves of a casket meet exactly at their boundaries
-    
-    
-
-6.  Verse
-
-    1.  Maṃsacakkhussa uppādo, maggo dibbassa cakkhuno
-    
-        -   **Maṁsacakkhussa uppādo**: the arising of the fleshly eye
-        -   **Maggo dibbassa cakkhuno**: is the path to the divine eye, the means or cause 
-            -   maṁsacakkhu is needed for kasiṇāloka, which is needed for dibbacakkhu
-
-7.  Other Cakkhus
-
-    -   **Dhammacakkhu**
-        -   sotāpattimagga (most common)
-        -   lower 3 maggas
-        -   4 magga
 
 
-<a id="org74728d3"></a>
+<a id="org8f2e9c4"></a>
+
+##### Buddha's Paññācakkhu
+
+
+Mahāniddesa, Cūḷaniddesa (summary): qualities of the Buddha's wisdom
+
+-   **Nature**: great, wide, joyous, swift, sharp, and penetrating wisdom
+-   **Perfection**: paṭisambhidāpatta, visārajja, dasabala; answers clearly the questions of even the wisest people
+-   **Function**:
+    -   guide, trainer, persuader, instructor, one who causes understanding, observer, one who inspires faith
+    -   "ariser" of the unarisen path
+    -   producer of the unproduced path
+    -   declarer of the undeclared path
+    -   knower, discoverer, master of the path
+-   **Scope**:
+    -   all realities across the three times
+    -   all beings (asaya, anusaya, carita, adhimutti…)
+    -   knowledge vs knowable
+        -   as far as the knowable extends, so far extends his knowledge
+        -   like 2 perfectly fitted halves of a casket meet exactly at their boundaries
+
+
+
+
+<a id="org958fc37"></a>
+
+##### Verse
+
+1.  Maṃsacakkhussa uppādo, maggo dibbassa cakkhuno
+
+    -   **Maṁsacakkhussa uppādo**: the arising of the fleshly eye
+    -   **Maggo dibbassa cakkhuno**: is the path to the divine eye, the means or cause 
+        -   maṁsacakkhu is needed for kasiṇāloka, which is needed for dibbacakkhu
+
+
+<a id="org9f696b7"></a>
+
+##### Other Cakkhus
+
+-   **Dhammacakkhu**
+    -   sotāpattimagga (most common)
+    -   lower 3 maggas
+    -   4 magga
+
+
+<a id="org418d504"></a>
 
 ### Avuṭṭhikasuttaṃ
 
 
-<a id="org8651518"></a>
+<a id="orgbf228ae"></a>
 
 #### 3 Puggalas Acc. to Giving
 
@@ -2042,7 +2079,7 @@ All beings are:
 
 
 
-<a id="orge216fbb"></a>
+<a id="orgd8b0f94"></a>
 
 #### 3 Khettas of Giving
 
@@ -2059,7 +2096,7 @@ All beings are:
   
 
 
-<a id="org51f7f6c"></a>
+<a id="orgbfb7985"></a>
 
 #### Extra Notes
 
@@ -2070,12 +2107,12 @@ All beings are:
     -   when focusing on one's qualities of upekkhā, etc.: **without discrimination**
 
 
-<a id="orgc70b05b"></a>
+<a id="org0e68b93"></a>
 
 ### Bhidurasuttaṃ
 
 
-<a id="orgbc888b6"></a>
+<a id="orge3fac98"></a>
 
 #### 4 Bhāvitatta
 
@@ -2175,7 +2212,7 @@ All beings are:
 
 
 
-<a id="org68b5a20"></a>
+<a id="orgee0a427"></a>
 
 ### Dhātusosaṃsandanasuttaṃ
 
@@ -2197,7 +2234,7 @@ All beings are:
 
 
 
-<a id="org18ea415"></a>
+<a id="org7f204f5"></a>
 
 #### Related Passages
 
@@ -2240,7 +2277,7 @@ All beings are:
   
 
 
-<a id="orge69a617"></a>
+<a id="org2792405"></a>
 
 #### Saṃsaggā vanatho jāto asaṃsaggena chijjati
 
@@ -2254,7 +2291,7 @@ All beings are:
 
 
 
-<a id="org4290a05"></a>
+<a id="orgc2a307c"></a>
 
 #### Verses
 
@@ -2274,7 +2311,7 @@ All beings are:
 > are resolute and meditative, and who are ever ardent and wise.
 
 
-<a id="org690defd"></a>
+<a id="orgd8eedb9"></a>
 
 #### Extra Notes
 
@@ -2290,12 +2327,12 @@ All beings are:
 -   Notes: Pṭsb: has a deeper explanation
 
 
-<a id="org53b5f28"></a>
+<a id="orga44551e"></a>
 
 ### Parihānasuttaṃ
 
 
-<a id="orgbc1146b"></a>
+<a id="org233b4b2"></a>
 
 #### 3 Sekhaparihānasaṃvattanadhammas
 
@@ -2338,7 +2375,7 @@ Dhammas that lead to the decline of sekhas
 
 
 
-<a id="orga46346b"></a>
+<a id="org58e0c85"></a>
 
 #### Other Sekhaparihānasaṁvattanadhammas
 
@@ -2374,6 +2411,627 @@ Complete list: 26
     -   AN Paṭhamaparihānisutta: set of 7
     -   AN Parihānasutta: set of 8
     -   AN Dutiyasekhasutta: set of 5
-		-   AN: pairs
+    -   AN: pairs
+
+
+
+
+<a id="orge2c0d9f"></a>
+
+### Aggisuttaṃ
+
+
+<a id="org4b373f8"></a>
+
+#### 7 Aggis
+
+
+
+-   **3 to be abandoned**: burn mind and body like a fire its fuel
+    -   **Rāgaggi**
+        -   present: innumerable have died from not getting what they desire
+        -   future: apāya
+        -   to be quenched with asubhasaññā
+    -   **Dosaggi**
+        -   present: manopadosika devas
+        -   future: apāya
+        -   to be quenched with mettā
+    -   **Mohaggi**
+        -   present: khiḍḍāpadosika devas (moha => muṭṭhassati => enjoy too much => neglect eating => die)
+        -   future: apāya
+        -   to be quenched with nibbedhagāminipaññā
+    -   Notes: future results are even more dreadful
+-   **3 to be maintained** by honouring, respecting, esteeming, and venerating them
+    -   **Āhuneyyaggi** (fire of those worthy of offerings): refers to parents from whom one originates and receives great assistence
+        -   āhunaṃ: offering; here, hospitality or respect
+        -   e.g., Mittavindaka
+    -   **Gahapataggi** (householder’s fire): 
+        -   Itv-p: one’s children, wife, slaves, servants, and workers
+        -   -a: the husband because of being of great assistance to his wife by providing to her
+            -   he "causes burning" by being the cause for the adultress' suffering in hell
+                -   adultery => apāya
+            -   e.g., Kaṇṇamuṇḍakapetivatthu
+    -   **Dakkhiṇeyyaggi** (fire of those worthy of offerings):
+        -   -a: dakkhiṇā: 4 requisites
+        -   dakkhiṇeyya:
+            -   -p: virtuous samaṇabrāhmaṇas who refrain from intoxication and heedlessness, who are established in patience and gentleness, and who discipline, calm, and train themselves for Nibbāna
+            -   -a: bhikkhusaṅgha for being of great assistance to laypeople by encouraging them in wholesome qualities (refuge, precepts, merits, metitation)
+        -   they "cause burning" by being the cause for the abuser's suffering
+            -   abusing them => apāya
+        -   e.g., Revatīvimānavatthu
+    -   Notes:
+        -   why fire?
+            -   -a: they "cause burning" since if one mistreats them, one burns in hell
+            -   me:
+                -   fire is to what outsiders give sacrifices, so these are suitable and fruitful recipients of "sacrifices"
+                -   fire is what outsiders worship and maintain without letting it extinguish, so these are fires to be righteousy maintained
+-   **1 to be managed**
+    -   **Kaṭṭhaggi**: 
+        -   to be occasionally
+            -   kindled
+            -   regarded with equanimity
+            -   quenched
+            -   set aside
+        -   Notes: AN 5 Aggisutta:
+            -   5 dangers from fire:
+                -   harmful to the eyes
+                -   leads to bad complexion
+                -   causes weakness
+                -   encourages crowds
+                -   leads to useless talk
+
+
+
+
+<a id="orgd889c74"></a>
+
+### Devasaddasuttaṃ
+
+
+<a id="org50483a6"></a>
+
+#### Devasaddā
+
+
+
+-   **Deva**: here, celestial beings including brahmās (but excluding arūpāvacara-devas and asaññā-devas)
+-   **Sadda**: sound that
+    -   arises from pīti
+    -   arises through mutual conversation
+    -   occurs among ariyadevas, especially in Suddhāvāsa
+
+
+
+
+<a id="org2c616fb"></a>
+
+#### 3 Samayas & Devasaddas
+
+
+
+-   **Pabbajjā**: when he renounces, they say: "eso ariyasāvako mārena saddhiṃ saṅgāmāya ceteti" (this noble disciple intends to do battle with Māra!)
+    -   Māra:
+        -   Kilesa-māra: kilesas, the armies of māra, "Jetvāna maccuno senaṃ"
+        -   Devaputta-māra: he attacks such a person: “I shall frustrate this person’s aspiration”
+    -   Do battle: by means of tadaṅgappahāna and vikkhambhanappahāna, respectively
+    -   Ariyasāvaka:
+        -   one who wishes to enter the state of a disciple of the Buddha
+        -   antimabhavika-sāvakabodhi: one who will surely be a noble disciple
+            -   me: we could also say
+                -   antimabhavika-sammāsambodhi
+                -   antimabhavika-paccekasambodhi (tbc)
+-   **Bodhipakkhiyabhāvanā**: when he is engaged cultivating the bodhipakkhiyadhammas, they say: "eso ariyasāvako mārena saddhiṃ saṅgāmeti" (this noble disciple is doing battle with Māra!)
+    -   -a: 7 groups of bodhipakkhiyadhammas
+        -   during vipassanā: indirectly called bodhipakkhiya
+        -   at magga: directly called bodhipakkhiya
+-   **Bodhi**: when he attains bodhi (āsavakkhaya), they say: "eso ariyasāvako vijitasaṅgāmo tameva saṅgāmasīsaṃ abhivijiya ajjhāvasati" (this noble disciple, victorious in battle, having completely conquered that very battlefield, dwells there)
+    -   ajjhāvasati (dwells there): dwells in arahattaphalasamāpatti, the culmination of ariyamaggas
+        
+        > **Namo te purisājañña, yo tvaṃ dujjayamajjhabhū;  
+        > Jetvāna maccuno senaṃ, vimokkhena anāvaraṃ.**  
+        > May homage be to you, O thoroughbred man, you who have conquered a difficult conquest. Having won the army of Death, which cannot be hindered by the ordinary person, by liberation."
+
+
+
+
+<a id="org39c4255"></a>
+
+#### Extra Notes
+
+-   AN Tikanipāta Sāraṇīyasutta: 3 places that should be remembered throughout life
+    -   for a khattiya-king
+        -   his birthplace
+        -   his coronation place
+        -   where he won a battle
+    -   for a monk
+        -   where he went forth
+        -   where he first realized the Four Noble Truths
+        -   where he attained āsavakkhaya
+
+
+<a id="org54fdf1f"></a>
+
+### Pañcapubbanimittasuttaṃ
+
+
+<a id="org590dd81"></a>
+
+#### 5 Pubbanimitta of a Dying Deva
+
+
+Signs a deva is about to pass away:
+
+-   **Mālā milāyanti**: their garlands wither, losing their splendor as if under the midday sun
+-   **Vatthāni kilissanti**: their garments lose their radience and become stained as if cast upon mud and trampled upon
+-   **Kacchehi sedā muccanti**: they get a fever and sweat flows from their armpits (and entire body) like they're bedecked with a network of strings of pearls
+    -   normally, they do not sweat or get dirty like an image of gold or gems
+-   **Kāye dubbaṇṇiyaṃ okkamati**: their lose color, radiance, and power and become deformed
+    -   normally,
+        -   their radiance pervades 1-12 yojanas acc. to their power
+        -   they are free from broken teeth, grey hair, etc
+        -   they are not affected by cold or heat
+        -   female deity: appears 16 years old
+        -   male deity: appears 20 years old
+-   **Sake devo devāsane nābhiramati**: they do not delight in their own divine throne
+    -   normally, they enjoy and dally with their nymphs there
+
+
+
+
+<a id="orgd8e170d"></a>
+
+##### To Which Devas They Appear
+
+These signs appear only for deities of great power, like meteors, earthquakes, and lunar eclipses appear only for those of great merit
+
+-   some suddenly die and are reborn in hell and such signs may not appear
+-   teacher: maybe they only appear to those who die due to āyu- or kamma- khaya maraṇa
+-   they occur 7 days before the passing (in human reckoning)
+
+
+<a id="org3e911e2"></a>
+
+##### Passing Deva's Reaction to the Signs
+
+
+
+-   **Understanding**:
+    -   some devas don't know those are the signs of death
+    -   wiser ones recognize them as signs of death
+-   **Reaction**:
+    -   **grief**: overwhelming grief arises due to the impending death
+    -   **fever**: great fever arises, leading to the sweating
+    -   **wailing**:
+        -   some wail and lament, “I am burning! I am burning!”
+        -   others are unnafected by that but are unable to endure the suffering from separation from what is beloved, and wander about afflicted
+    -   **fear**:
+        -   one with weak merit fears rebirth
+        -   one with much merit does not
+-   Bodhisattas
+    -   Mv-a:
+        -   Vipassī Bodhisatta did not tremble
+        -   deities from 10 k world-systems gathered and requested him thus: “Sir, the ten perfections have been fulfilled by you, not by aspiring for the prosperity of Sakka, of Māra, of Brahmā, of a Cakkavattirāja, but for Buddhahood for the sake of leading beings across saṃsāra. Therefore, sir, now is the time; sir, now is the occasion for Buddhahood!”
+        -   He did the pañcamahāvilokana, etc.
+
+
+
+
+<a id="org73e12eb"></a>
+
+##### Other Deva's Reaction & Tivācānumodanā
+
+
+
+-   They usher the passing deva to the Nandana forest, which exists in every celestial realm
+-   **Tivācānumodanā**
+    -   **Ito, bho, sugatiṃ gaccha**: manussatta
+        -   admired by the deities because it is a means of acquiring qualities as the root cause for arising again as a deity
+    -   **Sugatiṃ gantvā suladdhalābhaṃ labha**: dhammavinaye saddhā: as a human, obtaining faith in the Dhammavinaya of the Buddha
+        -   simile:
+            -   wealth => prosperity => removes suffering of hunger, etc
+            -   saddhā => ariyadhanas => remove suffering of jāti, etc
+                -   Dhammavinayasaddhā => sammāpaṭipatti => 3 atthas (diṭṭhadhammika, samparāyika, and parama)
+                -   lokiya & lokuttara saddhā => lokiya & lokuttara sukha
+        -   saddhādura: those who practise with faith as the chief
+    -   **Suladdhalābhaṃ labhitvā suppatiṭṭhito bhavāhi**: asaṁhāriyasaddhā: unshakeable faith
+        -   faith of ariyas
+        -   niviṭṭha: well established in kusala
+        -   mūlajātā: arisen with its root
+            -   upāya-manasikāra: methodical reflection, the root-cause of placing trust in an object
+            -   or the 4 sotāpattiaṅga:
+                -   sappurisasaṁseva
+                -   saddhammassavaṇaṁ
+                -   analytical reflection
+                -   dhammānudhamma paṭipatti
+        -   asaṃhāriya: cannot removed by anyone
+-   Notes:
+    -   encourage them to make abundant merits (dāna, sīla, etc.)
+        -   with the wish for the diminution of the host of Asuras and the augmentation of the host of deities
+    -   they provide him with the means to perform almsgiving
+    -   encourage him to establish others in the true Dhamma and the holy life
+    -   wise deities remove his sorrow, saying, “Come again and again among the deities”
+
+> **Ito bho sugatiṃ gaccha, manussānaṃ sahabyataṃ;  
+> Manussabhūto saddhamme, labha saddhaṃ anuttaraṃ.**  
+> From here, friend, may you go to a good destination,    
+> the companionship of human beings.    
+> May you acquire unsurpassed faith in the true Dhamma.  
+>  
+> **Sā te saddhā niviṭṭhassa, mūlajātā patiṭṭhitā;  
+> Yāvajīvaṃ asaṃhīrā, saddhamme suppavedite.**  
+> May your faith be steadfast, firmly rooted, well established,    
+> and unshakeable for life in the true Dhamma well proclaimed.
+
+
+
+1.  Other Qualities of Faith
+
+    -   Anugāmika: continually accompanies one
+    -   Anaññasādhāraṇa: not shared with others
+    -   Sabbasampattihetu: the cause of all successful attainments
+    -   Basis for lokiya lābha (as result of dāna, etc.)
+    -   SN:
+        -   Saddhā bandhati pātheyyaṃ: it bundles up provisions for the journey
+        -   Saddhā dutiyā purisassa: is a second companion
+        -   Saddhīdha vittaṃ purisassa: is wealth for a person
+        -   Saddhāhattho mahānāgo: the great nāga has faith as its trunk
+        -   Saddhā bījaṃ tapo vuṭṭhī: faith is the seed, austerity the rain
+        -   Saddhāya tarati oghan: through faith, one crosses the flood
+    -   AN: saddhesiko, bhikkhave, ariyasāvako akusalaṃ pajahati, kusalaṃ bhāveti, sāvajjaṃ pajahati, anavajjaṃ bhāveti, suddhaṃ attānaṃ pariharati.
+    -   The noble being, monks, has faith as a pillar
+
+2.  Dammavinaya Definitions
+
+    
+    It-a:
+    
+    -   Dhamma because of not departing from nature
+        Vinaya: because of guiding those able according to their dispostions
+    -   Dhamma: because of not departing from nature because of the attainment of upanissayasampatti
+        Vinaya: because it disciplines beings of little dust in their eyes (apparajakkhajātika) by means of the Dhamma
+    -   Vinaya: by means of the Dhamma alone, not by rods or weapons
+    -   Dhammavinaya: discipline accompanied by the Dhamma
+    -   Dhammavinaya: discipline for the sake of the Dhamma (with magga, phala, Nibbāna)
+    -   Dhammavinaya: discipline that proceeds from mahākaruṇā and sabbaññutaññāṇa
+    -   Dhamma: the Blessed One
+        Vinaya: having become Dhamma, the embodiment of Dhamma (dhammakāya), the master of Dhamma; the discipline belonging to that Dhamma, not to mere speculation (takkiyānaṃ), is Dhamma-Vinaya
+    -   Dhamma: maggaphala
+        Vinaya: discipline that operates within the sphere where the maggaphala is to be realized
+    
+    
+
+
+<a id="org41b5c91"></a>
+
+#### 5 Pubbanimittas of a Disrobing Monk
+
+
+Kusajātaka:
+
+-   **Saddhāpupphāni milāyanti**: flowers of faith wither
+-   **Sīlavatthāni kilissanti**: garments of morality become dirty
+-   **Kilesasedā muccanti**: sweat of defilements released
+-   **Sarīre maṅkutāya ceva ayasavasena ca dubbaṇṇiyaṃ okkamati**: unattractive appearance because of embarrassment and disgrace
+-   **Araññarukkhamūlasuññāgāresu nābhiramati**: no delight in the forest, at a tree foot, or in an empty hut
+
+
+
+
+<a id="orgc1b88de"></a>
+
+#### Appamāṇa & Nirūpadhi Kusala
+
+
+
+> **Kāyena kusalaṃ katvā, vācāya kusalaṃ bahuṃ;   
+> Manasā kusalaṃ katvā, appamāṇaṃ nirūpadhiṃ**   
+> Having done wholesome through body, speech, and mind,    
+> that is immeasurable and non-substrate
+
+-   **Appamāṇaṁ**: kusala that cuts off pamāṇa &#x2013; gross defilements (kāmarāga with diṭṭhi)
+-   **Nirūpadhiṁ**: kusala that abandon the 3 upadhis and depends on Nibbāna
+    -   because it involves the abandonment of
+        -   khandhūpadhi, which would otherwise arise after the seventh existence
+        -   abhisaṅkhārūpadhi that produces it
+        -   kilesūpadhi that is abandoned by the respective path
+    -   because it depends on Nibbāna, also known as nirūpadhi due to its non-arising of all upadhi
+
+> **Tato opadhikaṃ puññaṃ, katvā dānena taṃ bahuṃ;  
+> Aññepi macce saddhamme, brahmacariye nivesaya**  
+> Then, having performed so much substratal merit through giving,    
+> may you establish others in the true Dhamma and the holy life.
+
+
+
+
+<a id="orgb1a6445"></a>
+
+##### Opadhikapuñña
+
+
+
+-   merit that has upadhi as result; produces both:
+    -   attabhāvasampatti, 5 khandhas
+    -   and bhogasampatti, kāmaguṇa
+-   upadhi: bhava & khandhas: because they are the bases on which happiness and suffering are grounded
+
+
+
+
+<a id="org7e15731"></a>
+
+### Kāmūpapattisuttaṃ
+
+
+<a id="orgf1b1168"></a>
+
+#### 3 Kāmūpapatti
+
+
+**Kāmūpapatti**:
+
+-   kāmapaṭilābha: the attainment of sensual pleasure
+-   kāmapaṭisevana: indulgence in sensual pleasures
+
+Saṅgīti Sutta:
+
+-   **Paccupaṭṭhitakāmā**: those whose sensual objects are fixed (nibaddhakāma) (they cannot make them anew or modify them)
+    -   Manussā: take control (vasaṁ vattenti) of fixed sensual objects.
+        -   e.g., paying for enjoying sex with whatever woman one wants
+    -   Ekacce devā: devas in the 1st 4 deva realms
+        -   e.g., deva Pañcasikha
+    -   Ekacce vinipātikā: beings in apāya except nerayikas
+        -   e.g., a male fish controls a female fish; a male turtle a female turtle
+-   **Nimmānaratino**: those who delight in creating them (nimmitakāmā) &#x2013; nimmānarati devas
+    -   -a: they create various forms (nimminitvā nimminitvā) (blue, yellow, etc.) and control them
+        -   e.g., Manāpakāyika deities and V. Anuruddha (AN Anuruddha Sutta)
+            -   Kosambī, Ghosita's Park
+            -   manāpakāyika-devatā came and said they can control their
+                -   colour
+                -   pleasure
+                -   voice
+            -   he thought "may they become blue", and they did, etc.
+            -   one sang, one danced, one snapped her fingers, like a well-trained musical quintet
+            -   V. drew in his sense faculties
+            -   they thought "Master Anuruddha is not enjoying this", and disappeared on the spot
+            -   he approached the Buddha, informed what happened, and asked how many qualities a woman should possess to be reborn as a manāpakāyika devi
+            -   8 qualities:
+                -   She serves her husband respectfully and dutifully, showing agreeable conduct and pleasing speech
+                -   She honors and respectfully welcomes those whom her husband respects
+                -   She skillfully and diligently manages the household duties entrusted to her
+                -   She carefully supervises the household workers and ensures that each person receives proper care and food
+                -   She carefully protects and manages her husband’s wealth without wasting or squandering it
+                -   She has gone for refuge to the Buddha, Dhamma, and Saṅgha
+                -   She observes the five precepts and abstains from the five forms of misconduct
+                -   She is generous, free from miserliness, and delights in giving and sharing
+-   **Paranimmitavasavattino**: those who exercise control over objects created by others (paranimmitakāmā) &#x2013; paranimmitavasavattī devas
+    -   paranimmitesu kāmesu vasaṃ vattenti
+    -   -a: other devas, knowing the minds of the Paranimmitavasavattī deities, create sensual pleasures according to their desires, who then control and enjoy them through sex, etc.
+        -   How do they know their minds?
+            -   pakatisevanāvasena: by natural association, like a skilled cook who knows what a king prefers while eating
+
+> **Paccupaṭṭhitakāmā ca, ye devā vasavattino;  
+> Nimmānaratino devā, ye caññe kāmabhogino;**  
+> **Itthabhāvaññathābhāvaṃ, saṃsāraṃ nātivattare.**  
+> Those whose sensual objects are existent, those deities who exercise control, Those who delight in creating, and others who enjoy sensual objects—Whether in this present existence or in another, they do not pass beyond saṃsāra.
+
+
+
+
+<a id="orgfe031c7"></a>
+
+#### Rejected opinion: kāmakicca accomplished without sex
+
+
+Rejected Opinion: their kāmakicca is accomplished by merely by laughing, looking, embracing, and holding hands
+
+-   -a: no
+    -   kāmakicca is not accomplished without physical contact
+    -   sex is natural in all 6 deva realms
+
+> **Cha ete kāmāvacarā, sabbakāmasamiddhino;   
+> sabbesaṃ ekasaṅkhātaṃ, āyu bhavati kittako**  
+> These are the six classes of beings in the sense-sphere realm,    
+> all of whom are endowed with sensual pleasures.   
+> When their lifespans are reckoned together, how long do they amount to?
+
+
+
+
+<a id="org6b8b6f2"></a>
+
+### Vitakkasuttaṃ
+
+
+<a id="org6388f84"></a>
+
+#### 3 Akusalavitakkas
+
+
+
+-   **Anavaññattipaṭisaṃyutta Vitakka** (a thought concerned with not being despised)
+-   **Lābhasakkārasilokapaṭisaṃyutta Vitakka** (a thought concerned with gain, honour, and fame)
+-   **Parānuddayatāpaṭisaṃyutta Vitakka** (concerned with involvement in the affairs of others)
+
+> **Anavaññattisaṃyutto, lābhasakkāragāravo;   
+> Sahanandī amaccehi, ārā saṃyojanakkhayā.**  
+> ne concerned with not being despised, with gain, honour, and esteem,   
+> And one who delights in companionship is far from the destruction of the fetters.”   
+>  
+> **Yo ca puttapasuṃ hitvā, vivāhe saṃharāni (/saṅgahāni) ca;   
+> Bhabbo so tādiso bhikkhu, phuṭṭhuṃ sambodhimuttamaṁ**   
+> But having abandoned sons and herds, giving in marriage and possessions,   
+> Such a monk is capable of attaining supreme Enlightenment.”
+
+
+
+
+<a id="orgd57c510"></a>
+
+##### Anavaññattipaṭisaṃyutta Vitakka
+
+
+A (wrong) thought concerned with not being despised, with being praised or recognized or that occurs with it as its object
+
+-   "mā maṃ pare avajāniṃsu" based on jāti, gotta, kulaputtiya, vaṇṇapokkharatā, dhana, ajjhena, kammāyatana, sippāyatana, vijjāṭṭhāna, suta, paṭibhāna, etc.
+    -   A-Vbh: idhekacco jātiyā vā gottena vā kolaputtiyena vā vaṇṇapokkharatāya vā dhanena vā ajjhenena vā kammāyatanena vā sippāyatanena vā vijjāṭṭhānena vā sutena vā paṭibhānena vā aññataraññatarena vatthunā mā maṃ pare avajāniṃsūti. yo tattha gehasito takko vitakko micchāsaṅkappo – ayaṃ vuccati anavaññattipaṭisaṃyutto vitakko
+-   **Anavaññatti** (na + ava + √ñā + ti)
+    -   state of not being despised or looked down upon by others
+    -   sambhāvanakamyatā: desire for others:
+        -   not to despise one
+        -   to praise or recognize one
+
+
+
+
+<a id="org397aa7f"></a>
+
+##### Lābhasakkārasilokapaṭisaṃyutta Vitakka
+
+
+A (wrong) thought with the following as object:
+
+-   gain: such as robes
+-   honour
+-   and fame / praise
+
+
+
+
+<a id="org0b94fe8"></a>
+
+##### Parānuddayatāpaṭisaṃyutta Vitakka
+
+
+A thought concerned with involvement in the affairs of others
+
+-   **Parānuddayatā**: a thought that is associated with compassion toward others
+    -   para + anuddayatā (the state of compassion or sympathy)
+    -   -a: thought associated with
+        -   gehasita-pema: household-based affection, which resembles compassion
+        -   or anuddayatāpaṭirūpaka: affection that is a counterfeit of compassion
+    -   how is one "intimate in the village"?:
+        -   lives in association with laypeople
+        -   rejoices and sorrows with them
+        -   he is happy when they are happy and sad when they are sad
+        -   he involves himself in their affairs and duties
+
+
+
+
+<a id="orga0e431a"></a>
+
+#### Extra Akusalavitakkas
+
+
+
+-   **Khuddavitakka / Micchāsaṅkappa**
+    -   **Kāma- saṅkappa / vitakka**
+    -   **Byāpāda- saṅkappa / vitakka**
+    -   **Vihiṁsā- saṅkappa / vitakka**
+-   **Sukhumavitakka**: subtle akusalavitakkas
+    -   **Ñātivitakka**: thinking of one's parents
+        -   one thinks of the parents:
+            -   when facing difficulties
+            -   when practicing meditation (with gratitude)
+    -   **Janapadavitakka**: thinking of one's country
+    -   **Amaravitakka**: 
+        -   wishing to be a deva (amara)
+        -   thinking dukkarakiriya leads to Nibbāna
+        -   amaravikkhepa: 1 of 6 heretic wrong views
+    -   **Anavaññattipaṭisaṃyuttavitakka**: thinking of not being disrespected
+
+Meghiyasutta:
+
+> **Khuddā vitakkā sukhumā vitakkā, anugatā manaso uppilāvā;    
+> Ete avidvā manaso vitakke, hurā huraṃ dhāvati bhantacitto.**  
+> Trivial thoughts, subtle thoughts,  follow and stir up the mind.    
+> Without comprehending these mental thoughts, one runs back and forth with a wandering mind.
+
+ 
+
+
+<a id="orgfd48843"></a>
+
+### Upaparikkhasuttaṃ
+
+
+<a id="orgd2d8386"></a>
+
+#### 3 Outcomes of Examinining Things Properly (2 Methods)
+
+
+MN Uddesavibhaṅga Sutta method: V. Mahākaccāyana
+Buddha: Examine things in such a way that while he is examining them, his consciousness is:
+
+-   **Bahiddhā viññāṇaṃ avikkhittaṃ avisaṭaṃ**: not distracted and scattered externally because of following after rūpādinimitta and of being shackled by kāmassāda
+    -   note: same for the other faculties
+-   **Ajjhattaṁ asaṇṭhitaṁ**: not stuck internally due to attachment to jhāna due to following after the blissful jhāna experiences and being fettered by their assāda
+    -   1st jhāna: not following the "vivekajaṁ pītisukhaṁ" (rapture and pleasure born of seclusion) or being fettered by its assāda
+    -   2nd jhāna: not following the "samādhijaṁ pītisukhaṁ" (rapture and pleasure born of concentration) or being fettered by its assāda
+    -   3rd jhāna: not following the equanimity or being fettered by its assāda
+    -   4th jhāna: not following the neither-pain-nor-pleasure or being fettered by its assāda
+-   **Anupādānā aparitassanā**: agitation due to clinging (-a: through views)
+    -   andhabālaputhujjana
+        -   seeing khandhas as attā: 20 sakkāyadiṭṭhis
+            -   rūpaṃ attato samanupassati: regards rūpa as self
+                -   like the flame is identical with its colour
+            -   rūpavantaṃ vā attānaṃ samanupassati: regards the self as possessing rūpa
+                -   like a tree possesses a shadow
+            -   attani vā rūpaṃ samanupassati: regards rūpa as being *in* the self
+                -   like a scent is *in* the flower
+            -   rūpasmiṃ vā attānaṃ samanupassati: regards the self as being *in* rūpa
+                -   like a jewel is in a casket
+            -   note:
+                -   same for the other 4 khandhas
+                -   2 additional ones from yamakasutta: 
+                    -   rūpaṃ vedanaṃ saññaṃ saṅkhāre viññāṇaṃ attato samanupassati: regards all 5 aggregates as the self
+                    -   arūpiṃ avedanaṃ asaññaṃ asaṅkhāraṃ aviññāṇaṃ attānaṃ samanupassati: regards the self to be something other than the 5 khandhas
+        -   when the khandhas change, he is preoccupied, agitated, obsessed, anxious, distressed, concerned
+    -   ariyasāvaka: not so
+
+Itv-a method: in vipassanā context: discern formations starting with samathanimitta and then sammasanañāṇa
+
+-   **Bahiddhā viññāṇaṃ avikkhittaṃ avisaṭaṃ**: his vipassanācitta is not distracted externally taking saṅkhāras apart from the meditation object
+    -   accāraddhavīriya: overly aroused energy, which leads to such distraction
+-   **Ajjhattaṁ asaṇṭhitaṁ**: doesn't shrink into the meditation object
+    -   Ajjhatta: gocarajjhatta; meditation subject
+    -   Asaṇṭhita: doesn't shrink (balanced effort & concentration)
+        -   if effort is weak and concentration is strong: shrinking due to laziness
+    -   4 Ajjhattas
+        -   Gocarajjhatta: meditation subject (meant here)
+        -   Niyakajjhatta
+        -   Visayajjhatta
+        -   Ajjhattajjhatta
+-   **Anupādānā aparitassanā**: not agitated because he doesn't grasp saṅkhāras with craving and diṭṭhi as "etaṃ mama, eso me attā"
+-   Notes:
+    -   balance effort by avoiding
+        -   uddhacca-pakkhiyadhamma
+        -   and kosajja-pakkhiyadhamma
+    -   purifies vipassanūpakkilesa
+    -   paṭipadāñāṇadassanavisuddhi begins
+    -   magga destroys defilements
+    -   birth, etc. removed
+
+If so, for him, there is no origination of suffering in the future
+
+-   method 1: of birth, ageing, and death
+-   method 2
+    -   origin of suffering: birth
+    -   arising of suffering: jarāmaraṇaṁ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 {% include toc.html %}
