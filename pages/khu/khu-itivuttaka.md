@@ -1354,6 +1354,7 @@ questions-and-answers; catechism; one of the nine kinds of suttas; lit. to be sp
 <a id="org5be0483"></a>
 
 ## Tikanipāta
+
 ### Dutiyavedanāsuttaṃ
 
 <a id="org2854538"></a>
@@ -1551,7 +1552,6 @@ All beings are:
                 -   for the wise, upekkhā is sukha (peace, 4th jhāna, etc.)
                     -   for the one who overcomes attachment to sukha, upekkhā is higher sukha (coming from the 3rd jhāna to the 4th)
                 -   for the fool, upekkhā is dukkha (lack of sukha, boring, etc.)
-                -
             -   Encyclopedia of Buddhism: V. Anālaya:
                 -   sukha when known: during contemplation, it can be experienced as pleasurable; a pleasure derived from the presence of knowledge
                 -   dukkha when not known: experienced as "boring", or leading to boredom, which leads to the pursuit of sense pleasures
