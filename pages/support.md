@@ -5,160 +5,77 @@ permalink: /support
 ---
 
 # 🌐 Monastic Support Fund / 🇪🇸 Fondo de Apoyo Monástico / 🇧🇷 Fundo de Apoio Monástico
-## Wise
-### From within SEPA (Single Euro Payment Area)
 
-https://wise.com/pay/me/giselev7
+Hello and welcome. This is the *kappiya* (lay attendant) section for Bhante Ariyañāṇa Thera to support his monastic life and Dhamma work. According to the *Vinaya* (the Buddhist monastic code of conduct), monks are strictly prohibited from handling, receiving, or storing money so we manage all financial matters on his behalf in accordance with Rājasikkhāpada rule.
 
-Currency: EUR
+Hola y bienvenidos. Esta es la sección de los *kappiyas* (asistente laicos) del Bhante Ariyañāṇa Thera para apoyar su vida monástica y su labor en el Dhamma. De acuerdo con el *Vinaya* (el código de conducta monástico budista), los monjes tienen estrictamente prohibido manejar, recibir o almacenar dinero, por lo que administramos todos los asuntos financieros en su nombre de acuerdo con la regla del Rājasikkhāpada.
 
-### From outside SEPA
+Olá e bem-vindos. Esta é a seção dos *kappiyas* (atendente leigos) do Bhante Ariyañāṇa Thera para apoiar sua vida monástica e seu trabalho com o Dhamma. De acordo com o *Vinaya* (o código de conduta monástica budista), os monges são estritamente proibidos de manusear, receber ou armazenar dinheiro, portanto, gerenciamos todos os assuntos financeiros em seu nome, de acordo com a regra do Rājasikkhāpada.
 
-Nombre: Gisele Domit Cervo
+---
 
-IBAN: BE71 9059 5484 5169
+## 🇧🇷 Se você está no Brasil
 
-Swift/BIC: TRWIBEB1XXX
+Você pode fazer uma transferência local instantânea via **Pix**, sem taxas internacionais[span_0](start_span)[span_0](end_span).
+* **Método:** Pix[span_1](start_span)[span_1](end_span)
+* **Banco:** Banco Itaú[span_2](start_span)[span_2](end_span)
+* **Chave Pix:** `50537113053`[span_3](start_span)[span_3](end_span)
+* **Agência e Conta:** Ag 9211 CC 22508-2[span_4](start_span)[span_4](end_span)
+* **Titular:** Gisele Cervo[span_5](start_span)[span_5](end_span)
+* **Referência:** `Monastic Support - Ven. X`[span_6](start_span)[span_6](end_span)
 
-Dirección: Wise, Rue du Trône 100, 3rd floor, Brussels, 1050, Belgium
+---
 
-## International Institute of Theravāda: Ariyañāṇa Thera (Personal Account)
+## 🇪🇸 Si estás en España
 
-https://www.theravado.com/howtosupport
+Puedes realizar una transferencia bancaria nacional estándar o una transferencia SEPA.
+* **Banco:** Wise (Rue du Trône 100, 3rd floor, Brussels, 1050, Belgium)
+* **IBAN:** `BE71 9059 5484 5169`
+* **Swift/BIC:** `TRWIBEB1XXX`
+* **Titular:** Gisele Domit Cervo
+* **Referencia:** `Monastic Support - Ven. X`
 
-Specify the purpose and recipient
+---
 
+## 🌍 If you are elsewhere internationally
 
+You can send funds safely using Wise.
+* **Wise Online Transfer (EUR):** [https://wise.com/pay/me/giselev7](https://wise.com/pay/me/giselev7)
+<!-- * **PayPal:** [Insert PayPal Link/Email here] -->
+* **Reference:** `Monastic Support - Ven. X`
 
+---
+
+## 🏛️ International Institute of Theravāda: Ariyañāṇa Thera (Personal Account)
+
+* **Website & Instructions:** [https://www.theravado.com/howtosupport](https://www.theravado.com/howtosupport)
+* *Note: Please specify the purpose and recipient.*
+
+---
 
 <!-- 
-🇬🇧 English
+## 📦 Sending Items Directly to the Monk
 
-Hello, and welcome. My name is [Kappiya's Name], and I serve as the *kappiya* (lay attendant) for Venerable X to support his monastic life and Dhamma work. 
+If you prefer to offer physical requisites directly (like books or allowable medicines), you can purchase them via our online shopping lists:
+* [Link to Amazon Wishlist / Daraz Account / Shipping Address]
+-->
 
-According to the *Vinaya* (the Buddhist monastic code of conduct), Theravada monks are strictly prohibited from handling, receiving, or storing money. To ensure Venerable X can practice purely and focus entirely on his Dhamma work without violating these rules, I manage all financial matters on his behalf. I hold these funds in a dedicated, separate custody account used strictly to provide his allowable requisites (*kappiya-vatthu*) such as medical care, travel for Dhamma propagation, and basic study materials. 
+<!-- 
+## 📊 Transparency Ledger
 
-If you wish to support Venerable X, you can do so through the methods below:
-
-### How to Support
-
-#### 🇧🇷 If you are in Brazil
-You can make an instant local transfer via **Pix** with no international fees.
-*   **Method:** Pix
-*   **Pix Key:** `[Insert Wise BRL Pix Key here]`
-*   **Account Holder:** [Kappiya's Legal Name]
-*   **Important Reference:** Please always include the note: `Monastic Support - Ven. X`
-
-#### 🇪🇸 If you are in Spain
-You can make a standard national bank transfer or a SEPA transfer.
-*   **Bank:** [Insert Spanish Bank Name]
-*   **IBAN:** `[Insert Spanish IBAN here]`
-*   **Account Holder:** [Kappiya's Legal Name]
-*   **Important Reference:** Please always include the note: `Monastic Support - Ven. X`
-
-#### 🌍 If you are elsewhere internationally
-You can send funds safely using Wise or PayPal.
-*   **Wise Transfer (Preferred):** Send to the Spanish IBAN above or via the email linked to the account: `[Insert Wise Email here]`.
-*   **PayPal:** `[Insert PayPal Link/Email here]`
-*   **Important Reference:** Please always include the note: `Monastic Support - Ven. X`
-
-#### 📦 Sending Items Directly to the Monk
-If you prefer to offer physical requisites directly (like books, allowable medicines, or items needed at his location), you can purchase them and have them shipped straight to him via our online shopping lists:
-*   [Link to Amazon Wishlist / Daraz Account / Shipping Address]
-
-### Transparency Ledger
-To maintain complete accountability, every single donation and expense is recorded in a public ledger. You can view the real-time, anonymized bookkeeping sheet here:
-👉 **[Link to Google Sheets Transparency Ledger]**
-
-
-🇪🇸 Español
-
-Hola y bienvenidos. Mi nombre es [Kappiya's Name] y actúo como *kappiya* (asistente laica) del Venerable X para apoyar su vida monástica y su labor en el Dhamma.
-
-De acuerdo con el *Vinaya* (o código de conducta monástico budista), los monjes Theravada tienen estrictamente prohibido manejar, recibir o almacenar dinero. Para asegurar que el Venerable X pueda practicar de forma pura y concentrarse plenamente en su labor sin infringir estas reglas, yo administro todos los asuntos financieros en su nombre. Mantengo estos fondos en una cuenta de custodia separada y dedicada, utilizada estrictamente para proveer sus requisitos permitidos (*kappiya-vatthu*), tales como atención médica, viajes de propagación del Dhamma y materiales de estudio básicos.
-
-Si desea apoyar al Venerable X, puede hacerlo a través de los siguientes métodos:
-
-### Cómo Apoyar
-
-#### 🇧🇷 Si estás en Brasil
-Puedes realizar una transferencia local instantánea vía **Pix** sin comisiones internacionales.
-*   **Método:** Pix
-*   **Clave Pix:** `[Insertar Clave Pix de Wise BRL aquí]`
-*   **Titular de la cuenta:** [Nombre legal de la Kappiya]
-*   **Referencia importante:** Por favor, incluya siempre la nota: `Monastic Support - Ven. X`
-
-#### 🇪🇸 Si estás en España
-Puedes realizar una transferencia bancaria nacional estándar o transferencia SEPA.
-*   **Banco:** [Insertar nombre del banco español]
-*   **IBAN:** `[Insertar IBAN español aquí]`
-*   **Titular de la cuenta:** [Nombre legal de la Kappiya]
-*   **Referencia importante:** Por favor, incluya siempre la nota: `Monastic Support - Ven. X`
-
-#### 🌍 Si estás en cualquier otro lugar del mundo
-Puedes enviar fondos de forma segura utilizando Wise o PayPal.
-*   **Transferencia Wise (Preferido):** Envía al IBAN español detallado arriba o mediante el correo electrónico vinculado a la cuenta: `[Insertar correo de Wise aquí]`.
-*   **PayPal:** `[Insertar enlace o correo de PayPal aquí]`
-*   **Referencia importante:** Por favor, incluya siempre la nota: `Monastic Support - Ven. X`
-
-#### 📦 Enviar artículos directamente al monge
-Si prefiere ofrecer requisitos físicos directamente (como libros, medicinas permitidas o artículos necesarios en su ubicación), puede comprarlos y enviárselos directamente a través de nuestras listas de compras en línea:
-*   [Enlace a la lista de Amazon / Cuenta de Daraz / Dirección de envío]
-
-### Libro de Transparencia
-Para mantener una total rendición de cuentas, cada donación y gasto se registra en un libro público. Puede ver la hoja de contabilidad anonimizada en tiempo real aquí:
-👉 **[Enlace al Libro de Transparencia en Google Sheets]**
-
-***
-
-## 🇧🇷 Português
-
-Olá e bem-vindos. Meu nome é [Kappiya's Name] e atuo como *kappiya* (atendente leiga) do Venerável X para apoiar sua vida monástica e seu trabalho com o Dhamma.
-
-De acordo com o *Vinaya* (o código de conduta monástica budista), os monges Theravada são estritamente proibidos de manusear, receber ou armazenar dinheiro. Para garantir que o Venerável X possa praticar de forma pura e se concentrar inteiramente em seu trabalho sem violar essas regras, eu gerencio todos os assuntos financeiros em seu nome. Mantenho esses fundos em uma conta de custódia separada e dedicada, usada estritamente para fornecer seus requisitos permitidos (*kappiya-vatthu*), como cuidados médicos, viagens para propagação do Dhamma e materiais básicos de estudo.
-
-Se você deseja apoiar o Venerável X, pode fazê-lo através dos métodos abaixo:
-
-### Como Apoiar
-
-#### 🇧🇷 Se você está no Brasil
-Você pode fazer uma transferência local instantânea via **Pix**, sem taxas internacionais.
-*   **Método:** Pix
-*   **Chave Pix:** `[Insira a Chave Pix da Wise BRL aqui]`
-*   **Titular da Conta:** [Nome Legal da Kappiya]
-*   **Referência Importante:** Por favor, inclua sempre a nota na mensagem: `Monastic Support - Ven. X`
-
-#### 🇪🇸 Se você está na Espanha
-Você pode fazer uma transferência bancária nacional padrão ou uma transferência SEPA.
-*   **Banco:** [Insira o nome do banco espanhol]
-*   **IBAN:** `[Insira o IBAN espanhol aqui]`
-*   **Titular da Conta:** [Nome Legal da Kappiya]
-*   **Referência Importante:** Por favor, inclua sempre a nota na mensagem: `Monastic Support - Ven. X`
-
-#### 🌍 Se você está em qualquer outro lugar do mundo
-Você pode enviar fundos com segurança usando o Wise ou o PayPal.
-*   **Transferência via Wise (Preferencial):** Envie para o IBAN espanhol acima ou através do e-mail vinculado à conta: `[Insira o e-mail do Wise aqui]`.
-*   **PayPal:** `[Insira o link/e-mail do PayPal aqui]`
-*   **Referência Importante:** Por favor, inclua sempre a nota na mensagem: `Monastic Support - Ven. X`
-
-#### 📦 Envio de Itens Diretamente para o Monge
-Se você preferir oferecer requisitos físicos diretamente (como livros, remédios permitidos ou itens necessários na localização atual dele), você pode comprá-los e enviá-los diretamente através das nossas listas de compras online:
-*   [Link para o Amazon Wishlist / Conta do Daraz / Endereço de Envio]
-
-### Planilha de Transparência
-Para manter total prestação de contas, cada doação e gasto é registrado em um livro caixa público. Você pode visualizar a planilha de contabilidade anonimizada em tempo real aqui:
-👉 **[Link para a Planilha de Transparência no Google Sheets]**
+To maintain complete accountability, every donation and expense is recorded in a public ledger:
+👉 [Link to Google Sheets Transparency Ledger]
+-->
 
 ---
 
 ### ⚖️ Legal Disclaimers / Descargos de Responsabilidad / Avisos Legais
 
-> **EN:** *All funds sent to the accounts listed above are voluntary gifts allocated to a dedicated, non-personal monastic custody fund strictly utilized for the health, travel, and monastic maintenance of the monk. The account manager receives no personal income, salary, or financial benefit from these funds.*
+> **EN:** All funds sent above are voluntary gifts allocated to a dedicated, non-personal monastic custody fund utilized strictly for the health, travel, and maintenance of the monk. The account manager receives no personal income or financial benefit.
 >
-> **ES:** *Todos los fondos enviados a las cuentas detalladas arriba son donaciones voluntarias destinadas a un fondo de custodia monástica dedicado y no personal, utilizado estrictamente para la salud, viajes y manutención monástica del monje. La administradora de la cuenta no recibe ningún ingreso personal, salario ni beneficio económico de estos fondos.*
+> **ES:** Todos los fondos enviados son donaciones voluntarias destinadas a un fondo de custodia monástica dedicado y no personal, utilizado estrictamente para la salud, viajes y manutención del monje. La administradora no recibe ningún beneficio económico.
 >
-> **PT:** *Todos os fundos enviados para as contas listadas acima são doações voluntárias destinadas a um fundo de custódia monástica dedicado e não pessoal, utilizado estritamente para a saúde, viagens e manutenção monástica do monge. A gestora da conta não recebe nenhuma renda pessoal, salário ou benefício financeiro destes fundos.*
+> **PT:** Todos os fundos enviados são doações voluntárias destinadas a um fundo de custódia monástica dedicado e não pessoal, utilizado estritamente para a saúde, viagens e manutenção do monge. A gestora não recebe nenhum benefício financeiro.
 
 ---
 {% include toc.html %}
-	
