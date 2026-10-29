@@ -24,7 +24,7 @@ Você pode fazer uma transferência local instantânea via **Pix**, sem taxas in
 * **Chave Pix:** `50537113053`
 * **Agência e Conta:** Ag 9211 CC 22508-2
 * **Titular:** Gisele Cervo
-* **Referência:** `Monastic Support - Ven. X`
+* **Referência:** `Monastic Support`
 
 ---
 
@@ -35,7 +35,7 @@ Puedes realizar una transferencia bancaria nacional estándar o una transferenci
 * **IBAN:** `BE71 9059 5484 5169`
 * **Swift/BIC:** `TRWIBEB1XXX`
 * **Titular:** Gisele Domit Cervo
-* **Referencia:** `Monastic Support - Ven. X`
+* **Referencia:** `Monastic Support`
 
 ---
 
@@ -43,12 +43,9 @@ Puedes realizar una transferencia bancaria nacional estándar o una transferenci
 
 You can send funds safely using Wise.
 * **Wise Online Transfer (EUR):** [https://wise.com/pay/me/giselev7](https://wise.com/pay/me/giselev7)
-<!-- * **PayPal:** [Insert PayPal Link/Email here] -->
-* **Reference:** `Monastic Support - Ven. X`
+* **Reference:** `Monastic Support`
 
----
-
-## 🏛️ International Institute of Theravāda: Ariyañāṇa Thera (Personal Account)
+🏛️ International Institute of Theravāda: Ariyañāṇa Thera (Personal Account)
 
 * **Website & Instructions:** [https://www.theravado.com/howtosupport](https://www.theravado.com/howtosupport)
 * *Note: Please specify the purpose and recipient.*
